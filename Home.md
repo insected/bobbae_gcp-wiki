@@ -1,1 +1,1 @@
-Welcome to the gcp wiki!
+Welcome to the GCP wiki!
