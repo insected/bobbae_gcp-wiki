@@ -22,7 +22,7 @@
     + [Configmaps & Secrets](#configmaps---secrets)
     + [Stateful Sets](#stateful-sets)
     + [DaemonSet](#daemonset)
-    + [CRD (Custom Resource Definition)](#crd--custom-resource-definition-)
+    + [CRD](#crd)
     + [Operator Pattern](#operator-pattern)
       - [Operator Hub](#operator-hub)
       - [Operator Sprawl](#operator-sprawl)
@@ -209,7 +209,9 @@ A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are a
 [https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
 
-#### CRD (Custom Resource Definition)
+#### CRD
+
+CRD stands for  Custom Resource Definition.
 
 A resource is an endpoint in the [Kubernetes API](https://kubernetes.io/docs/reference/using-api/api-overview/) that stores a collection of [API objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) of a certain kind; for example, the built-in pods resource contains a collection of Pod objects.
 
