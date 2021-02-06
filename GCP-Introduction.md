@@ -1,3 +1,23 @@
+- [Google Cloud Platform](#google-cloud-platform)
+  * [Introduction](#introduction)
+    + [GCP Youtube Channel](#gcp-youtube-channel)
+    + [GCP Useful Links](#gcp-useful-links)
+    + [Summary of GCP Services](#summary-of-gcp-services)
+  * [Compare Platforms](#compare-platforms)
+  * [Google Cloud setup checklist](#google-cloud-setup-checklist)
+  * [Basic Tools](#basic-tools)
+    + [Cloud SDK](#cloud-sdk)
+    + [Cloud Shell](#cloud-shell)
+  * [Tutorials](#tutorials)
+  * [Whitepapers](#whitepapers)
+  * [Borg](#borg)
+  * [Qwiklabs](#qwiklabs)
+    + [GCP Essentials](#gcp-essentials)
+    + [Cloud Architecture](#cloud-architecture)
+    + [Cloud Engineering](#cloud-engineering)
+    + [Manage Cloud Environments](#manage-cloud-environments)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Google Cloud Platform
 
