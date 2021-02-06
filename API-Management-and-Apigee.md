@@ -1,0 +1,58 @@
+- [API Management, Apigee](#api-management--apigee)
+  * [Apigee API Platform](#apigee-api-platform)
+  * [Apigee Developer Portal](#apigee-developer-portal)
+  * [Apigee Sense](#apigee-sense)
+  * [Apigee API Analytics](#apigee-api-analytics)
+  * [Apigee API Monetization](#apigee-api-monetization)
+  * [Apigee Hybrid](#apigee-hybrid)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+## API Management, Apigee
+
+Apigee is a Full-LifeCycle API Management tool.
+
+[https://www.youtube.com/watch?v=-okdOGsitm8](https://www.youtube.com/watch?v=-okdOGsitm8)
+
+
+### Apigee API Platform
+
+With Apigee, you can build API proxies—RESTful, HTTP-based APIs that interact with your services. With easy-to-use APIs, developers can be more productive, increasing your speed to market.
+
+[https://docs.apigee.com/](https://docs.apigee.com/)
+
+
+### Apigee Developer Portal
+
+Using the Drupal portal development tools, you can build a fully customizable developer portal. Drupal provides a rich set of functionality and all the CMS capabilities of Drupal with additional Apigee-developed Drupal modules. However, implementing a Drupal-based portal requires more time and effort.
+
+[https://docs.apigee.com/api-platform/publish/developer-portal#integrated-portal](https://docs.apigee.com/api-platform/publish/developer-portal#integrated-portal)
+
+
+### Apigee Sense
+
+Apigee Sense protects your APIs from unwanted request traffic, including attacks from malicious clients. Apigee Sense analyzes API request traffic, identifying patterns that might represent unwanted requests.
+
+[https://docs.apigee.com/sense/what-apigee-sense](https://docs.apigee.com/sense/what-apigee-sense)
+
+
+### Apigee API Analytics
+
+Edge API Analytics collects and calculates a wealth of information that flows through API proxies. You can visualize this data with graphs and charts in the Edge UI, or you can download the raw data for offline analysis using the Edge management APIs.
+
+[https://docs.apigee.com/api-platform/analytics/analytics-services-overview](https://docs.apigee.com/api-platform/analytics/analytics-services-overview)
+
+
+### Apigee API Monetization
+
+As an API provider, you need an easy-to-use and flexible way to monetize your APIs so that you can generate revenue for the use of your APIs. Using monetization in Apigee Edge, you can create a variety of monetization plans that charge developers (or pay them through revenue sharing) for the use of your APIs.
+
+[https://docs.apigee.com/api-platform/monetization/basics-monetization/](https://docs.apigee.com/api-platform/monetization/basics-monetization/)
+
+
+### Apigee Hybrid
+
+Apigee hybrid is a platform for developing and managing API proxies that features a hybrid deployment model. The hybrid model includes a management plane hosted by Apigee in the Cloud and a runtime plane that you install and manage on one of the [supported Kubernetes platforms](https://cloud.google.com/apigee/docs/hybrid/v1.3/install-before-begin#supported-platforms).
+
+[https://docs.apigee.com/hybrid/what-is-hybrid](https://docs.apigee.com/hybrid/what-is-hybrid)
+
