@@ -74,8 +74,7 @@ And go look around at
 
 [A Tour of Qwiklabs and Google Cloud](https://www.qwiklabs.com/focuses/2794?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467708)
 
-If you don’t get Qwiklabs credit in a few days, let me know and I will send you some credit to your account.
-
+If you don’t get Qwiklabs credit in a few days, you can still sign up to use [free tier Google cloud services](https://cloud.google.com/free) and do the labs there.
 
 ### Git
 
