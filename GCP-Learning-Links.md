@@ -2,7 +2,6 @@
 - [Free GCP learning resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb)
 - [Awesome links for GCP certifications](https://github.com/sathishvj/awesome-gcp-certifications)
 - [Awesome links for info on GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
-- [Videos for Awesome GCP](https://github.com/gnkr8/awesome-gcp)
 - [Awesome links for Cloud Run](https://github.com/steren/awesome-cloudrun)
 - [Awesome links for Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
 
