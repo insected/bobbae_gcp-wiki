@@ -45,3 +45,7 @@
 - [Cloud Shell Quick Starts](https://cloud.google.com/shell/docs/quickstart)
 - [Open in Cloud Shell](https://cloud.google.com/shell/docs/open-in-cloud-shell)
 - [Writing Tutorials in Cloud Shell](https://cloud.google.com/shell/docs/cloud-shell-tutorials/tutorials)
+
+- [Codelabs](https://codelabs.developers.google.com/)
+- [Codelabs Tools](https://github.com/googlecodelabs/tools)
+- [Publishing Tutorials in Codelab format](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd)
