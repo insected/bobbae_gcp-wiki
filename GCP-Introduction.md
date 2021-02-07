@@ -66,6 +66,9 @@ A list GCP Architecture references.
 
 [https://gcp.solutions/](https://gcp.solutions/)
 
+A list of samples.
+
+[https://cloud.google.com/docs/samples](https://cloud.google.com/docs/samples)
 
 #### Summary of GCP Services
 
