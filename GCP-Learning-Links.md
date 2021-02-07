@@ -42,3 +42,6 @@
 - [Awesome links for Cloud Run](https://github.com/steren/awesome-cloudrun)
 - [Awesome links for Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
 
+- [Cloud Shell Quick Starts](https://cloud.google.com/shell/docs/quickstart)
+- [Open in Cloud Shell](https://cloud.google.com/shell/docs/open-in-cloud-shell)
+- [Writing Tutorials in Cloud Shell](https://cloud.google.com/shell/docs/cloud-shell-tutorials/tutorials)
