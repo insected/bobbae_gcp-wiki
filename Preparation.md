@@ -89,7 +89,10 @@ If you are not familiar with git, you should learn to use it. You should create 
 
 ### Certifications
 
-You can try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after four weeks.  
+You can try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after studying the 
+materials in this document for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
+Being certified by Google does not necessarily mean that you know everything you need to know. But it does have a value in letting others
+know that you have necessary amount of GCP knowledge to pass the exams.
 
 #### Register Now
 
