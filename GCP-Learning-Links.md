@@ -4,6 +4,8 @@
 - [Google Cloud Community links](https://cloud.google.com/community) 
 - [Tutorials](https://cloud.google.com/community#home-tutorials)
 - [Open source](https://cloud.google.com/community#home-oss)
+- [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
+- [Terraform Google Modules](https://github.com/terraform-google-modules)
 - [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
 - [Awesome List](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
