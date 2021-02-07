@@ -76,6 +76,11 @@ And go look around at
 
 If you don’t get Qwiklabs credit in a few days, you can still sign up to use [free tier Google cloud services](https://cloud.google.com/free) and do the labs there.
 
+### Codelabs
+
+[Codelabs](https://codelabs.developers.google.com/) provide a guided, step-by-step learning experience on a wide range of topics on GCP.
+Once you are comfortable with it, you may try [creating your own Codelab](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd) tutorials. You may need [Codelab as a thing](https://github.com/zarinlo/tools).
+
 ### Git
 
 If you are not familiar with git, you should learn to use it. You should create accounts using your  email address at [github](https://www.youtube.com/watch?reload=9&v=w3jLJU7DT5E) and [gitlab](https://www.youtube.com/watch?v=7q9Y1Cv-ib0).
