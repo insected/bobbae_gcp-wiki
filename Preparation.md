@@ -230,37 +230,37 @@ Here are some example 8 weeks programs that can be presented using the materials
   <tr>
    <td>1
    </td>
-   <td>Compute
+   <td>[Compute](https://github.com/bobbae/gcp/wiki/Compute)
    </td>
   </tr>
   <tr>
    <td>2
    </td>
-   <td>Storage
+   <td>[Storage](https://github.com/bobbae/gcp/wiki/Storage)
    </td>
   </tr>
   <tr>
    <td>3
    </td>
-   <td>Networking
+   <td>[Networking](https://github.com/bobbae/gcp/wiki/Networking)
    </td>
   </tr>
   <tr>
    <td>4
    </td>
-   <td>Migration, GKE
+   <td>[Migration](https://github.com/bobbae/gcp/wiki/Migration), [GKE](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)
    </td>
   </tr>
   <tr>
    <td>5
    </td>
-   <td>Security
+   <td>[Security](https://github.com/bobbae/gcp/wiki/Security)
    </td>
   </tr>
   <tr>
    <td>6
    </td>
-   <td>Infrastructure as Code
+   <td>[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)
    </td>
   </tr>
   <tr>
