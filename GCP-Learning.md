@@ -10,7 +10,7 @@
 - [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine)
 - [Compute Options](https://github.com/bobbae/gcp/wiki/Compute-Options)
 - [Kubernetes Engine and Containers](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)
-- [Storage](https://github.com/bobbae/gcp/wiki/GCP-Storage)
+- [Storage](https://github.com/bobbae/gcp/wiki/Storage)
 - [Data Engineering](https://github.com/bobbae/gcp/wiki/Data-Engineering)
 - [Data Science](https://github.com/bobbae/gcp/wiki/Data-Science)
 - [Databases](https://github.com/bobbae/gcp/wiki/Databases)
