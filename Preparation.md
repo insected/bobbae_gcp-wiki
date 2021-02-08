@@ -218,387 +218,45 @@ Here are some example 8 weeks programs that can be presented using the materials
 
 
 #### GCP Infrastructure General Overview Course
-|   Week  |  Topics                                                             |
+
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
 |    1    |[Compute](https://github.com/bobbae/gcp/wiki/Compute)      |
 |    2    |[Storage](https://github.com/bobbae/gcp/wiki/Storage)      |
-|    1    |[Networking](https://github.com/bobbae/gcp/wiki/Networking)      |
-|    1    |[Migration](https://github.com/bobbae/gcp/wiki/Migration), [GKE](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)  |
-|    1    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
-|    1    |[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)   |
-|    1    |Group Project   |
-|    1    |Reviews    |
-
-
-<table>
-  <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Topics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>[Compute](https://github.com/bobbae/gcp/wiki/Compute)
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>[Storage](https://github.com/bobbae/gcp/wiki/Storage)
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>[Networking](https://github.com/bobbae/gcp/wiki/Networking)
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>[Migration](https://github.com/bobbae/gcp/wiki/Migration), [GKE](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>[Security](https://github.com/bobbae/gcp/wiki/Security)
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Group Project
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Reviews
-   </td>
-  </tr>
-</table>
-
-
- 
-
+|    3    |[Networking](https://github.com/bobbae/gcp/wiki/Networking)      |
+|    4   |[Migration](https://github.com/bobbae/gcp/wiki/Migration), [GKE](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)  |
+|    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
+|    6    |[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)   |
+|    7    |Group Project   |
+|    8    |Reviews    |
 
 #### GCP Data Engineering Course
 
-
-<table>
-  <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Topics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Dataproc, Hadoop, Spark
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>BigQuery
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Dataflow, Pub/Sub
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>Airflow
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>BigTable, CloudSQL, Datastore
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Spanner, Firestore, Firebase
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Group Project
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Reviews
-   </td>
-  </tr>
-</table>
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
+|    1    |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc), [Hadoop](https://hadoop.apache.org/), [Spark](https://spark.apache.org/) |    |
+|    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
+|    3    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow) , [Pub/Sub](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-pub-sub)      |
+|    4   |[Cloud Composer](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-composer)  |
+|    5    |[BigTable](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-bigtable), [CloudSQL](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-sql), [Datastore](https://github.com/bobbae/gcp/wiki/Data-Engineering#datastore) |
+|    6    |[Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner), [Firestore](https://github.com/bobbae/gcp/wiki/Data-Engineering#firestore), [Firebase](https://github.com/bobbae/gcp/wiki/Data-Engineering#firebase)  |
+|    7    |Group Project   |
+|    8    |Reviews    | 
 
 
-
-#### GCP Data Science Course
-
-
-<table>
-  <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Topics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>AI Platform, Jupyter
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>Machine Learning, AutoML
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Vision, Speech, Classification
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>Regression, Bayes, Neural Net
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>Keras, TensorFlow
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Scikit Learn, Prediction, Kubeflow
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Group Project
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Reviews
-   </td>
-  </tr>
-</table>
-
-
- 
 
 
 #### GCP Networking Course
 
-
-<table>
-  <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Topics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Connectivity Options, Overview
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>VPC
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Router
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>VPN, Interconnect
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>DNS, CDN, NAT, LB
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Security
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Group Project
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Reviews
-   </td>
-  </tr>
-</table>
-
-
-
-#### GCP DevOps Course
-
-
-<table>
-  <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Topics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Infrastructure as Code
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>CI/CD, Repository, Registry
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Kubernetes
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>GitOps
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>Workflows
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Testing, monitoring
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Group Project
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Reviews
-   </td>
-  </tr>
-</table>
-
-
-
-#### GCP Workspace (G Suite) Course
-
-
-<table>
-  <tr>
-   <td><strong>Week</strong>
-   </td>
-   <td><strong>Topics</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Essentials
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>Gmail, Meet, Google Drive
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Sites, Sheets, Calendar
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>Hangouts, Big Data
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>Integrations
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>G Suite Admin
-   </td>
-  </tr>
-  <tr>
-   <td>7
-   </td>
-   <td>Group Project
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td>Reviews
-   </td>
-  </tr>
-</table>
-
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
+|    1    |[Network Options](https://github.com/bobbae/gcp/wiki/Networking#network-options)      |
+|    2    |[VPC](https://github.com/bobbae/gcp/wiki/Networking#introduction-1)      |
+|    3    |[Router](https://github.com/bobbae/gcp/wiki/Networking#cloud-router)      |
+|    4   |[VPN](https://github.com/bobbae/gcp/wiki/Networking#cloud-vpn), [Interconnect](https://github.com/bobbae/gcp/wiki/Networking#cloud-interconnect)  |
+|    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
+|    6    |[DNS](https://github.com/bobbae/gcp/wiki/Networking#cloud-dns), [CDN](https://github.com/bobbae/gcp/wiki/Networking#cloud-cdn), [NAT](https://github.com/bobbae/gcp/wiki/Networking#cloud-nat), [LB](https://github.com/bobbae/gcp/wiki/Networking#cloud-load-balancing)   |
+|    7    |Group Project   |
+|    8    |Reviews    |
 
 
