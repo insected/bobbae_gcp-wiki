@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Preparation](https://github.com/bobbae/gcp/wiki/Preparation)
-- [Introduction to GCP](https://github.com/bobbae/gcp/wiki/GCP-Introduction)
+- [Introduction](https://github.com/bobbae/gcp/wiki/Introduction)
 - [Compute](https://github.com/bobbae/gcp/wiki/Compute)
 - [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine)
 - [Compute Options](https://github.com/bobbae/gcp/wiki/Compute-Options)
