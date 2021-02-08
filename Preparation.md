@@ -218,6 +218,15 @@ Here are some example 8 weeks programs that can be presented using the materials
 
 
 #### GCP Infrastructure General Overview Course
+|   Week  |  Topics                                                             |
+|    1    |[Compute](https://github.com/bobbae/gcp/wiki/Compute)      |
+|    2    |[Storage](https://github.com/bobbae/gcp/wiki/Storage)      |
+|    1    |[Networking](https://github.com/bobbae/gcp/wiki/Networking)      |
+|    1    |[Migration](https://github.com/bobbae/gcp/wiki/Migration), [GKE](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)  |
+|    1    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
+|    1    |[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)   |
+|    1    |Group Project   |
+|    1    |Reviews    |
 
 
 <table>
