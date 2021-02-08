@@ -6,7 +6,7 @@
 
 - [Preparation](https://github.com/bobbae/gcp/wiki/Preparation)
 - [Introduction to GCP](https://github.com/bobbae/gcp/wiki/GCP-Introduction)
-- [GCP Compute Engine](https://github.com/bobbae/gcp/wiki/GCP-Compute-Engine)
+- [Compute](https://github.com/bobbae/gcp/wiki/Compute)
 - [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine)
 - [Compute Options](https://github.com/bobbae/gcp/wiki/Compute-Options)
 - [Kubernetes Engine and Containers](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)
