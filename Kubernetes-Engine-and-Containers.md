@@ -132,6 +132,8 @@ This video will teach you how to create a Google Kubernetes Engine (GKE) cluster
 
 [https://www.youtube.com/watch?v=Vcv6GapxUCI](https://www.youtube.com/watch?v=Vcv6GapxUCI)
 
+Here are some tutorials for using Terraform to manage Kubernetes on GCP.
+[HashCorp Terraform Kubernetes Tutorials](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes)
 
 #### Building small containers
 
