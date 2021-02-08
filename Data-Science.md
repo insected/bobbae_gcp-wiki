@@ -411,6 +411,7 @@ AI Hub offers a collection of assets for developers and data scientists building
 
 [https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
 
+Notebooks from AI Hub can be opened in AI Platform Notebooks. Here is an example:
 [Introduction to Neural Networks on AI Hub](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
 
 
