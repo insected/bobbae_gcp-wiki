@@ -1,4 +1,4 @@
-- [Compute Engine](#compute-engine)
+- [Compute](#compute)
   * [Introduction](#introduction)
   * [Compute Engine](#compute-engine-1)
     + [VM](#vm)
@@ -33,8 +33,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## Compute Engine
-
+## Compute
 
 ### Introduction 
 
