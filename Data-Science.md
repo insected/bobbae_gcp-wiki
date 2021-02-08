@@ -524,6 +524,8 @@ https://colab.research.google.com/github/...path...to..the..file.ipynb and rende
 
 #### Neural Networks in Colab
 
+[AI Hub Neural Networks](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
+
 [https://www.youtube.com/watch?v=_VTtrSDHPwU](https://www.youtube.com/watch?v=_VTtrSDHPwU)
 
 
