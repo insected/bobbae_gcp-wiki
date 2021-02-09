@@ -21,6 +21,7 @@
 - [Cloud Run](https://cloud.google.com/run) is a fully managed serverless platform offered in GCP for scalable containerized applications. It uses Knative, Kubernetes and service mesh and works with [Cloud Build](https://cloud.google.com/cloud-build), [Cloud Code](https://cloud.google.com/code) and [Artifact Registry](https://cloud.google.com/artifact-registry).
 
 - [Open source](https://cloud.google.com/community#home-oss)
+- [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
 - [Terraform Google Modules](https://github.com/terraform-google-modules)
 - [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
