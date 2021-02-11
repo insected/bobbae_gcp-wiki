@@ -89,18 +89,13 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 
 - A comprehensive set of production-ready resource templates that follow
   Google's best practices, which can be used with the CFT or the gcloud
-  utility (part of the Google Cloud SDK) - see
-  [the template directory](dm/templates/)
+  utility 
 - A command-line interface (henceforth, CLI) that deploys resources defined in
-  single or multiple CFT-compliant config files - see:
-  - The CFT source Python files (the `src/` directory)
-  - The [CFT DM User Guide](dm/docs/userguide.md)
+  single or multiple CFT-compliant config files.
 - A growing set of sample [Config
   Connector](https://cloud.google.com/config-connector/docs/overview)
-  YAML configurations - see [the solutions directory](config-connector/solutions/)
-
-In addition, the CFT repository includes a sample pipeline that enables running
-CFT deployment operations from Jenkins.
+  YAML configurations
+- a sample pipeline that enables running CFT deployment operations from Jenkins.
 
 
 ### Terraform 
