@@ -80,7 +80,27 @@ Provisioning compute resources has traditionally been hard to manage, not scalab
 
 #### Cloud Foundation Toolkit
 
+The Cloud Foundation Toolkit provides a series of reference templates for Deployment Manager and Terraform which reflect Google Cloud best practices. These templates can be used off-the-shelf to quickly build a repeatable enterprise-ready foundation in Google Cloud. This frees you to focus on deploying your applications on this baseline secure environment. And with infrastructure as code (IaC), you can easily update the foundation as your needs change.
+
 [https://cloud.google.com/foundation-toolkit/](https://cloud.google.com/foundation-toolkit/)
+
+
+The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) (henceforth, CFT) includes the following parts:
+
+- A comprehensive set of production-ready resource templates that follow
+  Google's best practices, which can be used with the CFT or the gcloud
+  utility (part of the Google Cloud SDK) - see
+  [the template directory](dm/templates/)
+- A command-line interface (henceforth, CLI) that deploys resources defined in
+  single or multiple CFT-compliant config files - see:
+  - The CFT source Python files (the `src/` directory)
+  - The [CFT DM User Guide](dm/docs/userguide.md)
+- A growing set of sample [Config
+  Connector](https://cloud.google.com/config-connector/docs/overview)
+  YAML configurations - see [the solutions directory](config-connector/solutions/)
+
+In addition, the CFT repository includes a sample pipeline that enables running
+CFT deployment operations from Jenkins.
 
 
 ### Terraform 
