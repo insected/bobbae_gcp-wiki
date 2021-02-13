@@ -8,8 +8,6 @@
 
 - [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
 
-- [Cloud Run](https://cloud.google.com/run) is a fully managed serverless platform offered in GCP for scalable containerized applications. It uses Knative, Kubernetes and service mesh and works with [Cloud Build](https://cloud.google.com/cloud-build), [Cloud Code](https://cloud.google.com/code) and [Artifact Registry](https://cloud.google.com/artifact-registry).
-
 - [Open source](https://cloud.google.com/community#home-oss)
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
@@ -54,18 +52,18 @@
 - [Open in Cloud Shell](https://cloud.google.com/shell/docs/open-in-cloud-shell)
 - [Writing Tutorials in Cloud Shell](https://cloud.google.com/shell/docs/cloud-shell-tutorials/tutorials)
 
+- [Cloud Run](https://cloud.google.com/run) is a fully managed serverless platform offered in GCP for scalable containerized applications. It uses Knative, Kubernetes and service mesh and works with [Cloud Build](https://cloud.google.com/cloud-build), [Cloud Code](https://cloud.google.com/code) and [Artifact Registry](https://cloud.google.com/artifact-registry).
+- [Cloud Run samples](https://github.com/GoogleCloudPlatform/cloud-run-samples)
+
 - [Codelabs](https://codelabs.developers.google.com/)
 - [Codelabs Tools](https://github.com/googlecodelabs/tools)
 - [Publishing Tutorials in Codelab format](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd)
-- [Cloud Run samples](https://github.com/GoogleCloudPlatform/cloud-run-samples)
 - [Google github actions deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun)
 - [Cloud Pub/sub messaging one-to-many tutorial](https://cloud.google.com/pubsub/docs/building-pubsub-messaging-system)
 - [Gist to list projects that have owner IAM role](https://gist.github.com/bobbae/fc095ff95d45df43c355960b6c800be7)
 - [Gist to create dataset and table in BigQuery](https://gist.github.com/bobbae/7b77bf317f42595ef7fcbe2e43bf10a6)
 - [Unscientific Gsutil vs. gcsfuse benchmark](https://gist.github.com/bobbae/1f1f2dcd3f9a2288fca56c9089d6ea37)
-- [Dataproc Hadoop Spark](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
-- [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
-- [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
+
 
 - [Codelabs](https://codelabs.developers.google.com/) can be used to learn GCP interactively.
 
@@ -77,8 +75,14 @@
 
 - [Datalab](https://cloud.google.com/datalab/docs) also can be used to host jupyter notebooks. This is done by installing datalab and serving it on a VM.
 
+- [Dataproc Hadoop Spark](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
+- [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
+- [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
 - [Dataproc Workflow Templates](https://programmaticponderings.com/2018/12/16/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+
+- [Cloud Composer tutorial](https://codelabs.developers.google.com/codelabs/intro-cloud-composer#0)
+- [Cloud Composer Workflow](https://cloud.google.com/dataproc/docs/tutorials/workflow-composer)
 
 
 
