@@ -8,16 +8,6 @@
 
 - [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
 
-- [Codelabs](https://codelabs.developers.google.com/) can be used to learn GCP interactively.
-
-- [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) can be used to run [jupyter notebooks](https://jupyter.org/) containing code to run on GCP.
-
-- [AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) can host jupyter notebooks as well.
-
-- [Codelab setting up a AI Platform Notebook](https://codelabs.developers.google.com/codelabs/prototyping-caip-notebooks/#0) shows how to set up AI Platform notebooks.
-
-- [Datalab](https://cloud.google.com/datalab/docs) also can be used to host jupyter notebooks. This is done by installing datalab and serving it on a VM.
-
 - [Cloud Run](https://cloud.google.com/run) is a fully managed serverless platform offered in GCP for scalable containerized applications. It uses Knative, Kubernetes and service mesh and works with [Cloud Build](https://cloud.google.com/cloud-build), [Cloud Code](https://cloud.google.com/code) and [Artifact Registry](https://cloud.google.com/artifact-registry).
 
 - [Open source](https://cloud.google.com/community#home-oss)
@@ -76,7 +66,19 @@
 - [Dataproc Hadoop Spark](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
 - [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
 - [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
+
+- [Codelabs](https://codelabs.developers.google.com/) can be used to learn GCP interactively.
+
+- [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) can be used to run [jupyter notebooks](https://jupyter.org/) containing code to run on GCP.
+
+- [AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) can host jupyter notebooks as well.
+
+- [Codelab setting up a AI Platform Notebook](https://codelabs.developers.google.com/codelabs/prototyping-caip-notebooks/#0) shows how to set up AI Platform notebooks.
+
+- [Datalab](https://cloud.google.com/datalab/docs) also can be used to host jupyter notebooks. This is done by installing datalab and serving it on a VM.
+
 - [Dataproc Workflow Templates](https://programmaticponderings.com/2018/12/16/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 
 
