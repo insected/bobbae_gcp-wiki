@@ -73,7 +73,10 @@
 - [Gist to list projects that have owner IAM role](https://gist.github.com/bobbae/fc095ff95d45df43c355960b6c800be7)
 - [Gist to create dataset and table in BigQuery](https://gist.github.com/bobbae/7b77bf317f42595ef7fcbe2e43bf10a6)
 - [Unscientific Gsutil vs. gcsfuse benchmark](https://gist.github.com/bobbae/1f1f2dcd3f9a2288fca56c9089d6ea37)
-
+- [Dataproc Hadoop Spark](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
 - [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
+- [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
+- [Dataproc Workflow Templates](https://programmaticponderings.com/2018/12/16/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp/)
+
 
 
