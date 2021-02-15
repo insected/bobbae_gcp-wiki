@@ -24,6 +24,11 @@ https://cloud.google.com/workflows
 
 https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
 
+### Connectors
+
+Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow. For a detailed reference of available connectors, see the Connectors reference. For workflow samples that demonstrate how to use a connector, see [Connectors Samples](https://cloud.google.com/workflows/docs/connectors-samples).
+
+Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a Firestore database, or retrieve authentication keys from Secret Manager.
 
 ## Cloud Composer
 
