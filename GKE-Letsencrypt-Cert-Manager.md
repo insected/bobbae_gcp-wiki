@@ -1,0 +1,1 @@
+https://gregdaybreak.medium.com/auto-provisioning-lets-encrypt-wildcard-certificates-with-cert-manager-on-gke-8665994b9ae8
