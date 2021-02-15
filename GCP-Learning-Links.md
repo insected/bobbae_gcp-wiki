@@ -25,7 +25,7 @@
 - [Awesome links for info on GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Awesome links for Cloud Run](https://github.com/steren/awesome-cloudrun)
 - [Awesome links for Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
-
+- [Awesome Workflow engines](https://github.com/meirwah/awesome-workflow-engines)
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 
 # Terraform
