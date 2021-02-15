@@ -16,18 +16,18 @@
 
 # Awesome Lists
 
-
-- [Awesome List](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+- [All kinds of awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Google cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [Free GCP learning resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb)
-- [Awesome links for GCP certifications](https://github.com/sathishvj/awesome-gcp-certifications)
-- [Awesome links for info on GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
-- [Awesome links for Cloud Run](https://github.com/steren/awesome-cloudrun)
-- [Awesome links for Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
+- [Awesome  GCP certifications](https://github.com/sathishvj/awesome-gcp-certifications)
+- [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun)
+- [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
 - [Awesome Workflow engines](https://github.com/meirwah/awesome-workflow-engines)
 - [Awesome Pipeline tools](https://github.com/pditommaso/awesome-pipeline)
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
+- [Awesome Sys admin](https://github.com/kahun/awesome-sysadmin)
 
 # Terraform
 - [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
