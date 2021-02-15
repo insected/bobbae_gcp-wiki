@@ -5,7 +5,7 @@ Google Cloud’s first general purpose workflow orchestration tool was Cloud Com
 
 Based on Apache Airflow, Cloud Composer is great for data engineering pipelines like ETL orchestration, big data processing or machine learning workflows, and integrates well with data products like BigQuery or Dataflow . For example, Cloud Composer is a natural choice if your workflow needs to run a series of jobs in a data warehouse or big data cluster, and save results to a storage bucket.
 
-However, if you want to process events or chain APIs in a serverless way—or have workloads that are bursty or latency-sensitive—we recommend Workflows. 
+However, if you want to process events or chain APIs in a serverless way—or have workloads that are bursty or latency-sensitive— it may be better to use  Workflows. 
 
 Workflows scales to zero when you’re not using it, incurring no costs when it’s idle. Pricing is based on the number of steps in the workflow, so you only pay if your workflow runs. And because Workflows doesn’t charge based on execution time, if a workflow pauses for a few hours in between tasks, you don’t pay for this either. 
 
