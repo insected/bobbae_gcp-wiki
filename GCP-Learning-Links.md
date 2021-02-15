@@ -104,12 +104,13 @@
 - [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
 - [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
 
-# Workflow
+# Workflows
+
 - [Dataproc Workflow Templates](https://programmaticponderings.com/2018/12/16/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 - [Cloud Composer tutorial](https://codelabs.developers.google.com/codelabs/intro-cloud-composer#0)
 - [Cloud Composer Workflow](https://cloud.google.com/dataproc/docs/tutorials/workflow-composer)
-
-
+- [Google Workflows](https://cloud.google.com/workflows)
+- [Google Workflows samples](https://github.com/GoogleCloudPlatform/workflows-samples)
 
