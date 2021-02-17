@@ -881,6 +881,13 @@ The Apache Beam SDK is an open source programming model that enables you to deve
 
 [https://github.com/apache/beam](https://github.com/apache/beam)
 
+Cloud Dataflow is certainly not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. So, why would you choose Dataflow?
+There are a few reasons :
+
+* Serverless: We don’t have to manage computing resources. It automatically spins up and down a cluster of virtual machines while running the processing jobs. We can just focus on building the code instead of building the cluster. Apache Spark, on the other hand, requires more configuration even if it is running on Cloud Dataproc.
+* Processing code is separate from the execution environment: In 2016, Google donated open-source Dataflow SDK and a set of data connectors to access Google Cloud Platform which added additional features to the Apache Beam project. We can write beam programs and run them on the local system or Cloud Dataflow service. When we look at the Dataflow documentation, it suggests the Apache Beam website for the latest version of the Software Development Kit.
+* Processing batch and stream mode with the same programming model: Other Big data SDKs require different codes depending on whether data comes in batch or streaming form. On the other hand, Apache Beam addresses it with a unified programming model. Competitors like Spark are considering it but they are not quite there yet.
+
 [https://beam.apache.org/documentation/programming-guide/](https://beam.apache.org/documentation/programming-guide/)
 
 
