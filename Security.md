@@ -40,11 +40,13 @@
 
 ### Introduction
 
+Google Infrastructure Security.
 [https://www.youtube.com/watch?v=UOdUC8DhprQ](https://www.youtube.com/watch?v=UOdUC8DhprQ)
 
+Google datacenter security has 6 layers. 
 [https://www.youtube.com/watch?v=kd33UVZhnAA](https://www.youtube.com/watch?v=kd33UVZhnAA)
 
-Security Foundations
+Security Foundations.
 https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
 
 #### Authentication Options
