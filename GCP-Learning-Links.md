@@ -121,4 +121,6 @@
 - [Creating custom templates](https://medium.com/swlh/apache-beam-google-cloud-dataflow-and-creating-custom-templates-using-python-c666c151b4bc)
 - [Google Provided Streaming Templates](https://cloud.google.com/dataflow/docs/guides/templates/provided-streaming)
 
+# Firebase
 
+- [Cloud Functions](https://firebase.google.com/codelabs/firebase-cloud-functions#0)
