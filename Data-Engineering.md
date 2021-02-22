@@ -946,6 +946,8 @@ Dataflow Flex templates use docker containers.
 
 [https://cloud.google.com/dataflow/docs/guides/gae-mapreduce-migration](https://cloud.google.com/dataflow/docs/guides/gae-mapreduce-migration)
 
+[ETL From Relational DB into BigQuery using DataFlow](https://cloud.google.com/solutions/performing-etl-from-relational-database-into-bigquery)
+
 
 #### Dataflow Mobile Gaming Example
 
