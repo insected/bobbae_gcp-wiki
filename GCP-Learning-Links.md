@@ -103,6 +103,7 @@
 - [Dataproc Hadoop Spark](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
 - [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
 - [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
+- [Data processing in Google Cloud: Hadoop, Spark and Dataflow](https://www.youtube.com/watch?v=GRP-cGbJSCs)
 
 # Workflows
 
@@ -121,6 +122,7 @@
 - [Creating custom templates](https://medium.com/swlh/apache-beam-google-cloud-dataflow-and-creating-custom-templates-using-python-c666c151b4bc)
 - [Google Provided Streaming Templates](https://cloud.google.com/dataflow/docs/guides/templates/provided-streaming)
 - [ETL using Dataflow from Relational DB to Bigquery](https://cloud.google.com/solutions/performing-etl-from-relational-database-into-bigquery)
+- [Tutorials and samples](https://cloud.google.com/dataflow/docs/samples/)
 
 # Firebase
 
