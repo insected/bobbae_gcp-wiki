@@ -125,6 +125,7 @@ Kustomize introduces a template-free way to customize application configuration 
 
 [https://www.youtube.com/watch?v=uvH84BviDS4](https://www.youtube.com/watch?v=uvH84BviDS4)
 
+https://kustomize.io/
 
 #### How to create a GKE cluster
 
@@ -193,6 +194,7 @@ This video shows how to work with Namespaces and how they can help you manage yo
 
 [https://www.youtube.com/watch?v=qmDzcu5uY1I](https://www.youtube.com/watch?v=qmDzcu5uY1I)
 
+https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
 #### Configmaps & Secrets
 
@@ -221,15 +223,44 @@ A custom resource is an extension of the Kubernetes API that is not necessarily 
 
 [https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 
+Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
+
+https://book.kubebuilder.io/quick-start.html
+
+https://github.com/kubernetes-sigs/kubebuilder
+
 
 #### Operator Pattern
 
 In [Kubernetes](https://opensource.com/resources/what-is-kubernetes), objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with kubectl apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. With Operators, Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
 
+Operators make it easy to manage complex stateful applications on top of Kubernetes. However writing an Operator today can be difficult because of challenges such as using low level APIs, writing boilerplate, and a lack of modularity which leads to duplication.
+
 [https://kubernetes.io/docs/concepts/extend-kubernetes/operator/](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 
+The Operator SDK is a framework that uses the controller-runtime library to make writing operators easier by providing:
+
+* High level APIs and abstractions to write the operational logic more intuitively
+* Tools for scaffolding and code generation to bootstrap a new project fast
+* Extensions to cover common Operator use cases
+
+https://github.com/operator-framework/operator-sdk
+ 
 [https://opensource.com/article/20/3/kubernetes-operator-sdk](https://opensource.com/article/20/3/kubernetes-operator-sdk)
 
+Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
+
+This operator is not an operator for a particular software product such as prometheus-operator or kafka-operator. Shell-operator provides an integration layer between Kubernetes cluster events and shell scripts by treating scripts as hooks triggered by events. Think of it as an operator-sdk but for scripts.
+
+https://github.com/flant/shell-operator
+
+Kubernetes Universal Declarative Operator (KUDO) provides a declarative approach to building production-grade Kubernetes operators. To quote the official documentation: "Operators are software extensions to Kubernetes that make use of custom resources to manage applications and their components". While Kubernetes already comes with a lot of built-in automation to run simple workloads, complex scenarios often need a human operator. 
+
+https://d2iq.com/products/kudo
+
+https://cert-manager.io/docs/installation/kubernetes/
+
+https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
 ##### Operator Hub
 
