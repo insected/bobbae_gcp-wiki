@@ -10,6 +10,8 @@
 
 ## API Management, Apigee
 
+[API Gateway](https://cloud.google.com/api-gateway) is  a fully-managed gateway for serverless workloads.
+
 Apigee is a Full-LifeCycle API Management tool.
 
 [https://www.youtube.com/watch?v=-okdOGsitm8](https://www.youtube.com/watch?v=-okdOGsitm8)
