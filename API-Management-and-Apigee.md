@@ -68,3 +68,9 @@ Apigee hybrid is a platform for developing and managing API proxies that feature
 ## Kong
 
 https://konghq.org/
+
+## Ambassador API gateway
+
+https://www.getambassador.io/products/api-gateway/
+
+
