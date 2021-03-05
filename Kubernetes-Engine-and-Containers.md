@@ -559,4 +559,8 @@ Wanting to know how to use Envoy to protect your microservices? In this video, w
 
 #### Linkerd
 
+https://linkerd.io/
+
 [https://www.youtube.com/watch?v=Bj7gGQUiDuk](https://www.youtube.com/watch?v=Bj7gGQUiDuk)
+
+https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
