@@ -8,11 +8,18 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+## API Gateway
+[API Gateway](https://cloud.google.com/api-gateway) is  a fully-managed gateway for serverless workloads.
+API Gateway enables you to provide secure access to your backend services through a well-defined REST API that is consistent across all of your services, regardless of the service implementation. Clients consume your REST APIS to implement standalone apps for a mobile device or tablet, through apps running in a browser, or through any other type of app that can make a request to an HTTP endpoint.
+
+
 ## API Management, Apigee
 
-[API Gateway](https://cloud.google.com/api-gateway) is  a fully-managed gateway for serverless workloads.
+[Apigee](https://cloud.google.com/apigee) is a Full-LifeCycle API Management tool.
 
-Apigee is a Full-LifeCycle API Management tool.
+Apigee is a platform for developing and managing APIs. By fronting services with a proxy layer, Apigee provides an abstraction or facade for your backend service APIs and provides security, rate limiting, quotas, analytics, and more.
+
+https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee
 
 [https://www.youtube.com/watch?v=-okdOGsitm8](https://www.youtube.com/watch?v=-okdOGsitm8)
 
