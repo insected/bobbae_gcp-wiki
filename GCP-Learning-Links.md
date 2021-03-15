@@ -129,3 +129,8 @@
 # Firebase
 
 - [Cloud Functions](https://firebase.google.com/codelabs/firebase-cloud-functions#0)
+
+
+# Kubernetes
+
+- [MPA](https://cloud.google.com/blog/topics/developers-practitioners/scaling-workloads-across-multiple-dimensions-gke)
