@@ -123,6 +123,8 @@
 - [Google Provided Streaming Templates](https://cloud.google.com/dataflow/docs/guides/templates/provided-streaming)
 - [ETL using Dataflow from Relational DB to Bigquery](https://cloud.google.com/solutions/performing-etl-from-relational-database-into-bigquery)
 - [Tutorials and samples](https://cloud.google.com/dataflow/docs/samples/)
+- [Beam month](https://www.youtube.com/playlist?list=PL4dEBWmGSIU87ly7nE-3Lw_h6aBNlO6UW)
+- [Beam College](https://beamcollege.dev/)
 
 # Firebase
 
