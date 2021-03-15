@@ -129,9 +129,30 @@
 # Firebase
 
 - [Cloud Functions](https://firebase.google.com/codelabs/firebase-cloud-functions#0)
+- [Use cases](https://firebase.google.com/use-cases)
+- [When to use firebase](https://www.codementor.io/@cultofmetatron/when-you-should-and-shouldn-t-use-firebase-f62bo3gxv)
 
+# Firestore
+- [Firestore native or datastore mode](https://cloud.google.com/datastore/docs/firestore-or-datastore)
+- [Firebase vs Firestore](https://medium.com/google-developers/firebase-google-cloud-whats-different-with-cloud-firestore-40f1fc3e6d1e)
 
 # Kubernetes
 
 - [MPA](https://cloud.google.com/blog/topics/developers-practitioners/scaling-workloads-across-multiple-dimensions-gke)
-- [Setting up GKE](https://medium.com/finnovate-io/setting-up-a-kubernetes-cluster-in-gcp-5903c3dc46f1)
+- [Setting up GKE and Ingress](https://medium.com/finnovate-io/setting-up-a-kubernetes-cluster-in-gcp-5903c3dc46f1)
+- [Ingress, LB, NodePort, etc.](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+- [Ingress 101](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
+
+# Service Mesh
+
+- [What is service mesh](https://buoyant.io/service-mesh-manifesto/)
+- [Traffic Director](https://codeburst.io/traffic-director-by-example-part-1-70ef767eb881)
+
+# Traffic Director
+- [Overview](https://cloud.google.com/traffic-director)
+- [Ingress traffic for your mesh](https://cloud.google.com/traffic-director/docs/traffic-director-ingress-traffic)
+
+# Anthos
+
+- [Overview](https://cloud.google.com/anthos)
+
