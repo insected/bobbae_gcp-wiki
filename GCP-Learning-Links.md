@@ -156,3 +156,10 @@
 
 - [Overview](https://cloud.google.com/anthos)
 
+# Monitoring
+
+- [Monitoring tutorials](https://cloud.google.com/monitoring/tutorials)
+- [Agent fleet installation](https://cloud.google.com/monitoring/agent/fleet-installation)
+
+# Logging
+- [Logging quickstart](https://cloud.google.com/logging/docs/quickstart-sdk)
