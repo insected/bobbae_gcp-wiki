@@ -163,3 +163,12 @@
 
 # Logging
 - [Logging quickstart](https://cloud.google.com/logging/docs/quickstart-sdk)
+
+# AutoML
+- [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
+- [AutoML Cloud Natural Language Samples](https://cloud.google.com/natural-language/automl/docs/samples)
+- [AutoML Tables Quickstart](https://cloud.google.com/automl-tables/docs/quickstart)
+- [AutoML Tables notebooks](https://cloud.google.com/automl-tables/docs/notebooks)
+- [AutoML Cloud Translation API tutorial](https://cloud.google.com/translate/automl/docs/tutorial)
+- [AutoML Cloud Video Intelligence API Quickstarts](https://cloud.google.com/video-intelligence/automl/docs/quickstart)
+- [AutoML Vision](https://cloud.google.com/vision/automl/docs)
