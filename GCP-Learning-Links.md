@@ -189,6 +189,7 @@
 
 # AI Hub
 - [Introduction to AI Hub](https://cloud.google.com/ai-hub/docs/introduction)
+- [Colab Classifying hand written digits using MNIST data set](https://colab.research.google.com/notebooks/mlcc/multi-class_classification_of_handwritten_digits.ipynb)
 - [AI Hub Quickstarts](https://cloud.google.com/ai-hub/docs/quickstarts)
 - [AI Hub](https://aihub.cloud.google.com/u/0/)
 
