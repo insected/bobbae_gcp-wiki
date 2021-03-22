@@ -179,3 +179,11 @@
 - [Cloud Speech-to-Text](https://cloud.google.com/speech-to-text/docs)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs)
 - [Cloud Inference API](https://cloud.google.com/inference/docs)
+
+# TensorFlow
+- [TensorFlow Enterprise](https://cloud.google.com/tensorflow-enterprise/docs)
+- [Using TensorFlow Enterprise with AI Platform Notebooks](https://cloud.google.com/tensorflow-enterprise/docs/use-with-notebooks)
+- [AI Platform Pipelines](https://cloud.google.com/ai-platform/pipelines/docs)
+- [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/overview/pipelines-overview/)
+- [TensorFlow Extended (TFX)](https://www.tensorflow.org/tfx)
+
