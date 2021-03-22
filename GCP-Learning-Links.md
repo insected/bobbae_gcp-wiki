@@ -176,6 +176,6 @@
 - [Cloud Natural language](https://cloud.google.com/natural-language/docs)
 - [Cloud Translation](https://cloud.google.com/translate/docs)
 - [Cloud Text-to-Speech](https://cloud.google.com/text-to-speech/docs)
-- [Cloud Speech-to-Text)(https://cloud.google.com/speech-to-text/docs)
+- [Cloud Speech-to-Text](https://cloud.google.com/speech-to-text/docs)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs)
 - [Cloud Inference API](https://cloud.google.com/inference/docs)
