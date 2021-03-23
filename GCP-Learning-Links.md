@@ -108,12 +108,14 @@
 # Workflows
 
 - [Dataproc Workflow Templates](https://programmaticponderings.com/2018/12/16/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp/)
-- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+- [Google Workflows](https://cloud.google.com/workflows)
+- [Google Workflows samples](https://github.com/GoogleCloudPlatform/workflows-samples)
+
+# Cloud Composer
 
 - [Cloud Composer tutorial](https://codelabs.developers.google.com/codelabs/intro-cloud-composer#0)
 - [Cloud Composer Workflow](https://cloud.google.com/dataproc/docs/tutorials/workflow-composer)
-- [Google Workflows](https://cloud.google.com/workflows)
-- [Google Workflows samples](https://github.com/GoogleCloudPlatform/workflows-samples)
+
 
 # Dataflow
 
@@ -188,8 +190,21 @@
 - [TensorFlow Extended (TFX)](https://www.tensorflow.org/tfx)
 
 # AI Hub
-- [Introduction to AI Hub](https://cloud.google.com/ai-hub/docs/introduction)
-- [Colab Classifying hand written digits using MNIST data set](https://colab.research.google.com/notebooks/mlcc/multi-class_classification_of_handwritten_digits.ipynb)
-- [AI Hub Quickstarts](https://cloud.google.com/ai-hub/docs/quickstarts)
-- [AI Hub](https://aihub.cloud.google.com/u/0/)
 
+- [AI Hub](https://aihub.cloud.google.com/u/0/)
+- [Introduction to AI Hub](https://cloud.google.com/ai-hub/docs/introduction)
+
+- [AI Hub Quickstarts](https://cloud.google.com/ai-hub/docs/quickstarts)
+- [Learning with AI Hub](https://cloud.google.com/ai-hub/docs/learn)
+
+
+- [AI Hub Samples](https://cloud.google.com/ai-hub/docs/samples)
+
+- [Colab Classifying hand written digits using MNIST data set](https://colab.research.google.com/notebooks/mlcc/multi-class_classification_of_handwritten_digits.ipynb)
+
+
+
+# Machine Learning
+- [Machine Learning Online Comic](https://cloud.google.com/products/ai/ml-comic-1)
+- [Machine Learning crash course](https://developers.google.com/machine-learning/crash-course/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
