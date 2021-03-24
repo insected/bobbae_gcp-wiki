@@ -28,6 +28,7 @@
   * [Data Governance](#data-governance)
     + [BigQuery Column-level security](#bigquery-column-level-security)
   * [Access Context Manager](#access-context-manager)
+  * [Binary Authorization](#binary-authorization)
   * [Qwiklabs](#qwiklabs)
     + [Cloud KMS](#cloud-kms-1)
     + [Security & Identity](#security---identity)
@@ -295,6 +296,11 @@ Access levels describe the necessary requirements for requests to be honored.
 
 https://cloud.google.com/access-context-manager/docs/overview
 
+### Binary Authorization
+
+Binary Authorization is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE). With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
+
+https://cloud.google.com/binary-authorization/
 
 
 ### Qwiklabs
