@@ -27,6 +27,7 @@
   * [Identity & Security Topics](#identity---security-topics)
   * [Data Governance](#data-governance)
     + [BigQuery Column-level security](#bigquery-column-level-security)
+  * [Access Context Manager](#access-context-manager)
   * [Qwiklabs](#qwiklabs)
     + [Cloud KMS](#cloud-kms-1)
     + [Security & Identity](#security---identity)
@@ -284,6 +285,16 @@ Web Risk is a new enterprise security product that lets your client applications
 #### BigQuery Column-level security
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
+
+### Access Context Manager
+Access Context Manager allows Google Cloud organization administrators to define fine-grained, attribute based access control for projects and resources in Google Cloud.
+
+Administrators first define an access policy, which is an organization-wide container for access levels and service perimeters.
+
+Access levels describe the necessary requirements for requests to be honored. 
+
+https://cloud.google.com/access-context-manager/docs/overview
+
 
 
 ### Qwiklabs
