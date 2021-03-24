@@ -32,6 +32,12 @@
 # Terraform
 - [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
 - [Terraform Google Modules](https://github.com/terraform-google-modules)
+- [Terragrunt](https://terragrunt.gruntwork.io/)
+- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+- [Cloudify](https://cloudify.co/)
+- [Pulumi](https://www.pulumi.com/)
+- [Cloud Foundation Toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit)
+
 
 # Samples
 
@@ -159,6 +165,12 @@
 # Anthos
 
 - [Overview](https://cloud.google.com/anthos)
+
+# Security
+
+- [Using GCP DevSecOps](https://www.reblaze.com/blog/using-devsecops-strengthen-security-gcp/)
+- [GCP DevSecOps for GKE](https://github.com/prabhu/gcp-devsecops)
+- [Using Binary Authorization in GKE)[https://medium.com/google-cloud/automating-container-security-on-gke-with-binary-authorization-and-circleci-7efa7a6be2a7)
 
 # Monitoring
 
