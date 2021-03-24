@@ -53,6 +53,8 @@
 
 
 # Docs
+- [Google cloud docs](https://cloud.google.com/docs)
+
 - [Cloud SQL Docs](https://cloud-dot-devsite-v2-prod.appspot.com/sql/docs)
 - [GKE docs](https://cloud-dot-devsite-v2-prod.appspot.com/kubernetes-engine/docs)
 - [App Engine Docs](https://cloud-dot-devsite-v2-prod.appspot.com/appengine/docs)
