@@ -2,6 +2,8 @@
 
 https://docs.min.io/docs/minio-quickstart-guide.html
 
+https://docs.min.io/docs/minio-deployment-quickstart-guide.html
+
 https://docs.min.io/docs/minio-client-quickstart-guide.html
 
 # Erasure Code
