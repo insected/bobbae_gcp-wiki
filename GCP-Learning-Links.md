@@ -30,35 +30,6 @@
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Awesome Sys admin](https://github.com/kahun/awesome-sysadmin)
 
-# Links to Other GCP learning pages
-
-- https://github.com/methylcloud/learn-gcp
-- https://github.com/kanchantewary/learn-gcp
-- https://github.com/GoogleCloudPlatform/training-data-analyst
-- https://github.com/GoogleCloudPlatform/edu-resources
-- https://github.com/GoogleCloudPlatform/ml-on-gcp
-- https://github.com/truar/gcp-learning
-- https://github.com/dsnair/GCP
-- https://github.com/PacktPublishing/Learning-Google-Cloud-Platform
-- https://github.com/lynnlangit/gcp-essentials
-- https://github.com/GoogleCloudPlatform/awesome-google-cloud
-- https://github.com/GoogleCloudPlatform/cloud-shell-tutorials
-- https://github.com/GoogleCloudPlatform/mlops-on-gcp
-- https://github.com/lynnlangit/gcp-ml
-- https://github.com/GoogleCloudPlatform/getting-started-python
-- https://github.com/lynnlangit/learning-cloud
-- https://github.com/aakankasha028/machine-learning-on-GCP
-- https://github.com/nadya1/Google_cloud
-- https://github.com/thangtranquang/machine-learning-tensorflow-gcp
-- https://github.com/Ulminator/gcp-certification-notes
-- https://github.com/GoogleCloudPlatform/getting-started-php
-- https://github.com/GoogleCloudPlatform/nodejs-getting-started
-- https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md
-- https://github.com/thinhkhang97/learn-gcp
-- https://cloud.google.com/healthcare/docs/tutorials/github
-- https://wilsonmar.github.io/gcp/
-- https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d
-
 
 
 # Terraform
@@ -265,3 +236,35 @@
 - [Machine Learning Online Comic](https://cloud.google.com/products/ai/ml-comic-1)
 - [Machine Learning crash course](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+
+
+
+# Links to Other GCP learning pages
+
+- https://github.com/methylcloud/learn-gcp
+- https://github.com/kanchantewary/learn-gcp
+- https://github.com/GoogleCloudPlatform/training-data-analyst
+- https://github.com/GoogleCloudPlatform/edu-resources
+- https://github.com/GoogleCloudPlatform/ml-on-gcp
+- https://github.com/truar/gcp-learning
+- https://github.com/dsnair/GCP
+- https://github.com/PacktPublishing/Learning-Google-Cloud-Platform
+- https://github.com/lynnlangit/gcp-essentials
+- https://github.com/GoogleCloudPlatform/awesome-google-cloud
+- https://github.com/GoogleCloudPlatform/cloud-shell-tutorials
+- https://github.com/GoogleCloudPlatform/mlops-on-gcp
+- https://github.com/lynnlangit/gcp-ml
+- https://github.com/GoogleCloudPlatform/getting-started-python
+- https://github.com/lynnlangit/learning-cloud
+- https://github.com/aakankasha028/machine-learning-on-GCP
+- https://github.com/nadya1/Google_cloud
+- https://github.com/thangtranquang/machine-learning-tensorflow-gcp
+- https://github.com/Ulminator/gcp-certification-notes
+- https://github.com/GoogleCloudPlatform/getting-started-php
+- https://github.com/GoogleCloudPlatform/nodejs-getting-started
+- https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md
+- https://github.com/thinhkhang97/learn-gcp
+- https://cloud.google.com/healthcare/docs/tutorials/github
+- https://wilsonmar.github.io/gcp/
+- https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d
+
