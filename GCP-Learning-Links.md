@@ -184,7 +184,7 @@
 
 - [Using GCP DevSecOps](https://www.reblaze.com/blog/using-devsecops-strengthen-security-gcp/)
 - [GCP DevSecOps for GKE](https://github.com/prabhu/gcp-devsecops)
-- [Using Binary Authorization in GKE)[https://medium.com/google-cloud/automating-container-security-on-gke-with-binary-authorization-and-circleci-7efa7a6be2a7)
+- [Using Binary Authorization in GKE](https://medium.com/google-cloud/automating-container-security-on-gke-with-binary-authorization-and-circleci-7efa7a6be2a7)
 
 # Monitoring
 
