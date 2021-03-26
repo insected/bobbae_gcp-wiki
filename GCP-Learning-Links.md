@@ -56,6 +56,8 @@
 - https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md
 - https://github.com/thinhkhang97/learn-gcp
 - https://cloud.google.com/healthcare/docs/tutorials/github
+- https://wilsonmar.github.io/gcp/
+- https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d
 
 
 
