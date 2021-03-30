@@ -236,8 +236,7 @@
 - [Machine Learning Online Comic](https://cloud.google.com/products/ai/ml-comic-1)
 - [Machine Learning crash course](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
-
-
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 # Links to Other GCP learning pages
 
