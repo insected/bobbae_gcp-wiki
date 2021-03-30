@@ -239,31 +239,37 @@
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 # Links to Other GCP learning pages
+- [Curated list of awesome applications for GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+- [Google Cloud Shell tutorials](https://github.com/GoogleCloudPlatform/cloud-shell-tutorials)
 
-- https://github.com/methylcloud/learn-gcp
-- https://github.com/kanchantewary/learn-gcp
-- https://github.com/GoogleCloudPlatform/training-data-analyst
-- https://github.com/GoogleCloudPlatform/edu-resources
-- https://github.com/GoogleCloudPlatform/ml-on-gcp
-- https://github.com/truar/gcp-learning
-- https://github.com/dsnair/GCP
-- https://github.com/PacktPublishing/Learning-Google-Cloud-Platform
-- https://github.com/lynnlangit/gcp-essentials
-- https://github.com/GoogleCloudPlatform/awesome-google-cloud
-- https://github.com/GoogleCloudPlatform/cloud-shell-tutorials
-- https://github.com/GoogleCloudPlatform/mlops-on-gcp
-- https://github.com/lynnlangit/gcp-ml
-- https://github.com/GoogleCloudPlatform/getting-started-python
-- https://github.com/lynnlangit/learning-cloud
-- https://github.com/aakankasha028/machine-learning-on-GCP
-- https://github.com/nadya1/Google_cloud
-- https://github.com/thangtranquang/machine-learning-tensorflow-gcp
-- https://github.com/Ulminator/gcp-certification-notes
-- https://github.com/GoogleCloudPlatform/getting-started-php
-- https://github.com/GoogleCloudPlatform/nodejs-getting-started
-- https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md
-- https://github.com/thinhkhang97/learn-gcp
-- https://cloud.google.com/healthcare/docs/tutorials/github
-- https://wilsonmar.github.io/gcp/
-- https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d
+- [Machine learning on GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
+- [Hands-on labs and samples for GCP ML workflows](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
+- [Tutorial for Python on GCP](https://github.com/GoogleCloudPlatform/getting-started-python)
+
+- [Tutorial for PHP on GCP](https://github.com/GoogleCloudPlatform/getting-started-php)
+- [Tutorial for Nodejs on GCP](https://github.com/GoogleCloudPlatform/nodejs-getting-started)
+- [Healthcare API tutorials](https://cloud.google.com/healthcare/docs/tutorials/github)
+
+- [GCP learning for PCA certification](https://github.com/methylcloud/learn-gcp)
+- [GCP Coursera ML and Data related learning](https://github.com/kanchantewary/learn-gcp)
+- [Labs and Demos from GCP Data analyst training](https://github.com/GoogleCloudPlatform/training-data-analyst)
+- [Curated list of GCP educational resources](https://github.com/GoogleCloudPlatform/edu-resources)
+- [GCP Coursera course notes](https://github.com/truar/gcp-learning)
+- [Tutorials on Dataflow, BigQuery, Spanner, Datalab, VM, Speech API](https://github.com/dsnair/GCP)
+- [Code repo for Learning GCP book](https://github.com/PacktPublishing/Learning-Google-Cloud-Platform)
+- [Example Gcloud statements for GCP services](https://github.com/lynnlangit/gcp-essentials)
+
+- [GCP Machine learning samples](https://github.com/lynnlangit/gcp-ml)
+
+
+- [List of GCP, Azure, AWS, Alibaba Cloud learning resources](https://github.com/lynnlangit/learning-cloud)
+- [Notes on ML with Tensorflow Coursera course](https://github.com/aakankasha028/machine-learning-on-GCP)
+- [Notes on GCP Big Data and ML fundamentals](https://github.com/nadya1/Google_cloud)
+- [ML with Tensorflow on GCP intro](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
+- [Cloud Data Engineer Cert study guide](https://github.com/Ulminator/gcp-certification-notes)
+
+- [Professional ML engineer cert materials](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md)
+- [Nodejs App example to learn GCP](https://github.com/thinhkhang97/learn-gcp)
+- [GCP Certification prep materials](https://wilsonmar.github.io/gcp/)
+- [Learn DevOps online](https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d)
 
