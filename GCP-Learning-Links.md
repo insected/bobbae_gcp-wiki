@@ -235,6 +235,11 @@
 # Machine Learning
 - [Machine Learning Online Comic](https://cloud.google.com/products/ai/ml-comic-1)
 - [Machine Learning crash course](https://developers.google.com/machine-learning/crash-course/)
+- [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
+- [Guide to bring code to ML GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
+- [Labs and demos for courses for GCP ML and Bigdata Training](https://github.com/GoogleCloudPlatform/training-data-analyst)
+- [Official repo for Google AI Platform](https://github.com/GoogleCloudPlatform/ai-platform-samples)
+- [Hands-On Machine Learning on GCP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-on-Google-Cloud-Platform)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
