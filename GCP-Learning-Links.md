@@ -49,7 +49,6 @@
 - [Dataflow Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/dataflow/docs/samples)
 - [Pub/Sub Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/pubsub/docs/samples)
 - [Spanner Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/spanner/docs/samples)
-
 - [Cloud Code Samples](https://github.com/GoogleCloudPlatform/cloud-code-samples)
 - [Cloud Monitoring Code Samples](https://cloud.google.com/monitoring/docs/samples)
 - [Cloud Storage Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/storage/docs/samples)
@@ -59,11 +58,9 @@
 
 # Docs
 - [Google cloud docs](https://cloud.google.com/docs)
-
 - [Cloud SQL Docs](https://cloud-dot-devsite-v2-prod.appspot.com/sql/docs)
 - [GKE docs](https://cloud-dot-devsite-v2-prod.appspot.com/kubernetes-engine/docs)
 - [App Engine Docs](https://cloud-dot-devsite-v2-prod.appspot.com/appengine/docs)
-
 - [Data Fusion Docs](https://cloud-dot-devsite-v2-prod.appspot.com/data-fusion/docs)
 - [Data Catalog Docs](https://cloud-dot-devsite-v2-prod.appspot.com/data-catalog/docs)
 - [Dataprep by Trifacta](https://docs.trifacta.com/display/dp/)
@@ -111,13 +108,9 @@
 
 # Jupyter Notebook
 - [Codelabs](https://codelabs.developers.google.com/) can be used to learn GCP interactively.
-
 - [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) can be used to run [jupyter notebooks](https://jupyter.org/) containing code to run on GCP.
-
 - [AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) can host jupyter notebooks as well.
-
 - [Codelab setting up a AI Platform Notebook](https://codelabs.developers.google.com/codelabs/prototyping-caip-notebooks/#0) shows how to set up AI Platform notebooks.
-
 - [Datalab](https://cloud.google.com/datalab/docs) also can be used to host jupyter notebooks. This is done by installing datalab and serving it on a VM.
 
 # Dataproc
@@ -231,13 +224,9 @@
 
 - [AI Hub](https://aihub.cloud.google.com/u/0/)
 - [Introduction to AI Hub](https://cloud.google.com/ai-hub/docs/introduction)
-
 - [AI Hub Quickstarts](https://cloud.google.com/ai-hub/docs/quickstarts)
 - [Learning with AI Hub](https://cloud.google.com/ai-hub/docs/learn)
-
-
 - [AI Hub Samples](https://cloud.google.com/ai-hub/docs/samples)
-
 - [Colab Classifying hand written digits using MNIST data set](https://colab.research.google.com/notebooks/mlcc/multi-class_classification_of_handwritten_digits.ipynb)
 
 
@@ -257,15 +246,12 @@
 # Links to Other GCP learning pages
 - [Curated list of awesome applications for GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Google Cloud Shell tutorials](https://github.com/GoogleCloudPlatform/cloud-shell-tutorials)
-
 - [Machine learning on GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
 - [Hands-on labs and samples for GCP ML workflows](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
 - [Tutorial for Python on GCP](https://github.com/GoogleCloudPlatform/getting-started-python)
-
 - [Tutorial for PHP on GCP](https://github.com/GoogleCloudPlatform/getting-started-php)
 - [Tutorial for Nodejs on GCP](https://github.com/GoogleCloudPlatform/nodejs-getting-started)
 - [Healthcare API tutorials](https://cloud.google.com/healthcare/docs/tutorials/github)
-
 - [GCP learning for PCA certification](https://github.com/methylcloud/learn-gcp)
 - [GCP Coursera ML and Data related learning](https://github.com/kanchantewary/learn-gcp)
 - [Labs and Demos from GCP Data analyst training](https://github.com/GoogleCloudPlatform/training-data-analyst)
@@ -274,16 +260,12 @@
 - [Tutorials on Dataflow, BigQuery, Spanner, Datalab, VM, Speech API](https://github.com/dsnair/GCP)
 - [Code repo for Learning GCP book](https://github.com/PacktPublishing/Learning-Google-Cloud-Platform)
 - [Example Gcloud statements for GCP services](https://github.com/lynnlangit/gcp-essentials)
-
 - [GCP Machine learning samples](https://github.com/lynnlangit/gcp-ml)
-
-
 - [List of GCP, Azure, AWS, Alibaba Cloud learning resources](https://github.com/lynnlangit/learning-cloud)
 - [Notes on ML with Tensorflow Coursera course](https://github.com/aakankasha028/machine-learning-on-GCP)
 - [Notes on GCP Big Data and ML fundamentals](https://github.com/nadya1/Google_cloud)
 - [ML with Tensorflow on GCP intro](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
 - [Cloud Data Engineer Cert study guide](https://github.com/Ulminator/gcp-certification-notes)
-
 - [Professional ML engineer cert materials](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md)
 - [Nodejs App example to learn GCP](https://github.com/thinhkhang97/learn-gcp)
 - [GCP Certification prep materials](https://wilsonmar.github.io/gcp/)
