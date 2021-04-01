@@ -8,6 +8,11 @@
 - [Google Cloud Community links](https://cloud.google.com/community) 
 - [Tutorials](https://cloud.google.com/community#home-tutorials)
 
+# Google Workspace
+- [Introduction](https://www.youtube.com/watch?v=bE31y5HbukA)
+- [Getting Started](https://www.youtube.com/watch?v=jZjJ54ehgrM)
+- [AppSheet](https://www.youtube.com/watch?v=X7CZ4261aDQ)
+
 # Qwiklabs
 - [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
 
@@ -31,15 +36,6 @@
 - [Awesome Sys admin](https://github.com/kahun/awesome-sysadmin)
 
 
-
-# Terraform
-- [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
-- [Terraform Google Modules](https://github.com/terraform-google-modules)
-- [Terragrunt](https://terragrunt.gruntwork.io/)
-- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
-- [Cloudify](https://cloudify.co/)
-- [Pulumi](https://www.pulumi.com/)
-- [Cloud Foundation Toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit)
 
 
 # Samples
@@ -73,9 +69,6 @@
 - [Dataprep by Trifacta](https://docs.trifacta.com/display/dp/)
 - [Life Sciences Docs](https://cloud-dot-devsite-v2-prod.appspot.com/life-sciences/docs)
 
-# Data Studio
-- [Data Studio docs](https://support.google.com/datastudio)
-
 # Cloud Shell
 - [Cloud Shell Quick Starts](https://cloud.google.com/shell/docs/quickstart)
 - [Open in Cloud Shell](https://cloud.google.com/shell/docs/open-in-cloud-shell)
@@ -98,6 +91,23 @@
 - [Gist to list projects that have owner IAM role](https://gist.github.com/bobbae/fc095ff95d45df43c355960b6c800be7)
 - [Gist to create dataset and table in BigQuery](https://gist.github.com/bobbae/7b77bf317f42595ef7fcbe2e43bf10a6)
 - [Unscientific Gsutil vs. gcsfuse benchmark](https://gist.github.com/bobbae/1f1f2dcd3f9a2288fca56c9089d6ea37)
+
+
+
+# Terraform
+- [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
+- [Terraform Google Modules](https://github.com/terraform-google-modules)
+- [Terragrunt](https://terragrunt.gruntwork.io/)
+- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer)
+- [Cloudify](https://cloudify.co/)
+- [Pulumi](https://www.pulumi.com/)
+- [Cloud Foundation Toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit)
+
+# No Code
+- [AppSheet](https://www.youtube.com/channel/UC7xYEO2O_VZWyvctU0LQp8g)
+
+# Data Studio
+- [Data Studio docs](https://support.google.com/datastudio)
 
 # Jupyter Notebook
 - [Codelabs](https://codelabs.developers.google.com/) can be used to learn GCP interactively.
