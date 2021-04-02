@@ -1,13 +1,8 @@
 
-- [AppSheet](#appsheet)
-  * [Introduction](#introduction-1)
-  * [How to create a no-code App](#how-to-create-a-no-code-app)
-  * [Sample Apps](#sample-apps)
-  * [YouTube AppSheet Playlist](#youtube-appsheet-playlist)
 
+# AppSheet
 
-## AppSheet
-
+## Overview
 
 ### Introduction
 
@@ -29,3 +24,17 @@ AppSheet Automation allows line-of-business employees to rapidly automate their 
 ### YouTube AppSheet Playlist
 
 [https://www.youtube.com/watch?v=7Tzwu8mY-gI&list=PLZ81nepkT97KAehtQ_Y__bNJX3qZaStvt](https://www.youtube.com/watch?v=7Tzwu8mY-gI&list=PLZ81nepkT97KAehtQ_Y__bNJX3qZaStvt)
+
+## AppSheet Intelligence
+
+AppSheet with Machine Learning
+
+https://solutions.appsheet.com/intelligence
+
+### Predictive Model App
+
+[Match outcome predictor](https://www.appsheet.com/samples/Match-outcome-predictor?appGuidString=ffa9055c-cbb7-49c5-ae35-1f0521e613ad)
+
+### Machine Learning Apps
+
+https://help.appsheet.com/en/collections/1627210-machine-learning
