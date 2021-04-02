@@ -12,7 +12,7 @@
 
 ### Cloud Databases
 
-* [GCP Database Products]((https://cloud.google.com/products/databases)
+* [GCP Database Products](https://cloud.google.com/products/databases)
 * [AWS Database products](https://aws.amazon.com/products/databases/) 
 * [Azure databases](https://azure.microsoft.com/en-us/product-categories/databases/)
 * [Oracle databases](https://www.oracle.com/database/)
