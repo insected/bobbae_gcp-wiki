@@ -8,6 +8,17 @@ https://cloud.google.com/products/ai/ml-comic-1
 Then head over to this tutorial.
 https://developers.google.com/machine-learning/crash-course/
 
+## Machine learning and artificial intelligence learning paths
+
+A Data Scientist models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth data modeling and deep learning
+
+https://cloud.google.com/training/machinelearning-ai
+
+## Machine learning workflow
+AI Platform enables many parts of the machine learning (ML) workflow. This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
+
+https://cloud.google.com/ai-platform/docs/ml-solutions-overview
+
 ## Links
 
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
