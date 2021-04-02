@@ -6,7 +6,14 @@ The term service mesh is used to describe the network of microservices that make
 
 The service mesh is typically implemented as a scalable set of network proxies deployed alongside application code (a pattern sometimes called a sidecar). These proxies handle the communication between the microservices and also act as a point at which the service mesh features can be introduced. The proxies comprise the service mesh’s data plane, and are controlled as a whole by its control plane.
 
-The rise of the service mesh is tied to the rise of the “cloud native” application. In the cloud native world, an application might consist of hundreds of services; each service might have thousands of instances; and each of those instances might be in a constantly-changing state as they are dynamically scheduled by an orchestrator like Kubernetes. Not only is service-to-service communication in this world incredibly complex, it’s a fundamental part of the application’s runtime behavior.
+The rise of the service mesh is tied to the rise of the “cloud native” application. In the cloud native world, an application might consist of hundreds of services; each service might have thousands of instances; and each of those instances might be in a constantly-changing state as they are dynamically scheduled by an orchestrator like Kubernetes. Not only is service-to-service communication in this world incredibly complex, it’s a fundamental part of the application’s runtime behavior
+
+### sidecar proxy
+
+
+A sidecar proxy is an application design pattern which abstracts certain features, such as inter-service communications, monitoring and security, away from the main architecture to ease the tracking and maintenance of the application as a whole.
+
+Nginx and envoy are common proxies used this way and controlled by service mesh controllers. 
 
 ### Service Mesh Manifesto
 
