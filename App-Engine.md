@@ -38,7 +38,9 @@ App Engine allows developers to focus on doing what they do best, writing code. 
 
 ### Comparison to other PaaS
 
+* Compare to AWS Elastic Beanstalk 
 https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and-heroku-2129d9c827bc
+
 
 #### AppEngine Standard
 
