@@ -20,6 +20,11 @@ MinIO protects data against hardware failures and silent data corruption using e
 
 https://docs.min.io/docs/minio-erasure-code-quickstart-guide.html
 
+### Reed-Solomon
+
+Erasure code is a mathematical algorithm to reconstruct missing or corrupted data. MinIO uses Reed-Solomon code to shard objects into variable data and parity blocks. For example, in a 12 drive setup, an object can be sharded to a variable number of data and parity blocks across all the drives - ranging from six data and six parity blocks to ten data and two parity blocks.
+
+
 # Distributed MinIO
 
 https://docs.min.io/docs/distributed-minio-quickstart-guide.html
