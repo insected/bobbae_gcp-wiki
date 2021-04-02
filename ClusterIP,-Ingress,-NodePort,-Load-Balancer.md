@@ -66,6 +66,9 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 
 
+## ingress example
 
+Set up ingress on minikube via nginx.
 
+https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
 
