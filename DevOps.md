@@ -20,7 +20,7 @@
 
 ### Introduction
 
-Obtain a [competitive advantage](https://hbr.org/sponsored/2019/01/competitive-advantage-through-devops) through DevOps. [DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. In this quest you will learn how to use Google Cloud to improve the speed, stability, availability, and security of your software delivery capability. [DevOps Research and Assessment](https://devops-research.com/) has joined Google Cloud. How does your team measure up? [Take this five multiple-choice question quiz](https://beta.devops-research.com/quickcheck.html) and find out! 
+[DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. In this quest you will learn how to use Google Cloud to improve the speed, stability, availability, and security of your software delivery capability. [DevOps Research and Assessment](https://devops-research.com/) has joined Google Cloud. How does your team measure up? [Take this five multiple-choice question quiz](https://beta.devops-research.com/quickcheck.html) and find out! 
 
 [DevOps Essentials](https://www.qwiklabs.com/quests/96?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
