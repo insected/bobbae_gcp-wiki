@@ -43,6 +43,14 @@ GCP compute stack that contains, Google Compute Engine (GCE), Google Kubernetes 
 
 [https://cloud.google.com/hosting-options](https://cloud.google.com/hosting-options)
 
+#### From Data Center Professional Point of view
+
+Typically, data centers use server virtualization, in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These virtual machines are created, provisioned, and managed through a software suite such as VMware vSphere or XenCenter.
+
+Compute Engine uses this model as well, combining server virtualization and related management tools into an integrated suite. On Compute Engine, virtual machines are called virtual machine (VM) instances
+
+https://cloud.google.com/docs/compare/data-centers/compute
+
 
 ### Compute Engine
 
@@ -212,3 +220,4 @@ This lab focuses on the “Assess” phase using [CloudPhysics](https://www.clou
 The hands-on labs in this Quest are structured to give experienced app developers hands-on practice with the state-of-the-art developing applications in Google Cloud. The topics align with the [Google Cloud Certified Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer) Certification. These labs follow the sequence of activities needed to create and deploy an app in GCP from beginning to end. Labs in the sequence with application code are presented in two language flavors, Java and Python. 
 
 [Cloud Development](https://www.qwiklabs.com/quests/67?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
+
