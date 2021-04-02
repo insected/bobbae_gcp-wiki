@@ -1,9 +1,21 @@
+# Kubernetes  service
+
+An abstract way to expose an application running on a set of Pods as a network service.
+With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
+
 https://kubernetes.io/docs/concepts/services-networking/service/
+
+A service can be exposed via NodePort, LoadBalancer or ClusterIP.
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/service
+
+When to use NodePort vs. LoadBalancer  can be confusing. 
 
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
 
 
 # ClusterIP
+
 A ClusterIP service is the default Kubernetes service. It gives you a service inside your cluster that other apps inside your cluster can access. There is no external access. It exposes the Service on a cluster-internal IP. Choosing this value makes the Service only reachable from within the cluster. This is the default ServiceType.
 
 
