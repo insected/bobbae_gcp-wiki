@@ -46,10 +46,17 @@ Google Cloud Migrate for Compute Engine (formerly Velostrata) migrates VMs from 
 
 [https://cloud.google.com/migrate/compute-engine/docs](https://cloud.google.com/migrate/compute-engine/docs)
 
+#### General VM Migration issues
+Compute Engine enables [Live Migration](https://cloudplatform.googleblog.com/2015/03/Google-Compute-Engine-uses-Live-Migration-technology-to-service-infrastructure-without-application-downtime.html) which can allow your instances migrated automatically when the physical hardware requires maintenance.
+
+As with standard hypervisor suites, Compute Engine also allows you to take live snapshots of VM instances. You can use these snapshots to create new instances within a zone or move an instance to a different zone.
+
+If your Compute Engine VM instance is terminated due to issues with the underlying physical host, the instance will recover automatically on a different host within the same zone. You can also elect to have your machines stay down by turning off automatic restart.
+
 
 #### Velostrata
 
-Google Cloud Migrate for Compute Engine (formerly Velostrata) migrates VMs from your on-premises data center, AWS, or Azure into Compute Engine.
+Velostrata gets enterprise applications running in Google Cloud within minutes, while data migrates transparently in the background. With Velostrata, enterprises can validate, run, and migrate applications into Google Cloud without rewriting them, modifying the image, or changing management processes.
 
 [https://cloud.google.com/blog/products/velostrata](https://cloud.google.com/blog/products/velostrata)
 
