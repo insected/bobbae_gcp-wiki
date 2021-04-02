@@ -77,6 +77,9 @@ A container is a standard unit of software that packages up code and all its dep
 
 #### Containers vs. VMs
 
+Virtual machines and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
+
+ 
 Comparison of containerizing vs using VMs.
 
 [https://www.youtube.com/watch?v=TvnZTi_gaNc](https://www.youtube.com/watch?v=TvnZTi_gaNc)
@@ -90,6 +93,13 @@ Find out the top three ways you can run your containers on Google Cloud! Google 
 
 
 ### Namespaces
+Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources. The feature works by having the same namespace for a set of resources and processes, but those namespaces refer to distinct resources. Resources may exist in multiple spaces. Examples of such resources are process IDs, hostnames, user IDs, file names, and some names associated with network access, and interprocess communication.
+
+Namespaces are a fundamental aspect of containers on Linux.
+
+The term "namespace" is often used for a type of namespace (e.g. process ID) as well as for a particular space of names.
+
+A Linux system starts out with a single namespace of each type, used by all processes. Processes can create additional namespaces and join different namespaces.
 
 An overview of Linux namespaces and how they are used in containers.
 
@@ -101,7 +111,7 @@ Some videos about Network Namespaces and how they are used in containers.
 
 
 ### Google Kubernetes Engine (GKE)
-
+Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
 #### An introduction to Kubernetes
 
