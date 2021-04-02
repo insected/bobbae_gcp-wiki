@@ -10,6 +10,7 @@
 
 ## Database Related topics
 
+GCP Database Products are listed [here](https://cloud.google.com/products/databases).
 
 ### SQL, NoSQL, NewSQL
 
