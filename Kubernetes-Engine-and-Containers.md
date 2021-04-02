@@ -535,10 +535,9 @@ Istio provides a powerful set of Kubernetes abstractions for traffic routing, se
 
 
 #### Envoy
+Envoy is a L7 edge service Proxy used widely by service mesh controllers such as , Ambassador, Consul, Contour and istio.
 
-What if you could deploy hybrid/multi-cloud services seamlessly without having to build or operate the requisite services management infrastructure? What building blocks are available today and what does the road ahead look like? We bring together folks from Google Cloud and Lyft to answer these questions. Google/Google Cloud have decades plus experience in delivering production-grade services like Borg, Cloud Load Balancing, Kubernetes Engine and more recently driving Istio, a fast-growing open source platform for managing (micro)services. Lyft developed and open sourced Envoy, a high performance proxy aiming to make the network transparent to applications, and transformed its own monolithic app into a sophisticated Envoy-based ""service mesh"".
-
-[https://www.youtube.com/watch?v=glATqKI-WR8](https://www.youtube.com/watch?v=glATqKI-WR8)
+[Watch a Video about Borg, Cloud Load Balancing, Kubernetes and Envoy into service mesh driven by Istio](https://www.youtube.com/watch?v=glATqKI-WR8).
 
 There are many [Open source projects built on Envoy Proxy](https://www.envoyproxy.io/community).
 
