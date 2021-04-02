@@ -2,6 +2,63 @@
 
 Cloud AutoML helps you easily build high quality custom machine learning models with limited machine learning expertise needed.
 
+https://cloud.google.com/automl
+
+## AI Platform with AutoML
+
+AI Platform (Unified) brings AutoML and AI Platform (Classic) together into a unified API, client library, and user interface. With AI Platform (Unified), both AutoML training and custom training are available options. Whichever option you choose for training, you can save models, deploy models and request predictions with AI Platform (Unified)
+
+https://cloud.google.com/ai-platform-unified/docs
+
+## AutoML Vision
+
+Derive insights from your images in the cloud or at the edge with AutoML Vision or use pre-trained Vision API models to detect emotion, understand text, and more.
+
+
+https://cloud.google.com/vision/overview/docs#automl-vision
+
+AutoML Vision enables you to train machine learning models to classify your images according to your own defined labels.
+
+- Train models from labeled images and evaluate their performance.
+- Leverage a human labeling service for datasets with unlabeled images.
+- Register trained models for serving through the AutoML API.
+
+AutoML Vision Edge now allows you to export your custom trained models.
+
+- AutoML Vision Edge allows you to train and deploy low-latency, high accuracy models optimized for edge devices.
+- With Tensorflow Lite, Core ML, and container export formats, AutoML Vision Edge supports a variety of devices.
+- Hardware architectures supported: Edge TPUs, ARM and NVIDIA.
+- To build an application on iOS or Android devices you can use AutoML Vision Edge in ML Kit. This solution is available via Firebase and offers an end-to-end development flow for creating and deploying custom models to mobile devices using ML Kit client libraries.
+
+https://cloud.google.com/vision/automl/docs#videos
+
+## AutoML Video intelligence
+
+Video Intelligence includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites. For example, video classification and object tracking.
+
+https://cloud.google.com/video-intelligence/automl/docs
+
+## AutoML Natural Language
+
+AutoML Natural Language enables you to build and deploy custom machine learning models that analyze documents, categorizing them, identify entities within them, or assessing attitudes within them. Learn more about the AutoML Natural Language features and capabilities.
+
+https://cloud.google.com/natural-language/automl/docs
+
+## AutoML Translation
+
+AutoML Translation  lets you to create your own, custom translation models so that translation queries return results specific to your domain.
+
+https://cloud.google.com/translate/automl/docs
+
+
+## AutoML Tables
+AutoML Tables enables your entire team to automatically build and deploy state-of-the-art machine learning models on structured data at massively increased speed and scale.
+
+https://cloud.google.com/automl-tables/docs
+
+### AutoML Tables Quickstart
+
+https://cloud.google.com/automl-tables/docs/quickstart
 
 ## Links
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
