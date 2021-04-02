@@ -21,11 +21,6 @@
     + [Hangouts Chat Bot](#hangouts-chat-bot)
     + [Big Data Analysis](#big-data-analysis)
     + [Google Cloud Functions](#google-cloud-functions)
-- [AppSheet](#appsheet)
-  * [Introduction](#introduction-1)
-  * [How to create a no-code App](#how-to-create-a-no-code-app)
-  * [Sample Apps](#sample-apps)
-  * [YouTube AppSheet Playlist](#youtube-appsheet-playlist)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -166,28 +161,3 @@ This lab covers Google Cloud's [BigQuery](http://cloud.google.com/bigquery) API 
 In this lab, you build and deploy a few Cloud Functions connected to G Suite APIs and other Google Cloud Platform services.
 
 [Empower Your Gmail Inbox with Google Cloud Functions](https://www.qwiklabs.com/focuses/5166?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7482904)
-
-
-## AppSheet
-
-
-### Introduction
-
-AppSheet Automation allows line-of-business employees to rapidly automate their critical business processes. The AI-powered solution anticipates your automation requirements, provides intelligent suggestions, and auto-constructs actions based on user intent.
-
-[https://cloud.google.com/appsheet](https://cloud.google.com/appsheet)
-
-
-### How to create a no-code App
-
-[https://solutions.appsheet.com/how-to-create-an-app](https://solutions.appsheet.com/how-to-create-an-app)
-
-
-### Sample Apps
-
-[https://www.appsheet.com/SampleApps](https://www.appsheet.com/SampleApps)
-
-
-### YouTube AppSheet Playlist
-
-[https://www.youtube.com/watch?v=7Tzwu8mY-gI&list=PLZ81nepkT97KAehtQ_Y__bNJX3qZaStvt](https://www.youtube.com/watch?v=7Tzwu8mY-gI&list=PLZ81nepkT97KAehtQ_Y__bNJX3qZaStvt)
