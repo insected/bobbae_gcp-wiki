@@ -13,7 +13,11 @@
 
 ### Introduction
 
-Learn how to create a Cloud IoT Core device registry and register a device. Try the Internet of Things: Qwik Start lab here:[ https://goo.gl/Wzgvaq](https://www.youtube.com/redirect?q=https%3A%2F%2Fgoo.gl%2FWzgvaq&redir_token=QUFFLUhqbU40UE5wbXFUUEtiSDRHT2hfY1dWbXIwdENXd3xBQ3Jtc0tueTJmREotMno2SHdtSi1xUVRJVGliZ21XNFRzd3VDWXppTWxxT1ZIcS0zc2NoZnBBZzJKWkx0akZybDRHTlg4cWF3T1RlWWN1OGQ5WWEtdVhCdjRVZ2FfME4zdXQ5ZFF0QnhHY0o3a2xfdmF6NUVwRQ%3D%3D&v=iRZzqpvARbc&event=video_description)
+The Internet of things (IoT) describes the network of physical objects—“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
+
+Learn how to create a Cloud IoT Core device registry and register a device. 
+
+Try the Internet of Things: Qwik Start lab here:[https://goo.gl/Wzgvaq](https://www.youtube.com/redirect?q=https%3A%2F%2Fgoo.gl%2FWzgvaq&redir_token=QUFFLUhqbU40UE5wbXFUUEtiSDRHT2hfY1dWbXIwdENXd3xBQ3Jtc0tueTJmREotMno2SHdtSi1xUVRJVGliZ21XNFRzd3VDWXppTWxxT1ZIcS0zc2NoZnBBZzJKWkx0akZybDRHTlg4cWF3T1RlWWN1OGQ5WWEtdVhCdjRVZ2FfME4zdXQ5ZFF0QnhHY0o3a2xfdmF6NUVwRQ%3D%3D&v=iRZzqpvARbc&event=video_description)
 
 [https://www.youtube.com/watch?v=iRZzqpvARbc](https://www.youtube.com/watch?v=iRZzqpvARbc)
 
