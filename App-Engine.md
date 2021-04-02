@@ -36,6 +36,9 @@ App Engine's environments, the [Standard Environment](https://cloud.google.com/a
 
 App Engine allows developers to focus on doing what they do best, writing code. The App Engine standard environment is based on container instances running on Google's infrastructure. Containers are preconfigured with one of several available runtimes (Java 8, Python 3.7, Go and PHP). Each runtime also includes libraries that support [App Engine Standard APIs](https://cloud.google.com/appengine/docs/about-the-standard-environment#index_of_features).  
 
+### Comparison to other PaaS
+
+https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and-heroku-2129d9c827bc
 
 #### AppEngine Standard
 
@@ -50,6 +53,7 @@ The App Engine standard environment makes it easy to build and deploy an applica
 *   Integration with other [Google cloud services and APIs](https://cloud.google.com/products/).
 
 Applications run in a secure, sandboxed environment, allowing the App Engine standard environment to distribute requests across multiple servers, and scaling servers to meet traffic demands. Your application runs within its own secure, reliable environment that is independent of the hardware, operating system, or physical location of the server.
+
 
 
 #### Language Support
