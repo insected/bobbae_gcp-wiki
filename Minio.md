@@ -16,6 +16,8 @@ https://docs.min.io/docs/minio-client-quickstart-guide.html
 
 # Erasure Code
 
+MinIO protects data against hardware failures and silent data corruption using erasure code and checksums. With the highest level of redundancy, you may lose up to half (N/2) of the total drives and still be able to recover the data.
+
 https://docs.min.io/docs/minio-erasure-code-quickstart-guide.html
 
 # Distributed MinIO
