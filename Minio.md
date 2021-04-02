@@ -10,6 +10,8 @@ MinIO is a cloud-native application designed to scale in a sustainable manner in
 
 https://docs.min.io/docs/minio-deployment-quickstart-guide.html
 
+MinIO Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff, find etc. It supports filesystems and Amazon S3 compatible cloud storage service (AWS Signature v2 and v4).
+
 https://docs.min.io/docs/minio-client-quickstart-guide.html
 
 # Erasure Code
