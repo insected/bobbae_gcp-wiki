@@ -27,9 +27,13 @@ Erasure code is a mathematical algorithm to reconstruct missing or corrupted dat
 
 # Distributed MinIO
 
+MinIO in distributed mode lets you pool multiple drives (even on different machines) into a single object storage server. As drives are distributed across several nodes, distributed MinIO can withstand multiple node failures and yet ensure full data protection.
+
+
 https://docs.min.io/docs/distributed-minio-quickstart-guide.html
 
 # Kubernetes
+
 https://docs.min.io/docs/deploy-minio-on-kubernetes.html
 
 # MinIO and TLS
@@ -37,6 +41,7 @@ https://docs.min.io/docs/deploy-minio-on-kubernetes.html
 https://docs.min.io/docs/how-to-secure-access-to-minio-server-with-tls.html
 
 # Server side encryption
+
 https://docs.min.io/docs/minio-security-overview.html
 
 # SDK
@@ -45,7 +50,7 @@ https://docs.min.io/docs/golang-client-quickstart-guide.html
 # Multi-tenant
 https://docs.min.io/docs/multi-tenant-minio-deployment-guide.html
 
-# diaggregated Spark and Hadoop Hive with MinIO
+# disaggregated Spark and Hadoop Hive with MinIO
 
 https://docs.min.io/docs/disaggregated-spark-and-hadoop-hive-with-minio.html
 
