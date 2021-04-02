@@ -90,10 +90,18 @@ Google Cloud Platform includes software-defined networking, hybrid connectivity,
 
 [https://developers.google.com/learn/topics/networking](https://developers.google.com/learn/topics/networking)
 
+Google Cloud Platform has recently added new regions in Seoul, Salt Lake City, Las Vegas and Jakarta. GCP implements software-defined network that provides fast and reliable connections to users around the world.
+
 [https://cloud.google.com/about/locations](https://cloud.google.com/about/locations)
+
+
+Google spent $30 billion improving the infrastructure over the years. From data centers to subsea cables, GCP connects customers in different regions around the world.
 
 [https://www.blog.google/products/google-cloud/expanding-our-global-infrastructure-new-regions-and-subsea-cables/](https://www.blog.google/products/google-cloud/expanding-our-global-infrastructure-new-regions-and-subsea-cables/)
 
+In a traditional data center, you manage a complex network setup composed of racks of servers, storage devices, multiple layers of switches, routers, load balancers, firewall devices, and more. In addition to these hardware components, you must set up, maintain, and monitor the network's underlying software, as well as detailed device configurations for your environment. And the managerial overhead doesn't end there: you also have to worry about the security and availability of your network, and you must plan out the upgrades and expansions of your network—a lengthy and time-consuming process.
+
+https://cloud.google.com/docs/compare/data-centers/networking
 
 #### Networking 101
 
