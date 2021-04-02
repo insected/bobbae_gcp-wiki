@@ -6,6 +6,8 @@ MinIO is a High Performance Object Storage released under Apache License v2.0. I
 
 https://docs.min.io/docs/minio-quickstart-guide.html
 
+MinIO is a cloud-native application designed to scale in a sustainable manner in multi-tenant environments. Orchestration platforms provide perfect launchpad for MinIO to scale
+
 https://docs.min.io/docs/minio-deployment-quickstart-guide.html
 
 https://docs.min.io/docs/minio-client-quickstart-guide.html
