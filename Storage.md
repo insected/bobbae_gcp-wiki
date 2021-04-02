@@ -102,6 +102,9 @@ You can create and manage Filestore instances by using the Google Cloud Console 
 
 [https://cloud.google.com/filestore/docs](https://cloud.google.com/filestore/docs)
 
+### NAS, SAN, DAS, etc.
+
+https://cloud.google.com/docs/compare/data-centers/storage
 
 #### Backups
 
