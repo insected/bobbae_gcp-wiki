@@ -122,3 +122,9 @@ The [Cloud Storage](https://cloud.google.com/storage) connector is an [open sour
 Cloud Storage FUSE is an open source FUSE adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems. It also provides a way for applications to upload and download Cloud Storage objects using standard file system semantics. Cloud Storage FUSE can be run anywhere with connectivity to Cloud Storage, including Google Compute Engine VMs or on-premises systems.
 
 https://cloud.google.com/storage/docs/gcs-fuse
+
+### Minio
+
+MinIO is a High Performance Object Storage similar to s3 and GCS.
+
+https://github.com/bobbae/gcp/wiki/Minio
