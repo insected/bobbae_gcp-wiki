@@ -39,8 +39,16 @@
 
 ## Security and Identity
 
+Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
+
+Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.
 
 ### Introduction
+
+GCP doesn't rely on any single technology to make it secure. GCP builds security through progressive layers that deliver true defense in depth.
+
+https://cloud.google.com/security/infrastructure
+
 
 Google Infrastructure Security.
 [https://www.youtube.com/watch?v=UOdUC8DhprQ](https://www.youtube.com/watch?v=UOdUC8DhprQ)
@@ -50,6 +58,12 @@ Google datacenter security has 6 layers.
 
 Security Foundations.
 https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
+
+#### Operational security
+
+Google administrates a vulnerability management process that actively scans for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
+
+https://cloud.google.com/security/overview/whitepaper#operational_security
 
 #### Authentication Options
 
