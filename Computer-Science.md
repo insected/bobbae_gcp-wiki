@@ -1,14 +1,14 @@
-# some resources for general learning and computer science 
+# Some resources for general learning and computer science 
 
-## learning how to learn 
+## Learning how to learn 
 
 https://www.coursera.org/learn/learning-how-to-learn
 
-## learn how to program in ten years
+## Learn how to program in ten years
 
 https://norvig.com/21-days.html
 
-## humble programmer
+## Humble programmer
 
 https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
 
@@ -21,14 +21,14 @@ https://github.com/ossu/computer-science
 
 
 
-## opensource computer science degree 
+## Opensource computer science degree 
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 https://github.com/ForrestKnight/open-source-cs
 
 
-## list of courses with video
+## List of courses with video
 
 Lectures and videos.
 
