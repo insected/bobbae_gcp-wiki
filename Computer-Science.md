@@ -19,7 +19,7 @@ https://github.com/ForrestKnight/open-source-cs
 
 ## List of courses with video
 
-Lectures and videos.
+Lectures and videos from various Universities.
 
 https://github.com/Developer-Y/cs-video-courses
 
