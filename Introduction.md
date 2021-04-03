@@ -52,8 +52,7 @@ Google Cloud consists of a set of physical assets, such as computers and hard di
 
 Google produced videos that help you learn about GCP are collected in this channel.
 
-[https://www.youtube.com/c/googlecloudplatform/featured](https://www.youtube.com/c/googlecloudplatform/featured)
-
+https://www.youtube.com/googlecloudplatform/
 
 
 #### GCP Useful Links
