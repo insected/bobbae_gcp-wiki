@@ -36,6 +36,9 @@ Here are some very high level diagrams and references for various GCP services.
 
 [https://gcp.solutions/](https://gcp.solutions/)
 
+
+#### Regions and Zones
+
 Google Cloud consists of a set of physical assets, such as computers and hard disk drives, and virtual resources, such as virtual machines (VMs), that are contained in [Google's data centers](https://cloud.withgoogle.com/infrastructure/explore) around the globe. Each data center location is in a region. Regions are available in Asia, Australia, Europe, North America, and South America. Each region is a collection of zones, which are isolated from each other within the region. Each zone is identified by a name that combines a letter identifier with the name of the region. For example, zone a in the East Asia region is named asia-east1-a. This distribution of resources provides several benefits, including redundancy in case of failure and reduced latency by locating resources closer to clients. This distribution also introduces some rules about how resources can be used together. When architecting your apps in GCP, it’s important to understand [regions and zones](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources), as well as the resources that are regional or zonal. While some of the core resources in GCP are global, others may be restricted by region or zone. Regional resources can be used anywhere within the same region, while zonal resources can be used anywhere within the same zone. 
 
 [https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources)
