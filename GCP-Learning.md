@@ -6,7 +6,7 @@
 
 - [Preparation](https://github.com/bobbae/gcp/wiki/Preparation)
 - [Syllabus](https://github.com/bobbae/gcp/wiki/Syllabus)
-- [Introduction](https://github.com/bobbae/gcp/wiki/Introduction)
+- [Introduction to GCP](https://github.com/bobbae/gcp/wiki/Introduction)
 - [Compute](https://github.com/bobbae/gcp/wiki/Compute)
 - [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine)
 - [Compute Options](https://github.com/bobbae/gcp/wiki/Compute-Options)
