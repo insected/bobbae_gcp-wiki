@@ -16,6 +16,16 @@ Compare Google Cloud with AWS and highlight the similarities and differences bet
 
 [https://cloud.google.com/docs/compare/aws](https://cloud.google.com/docs/compare/aws) 
 
+### VMs vs. Containers
+
+Virtual machines (VMs) are a technology for building virtualized computing environments. They have been around for quite a while and are considered the foundation of the first generation of cloud computing.
+
+Containers are a lighter-weight, more agile way of handling virtualization. Rather than spinning up an entire virtual machine, a container packages together everything needed to run a small piece of software. The container includes all the code, its dependencies, and even the operating system itself. This enables applications to run almost anywhere—a desktop computer, a traditional IT infrastructure, or the cloud.
+
+https://www.ibm.com/cloud/blog/containers-vs-vms
+
+
+
 
 ### DevOps vs. SRE
 
@@ -26,6 +36,23 @@ A video discussing differences and similarities between DevOps and SRE.
 Some books on SRE from google.
 
 [https://landing.google.com/sre/books/](https://landing.google.com/sre/books/)
+
+### Terraform vs. Ansible
+
+Infrastructure as Code (IAC) refers to the process of managing and provisioning computer data centers. It’s a strategy for managing data center servers, networking infrastructure, and storage. Its purpose is to simplify large-scale management and configuration dramatically.
+
+IAC allows provisioning and managing of computer data centers via machine-readable definition files without having to configure tools or physical hardware. In simpler terms, IAC treats manual configurations, build guides, run books, and related procedures as code. Read by software, the code that maintains the state of the infrastructure.
+
+
+There are several IAC tools to choose from, with three major examples being Ansible, Terraform, and Puppet.
+
+Hashicorp developed Terraform as an infrastructure orchestrator and service provisioner. It is cloud-agnostic, supporting several providers. As a result, users can manage multi-cloud or multi offering environments, using the same programming language and configuration construct. It utilizes the Haschorp Language and is quite user-friendly as compared to other tools.
+
+Ansible is a powerful tool used to bring services and servers into the desired state, utilizing an assortment of classes and configuration methods. Additionally, it can also connect to different providers via wrapper modules to configure resources. Users prefer it because it is lightweight when coding is concerned, with speedy deployment capabilities.
+
+
+
+https://phoenixnap.com/blog/ansible-vs-terraform-vs-puppet
 
 ### SQL vs NoSQL
 
@@ -47,8 +74,9 @@ https://www.xplenty.com/blog/etl-vs-elt/
 
 ### Deep Learning vs. Machine Learning
 
-Machine learning uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned. ... While both fall under the broad category of artificial intelligence, deep learning is what powers the most human-like artificial intelligence.
+Machine Learning and Deep Learning are concepts that are often overlapping. There can be a slight confusion between the terms, and thus, let us look at Machine learning vs Deep learning, and understand the similarities and differences between the same.
+
+Machine learning uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned. While both fall under the broad category of artificial intelligence, deep learning is what powers the most human-like artificial intelligence. Deep learning structures algorithms in layers to create an “artificial neural network” that can learn and make intelligent decisions on its own.
 
 https://www.zendesk.com/blog/machine-learning-and-deep-learning/
 
-### 
