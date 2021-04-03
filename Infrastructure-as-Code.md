@@ -30,15 +30,22 @@
 
 ## Infrastructure as Code
 
+Infrastructure as Code (IAC) refers to the process of managing and provisioning computer data centers. It’s a strategy for managing data center servers, networking infrastructure, and storage. Its purpose is to simplify large-scale management and configuration dramatically.
+
+IAC allows provisioning and managing of computer data centers via machine-readable definition files without having to configure tools or physical hardware. In simpler terms, IAC treats manual configurations, build guides, run books, and related procedures as code. Read by software, the code that maintains the state of the infrastructure.
 
 ### Introduction
 
 Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? In this episode of Season of Scale, Stephanie Wong explains why you should adopt an Infrastructure as code (IaC) strategy, so you can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google Cloud Deployment Manager.
 
+
+
 [https://cloud.google.com/solutions/infrastructure-as-code](https://cloud.google.com/solutions/infrastructure-as-code)
 
 
 #### Google Cloud Deployment Manager
+
+Google Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using yaml. You can also use Python or Jinja2 templates to parameterize the configuration and allow reuse of common deployment paradigms such as a load balanced, auto-scaled instance group.
 
 [https://www.youtube.com/watch?v=z-caqPtEw58](https://www.youtube.com/watch?v=z-caqPtEw58)
 
@@ -100,14 +107,19 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 
 ### Terraform 
 
+Terraform is a tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+
+Terraform is a widely used tool to create cloud infrastructure to public clouds — and this is Terraform’s most compelling pro: If you do multi-cloud development (as I do — AWS, GCP and Azure) it is a really powerful benefit to have one tool to create IaC for all three cloud platforms. Terraform also provides powerful declarative language (HCL) for creating IaC solutions. All major cloud services are supported in Terraform and usually new major services are supported pretty soon they are launched by the cloud provider.
+
+Terraform is a declarative language but compared to other declarative languages used by some public cloud provider native IaC tools (like JSON or YAML) Terraform provides nice constructs to modularize your cloud resources into logical re-usable entities.
 
 #### Introduction
 
-Terraform's infrastructure-as-code (IaC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
+Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
 [https://cloud.google.com/docs/terraform](https://cloud.google.com/docs/terraform)
 
-Terraform is a tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+Google Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using yaml. On the other hand, Terraform is detailed as "Describe your complete infrastructure as code and build resources across providers".
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
@@ -185,3 +197,4 @@ In this Quest, the experienced user of Google Cloud will learn how to describe a
 Google Cloud’s four step structured Cloud Migration Path Methodology provides a defined and repeatable path for users to follow when migrating and modernizing Virtual Machines. In this quest, you will get hands-on practice with Google’s current solution set for VM assessment, planning, migration, and modernization. You will start by analyzing your lab environment and building assessment reports with CloudPhysics and StratoZone, then build a landing zone within Google Cloud leveraging Terraform’s infrastructure-as-code templates, next you will manually transform a two-tier application into a cloud-native workload running on Kubernetes, and finally, transform a VM workload into Kubernetes with Migrate for Anthos and migrate a VM between cloud environments.
 
 [VM Migration](https://www.qwiklabs.com/quests/87?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
+
