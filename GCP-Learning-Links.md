@@ -1,3 +1,4 @@
+To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/GCP-Learning)
 
 # GCP Basics
 - [Google Cloud Platform](https://cloud.google.com/) 
