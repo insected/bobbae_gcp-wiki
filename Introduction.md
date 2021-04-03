@@ -36,6 +36,10 @@ Here are some very high level diagrams and references for various GCP services.
 
 [https://gcp.solutions/](https://gcp.solutions/)
 
+This video is an Introduction to GCP.
+
+[https://www.youtube.com/watch?v=4D3X6Xl5c_Y](https://www.youtube.com/watch?v=4D3X6Xl5c_Y)
+
 
 #### Regions and Zones
 
@@ -50,9 +54,6 @@ Google produced videos that help you learn about GCP are collected in this chann
 
 [https://www.youtube.com/c/googlecloudplatform/featured](https://www.youtube.com/c/googlecloudplatform/featured)
 
-This video is an Introduction to GCP.
-
-[https://www.youtube.com/watch?v=4D3X6Xl5c_Y](https://www.youtube.com/watch?v=4D3X6Xl5c_Y)
 
 
 #### GCP Useful Links
