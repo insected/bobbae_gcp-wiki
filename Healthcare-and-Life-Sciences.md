@@ -56,3 +56,8 @@ In this lab, you will create a prediction pipeline for FHIR resources using Clou
 
 [Machine Learning Predictions with FHIR and Healthcare API](https://www.qwiklabs.com/focuses/6129?catalog_rank=%7B%22rank%22%3A18%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468017)
 
+## bioinformatics
+
+If you are further interested in more bio informatics
+
+https://github.com/ossu/bioinformatics
