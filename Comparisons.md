@@ -80,3 +80,16 @@ Machine learning uses algorithms to parse data, learn from that data, and make i
 
 https://www.zendesk.com/blog/machine-learning-and-deep-learning/
 
+### TLS vs SSL
+
+
+Transport Layer Security, or TLS, is a widely adopted security protocol designed to facilitate privacy and data security for communications over the Internet. 
+
+TLS evolved from a previous encryption protocol called Secure Sockets Layer (SSL), which was developed by Netscape. TLS version 1.0 actually began development as SSL version 3.1, but the name of the protocol was changed before publication in order to indicate that it was no longer associated with Netscape. Because of this history, the terms TLS and SSL are sometimes used interchangeably.
+
+### TLS vs HTTPS
+
+HTTPS is an implementation of TLS encryption on top of the HTTP protocol, which is used by all websites as well as some other web services. Any website that uses HTTPS is therefore employing TLS encryption.
+
+https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
+
