@@ -57,3 +57,9 @@ https://docs.min.io/docs/disaggregated-spark-and-hadoop-hive-with-minio.html
 # Cookbooks
 
 https://docs.min.io/docs/minio-client-quickstart-guide.html
+
+# JuiceFS
+
+JuiceFS is a POSIX-compatible shared filesystem specifically designed to work in the cloud.
+
+https://juicefs.com/?hl=en
