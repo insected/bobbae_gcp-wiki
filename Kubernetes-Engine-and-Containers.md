@@ -545,7 +545,8 @@ Istio provides a powerful set of Kubernetes abstractions for traffic routing, se
 
 
 #### Envoy
-Envoy is a L7 edge service Proxy used widely by service mesh controllers such as , Ambassador, Consul, Contour and istio.
+
+Envoy is  a L7 edge service Proxy used widely by service mesh controllers such as Consul, Contour and istio. Envoy is also used by API gateway like Ambassador.
 
 [Watch a Video about Borg, Cloud Load Balancing, Kubernetes and Envoy into service mesh driven by Istio](https://www.youtube.com/watch?v=glATqKI-WR8).
 
@@ -571,5 +572,7 @@ Wanting to know how to use Envoy to protect your microservices? In this video, w
 https://linkerd.io/
 
 [https://www.youtube.com/watch?v=Bj7gGQUiDuk](https://www.youtube.com/watch?v=Bj7gGQUiDuk)
+
+Linkerd and istio comparison. 
 
 https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
