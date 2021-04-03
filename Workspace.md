@@ -32,7 +32,7 @@ AKA G-Suite
 
 ### Introduction
 
-Similar to G Suite, all Google Workspace plans provide a custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides, Forms, Sites, and more. 
+All Google Workspace plans provide a custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides, Forms, Sites, and more. 
 
 [https://workspace.google.com/](https://workspace.google.com/)
 
@@ -161,3 +161,7 @@ This lab covers Google Cloud's [BigQuery](http://cloud.google.com/bigquery) API 
 In this lab, you build and deploy a few Cloud Functions connected to G Suite APIs and other Google Cloud Platform services.
 
 [Empower Your Gmail Inbox with Google Cloud Functions](https://www.qwiklabs.com/focuses/5166?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7482904)
+
+### AppSheet
+
+https://github.com/bobbae/gcp/wiki/AppSheet
