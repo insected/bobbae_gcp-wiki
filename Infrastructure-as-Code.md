@@ -198,3 +198,36 @@ Google Cloud’s four step structured Cloud Migration Path Methodology provides 
 
 [VM Migration](https://www.qwiklabs.com/quests/87?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
+## Alternatives and Similar tools
+
+Some of the similar frameworks and tools that are used elsewhere and in different contexts.
+
+### AWS Cloud formation
+
+AWS CloudFormation lets users model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycles, by treating infrastructure as code. A CloudFormation template describes your desired resources and their dependencies so you can launch and configure them together as a stack. 
+
+https://aws.amazon.com/cloudformation/
+
+### Openstack Heat
+
+The OpenStack Foundation has also defined a similar standard for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
+
+https://wiki.openstack.org/wiki/Heat
+
+### TOSCA
+
+Topology and Orchestration Specification for Cloud Applications (TOSCA), is an OASIS standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
+
+https://en.wikipedia.org/wiki/OASIS_TOSCA
+
+### Cloudify
+
+Cloudify is an open-source TOSCA-based orchestration framework based on YAML.
+
+https://cloudify.co/
+
+### Comparison of terraform and cloud formation and heat, etc.
+
+https://www.terraform.io/intro/vs/cloudformation.html
+
+
