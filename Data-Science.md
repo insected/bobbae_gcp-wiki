@@ -759,3 +759,15 @@ In this lab learn how to install and use Kubeflow Pipelines to orchestrate vario
 
 [Kubeflow Pipelines with AI Platform](https://www.qwiklabs.com/focuses/10948?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467701)
 
+## Data Science related Math
+
+### Linear Algebra
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+### Various pointers
+
+https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd
+
+https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
+
