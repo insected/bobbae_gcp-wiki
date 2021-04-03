@@ -66,6 +66,7 @@ Cloud Identity and Access Management (IAM) lets administrators authorize who can
 
 [https://cloud.google.com/iam](https://cloud.google.com/iam)
 
+In general, the term IAM as in Identity and access management (IAM or IdAM for short) is a way to tell who a user is and what they are allowed to do. IAM is like the bouncer at the door of a nightclub with a list of who is allowed in, who isn't allowed in, and who is able to access the VIP area. IAM is also called identity management (IdM).
 
 #### Roles
 
