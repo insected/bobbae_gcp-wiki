@@ -761,9 +761,23 @@ In this lab learn how to install and use Kubeflow Pipelines to orchestrate vario
 
 ## Data Science related Math
 
+Here are some very basic introductory videos on various useful math topics.
+
 ### Linear Algebra
 
+https://www.youtube.com/watch?v=kjBOesZCoqc
+
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+### Calculus
+
+https://www.youtube.com/watch?v=WjJ-kpgps1c
+
+https://www.youtube.com/watch?v=WsQQvHm4lSw
+
+### Statistics
+
+https://www.youtube.com/watch?v=kyjlxsLW1Is
 
 ### Various pointers
 
