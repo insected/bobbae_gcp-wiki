@@ -1,4 +1,4 @@
-# cert manager
+# Cert manager
 
 cert-manager is a native Kubernetes certificate management controller. It can help with issuing certificates from a variety of sources, such as Let’s Encrypt, HashiCorp Vault, Venafi, a simple signing key pair, or self signed.
 
@@ -15,15 +15,27 @@ Google-managed SSL certificates are Domain Validation (DV) certificates that Goo
 https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
 
 
-## letsEncrypt
+## LetsEncrypt
 
 To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). Let’s Encrypt is a CA. In order to get a certificate for your website’s domain from Let’s Encrypt, you have to demonstrate control over the domain. With Let’s Encrypt, you do this using software that uses the ACME protocol which typically runs on your web host.
 
 
 https://letsencrypt.org/
 
-## auto provision of Kubernetes certs
+## Auto provision of Kubernetes certs
+
+A Tutorial on installing and securing ingress to your kubernetes cluster using NGINX.
+
+https://cert-manager.io/docs/tutorials/acme/ingress/
 
 
+An example to automatically provision and manage TLS certificates in GKE.
 
 https://gregdaybreak.medium.com/auto-provisioning-lets-encrypt-wildcard-certificates-with-cert-manager-on-gke-8665994b9ae8
+
+### kube-lego
+
+Deprecated method to automatically request certificates for kubernetes ingress resources from Let's Encrypt.
+
+https://github.com/jetstack/kube-lego
+
