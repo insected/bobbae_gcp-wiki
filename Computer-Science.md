@@ -4,7 +4,7 @@
 
 https://www.coursera.org/learn/learning-how-to-learn
 
-## Learn how to program in ten years
+## Learn how to program in years
 
 https://norvig.com/21-days.html
 
