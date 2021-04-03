@@ -499,11 +499,16 @@ A favorite lab.
 
 ### Service Mesh
 
+
 Why use service mesh? How does istio work?
 
 [https://www.youtube.com/watch?v=6zDrLvpfCK4](https://www.youtube.com/watch?v=6zDrLvpfCK4)
 
-Enterprises are increasingly adopting microservices to enable new levels of IT agility, scale, and innovation — but a successful microservices implementation is notoriously complicated. As the number of services an organization uses grows, complexity and risk can increase rapidly. Moreover, microservices need to be exposed as APIs to enable seamless access for internal groups — or with external partners to increase operational efficiency and speed up development. This video shows how to build a secure and scalable [microservices architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9) with Kubernetes, Istio, and Apigee API management platform.
+Enterprises are increasingly adopting microservices to enable new levels of IT agility, scale, and innovation — but a successful microservices implementation is notoriously complicated. As the number of services an organization uses grows, complexity and risk can increase rapidly. Moreover, microservices need to be exposed as APIs to enable seamless access for internal groups — or with external partners to increase operational efficiency and speed up development. 
+
+https://github.com/bobbae/gcp/wiki/Service-Mesh
+
+This video shows how to build a secure and scalable [microservices architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9) with Kubernetes, Istio, and Apigee API management platform.
 
 [https://www.youtube.com/watch?v=IblDMVwSSk4](https://www.youtube.com/watch?v=IblDMVwSSk4)
 
@@ -554,6 +559,8 @@ There are many [Open source projects built on Envoy Proxy](https://www.envoyprox
 
 [Events in the life of a request](https://www.envoyproxy.io/docs/envoy/latest/intro/life_of_a_request) passing through an Envoy proxy is complicated.
 How a request flows through the components in a network depends on the network topology. Envoy can be used in a wide variety of networking topologies. Envoy originated as a service mesh sidecar proxy, factoring out load balancing, routing, observability, security and discovery services from applications. In the service mesh model, requests flow through Envoys as a gateway to the network. Requests arrive at an Envoy via either ingress or egress listeners.  
+
+https://github.com/bobbae/gcp/wiki/L7-Proxies
 
 #### Apigee Envoy
 
