@@ -31,5 +31,4 @@
 - [Comparisons](https://github.com/bobbae/gcp/wiki/Comparisons)
 - [Accounts and Billing](https://github.com/bobbae/gcp/wiki/Accounts-and-Billing)
 - [Compliance](https://github.com/bobbae/gcp/wiki/Compliance)
-
-
+- [Links](https://github.com/bobbae/gcp/wiki/GCP-Learning-Links)
