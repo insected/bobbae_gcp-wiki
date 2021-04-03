@@ -1,7 +1,4 @@
-# Syllabus
 
-
-### Course Description
 
 This is a  course on GCP Infrastructure and services in general.  Trainees are expected to complete as much  of the material presented here during the eight week course. Example schedules for different types of GCP classes are provided.  
 
