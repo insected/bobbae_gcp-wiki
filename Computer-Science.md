@@ -1,16 +1,5 @@
 # Learning about computer science 
 
-## Learning how to learn 
-
-https://www.coursera.org/learn/learning-how-to-learn
-
-## Learn how to program in years
-
-https://norvig.com/21-days.html
-
-## Humble programmer
-
-https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
 
 
 ## OSSU
@@ -33,4 +22,17 @@ https://github.com/ForrestKnight/open-source-cs
 Lectures and videos.
 
 https://github.com/Developer-Y/cs-video-courses
+
+## Learning how to learn 
+
+https://www.coursera.org/learn/learning-how-to-learn
+
+## Learn how to program in years
+
+https://norvig.com/21-days.html
+
+## Humble programmer
+
+https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html
+
 
