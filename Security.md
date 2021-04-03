@@ -111,27 +111,17 @@ Envisioned in 2011, the BeyondCorp security model leverages identity and context
 
 Zero Trust is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access.
 
-For example, Zero Trust security model allows remote workers to access applications through a secure web-based gateway. The solution implements least-privilege principles and supports multi-factor authentication (MFA) and device security checks. Unlike a VPN infrastructure, Zero Trust is highly scalable, more affordable, and easily integrates with various single sign-on (SSO) platforms already available in the marketplace. It also permits the configuration of access control policies to manage permissions based on users’ privileges and devices.
-
-Traditional IT network security is based on the castle-and-moat concept. In castle-and-moat security, it is hard to obtain access from outside the network, but everyone inside the network is trusted by default. The problem with this approach is that once an attacker gains access to the network, they have free reign over everything inside.
-
-This vulnerability in castle-and-moat security systems is exacerbated by the fact that companies no longer have their data in just one place. Today, information is often spread across cloud vendors, which makes it more difficult to have a single security control for an entire network.
-
-Zero trust security means that no one is trusted by default from inside or outside the network, and verification is required from everyone trying to gain access to resources on the network. This added layer of security has been shown to prevent data breaches. A recent IBM-sponsored study demonstrated that the average cost of a single data breach is over $3 million. Considering that figure, it should come as no surprise that many organizations are now eager to adopt a zero-trust security policy.
-
 The philosophy behind a zero trust network assumes that there are attackers both within and outside of the network, so no users or machines should be automatically trusted.
 
-Another principle of zero trust security is least-privilege access. This means giving users only as much access as they need, like an army general giving soldiers information on a need-to-know basis. This minimizes each user’s exposure to sensitive parts of the network.
+https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/
 
-Zero trust networks also utilize microsegmentation. Microsegmentation is the practice of breaking up security perimeters into small zones to maintain separate access for separate parts of the network. For example, a network with files living in a single data center that utilizes microsegmentation may contain dozens of separate, secure zones. A person or program with access to one of those zones will not be able to access any of the other zones without separate authorization.
+### SASE
 
-Multi-factor authentication (MFA) is also a core value of zero trust security. MFA simply means requiring more than one piece of evidence to authenticate a user; just entering a password is not enough to gain access. A commonly seen application of MFA is the 2-factor authorization (2FA) used on popular online platforms like Facebook and Google. In addition to entering a password, users who enable 2FA for these services must also enter a code sent to another device, such as a mobile phone, thus providing two pieces of evidence that they are who they claim to be.
+Secure access service edge, or SASE, is a cloud-based security model which bundles software-defined networking with network security functions and delivers them from a single service provider. 
 
-In addition to controls on user access, zero trust also requires strict controls on device access. Zero trust systems need to monitor how many different devices are trying to access their network and ensure that every device is authorized. This further minimizes the attack surface of the network.
+SASE brings network security services and access control closer to the end user by shifting those key processes to the cloud, and operates on a global network in order to minimize latency while doing so.
 
-The term `zero trust` was coined by an analyst at Forrester Research Inc. in 2010 when the model for the concept was first presented. A few years later, Google announced that they had implemented zero trust security in their network, which led to a growing interest in adoption within the tech community. In 2019, Gartner, a global research and advisory firm, listed zero trust security access as a core component of secure access service edge (SASE) solutions.
-
-
+https://www.cloudflare.com/learning/access-management/what-is-sase/
 
 ### BeyondCorp Enterprise
 
@@ -366,3 +356,4 @@ Security is an uncompromising feature of Google Cloud services, and Google Cloud
 In this fundamental-level quest, you will get hands-on practice with Google Cloud’s Identity and Access Management (IAM) service, which is the go-to for managing user and virtual machine accounts. You will get experience with network security by provisioning VPCs and VPNs, and learn what tools are available for security threat and data loss protections.
 
 [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
+
