@@ -1,4 +1,4 @@
-# Some resources for learning about computer science 
+# Learning about computer science 
 
 ## Learning how to learn 
 
