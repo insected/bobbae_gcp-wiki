@@ -116,3 +116,9 @@ https://cloud.google.com/docs/compare/data-centers/storage
 The [Cloud Storage](https://cloud.google.com/storage) connector is an [open source Java library](https://github.com/GoogleCloudDataproc/hadoop-connectors/tree/master/gcs) that lets you run [Apache Hadoop](https://hadoop.apache.org/) or [Apache Spark](https://spark.apache.org/) jobs directly on data in Cloud Storage, and offers a number of benefits over choosing the Hadoop Distributed File System (HDFS).
 
 [https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage](https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage)
+
+### Cloud Storage FUSE
+
+Cloud Storage FUSE is an open source FUSE adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems. It also provides a way for applications to upload and download Cloud Storage objects using standard file system semantics. Cloud Storage FUSE can be run anywhere with connectivity to Cloud Storage, including Google Compute Engine VMs or on-premises systems.
+
+https://cloud.google.com/storage/docs/gcs-fuse
