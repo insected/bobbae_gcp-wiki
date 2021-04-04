@@ -21,7 +21,7 @@
 - [Anthos and Hybrid Multicloud](https://github.com/bobbae/gcp/wiki/Hybrid-Multi-Cloud-And-Anthos)
 - [Operations, Monitoring, Stackdriver](https://github.com/bobbae/gcp/wiki/Operations-and-Stackdriver)
 - [Security](https://github.com/bobbae/gcp/wiki/Security)
-- [Infrastructure as Code a.k.a. Cloud Foundation](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)
+- [Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)
 - [Google Maps Platform](https://github.com/bobbae/gcp/wiki/Google-Maps-Platform)
 - [G-Suite a.k.a. Workspace](https://github.com/bobbae/gcp/wiki/Workspace)
 - [Healthcare and Life Sciences](https://github.com/bobbae/gcp/wiki/Healthcare-and-Life-Sciences)
