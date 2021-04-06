@@ -36,7 +36,7 @@ IAC allows provisioning and managing of computer data centers via machine-readab
 
 ## Introduction
 
-Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? In this episode of Season of Scale, Stephanie Wong explains why you should adopt an Infrastructure as code (IaC) strategy, so you can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google Cloud Deployment Manager.
+Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? You can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google Cloud Deployment Manager.
 
 
 
@@ -87,7 +87,7 @@ Google Cloud Deployment Manager allows you to specify all the resources needed f
 
 ## Cloud Foundation Toolkit
 
-The Cloud Foundation Toolkit provides a series of reference templates for Deployment Manager and Terraform which reflect Google Cloud best practices. These templates can be used off-the-shelf to quickly build a repeatable enterprise-ready foundation in Google Cloud. This frees you to focus on deploying your applications on this baseline secure environment. And with infrastructure as code (IaC), you can easily update the foundation as your needs change.
+The Cloud Foundation Toolkit provides a series of reference templates for Deployment Manager and Terraform which reflect Google Cloud best practices. These templates can be used off-the-shelf to quickly build a repeatable enterprise-ready foundation in Google Cloud. This frees you to focus on deploying your applications on this baseline secure environment. And with infrastructure as code, you can easily update the foundation as your needs change.
 
 [https://cloud.google.com/foundation-toolkit/](https://cloud.google.com/foundation-toolkit/)
 
