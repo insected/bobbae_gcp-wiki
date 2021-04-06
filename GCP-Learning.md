@@ -1,5 +1,4 @@
 # GCP Learning Main
-## A GCP Training
 
 
 ## Table of Contents
