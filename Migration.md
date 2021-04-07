@@ -144,5 +144,7 @@ Database Migration Service streamlines networking workflows, manages the initial
 
 ### AWS to GCP Data migration
 
+This overview outlines the general steps required for migrating VMs from AWS EC2 to Google Cloud using Velostrata.
+
 https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
 
