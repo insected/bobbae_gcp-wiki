@@ -134,10 +134,14 @@ Database Migration Service streamlines networking workflows, manages the initial
 
 #### Trident
 
+Trident is a fully supported open source project maintained by NetApp. It has been designed from the ground up to help you meet your containerized applications' persistence demands using industry-standard interfaces, such as the Container Storage Interface (CSI).
+
 [https://github.com/NetApp/trident](https://github.com/NetApp/trident)
 
 
 #### Cloud Volumes Service 
+
+Cloud Volumes Service removes obstacles so you can move more of your file-based apps to Google Cloud, with support for Network File System (NFSv3 and NFSv4.1) and Server Message Block (SMB) volumes. You don't have to re-architect your apps, and you get persistent storage for your apps without complexity.
 
 [https://cloud.netapp.com/cloud-volumes-service-for-gcp](https://cloud.netapp.com/cloud-volumes-service-for-gcp)
 
