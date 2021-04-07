@@ -108,6 +108,10 @@ Whether you're coming from an online or on-premises source, our online storage t
 
 ### Database Migration Service
 
+Database Migration Service makes it easier for you to migrate your data to Google Cloud. This service helps you lift and shift your MySQL and PostgreSQL workloads into Cloud SQL.
+
+Database Migration Service streamlines networking workflows, manages the initial snapshot and ongoing replication, and provides a status of the migration operations.
+
 [https://cloud.google.com/database-migration](https://cloud.google.com/database-migration)
 
 [https://cloud.google.com/blog/products/databases/database-migration-service-now-available-for-cloud-sql-and-more](https://cloud.google.com/blog/products/databases/database-migration-service-now-available-for-cloud-sql-and-more)
@@ -140,12 +144,5 @@ Whether you're coming from an online or on-premises source, our online storage t
 
 ### AWS to GCP Data migration
 
-[https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview](https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview)
+https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
 
-### Database migration 
-
-https://cloud.google.com/database-migration/docs
-
-Database Migration Service makes it easier for you to migrate your data to Google Cloud. This service helps you lift and shift your MySQL and PostgreSQL workloads into Cloud SQL.
-
-Database Migration Service streamlines networking workflows, manages the initial snapshot and ongoing replication, and provides a status of the migration operations.
