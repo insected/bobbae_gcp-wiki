@@ -101,3 +101,18 @@ HTTPS is an implementation of TLS encryption on top of the HTTP protocol, which 
 
 https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
 
+### Reverse Proxy vs. Load Balancer
+
+* A reverse proxy accepts a request from a client, forwards it to a server that can fulfill it, and returns the server’s response to the client.
+* A load balancer distributes incoming client requests among a group of servers, in each case returning the response from the selected server to the appropriate client.
+
+https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
+
+### Ingress vs. Load Balancer
+
+In Kubernetes:
+
+* A Kubernetes LoadBalancer is a type of Service.
+* A Kubernetes Ingress is not a type of Service. It is a collection of rules. An []Ingress Controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
+
+https://web.media.mit.edu/~holbrow/post/kubernetes-what-is-the-difference-between-a-loadbalancer-and-an-ingress/
