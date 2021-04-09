@@ -115,6 +115,6 @@ https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
 In Kubernetes:
 
 * A Kubernetes LoadBalancer is a type of Service.
-* A Kubernetes Ingress is not a type of Service. It is a collection of rules. An []Ingress Controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
+* A Kubernetes Ingress is not a type of Service. It is a collection of rules. An [Ingress Controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/) in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
 
 https://web.media.mit.edu/~holbrow/post/kubernetes-what-is-the-difference-between-a-loadbalancer-and-an-ingress/
