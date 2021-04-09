@@ -6,6 +6,14 @@ Ingress exposes HTTP and HTTPS routes from outside the cluster to services withi
 
 A Kubernetes Ingress is not a type of Service. It is a collection of rules. An Ingress Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
 
+Kubernetes ingress is a collection of routing rules that govern how external users access services running in a Kubernetes cluster.
+
+In a typical Kubernetes application, you have pods running inside a cluster and a load balancer running outside. The load balancer takes connections from the internet and routes the traffic to an edge proxy that sits inside your cluster. This edge proxy is then responsible for routing traffic into your pods. The edge proxy is commonly called an ingress controller because it is commonly configured using ingress resources in Kubernetes, however the edge proxy can also be configured with custom resource definitions (CRDs) or annotations.
+
+
+You can do a lot of different things with an Ingress, and there are many types of Ingress controllers that have different capabilities.
+The default GKE ingress controller will spin up a [HTTP(S) Load Balancer](https://cloud.google.com/compute/docs/load-balancing/http/) for you. This will let you do both path based and subdomain based routing to backend services. For example, you can send everything on foo.yourdomain.com to the foo service, and everything under the yourdomain.com/bar/ path to the bar service.
+
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 ## The Ingress resource 
@@ -61,5 +69,12 @@ You can expose a Service in multiple ways that don't directly involve the Ingres
 * Use [Service.Type=NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport)
 
 
+https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
 
+
+## Ingress example
+
+Set up an ingress on minikube via nginx.
+
+https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
 
