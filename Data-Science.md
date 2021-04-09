@@ -785,3 +785,8 @@ https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367
 
 https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
+### Cookiecutter Data Science
+
+Cookiecutter Data Science template is a logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+
+https://drivendata.github.io/cookiecutter-data-science/
