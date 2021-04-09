@@ -10,8 +10,36 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 ## The Ingress resource 
 
-[An example](https://raw.githubusercontent.com/kubernetes/website/master/content/en/examples/service/networking/minimal-ingress.yaml).
+An example:
 
+```
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: ingress-wildcard-host
+spec:
+  rules:
+  - host: "foo.bar.com"
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/bar"
+        backend:
+          service:
+            name: service1
+            port:
+              number: 80
+  - host: "*.foo.com"
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/foo"
+        backend:
+          service:
+            name: service2
+            port:
+              number: 80
+```
 ## List of Ingress Controllers
 
 In order for the Ingress resource to work, the cluster must have an ingress controller running.
