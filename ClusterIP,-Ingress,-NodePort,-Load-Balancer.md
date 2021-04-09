@@ -42,33 +42,5 @@ https://metallb.universe.tf/
 
 # Ingress
 
-
-Unlike all the above examples, Ingress is actually NOT a type of service. Instead, it sits in front of multiple services and act as a “smart router” or entrypoint into your cluster.
-
-You can do a lot of different things with an Ingress, and there are many types of Ingress controllers that have different capabilities.
-The default GKE ingress controller will spin up a [HTTP(S) Load Balancer](https://cloud.google.com/compute/docs/load-balancing/http/) for you. This will let you do both path based and subdomain based routing to backend services. For example, you can send everything on foo.yourdomain.com to the foo service, and everything under the yourdomain.com/bar/ path to the bar service.
-
-Kubernetes ingress is a collection of routing rules that govern how external users access services running in a Kubernetes cluster.
-
-In a typical Kubernetes application, you have pods running inside a cluster and a load balancer running outside. The load balancer takes connections from the internet and routes the traffic to an edge proxy that sits inside your cluster. This edge proxy is then responsible for routing traffic into your pods. The edge proxy is commonly called an ingress controller because it is commonly configured using ingress resources in Kubernetes, however the edge proxy can also be configured with custom resource definitons (CRDs) or annotations.
-
-https://kubernetes.io/docs/concepts/services-networking/ingress/
-
- You can deploy other [Ingress controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/). The following [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) controllers are widely used:
-
-* [Ambassador](https://kind.sigs.k8s.io/docs/user/ingress/#ambassador)   https://www.getambassador.io/
-* [Contour](https://kind.sigs.k8s.io/docs/user/ingress/#contour)  https://projectcontour.io/
-* [Ingress NGINX](https://kind.sigs.k8s.io/docs/user/ingress/#ingress-nginx) https://www.nginx.com/products/nginx-ingress-controller/
-
-
-## additional ingress controllers
-
-https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
-
-
-## ingress example
-
-Set up ingress on minikube via nginx.
-
-https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
+https://github.com/bobbae/gcp/wiki/Ingress
 
