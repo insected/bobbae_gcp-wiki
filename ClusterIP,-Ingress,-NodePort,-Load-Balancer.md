@@ -54,7 +54,7 @@ In a typical Kubernetes application, you have pods running inside a cluster and 
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
- You can deploy other [Ingress controllers](https://kind.sigs.k8s.io/docs/user/ingress/#using-ingress). The following [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) controllers are widely used:
+ You can deploy other [Ingress controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/). The following [ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) controllers are widely used:
 
 * [Ambassador](https://kind.sigs.k8s.io/docs/user/ingress/#ambassador)   https://www.getambassador.io/
 * [Contour](https://kind.sigs.k8s.io/docs/user/ingress/#contour)  https://projectcontour.io/
