@@ -181,3 +181,9 @@ In this hands-on lab, you learn how to use Cloud Logging to accumulate applicati
 In this lab you view the BigQuery logs inside Cloud Logging, setup a sink to export them back into BigQuery, and then use SQL to analyze the logs.
 
 [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.qwiklabs.com/focuses/6100?catalog_rank=%7B%22rank%22%3A15%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
+
+## grafana
+
+Using stackdriver with grafana. 
+
+https://grafana.com/docs/grafana/latest/datasources/google-cloud-monitoring/
