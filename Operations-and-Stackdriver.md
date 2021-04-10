@@ -68,6 +68,8 @@ Getting started with Cloud Monitoring.
 
 #### Cloud Monitoring Agents
 
+The Cloud Monitoring agent is a collectd-based daemon that gathers system and application metrics from virtual machine instances and sends them to Monitoring. By default, the Monitoring agent collects disk, CPU, network, and process metrics.
+
 [https://cloud.google.com/monitoring/agent](https://cloud.google.com/monitoring/agent)
 
 
