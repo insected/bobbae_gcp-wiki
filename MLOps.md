@@ -32,5 +32,18 @@ https://cloud.google.com/ai-platform/pipelines/docs/create-pipeline
 
 ## DevOps vs MLOps
 
+DevOps  is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
+https://github.com/bobbae/gcp/wiki/DevOps
+
+Comparison with MLOps:
+
 https://towardsdatascience.com/mlops-with-a-feature-store-816cfa5966e9
 
+## GitOps
+
+GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
+
+The core idea of GitOps is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It’s like having cruise control for managing your applications in production.
+
+https://www.gitops.tech/
