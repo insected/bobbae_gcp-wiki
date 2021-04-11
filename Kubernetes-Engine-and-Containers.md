@@ -225,6 +225,8 @@ This video shows how to work with Namespaces and how they can help you manage yo
 [https://www.youtube.com/watch?v=mxEvAPQRwhw](https://www.youtube.com/watch?v=mxEvAPQRwhw)
 
 
+## Kubernetes Details
+
 #### Google GKE Documentation
 
 [https://cloud.google.com/kubernetes-engine/docs](https://cloud.google.com/kubernetes-engine/docs)
