@@ -1,3 +1,16 @@
+    + [Course Objectives](#course-objectives)
+    + [Course Outline](#course-outline)
+    + [Group Project](#group-project)
+    + [Daily Meetings](#daily-meetings)
+    + [Worklog](#worklog)
+    + [Materials in this document](#materials-in-this-document)
+- [Example Schedules](#example-schedules)
+  * [GCP Infrastructure General Overview Course](#gcp-infrastructure-general-overview-course)
+  * [GCP Data Engineering Course](#gcp-data-engineering-course)
+  * [GCP Networking Course](#gcp-networking-course)
+  * [Data Engineering and Kubernetes Combination Course](#data-engineering-and-kubernetes-combination-course)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 This is a  course on GCP Infrastructure and services in general.  Trainees are expected to complete as much  of the material presented here during the eight week course. Example schedules for different types of GCP classes are provided.  
@@ -45,7 +58,7 @@ You may not have enough time to go through every video and Qwiklabs sessions.  Y
 
 We will discuss the topics to be covered per day as we make progress during our daily meetings. 
 
-# Example Schedules for 8 weeks programs
+# Example Schedules
 
 Here are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
 
