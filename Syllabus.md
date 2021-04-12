@@ -94,3 +94,15 @@ Here are some example 8 weeks programs that can be presented using the materials
 |    8    |Reviews    |
 
 
+## Data Engineering and Kubernetes Combination Course
+
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
+|    1    |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc), [Hadoop](https://hadoop.apache.org/), [Spark](https://spark.apache.org/) | 
+|    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
+|    3    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow) , [Pub/Sub](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-pub-sub)      |
+|    4   | [Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
+|    5    |        |
+| 6 |   |
+|    7    |Group Project   |
+|    8    |Reviews    | 
