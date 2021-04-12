@@ -104,6 +104,6 @@ Here are some example 8 weeks programs that can be presented using the materials
 |    4    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow) , [Pub/Sub](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-pub-sub)      |
 |    5   | [Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
 |    6    | [Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers#containers)       |
-| 7 |   |
+| 7 | [Kubernetes Examples](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers#kubernetes-examples)  |
 |    8    |Group Project   |
 |    9   |Reviews    | 
