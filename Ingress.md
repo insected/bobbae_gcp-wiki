@@ -4,6 +4,22 @@ Ingress may provide load balancing, SSL termination and name-based virtual hosti
 
 Ingress exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
 
+## GCP Network Endpoint Groups
+
+In GCP, a Network Endpoint Group (NEG) is a configuration object that specifies a group of backend endpoints or services. 
+A common use case for this configuration is deploying services in containers.
+You can also distribute traffic in a granular fashion to applications running on your backend instances.
+
+* Zonal and internet NEGs define how endpoints should be reached, whether they are reachable, and where they are located. Unlike these NEG types, serverless NEGs don't contain endpoints.
+
+* A zonal NEG contains one or more endpoints that can be Compute Engine VMs or services running on the VMs. Each endpoint is specified either by an IP address or an IP:port combination.
+
+* An internet NEG contains a single endpoint that is hosted outside of Google Cloud. This endpoint is specified by hostname FQDN:port or IP:port.
+
+https://cloud.google.com/load-balancing/docs/negs
+
+## Kubernetes Ingress
+
 A Kubernetes Ingress is not a type of Service. It is a collection of rules. An Ingress Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
 
 Kubernetes ingress is a collection of routing rules that govern how external users access services running in a Kubernetes cluster.
