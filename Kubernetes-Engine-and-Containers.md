@@ -647,3 +647,23 @@ https://linkerd.io/
 Linkerd and istio comparison. 
 
 https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
+
+## Multi-cluster services
+
+Multi-cluster Services (MCS)  is a cross-cluster Service discovery and invocation mechanism for Google Kubernetes Engine (GKE) that leverages the existing Service object. Services enabled with this feature are discoverable and accessible across clusters with a virtual IP, matching the behavior of a ClusterIP Service accessible in a cluster. Just like your existing Services, MCS is compatible with community-driven and open APIs, ensuring your workloads remain portable.
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/multi-cluster-services
+
+### Configuring GKE MCS
+
+The Google Kubernetes Engine (GKE) MCS feature extends the reach of the Kubernetes Service beyond the cluster boundary and lets you discover and invoke Services across multiple GKE clusters. You can export a subset of existing Services or new Services.
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-services
+
+### Multi-cluster ingress
+
+Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller for Anthos clusters. It's a Google-hosted service that supports deploying shared load balancing resources across clusters and across regions.
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
+
+
