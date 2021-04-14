@@ -18,6 +18,12 @@ You can also distribute traffic in a granular fashion to applications running on
 
 https://cloud.google.com/load-balancing/docs/negs
 
+### Ingress with NEGs
+
+When NEGs are used with GKE Ingress, the Ingress controller facilitates the creation of all aspects of the L7 load balancer. This includes creating the virtual IP address, forwarding rules, health checks, firewall rules, and more.
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg#ingress_with_negs
+
 ## Kubernetes Ingress
 
 A Kubernetes Ingress is not a type of Service. It is a collection of rules. An Ingress Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
