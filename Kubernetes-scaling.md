@@ -34,3 +34,9 @@ Vertical Pod Autoscaler (VPA) frees the users from necessity of setting up-to-da
 It can both down-scale pods that are over-requesting resources, and also up-scale pods that are under-requesting resources based on their usage over time.
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler
+
+# Multi-dimensional Auto Scaling
+
+Multidimensional Pod autoscaling (MPA) frees you from choosing a single way to scale your clusters. With multidimensional Pod autoscaling, you can use horizontal scaling based on CPU and vertical scaling based on memory at the same time.
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling
