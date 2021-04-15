@@ -166,7 +166,6 @@ This fundamental-level quest is unique amongst the other Qwiklabs offerings. The
 
 [Deploy and Manage Cloud Environments with Google Cloud](https://www.qwiklabs.com/quests/121?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467754)
 
-# Assignment
 
-https://www.qwiklabs.com/quests/23
+
 
