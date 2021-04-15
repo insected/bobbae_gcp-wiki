@@ -32,18 +32,42 @@ AutoML makes the power of machine learning available to you even if you have lim
 
 [https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
 
+## AI Platform and Machine Learning
 
-#### CloudML Engine
+AI Platform enables many parts of the machine learning (ML) workflow. 
+
+### Documentation 
+
+This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
+
+[https://cloud.google.com/ai-platform/docs/ml-solutions-overview](https://cloud.google.com/ai-platform/docs/ml-solutions-overview)
+
+### 7 steps of Machine Learning
+
+[https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
+
+### Plain and Simple estimators
+
+[https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
+
+### Choosing Machine Learning Options
+
+Decision pyramid to choose the right ML option.
+
+[https://www.youtube.com/watch?v=pm_-pVPvZ-4](https://www.youtube.com/watch?v=pm_-pVPvZ-4)
+
+
+## CloudML Engine
 
 [https://www.youtube.com/watch?v=m0rqccviLNM](https://www.youtube.com/watch?v=m0rqccviLNM)
 
 
-#### Cloud AutoML to custom model
+## Cloud AutoML to custom model
 
 [https://www.youtube.com/watch?v=OHIEZ-Scek8](https://www.youtube.com/watch?v=OHIEZ-Scek8)
 
 
-#### AutoML NL for custom text classification
+## AutoML NL for custom text classification
 
 [https://www.youtube.com/watch?v=ieaqfU1BwJ8](https://www.youtube.com/watch?v=ieaqfU1BwJ8)
 
@@ -63,7 +87,7 @@ A favorite Qwiklab. Awwvision.
 [https://www.qwiklabs.com/focuses/1241?parent=catalog](https://www.qwiklabs.com/focuses/1241?parent=catalog)
 
 
-#### Video AI
+## Video AI
 
 Video Intelligence includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites.
 
@@ -85,7 +109,7 @@ The Cloud Natural Language API provides natural language understanding technolog
 [https://www.youtube.com/watch?v=MNvT5JekDpg](https://www.youtube.com/watch?v=MNvT5JekDpg)
 
 
-#### Cloud Translation
+## Cloud Translation
 
 Cloud Translation can dynamically translate text between thousands of language pairs. Translation lets websites and programs programmatically integrate with the translation service.
 
