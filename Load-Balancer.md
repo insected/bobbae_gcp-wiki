@@ -51,6 +51,8 @@ When the Service type is set to LoadBalancer, Kubernetes provides functionality 
 
 https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/
 
+https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
+
 # GKE Ingess Load Balancer
 
 In GKE, an Ingress object defines rules for routing HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects, each of which is associated with a set of Pods. 
