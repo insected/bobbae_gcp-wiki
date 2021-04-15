@@ -6,12 +6,14 @@
 * https://www.qwiklabs.com/focuses/3563?parent=catalog
 * https://www.qwiklabs.com/focuses/563?parent=catalog
 * https://www.qwiklabs.com/focuses/1734?parent=catalog
+* Read and discuss: https://cloud.google.com/compute/docs/tutorials
 
 ## Storage
 
 * https://www.qwiklabs.com/focuses/1760?parent=catalog
 * https://www.qwiklabs.com/focuses/569?parent=catalog
 * https://www.qwiklabs.com/focuses/3632?parent=catalog
+* Read and discuss: https://cloud.google.com/storage#section-5
 
 ## Networking
 
@@ -19,8 +21,7 @@
 * https://www.qwiklabs.com/focuses/1230?parent=catalog
 * https://www.qwiklabs.com/focuses/1231?parent=catalog
 * https://www.qwiklabs.com/focuses/1250?parent=catalog
-
-
+* Read and discuss: https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained
 
 ## GKE
 
@@ -28,6 +29,7 @@
 * https://www.qwiklabs.com/focuses/878?parent=catalog
 * https://www.qwiklabs.com/focuses/557?parent=catalog
 * https://www.qwiklabs.com/focuses/639?parent=catalog
+* Read and discuss: https://cloud.google.com/kubernetes-engine/docs/tutorials
 
 ## Migration
 
