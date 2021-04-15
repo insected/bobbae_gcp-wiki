@@ -1,4 +1,3 @@
-# Composer
 
 ## Introduction
 
