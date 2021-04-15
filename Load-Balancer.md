@@ -23,10 +23,14 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 
 # Maglev
 
+Maglev is Google's network load balancer. It is a large distributed software system that runs on commodity Linux servers.
+
 [https://research.google/pubs/pub44824/](https://research.google/pubs/pub44824/)
 
 
 # Andromeda
+
+Andromeda is the network virtualization environment for Google Cloud Platform (GCP). 
 
 [https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf)
 
@@ -34,8 +38,6 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 # Load Balancer Options
 
 To decide which load balancer best suits your implementation of Google Cloud, consider the following aspects of Cloud Load Balancing:
-
-
 
 *   Global versus regional load balancing
 *   External versus internal load balancing
