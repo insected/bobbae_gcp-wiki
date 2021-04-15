@@ -1,4 +1,4 @@
-# Bigtable
+
 
 
 ## Introduction
