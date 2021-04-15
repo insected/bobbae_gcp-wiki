@@ -44,9 +44,7 @@ If you are working as a group you can do a group project.
 
 As much as possible there can be daily group meetings using Google meet, zoom or other tools to discuss the issues, questions and answers related to the learning process.  The goal is to unblock any problems each day, so as to make reasonable progress. 
 
-## Weekly Assignments
 
-https://github.com/bobbae/gcp/wiki/Assignments
 
 ## Worklog
 
@@ -126,3 +124,8 @@ Here are some example 8 weeks programs that can be presented using the materials
 | 7 | [Kubernetes Examples](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers#kubernetes-examples)  |
 |    8    |Group Project   |
 |    9   |Reviews    | 
+
+
+## Weekly Assignments
+
+https://github.com/bobbae/gcp/wiki/Assignments
