@@ -107,95 +107,11 @@ AI Platform training with built-in algorithms.
 
 [https://www.youtube.com/watch?v=IrPXm0DSCWI](https://www.youtube.com/watch?v=IrPXm0DSCWI)
 
-What is Machine Learning?
+### What is Machine Learning?
 
 [https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
 
-
-#### AutoML
-
-AutoML makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
-
-[https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
-
-
-#### CloudML Engine
-
-[https://www.youtube.com/watch?v=m0rqccviLNM](https://www.youtube.com/watch?v=m0rqccviLNM)
-
-
-#### Cloud AutoML to custom model
-
-[https://www.youtube.com/watch?v=OHIEZ-Scek8](https://www.youtube.com/watch?v=OHIEZ-Scek8)
-
-
-#### AutoML NL for custom text classification
-
-[https://www.youtube.com/watch?v=ieaqfU1BwJ8](https://www.youtube.com/watch?v=ieaqfU1BwJ8)
-
-
-#### Vision AI
-
-Cloud Vision includes several options that you can use to integrate machine learning vision models into your applications and web sites.
-
-[https://cloud.google.com/vision/overview/docs](https://cloud.google.com/vision/overview/docs)
-
-[https://www.youtube.com/watch?v=kgxfdTh9lz0](https://www.youtube.com/watch?v=kgxfdTh9lz0)
-
-[https://www.youtube.com/watch?v=BN8aO0LULyw](https://www.youtube.com/watch?v=BN8aO0LULyw)
-
-A favorite Qwiklab. Awwvision.
-
-[https://www.qwiklabs.com/focuses/1241?parent=catalog](https://www.qwiklabs.com/focuses/1241?parent=catalog)
-
-
-#### Video AI
-
-Video Intelligence includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites.
-
-[https://cloud.google.com/video-intelligence/overview/docs](https://cloud.google.com/video-intelligence/overview/docs)
-
-[https://www.youtube.com/watch?v=h1zU0Qor9J8](https://www.youtube.com/watch?v=h1zU0Qor9J8)
-
-
-#### Cloud Natural Language API
-
-The Cloud Natural Language API provides natural language understanding technologies to developers, including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis. This API is part of the larger Cloud Machine Learning API family.
-
-[https://cloud.google.com/natural-language/docs](https://cloud.google.com/natural-language/docs)
-
-[https://www.youtube.com/watch?v=UFtXy0KRxVI](https://www.youtube.com/watch?v=UFtXy0KRxVI)
-
-[https://www.youtube.com/watch?v=3iOtK0sRNMI](https://www.youtube.com/watch?v=3iOtK0sRNMI)
-
-[https://www.youtube.com/watch?v=MNvT5JekDpg](https://www.youtube.com/watch?v=MNvT5JekDpg)
-
-
-#### Cloud Translation
-
-Cloud Translation can dynamically translate text between thousands of language pairs. Translation lets websites and programs programmatically integrate with the translation service.
-
-[https://cloud.google.com/translate/docs](https://cloud.google.com/translate/docs)
-
-[https://www.youtube.com/watch?v=YapTts_An9A](https://www.youtube.com/watch?v=YapTts_An9A)
-
-
-#### Text-to-Speech
-
-Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
-
-[https://cloud.google.com/text-to-speech/docs](https://cloud.google.com/text-to-speech/docs)
-
-[https://www.youtube.com/watch?v=OK1ZmlaFIV8](https://www.youtube.com/watch?v=OK1ZmlaFIV8)
-
-
-#### Speech-to-Text
-
-Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
-
-[https://cloud.google.com/speech-to-text/docs](https://cloud.google.com/speech-to-text/docs)
-
-[https://www.youtube.com/watch?v=naZ8oEKuR44](https://www.youtube.com/watch?v=naZ8oEKuR44)
+https://github.com/bobbae/gcp/wiki/Machine-Learning
 
 
 ### Dialogflow
@@ -262,171 +178,29 @@ The Cloud Data Loss Prevention (DLP) helps you understand, manage, and protect s
 
 ### Scikit Learn
 
-Whenever you perform classification, the first step is to understand the problem and identify potential features and labels. Features are those characteristics or attributes which affect the results of the label. For example, in the case of a loan distribution, bank manager's identify the customer's occupation, income, age, location, previous loan history, transaction history, and credit score. These characteristics are known as features which help the model classify customers.
-
-[https://www.youtube.com/watch?v=rvVkVsG49uU](https://www.youtube.com/watch?v=rvVkVsG49uU)
-
-[https://www.youtube.com/watch?v=MaKLWy5zXe8](https://www.youtube.com/watch?v=MaKLWy5zXe8)
-
-The classification has two phases, a learning phase, and the evaluation phase. In the learning phase, the classifier trains its model on a given dataset and in the evaluation phase, it tests the classifier performance. Performance is evaluated on the basis of various parameters such as accuracy, error, precision, and recall.
-
-[https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn](https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn)
+https://github.com/bobbae/gcp/wiki/Scikit-Learn
 
 
-### ML
+### TensorFlow
 
-
-#### Introduction
-
-Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
-
-[https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
-
-[https://www.youtube.com/watch?v=HcqpanDadyQ](https://www.youtube.com/watch?v=HcqpanDadyQ)
-
-
-#### ML Solutions 101
-
-AI Platform enables many parts of the machine learning (ML) workflow. This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
-
-[https://cloud.google.com/ai-platform/docs/ml-solutions-overview](https://cloud.google.com/ai-platform/docs/ml-solutions-overview)
-
-7 steps of Machine learning.
-
-[https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
-
-Plain and Simple estimators.
-
-[https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
-
-
-#### ML Options
-
-Decision pyramid to choose the right ML option.
-
-[https://www.youtube.com/watch?v=pm_-pVPvZ-4](https://www.youtube.com/watch?v=pm_-pVPvZ-4)
-
-
-#### TensorFlow
-
-TensorFlow is an open source, powerful, portable machine learning library developed by Google that can work with very large datasets.
-
-[https://www.tensorflow.org/learn](https://www.tensorflow.org/learn)
-
-
-##### TensorFlow.js
-
-Getting started with TensorFlow.js.
-
-[https://www.youtube.com/watch?v=WYvgP9LfvTg](https://www.youtube.com/watch?v=WYvgP9LfvTg)
-
-
-##### TensorFlow Hub
-
-The TensorFlow Hub lets you search and discover hundreds of trained, ready-to-deploy machine learning models in one place.
-
-[https://tfhub.dev/](https://tfhub.dev/)
-
-[https://www.youtube.com/watch?v=SJ1LGUyw-Xg](https://www.youtube.com/watch?v=SJ1LGUyw-Xg)
-
-
-##### TensorBoard
-
-Visualizing your model with tensorboard.
-
-[https://www.youtube.com/watch?v=qEQ-_EId-D0](https://www.youtube.com/watch?v=qEQ-_EId-D0)
-
-
-##### TensorFlow Graph
-
-Graphs are data structures that contain a set of [tf.Operation](https://www.tensorflow.org/api_docs/python/tf/Operation) objects, which represent units of computation; and [tf.Tensor](https://www.tensorflow.org/api_docs/python/tf/Tensor) objects, which represent the units of data that flow between operations. They are defined in a [tf.Graph](https://www.tensorflow.org/api_docs/python/tf/Graph) context. Since these graphs are data structures, they can be saved, run, and restored all without the original Python code.
-
-[https://www.youtube.com/watch?v=qTYQEXsBb_E](https://www.youtube.com/watch?v=qTYQEXsBb_E)
-
-
-##### TensorFlow Enterprise
-
-TensorFlow Enterprise makes it easier to develop and deploy TensorFlow models on Google Cloud, by providing users with a set of products and services, which provide enterprise-grade support and cloud scale performance. Users can get the benefits of TensorFlow Enterprise by using the TensorFlow Enterprise Distribution on AI Platform Notebooks, AI Platform Deep Learning Containers and AI Platform Deep Learning VM Image.
-
-[https://cloud.google.com/TensorFlow-enterprise/docs](https://cloud.google.com/tensorflow-enterprise/docs)
-
-
-##### TensorFlow Resources
-
-A list of URLs related to TensorFlow.
-
-[https://github.com/jtoy/awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
-
-
-##### Kubeflow
-
-The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Our goal is not to recreate other services, but to provide a straightforward way to deploy best-of-breed open-source systems for ML to diverse infrastructures. Anywhere you are running Kubernetes, you should be able to run Kubeflow.
-
-[https://www.kubeflow.org/docs/about/kubeflow/](https://www.kubeflow.org/docs/about/kubeflow/)
-
-[https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
-
+https://github.com/bobbae/gcp/wiki/Tensorflow
 
 ### AI Platform and Accelerators
 
+https://github.com/bobbae/gcp/wiki/AI-Platform
 
-#### AI Platform
+### AI Hub
 
-AI Platform makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively. From data engineering to "no lock- in" flexibility, AI Platform's integrated tool chain helps you build and run your own machine learning applications.
+https://github.com/bobbae/gcp/wiki/AI-Hub
 
-[https://cloud.google.com/ai-platform/docs](https://cloud.google.com/ai-platform/docs)
-
-
-#### AI Platform Deep Learning VM Images
-
-Deep Learning VM images are Debian 9- and Debian 10-based Compute Engine virtual machine images optimized for data science and machine learning tasks. All images come with key ML frameworks and tools pre-installed, and can be used out of the box on instances with GPUs to accelerate your data processing tasks.
-
-[https://cloud.google.com/ai-platform/deep-learning-vm/docs](https://cloud.google.com/ai-platform/deep-learning-vm/docs)
-
-[https://www.youtube.com/watch?v=kyNbYCHFCSw](https://www.youtube.com/watch?v=kyNbYCHFCSw)
-
-
-#### AI Platform Notebooks
-
-AI Platform Notebooks makes it easy to manage JupyterLab instances through a protected, publicly available notebook instance URL. A JupyterLab instance is a [Deep Learning virtual machine](https://cloud.google.com/ai-platform/deep-learning-vm/docs) instance with the latest machine learning and data science libraries pre-installed.
-
-[https://cloud.google.com/ai-platform/notebooks/docs](https://cloud.google.com/ai-platform/notebooks/docs)
-
-[https://www.youtube.com/watch?v=Eu57QKNHaiY](https://www.youtube.com/watch?v=Eu57QKNHaiY)
-
-
-#### AI Platform Deep Learning Containers
-
-[https://cloud.google.com/ai-platform/deep-learning-containers/docs](https://cloud.google.com/ai-platform/deep-learning-containers/docs)
-
-[https://www.youtube.com/watch?v=h_BpDOdTX7Y](https://www.youtube.com/watch?v=h_BpDOdTX7Y)
-
-
-#### AI Platform Pipelines
-
-[https://cloud.google.com/ai-platform/pipelines/docs](https://cloud.google.com/ai-platform/pipelines/docs)
-
-[https://www.youtube.com/watch?v=MUtsIaQuiRw](https://www.youtube.com/watch?v=MUtsIaQuiRw)
-
-
-#### AI Hub
-
-AI Hub offers a collection of assets for developers and data scientists building artificial intelligence (AI) systems. Train your machine learning (ML) model in a notebook or deploy it to a managed service. Find and deploy ML pipelines. Explore and reuse TensorFlow modules. Discover the best solution for serving and managing your trained model. Learn from in depth tutorials and examples.
-
-[https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
-
-Notebooks from AI Hub can be opened in AI Platform Notebooks. Here is an example:
-[Introduction to Neural Networks on AI Hub](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
-
-
-#### AI Explanations
+### AI Explanations
 
 Intro to Explanations for AI Platform.
 
 [https://www.youtube.com/watch?v=XXvFHqLv9p8](https://www.youtube.com/watch?v=XXvFHqLv9p8)
 
 
-#### Document AI
+### Document AI
 
 Unlock insights from documents with machine learning. Tap into the opportunity offered by your unstructured data to increase operational efficiency, improve customer experience, and inform decision-making. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy.
 
@@ -458,27 +232,7 @@ Tensor Processing Units (TPUs) are Google’s custom-developed application-speci
 ### Keras
 
 
-#### Introduction
-
-Keras is an API designed for human beings, not machines. [Keras follows best practices for reducing cognitive load](https://blog.keras.io/user-experience-design-for-apis.html): it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear and actionable feedback upon user error. This makes Keras easy to learn and easy to use. As a Keras user, you are more productive, allowing you to try more ideas than your competition, faster -- which in turn [helps you win machine learning competitions](https://www.quora.com/Why-has-Keras-been-so-successful-lately-at-Kaggle-competitions). This ease of use does not come at the cost of reduced flexibility: because Keras integrates deeply with low-level TensorFlow functionality, it enables you to develop highly hackable workflows where any piece of functionality can be customized.
-
-[https://keras.io/](https://keras.io/)
-
-
-#### Getting started
-
-[https://www.youtube.com/watch?v=J6Ok8p463C4](https://www.youtube.com/watch?v=J6Ok8p463C4)
-
-
-#### TensorFlow Estimator
-
-[https://www.youtube.com/watch?v=YCXFceVKHTk](https://www.youtube.com/watch?v=YCXFceVKHTk)
-
-
-#### Notebook
-
-[https://github.com/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/TensorFlow/getting-started-keras.ipynb](https://github.com/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/tensorflow/getting-started-keras.ipynb)
-
+https://github.com/bobbae/gcp/wiki/Keras
 
 ### Datalab
 
