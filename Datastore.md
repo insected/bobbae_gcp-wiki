@@ -1,4 +1,4 @@
-# Forestore in Datastore mode
+# Firestore in Datastore mode
 
 Firestore in Datastore mode is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
 
