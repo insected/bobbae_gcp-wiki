@@ -10,13 +10,20 @@ AI Hub offers a collection of components for developers and data scientists buil
 - Use prepackaged virtual machine (VM) images to quickly set up your AI environment.
 - Share AI components with your colleagues.
 
-## Quickstart for using public assets
+
+AI Hub offers a collection of assets for developers and data scientists building artificial intelligence (AI) systems. Train your machine learning (ML) model in a notebook or deploy it to a managed service. Find and deploy ML pipelines. Explore and reuse TensorFlow modules. Discover the best solution for serving and managing your trained model. Learn from in depth tutorials and examples.
+
+[https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
+
+
+
+# Quickstart for using public assets
 
 The example notebook guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
 
 https://cloud.google.com/ai-hub/docs/public-hub-quickstart
 
-## Quickstart for uploading assets
+# Quickstart for uploading assets
 
 You can share AI assets within your organization by uploading them to your organization's collection of assets on AI Hub. Colleagues in your organization can then find, deploy, and use those assets.
 
@@ -24,8 +31,12 @@ In this guide, you upload a sample notebook file, hello-world.ipynb, to your org
 
 https://cloud.google.com/ai-hub/docs/private-hub-quickstart
 
+# AI Hub notebooks in AI Platform
 
-## Links
+Notebooks from AI Hub can be opened in AI Platform Notebooks. Here is an example:
+[Introduction to Neural Networks on AI Hub](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
+
+# Links
 
 - [AI Hub](https://aihub.cloud.google.com/u/0/)
 - [Introduction to AI Hub](https://cloud.google.com/ai-hub/docs/introduction)
