@@ -6,10 +6,13 @@ Firestore is a NoSQL document database built for automatic scaling, high perform
 
 [https://cloud.google.com/firestore/docs](https://cloud.google.com/firestore/docs)
 
+## Scaling
+
 Cloud Firestore is a horizontally scaling document-model NoSQL database in the cloud.
 
 [https://www.youtube.com/watch?v=v_hR4K4auoQ](https://www.youtube.com/watch?v=v_hR4K4auoQ)
 
+## Use cases
 Firestore can be used to build a serverless, scalable, mobile, syncing, analytical, IoT app. Firestore provides a powerful data back end for apps development from kilobyte to petabyte scale.
 
 [https://www.youtube.com/watch?v=ah5tQ7yOh2s](https://www.youtube.com/watch?v=ah5tQ7yOh2s)
