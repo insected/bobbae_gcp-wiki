@@ -66,7 +66,7 @@ We will discuss the topics to be covered per day as we make progress during our 
 Here are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
 
 
-## GCP Infrastructure General Overview Course
+## Schedule 1: GCP Infrastructure General Overview Course
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -80,7 +80,7 @@ Here are some example 8 weeks programs that can be presented using the materials
 |    8    |Reviews    |
 
 
-## GCP Data Engineering Course
+## Schedule 2: GCP Data Engineering Course
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -96,7 +96,7 @@ Here are some example 8 weeks programs that can be presented using the materials
 
 
 
-## GCP Networking Course
+## Schedule 3: GCP Networking Course
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -110,7 +110,7 @@ Here are some example 8 weeks programs that can be presented using the materials
 |    8    |Reviews    |
 
 
-## Data Engineering and Kubernetes Combination Course
+## Schedule 4: Data Engineering and Kubernetes Combination Course
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
