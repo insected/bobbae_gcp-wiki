@@ -53,11 +53,13 @@ As much as possible there can be daily group meetings using Google meet, zoom or
 
 ## Worklog
 
-Each participant will keep a log of their progress in written form. Please create a file in Google docs and share with the team to keep track of the learning progress and process. Use the doc to also keep track of questions and problems. We will also list out issues and questions to be discussed during the daily meeting. You can note any improvements and changes to be made to the curriculum as well. It is important to keep the log up to date on a daily basis.  Alternatively, instead of Google docs, you can create a git repo on github or gitlab and keep track of your work log and other materials to be shared with others.
+Each participant will keep a log of their progress in written form. Please create a file in Google docs and share with the team to keep track of the learning progress and process. Use the doc to also keep track of questions and problems. We will also list out issues and questions to be discussed during the daily meeting. You can note any improvements and changes to be made to the curriculum as well. It is important to keep the log up to date on a daily basis.  Alternatively, instead of Google docs, you can create a repo on github and keep track of your work log and other materials to be shared with others.
 
- To spend the meeting time efficiently all questions and issues should be noted in writing before the daily meeting.  Often the issues can be resolved using a group chat discussion during the day. We will  participate in Google meet chat sessions for the duration of training.  Most of the communication will be done in the chat room, including most of the Q’s and A’s. 
+To spend the meeting time efficiently all questions and issues should be noted in writing before the daily meeting.  Often the issues can be resolved using a group chat discussion during the day. We will  participate in Google meet chat sessions for the duration of training.  Most of the communication will be done in the chat room, including most of the Q’s and A’s. 
 
-We aim to have as much of the discussions in writing so that they may be used in the future by other students.  It is very important to keep track of the progress using the Worklog documents.  It can be used to review the materials later and keep track of questions and answers on different topics.
+It is very important to keep track of the progress using the Worklog documents.  It can be used to review the materials later and keep track of questions and answers on different topics.
+
+Details of your work on each week's assignments should be part of your work log. You should record your progress, accomplished tasks and questions regarding the assignments in your work log. **The instructor will review your work log each week and you will be graded on your work.**
 
 
 ## Materials in this document
