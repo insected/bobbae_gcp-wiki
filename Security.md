@@ -318,6 +318,23 @@ Web Risk is a new enterprise security product that lets your client applications
 [https://cloud.google.com/blog/products/identity-security](https://cloud.google.com/blog/products/identity-security)
 
 
+### Authentication, Identity, Security, AuthN, AuthZ
+
+Access control for Google Cloud APIs encompasses authentication, authorization, and auditing. Authentication determines who you are, authorization determines what you can do, and auditing logs what you did.  For authorization, see [Identity and Access Management](https://cloud.google.com/iam/docs) (IAM). For auditing, see [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit).
+
+https://cloud.google.com/docs/authentication
+
+### PKI
+
+A public key infrastructure (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke [digital certificates](https://en.wikipedia.org/wiki/Public_key_certificate) and manage [public-key encryption](https://en.wikipedia.org/wiki/Public-key_cryptography). The purpose of a PKI is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. It is required for activities where simple passwords are an inadequate authentication method and more rigorous proof is required to confirm the identity of the parties involved in the communication and to validate the information being transferred.
+
+[https://www.ssh.com/pki/](https://www.ssh.com/pki/)
+
+
+### OAthu, OpenID Connect, SAML
+
+[https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/)
+
 ### Data Governance 
 
 
