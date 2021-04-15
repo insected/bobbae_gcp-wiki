@@ -137,7 +137,7 @@
 * https://www.qwiklabs.com/focuses/641?parent=catalog
 
 ## Interconnect
-
+* Read and discuss https://cloud.google.com/network-connectivity/docs/interconnect/how-to
 
 ## Security
 
