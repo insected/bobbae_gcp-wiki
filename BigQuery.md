@@ -1,4 +1,3 @@
-# BigQuery
 
 ## Introduction
 
