@@ -44,3 +44,15 @@ To decide which load balancer best suits your implementation of Google Cloud, co
 *   Traffic type
 
 [https://cloud.google.com/load-balancing/docs/choosing-load-balancer](https://cloud.google.com/load-balancing/docs/choosing-load-balancer)
+
+# Kubernetes External Load Balancer
+
+When the Service type is set to LoadBalancer, Kubernetes provides functionality equivalent to type equals ClusterIP to pods within the cluster and extends it by programming the (external to Kubernetes) load balancer with entries for the Kubernetes pods. The Kubernetes service controller automates the creation of the external load balancer, health checks (if needed), firewall rules (if needed) and retrieves the external IP allocated by the cloud provider and populates it in the service object.
+
+https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/
+
+# GKE Ingess Load Balancer
+
+In GKE, an Ingress object defines rules for routing HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects, each of which is associated with a set of Pods. 
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/ingress
