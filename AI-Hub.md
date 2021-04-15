@@ -11,8 +11,6 @@ AI Hub offers a collection of components for developers and data scientists buil
 - Share AI components with your colleagues.
 
 
-AI Hub offers a collection of assets for developers and data scientists building artificial intelligence (AI) systems. Train your machine learning (ML) model in a notebook or deploy it to a managed service. Find and deploy ML pipelines. Explore and reuse TensorFlow modules. Discover the best solution for serving and managing your trained model. Learn from in depth tutorials and examples.
-
 [https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
 
 
