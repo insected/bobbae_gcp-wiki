@@ -27,7 +27,7 @@ Upon completion the successful trainees will have taken and passed GCP Professio
 
 # Course Outline
 
-Besides the outlines of content that follow, the trainees are also given external resources such as Udemy, Coursera or Cloud Academy learning paths to be completed in parallel. 
+Besides the outlines of content that follow, the trainees are also given external resources such as Udemy, Coursera or Cloud Academy learning paths to be completed in parallel. For example, Coursera has [some GCP classes](https://www.coursera.org/courses?query=gcp).
 
 The materials in this document are intended to cover a wide spectrum of areas of GCP.  You need to cover the breadth of what GCP offers but you also need to figure out which area you want to study in more detail. You will discover on your own the specific areas that are suited for you.  
 
