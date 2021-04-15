@@ -35,7 +35,10 @@ If you are working as a group you can do a group project.
 
  We should communicate effectively to learn the needs of various practice teams and also administrative requirements  to come up with possible project ideas.  Coming up with project ideas is part of the project itself.  We can confirm the validity of our ideas by proposing specific remedies in the specific areas of concern. The project contents such as code, documentation and presentation materials should be placed into a git repository and google drive.  Github or gitlab repository can be used to contain all code, data, documentation, tests, videos of presentations and others.  They can also be made available via google drive for the people who have no github account.
 
-You may review some project ideas from various sources. https://github.com/bobbae/gcp/wiki/Projects
+You may review some project ideas from various sources. 
+
+
+https://github.com/bobbae/gcp/wiki/Projects
 
 
 
