@@ -1371,8 +1371,3 @@ In this lab you will create a pipeline for deploying websites based on Hugo, a s
 Database choice and comparison charts and methods. \
 [https://cloud.google.com/products/databases](https://cloud.google.com/products/databases)
 
-# Assignment
-
-* https://www.qwiklabs.com/focuses/586?parent=catalog
-* https://www.qwiklabs.com/focuses/585?parent=catalog
-* https://www.qwiklabs.com/focuses/5834?parent=catalog
