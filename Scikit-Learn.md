@@ -22,25 +22,35 @@ The classification has two phases, a learning phase, and the evaluation phase. I
 
 Identifying which category an object belongs to.
 
+https://scikit-learn.org/stable/modules/svm.html#svm-classification
 
 # Regression
 
 Predicting a continuous-valued attribute associated with an object.
+
+https://scikit-learn.org/stable/modules/svm.html#svm-regression
 
 # Clustering
 
 
 Automatic grouping of similar objects into sets.
 
+https://scikit-learn.org/stable/modules/clustering.html#k-means
+
 # Dimensionality reduction
 
 Reducing the number of random variables to consider.
+
+https://scikit-learn.org/stable/modules/feature_selection.html#feature-selection
 
 # Model selection
 
 Comparing, validating and choosing parameters and models.
 
+https://scikit-learn.org/stable/modules/grid_search.html#grid-search
 
 # Preprocessing
 
 Feature extraction and normalization.
+
+https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing
