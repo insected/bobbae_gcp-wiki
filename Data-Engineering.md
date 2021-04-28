@@ -142,7 +142,7 @@ Data Studio is a free tool that turns your data into informative, easy to read, 
 
 [https://support.google.com/datastudio#topic=6267740](https://support.google.com/datastudio#topic=6267740)
 
-We all have a story to tell. Beyond the compelling words you share, you have insightful data you want your audience to interact with. But building custom interactive data visualizations, and publishing and maintaining them online can be challenging – and expensive. Join us to learn how Google Data Studio keeps you focused on what you do best – telling great data stories.
+Demonstration of Data Studio.
 
 [https://www.youtube.com/watch?v=NhGLOVkyKjg](https://www.youtube.com/watch?v=NhGLOVkyKjg)
 
