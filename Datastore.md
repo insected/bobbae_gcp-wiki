@@ -1,10 +1,28 @@
 # Introduction
 
-Datastore is a highly scalable NoSQL database for your applications. Datastore automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries and indexes.  Cloud Datastore is built upon Google's Bigtable and Megastore technology. Datastore allows the user to create databases either in Native or Datastore Mode. Native Mode is designed for mobile and web apps, while Datastore Mode is designed for new server projects. Originally released as a feature in Google App Engine in 2008, Cloud Datastore was announced as a standalone product in 2013 during Google I/O. In 2018 at the Google Cloud Next conference, the second-generation Firestore database was opened to general availability, with a backward-compatibility mode. Google provides a path for automatically upgrading a legacy Datastore database to Firestore in Datastore mode. Cloud Datastore database has a SQL-like syntax called "GQL" (Google Query Language). GQL does not support the Join statement. Instead, one-to-many and many-to-many relationships can be accomplished using ReferenceProperty(). This shared-nothing approach allows disks to fail without the system failing. Switching from a relational database to Cloud Datastore requires a paradigm shift for developers when modeling their data.
+Datastore is a highly scalable NoSQL database for your applications. Datastore automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries and indexes.  
 
 https://cloud.google.com/datastore
 
-# Firestore in Datastore mode
+## Evolution of Datastore
+
+Cloud Datastore is built upon Google's Bigtable and [Megastore](https://research.google/pubs/pub36971/) technology. Datastore allows the user to create databases either in Native or Datastore Mode. Native Mode is designed for mobile and web apps, while Datastore Mode is designed for new server projects. 
+
+https://cloud.google.com/datastore/docs/concepts/overview
+
+Originally released as a feature in Google App Engine in 2008, Cloud Datastore was announced as a standalone product in 2013 during Google I/O. In 2018 at the Google Cloud Next conference, the second-generation Firestore database was opened to general availability, with a backward-compatibility mode. Google provides a path for automatically upgrading a legacy Datastore database to Firestore in Datastore mode. 
+
+
+## GQL
+
+https://cloud.google.com/datastore/docs/reference/gql_reference
+
+Cloud Datastore database has a SQL-like syntax called "GQL" (Google Query Language). GQL does not support the Join statement. Instead, one-to-many and many-to-many relationships can be accomplished using ReferenceProperty(). This shared-nothing approach allows disks to fail without the system failing. Switching from a relational database to Cloud Datastore requires a paradigm shift for developers when modeling their data.
+
+
+# Relationship with Firestore
+
+## Firestore in Datastore mode
 
 Firestore in Datastore mode is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
 
@@ -16,7 +34,7 @@ While the Datastore mode interface has many of the same features as traditional 
 
 [https://cloud.google.com/datastore/docs](https://cloud.google.com/datastore/docs)
 
-More explanations.
+## More explanations
 
 [https://www.youtube.com/watch?v=SYG-BgXoJFQ](https://www.youtube.com/watch?v=SYG-BgXoJFQ)
 
