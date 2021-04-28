@@ -39,3 +39,10 @@ https://aws.amazon.com/dynamodb/
 Amazon SimpleDB is a distributed database written in Erlang by Amazon.com. It is used as a web service in concert with Amazon Elastic Compute Cloud (EC2) and Amazon S3 and is part of Amazon Web Services. 
 
 https://aws.amazon.com/simpledb/
+
+## Datastax Astra
+
+DataStax Astra is a cloud-native Cassandra-as-a-Service Built on Apache Cassandra designed to simplify cloud-native application development.
+
+https://www.datastax.com/products/datastax-astra
+
