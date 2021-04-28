@@ -206,6 +206,11 @@ https://github.com/bobbae/gcp/wiki/Firestore
 
 https://github.com/bobbae/gcp/wiki/Datastore
 
+### Firestore in datastore mode
+
+Firestore in Datastore mode is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
+
+https://cloud.google.com/datastore/docs
 
 ### Memorystore
 
