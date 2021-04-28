@@ -138,7 +138,7 @@ https://github.com/bobbae/gcp/wiki/Composer
 
 ### Google Data Studio
 
-Data Studio is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
+[Data Studio](https://datastudio.google.com) is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
 
 [https://support.google.com/datastudio#topic=6267740](https://support.google.com/datastudio#topic=6267740)
 
