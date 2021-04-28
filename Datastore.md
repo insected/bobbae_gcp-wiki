@@ -46,3 +46,8 @@ DataStax Astra is a cloud-native Cassandra-as-a-Service Built on Apache Cassandr
 
 https://www.datastax.com/products/datastax-astra
 
+## MongoDB
+
+MongoDB is a general purpose, document-based, distributed database built for modern application developers.
+
+https://www.mongodb.com/
