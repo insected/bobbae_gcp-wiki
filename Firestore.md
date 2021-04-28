@@ -23,3 +23,8 @@ Cloud Firestore database service makes it easy for developers to scale new and e
 
 
 
+## Firestore in datastore mode
+
+Firestore in Datastore mode is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
+
+https://cloud.google.com/datastore/docs
