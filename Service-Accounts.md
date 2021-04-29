@@ -1,0 +1,41 @@
+A service account is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
+
+For example, a Compute Engine VM can run as a service account, and that account can be given permissions to access the resources it needs. This way the service account is the identity of the service, and the service account's permissions control which resources the service can access.
+
+A service account is identified by its email address, which is unique to the account.
+
+https://cloud.google.com/iam/docs/service-accounts
+
+## Difference between a service account and a user account
+
+Service accounts are associated with private/public RSA key-pairs that are used for authentication to Google. You can let other users or service accounts impersonate a service account. Service accounts are not members of your Google Workspace domain, unlike user accounts. If you share Google Workspace assets, like docs or events, with all members in your Google Workspace domain, they are not shared with service accounts. Similarly, Google Workspace assets created by a service account are not created in your Google Workspace domain. As a result, your Google Workspace and Cloud Identity admins can't own or manage these assets.
+
+## Default service account
+
+If your application runs in a Google Cloud environment that has a default service account, your application can use the credentials for the default service account to call Google Cloud APIs. Alternatively, you can create your own user-managed service account and use it to authenticate. 
+
+## Finding credentials automatically
+
+If your application runs inside a Google Cloud environment, and you have attached a service account to that environment, your application can retrieve credentials for the service account. The application can then use the credentials to call Google Cloud APIs.
+
+## ADC Application Default Credentials
+
+Google Cloud Client Libraries use a library called Application Default Credentials (ADC) to automatically find your service account credentials. ADC looks for service account credentials in the following order
+
+1. If the environment variable GOOGLE_APPLICATION_CREDENTIALS is set, ADC uses the service account key or configuration file that the variable points to.
+2. If the environment variable GOOGLE_APPLICATION_CREDENTIALS isn't set, ADC uses the service account that is attached to the resource that is running your code.
+3. This service account might be a default service account provided by Compute Engine, Google Kubernetes Engine, App Engine, Cloud Run, or Cloud Functions. It might also be a user-managed service account that you created.
+
+If ADC can't use any of the above credentials, an error occurs.
+
+
+
+https://cloud.google.com/docs/authentication/production#automatically
+
+## Service account impersonation
+
+The token exchange flow returns a [federated access token](https://cloud.google.com/iam/docs/workload-identity-federation). You can use this token to impersonate a service account and obtain a short-lived OAuth 2.0 access token. The short-lived access token lets you call any Google Cloud APIs that the service account has access to.
+
+
+
+https://cloud.google.com/iam/docs/workload-identity-federation#impersonation
