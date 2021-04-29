@@ -29,6 +29,8 @@ A member can be a Google Account (for end users), a service account (for apps an
 
 A role is a collection of permissions. Permissions determine what operations are allowed on a resource. When you grant a role to a member, you grant all the permissions that the role contains.
 
+https://cloud.google.com/iam/docs/understanding-roles
+
 #### Policy
 
 [[https://cloud.google.com/iam/img/iam-overview-policy.png]]
@@ -36,6 +38,15 @@ A role is a collection of permissions. Permissions determine what operations are
 The IAM policy binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
 
 https://cloud.google.com/iam/docs/overview#cloud-iam-policy
+
+https://cloud.google.com/iam/docs/policies
+
+#### Policy intelligence tools
+
+Large organizations often have complicated Identity and Access Management (IAM) policies. Policy Intelligence tools help you understand and manage your policies to proactively improve your security configuration.
+
+https://cloud.google.com/iam/docs/policy-intelligence-tools
+
 
 ## Granular Access
 
@@ -67,20 +78,47 @@ In general, the term IAM as in Identity and access management (IAM or IdAM for s
 
 You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
 
-### Concepts related to identity
+## Concepts related to identity
 
 In IAM you grant access to members. Members can have the following types: Google Account, Service Account, Google Group, Google Workspace domain, Cloud Identity Domain, All authenticated users, All users.
 
 https://cloud.google.com/iam/docs/overview#concepts_related_identity
 
 
-#### Google Groups
+### Google Groups
 
 Google Groups is a service from Google that provides discussion groups for people sharing common interests. The Groups service also provides a gateway to Usenet newsgroups via a shared user interface.
 
 Google Groups became operational in February 2001, following Google's acquisition of Deja's Usenet archive. Deja News had been operational since March 1995.
 
-Usenet (/ˈjuːznɛt/) is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980.
+Usenet  is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980.
 
 https://cloud.google.com/iam/docs/groups-in-cloud-console
 
+
+## Recommender
+
+Recommender is a service on Google Cloud that provides usage recommendations and insights for Cloud products and services.
+
+
+https://cloud.google.com/iam/docs/recommender-overview
+
+### IAM Recommender
+
+IAM uses Recommender to compare role grants with the permissions that each member used during the past 90 days. If you grant a role to a member, and the member does not use all of that role's permissions, then the IAM recommender is likely to recommend that you revoke the role. If necessary, the IAM recommender also recommends less permissive roles as a replacement. This suggested replacement could be a new custom role, an existing custom role, or one or more predefined roles. Except in the case of recommendations for Google-managed service accounts, the IAM recommender never suggests a change that increases a member's level of access.
+
+
+
+### Managing insights
+
+In addition to providing recommendations, Recommender uses machine learning (ML) to provide detailed insights. Insights are findings that highlight notable patterns in resource usage. For example, you can collect additional information about permission usage in your project, or identify unused service accounts. Some insights also link to recommendations, because the insights provide evidence for the recommendations.
+
+
+
+https://cloud.google.com/iam/docs/managing-insights
+
+## Audit
+
+Google Cloud services write audit logs to help you answer the questions, "Who did what, where, and when?" Your Cloud projects contain only the audit logs for resources that are directly within the project. Other entities, such as folders, organizations, and Cloud Billing accounts, contain the audit logs for the entity itself.
+
+https://cloud.google.com/iam/docs/audit-logging
