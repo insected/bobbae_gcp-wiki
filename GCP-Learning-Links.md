@@ -8,6 +8,7 @@ To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/
 - [GCP Quick Starts](https://cloud.google.com/gcp/getting-started)
 - [Google Cloud Community links](https://cloud.google.com/community) 
 - [Tutorials](https://cloud.google.com/community#home-tutorials)
+- [Cheatsheets](https://cloud.google.com/blog/products/gcp/5-google-cloud-product-cheat-sheets-2021)
 
 # Google Workspace
 - [Introduction](https://www.youtube.com/watch?v=bE31y5HbukA)
