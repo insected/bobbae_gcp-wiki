@@ -44,3 +44,16 @@ https://cloud.google.com/iam/docs/workload-identity-federation#impersonation
 
 https://cloud.google.com/iam/docs/best-practices-for-securing-service-accounts
 
+## Best Practices
+
+Service accounts represent non-human users. They're intended for scenarios where a workload, such as a custom application, needs to access resources or perform actions without end-user involvement. Service accounts can be used for many different purposes, but they aren't always the best choice.
+
+Not every application interacts with human users—instead, an application might be running in the background unattended. Unattended applications include batch jobs, worker processes that dispatch messages read from a queue, or a resource-monitoring agent.
+
+Whenever an unattended application needs to access a resource, like a Cloud Storage bucket, it must act on its own behalf, not on behalf of any end user. To act on its own behalf, an application needs its own identity that's unrelated to any end-user identity.
+
+To equip an application with its own identity, create a service account for the application, and grant the service account access to the resources that the application needs to access. By letting an application use its own service account, you help ensure that the application can work without user interaction. In addition, you also ensure that any resource accesses initiated by the application can be attributed back to the same application.
+
+
+
+https://cloud.google.com/iam/docs/best-practices-for-using-and-managing-service-accounts
