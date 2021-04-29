@@ -271,7 +271,5 @@ To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/
 
 # Qwiklabs
 - [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
-
 - [Open source](https://cloud.google.com/community#home-oss)
-
 - [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
