@@ -351,6 +351,23 @@ Binary Authorization is a deploy-time security control that ensures only trusted
 https://cloud.google.com/binary-authorization/
 
 
+
+### Binary Authorization Attestations with Voucher
+
+An attestor is a Google Cloud resource that Binary Authorization uses to verify the attestation at container image deploy time. Attestors contain the public key that corresponds to the private key used by a signer to sign the container image digest and create the attestation. The Binary Authorization enforcer uses the attestor at deploy time to limit which container images are allowed to be deployed to those with an accompanying, verifiable attestation created prior to deployment.
+
+[https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher](https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher)
+
+
+### StackRox
+
+StackRox provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. Alternatively, use StackRox to enforce security policies for GKE with Cloud Run. 
+
+[https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/)
+
+
+
+
 ### Qwiklabs
 
 
