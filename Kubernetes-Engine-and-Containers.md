@@ -143,11 +143,28 @@ A Linux system starts out with a single namespace of each type, used by all proc
 
 Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 
+Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+
 https://kubernetes.io/
+
+[[https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg]]
 
 ## Kubernetes Control Plane
 
 [[https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png]]
+
+https://kubernetes.io/docs/concepts/overview/components/
+
+## API
+
+https://kubernetes.io/docs/concepts/overview/kubernetes-api/
+
+## Objects
+
+A Kubernetes object is a "record of intent"--once you create the object, the Kubernetes system will constantly work to ensure that object exists. By creating an object, you're effectively telling the Kubernetes system what you want your cluster's workload to look like; this is your cluster's desired state.
+
+https://kubernetes.io/docs/concepts/overview/working-with-objects/
+
 
 ## Google Kubernetes Engine (GKE)
 Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
@@ -418,6 +435,11 @@ https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
 https://www.youtube.com/watch?v=InZVNuKY5GY
 
+### Policies
+
+If you want to control traffic flow at the IP address or port level (OSI layer 3 or 4), then you might consider using Kubernetes NetworkPolicies for particular applications in your cluster. NetworkPolicies are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities" (we use the word "entity" here to avoid overloading the more common terms such as "endpoints" and "services", which have specific Kubernetes connotations) over the network.
+
+https://kubernetes.io/docs/concepts/services-networking/network-policies/
 
 ### Services networking
 
@@ -425,11 +447,19 @@ https://www.youtube.com/watch?v=InZVNuKY5GY
 
 ### ingress networking
 
+https://github.com/bobbae/gcp/wiki/Ingress
+
 [https://www.youtube.com/watch?v=40VfZ_nIFWI](https://www.youtube.com/watch?v=40VfZ_nIFWI)
 
 [https://www.youtube.com/watch?v=_BbxJGiMtL8](https://www.youtube.com/watch?v=_BbxJGiMtL8)
 
 https://www.youtube.com/watch?v=sHUSiM8jqbA
+
+### Topology aware traffic
+
+By default, traffic sent to a ClusterIP or NodePort Service may be routed to any backend address for the Service. Kubernetes 1.7 made it possible to route "external" traffic to the Pods running on the same Node that received the traffic. For ClusterIP Services, the equivalent same-node preference for routing wasn't possible; nor could you configure your cluster to favor routing to endpoints within the same zone.
+
+https://kubernetes.io/docs/concepts/services-networking/service-topology/
 
 ## CNI
 
