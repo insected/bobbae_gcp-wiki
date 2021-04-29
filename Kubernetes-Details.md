@@ -1,5 +1,30 @@
 # Cluster Architecture
 
+## Nodes
+Kubernetes runs your workload by placing containers into Pods to run on Nodes. A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods
+
+Typically you have several nodes in a cluster; in a learning or resource-limited environment, you might have only one node.
+
+## Control Plane
+
+Kubernetes has a "hub-and-spoke" API pattern. All API usage from nodes (or the pods they run) terminates at the apiserver. None of the other control plane components are designed to expose remote services. The apiserver is configured to listen for remote connections on a secure HTTPS port (typically 443) with one or more forms of client authentication enabled. One or more forms of authorization should be enabled, especially if anonymous requests or service account tokens are allowed.
+
+## Controller 
+In robotics and automation, a control loop is a non-terminating loop that regulates the state of a system.
+
+Here is one example of a control loop: a thermostat in a room.
+
+When you set the temperature, that's telling the thermostat about your desired state. The actual room temperature is the current state. The thermostat acts to bring the current state closer to the desired state, by turning equipment on or off.
+
+In Kubernetes, controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
+
+
+## Cloud Controller Manager
+
+The cloud-controller-manager is a Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+
+By decoupling the interoperability logic between Kubernetes and the underlying cloud infrastructure, the cloud-controller-manager component enables cloud providers to release features at a different pace compared to the main Kubernetes project.
+
 https://kubernetes.io/docs/concepts/architecture/
 
 # Kubernetes URLs
