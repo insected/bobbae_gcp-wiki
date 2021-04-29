@@ -1,5 +1,7 @@
 # IAM Overview
 
+[[https://cloud.google.com/iam/img/iam-overview-basics.svg]]
+
 Cloud IAM is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  This video will take you through the basic terms and concepts you need to use Cloud IAM.
 
 https://cloud.google.com/iam/docs/overview
@@ -23,9 +25,13 @@ A member can be a Google Account (for end users), a service account (for apps an
 
 #### Role
 
+[[https://cloud.google.com/iam/img/role-and-permissions.svg]]
+
 A role is a collection of permissions. Permissions determine what operations are allowed on a resource. When you grant a role to a member, you grant all the permissions that the role contains.
 
 #### Policy
+
+[[https://cloud.google.com/iam/img/iam-overview-policy.png]]
 
 The IAM policy binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
 
@@ -44,6 +50,12 @@ IAM lets you grant granular access to specific Google Cloud resources and helps 
 Cloud Identity and Access Management (IAM) lets administrators authorize who can take action on specific resources, giving you full control and visibility to manage Google Cloud resources centrally. For enterprises with complex organizational structures, hundreds of workgroups, and many projects, Cloud IAM provides a unified view into security policy across your entire organization, with built-in auditing to ease compliance processes. 
 
 [https://www.youtube.com/watch?v=96HlT4f2AUU](https://www.youtube.com/watch?v=96HlT4f2AUU)
+
+### Resource hierarchy
+
+[[https://cloud.google.com/iam/img/policy-inheritance.svg]]
+
+https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
 
 ## Access Control 
 
