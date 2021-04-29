@@ -1,0 +1,72 @@
+# IAM Overview
+
+Cloud IAM is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  This video will take you through the basic terms and concepts you need to use Cloud IAM.
+
+https://cloud.google.com/iam/docs/overview
+
+## How IAM works
+
+With IAM, you manage access control by defining who (identity) has what access (role) for which resource. For example, Compute Engine virtual machine instances, Google Kubernetes Engine (GKE) clusters, and Cloud Storage buckets are all Google Cloud resources. The organizations, folders, and projects that you use to organize your resources are also resources.
+
+### IAM Model
+
+In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into roles, and roles are granted to authenticated members. An IAM policy defines and enforces what roles are granted to which members, and this policy is attached to a resource. When an authenticated member attempts to access a resource, IAM checks the resource's policy to determine whether the action is permitted.
+
+https://cloud.google.com/iam/docs/overview#how_cloud_iam_works
+
+### Model for Access management
+
+#### Member
+
+A member can be a Google Account (for end users), a service account (for apps and virtual machines), a Google group, or a Google Workspace or Cloud Identity domain that can access a resource. The identity of a member is an email address associated with a user, service account, or Google group; or a domain name associated with Google Workspace or Cloud Identity domains.
+
+
+#### Role
+
+A role is a collection of permissions. Permissions determine what operations are allowed on a resource. When you grant a role to a member, you grant all the permissions that the role contains.
+
+#### Policy
+
+The IAM policy binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
+
+## Granular Access
+
+IAM lets you grant granular access to specific Google Cloud resources and helps prevent access to other resources. IAM lets you adopt the security principle of least privilege, which states that nobody should have more permissions than they actually need.
+
+[https://cloud.google.com/iam](https://cloud.google.com/iam)
+
+
+## Resources
+
+
+Cloud Identity and Access Management (IAM) lets administrators authorize who can take action on specific resources, giving you full control and visibility to manage Google Cloud resources centrally. For enterprises with complex organizational structures, hundreds of workgroups, and many projects, Cloud IAM provides a unified view into security policy across your entire organization, with built-in auditing to ease compliance processes. 
+
+[https://www.youtube.com/watch?v=96HlT4f2AUU](https://www.youtube.com/watch?v=96HlT4f2AUU)
+
+## Access Control 
+
+Cloud IAM provides a simple and consistent access control interface for all Google Cloud services. Learn one access control interface and apply that knowledge to all Google Cloud resources. Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer roles to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the Owner, Editor, and Viewer roles. Create and manage Cloud IAM policies using the Google Cloud Console, the Cloud IAM methods, and the gcloud command line tool.
+
+## Identity and Access
+
+In general, the term IAM as in Identity and access management (IAM or IdAM for short) is a way to tell who a user is and what they are allowed to do. IAM is like the bouncer at the door of a nightclub with a list of who is allowed in, who isn't allowed in, and who is able to access the VIP area. IAM is also called identity management (IdM).
+
+You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
+
+### Concepts related to identity
+
+In IAM you grant access to members. Members can have the following types: Google Account, Service Account, Google Group, Google Workspace domain, Cloud Identity Domain, All authenticated users, All users.
+
+https://cloud.google.com/iam/docs/overview#concepts_related_identity
+
+
+#### Google Groups
+
+Google Groups is a service from Google that provides discussion groups for people sharing common interests. The Groups service also provides a gateway to Usenet newsgroups via a shared user interface.
+
+Google Groups became operational in February 2001, following Google's acquisition of Deja's Usenet archive. Deja News had been operational since March 1995.
+
+Usenet (/ˈjuːznɛt/) is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980.
+
+https://cloud.google.com/iam/docs/groups-in-cloud-console
+
