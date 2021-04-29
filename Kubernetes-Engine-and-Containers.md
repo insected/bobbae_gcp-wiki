@@ -466,7 +466,41 @@ You may use Ceph Block Device images with Kubernetes v1.13 and later through cep
 
 https://docs.ceph.com/en/latest/rbd/rbd-kubernetes/
 
-## PVC Persistent Volume Claim
+### Volumes
+
+On-disk files in a container are ephemeral, which presents some problems for non-trivial applications when running in containers. One problem is the loss of files when a container crashes. The kubelet restarts the container but with a clean state. A second problem occurs when sharing files between containers running together in a Pod. 
+
+Docker has a concept of volumes, though it is somewhat looser and less managed. A Docker volume is a directory on disk or in another container. Docker provides volume drivers, but the functionality is somewhat limited.
+
+Kubernetes supports many types of volumes. A Pod can use any number of volume types simultaneously. Ephemeral volume types have a lifetime of a pod, but persistent volumes exist beyond the lifetime of a pod. When a pod ceases to exist, Kubernetes destroys ephemeral volumes; however, Kubernetes does not destroy persistent volumes. For any kind of volume in a given pod, data is preserved across container restarts.
+
+At its core, a volume is a directory, possibly with some data in it, which is accessible to the containers in a pod. How that directory comes to be, the medium that backs it, and the contents of it are determined by the particular volume type used.
+
+
+https://kubernetes.io/docs/concepts/storage/volumes/
+
+### Snapshots
+
+In Kubernetes, a VolumeSnapshot represents a snapshot of a volume on a storage system. This document assumes that you are already familiar with Kubernetes persistent volumes.
+
+
+https://kubernetes.io/docs/concepts/storage/volume-snapshots/
+
+### Dynamic Volume Provisioning
+
+Dynamic volume provisioning allows storage volumes to be created on-demand. Without dynamic provisioning, cluster administrators have to manually make calls to their cloud or storage provider to create new storage volumes, and then create PersistentVolume objects to represent them in Kubernetes. The dynamic provisioning feature eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage when it is requested by users.
+
+
+https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
+
+### CSI
+
+Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
+
+
+https://kubernetes.io/docs/concepts/storage/volumes/#csi
+
+### PVC Persistent Volume Claim
 
 [https://www.youtube.com/watch?v=0swOh5C3OVM](https://www.youtube.com/watch?v=0swOh5C3OVM)
 
