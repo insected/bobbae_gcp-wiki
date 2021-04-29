@@ -92,52 +92,11 @@
 
 # Containers
 
-
-## What is a container?
-
-A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
-
-[https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
-
-
-## Containers vs. VMs
-
-Virtual machines and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
-
- 
-### Comparison of containerizing vs using VMs
-
-[https://www.youtube.com/watch?v=TvnZTi_gaNc](https://www.youtube.com/watch?v=TvnZTi_gaNc)
-
-
-## Three ways to run containers in GCP
-
-Find out the top three ways you can run your containers on Google Cloud! Google Kubernetes Engine for a container orchestration solution, Cloud Run for a fully serverless approach and Compute Engine to simply use Virtual Machines.
-
-[https://www.youtube.com/watch?v=jh0fPT-AWwM](https://www.youtube.com/watch?v=jh0fPT-AWwM)
-
+https://github.com/bobbae/gcp/wiki/Containers
 
 ## Namespaces
 
-Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources. The feature works by having the same namespace for a set of resources and processes, but those namespaces refer to distinct resources. Resources may exist in multiple spaces. Examples of such resources are process IDs, hostnames, user IDs, file names, and some names associated with network access, and interprocess communication.
-
-
-
-### Linux namespaces
-
-Namespaces are a fundamental aspect of containers on Linux.
-
-The term "namespace" is often used for a type of namespace (e.g. process ID) as well as for a particular space of names.
-
-A Linux system starts out with a single namespace of each type, used by all processes. Processes can create additional namespaces and join different namespaces.
-
-[https://www.youtube.com/watch?v=kl8roLaLy-g](https://www.youtube.com/watch?v=kl8roLaLy-g)
-
-### Network namespaces and how they are used in containers
-
-[https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2](https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2)
-
-
+https://github.com/bobbae/gcp/wiki/Namespaces
 
 # Kubernetes
 
@@ -167,7 +126,8 @@ https://kubernetes.io/docs/concepts/overview/working-with-objects/
 
 
 ## Google Kubernetes Engine (GKE)
-Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
+
+https://github.com/bobbae/gcp/wiki/GKE
 
 ## An introduction to Kubernetes
 
@@ -195,60 +155,11 @@ https://kustomize.io/
 
 ## Kubernetes origin
 
-
-### Borg
-
-Borg is Google's main cluster management system that manages long running production services and non-production batch jobs on the same set of machines to maximize cluster utilization. Omega is a clean-slate rewrite of Borg using more principled architecture.
-
-Google's Borg system is a cluster manager that runs hundreds of thousands of jobs, from many thousands of different applications, across a number of clusters each with up to tens of thousands of machines. It achieves high utilization by combining admission control, efficient task-packing, over-commitment, and machine sharing with process-level performance isolation. It supports high-availability applications with runtime features that minimize fault-recovery time, and scheduling policies that reduce the probability of correlated failures. Borg simplifies life for its users by offering a declarative job specification language, name service integration, real-time job monitoring, and tools to analyze and simulate system behavior.
-
-[https://research.google/pubs/pub43438/](https://research.google/pubs/pub43438/)
-
-### Omega
-
-Omega is a Google's cluster management system based on shared state. In Omega, all system state lives in a consistent Paxos-based storage system that is accessed by a multitude of components which act as peers. A new parallel scheduler architecture is built around shared state, using lock-free optimistic concurrency and performance scalability.   Compared to monolithic schedulers or Two-level schedulers like Mesos and Hadoop-on-demand, the Omega addresses the entire cluster state in a scheduler.
-
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf
-
-Kubernetes is the latest open source container manager that draws on lessons from both previous systems.   
-
-
-
-
-
-https://mwhittaker.github.io/papers/html/burns2016borg.html
-
-All three systems use containers for security and performance isolation. Container technology has evolved greatly since the inception of Borg from chroot to jails to cgroups. Of course containers cannot prevent all forms of performance isolation. Today, containers also contain program images.
-
-https://research.google/pubs/pub44843/
-
-### Twine / Tupperware
-
-Facebook's own hyperscale orchestration tool.
-
-https://engineering.fb.com/2019/06/06/data-center-engineering/twine/
-
-### Swarm
-Docker Swarm is Docker’s native Container Orchestration Engine. 
-
-https://github.com/docker/classicswarm
-
-### Mesos
-
-Mesos takes more of a distributed approach to managing datacenter and cloud resources. Mesos can have multiple masters which use Zookeeper to keep track of the cluster state amongst the masters and form a high-availability cluster.
-
-http://mesos.apache.org/
+https://github.com/bobbae/gcp/wiki/Kubernetes-Origin
 
 ## Kubernetes Examples
 
-#### How to create a GKE cluster
 
-This video will teach you how to create a Google Kubernetes Engine (GKE) cluster using Terraform.
-
-[https://www.youtube.com/watch?v=Vcv6GapxUCI](https://www.youtube.com/watch?v=Vcv6GapxUCI)
-
-Here are some tutorials for using Terraform to manage Kubernetes on GCP.
-[HashCorp Terraform Kubernetes Tutorials](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes)
 
 ### Building small containers
 
@@ -286,9 +197,6 @@ This video shows how to work with Namespaces and how they can help you manage yo
 
 ## Kubernetes Details
 
-### Google GKE Documentation
-
-[https://cloud.google.com/kubernetes-engine/docs](https://cloud.google.com/kubernetes-engine/docs)
 
 
 ### Kubernetes URLs
@@ -446,25 +354,8 @@ https://github.com/bobbae/gcp/wiki/Ingress
 
 https://github.com/bobbae/gcp/wiki/Service-Mesh
 
-## GKE HA and Stateful Application, PVC
-
-Kubernetes is a great tool to host your highly available applications but what happens when you have to work with stateful workloads? 
-
-[https://www.youtube.com/watch?v=rRZtZX0PDFc](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 
 
-## Kubernetes applications on Google Cloud Marketplace
-
-The Kubernetes apps in Cloud Marketplace include container images and configuration files, such as a kubectl configuration or a[ Helm chart](https://helm.sh/docs/topics/charts/). When you deploy an app from Cloud Marketplace, the Kubernetes resources are created in your cluster, and you can manage the resources as a group.
-
-[https://cloud.google.com/marketplace/docs/kubernetes-apps](https://cloud.google.com/marketplace/docs/kubernetes-apps)
-
-
-## GKE Operations
-
-A video about using Cloud Logging on GKE.
-
-[https://www.youtube.com/watch?v=IusP8jDfnt4](https://www.youtube.com/watch?v=IusP8jDfnt4)
 
 
 ## Cloud Build & Cloud Code with Containers
@@ -499,15 +390,7 @@ While Docker provides a central registry for storing public images, you might no
 [Container Registry: Qwik Start](https://www.qwiklabs.com/focuses/1768?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467880)
 
 
-### Batch on GKE
 
-Batch on GKE (Batch) is a cloud-native solution for scheduling and managing batch workloads. With Batch, you can leverage the on-demand and flexible nature of cloud. Batch is based on Kubernetes and containers so your jobs are portable.
-
-[https://cloud.google.com/kubernetes-engine/docs/concepts/batch](https://cloud.google.com/kubernetes-engine/docs/concepts/batch)
-
-A video about using Batch on GKE.
-
-[https://www.youtube.com/watch?v=qLSLs-ko3ik](https://www.youtube.com/watch?v=qLSLs-ko3ik)
 
 ## K8s monitoring
 
@@ -543,10 +426,7 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-scaling
 
 ## Qwiklabs
 
-
-### GKE
-
-Kubernetes is the most popular container orchestration system, and Google Kubernetes Engine was designed specifically to support managed Kubernetes deployments in Google Cloud. In this advanced-level quest, you will get hands-on practice configuring Docker images, containers, and deploying fully-fledged Kubernetes Engine applications. This quest will teach you the practical skills needed for integrating container orchestration into your own workflow. 
+# GKE Basics
 
 [Kubernetes in Google Cloud](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467715)
 
