@@ -14,7 +14,6 @@
 [https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
 
 
-[[https://pbs.twimg.com/media/DOH4Jo_UQAAD6FJ?format=jpg&name=medium]]
 
 # Quickstart for using public assets
 
