@@ -1,20 +1,4 @@
-- [DevOps](#devops)
-  * [Introduction](#introduction)
-  * [Jenkins & GKE](#jenkins---gke)
-  * [Spinnaker](#spinnaker)
-  * [Jib](#jib)
-  * [Kubernetes CI/CD](#kubernetes-ci-cd)
-    + [Security](#security)
-      - [StackRox](#stackrox)
-      - [Binary Authorization Attestations with Voucher](#binary-authorization-attestations-with-voucher)
-  * [GitOps](#gitops)
-    + [Tutorial](#tutorial)
-    + [Gitlab Gitops with Anthos](#gitlab-gitops-with-anthos)
-  * [ArgoCD](#argocd)
-  * [Chaos Monkey](#chaos-monkey)
-  * [Tekton](#tekton)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## DevOps
 
