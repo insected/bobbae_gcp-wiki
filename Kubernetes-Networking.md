@@ -1,3 +1,25 @@
+## Basic Networking Model
+
+Every Pod gets its own IP address. This means you do not need to explicitly create links between Pods and you almost never need to deal with mapping container ports to host ports. This creates a clean, backwards-compatible model where Pods can be treated much like VMs or physical hosts from the perspectives of port allocation, naming, service discovery, load balancing, application configuration, and migration.
+
+Kubernetes imposes the following fundamental requirements on any networking implementation (barring any intentional network segmentation policies):
+
+1. pods on a node can communicate with all pods on all nodes without NAT
+2. agents on a node (e.g. system daemons, kubelet) can communicate with all pods on that node
+
+Note: For those platforms that support Pods running in the host network (e.g. Linux):
+
+* pods in the host network of a node can communicate with all pods on all nodes without NAT
+
+This model is not only less complex overall, but it is principally compatible with the desire for Kubernetes to enable low-friction porting of apps from VMs to containers. If your job previously ran in a VM, your VM had an IP and could talk to other VMs in your project. This is the same basic model.
+
+Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their network namespaces - including their IP address and MAC address. This means that containers within a Pod can all reach each other's ports on localhost. This also means that containers within a Pod must coordinate port usage, but this is no different from processes in a VM. This is called the "IP-per-pod" model.
+
+## Cluster Networking
+
+https://kubernetes.io/docs/concepts/cluster-administration/networking/
+
+
 [[https://d33wubrfki0l68.cloudfront.net/e351b830334b8622a700a8da6568cb081c464a9b/13020/images/docs/services-userspace-overview.svg]]
 
 Networking is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
@@ -7,21 +29,23 @@ Networking is a central part of Kubernetes, but it can be challenging to underst
 3. Pod-to-Service communications
 4. External-to-Service communications
 
+## ClusterIP, Ingress, NodePort, Load Balancer
+
 https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
+
+## More on use of iptables and ipvs in Kubernetes
 
 https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
-### Basics
 
-https://www.youtube.com/watch?v=InZVNuKY5GY
 
-### Policies
+## Policies
 
 If you want to control traffic flow at the IP address or port level (OSI layer 3 or 4), then you might consider using Kubernetes NetworkPolicies for particular applications in your cluster. NetworkPolicies are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities" (we use the word "entity" here to avoid overloading the more common terms such as "endpoints" and "services", which have specific Kubernetes connotations) over the network.
 
 https://kubernetes.io/docs/concepts/services-networking/network-policies/
 
-### Services networking
+## Services networking
 
 In Kubernetes, a Service is an abstraction which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a Service is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
 
@@ -33,7 +57,7 @@ Coordinating port allocations across multiple developers or teams that provide c
 
 https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
-### Topology aware traffic
+## Topology aware traffic
 
 By default, traffic sent to a ClusterIP or NodePort Service may be routed to any backend address for the Service. Kubernetes 1.7 made it possible to route "external" traffic to the Pods running on the same Node that received the traffic. For ClusterIP Services, the equivalent same-node preference for routing wasn't possible; nor could you configure your cluster to favor routing to endpoints within the same zone.
 
