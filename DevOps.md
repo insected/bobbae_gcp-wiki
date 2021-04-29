@@ -12,6 +12,7 @@
     + [Gitlab Gitops with Anthos](#gitlab-gitops-with-anthos)
   * [ArgoCD](#argocd)
   * [Chaos Monkey](#chaos-monkey)
+  * [Tekton](#tekton)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -101,9 +102,9 @@ Chaos Monkey is responsible for randomly terminating instances in production to 
 
 ### Tekton
 
-Tekton is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems.
+Tekton is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems. Tekton is a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details.
 
-
+https://cloud.google.com/tekton
 
 https://tekton.dev/
 
