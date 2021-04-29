@@ -1,24 +1,26 @@
+# Cluster Architecture
 
+https://kubernetes.io/docs/concepts/architecture/
 
-### Kubernetes URLs
+# Kubernetes URLs
 
 [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 
-### Resource Limits
+# Resource Limits
 
 When you specify a Pod, you can optionally specify how much of each resource a Container needs. The most common resources to specify are CPU and memory (RAM); there are others.
 
 When you specify the resource request for Containers in a Pod, the scheduler uses this information to decide which node to place the Pod on. When you specify a resource limit for a Container, the kubelet enforces those limits so that the running container is not allowed to use more of that resource than the limit you set. The kubelet also reserves at least the request amount of that system resource specifically for that container to use.
 
-### Requests and limits 
+# Requests and limits 
 
 If the node where a Pod is running has enough of a resource available, it's possible (and allowed) for a container to use more resource than its request for that resource specifies. However, a container is not allowed to use more than its resource limit.
 
 [https://www.youtube.com/watch?v=xjpHggHKm78&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB&index=4](https://www.youtube.com/watch?v=xjpHggHKm78&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB&index=4)
 
 
-### RBAC
+# RBAC
 
 Role-based access control (RBAC) is a method of regulating access to computer or network resources based on the roles of individual users within your organization.
 
@@ -41,7 +43,7 @@ With Kubernetes you don't need to modify your application to use an unfamiliar s
 
 https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
-### Configmaps & Secrets
+# Configmaps & Secrets
 
 A ConfigMap is an API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
 
@@ -54,7 +56,7 @@ A Secret is an object that contains a small amount of sensitive data such as a p
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
 
-### Stateful Sets
+# Stateful Sets
 
 StatefulSet is the workload API object used to manage stateful applications.
 
@@ -63,14 +65,14 @@ Manages the deployment and scaling of a set of Pods, and provides guarantees abo
 [https://www.youtube.com/watch?v=pPQKAR1pA9U](https://www.youtube.com/watch?v=pPQKAR1pA9U)
 
 
-### DaemonSet
+# DaemonSet
 
 A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
 
 [https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
 
-### CRD
+# CRD
 
 CRD stands for  Custom Resource Definition.
 
@@ -87,7 +89,7 @@ https://book.kubebuilder.io/quick-start.html
 https://github.com/kubernetes-sigs/kubebuilder
 
 
-### Operator Pattern
+# Operator Pattern
 
 In Kubernetes, objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with kubectl apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. With Operators, Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
 
@@ -119,12 +121,12 @@ https://cert-manager.io/docs/installation/kubernetes/
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
-### Operator Hub
+# Operator Hub
 
 [https://operatorhub.io/](https://operatorhub.io/)
 
 
-### Operator Sprawl
+# Operator Sprawl
 
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
 
