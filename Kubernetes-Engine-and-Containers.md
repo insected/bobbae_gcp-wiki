@@ -117,6 +117,12 @@ Some videos about Network Namespaces and how they are used in containers.
 
 [https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2](https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2)
 
+### Kubernetes
+
+[[https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png]]
+
+
+https://kubernetes.io/
 
 ### Google Kubernetes Engine (GKE)
 Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
