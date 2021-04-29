@@ -20,7 +20,7 @@
 
 ## Accounts & Billing
 
-https://cloud.google.com/billing/docs/onboarding-checklist
+A Cloud Billing account defines who pays for a given set of Google Cloud resources. To use Google Cloud services, you must have a valid Cloud Billing account, and must link it to your Google Cloud projects. Your project's Google Cloud usage is charged to the linked Cloud Billing account.
 
 Google Cloud resources are organized hierarchically. This hierarchy allows you to map your organization's operational structure to Google Cloud, and to manage access control and permissions for groups of related resources.
 
@@ -91,6 +91,31 @@ Google Cloud customers can be assisted in setting up their various Google Cloud 
 Managing GCP usage and cost trends is easier than you think. In this session, we'll show you how to quickly view your GCP costs, forecast your month-end bill, and provide an overview of some of the controls you can put in place to prevent budget overruns.
 
 [https://www.youtube.com/watch?v=UocD6uY2-js](https://www.youtube.com/watch?v=UocD6uY2-js)
+
+## Channel Services
+
+The Channel Services console is designed for resellers of Google Cloud products. Use the console to add customers, manage accounts, create orders, and other key tasks for reselling. 
+
+ 
+
+### Channel Services console for Google Cloud Platform resale
+
+https://support.google.com/channelservices/answer/9789535
+
+### Channel Services console for Google Workspace
+
+
+https://support.google.com/channelservices/answer/9400042
+
+### Sub Accounts
+
+Subaccounts are intended for resellers. If you are a reseller, you can use subaccounts to represent your customers' charges for the purpose of chargebacks.
+
+Cloud Billing subaccounts allow you to group charges from projects together on a separate section of your invoice. A billing subaccount is a Cloud Billing account that is owned by a reseller's parent Cloud Billing account. The usage charges for all billing subacccounts are paid for by the reseller's parent Cloud Billing account. Note that the parent Cloud Billing account must be on invoiced billing.
+
+A subaccount behaves like a Cloud Billing account in most ways: it can have projects linked to it, Cloud Billing data exports can be configured on it, and it can have IAM roles defined on it. Any charges made to projects linked to the subaccount are grouped and subtotalled on the invoice, and the effect on resource management is that access control policy can be entirely segregated on the subaccount to allow for customer separation and management.
+
+https://cloud.google.com/billing/docs/concepts#subaccounts
 
 
 ### Qwiklabs
