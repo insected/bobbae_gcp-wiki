@@ -1,6 +1,7 @@
 # Introduction
 
 
+[[https://cloud.google.com/ai-platform/images/ml-workflow.svg]]
 
 AI Platform makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively. From data engineering to "no lock- in" flexibility, AI Platform's integrated tool chain helps you build and run your own machine learning applications.
 
