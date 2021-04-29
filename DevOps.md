@@ -59,16 +59,7 @@ Kubernetes had become the orchestrator of choice to deploy applications — but 
 
 #### Security
 
-
-##### StackRox
-
-[https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/)
-
-
-##### Binary Authorization Attestations with Voucher
-
-[https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher](https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher)
-
+https://github.com/bobbae/gcp/wiki/Security
 
 ### GitOps 
 
@@ -91,11 +82,25 @@ This tutorial explains how to manage infrastructure as code with [Terraform](htt
 
 ### ArgoCD
 
+Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+
+
 [https://www.youtube.com/watch?v=35Qimb_AZ8U](https://www.youtube.com/watch?v=35Qimb_AZ8U)
 
 
 ### Chaos Monkey
 
+Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures.
+
 [https://netflix.github.io/chaosmonkey/](https://netflix.github.io/chaosmonkey/)
 
+### Tekton
+
+Tekton is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems.
+
+
+
+https://tekton.dev/
+
+https://martinheinz.dev/blog/45
 
