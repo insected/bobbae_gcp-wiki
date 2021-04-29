@@ -13,6 +13,9 @@ When to use NodePort vs. LoadBalancer  can be confusing.
 
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
 
+## GKE
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps
 
 # ClusterIP
 
@@ -20,12 +23,14 @@ A ClusterIP service is the default Kubernetes service. It gives you a service in
 
 
 # NodePort
+
 A NodePort service is the most primitive way to get external traffic directly to your service. NodePort, as the name implies, opens a specific port on all the Nodes (the VMs), and any traffic that is sent to this port is forwarded to the service.
 
 NodePort exposes the Service on each Node's IP at a static port (the NodePort). A ClusterIP Service, to which the NodePort Service routes, is automatically created. You'll be able to contact the NodePort Service, from outside the cluster, by requesting <NodeIP>:<NodePort>.
 
 
 # LoadBalancer
+
 A LoadBalancer service is the standard way to expose a service to the internet. On GKE, this will spin up a [Network Load Balancer](https://cloud.google.com/compute/docs/load-balancing/network/) that will give you a single IP address that will forward all traffic to your service.
 
 
