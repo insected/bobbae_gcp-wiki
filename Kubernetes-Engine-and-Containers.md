@@ -104,14 +104,13 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-Details
 
 ## Kubernetes Networking
 
-https://github.com/bobbae/gcp/wiki/Kubernete-Networking
-
+https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
 
 
 
 ## Kubernetes Storage
 
-https://github.com/bobbae/gcp/wiki/Kubernete-Storage
+https://github.com/bobbae/gcp/wiki/Kubernetes-Storage
 
 ## Authentication and Authorization in Kubernetes
 
