@@ -29,6 +29,9 @@
 
 AKA G-Suite
 
+https://www.goldyarora.com/g-suite-admin/
+
+https://support.google.com/a/?hl=en#topic=4388346
 
 ### Introduction
 
@@ -36,6 +39,7 @@ All Google Workspace plans provide a custom email for your business and includes
 
 [https://workspace.google.com/](https://workspace.google.com/)
 
+https://www.coursera.org/specializations/g-suite-administration
 
 ### YouTube channel for Google Workspace
 
@@ -56,6 +60,10 @@ All Google Workspace plans provide a custom email for your business and includes
 
 [https://www.youtube.com/watch?v=NqumcYgj5LI](https://www.youtube.com/watch?v=NqumcYgj5LI)
 
+https://developers.google.com/workspace
+
+#### Apps Script
+https://developers.google.com/admin-sdk
 
 ### G Suite REST APIs
 
