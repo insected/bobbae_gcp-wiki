@@ -93,6 +93,11 @@ You can expose a Service in multiple ways that don't directly involve the Ingres
 
 https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
 
+## Multi-cluster ingress
+
+Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller for Anthos clusters. It's a Google-hosted service that supports deploying shared load balancing resources across clusters and across regions.
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
 
 ## Ingress example
 
