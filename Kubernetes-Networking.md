@@ -1,9 +1,11 @@
+[[https://d33wubrfki0l68.cloudfront.net/e351b830334b8622a700a8da6568cb081c464a9b/13020/images/docs/services-userspace-overview.svg]]
+
 Networking is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
 
-1. Highly-coupled container-to-container communications: this is solved by Pods and localhost communications.
-2. Pod-to-Pod communications: this is the primary focus of this document.
-3. Pod-to-Service communications: this is covered by services.
-4. External-to-Service communications: this is covered by services.
+1. Highly-coupled container-to-container communications
+2. Pod-to-Pod communications
+3. Pod-to-Service communications
+4. External-to-Service communications
 
 https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
@@ -19,9 +21,15 @@ https://kubernetes.io/docs/concepts/services-networking/network-policies/
 
 ### Services networking
 
-[https://www.youtube.com/watch?v=NFApeJRXos4](https://www.youtube.com/watch?v=NFApeJRXos4)
+In Kubernetes, a Service is an abstraction which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a Service is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
 
+https://kubernetes.io/docs/concepts/services-networking/service/
 
+By default, Docker uses host-private networking, so containers can talk to other containers only if they are on the same machine. In order for Docker containers to communicate across nodes, there must be allocated ports on the machine's own IP address, which are then forwarded or proxied to the containers. This obviously means that containers must either coordinate which ports they use very carefully or ports must be allocated dynamically.
+
+Coordinating port allocations across multiple developers or teams that provide containers is very difficult to do at scale, and exposes users to cluster-level issues outside of their control. Kubernetes assumes that pods can communicate with other pods, regardless of which host they land on. Kubernetes gives every pod its own cluster-private IP address, so you do not need to explicitly create links between pods or map container ports to host ports. This means that containers within a Pod can all reach each other's ports on localhost, and all pods in a cluster can see each other without NAT. The rest of this document elaborates on how you can run reliable services on such a networking model.
+
+https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
 ### Topology aware traffic
 
