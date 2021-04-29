@@ -1,7 +1,7 @@
 
 # AI Hub
 
-AI Hub offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. You can use the AI Hub to:
+[AI Hub](https://aihub.cloud.google.com/u/0/) offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. You can use the AI Hub to:
 
 - Find, deploy, and use Kubeflow pipelines and components.
 - Explore code and learn in interactive Jupyter notebooks.
@@ -14,7 +14,7 @@ AI Hub offers a collection of components for developers and data scientists buil
 [https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
 
 
-
+[[https://pbs.twimg.com/media/DOH4Jo_UQAAD6FJ?format=jpg&name=medium]]
 # Quickstart for using public assets
 
 The example notebook guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
