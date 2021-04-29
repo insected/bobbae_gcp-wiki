@@ -10,7 +10,7 @@
     + [Kustomize](#kustomize)
   * [Kubernetes origin](#kubernetes-origin)
   * [Kubernetes Examples](#kubernetes-examples)
-  * [Kubernetes Details](#kubernetes-details)
+  * [Kubernetes Archictecture](#kubernetes-architecture)
   * [Kubernetes Networking](#kubernetes-networking)
   * [Kubernetes Storage](#kubernetes-storage)
   * [Authentication and Authorization in Kubernetes](#authentication-and-authorization-in-kubernetes)
@@ -98,9 +98,9 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-Origin
 https://github.com/bobbae/gcp/wiki/Kubernetes-Examples
 
 
-## Kubernetes Details
+## Kubernetes Architecture
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Details
+https://github.com/bobbae/gcp/wiki/Kubernetes-Architecture
 
 ## Kubernetes Networking
 
