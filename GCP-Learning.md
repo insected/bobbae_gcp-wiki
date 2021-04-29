@@ -1,5 +1,6 @@
-# GCP Learning Main
+# Google Cloud Platform
 
+[[https://cloud.google.com/docs/images/overview/regions-zones.svg]]
 
 ## Table of Contents
 
