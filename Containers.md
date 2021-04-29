@@ -11,6 +11,8 @@ A container image is a ready-to-run software package, containing everything need
 
 By design, a container is immutable: you cannot change the code of a container that is already running. If you have a containerized application and want to make changes, you need to build a new image that includes the change, then recreate the container to start from the updated image.
 
+Container images use [Union Filesystems](https://en.wikipedia.org/wiki/UnionFS). In Linux, docker originally use AUFS but they use OverlayFS now.  The details of union filesystem use in docker container images can be found at https://martinheinz.dev/blog/44.
+
 
 ## Container runtimes
 
@@ -23,7 +25,8 @@ Kubernetes supports several container runtimes: Docker, containerd, CRI-O, and a
 
 Virtual machines and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
 
- 
+https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms
+
 ### Comparison of containerizing vs using VMs
 
 [https://www.youtube.com/watch?v=TvnZTi_gaNc](https://www.youtube.com/watch?v=TvnZTi_gaNc)
