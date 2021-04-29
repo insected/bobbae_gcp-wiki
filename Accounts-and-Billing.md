@@ -20,9 +20,15 @@
 
 ## Accounts & Billing
 
+https://cloud.google.com/billing/docs/onboarding-checklist
+
+Google Cloud resources are organized hierarchically. This hierarchy allows you to map your organization's operational structure to Google Cloud, and to manage access control and permissions for groups of related resources.
 
 ### Concepts
 
+In the context of Google Cloud, a resource can refer to the service-level resources that are used to process your workloads (VMs, DBs, and so on) as well as to the account-level resources that sit above the services, such as projects, folders, and the organization.
+
+https://cloud.google.com/billing/docs/concepts
 
 #### Important Roles
 
