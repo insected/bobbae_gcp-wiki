@@ -1,4 +1,3 @@
-
 - [Accounts & Billing](#accounts---billing)
   * [Concepts](#concepts)
     + [Important Roles](#important-roles)
@@ -12,11 +11,14 @@
   * [GCP Cloud Customer Onboarding Checklist](#gcp-cloud-customer-onboarding-checklist)
   * [Key Decisions](#key-decisions)
   * [Google Cloud Pricing Calculator](#google-cloud-pricing-calculator)
+- [Channel Services](#channel-services)
+  * [Channel Services console for Google Cloud Platform resale](#channel-services-console-for-google-cloud-platform-resale)
+  * [Channel Services console for Google Workspace](#channel-services-console-for-google-workspace)
+  * [Sub Accounts](#sub-accounts)
   * [Qwiklabs](#qwiklabs)
     + [Optimizing GCP Costs](#optimizing-gcp-costs)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Accounts & Billing
 
