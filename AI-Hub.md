@@ -15,6 +15,7 @@
 
 
 [[https://pbs.twimg.com/media/DOH4Jo_UQAAD6FJ?format=jpg&name=medium]]
+
 # Quickstart for using public assets
 
 The example notebook guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
