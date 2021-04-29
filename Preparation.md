@@ -2,6 +2,7 @@
   * [Qwiklabs](#qwiklabs)
     + [Qwiklabs Videos](#qwiklabs-videos)
   * [Register  Now at the Partner Advantage site](#register--now-at-the-partner-advantage-site)
+  * [Codelabs](#codelabs)
   * [Git](#git)
   * [Certifications](#certifications)
     + [Register Now](#register-now)
@@ -16,20 +17,6 @@
     + [Cloud Academy](#cloud-academy)
     + [A list of external resources](#a-list-of-external-resources)
 - [Syllabus](#syllabus)
-  * [Course Description](#course-description)
-  * [Course Objectives](#course-objectives)
-  * [Course Outline](#course-outline)
-  * [Group Project](#group-project)
-  * [Daily Meetings](#daily-meetings)
-  * [Worklog](#worklog)
-  * [Materials in this document](#materials-in-this-document)
-  * [Example Schedules for 8 weeks programs](#example-schedules-for-8-weeks-programs)
-    + [GCP Infrastructure General Overview Course](#gcp-infrastructure-general-overview-course)
-    + [GCP Data Engineering Course](#gcp-data-engineering-course)
-    + [GCP Data Science Course](#gcp-data-science-course)
-    + [GCP Networking Course](#gcp-networking-course)
-    + [GCP DevOps Course](#gcp-devops-course)
-    + [GCP Workspace (G Suite) Course](#gcp-workspace--g-suite--course)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
