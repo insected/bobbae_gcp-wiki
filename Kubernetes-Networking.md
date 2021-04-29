@@ -7,6 +7,8 @@ Networking is a central part of Kubernetes, but it can be challenging to underst
 3. Pod-to-Service communications
 4. External-to-Service communications
 
+https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
+
 https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
 ### Basics
