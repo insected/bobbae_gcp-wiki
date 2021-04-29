@@ -422,118 +422,14 @@ https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
 ## Kubernetes Networking
 
-Networking is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
+https://github.com/bobbae/gcp/wiki/Kubernete-Networking
 
-1. Highly-coupled container-to-container communications: this is solved by Pods and localhost communications.
-2. Pod-to-Pod communications: this is the primary focus of this document.
-3. Pod-to-Service communications: this is covered by services.
-4. External-to-Service communications: this is covered by services.
-
-https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
-
-### Basics
-
-https://www.youtube.com/watch?v=InZVNuKY5GY
-
-### Policies
-
-If you want to control traffic flow at the IP address or port level (OSI layer 3 or 4), then you might consider using Kubernetes NetworkPolicies for particular applications in your cluster. NetworkPolicies are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities" (we use the word "entity" here to avoid overloading the more common terms such as "endpoints" and "services", which have specific Kubernetes connotations) over the network.
-
-https://kubernetes.io/docs/concepts/services-networking/network-policies/
-
-### Services networking
-
-[https://www.youtube.com/watch?v=NFApeJRXos4](https://www.youtube.com/watch?v=NFApeJRXos4)
-
-### ingress networking
-
-https://github.com/bobbae/gcp/wiki/Ingress
-
-[https://www.youtube.com/watch?v=40VfZ_nIFWI](https://www.youtube.com/watch?v=40VfZ_nIFWI)
-
-[https://www.youtube.com/watch?v=_BbxJGiMtL8](https://www.youtube.com/watch?v=_BbxJGiMtL8)
-
-https://www.youtube.com/watch?v=sHUSiM8jqbA
-
-### Topology aware traffic
-
-By default, traffic sent to a ClusterIP or NodePort Service may be routed to any backend address for the Service. Kubernetes 1.7 made it possible to route "external" traffic to the Pods running on the same Node that received the traffic. For ClusterIP Services, the equivalent same-node preference for routing wasn't possible; nor could you configure your cluster to favor routing to endpoints within the same zone.
-
-https://kubernetes.io/docs/concepts/services-networking/service-topology/
-
-## CNI
-
-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux containers, along with a number of supported plugins. CNI concerns itself only with network connectivity of containers and removing allocated resources when the container is deleted. Because of this focus, CNI has a wide range of support and the specification is simple to implement.
-
-https://github.com/containernetworking/cni
 
 
 
 ## Kubernetes Storage
 
-Kubernetes containers are stateless as a core principle, but data must still be managed, preserved, and made accessible to other services. Stateless means that the container is running in isolation without any knowledge of past transactions, which makes it easy to replace, delete, or distribute the container. However, it also means that data will be lost for certain lifecycle events like restart or deletion.
-
-
-[https://www.youtube.com/watch?v=qktFhjJmFhg](https://www.youtube.com/watch?v=qktFhjJmFhg)
-
-### Storage Classes
-
-A StorageClass provides a way for administrators to describe the "classes" of storage they offer. Different classes might map to quality-of-service levels, or to backup policies, or to arbitrary policies determined by the cluster administrators. Kubernetes itself is unopinionated about what classes represent. This concept is sometimes called "profiles" in other storage systems.
-
-https://kubernetes.io/docs/concepts/storage/storage-classes/
-
-### ceph and Rook
-
-Rook is a storage orchestration tool that provides a cloud-native, open source solution for a diverse set of storage providers. Rook uses the power of Kubernetes to turn a storage system into self-managing services that provide a seamless experience for saving Kubernetes application or deployment data.
-
-Ceph is a highly scalable distributed-storage solution offering object, block, and file storage. Ceph clusters are designed to run on any hardware using the so-called CRUSH algorithm (Controlled Replication Under Scalable Hashing).
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ceph-cluster-within-kubernetes-using-rook
-
-### Block Devices 
-
-You may use Ceph Block Device images with Kubernetes v1.13 and later through ceph-csi, which dynamically provisions RBD images to back Kubernetes volumes and maps these RBD images as block devices (optionally mounting a file system contained within the image) on worker nodes running pods that reference an RBD-backed volume. Ceph stripes block device images as objects across the cluster, which means that large Ceph Block Device images have better performance than a standalone server.
-
-https://docs.ceph.com/en/latest/rbd/rbd-kubernetes/
-
-### Volumes
-
-On-disk files in a container are ephemeral, which presents some problems for non-trivial applications when running in containers. One problem is the loss of files when a container crashes. The kubelet restarts the container but with a clean state. A second problem occurs when sharing files between containers running together in a Pod. 
-
-Docker has a concept of volumes, though it is somewhat looser and less managed. A Docker volume is a directory on disk or in another container. Docker provides volume drivers, but the functionality is somewhat limited.
-
-Kubernetes supports many types of volumes. A Pod can use any number of volume types simultaneously. Ephemeral volume types have a lifetime of a pod, but persistent volumes exist beyond the lifetime of a pod. When a pod ceases to exist, Kubernetes destroys ephemeral volumes; however, Kubernetes does not destroy persistent volumes. For any kind of volume in a given pod, data is preserved across container restarts.
-
-At its core, a volume is a directory, possibly with some data in it, which is accessible to the containers in a pod. How that directory comes to be, the medium that backs it, and the contents of it are determined by the particular volume type used.
-
-
-https://kubernetes.io/docs/concepts/storage/volumes/
-
-### Snapshots
-
-In Kubernetes, a VolumeSnapshot represents a snapshot of a volume on a storage system. This document assumes that you are already familiar with Kubernetes persistent volumes.
-
-
-https://kubernetes.io/docs/concepts/storage/volume-snapshots/
-
-### Dynamic Volume Provisioning
-
-Dynamic volume provisioning allows storage volumes to be created on-demand. Without dynamic provisioning, cluster administrators have to manually make calls to their cloud or storage provider to create new storage volumes, and then create PersistentVolume objects to represent them in Kubernetes. The dynamic provisioning feature eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage when it is requested by users.
-
-
-https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
-
-### CSI
-
-Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
-
-
-https://kubernetes.io/docs/concepts/storage/volumes/#csi
-
-### PVC Persistent Volume Claim
-
-[https://www.youtube.com/watch?v=0swOh5C3OVM](https://www.youtube.com/watch?v=0swOh5C3OVM)
-
+https://github.com/bobbae/gcp/wiki/Kubernete-Storage
 
 ## Authentication and Authorization in Kubernetes
 
@@ -543,8 +439,12 @@ https://kubernetes.io/docs/concepts/storage/volumes/#csi
 
 https://github.com/bobbae/gcp/wiki/Ingress
 
-[https://www.youtube.com/watch?v=80Ew_fsV4rM](https://www.youtube.com/watch?v=80Ew_fsV4rM)
 
+
+
+## Service Mesh
+
+https://github.com/bobbae/gcp/wiki/Service-Mesh
 
 ## GKE HA and Stateful Application, PVC
 
@@ -637,13 +537,7 @@ With Binary Authorization, you can automatically check each component of your so
 [https://cloud.google.com/binary-authorization/docs/overview](https://cloud.google.com/binary-authorization/docs/overview)
 
 
-## HPA: Horizontal Pod Autoscaling
-
-HPA changes the shape of your Kubernetes workload by automatically increasing or decreasing the number of Pods in response to the workload's CPU or memory consumption, or in response to custom metrics reported from within Kubernetes or external metrics from sources outside of your cluster.
-
-[https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler](https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler)
-
-There are also Vertical Pod Autoscaling (VPA) and Cluster auto scaling.
+## Scaling
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-scaling
 
@@ -730,114 +624,5 @@ In Terraform, a Provider is the logical abstraction of an upstream API. This lab
 A favorite lab.
 
 [https://www.qwiklabs.com/focuses/1205?parent=catalog](https://www.qwiklabs.com/focuses/1205?parent=catalog)
-
-
-## Service Mesh
-
-https://github.com/bobbae/gcp/wiki/Service-Mesh
-
-
-[https://www.youtube.com/watch?v=6zDrLvpfCK4](https://www.youtube.com/watch?v=6zDrLvpfCK4)
-
-Enterprises are increasingly adopting microservices to enable new levels of IT agility, scale, and innovation — but a successful microservices implementation is notoriously complicated. As the number of services an organization uses grows, complexity and risk can increase rapidly. Moreover, microservices need to be exposed as APIs to enable seamless access for internal groups — or with external partners to increase operational efficiency and speed up development. 
-
-https://github.com/bobbae/gcp/wiki/Service-Mesh
-
-This video shows how to build a secure and scalable [microservices architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9) with Kubernetes, Istio, and Apigee API management platform.
-
-[https://www.youtube.com/watch?v=IblDMVwSSk4](https://www.youtube.com/watch?v=IblDMVwSSk4)
-
-
-### Istio
-
-Cloud platforms provide a wealth of benefits for the organizations that use them. However, there’s no denying that adopting the cloud can put strains on DevOps teams. Developers must use microservices to architect for portability, meanwhile operators are managing extremely large hybrid and multi-cloud deployments. Istio lets you connect, secure, control, and observe services.
-
-At a high level, Istio helps reduce the complexity of these deployments, and eases the strain on your development teams. It is a completely open source service mesh that layers transparently onto existing distributed applications. It is also a platform, including APIs that let it integrate into any logging platform, or telemetry or policy system. Istio’s diverse feature set lets you successfully, and efficiently, run a distributed microservice architecture, and provides a uniform way to secure, connect, and monitor microservices.
-
-Istio addresses the challenges developers and operators face as monolithic applications transition towards a distributed microservice architecture. To see how, it helps to take a more detailed look at Istio’s service mesh.
-
-Istio makes it easy to create a network of deployed services with load balancing, service-to-service authentication, monitoring, and more, with few or no code changes in service code. You add Istio support to services by deploying a special sidecar proxy throughout your environment that intercepts all network communication between microservices, then configure and manage Istio using its control plane functionality, which includes:
-
-* Automatic load balancing for HTTP, gRPC, WebSocket, and TCP traffic.
-* Fine-grained control of traffic behavior with rich routing rules, retries, failovers, and fault injection.
-* A pluggable policy layer and configuration API supporting access controls, rate limits and quotas.
-* Automatic metrics, logs, and traces for all traffic within a cluster, including cluster ingress and egress.
-
-Secure service-to-service communication in a cluster with strong identity-based authentication and authorization.
-
-The term service mesh is used to describe the network of microservices that make up such applications and the interactions between them. As a service mesh grows in size and complexity, it can become harder to understand and manage. Its requirements can include discovery, load balancing, failure recovery, metrics, and monitoring. A service mesh also often has more complex operational requirements, like A/B testing, canary rollouts, rate limiting, access control, and end-to-end authentication.
-
-Istio provides behavioral insights and operational control over the service mesh as a whole, offering a complete solution to satisfy the diverse requirements of microservice applications.
-
-
-Your organization has moved to microservices, then to Kubernetes. But now you have lots of workloads, and many different points of entry into your application. You've heard about how a service mesh can help with traffic management, so you've installed Istio and have explored the samples. Now what? This talk goes deep with Istio traffic routing, highlighting the features that can help your organization reduce complexity, improve performance, and scale to your customers' needs. Using a microservices application running on Google Kubernetes Engine, we will walk through exactly how to manage traffic with Istio. Demos will include load balancing, rollouts, ingress and egress, content-based routing, traffic mirroring, and resilience features such as circuit breaking. 
-
-[https://www.youtube.com/watch?v=7cINRP0BFY8](https://www.youtube.com/watch?v=7cINRP0BFY8)
-
-Istio provides a powerful set of Kubernetes abstractions for traffic routing, security, and telemetry. But whether you're a first-time user, or running Istio in production, it's likely that you've encountered some roadblocks when installing and using Istio. This talk dives into the most common problems you may encounter with Istio's internals, and addresses how to fix them. Through a whirlwind set of demos running on Google Kubernetes Engine, we will cover scenarios like: why does my Istio install fail? Why is Pilot crashing? what if my sidecar proxies aren't routing properly? what if I can't see Istio metrics in Stackdriver? Why is my end-user JWT authentication failing? why won't IngressGateway accept incoming traffic? — and more! 
-
-[https://www.youtube.com/watch?v=FbYBO7Pi2d8](https://www.youtube.com/watch?v=FbYBO7Pi2d8)
-
-
-### Istiod vs microservices
-
-[https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
-
-
-## Envoy
-
-Envoy is  a L7 edge service Proxy used widely by service mesh controllers such as Consul, Contour and istio. Envoy is also used by API gateway like Ambassador.
-
-[Watch a Video about Borg, Cloud Load Balancing, Kubernetes and Envoy into service mesh driven by Istio](https://www.youtube.com/watch?v=glATqKI-WR8).
-
-There are many [Open source projects built on Envoy Proxy](https://www.envoyproxy.io/community).
-
-[Events in the life of a request](https://www.envoyproxy.io/docs/envoy/latest/intro/life_of_a_request) passing through an Envoy proxy is complicated.
-How a request flows through the components in a network depends on the network topology. Envoy can be used in a wide variety of networking topologies. Envoy originated as a service mesh sidecar proxy, factoring out load balancing, routing, observability, security and discovery services from applications. In the service mesh model, requests flow through Envoys as a gateway to the network. Requests arrive at an Envoy via either ingress or egress listeners.  
-
-https://github.com/bobbae/gcp/wiki/L7-Proxies
-
-## Apigee Envoy
-
-Wanting to know how to use Envoy to protect your microservices? In this video, we give you a demo on how to enforce policies for any microservice within a service mesh via the Apigee adapter for Envoy. Watch to learn about this tool, and see if it’s the best choice for your specific use case! 
-
-[https://www.youtube.com/watch?v=BNkfoZt-jvU](https://www.youtube.com/watch?v=BNkfoZt-jvU)
-
-
-## Ambassador Edge Stack and Consul Service Mesh
-
-[Consul](https://www.consul.io/)  is a widely used service mesh. You can use Consul with [Ambassador Edge Stack](https://www.getambassador.io/docs/), as it natively supports Consul for service discovery and end-to-end TLS (including mTLS between services). This capability is particularly useful when deploying Ambassador Edge Stack in so-called hybrid clouds, where applications are deployed on VMs and Kubernetes. In this environment, Ambassador Edge Stack can securely route over TLS to any application regardless of where it is deployed.
-
-
-[https://www.youtube.com/watch?v=XW3AXQfAaQc](https://www.youtube.com/watch?v=XW3AXQfAaQc)
-
-
-## Linkerd
-
-https://linkerd.io/
-
-[https://www.youtube.com/watch?v=Bj7gGQUiDuk](https://www.youtube.com/watch?v=Bj7gGQUiDuk)
-
-Linkerd and istio comparison. 
-
-https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
-
-## Multi-cluster services
-
-Multi-cluster Services (MCS)  is a cross-cluster Service discovery and invocation mechanism for Google Kubernetes Engine (GKE) that leverages the existing Service object. Services enabled with this feature are discoverable and accessible across clusters with a virtual IP, matching the behavior of a ClusterIP Service accessible in a cluster. Just like your existing Services, MCS is compatible with community-driven and open APIs, ensuring your workloads remain portable.
-
-https://cloud.google.com/kubernetes-engine/docs/concepts/multi-cluster-services
-
-### Configuring GKE MCS
-
-The Google Kubernetes Engine (GKE) MCS feature extends the reach of the Kubernetes Service beyond the cluster boundary and lets you discover and invoke Services across multiple GKE clusters. You can export a subset of existing Services or new Services.
-
-https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-services
-
-### Multi-cluster ingress
-
-Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller for Anthos clusters. It's a Google-hosted service that supports deploying shared load balancing resources across clusters and across regions.
-
-https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
 
 
