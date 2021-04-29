@@ -22,6 +22,8 @@
 
 ## Accounts & Billing
 
+[[https://cloud.google.com/billing/docs/images/resource-hierarchy-overview.png]]
+
 A Cloud Billing account defines who pays for a given set of Google Cloud resources. To use Google Cloud services, you must have a valid Cloud Billing account, and must link it to your Google Cloud projects. Your project's Google Cloud usage is charged to the linked Cloud Billing account.
 
 Google Cloud resources are organized hierarchically. This hierarchy allows you to map your organization's operational structure to Google Cloud, and to manage access control and permissions for groups of related resources.
@@ -53,11 +55,13 @@ Relationships between organizations, projects, Cloud Billing accounts, and payme
 
 [https://cloud.google.com/billing/docs/concepts#relationships-between-resources](https://cloud.google.com/billing/docs/concepts#relationships-between-resources)
 
+[[https://cloud.google.com/billing/docs/images/subaccounts.png]]
 
 ### Organizations
 
 [https://cloud.google.com/resource-manager/docs/creating-managing-organization](https://cloud.google.com/resource-manager/docs/creating-managing-organization)
 
+[[https://cloud.google.com/billing/docs/images/access-control-org.png]]
 
 ### Accounts
 
@@ -70,6 +74,8 @@ Relationships between organizations, projects, Cloud Billing accounts, and payme
 
 
 ### Billing Account & Payment Profile
+
+[[https://cloud.google.com/billing/docs/images/billing-project.png]]
 
 [https://cloud.google.com/billing/docs/concepts#billing_account](https://cloud.google.com/billing/docs/concepts#billing_account)
 
