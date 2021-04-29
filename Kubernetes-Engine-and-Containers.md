@@ -742,6 +742,9 @@ Wanting to know how to use Envoy to protect your microservices? In this video, w
 
 ## Ambassador Edge Stack and Consul Service Mesh
 
+[Consul](https://www.consul.io/)  is a widely used service mesh. You can use Consul with [Ambassador Edge Stack](https://www.getambassador.io/docs/), as it natively supports Consul for service discovery and end-to-end TLS (including mTLS between services). This capability is particularly useful when deploying Ambassador Edge Stack in so-called hybrid clouds, where applications are deployed on VMs and Kubernetes. In this environment, Ambassador Edge Stack can securely route over TLS to any application regardless of where it is deployed.
+
+
 [https://www.youtube.com/watch?v=XW3AXQfAaQc](https://www.youtube.com/watch?v=XW3AXQfAaQc)
 
 
