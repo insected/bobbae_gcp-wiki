@@ -31,6 +31,11 @@ Jenkins is one of the most popular CI systems in the world. It’s flexibility a
 
 [https://www.youtube.com/watch?v=IDoRWieTcMc](https://www.youtube.com/watch?v=IDoRWieTcMc)
 
+#### JenkinsX
+
+https://jenkins-x.io/
+
+Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
 
 ### Spinnaker
 
