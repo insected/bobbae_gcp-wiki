@@ -1,7 +1,5 @@
 
 
-## DevOps
-
 
 ### Introduction
 
