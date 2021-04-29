@@ -25,6 +25,8 @@ A NodePort service is the most primitive way to get external traffic directly to
 
 NodePort exposes the Service on each Node's IP at a static port (the NodePort). A ClusterIP Service, to which the NodePort Service routes, is automatically created. You'll be able to contact the NodePort Service, from outside the cluster, by requesting <NodeIP>:<NodePort>.
 
+[[https://hackernoon.com/drafts/7i36s33v9.png]]
+
 # LoadBalancer
 A LoadBalancer service is the standard way to expose a service to the internet. On GKE, this will spin up a [Network Load Balancer](https://cloud.google.com/compute/docs/load-balancing/network/) that will give you a single IP address that will forward all traffic to your service.
 
