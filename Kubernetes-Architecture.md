@@ -1,5 +1,7 @@
 # Cluster Architecture
 
+
+
 ## Nodes
 Kubernetes runs your workload by placing containers into Pods to run on Nodes. A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods
 
@@ -38,6 +40,41 @@ https://kubernetes.io/docs/concepts/architecture/
 ## Networking
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
+
+
+
+## Components
+
+### etcd
+
+https://kubernetes.io/docs/concepts/overview/components/#etcd
+
+### kube-controller-manager
+https://kubernetes.io/docs/concepts/overview/components/#kube-controller-manager
+
+### cloud-controller-manager
+https://kubernetes.io/docs/concepts/overview/components/#cloud-controller-manager
+
+### kubelet
+
+https://kubernetes.io/docs/concepts/overview/components/#kubelet
+
+### kube-proxy
+
+https://kubernetes.io/docs/concepts/overview/components/#kube-proxy
+
+### cluster DNS
+
+https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+
+### resource monitoring
+
+https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/
+
+### kube-scheduler
+
+https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/
+
 
 # Kubernetes URLs
 
