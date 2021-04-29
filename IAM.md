@@ -29,6 +29,8 @@ A role is a collection of permissions. Permissions determine what operations are
 
 The IAM policy binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
 
+https://cloud.google.com/iam/docs/overview#cloud-iam-policy
+
 ## Granular Access
 
 IAM lets you grant granular access to specific Google Cloud resources and helps prevent access to other resources. IAM lets you adopt the security principle of least privilege, which states that nobody should have more permissions than they actually need.
