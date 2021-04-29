@@ -23,6 +23,10 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps
 
 A ClusterIP service is the default Kubernetes service. It gives you a service inside your cluster that other apps inside your cluster can access. There is no external access. It exposes the Service on a cluster-internal IP. Choosing this value makes the Service only reachable from within the cluster. This is the default ServiceType.
 
+The ClusterIP in kubernetes is a service type which has its origins in the iptables CLUSTERIP.  
+
+https://book.huihoo.com/iptables-tutorial/x8906.htm
+
 ### iptables
 
 In iptables proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
