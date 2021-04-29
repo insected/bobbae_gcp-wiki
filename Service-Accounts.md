@@ -39,3 +39,8 @@ The token exchange flow returns a [federated access token](https://cloud.google.
 
 
 https://cloud.google.com/iam/docs/workload-identity-federation#impersonation
+
+## Securing Service Accounts
+
+https://cloud.google.com/iam/docs/best-practices-for-securing-service-accounts
+
