@@ -73,35 +73,40 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-## Containers
+# Containers
 
 
-### What is a container?
+## What is a container?
 
 A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
 
 [https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
 
 
-#### Containers vs. VMs
+## Containers vs. VMs
 
 Virtual machines and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
 
  
-Comparison of containerizing vs using VMs.
+### Comparison of containerizing vs using VMs
 
 [https://www.youtube.com/watch?v=TvnZTi_gaNc](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
 
-#### Three ways to run containers in GCP
+## Three ways to run containers in GCP
 
 Find out the top three ways you can run your containers on Google Cloud! Google Kubernetes Engine for a container orchestration solution, Cloud Run for a fully serverless approach and Compute Engine to simply use Virtual Machines.
 
 [https://www.youtube.com/watch?v=jh0fPT-AWwM](https://www.youtube.com/watch?v=jh0fPT-AWwM)
 
 
-### Namespaces
+## Namespaces
+
 Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources. The feature works by having the same namespace for a set of resources and processes, but those namespaces refer to distinct resources. Resources may exist in multiple spaces. Examples of such resources are process IDs, hostnames, user IDs, file names, and some names associated with network access, and interprocess communication.
+
+
+
+### Linux namespaces
 
 Namespaces are a fundamental aspect of containers on Linux.
 
@@ -109,25 +114,28 @@ The term "namespace" is often used for a type of namespace (e.g. process ID) as 
 
 A Linux system starts out with a single namespace of each type, used by all processes. Processes can create additional namespaces and join different namespaces.
 
-An overview of Linux namespaces and how they are used in containers.
-
 [https://www.youtube.com/watch?v=kl8roLaLy-g](https://www.youtube.com/watch?v=kl8roLaLy-g)
 
-Some videos about Network Namespaces and how they are used in containers.
+### Network namespaces and how they are used in containers
 
 [https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2](https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2)
 
-### Kubernetes
 
-[[https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png]]
 
+# Kubernetes
+
+Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 
 https://kubernetes.io/
 
-### Google Kubernetes Engine (GKE)
+## Kubernetes Control Plane
+
+[[https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png]]
+
+## Google Kubernetes Engine (GKE)
 Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
-#### An introduction to Kubernetes
+## An introduction to Kubernetes
 
 [Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.
 
@@ -136,14 +144,14 @@ Secured and fully managed Kubernetes service with revolutionary autopilot mode o
 [https://www.youtube.com/watch?v=Krpb44XR0bk](https://www.youtube.com/watch?v=Krpb44XR0bk)
 
 
-#### Kubectl
+## Kubectl
 
 The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/), allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs. For a complete list of kubectl operations, see [Overview of kubectl](https://kubernetes.io/docs/reference/kubectl/overview/).
 
 [https://www.youtube.com/watch?v=azuwXALfyRg](https://www.youtube.com/watch?v=azuwXALfyRg)
 
 
-##### Kustomize
+### Kustomize
 
 Kustomize introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into kubectl as apply -k.
 
@@ -151,21 +159,24 @@ Kustomize introduces a template-free way to customize application configuration 
 
 https://kustomize.io/
 
-## Kubernetes and others
+## Kubernetes origin
 
-Kubernetes is inspired by Borg and Omega.
 
 ### Borg
 
-
+Borg is Google's main cluster management system that manages long running production services and non-production batch jobs on the same set of machines to maximize cluster utilization. Omega is a clean-slate rewrite of Borg using more principled architecture.
 
 Google's Borg system is a cluster manager that runs hundreds of thousands of jobs, from many thousands of different applications, across a number of clusters each with up to tens of thousands of machines. It achieves high utilization by combining admission control, efficient task-packing, over-commitment, and machine sharing with process-level performance isolation. It supports high-availability applications with runtime features that minimize fault-recovery time, and scheduling policies that reduce the probability of correlated failures. Borg simplifies life for its users by offering a declarative job specification language, name service integration, real-time job monitoring, and tools to analyze and simulate system behavior.
 
 [https://research.google/pubs/pub43438/](https://research.google/pubs/pub43438/)
 
-### Borg, Omega and Kubernetes
+### Omega
 
-Borg is Google's main cluster management system that manages long running production services and non-production batch jobs on the same set of machines to maximize cluster utilization. Omega is a clean-slate rewrite of Borg using more principled architecture. In Omega, all system state lives in a consistent Paxos-based storage system that is accessed by a multitude of components which act as peers. Kubernetes is the latest open source container manager that draws on lessons from both previous systems.
+Omega is a Google's cluster management system based on shared state. In Omega, all system state lives in a consistent Paxos-based storage system that is accessed by a multitude of components which act as peers. A new parallel scheduler architecture is built around shared state, using lock-free optimistic concurrency and performance scalability.   Compared to monolithic schedulers or Two-level schedulers like Mesos and Hadoop-on-demand, the Omega addresses the entire cluster state in a scheduler.
+
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf
+
+Kubernetes is the latest open source container manager that draws on lessons from both previous systems.   
 
 
 
@@ -205,86 +216,118 @@ This video will teach you how to create a Google Kubernetes Engine (GKE) cluster
 Here are some tutorials for using Terraform to manage Kubernetes on GCP.
 [HashCorp Terraform Kubernetes Tutorials](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes)
 
-#### Building small containers
+### Building small containers
 
 A video to show you how you can build small containers to make your Kubernetes deployments faster and more secure.
 
 [https://www.youtube.com/watch?v=wGz_cbtCiEA](https://www.youtube.com/watch?v=wGz_cbtCiEA)
 
 
-#### Organizing with Kubernetes namespaces
+### Organizing with Kubernetes namespaces
 
 This video shows how to work with Namespaces and how they can help you manage your Kubernetes resources.
 
 [https://www.youtube.com/watch?v=xpnZX3if9Tc](https://www.youtube.com/watch?v=xpnZX3if9Tc)
 
 
-#### Upgrading with zero down time
+### Upgrading with zero down time
 
 [https://www.youtube.com/watch?v=ajbC1yTW2x0](https://www.youtube.com/watch?v=ajbC1yTW2x0)
 
 
-#### Mapping external services
+### Mapping external services
 
 [https://www.youtube.com/watch?v=fvpq4jqtuZ8](https://www.youtube.com/watch?v=fvpq4jqtuZ8)
 
 
-#### Terminating with Grace
+### Terminating with Grace
 
 [https://www.youtube.com/watch?v=Z_l_kE1MDTc](https://www.youtube.com/watch?v=Z_l_kE1MDTc)
 
 
-#### Health check
+### Health check
 
 [https://www.youtube.com/watch?v=mxEvAPQRwhw](https://www.youtube.com/watch?v=mxEvAPQRwhw)
 
 
 ## Kubernetes Details
 
-#### Google GKE Documentation
+### Google GKE Documentation
 
 [https://cloud.google.com/kubernetes-engine/docs](https://cloud.google.com/kubernetes-engine/docs)
 
 
-#### Kubernetes URLs
+### Kubernetes URLs
 
 [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 
-#### Resource Limits
+### Resource Limits
+
+When you specify a Pod, you can optionally specify how much of each resource a Container needs. The most common resources to specify are CPU and memory (RAM); there are others.
+
+When you specify the resource request for Containers in a Pod, the scheduler uses this information to decide which node to place the Pod on. When you specify a resource limit for a Container, the kubelet enforces those limits so that the running container is not allowed to use more of that resource than the limit you set. The kubelet also reserves at least the request amount of that system resource specifically for that container to use.
+
+### Requests and limits 
+
+If the node where a Pod is running has enough of a resource available, it's possible (and allowed) for a container to use more resource than its request for that resource specifies. However, a container is not allowed to use more than its resource limit.
 
 [https://www.youtube.com/watch?v=xjpHggHKm78&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB&index=4](https://www.youtube.com/watch?v=xjpHggHKm78&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB&index=4)
 
 
-#### RBAC
+### RBAC
+
+Role-based access control (RBAC) is a method of regulating access to computer or network resources based on the roles of individual users within your organization.
+
+RBAC authorization uses the rbac.authorization.k8s.io API group to drive authorization decisions, allowing you to dynamically configure policies through the Kubernetes API.
 
 [https://www.youtube.com/watch?v=4HMRFcg6nEY](https://www.youtube.com/watch?v=4HMRFcg6nEY)
 
 
-#### Deployment & Service
+### Deployment & Service
+
+A Deployment provides declarative updates for Pods and ReplicaSets.
+
+You describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
+
+A Service is an abstract way to expose an application running on a set of Pods as a network service.
+With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them
+
 
 [https://www.youtube.com/watch?v=qmDzcu5uY1I](https://www.youtube.com/watch?v=qmDzcu5uY1I)
 
 https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
-#### Configmaps & Secrets
+### Configmaps & Secrets
+
+A ConfigMap is an API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
+
+A ConfigMap allows you to decouple environment-specific configuration from your container images, so that your applications are easily portable.
+
+Kubernetes Secrets let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Storing confidential information in a Secret is safer and more flexible than putting it verbatim in a Pod definition or in a container image. See Secrets design document for more information.
+
+A Secret is an object that contains a small amount of sensitive data such as a password, a token, or a key. Such information might otherwise be put in a Pod specification or in an image. Users can create Secrets and the system also creates some Secrets.
 
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
 
-#### Stateful Sets
+### Stateful Sets
+
+StatefulSet is the workload API object used to manage stateful applications.
+
+Manages the deployment and scaling of a set of Pods, and provides guarantees about the ordering and uniqueness of these Pods.
 
 [https://www.youtube.com/watch?v=pPQKAR1pA9U](https://www.youtube.com/watch?v=pPQKAR1pA9U)
 
 
-#### DaemonSet
+### DaemonSet
 
 A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
 
 [https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
 
-#### CRD
+### CRD
 
 CRD stands for  Custom Resource Definition.
 
@@ -301,9 +344,9 @@ https://book.kubebuilder.io/quick-start.html
 https://github.com/kubernetes-sigs/kubebuilder
 
 
-#### Operator Pattern
+### Operator Pattern
 
-In [Kubernetes](https://opensource.com/resources/what-is-kubernetes), objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with kubectl apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. With Operators, Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
+In Kubernetes, objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with kubectl apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. With Operators, Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
 
 Operators make it easy to manage complex stateful applications on top of Kubernetes. However writing an Operator today can be difficult because of challenges such as using low level APIs, writing boilerplate, and a lack of modularity which leads to duplication.
 
@@ -333,87 +376,127 @@ https://cert-manager.io/docs/installation/kubernetes/
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
-##### Operator Hub
+### Operator Hub
 
 [https://operatorhub.io/](https://operatorhub.io/)
 
 
-##### Operator Sprawl
+### Operator Sprawl
 
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
 
 
-#### Kubernetes Networking
+## Kubernetes Networking
 
-A video about kubernetes networking.
+Networking is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
 
-[https://www.youtube.com/watch?v=tq9ng_Nz9j8](https://www.youtube.com/watch?v=tq9ng_Nz9j8)
+1. Highly-coupled container-to-container communications: this is solved by Pods and localhost communications.
+2. Pod-to-Pod communications: this is the primary focus of this document.
+3. Pod-to-Service communications: this is covered by services.
+4. External-to-Service communications: this is covered by services.
 
-A video about kubernetes services networking.
+https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
+
+### Basics
+
+https://www.youtube.com/watch?v=InZVNuKY5GY
+
+
+### Services networking
 
 [https://www.youtube.com/watch?v=NFApeJRXos4](https://www.youtube.com/watch?v=NFApeJRXos4)
 
-A video about kubernetes ingress networking.
+### ingress networking
 
 [https://www.youtube.com/watch?v=40VfZ_nIFWI](https://www.youtube.com/watch?v=40VfZ_nIFWI)
 
-A video about how ingress works.
-
 [https://www.youtube.com/watch?v=_BbxJGiMtL8](https://www.youtube.com/watch?v=_BbxJGiMtL8)
 
+https://www.youtube.com/watch?v=sHUSiM8jqbA
 
-#### Kubernetes Storage
+## CNI
+
+CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux containers, along with a number of supported plugins. CNI concerns itself only with network connectivity of containers and removing allocated resources when the container is deleted. Because of this focus, CNI has a wide range of support and the specification is simple to implement.
+
+https://github.com/containernetworking/cni
+
+
+
+## Kubernetes Storage
+
+Kubernetes containers are stateless as a core principle, but data must still be managed, preserved, and made accessible to other services. Stateless means that the container is running in isolation without any knowledge of past transactions, which makes it easy to replace, delete, or distribute the container. However, it also means that data will be lost for certain lifecycle events like restart or deletion.
+
 
 [https://www.youtube.com/watch?v=qktFhjJmFhg](https://www.youtube.com/watch?v=qktFhjJmFhg)
 
+### Storage Classes
 
-#### Persistent Volume Claim
+A StorageClass provides a way for administrators to describe the "classes" of storage they offer. Different classes might map to quality-of-service levels, or to backup policies, or to arbitrary policies determined by the cluster administrators. Kubernetes itself is unopinionated about what classes represent. This concept is sometimes called "profiles" in other storage systems.
+
+https://kubernetes.io/docs/concepts/storage/storage-classes/
+
+### ceph and Rook
+
+Rook is a storage orchestration tool that provides a cloud-native, open source solution for a diverse set of storage providers. Rook uses the power of Kubernetes to turn a storage system into self-managing services that provide a seamless experience for saving Kubernetes application or deployment data.
+
+Ceph is a highly scalable distributed-storage solution offering object, block, and file storage. Ceph clusters are designed to run on any hardware using the so-called CRUSH algorithm (Controlled Replication Under Scalable Hashing).
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ceph-cluster-within-kubernetes-using-rook
+
+### Block Devices 
+
+You may use Ceph Block Device images with Kubernetes v1.13 and later through ceph-csi, which dynamically provisions RBD images to back Kubernetes volumes and maps these RBD images as block devices (optionally mounting a file system contained within the image) on worker nodes running pods that reference an RBD-backed volume. Ceph stripes block device images as objects across the cluster, which means that large Ceph Block Device images have better performance than a standalone server.
+
+https://docs.ceph.com/en/latest/rbd/rbd-kubernetes/
+
+## PVC Persistent Volume Claim
 
 [https://www.youtube.com/watch?v=0swOh5C3OVM](https://www.youtube.com/watch?v=0swOh5C3OVM)
 
 
-#### Authentication and Authorization in Kubernetes
+## Authentication and Authorization in Kubernetes
 
 [https://www.youtube.com/watch?v=dAUJ3TBwDWo](https://www.youtube.com/watch?v=dAUJ3TBwDWo)
 
+## Ingress
 
-#### Ingress
+https://github.com/bobbae/gcp/wiki/Ingress
 
 [https://www.youtube.com/watch?v=80Ew_fsV4rM](https://www.youtube.com/watch?v=80Ew_fsV4rM)
 
 
-#### GKE HA and Stateful Application, PVC
+## GKE HA and Stateful Application, PVC
 
 Kubernetes is a great tool to host your highly available applications but what happens when you have to work with stateful workloads? 
 
 [https://www.youtube.com/watch?v=rRZtZX0PDFc](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 
 
-#### Kubernetes applications on Google Cloud Marketplace
+## Kubernetes applications on Google Cloud Marketplace
 
 The Kubernetes apps in Cloud Marketplace include container images and configuration files, such as a kubectl configuration or a[ Helm chart](https://helm.sh/docs/topics/charts/). When you deploy an app from Cloud Marketplace, the Kubernetes resources are created in your cluster, and you can manage the resources as a group.
 
 [https://cloud.google.com/marketplace/docs/kubernetes-apps](https://cloud.google.com/marketplace/docs/kubernetes-apps)
 
 
-#### GKE Operations
+## GKE Operations
 
 A video about using Cloud Logging on GKE.
 
 [https://www.youtube.com/watch?v=IusP8jDfnt4](https://www.youtube.com/watch?v=IusP8jDfnt4)
 
 
-#### Cloud Build & Cloud Code with Containers
+## Cloud Build & Cloud Code with Containers
 
 
-##### Cloud Code
+### Cloud Code
 
 Using Cloud Code with Kubernetes.
 
 [https://www.youtube.com/watch?v=KNd0mTxcQ_M](https://www.youtube.com/watch?v=KNd0mTxcQ_M)
 
 
-##### Cloud Build
+### Cloud Build
 
 Cloud Build is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket, execute a build to your specifications, and produce artifacts such as Docker containers or Java archives.
 
@@ -426,7 +509,7 @@ Cloud Build executes your build as a series of build steps, where each build ste
 [https://cloud.google.com/cloud-build/docs](https://cloud.google.com/cloud-build/docs)
 
 
-##### Container Registry
+### Container Registry
 
 Google Container Registry is a private container image registry that runs on Google Cloud's reliable, fast, and secure infrastructure. You can access Container Registry through secure HTTPS endpoints, which allow you to push, pull, and manage images from any system, VM instance, or your own hardware. Additionally, you can use the [Docker credential helper](https://cloud.google.com/container-registry/docs/advanced-authentication#docker_credential_helper) command-line tool to configure Docker to authenticate directly with Container Registry.
 
@@ -435,7 +518,7 @@ While Docker provides a central registry for storing public images, you might no
 [Container Registry: Qwik Start](https://www.qwiklabs.com/focuses/1768?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467880)
 
 
-#### Batch on GKE
+### Batch on GKE
 
 Batch on GKE (Batch) is a cloud-native solution for scheduling and managing batch workloads. With Batch, you can leverage the on-demand and flexible nature of cloud. Batch is based on Kubernetes and containers so your jobs are portable.
 
@@ -445,25 +528,26 @@ A video about using Batch on GKE.
 
 [https://www.youtube.com/watch?v=qLSLs-ko3ik](https://www.youtube.com/watch?v=qLSLs-ko3ik)
 
+## K8s monitoring
 
-#### Prometheus
+### Prometheus
 
 [https://www.youtube.com/watch?v=h4Sl21AKiDg](https://www.youtube.com/watch?v=h4Sl21AKiDg)
 
 [https://www.youtube.com/watch?v=XToKHYXSUyc](https://www.youtube.com/watch?v=XToKHYXSUyc)
 
 
-#### Grafana
+### Grafana
 
 [https://grafana.com/](https://grafana.com/)
 
 
-#### Configuration as Data
+## Configuration as Data
 
 [https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes)
 
 
-#### Binary Authorizations
+## Binary Authorizations
 
 Binary Authorization is a service on Google Cloud that provides software supply-chain security for container-based applications. Binary Authorization extends Google Kubernetes Engine (GKE) and Anthos clusters on VMware with deploy time enforcement of security policies. On Anthos clusters on VMware, Binary Authorization extends this policy enforcement to hybrid-cloud architectures. Binary Authorization works with container images from Container Registry, Artifact Registry and other container image registries.
 
@@ -472,7 +556,7 @@ With Binary Authorization, you can automatically check each component of your so
 [https://cloud.google.com/binary-authorization/docs/overview](https://cloud.google.com/binary-authorization/docs/overview)
 
 
-#### HPA: Horizontal Pod Autoscaling
+## HPA: Horizontal Pod Autoscaling
 
 HPA changes the shape of your Kubernetes workload by automatically increasing or decreasing the number of Pods in response to the workload's CPU or memory consumption, or in response to custom metrics reported from within Kubernetes or external metrics from sources outside of your cluster.
 
@@ -482,17 +566,17 @@ There are also Vertical Pod Autoscaling (VPA) and Cluster auto scaling.
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-scaling
 
-#### Qwiklabs
+## Qwiklabs
 
 
-##### GKE
+### GKE
 
 Kubernetes is the most popular container orchestration system, and Google Kubernetes Engine was designed specifically to support managed Kubernetes deployments in Google Cloud. In this advanced-level quest, you will get hands-on practice configuring Docker images, containers, and deploying fully-fledged Kubernetes Engine applications. This quest will teach you the practical skills needed for integrating container orchestration into your own workflow. 
 
 [Kubernetes in Google Cloud](https://www.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467715)
 
 
-##### GKE Solutions
+### GKE Solutions
 
 Containerized applications have changed the game and are here to stay. With Kubernetes, you can orchestrate containers with ease, and integration with the Google Cloud Platform is seamless. In this advanced-level quest, you will be exposed to a wide range of Kubernetes use cases and will get hands-on practice architecting solutions over the course of 8 labs. From building Slackbots with NodeJS, to deploying game servers on clusters, to running the Cloud Vision API, Kubernetes Solutions will show you first-hand how agile and powerful this container orchestration system is.
 
@@ -506,7 +590,7 @@ Kubernetes is the most popular container orchestration system, and Google Kubern
 [Deploy to Kubernetes in Google Cloud](https://www.qwiklabs.com/quests/116?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467715)
 
 
-##### Security in GKE
+### Security in GKE
 
 The following hands-on labs focus on [security at scale](https://cloud.google.com/anthos/docs/concepts/anthos-overview#service_management) when deploying and managing production GKE environments -- specifically role-based access control, hardening, VPC networking, and binary authorization. 
 
@@ -522,7 +606,7 @@ Google Kubernetes Engine provides a managed environment for deploying, managing,
 [App Dev: Deploying the Application into Kubernetes Engine - Python](https://www.qwiklabs.com/focuses/1073?catalog_rank=%7B%22rank%22%3A30%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467972)
 
 
-##### Cloud Logging on GKE
+### Cloud Logging on GKE
 
 Cloud Logging can be used aggregate logs from all Google Cloud resources, as well as any custom resources on other platforms, to allow for one centralized store for all logs and metrics. Logs are aggregated and then viewable within the provided Cloud Logging UI. They can also be [exported to Sinks](https://cloud.google.com/logging/docs/export/configure_export_v2) to support more specialized use cases. Currently, Cloud Logging supports exporting to the following sinks:
 
@@ -537,7 +621,7 @@ In this lab you will deploy a sample application to Kubernetes Engine that forwa
 [Cloud Logging on Kubernetes Engine](https://www.qwiklabs.com/focuses/10910?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468028)
 
 
-##### Migrating to GKE
+### Migrating to GKE
 
 Containers are quickly becoming an industry standard for deployment of software applications. The business and technological advantages of containerized workloads are driving many teams towards moving their applications to containers. This lab provides a basic walkthrough of migrating a stateless application from running on a VM to running on [Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/). It demonstrates the lifecycle of an application transitioning from a typical VM/OS-based deployment to a specialized os for containers to a platform for containers better known as [GKE](https://cloud.google.com/kubernetes-engine/).
 
@@ -551,7 +635,7 @@ In this advanced-level quest, you will learn the ins and outs of developing GCP 
 [Application Development - Java](https://www.qwiklabs.com/quests/42?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
 
-##### Operations Suite on GKE
+### Operations Suite on GKE
 
 In this fundamental-level quest, you will learn the ins and outs of Google Cloud's operations suite running on Google Kubernetes Engine, an important service for generating insights into the health of your applications. It provides a wealth of information in application monitoring, report logging, and diagnoses. The labs in this quest will give you hands-on practice with and will teach you how to monitor virtual machines, generate logs and alerts, and create custom metrics for application data.
 
@@ -567,10 +651,10 @@ A favorite lab.
 [https://www.qwiklabs.com/focuses/1205?parent=catalog](https://www.qwiklabs.com/focuses/1205?parent=catalog)
 
 
-### Service Mesh
+## Service Mesh
 
+https://github.com/bobbae/gcp/wiki/Service-Mesh
 
-Why use service mesh? How does istio work?
 
 [https://www.youtube.com/watch?v=6zDrLvpfCK4](https://www.youtube.com/watch?v=6zDrLvpfCK4)
 
@@ -583,7 +667,7 @@ This video shows how to build a secure and scalable [microservices architecture]
 [https://www.youtube.com/watch?v=IblDMVwSSk4](https://www.youtube.com/watch?v=IblDMVwSSk4)
 
 
-#### Istio
+### Istio
 
 Cloud platforms provide a wealth of benefits for the organizations that use them. However, there’s no denying that adopting the cloud can put strains on DevOps teams. Developers must use microservices to architect for portability, meanwhile operators are managing extremely large hybrid and multi-cloud deployments. Istio lets you connect, secure, control, and observe services.
 
@@ -614,12 +698,12 @@ Istio provides a powerful set of Kubernetes abstractions for traffic routing, se
 [https://www.youtube.com/watch?v=FbYBO7Pi2d8](https://www.youtube.com/watch?v=FbYBO7Pi2d8)
 
 
-##### Istiod vs microservices
+### Istiod vs microservices
 
 [https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
 
 
-#### Envoy
+## Envoy
 
 Envoy is  a L7 edge service Proxy used widely by service mesh controllers such as Consul, Contour and istio. Envoy is also used by API gateway like Ambassador.
 
@@ -632,19 +716,19 @@ How a request flows through the components in a network depends on the network t
 
 https://github.com/bobbae/gcp/wiki/L7-Proxies
 
-#### Apigee Envoy
+## Apigee Envoy
 
 Wanting to know how to use Envoy to protect your microservices? In this video, we give you a demo on how to enforce policies for any microservice within a service mesh via the Apigee adapter for Envoy. Watch to learn about this tool, and see if it’s the best choice for your specific use case! 
 
 [https://www.youtube.com/watch?v=BNkfoZt-jvU](https://www.youtube.com/watch?v=BNkfoZt-jvU)
 
 
-#### Ambassador Edge Stack and Consul Service Mesh
+## Ambassador Edge Stack and Consul Service Mesh
 
 [https://www.youtube.com/watch?v=XW3AXQfAaQc](https://www.youtube.com/watch?v=XW3AXQfAaQc)
 
 
-#### Linkerd
+## Linkerd
 
 https://linkerd.io/
 
