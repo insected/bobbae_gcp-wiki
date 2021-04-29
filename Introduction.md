@@ -43,6 +43,8 @@ This video is an Introduction to GCP.
 
 #### Regions and Zones
 
+[[https://storage.googleapis.com/gweb-cloudblog-publish/images/gcp_global_presence.max-1600x1600.jpg]]
+
 Google Cloud consists of a set of physical assets, such as computers and hard disk drives, and virtual resources, such as virtual machines (VMs), that are contained in [Google's data centers](https://cloud.withgoogle.com/infrastructure/explore) around the globe. 
 
 https://cloud.google.com/about/locations
@@ -88,6 +90,8 @@ A list of samples.
 #### Summary of GCP Services
 
 [https://github.com/gregsramblings/google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words)
+
+[[https://static.packt-cdn.com/products/9781838647438/graphics/2622d854-c8a6-4189-99a7-c55e31bc5fae.png]]
 
 
 ### Compare Platforms
