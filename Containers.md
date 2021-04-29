@@ -5,6 +5,19 @@ A container is a standard unit of software that packages up code and all its dep
 
 [https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
 
+### Container Images
+
+A container image is a ready-to-run software package, containing everything needed to run an application: the code and any runtime it requires, application and system libraries, and default values for any essential settings.
+
+By design, a container is immutable: you cannot change the code of a container that is already running. If you have a containerized application and want to make changes, you need to build a new image that includes the change, then recreate the container to start from the updated image.
+
+
+## Container runtimes
+
+The container runtime is the software that is responsible for running containers.
+
+Kubernetes supports several container runtimes: Docker, containerd, CRI-O, and any implementation of the Kubernetes CRI (Container Runtime Interface).
+
 
 ## Containers vs. VMs
 
