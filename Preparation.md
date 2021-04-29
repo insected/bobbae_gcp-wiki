@@ -99,6 +99,8 @@ materials in this document for several weeks.  There are [many certificates](htt
 Being certified by Google does not necessarily mean that you know everything you need to know. But it does have a value in letting others
 know that you have necessary amount of GCP knowledge to pass the exams.
 
+https://cloud.google.com/architecture
+
 #### Register Now
 
 [https://cloud.google.com/certification/register](https://cloud.google.com/certification/register)
