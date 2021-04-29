@@ -25,7 +25,7 @@
   * [Linear Algebra](#linear-algebra)
   * [Calculus](#calculus)
   * [Statistics](#statistics)
-  * [Various pointers](#various-pointers)
+  * [Math](#math)
   * [Cookiecutter Data Science](#cookiecutter-data-science)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -204,7 +204,7 @@ https://www.youtube.com/watch?v=WsQQvHm4lSw
 
 https://www.youtube.com/watch?v=kyjlxsLW1Is
 
-### Various pointers
+### Math
 
 https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd
 
