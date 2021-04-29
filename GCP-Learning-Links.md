@@ -12,17 +12,6 @@ To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/
 - [Tutorials](https://cloud.google.com/community#home-tutorials)
 - [Cheatsheets](https://cloud.google.com/blog/products/gcp/5-google-cloud-product-cheat-sheets-2021)
 
-# Google Workspace
-- [Introduction](https://www.youtube.com/watch?v=bE31y5HbukA)
-- [Getting Started](https://www.youtube.com/watch?v=jZjJ54ehgrM)
-- [AppSheet](https://www.youtube.com/watch?v=X7CZ4261aDQ)
-
-# Qwiklabs
-- [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
-
-- [Open source](https://cloud.google.com/community#home-oss)
-
-- [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
 
 # Awesome Lists
 
@@ -275,3 +264,14 @@ To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/
 - [GCP Certification prep materials](https://wilsonmar.github.io/gcp/)
 - [Learn DevOps online](https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d)
 
+# Google Workspace
+- [Introduction](https://www.youtube.com/watch?v=bE31y5HbukA)
+- [Getting Started](https://www.youtube.com/watch?v=jZjJ54ehgrM)
+- [AppSheet](https://www.youtube.com/watch?v=X7CZ4261aDQ)
+
+# Qwiklabs
+- [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
+
+- [Open source](https://cloud.google.com/community#home-oss)
+
+- [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
