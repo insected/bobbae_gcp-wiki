@@ -1,4 +1,3 @@
-[[https://storage.googleapis.com/gweb-cloudblog-publish/images/gcp_global_presence.max-1600x1600.jpg]]
 
 To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/GCP-Learning)
 
