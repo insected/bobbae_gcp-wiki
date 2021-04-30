@@ -17,6 +17,8 @@ https://developers.google.com/machine-learning/crash-course/
 
 ## Machine learning and artificial intelligence learning paths
 
+https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1
+
 A Data Scientist models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth data modeling and deep learning
 
 https://cloud.google.com/training/machinelearning-ai
