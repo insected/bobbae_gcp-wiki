@@ -6,4 +6,21 @@ Knative components build on top of Kubernetes, abstracting away the complex deta
 
  
 # Samples
+
+## Getting Started
+https://knative.dev/docs/serving/getting-started-knative-app/
+
+## Blue Green
+https://knative.dev/docs/serving/samples/blue-green-deployment/
+
+## Auto Scale
+
+https://knative.dev/docs/serving/autoscaling/
+
+## Eventing
+
+https://knative.dev/docs/eventing/getting-started/
+
+## Code Samples
+
 https://knative.dev/docs/samples/
