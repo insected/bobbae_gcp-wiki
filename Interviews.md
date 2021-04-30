@@ -9,6 +9,7 @@
 - [Data Science](#data-science)
 - [Data Engineering](#data-engineering)
 - [Cloud](#cloud)
+- [Security](#security)
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Networking](#networking)
@@ -152,6 +153,9 @@ https://www.javatpoint.com/cloud-computing-interview-questions
 
 https://www.javatpoint.com/cloud-service-models
 
+# Security
+
+https://github.com/bobbae/gcp/wiki/Interview-Security
 
 # Frontend
 
