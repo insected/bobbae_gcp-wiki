@@ -49,6 +49,7 @@ GCP doesn't rely on any single technology to make it secure. GCP builds security
 
 https://cloud.google.com/security/infrastructure
 
+https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4
 
 Google Infrastructure Security.
 [https://www.youtube.com/watch?v=UOdUC8DhprQ](https://www.youtube.com/watch?v=UOdUC8DhprQ)
