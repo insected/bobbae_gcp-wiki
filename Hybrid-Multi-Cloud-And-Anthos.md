@@ -34,6 +34,7 @@ A sample deployment for Anthos.
 
 VM instances can exist on premises, managed by products such as VMWare vSphere, and in public clouds such as AWS or Azure, in addition to Google Cloud Compute Engine instances.
 
+https://www.youtube.com/watch?v=XB52jRLHeko&list=PLIivdWyY5sqL8p1URcr6h1OkeJ01Myz57
 
 ### Anthos Deployments
 
