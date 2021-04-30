@@ -34,6 +34,14 @@ The ClusterIP in kubernetes is a service type which has its origins in the iptab
 
 https://book.huihoo.com/iptables-tutorial/x8906.htm
 
+### Kube-proxy
+
+There are several types of proxies in Kubernetes, and among them is the node proxier, or kube-proxy, which reflects services defined in Kubernetes API on each node and performs simple TCP/UDP/SCTP stream forwarding across a set of backends.
+
+https://arthurchiao.art/blog/cracking-k8s-node-proxy/
+
+[[https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/host-to-clusterip-lb-ct.png]]
+
 ### iptables
 
 In iptables proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
@@ -56,7 +64,6 @@ NodePort exposes the Service on each Node's IP at a static port (the NodePort). 
 
 https://kubernetes.io/docs/concepts/services-networking/service/#nodeport
 
-[[https://hackernoon.com/drafts/7i36s33v9.png]]
 
 
 https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s
