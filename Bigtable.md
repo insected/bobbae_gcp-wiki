@@ -2,6 +2,7 @@ Cloud Bigtable is Google's NoSQL Big Data database service. It's the same databa
 
 https://www.youtube.com/watch?v=KaRbKdMInuc
 
+https://research.google.com/archive/bigtable-osdi06.pdf
 
 ## Scalable Key-value store
 
