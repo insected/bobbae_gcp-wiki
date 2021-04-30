@@ -27,6 +27,9 @@ Discuss the differences between Cassandra and Cloud Bigtable, why and how Spotif
 
 [https://www.youtube.com/watch?v=_Qm0eopwjG0](https://www.youtube.com/watch?v=_Qm0eopwjG0)
 
+## Music Recommendation
+
+https://www.youtube.com/watch?v=807uHC0Ia10
 
 ## HBase
 
