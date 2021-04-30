@@ -12,6 +12,8 @@ A service can be exposed via NodePort, LoadBalancer or ClusterIP.
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/service
 
+[[https://i.stack.imgur.com/1owA5.jpg]]
+
 When to use NodePort vs. LoadBalancer  can be confusing. 
 
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
@@ -55,6 +57,7 @@ NodePort exposes the Service on each Node's IP at a static port (the NodePort). 
 https://kubernetes.io/docs/concepts/services-networking/service/#nodeport
 
 [[https://hackernoon.com/drafts/7i36s33v9.png]]
+
 
 https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s
 
