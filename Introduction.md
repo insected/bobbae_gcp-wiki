@@ -28,6 +28,8 @@ Google Cloud Platform offers four main kinds of services: Compute, Storage, Big 
 
 [https://cloud.google.com/docs/overview/](https://cloud.google.com/docs/overview/)
 
+https://www.youtube.com/watch?v=vmOMataJZWw
+
 GCP also includes Google App Engine, Google Compute Engine, Google Kubernetes Engine, Google Cloud Storage, Google Cloud SQL, and BigQuery. You will learn about important resource and policy management tools, such as the Google Cloud Resource Manager hierarchy and Google Cloud Identity and Access Management.
 
 [https://cloud.google.com/products](https://cloud.google.com/products)
