@@ -62,6 +62,10 @@ This page lists differences between Bigtable and HBase.
 
 [https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/)
 
+## Querying
+
+https://cloud.google.com/bigquery/external-data-bigtable
+
 ## Qwiklabs
 
 
