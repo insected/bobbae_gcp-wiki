@@ -78,10 +78,12 @@ https://github.com/bobbae/gcp/wiki/Interview-Infrastructure
 
 # BASICs
 
-Regarding your own computer in  front of you, can you look up information on what hardware you have.
+Regarding your own computer in  front of you, can you look up information on what hardware components you have? List
 CPU, memory, storage, networking details as reported by your operating system (windows, macosx, linux, ...)
+
 How did you look the information up?
 What do they say?
+
 Discuss details on each: cpu, memory, storage, network...
 
 How do these things matter when selecting a type of virtual machine in cloud compute services?
