@@ -74,6 +74,8 @@ Google built a superior cloud network as a result of the well-provisioned direct
 
 [https://www.youtube.com/watch?v=0hN-dyOV10c](https://www.youtube.com/watch?v=0hN-dyOV10c)
 
+#### CompTIA Network+ full course
+
 https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 #### Networking End to End
