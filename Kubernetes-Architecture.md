@@ -71,6 +71,11 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
 
 https://kubernetes.io/docs/concepts/overview/components/#etcd
 
+[[https://superuser.openstack.org/wp-content/uploads/2019/11/etcd-in-Kubernetes.png]]
+
+
+[[https://superuser.openstack.org/wp-content/uploads/2019/11/etcd-in-Kubernetes-2.png]]
+
 ### kube-controller-manager
 https://kubernetes.io/docs/concepts/overview/components/#kube-controller-manager
 
