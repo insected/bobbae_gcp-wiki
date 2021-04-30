@@ -174,6 +174,12 @@ With Binary Authorization, you can automatically check each component of your so
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-scaling
 
+## Federation
+
+Multiple Kubernetes clusters can be managed as a single cluster with the help of federated clusters. So, you can create multiple Kubernetes clusters within a data center/cloud and use federation to control/manage them all at one place.
+
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/30.png]]
+
 ## Qwiklabs
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Qwiklabs
