@@ -1,21 +1,41 @@
-
-
-
-## Introduction
-
 Cloud Bigtable is Google's NoSQL Big Data database service. It's the same database that powers many core Google services, including Search, Analytics, Maps, and Gmail.
 
 https://www.youtube.com/watch?v=KaRbKdMInuc
 
+
+## Scalable Key-value store
+
+Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, SSTable (log-structured storage like LevelDB) and a few other Google technologies. On May 6, 2015, a public version of Bigtable was made available as a service. Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
+
 [https://cloud.google.com/bigtable/docs](https://cloud.google.com/bigtable/docs)
+
+## History and Usage
+
+Bigtable development began in 2004 and is now used by a number of Google applications, such as web indexing, MapReduce, which is often used for generating and modifying data stored in Bigtable, Google Maps, Google Book Search, "My Search History", Google Earth, Blogger.com, Google Code hosting, YouTube, and Gmail. Google's reasons for developing its own database include scalability and better control of performance characteristics.
 
 https://www.youtube.com/watch?v=Lq9uDOM4whI
 
-Handle massive amounts of data workload with Cloud Bigtable.
+## Architecture
+
+Bigtable is one of the prototypical examples of a wide column store. It maps two arbitrary string values (row key and column key) and timestamp (hence three-dimensional mapping) into an associated arbitrary byte array. It is not a relational database and can be better defined as a sparse, distributed multi-dimensional sorted map.
+
+Bigtable is designed to scale into the petabyte range across "hundreds or thousands of machines, and to make it easy to add more machines  the system and automatically start taking advantage of those resources without any reconfiguration".
+
+For example, Google's copy of the web can be stored in a bigtable where the row key is a domain-reversed URL, and columns describe various properties of a web page, with one particular column holding the page itself. The page column can have several timestamped versions describing different copies of the web page timestamped by when they were fetched. Each cell of a bigtable can have zero or more timestamped versions of the data. Another function of the timestamp is to allow for both versioning and garbage collection of expired data.
+
+Tables are split into multiple tablets – segments of the table are split at certain row keys so that each tablet is a few hundred megabytes or a few gigabytes in size. A bigtable is somewhat like a mapreduce worker pool in that thousands to hundreds of thousands of tablet shards may be served by hundreds to thousands of BigTable servers. 
+
+When Table size threaten to grow beyond a specified limit, the tablets may be compressed using the algorithm BMDiff and the Zippy compression algorithm publicly known and open-sourced as Snappy, which is a less space-optimal variation of LZ77 but more efficient in terms of computing time. 
+
+The locations in the GFS of tablets are recorded as database entries in multiple special tablets, which are called "META1" tablets. META1 tablets are found by querying the single "META0" tablet, which typically resides on a server of its own since it is often queried by clients as to the location of the "META1" tablet which itself has the answer to the question of where the actual data is located. Like GFS's master server, the META0 server is not generally a bottleneck since the processor time and bandwidth necessary to discover and transmit META1 locations is minimal and clients aggressively cache locations to minimize queries.
+
+## Handle massive amounts of data workload with Cloud Bigtable
 
 [https://www.youtube.com/watch?v=MzT0c0l3RPc](https://www.youtube.com/watch?v=MzT0c0l3RPc)
 
-Discuss the differences between Cassandra and Cloud Bigtable, why and how Spotify migrated some of their workloads, and how they built an auto-scaler for Cloud Bigtable.
+## Discuss the differences between Cassandra and Cloud Bigtable
+
+why and how Spotify migrated some of their workloads, and how they built an auto-scaler for Cloud Bigtable.
 
 [https://www.youtube.com/watch?v=Hfd3VZOYXNU](https://www.youtube.com/watch?v=Hfd3VZOYXNU)
 
@@ -42,10 +62,6 @@ This page lists differences between Bigtable and HBase.
 
 [https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/)
 
-## Moving from Cassandra to Bigtable
-
-https://www.youtube.com/watch?v=Hfd3VZOYXNU
-
 ## Qwiklabs
 
 
@@ -56,7 +72,7 @@ One way to communicate with Cloud Bigtable is through the Cloud Bigtable HBase c
 [Bigtable: Qwik Start - Hbase Shell](https://www.qwiklabs.com/focuses/580?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7500925)
 
 
-##### Bigtable
+### Bigtable
 
 Cloud Bigtable is a sparsely populated table that can scale to billions of rows and thousands of columns, enabling you to store terabytes or even petabytes of data. A single value in each row is indexed; this value is known as the row key. Cloud Bigtable is ideal for storing very large amounts of single-keyed data with very low latency. It supports high read and write throughput at low latency, and it is an ideal data source for MapReduce operations.
 
