@@ -127,6 +127,10 @@ https://www.youtube.com/watch?v=FNeGQUqMa_c
 
 [https://cloud.google.com/spanner/docs/tutorials](https://cloud.google.com/spanner/docs/tutorials)
 
+## Optimizing Applications, Schemas, and Query Design on Cloud Spanner
+
+
+https://www.youtube.com/watch?v=DxrdatA_ULk
 
 ## Perspectives
 
