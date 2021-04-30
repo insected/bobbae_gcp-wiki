@@ -7,7 +7,6 @@
 - [docker](#docker)
 - [kubernetes](#kubernetes)
 - [Linux](#linux)
-- [Linux, Unix](#linux--unix)
 - [RAM, cache, cache-line, registers, hard disk, flash disk, different parts of computer](#ram--cache--cache-line--registers--hard-disk--flash-disk--different-parts-of-computer)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -72,7 +71,7 @@ https://www.edureka.co/blog/interview-questions/kubernetes-interview-questions/
 
 https://www.javatpoint.com/linux-interview-questions
 
-## Linux, Unix
+
 
 https://www.educba.com/linux-system-administration-interview-questions/
 
