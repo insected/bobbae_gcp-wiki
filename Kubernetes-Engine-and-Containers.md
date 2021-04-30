@@ -154,6 +154,8 @@ https://github.com/bobbae/gcp/wiki/Cloud-Build
 ## K8s monitoring
 https://github.com/bobbae/gcp/wiki/Kubernetes-Monitoring
 
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/29.png]]
+
 ## Configuration as Data
 
 [https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes](https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes)
