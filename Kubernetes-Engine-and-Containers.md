@@ -189,6 +189,12 @@ https://github.com/kubernetes-sigs/kubefed
 
 [[https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png]]
 
+## Workflow
+
+[[https://miro.medium.com/max/1575/1*HFUAAjfQo4ZeJVKPSObgZg.png]]
+
+https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff
+
 ## Qwiklabs
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Qwiklabs
