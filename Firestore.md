@@ -12,7 +12,12 @@ Cloud Firestore is a horizontally scaling document-model NoSQL database in the c
 
 [https://www.youtube.com/watch?v=v_hR4K4auoQ](https://www.youtube.com/watch?v=v_hR4K4auoQ)
 
+## Data modeling
+
+https://www.youtube.com/watch?v=lW7DWV2jST0
+
 ## Use cases
+
 Firestore can be used to build a serverless, scalable, mobile, syncing, analytical, IoT app. Firestore provides a powerful data back end for apps development from kilobyte to petabyte scale.
 
 [https://www.youtube.com/watch?v=ah5tQ7yOh2s](https://www.youtube.com/watch?v=ah5tQ7yOh2s)
