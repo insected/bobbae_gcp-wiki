@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBo
 
 [https://cloud.google.com/solutions/bigquery-data-warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)
 
+https://www.youtube.com/watch?v=STo98QUKDS8
 
 ### BigQuery Explained
 
