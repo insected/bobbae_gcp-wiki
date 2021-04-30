@@ -105,7 +105,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 
 https://github.com/bobbae/gcp/wiki/Ingress
 
-[[https://i.imgur.com/yEe05d4.png]]
+[[https://i.imgur.com/pO8Gp3d.png]]
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
