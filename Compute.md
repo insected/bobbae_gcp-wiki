@@ -63,7 +63,7 @@ Compute Engine lets you create and run virtual machines on Google infrastructure
 
 #### VM
 
-A virtual machine (VM) is an [emulation](https://en.wikipedia.org/wiki/Emulator) of a computer system. Virtual machines are based on [computer architectures](https://en.wikipedia.org/wiki/Computer_architectures) and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination.
+A virtual machine (VM) is an [emulation](https://en.wikipedia.org/wiki/Emulator) of a computer system. Virtual machines are based on [computer architectures](https://en.wikipedia.org/wiki/Computer_architectures) and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination. A VM is a kind of [hypervisor](https://en.wikipedia.org/wiki/Hypervisor). The [distinction](https://en.wikipedia.org/wiki/Hypervisor#Classification) between Type-1 and Type-2 hypervisor can sometimes be not clear. For example, [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) may be categorized as both.  It is possible to run [nested VM](https://cloud.google.com/compute/docs/instances/enable-nested-virtualization-vm-instances) instances in GCP.
 
 [https://www.youtube.com/watch?v=VtXNIy_noWg](https://www.youtube.com/watch?v=VtXNIy_noWg)
 
