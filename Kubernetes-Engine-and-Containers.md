@@ -95,11 +95,16 @@ The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference
 
 ### Kustomize
 
+[[https://miro.medium.com/max/1575/1*qZV6wiQr4yet746qAl-G7A.png]]
+
 Kustomize introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into kubectl as apply -k.
 
 [https://www.youtube.com/watch?v=uvH84BviDS4](https://www.youtube.com/watch?v=uvH84BviDS4)
 
 https://kustomize.io/
+
+https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e
+
 
 ## Kubernetes origin
 
