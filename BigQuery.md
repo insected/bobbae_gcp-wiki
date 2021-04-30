@@ -5,6 +5,8 @@ BigQuery is Google Cloud's fully managed, petabyte-scale, and cost-effective ana
 
 [https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/)
 
+[[https://panoply.io/uploads/bigquery-architecture-1.png]]
+
 [https://cloud.google.com/bigquery/docs](https://cloud.google.com/bigquery/docs)
 
 BigQuery is designed to ingest and store large amounts of data, and make that data accessible for fast, large-scale analytics - to help analysts and developers alike. 
