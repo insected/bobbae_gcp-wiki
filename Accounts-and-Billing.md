@@ -121,6 +121,8 @@ Subaccounts are intended for resellers. If you are a reseller, you can use subac
 
 Cloud Billing subaccounts allow you to group charges from projects together on a separate section of your invoice. A billing subaccount is a Cloud Billing account that is owned by a reseller's parent Cloud Billing account. The usage charges for all billing subacccounts are paid for by the reseller's parent Cloud Billing account. Note that the parent Cloud Billing account must be on invoiced billing.
 
+https://support.google.com/channelservices/answer/10022594?hl=en
+
 A subaccount behaves like a Cloud Billing account in most ways: it can have projects linked to it, Cloud Billing data exports can be configured on it, and it can have IAM roles defined on it. Any charges made to projects linked to the subaccount are grouped and subtotalled on the invoice, and the effect on resource management is that access control policy can be entirely segregated on the subaccount to allow for customer separation and management.
 
 https://cloud.google.com/billing/docs/concepts#subaccounts
