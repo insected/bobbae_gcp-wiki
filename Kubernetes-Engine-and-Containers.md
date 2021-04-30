@@ -180,6 +180,10 @@ Multiple Kubernetes clusters can be managed as a single cluster with the help of
 
 [[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/30.png]]
 
+https://github.com/kubernetes-sigs/kubefed
+
+[[https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png]]
+
 ## Qwiklabs
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Qwiklabs
