@@ -7,6 +7,7 @@ AI Platform makes it easy for machine learning developers, data scientists, and 
 
 [https://cloud.google.com/ai-platform/docs](https://cloud.google.com/ai-platform/docs)
 
+[[https://miro.medium.com/max/1575/1*eF7n2JCVmwb1mRD49UMaYg.png]]
 
 # AI Platform Deep Learning VM Images
 
