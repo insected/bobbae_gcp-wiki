@@ -1,6 +1,6 @@
 - [General](#general)
 - [Coding](#coding)
-  * [Shell scripting in general](#shell-scripting-in-general)
+  * [Shell](#shell)
     + [write a simple bash shell script](#write-a-simple-bash-shell-script)
     + [write a simple loop in bash shell](#write-a-simple-loop-in-bash-shell)
     + [how to handle command line argument limit restrictions](#how-to-handle-command-line-argument-limit-restrictions)
@@ -10,12 +10,10 @@
     + [multiple processes, background vs. foreground](#multiple-processes--background-vs-foreground)
     + [terminal, termcap, tty, pty, screen, tmux](#terminal--termcap--tty--pty--screen--tmux)
     + [command line editing, key bindings, text editor, regexp](#command-line-editing--key-bindings--text-editor--regexp)
-    + [bash, awk](#bash--awk)
-    + [python](#python)
-    + [perl](#perl)
-    + [java](#java)
-    + [Awk](#awk)
-    + [python](#python-1)
+  * [python](#python)
+  * [perl](#perl)
+  * [java](#java)
+  * [Awk](#awk)
   * [Programming in general](#programming-in-general)
     + [do you have any samples, github repo, open source projects?](#do-you-have-any-samples--github-repo--open-source-projects-)
     + [linked list](#linked-list)
@@ -488,7 +486,6 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
 # General
 
 https://www.qfles.com/interview-question/
@@ -507,7 +504,7 @@ https://www.interviewbit.com/coding-interview-questions/
 
 https://www.educative.io/blog/google-coding-interview-questions
 
-## Shell scripting in general
+## Shell 
 
 https://www.javatpoint.com/shell-scripting-interview-questions
 
@@ -534,23 +531,28 @@ print numeric values from 1 to 10
 
 ### command line editing, key bindings, text editor, regexp
 
-### bash, awk
-
-### python
-
-### perl
-
-### java
 
 
-### Awk
+## python
+
+https://www.interviewbit.com/python-interview-questions/
+
+
+## perl
+
+https://www.tutorialspoint.com/perl/perl_interview_questions.htm
+
+## java
+
+https://www.journaldev.com/370/java-programming-interview-questions
+
+## Awk
 
 https://techgoeasy.com/unix-awk-command/
 
 
 
-### python
-https://www.interviewbit.com/python-interview-questions/
+
 
 
 ## Programming in general
