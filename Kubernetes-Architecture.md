@@ -181,7 +181,11 @@ A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are a
 
 # CRD
 
+[[https://insujang.github.io/assets/images/200213/client-go-controller-interaction.jpeg]]
+
 CRD stands for  Custom Resource Definition.
+
+https://insujang.github.io/2020-02-13/programming-kubernetes-crd/
 
 A resource is an endpoint in the [Kubernetes API](https://kubernetes.io/docs/reference/using-api/api-overview/) that stores a collection of [API objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) of a certain kind; for example, the built-in pods resource contains a collection of Pod objects.
 
