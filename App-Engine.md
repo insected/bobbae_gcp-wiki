@@ -21,6 +21,8 @@
 
 https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s
 
+[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/70eb42ad287e1b01bdc5edbbe73ce52ab972d14bcced1359c6172dbdb8627d31.svg]]
+
 #### Introduction
 
 App Engine is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
