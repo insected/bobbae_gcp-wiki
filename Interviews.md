@@ -144,12 +144,18 @@ https://github.com/bobbae/gcp/wiki/Interview-Data-Engineering
 
 # Cloud
 
+https://www.edureka.co/community/cloud-computing/gcp
+
+https://www.gangboard.com/blog/google-cloud-interview-questions-and-answers
+
+https://www.onlineinterviewquestions.com/google-cloud-interview-questions/
+
 https://www.javatpoint.com/cloud-computing-interview-questions
+
 
 
 https://www.acte.in/google-cloud-interview-questions-and-answers
 
-https://www.javatpoint.com/cloud-computing-interview-questions
 
 https://www.javatpoint.com/cloud-service-models
 
