@@ -44,11 +44,11 @@ https://www.guru99.com/computer-science-interview-questions.html
 
 ## General Compute  questions
 
-### Describe what is big endian vs little endian
+Describe what is big endian vs little endian
 
-### Examples of CPUs that are big endian
+Examples of CPUs that are big endian
 
-### How can you tell whether a computer is big endian or not programmatically?
+How can you tell whether a computer is big endian or not programmatically?
 
 ```
 #include <stdio.h> 
