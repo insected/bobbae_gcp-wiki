@@ -55,6 +55,14 @@ command line editing, key bindings, text editor, regexp
 
 https://www.interviewbit.com/python-interview-questions/
 
+https://stackoverflow.com/questions/2776829/difference-between-pythons-generators-and-iterators
+
+## JavaScript 
+
+
+https://www.guru99.com/javascript-interview-questions-answers.html
+
+https://javascriptwtf.com/
 
 ## perl
 
@@ -64,13 +72,23 @@ https://www.tutorialspoint.com/perl/perl_interview_questions.htm
 
 https://www.journaldev.com/370/java-programming-interview-questions
 
+## go
+
+https://www.google.com/amp/s/career.guru99.com/top-20-go-programming-interview-questions/amp/
+
+## rust
+
+https://www.onlineinterviewquestions.com/rust-interview-questions/
+
 ## Awk
 
 https://techgoeasy.com/unix-awk-command/
 
 
 
+## C
 
+http://a4academics.com/interview-questions/57-c-plus-plus/720-c-interview-questions-experienced
 
 
 ## Programming in general
