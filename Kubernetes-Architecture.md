@@ -181,7 +181,6 @@ A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are a
 
 # CRD
 
-[[https://insujang.github.io/assets/images/200213/client-go-controller-interaction.jpeg]]
 
 CRD stands for  Custom Resource Definition.
 
@@ -189,9 +188,15 @@ https://insujang.github.io/2020-02-13/programming-kubernetes-crd/
 
 A resource is an endpoint in the [Kubernetes API](https://kubernetes.io/docs/reference/using-api/api-overview/) that stores a collection of [API objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) of a certain kind; for example, the built-in pods resource contains a collection of Pod objects.
 
+https://itnext.io/building-your-own-kubernetes-crds-701de1c9a161
+
+[[https://miro.medium.com/max/1575/1*1HdQc8st8vYA33ZwwYA7fA.png]]
+
 A custom resource is an extension of the Kubernetes API that is not necessarily available in a default Kubernetes installation. It represents a customization of a particular Kubernetes installation. However, many core Kubernetes functions are now built using custom resources, making Kubernetes more modular. Custom resources can appear and disappear in a running cluster through dynamic registration, and cluster admins can update custom resources independently of the cluster itself. Once a custom resource is installed, users can create and access its objects using [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/), just as they do for built-in resources like Pods.
 
 [https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+
+[[https://miro.medium.com/max/5400/1*PTT5VXpyYHu1SQxXcULqhg.png]]
 
 Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
 
