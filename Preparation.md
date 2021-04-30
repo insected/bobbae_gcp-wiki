@@ -130,6 +130,9 @@ The answers are not necessarily clear and the discussions can be confusing but y
 
 External resources which are listed below can be used along with this document. 
 
+https://www.guru99.com/best-google-course.html
+
+
 #### Coursera
 
 [https://www.coursera.org/](https://www.coursera.org/)
