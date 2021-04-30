@@ -4,6 +4,9 @@ Each cron job created using Cloud Scheduler is sent to a target according to a s
 
 https://cloud.google.com/scheduler/docs
 
+
+[[https://www.itopstimes.com/wp-content/uploads/2018/11/Cloud_Tasks__Scheduler_blog_graphic_N40CxOM.max-700x700.png]]
+
 # Setting up
 
 https://cloud.google.com/scheduler/docs/setup
