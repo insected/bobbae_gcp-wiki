@@ -4,6 +4,8 @@ Cloud AutoML helps you easily build high quality custom machine learning models 
 
 https://cloud.google.com/automl
 
+[[https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/04/google-cloud-automl-updates.jpg?w=2500&quality=82&strip=all&ssl=1]]
+
 ## AI Platform with AutoML
 
 AI Platform (Unified) brings AutoML and AI Platform (Classic) together into a unified API, client library, and user interface. With AI Platform (Unified), both AutoML training and custom training are available options. Whichever option you choose for training, you can save models, deploy models and request predictions with AI Platform (Unified)
