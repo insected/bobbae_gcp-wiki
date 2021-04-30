@@ -34,6 +34,8 @@ TrueTime is a highly available, distributed clock that is provided to applicatio
 
 ## Cloud Spanner 101
 
+https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1
+
 [https://www.youtube.com/watch?v=IfsTINNCooY](https://www.youtube.com/watch?v=IfsTINNCooY)
 
 Cloud Spanner is a fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. Cloud Spanner can help you create time-sensitive, mission critical applications at scale. 
