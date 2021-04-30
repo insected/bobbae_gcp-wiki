@@ -145,6 +145,9 @@ A list of short tutorials on getting started with GCP.
 
 [https://cloud.google.com/gcp/getting-started](https://cloud.google.com/gcp/getting-started)
 
+A full video course:
+
+https://www.youtube.com/watch?v=dn9cSRImmVA
 
 ### Whitepapers
 
