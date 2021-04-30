@@ -32,9 +32,9 @@ https://www.educba.com/computer-network-interview-questions/
 ## TCP/IP
 https://allabouttesting.org/top-10-interview-questions-tcpudp/
 
-## Explain what happens when you ping 127.0.0.1
+Explain what happens when you ping 127.0.0.1
 
-## Explain detailed steps of what happens when you google something
+Explain detailed steps of what happens when you google something
 
 # network byte order
 
