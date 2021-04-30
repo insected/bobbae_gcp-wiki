@@ -18,6 +18,7 @@
 - [Desktop Support](#desktop-support)
 - [Statistics](#statistics)
 - [Math](#math)
+- [DevOps](#devops)
 - [Bioinformatics](#bioinformatics)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -292,6 +293,11 @@ https://en.m.wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_i
 
 https://en.m.wikipedia.org/wiki/E_(mathematical_constant)
 
+# DevOps
+
+https://github.com/bobbae/gcp/wiki/Interview-DevOps
+
+https://github.com/bregman-arie/devops-exercises
 
 # Bioinformatics
 
