@@ -1,3 +1,28 @@
+- [storage general](#storage-general)
+- [cloud storage](#cloud-storage)
+  * [What is it?](#what-is-it-)
+  * [buckets vs objects](#buckets-vs-objects)
+  * [when is HMAC key useful](#when-is-hmac-key-useful)
+  * [EBS](#ebs)
+- [persistent disk (GCP)](#persistent-disk--gcp-)
+- [nfs](#nfs)
+- [s3](#s3)
+- [RAID](#raid)
+- [LVM](#lvm)
+- [ceph](#ceph)
+- [ext2, 3, 4, xfs, btrfs, zfs, ...](#ext2--3--4--xfs--btrfs--zfs--)
+- [iSCSI](#iscsi)
+- [netapp](#netapp)
+- [SAN](#san)
+- [CIFS, smb](#cifs--smb)
+- [object storage vs. key value](#object-storage-vs-key-value)
+- [linux file systems](#linux-file-systems)
+- [Types of Google cloud storage services](#types-of-google-cloud-storage-services)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 https://www.vminstall.com/storage-engineer-skills/
 
 https://www.wisdomjobs.com/e-university/storage-area-network-interview-questions.html
