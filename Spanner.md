@@ -10,6 +10,49 @@ Original paper on Spanner.
 
 [https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
+## Architecture
+
+A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
+
+Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of Bigtable servers.
+Zones are the unit of administrative deployment. The set of zones is also the set of locations across
+which data can be replicated. Zones can be added to or removed from a running system as new datacenters are
+brought into service and old ones are turned off, respectively. Zones are also the unit of physical isolation: there
+may be one or more zones in a datacenter, for example, if different applications’ data must be partitioned across
+different sets of servers in the same datacenter.
+
+A zone has one zonemaster and between one hundred and several thousand spanservers. The former assigns
+data to spanservers; the latter serve data to clients. The per-zone location proxies are used by clients to locate
+the spanservers assigned to serve their data. The universe master and the placement driver are currently singletons. The universe master is primarily a console that displays status information about all the zones for interactive debugging. The placement driver handles automated movement of data across zones on the timescale of minutes. The placement driver periodically communicates with the spanservers to find data that needs to be moved, either to meet updated replication constraints or to balance load.
+
+### Spanserver
+
+At the bottom, each spanserver is responsible for between 100 and 1000 instances of a data structure called a tablet. A
+tablet is similar to Bigtable’s tablet abstraction, in that it implements a bag of the following mappings:
+
+  (key:string, timestamp:int64) → string
+
+Unlike Bigtable, Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  A tablet’s state is stored in set of B-tree-like files and a write-ahead log, all on a distributed file system called
+Colossus (the successor to the Google File System).  
+
+To support replication, each spanserver implements a single Paxos state machine on top of each tablet.
+The Paxos state machines are used to implement a consistently replicated bag of mappings. The key-value
+mapping state of each replica is stored in its corresponding tablet. Writes must initiate the Paxos protocol at the
+leader; reads access state directly from the underlying tablet at any replica that is sufficiently up-to-date. The
+set of replicas is collectively a Paxos group. At every replica that is a leader, each spanserver implements a lock table to implement concurrency control. The lock table contains the state for two-phase locking: it maps ranges of keys to lock states.
+
+
+
+
+## Strong Consistency
+
+Spanner, as most ACID databases, it uses the 2PC ( two phase commit ), and it uses Paxos groups to mitigate the "anti-availability" shortcoming. At the highest level of abstraction, Spanner is a database that shards data across many sets of Paxos state machines in datacenters spread all over the world.
+
+Spanner provides synchronous cross-datacenter replication and strong consistency and usability of traditional SQL databases. 
+
+### Google F1 
+
+F1 is a distributed relational database built to support the Google AdWords business.  F1 is built using Spanner to replace an implementation based on MySQL.
 
 ## External Consistency, Linearizability, Serializability
 
