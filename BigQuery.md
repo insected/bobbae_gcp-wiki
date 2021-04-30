@@ -16,7 +16,10 @@ How to load CSV data in batch, and analyze your own data in BigQuery.
 [https://www.youtube.com/watch?v=Abzj-Vyhi74](https://www.youtube.com/watch?v=Abzj-Vyhi74)
 
 
+
 ## BigQuery 101
+
+https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g
 
 https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1
 
