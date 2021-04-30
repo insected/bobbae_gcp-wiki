@@ -1,13 +1,4 @@
 - [Shell](#shell)
-  * [write a simple bash shell script](#write-a-simple-bash-shell-script)
-  * [write a simple loop in bash shell](#write-a-simple-loop-in-bash-shell)
-  * [how to handle command line argument limit restrictions](#how-to-handle-command-line-argument-limit-restrictions)
-  * [what are file permissions bits (e.g. 0777), umask, ulimit](#what-are-file-permissions-bits--eg-0777---umask--ulimit)
-    + [explain rwx vs 07](#explain-rwx-vs-07)
-  * [what is fsck](#what-is-fsck)
-  * [multiple processes, background vs. foreground](#multiple-processes--background-vs-foreground)
-  * [terminal, termcap, tty, pty, screen, tmux](#terminal--termcap--tty--pty--screen--tmux)
-  * [command line editing, key bindings, text editor, regexp](#command-line-editing--key-bindings--text-editor--regexp)
 - [python](#python)
 - [perl](#perl)
 - [java](#java)
@@ -35,28 +26,28 @@ https://www.educative.io/blog/google-coding-interview-questions
 
 https://www.javatpoint.com/shell-scripting-interview-questions
 
-### write a simple bash shell script
+write a simple bash shell script
 
 Execute a command.  If it ran successfully, print success. Otherwise print fail.
 
-### write a simple loop in bash shell
+write a simple loop in bash shell
 
 print numeric values from 1 to 10
 
-### how to handle command line argument limit restrictions
+how to handle command line argument limit restrictions
 
-### what are file permissions bits (e.g. 0777), umask, ulimit
+what are file permissions bits (e.g. 0777), umask, ulimit
 
-#### explain rwx vs 07
+explain rwx vs 07
 
-### what is fsck
+what is fsck
 
 
-### multiple processes, background vs. foreground
+multiple processes, background vs. foreground
 
-### terminal, termcap, tty, pty, screen, tmux
+terminal, termcap, tty, pty, screen, tmux
 
-### command line editing, key bindings, text editor, regexp
+command line editing, key bindings, text editor, regexp
 
 
 
