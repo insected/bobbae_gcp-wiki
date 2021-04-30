@@ -23,9 +23,13 @@ Typically you have several nodes in a cluster; in a learning or resource-limited
 
 Pods are the smallest deployable units of computing that you can create and manage in Kubernetes.
 
+https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
+
 A Pod (as in a pod of whales or pea pod) is a group of one or more containers, with shared storage and network resources, and a specification for how to run the containers. A Pod's contents are always co-located and co-scheduled, and run in a shared context. A Pod models an application-specific "logical host": it contains one or more application containers which are relatively tightly coupled. In non-cloud contexts, applications executed on the same physical or virtual machine are analogous to cloud applications executed on the same logical host.
 
 https://kubernetes.io/docs/concepts/workloads/pods/
+
+[[https://miro.medium.com/max/1575/1*oyGbXt7kStLd85ZT4it3oQ.png]]
 
 ## Control Plane
 
