@@ -124,6 +124,9 @@ Build  an inventory ledger solution that streamlines the order-to-shipping proce
 
 https://www.youtube.com/watch?v=FNeGQUqMa_c
 
+## Migrating from Oracle OLTP to Cloud Spanner
+
+https://cloud.google.com/architecture/migrating-oracle-to-cloud-spanner
 
 ## Tutorials
 
