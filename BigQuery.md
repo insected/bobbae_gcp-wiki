@@ -38,6 +38,7 @@ Most experienced data analysts and programmers already have the skills to get st
 
 [https://www.youtube.com/watch?v=qqbYrQGSibQ](https://www.youtube.com/watch?v=qqbYrQGSibQ)
 
+https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1
 
 #### BigQuery under the hood
 
