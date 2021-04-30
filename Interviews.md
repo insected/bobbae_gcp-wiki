@@ -271,8 +271,9 @@ https://en.wikipedia.org/wiki/Lambda_calculus
 
 ## What is Y Combinator
 
-https://en.wikipedia.org/wiki/Y_Combinator
 
+
+https://en.m.wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_in_lambda_calculus
 
 # Bioinformatics
 
