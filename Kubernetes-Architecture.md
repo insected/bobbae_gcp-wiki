@@ -39,7 +39,11 @@ https://kubernetes.io/docs/concepts/workloads/pods/
 
 Kubernetes has a "hub-and-spoke" API pattern. All API usage from nodes (or the pods they run) terminates at the apiserver. None of the other control plane components are designed to expose remote services. The apiserver is configured to listen for remote connections on a secure HTTPS port (typically 443) with one or more forms of client authentication enabled. One or more forms of authorization should be enabled, especially if anonymous requests or service account tokens are allowed.
 
+
+[[https://miro.medium.com/max/5400/1*QWJijlj7kwd0hIYk8Wsnow.png]]
+
 ## Controller 
+
 In robotics and automation, a control loop is a non-terminating loop that regulates the state of a system.
 
 Here is one example of a control loop: a thermostat in a room.
