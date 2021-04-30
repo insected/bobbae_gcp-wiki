@@ -275,6 +275,12 @@ https://en.wikipedia.org/wiki/Lambda_calculus
 
 https://en.m.wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_in_lambda_calculus
 
+
+## What is euler's number e?
+
+https://en.m.wikipedia.org/wiki/E_(mathematical_constant)
+
+
 # Bioinformatics
 
 http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Answers.html
