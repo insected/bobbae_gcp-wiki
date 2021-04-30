@@ -25,12 +25,15 @@ In a system that provides serializability but not external consistency, even tho
 
 https://aphyr.com/posts/313-strong-consistency-models
 
+https://www.youtube.com/watch?v=QdkS6ZjeR7Q
+
 ## TrueTime
 
 TrueTime is a highly available, distributed clock that is provided to applications on all Google servers. TrueTime enables applications to generate monotonically increasing timestamps: an application can compute a timestamp T that is guaranteed to be greater than any timestamp T' if T' finished being generated before T started being generated. This guarantee holds across all servers and all timestamps.
 
 [https://cloud.google.com/spanner/docs/true-time-external-consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
 
+https://www.youtube.com/watch?v=iKQhPwbzzxU
 
 ## Cloud Spanner 101
 
@@ -46,8 +49,12 @@ Build  an inventory ledger solution that streamlines the order-to-shipping proce
 
 [https://www.youtube.com/watch?v=8kj_uA5vJfo](https://www.youtube.com/watch?v=8kj_uA5vJfo)
 
+## Migrating to Spanner
 
-#### Tutorials
+https://www.youtube.com/watch?v=FNeGQUqMa_c
+
+
+## Tutorials
 
 [https://cloud.google.com/spanner/docs/tutorials](https://cloud.google.com/spanner/docs/tutorials)
 
@@ -66,12 +73,12 @@ Databases, ETL, ELT and tools.
 ## Qwiklabs
 
 
-##### Quick Start
+### Quick Start
 
 [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1774?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467628)
 
 
-##### Java Client
+### Java Client
 
 In this lab, you will set up a Cloud Spanner instance, create a database and schema, then run sample queries on a dataset. Helpful Cloud Spanner information is provided along the way to help you get the most out of this powerful database service.
 
