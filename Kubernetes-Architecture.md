@@ -57,6 +57,8 @@ By decoupling the interoperability logic between Kubernetes and the underlying c
 
 https://kubernetes.io/docs/concepts/architecture/
 
+[[https://miro.medium.com/proxy/1*ax_IkyNCNlNUYY8WKrawaA.png]]
+
 ## Networking
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
