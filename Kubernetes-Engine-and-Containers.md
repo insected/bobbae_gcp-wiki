@@ -114,11 +114,13 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-Examples
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Architecture
 
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png]]
+
 ## Kubernetes Networking
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
 
-
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png]]
 
 ## Kubernetes Storage
 
