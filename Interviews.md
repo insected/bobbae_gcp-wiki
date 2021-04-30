@@ -9,7 +9,6 @@
 - [Data Science](#data-science)
 - [Data Engineering](#data-engineering)
 - [Cloud](#cloud)
-  * [general cloud related questions](#general-cloud-related-questions)
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Networking](#networking)
@@ -124,7 +123,6 @@ https://github.com/bobbae/gcp/wiki/Interview-Data-Engineering
 
 https://www.javatpoint.com/cloud-computing-interview-questions
 
-## general cloud related questions
 
 https://www.acte.in/google-cloud-interview-questions-and-answers
 
