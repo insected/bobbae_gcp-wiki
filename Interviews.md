@@ -74,15 +74,7 @@ How did you look the information up?
 What do they say?
 Discuss details on each: cpu, memory, storage, network...
 
-### Details of the CPU
-
-### Details of the memory
-
-### Details of the storage
-
-### Details of the network
-
-### How do these things matter when selecting a type of virtual machine in cloud compute services?
+How do these things matter when selecting a type of virtual machine in cloud compute services?
 
 # IT and sysadmin questions
 
