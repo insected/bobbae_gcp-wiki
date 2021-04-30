@@ -1,10 +1,18 @@
 # Cluster Architecture
 
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png]]
+
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/7.png]]
+
 ## Cattle vs. Pets
 
 http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/
 
 ## Nodes
+
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png]]
+
+
 Kubernetes runs your workload by placing containers into Pods to run on Nodes. A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods
 
 Typically you have several nodes in a cluster; in a learning or resource-limited environment, you might have only one node.
