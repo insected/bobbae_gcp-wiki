@@ -52,9 +52,12 @@ https://cloud.google.com/translate/automl/docs
 
 
 ## AutoML Tables
+
 AutoML Tables enables your entire team to automatically build and deploy state-of-the-art machine learning models on structured data at massively increased speed and scale.
 
 https://cloud.google.com/automl-tables/docs
+
+[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/e8d92904ce53ae0d52b13ef6dd9f2fcd0dc7eba15dbae833fc6ba69fb2cc9883.svg]]
 
 ### AutoML Tables Quickstart
 
