@@ -12,7 +12,7 @@ https://cloud.google.com/datastore/docs/concepts/overview
 
 Originally released as a feature in Google App Engine in 2008, Cloud Datastore was announced as a standalone product in 2013 during Google I/O. In 2018 at the Google Cloud Next conference, the second-generation Firestore database was opened to general availability, with a backward-compatibility mode. Google provides a path for automatically upgrading a legacy Datastore database to Firestore in Datastore mode. 
 
-### Datastore, Firestore, Spanner
+### Datastore, Firestore, Bigtable, Spanner
 
 https://www.youtube.com/watch?v=3aHBkfBRFEU
 
