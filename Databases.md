@@ -44,11 +44,21 @@ Many enterprise systems that handle high-profile data (e.g., financial and order
 
 [https://aphyr.com/posts/333-serializability-linearizability-and-locality](https://aphyr.com/posts/333-serializability-linearizability-and-locality)
 
+[[https://accelazh.github.io/images/ddia-linearizability.png]]
+
+https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy
 
 ### Distributed Consensus Protocols
 
 [https://www.alibabacloud.com/blog/a-brief-analysis-of-consensus-protocol-from-logical-clock-to-raft_594675](https://www.alibabacloud.com/blog/a-brief-analysis-of-consensus-protocol-from-logical-clock-to-raft_594675)
 
+https://www.sofastack.tech/en/projects/sofa-jraft/consistency-raft-jraft/
+
+https://www.hashicorp.com/resources/raft-consul-consensus-protocol-explained
+
+[[https://media.geeksforgeeks.org/wp-content/uploads/node-status-transitions.png]]
+
+https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
 ### Database of Databases
 
