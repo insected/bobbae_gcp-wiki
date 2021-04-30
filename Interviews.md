@@ -3,7 +3,6 @@
 - [General Computer Science](#general-computer-science)
 - [Google Cloud Platform](#google-cloud-platform)
 - [General Infrastructure](#general-infrastructure)
-- [general devops questions](#general-devops-questions)
 - [BASICs](#basics)
 - [IT and sysadmin questions](#it-and-sysadmin-questions)
 - [Data Science](#data-science)
@@ -74,9 +73,6 @@ Explain step by step in as much detail as possible what happens when you use Goo
 
 https://github.com/bobbae/gcp/wiki/Interview-Infrastructure
 
-# general devops questions
-
-https://github.com/bobbae/gcp/wiki/Interview-DevOps
 
 # BASICs
 
