@@ -6,12 +6,6 @@
 - [general devops questions](#general-devops-questions)
 - [BASICs](#basics)
 - [IT and sysadmin questions](#it-and-sysadmin-questions)
-  * [IT admin](#it-admin)
-  * [kernel](#kernel)
-  * [system call](#system-call)
-  * [signals](#signals)
-  * [filesystem](#filesystem)
-  * [Bash, zsh, csh, ...](#bash--zsh--csh--)
 - [Data Science](#data-science)
 - [Data Engineering](#data-engineering)
 - [Cloud](#cloud)
@@ -91,25 +85,20 @@ https://www.cosmicnovo.com/2016/12/07/system-administrator-microsoft-interview/
 
 
 
-## kernel
 
 https://www.sanfoundry.com/linux-kernel-interview-questions/
 
-## system call
 https://www.globalguideline.com/interview_questions/Questions.php?sc=Unix_System_Calls
 
 
-## signals
 
 https://www.globalguideline.com/interview_questions/Questions.php?sc=Signal_Handling
 
-## filesystem
 
 https://narva.webgarden.com/menu/linux-interviw-questions/filesystem-management-1
 
 
 
-## Bash, zsh, csh, ...
 https://www.howtogeek.com/68563/htg-explains-what-are-the-differences-between-linux-shells/
 
 
