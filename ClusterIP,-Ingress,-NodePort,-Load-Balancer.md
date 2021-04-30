@@ -83,3 +83,6 @@ https://github.com/bobbae/gcp/wiki/Ingress
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
+# ECMP
+
+https://medium.com/@kyralak/accessing-kubernetes-services-without-ingress-nodeport-or-loadbalancer-de6061b42d72
