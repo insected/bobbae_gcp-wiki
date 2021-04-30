@@ -5,7 +5,11 @@
 
 Cloud Bigtable is Google's NoSQL Big Data database service. It's the same database that powers many core Google services, including Search, Analytics, Maps, and Gmail.
 
+https://www.youtube.com/watch?v=KaRbKdMInuc
+
 [https://cloud.google.com/bigtable/docs](https://cloud.google.com/bigtable/docs)
+
+https://www.youtube.com/watch?v=Lq9uDOM4whI
 
 Handle massive amounts of data workload with Cloud Bigtable.
 
@@ -15,11 +19,11 @@ Discuss the differences between Cassandra and Cloud Bigtable, why and how Spotif
 
 [https://www.youtube.com/watch?v=Hfd3VZOYXNU](https://www.youtube.com/watch?v=Hfd3VZOYXNU)
 
-Global Data Services with Bigtable.
+## Global Data Services with Bigtable
 
 [https://www.youtube.com/watch?v=dHr707_6woY](https://www.youtube.com/watch?v=dHr707_6woY)
 
-Bigtable and Spanner.
+## Bigtable and Spanner
 
 [https://www.youtube.com/watch?v=_Qm0eopwjG0](https://www.youtube.com/watch?v=_Qm0eopwjG0)
 
@@ -35,6 +39,9 @@ This page lists differences between Bigtable and HBase.
 
 [https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/)
 
+## Moving from Cassandra to Bigtable
+
+https://www.youtube.com/watch?v=Hfd3VZOYXNU
 
 ## Qwiklabs
 
