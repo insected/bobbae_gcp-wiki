@@ -25,6 +25,7 @@
 
 # General
 
+https://www.geeksforgeeks.org/interview-preparation-for-software-developer
 https://www.qfles.com/interview-question/
 
 https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
