@@ -18,8 +18,7 @@ How to load CSV data in batch, and analyze your own data in BigQuery.
 
 ## BigQuery 101
 
-[https://www.youtube.com/watch?v=kKBnFsNWwYM](https://www.youtube.com/watch?v=kKBnFsNWwYM)
-
+https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1
 
 ### Data warehousing with BigQuery
 
