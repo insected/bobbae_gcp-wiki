@@ -46,6 +46,8 @@ https://arthurchiao.art/blog/cracking-k8s-node-proxy/
 
 In iptables proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
 
+[[https://d33wubrfki0l68.cloudfront.net/27b2978647a8d7bdc2a96b213f0c0d3242ef9ce0/e8c9b/images/docs/services-iptables-overview.svg]]
+
 By default, kube-proxy in iptables mode chooses a backend at random.
 
 https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-iptables
