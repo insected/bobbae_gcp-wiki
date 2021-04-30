@@ -105,3 +105,7 @@ https://www.youtube.com/watch?v=FGdiSJakIS4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&in
 
 https://www.youtube.com/watch?v=4UZrsTqkcW4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=47
 
+## Tutorials
+
+https://www.wisdomjobs.com/e-university/all-skillsets.html
+
