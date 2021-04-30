@@ -4,6 +4,8 @@
 
 ## Overview
 
+[[https://storage.googleapis.com/gweb-cloudblog-publish/images/Dashboard_view.max-1000x1000.jpg]]
+
 ### Introduction
 
 AppSheet Automation allows line-of-business employees to rapidly automate their critical business processes. The AI-powered solution anticipates your automation requirements, provides intelligent suggestions, and auto-constructs actions based on user intent.
@@ -13,6 +15,8 @@ AppSheet Automation allows line-of-business employees to rapidly automate their 
 ### No Code
 
 Empower everyone to create data driven apps and automation without coding.  Democratize app creation, customization and data and AI driven automation.
+
+https://cloud.google.com/blog/products/no-code-development/build-your-own-workout-app-5-stepswithout-coding
 
 ### How to create a no-code App
 
