@@ -10,6 +10,8 @@
 
 ## Database Related topics
 
+https://moi.vonos.net/cloud/google-databases-overview/
+
 ### Cloud Databases
 
 * [GCP Database Products](https://cloud.google.com/products/databases)
