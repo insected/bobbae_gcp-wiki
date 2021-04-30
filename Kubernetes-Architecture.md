@@ -43,7 +43,9 @@ https://kubernetes.io/docs/concepts/architecture/
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
 
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/18-1.png]]
 
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Pods.png]]
 
 ## Components
 
