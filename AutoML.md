@@ -4,7 +4,7 @@ Cloud AutoML helps you easily build high quality custom machine learning models 
 
 https://cloud.google.com/automl
 
-[[https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/04/google-cloud-automl-updates.jpg?w=2500&quality=82&strip=all&ssl=1]]
+[[https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/04/google-cloud-automl-updates.jpg]]
 
 ## AI Platform with AutoML
 
