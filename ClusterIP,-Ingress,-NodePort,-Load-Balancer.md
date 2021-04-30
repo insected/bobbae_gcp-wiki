@@ -54,6 +54,10 @@ NodePort exposes the Service on each Node's IP at a static port (the NodePort). 
 
 https://kubernetes.io/docs/concepts/services-networking/service/#nodeport
 
+[[https://hackernoon.com/drafts/7i36s33v9.png]]
+
+https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s
+
 ## LoadBalancer
 
 A LoadBalancer service is the standard way to expose a service to the internet. On GKE, this will spin up a [Network Load Balancer](https://cloud.google.com/compute/docs/load-balancing/network/) that will give you a single IP address that will forward all traffic to your service.
