@@ -31,6 +31,8 @@ https://kubernetes.io/docs/concepts/workloads/pods/
 
 [[https://miro.medium.com/max/1575/1*oyGbXt7kStLd85ZT4it3oQ.png]]
 
+[[https://miro.medium.com/max/1575/1*Ow5A6_zjjwdKkf2Yi1KgYw.png]]
+
 ## Control Plane
 
 [[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/25-1.png]]
