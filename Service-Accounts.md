@@ -1,5 +1,7 @@
 A service account is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
 
+https://www.youtube.com/watch?v=xXk1YlkKW_k&list=PLIivdWyY5sqIlPnZ7cvkg2Ck-8ZZ8TA5t
+
 For example, a Compute Engine VM can run as a service account, and that account can be given permissions to access the resources it needs. This way the service account is the identity of the service, and the service account's permissions control which resources the service can access.
 
 A service account is identified by its email address, which is unique to the account.
