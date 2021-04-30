@@ -241,7 +241,12 @@ Kubernetes Universal Declarative Operator (KUDO) provides a declarative approach
 
 https://d2iq.com/products/kudo
 
+[[https://miro.medium.com/max/5400/1*jrkpUKU9pX9og6NNdnsbIw.jpeg]]
+
+
 https://cert-manager.io/docs/installation/kubernetes/
+
+[[https://vocon-it.com/wp-content/uploads/2019/01/2019-01-08-00_15_00-Minikube-and-Kubeadm-Google-Pr%C3%A4sentationen.jpg]]
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
