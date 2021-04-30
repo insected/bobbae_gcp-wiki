@@ -60,6 +60,10 @@ Google datacenter security has 6 layers.
 Security Foundations.
 https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
 
+#### 6 layers
+
+https://www.youtube.com/watch?v=vBdYVFgZ2ug
+
 #### Operational security
 
 Google administrates a vulnerability management process that actively scans for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
