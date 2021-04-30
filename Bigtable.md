@@ -96,6 +96,7 @@ This page lists differences between Bigtable and HBase.
 
 [https://cloud.google.com/bigtable/docs/hbase-differences](https://cloud.google.com/bigtable/docs/hbase-differences)
 
+https://codelabs.developers.google.com/codelabs/cloud-bigtable-intro-java/index.html
 
 ## SSTable, LSM Tree, LevelDB
 
