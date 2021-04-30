@@ -130,6 +130,8 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 [https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555](https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555)
 
 
+https://www.youtube.com/watch?v=XpaN-PqSczM
+
 ##### Snowflake, Star, Galaxy
 
 Star Schema in a data warehouse, in which the center of the star can have one fact table and a number of associated dimension tables. It is known as star schema as its structure resembles a star. The Star Schema data model is the simplest type of Data Warehouse schema. It is also known as Star Join Schema and is optimized for querying large data sets.
