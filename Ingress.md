@@ -80,6 +80,8 @@ https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 
 [[https://i.imgur.com/pO8Gp3d.png]]
 
+https://liejuntao001.medium.com/some-details-about-how-kubernetes-ingress-controller-works-99deb529f2e4
+
 ## Load Balancing
 
 An Ingress controller is bootstrapped with some load balancing policy settings that it applies to all Ingress, such as the load balancing algorithm, backend weight scheme, and others. More advanced load balancing concepts (e.g. persistent sessions, dynamic weights) are not yet exposed through the Ingress. You can instead get these features through the load balancer used for a Service.
