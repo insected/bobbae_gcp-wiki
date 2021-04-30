@@ -1,5 +1,14 @@
 # Spanner
 
+https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1
+
+## Spanner in a minute
+
+Cloud Spanner is a fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. Cloud Spanner can help you create time-sensitive, mission critical applications at scale. 
+
+[https://www.youtube.com/watch?v=5bjYk6Hhd10](https://www.youtube.com/watch?v=5bjYk6Hhd10)
+
+
 ## Introduction 
 
 Cloud Spanner is a fully managed, mission-critical, relational database service that offers transactional consistency at global scale, schemas, SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
@@ -41,6 +50,17 @@ mapping state of each replica is stored in its corresponding tablet. Writes must
 leader; reads access state directly from the underlying tablet at any replica that is sufficiently up-to-date. The
 set of replicas is collectively a Paxos group. At every replica that is a leader, each spanserver implements a lock table to implement concurrency control. The lock table contains the state for two-phase locking: it maps ranges of keys to lock states.
 
+### Split
+
+Spanner is global database system, per region we’ll get minimum of 3 shards. Each shard will be in each zone. In Spanner terms a shard is called as Split. If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. And the Compute and Storage layers are de-coupled. Paxos algorithm is used to maintain one leader at a time and rest of the nodes will be the followers.
+
+[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg]]
+
+Based on the partitions, we’ll have more Splits(shards) in the storage layer. Each shard will be replicated to the other Zones. For eg: if you have a shard called S1 on Zone A, it’ll be replicated to Zone B and C. The replication works based on Leader follower method. So the Paxos will help to maintain the quorum and will help to select a new Leader during the failure. If you are writing something on this Split, the Spanner APIs are aware of the Leaders. So the write directly goes to the Zone where it has the Leader Split. Each Split has its own leader zone.
+
+
+
+[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner2.jpg]]
 
 
 
@@ -72,21 +92,27 @@ https://www.youtube.com/watch?v=QdkS6ZjeR7Q
 
 ## TrueTime
 
+Spanner is very keen in syncronizing and maintains the same time across all the nodes over the global datacenters. Their hardwares are built with Atomic Clocks to maintain the time. If you take a look at the Server Hardware Rack, the Server is having 4 time servers. 2 Servers are connected with GPS and the remaining 2 are connect with Automic Oscillators. There are 2 different brands of Oscillators for better failover processing. The GPS time servers will sync with Oscillators to synchronize the time across the global datacenters with every 30sec interval.
+
+[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner3.jpg]]
+
 TrueTime is a highly available, distributed clock that is provided to applications on all Google servers. TrueTime enables applications to generate monotonically increasing timestamps: an application can compute a timestamp T that is guaranteed to be greater than any timestamp T' if T' finished being generated before T started being generated. This guarantee holds across all servers and all timestamps.
 
 [https://cloud.google.com/spanner/docs/true-time-external-consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
 
+[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner9.jpg]]
+
 https://www.youtube.com/watch?v=iKQhPwbzzxU
+
+
+## Internals
+https://thedataguy.in/internals-of-google-cloud-spanner/
 
 ## Cloud Spanner 101
 
-https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1
-
 [https://www.youtube.com/watch?v=IfsTINNCooY](https://www.youtube.com/watch?v=IfsTINNCooY)
 
-Cloud Spanner is a fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. Cloud Spanner can help you create time-sensitive, mission critical applications at scale. 
-
-[https://www.youtube.com/watch?v=5bjYk6Hhd10](https://www.youtube.com/watch?v=5bjYk6Hhd10)
+## Example: Build realtime inventory management systems with Cloud Spanner
 
 Build  an inventory ledger solution that streamlines the order-to-shipping process using Cloud Spanner, a scalable, globally consistent database service. The single source of truth enables seamless customer experiences across channels and real-time decisioning at scale. 
 
