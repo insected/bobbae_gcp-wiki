@@ -37,7 +37,11 @@ https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
 
 https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
+[[https://miro.medium.com/max/1575/1*UetnYP8uE05GAqQD0tbtBQ.png]]
 
+[[https://miro.medium.com/max/1575/1*iezVQZMVEqzic_yfREO8Jw.png]]
+
+https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
 
 ## Policies
 
