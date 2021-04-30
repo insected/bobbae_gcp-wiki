@@ -50,6 +50,10 @@ By default, kube-proxy in iptables mode chooses a backend at random.
 
 https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-iptables
 
+[[https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/hooks.png]]
+
+https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture
+
 ### ipvs
 
 In ipvs mode, kube-proxy watches Kubernetes Services and Endpoints, calls netlink interface to create IPVS rules accordingly and synchronizes IPVS rules with Kubernetes Services and Endpoints periodically. This control loop ensures that IPVS status matches the desired state. When accessing a Service, IPVS directs traffic to one of the backend Pods.
