@@ -17,6 +17,8 @@ Kubernetes runs your workload by placing containers into Pods to run on Nodes. A
 
 Typically you have several nodes in a cluster; in a learning or resource-limited environment, you might have only one node.
 
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/18-1.png]]
+
 ## Pods
 
 Pods are the smallest deployable units of computing that you can create and manage in Kubernetes.
@@ -26,6 +28,8 @@ A Pod (as in a pod of whales or pea pod) is a group of one or more containers, w
 https://kubernetes.io/docs/concepts/workloads/pods/
 
 ## Control Plane
+
+[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/25-1.png]]
 
 Kubernetes has a "hub-and-spoke" API pattern. All API usage from nodes (or the pods they run) terminates at the apiserver. None of the other control plane components are designed to expose remote services. The apiserver is configured to listen for remote connections on a secure HTTPS port (typically 443) with one or more forms of client authentication enabled. One or more forms of authorization should be enabled, especially if anonymous requests or service account tokens are allowed.
 
