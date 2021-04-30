@@ -80,6 +80,8 @@ A LoadBalancer service is the standard way to expose a service to the internet. 
 
 https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer
 
+[[https://i.imgur.com/QCKwPHE.png]]
+
 https://github.com/bobbae/gcp/wiki/Load-Balancer
 
 ### MetalLB
@@ -102,6 +104,8 @@ https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 # Ingress
 
 https://github.com/bobbae/gcp/wiki/Ingress
+
+[[https://i.imgur.com/yEe05d4.png]]
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
