@@ -16,21 +16,382 @@ https://www.interviewbit.com/coding-interview-questions/
 
 https://www.educative.io/blog/google-coding-interview-questions
 
-# CS
+## Shell scripting in general
+
+https://www.javatpoint.com/shell-scripting-interview-questions
+
+### write a simple bash shell script
+
+Execute a command.  If it ran successfully, print success. Otherwise print fail.
+
+### write a simple loop in bash shell
+
+print numeric values from 1 to 10
+
+### how to handle command line argument limit restrictions
+
+### what are file permissions bits (e.g. 0777), umask, ulimit
+
+#### explain rwx vs 07
+
+### what is fsck
+
+
+### multiple processes, background vs. foreground
+
+### terminal, termcap, tty, pty, screen, tmux
+
+### command line editing, key bindings, text editor, regexp
+
+### bash, awk
+
+### python
+
+### perl
+
+### java
+
+
+### Awk
+
+https://techgoeasy.com/unix-awk-command/
+
+
+
+### python
+https://www.interviewbit.com/python-interview-questions/
+
+
+## Programming in general
+
+https://www.indeed.com/hire/interview-questions/programmer
+
+
+### do you have any samples, github repo, open source projects?
+
+Describe the project.
+Which languages used?
+What frameworks.
+Why?
+
+### linked list
+
+https://www.javatpoint.com/linked-list-interview-questions
+
+### data structure
+
+https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/
+
+### algorithm
+
+https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+
+### Amazon, Microsoft coding Qs
+
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+
+
+
+
+
+# General Computer Science
 
 https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/amp/
 
 https://www.guru99.com/computer-science-interview-questions.html
 
-# GCP
+# Google Cloud Platform
 
 https://www.qfles.com/interview-question/google-cloud-platform-interview-questions
+
+# General Infrastructure
+
+
+
+
+
+
+## do you have and cloud certification ?   what kinds?
+
+Discuss details
+
+## do you wish to study and pass certification tests?
+
+What kind of certificates are you interested in?
+Why?
+
+## have you applied and tested for certificates?  success or failures?
+```
+AWS, Azure, GCP?
+
+How did you prepare?
+
+Cloud academy?
+Cloud guru?
+Linux Academy?
+Coursera?
+Udemy?
+etc.?
+```
+
+
+
+
+
+## virtualization
+
+https://www.unixarena.com/2019/08/virtualization-hypervisor-basic-interview-questions.html/
+
+https://www.javatpoint.com/virtualization-in-cloud-computing
+
+## Hypervisors
+
+Types of hypervisors.
+
+https://vapour-apps.com/what-is-hypervisor/
+
+## aws, azure, gcp
+
+https://www.javatpoint.com/aws-vs-azure-vs-google-cloud-platform
+
+## docker
+
+https://www.edureka.co/blog/interview-questions/docker-interview-questions/
+
+## kubernetes
+
+https://www.edureka.co/blog/interview-questions/kubernetes-interview-questions/
+
+## General Compute  questions
+
+### Describe what is big endian vs little endian
+
+### Examples of CPUs that are big endian
+
+### How can you tell whether a computer is big endian or not programmatically?
+
+```
+#include <stdio.h> 
+
+/* function to show bytes in memory, from location start to start+n*/
+void show_mem_rep(char *start, int n) 
+{ 
+	int i; 
+	for (i = 0; i < n; i++) 
+		printf(" %.2x", start[i]); 
+	printf("\n"); 
+} 
+
+/*Main function to call above function for 0x01234567*/
+int main() 
+{ 
+int i = 0x01234567; 
+show_mem_rep((char *)&i, sizeof(i)); 
+//getchar(); 
+return 0; 
+} 
+```
+
+If this prints `67 45 23 01` then little endian.  If you get `01 23 45 67` then big endian.
+
+### Why does the endianness matter?
+What happens when you write a binary file on big endian machine and
+read it back in little endian machine?
+
+what happens when you write non-binary data, e.g. ASCII, or UTF-8 data, into the files and read them back on different endian machines, does it matter much?
+
+What needs to be done for binary data in the IP header read from network?
+
+## why do modern computers use two's compliment representation
+
+https://en.wikipedia.org/wiki/Two%27s_complement
+
+https://stackoverflow.com/questions/1125304/why-prefer-twos-complement-over-sign-and-magnitude-for-signed-numbers
+
+## what is "Turing complete"
+
+https://en.wikipedia.org/wiki/Turing_completeness
+
+
+## what is "Von Neumann" architecture
+
+https://www.thecrazyprogrammer.com/2019/02/difference-between-von-neumann-and-harvard-architecture.html
+
+## RISC vs CISC
+https://www.microcontrollertips.com/risc-vs-cisc-architectures-one-better/
+
+## example of RISC
+
+https://binaryterms.com/risc-processor.html
+
+### Classic RISC  pipeline
+
+Why?
+
+https://en.wikipedia.org/wiki/Classic_RISC_pipeline
+
+## Process vs threads
+
+https://www.tutorialspoint.com/difference-between-process-and-thread
+
+## thread vs coroutines
+
+https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread
+
+## What are processor cores?  
+
+https://quizizz.com/admin/quiz/5ab28f10ba09bf0019b2b33a/cpu-cores
+
+## What is SIMD?
+http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html
+
+
+
+## OS questions
+
+https://www.javatpoint.com/operating-system-interview-questions
+
+
+## Linux
+
+https://www.javatpoint.com/linux-interview-questions
+
+## Linux, Unix
+
+https://www.educba.com/linux-system-administration-interview-questions/
+
+https://www.educba.com/linux-system-administration-interview-questions/
+
+https://www.softwaretestinghelp.com/unix-vs-linux/
+
+
+
+https://www.whizlabs.com/blog/top-linux-interview-questions-answers/
+
+https://www.globalguideline.com/interview_questions/Questions.php?sc=Linux_OS_Management
+
+
+
+https://www.guru99.com/unix-interview-questions.html
+
+## RAM, cache, cache-line, registers, hard disk, flash disk, different parts of computer
+
+https://medium.com/software-design/why-software-developers-should-care-about-cpu-caches-8da04355bb8a
+
+# general devops questions
+
+https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/
+
+
+## jenkins
+
+https://www.guru99.com/jenkins-interview-questions.html
+
+## jenkins , teamcity, bamboo, tavis, circle-ci, codeship 
+
+https://www.altexsoft.com/blog/engineering/comparison-of-most-popular-continuous-integration-tools-jenkins-teamcity-bamboo-travis-ci-and-more/
+
+## building docker images
+
+https://www.taniarascia.com/continuous-integration-pipeline-docker/
+
+Explain what each line does in the following dockerfile
+
+```
+# Pull from a base image
+FROM node:12-alpine
+
+# Copy the files from the current directory to app/
+COPY . app/
+
+# Use app/ as the working directory
+WORKDIR app/
+
+# Install dependencies (npm ci is similar to npm i, but for automated builds)
+RUN npm ci --only-production
+
+# Build production client side React application
+RUN npm run build
+
+# Listen on the specified port
+EXPOSE 5000
+
+# Set Node server
+ENTRYPOINT npm run start
+```
+
+## VERY BASIC
+
+Regarding your own computer in  front of you, can you look up information on what hardware you have.
+CPU, memory, storage, networking details as reported by your operating system (windows, macosx, linux, ...)
+How did you look the information up?
+What do they say?
+Discuss details on each: cpu, memory, storage, network...
+
+### Details of the CPU
+
+### Details of the memory
+
+### Details of the storage
+
+### Details of the network
+
+### How do these things matter when selecting a type of virtual machine in cloud compute services?
+
+# generic IT and sysadmin questions
+
+https://opensource.com/article/19/7/sysadmin-job-interview-questions
+
+https://www.thebalancecareers.com/information-technology-it-job-interview-questions-2061206
+
+https://www.wgu.edu/blog/common-it-job-interview-questions1911.html
+
+
+
+
+
+## Windoes IT admin
+
+https://www.cosmicnovo.com/2016/12/07/system-administrator-microsoft-interview/
+
+
+
+
+
+## kernel
+
+https://www.sanfoundry.com/linux-kernel-interview-questions/
+
+## system call
+https://www.globalguideline.com/interview_questions/Questions.php?sc=Unix_System_Calls
+
+
+## signals
+
+https://www.globalguideline.com/interview_questions/Questions.php?sc=Signal_Handling
+
+## filesystem
+
+https://narva.webgarden.com/menu/linux-interviw-questions/filesystem-management-1
+
+
+
+## Bash, zsh, csh, ...
+https://www.howtogeek.com/68563/htg-explains-what-are-the-differences-between-linux-shells/
+
+
+
+
+
 
 # Data Science
 
 https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
 
 https://ds-interviews.org/
+
+
+https://github.com/bobbae/gcp/wiki/Data-Science
 
 # Data Engineering
 
@@ -40,6 +401,7 @@ https://365datascience.com/career-advice/job-interview-tips/data-engineer-interv
 
 https://realpython.com/data-engineer-interview-questions-python/
 
+https://github.com/bobbae/gcp/wiki/Data-Engineering
 
 
 ## Composer & Apache Airflow questions
@@ -3509,6 +3871,15 @@ AWS Redshift, Snowflake, and Azure SQL Data Warehouse
 
 https://www.javatpoint.com/cloud-computing-interview-questions
 
+## general cloud related questions
+
+https://www.acte.in/google-cloud-interview-questions-and-answers
+
+https://www.javatpoint.com/cloud-computing-interview-questions
+
+https://www.javatpoint.com/cloud-service-models
+
+
 # Frontend
 
 https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html
@@ -3524,11 +3895,191 @@ https://www.softwaretestinghelp.com/networking-interview-questions-2/
 
 https://www.naukri.com/learning/articles/networking-interview-questions-answers/
 
+
+## General networking questions
+https://www.educba.com/computer-network-interview-questions/
+
+
+## TCP/IP
+https://allabouttesting.org/top-10-interview-questions-tcpudp/
+
+## Explain what happens when you ping 127.0.0.1
+
+## Explain detailed steps of what happens when you google something
+
+# network byte order
+
+https://pythontic.com/modules/socket/byteordering-coversion-functions
+
+Explain why network byte order matters.
+
+# Routing & switching
+
+https://www.guru99.com/ccna-interview-questions.html
+
+## IPv4 vs. IPv6
+https://www.techrepublic.com/blog/10-things/10-plus-answers-to-your-questions-about-ipv6/
+
+## DNS
+
+https://sites.google.com/site/vishnuprasadcb/Home/69-dns-interview-questions-answers
+
+
+## DHCP
+
+https://www.mytectra.com/interview-question/dhcp-interview-questions-and-answers
+
+## VPN
+
+http://networkerinterview.net/entries/vpn/vpn-interview-questions-and-answers
+
+## VLAN & VxLAN
+
+http://tcpipguru.com/vlan-interview-questions/
+
+
+# firewall
+
+https://allabouttesting.org/top-10-interview-questions-network-firewall/
+
+
+# ssh
+
+https://www.tecmint.com/ssh-interview-questions/
+
+
+# security, cryptography
+
+
+https://resources.infosecinstitute.com/top-30-cryptographer-interview-questions-and-answers-for-2019/#gref
+
+## IPSec
+
+http://tcpipguru.com/ipsec-interview-questions/
+
+## OpenVPN
+
+http://www.ezdevinfo.com/view/openvpn/7221.html
+
+
+## Compare PPTP, IPSec, OpenVPN, wireguard
+
+https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard
+
+https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard
+
+## Crypto agility
+
+https://paragonie.com/blog/2019/10/against-agility-in-cryptography-protocols
+
+## types of linux net devices
+
+https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/
+
+* vlan vs vxlan
+* macvlan: what is it? what is VEPA, hairpin mode of switches/routers?
+* difference between bridge and switch
+* ipvlan vs macvlan
+
+## OVN & OVS
+
+https://next.redhat.com/2017/08/15/understanding-the-open-virtual-network/#:~:text=OVN%20is%20a%20system%20to,the%20inner%20workings%20of%20OVN.
+
+# IPv4 and IPv6
+
+* difference in address format and sizes
+* differences in other areas: fragmentation, header checksum, SLAAC
+* why DHCPv6 is needed at all?
+
+
+
 # Storage
 
 https://www.vminstall.com/storage-engineer-skills/
 
 https://www.wisdomjobs.com/e-university/storage-area-network-interview-questions.html
+
+
+## storage general
+
+Not cloud specific.
+
+https://www.sanfoundry.com/das-nas-san-questions/
+
+http://san-jobs.blogspot.com/2012/01/fc-and-iscsi-san-interview-questions.html
+
+
+## cloud storage
+
+### What is it?
+
+https://cloud.google.com/storage/docs/introduction
+
+
+### buckets vs objects
+
+https://cloud.google.com/storage/docs/key-terms
+
+
+### when is HMAC key useful
+
+https://cloud.google.com/storage/docs/authentication/hmackeys
+
+
+### EBS
+
+## persistent disk (GCP)
+
+
+## nfs
+
+https://www.linuxtechi.com/nfs-interview-questions-answers/
+
+## s3
+
+https://www.onlineinterviewquestions.com/aws-s3-interview-questions/
+
+## RAID 
+
+https://mkskistudy.weebly.com/interview-questions-on-raid.html
+
+## LVM
+
+https://www.linvirtshell.com/2017/11/lvm-interview-questions-and-answers.html
+
+## ceph
+
+https://blog.resellerclub.com/what-is-ceph-storage/
+
+## ext2, 3, 4, xfs, btrfs, zfs, ...
+
+https://dev.to/rkeene/btrfs-zfs-and-more-22jg
+
+
+## iSCSI
+https://netappemcstorage.blogspot.com/2016/01/iscsi-questions-answers.html
+
+## netapp
+https://mindmajix.com/netapp-interview-questions
+
+## SAN
+http://www.tsmtutorials.com/2013/03/san-storage-interview-question-and.html
+
+## CIFS, smb
+https://www.linuxforfreshers.com/p/normal-0-false-false-false-en-us-x-none_7.html
+
+## object storage vs. key value
+
+https://en.wikipedia.org/wiki/Object_storage#Differences_between_key-value_and_object_stores
+
+## linux file systems
+
+https://www.sanfoundry.com/linux-questions-file-systems/
+
+
+## Types of Google cloud storage services
+
+https://cloud.google.com/storage/docs/storage-classes
 
 # Hardware
 
