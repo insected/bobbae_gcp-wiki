@@ -142,6 +142,7 @@ https://www.guru99.com/best-google-course.html
 
 [https://acloudguru.com/](https://acloudguru.com/)
 
+https://acloudguru.com/search?s=google
 
 #### Cloud Academy 
 
