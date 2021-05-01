@@ -17,7 +17,7 @@ https://www.devsecops.org/
 
 https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/
 
-[[https://tech.gsa.gov/assets/img/guides/DevSecOps.png]]
+<img src="https://tech.gsa.gov/assets/img/guides/DevSecOps.png" width="500">
 
 ### Security
 
@@ -200,7 +200,7 @@ A successful DevOps testing strategy is one aimed at building, testing and relea
 
 https://smartbear.com/blog/devops-testing-strategy-best-practices-tools/
 
-[[https://www.getzephyr.com/sites/default/files/content/insights/gz-devops-core-content-003.png]]
+<img src="https://www.getzephyr.com/sites/default/files/content/insights/gz-devops-core-content-003.png" width="500">
 
 ### Chaos Monkey
 
