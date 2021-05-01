@@ -1,4 +1,4 @@
-- [do you have and cloud certification ?   what kinds?](#do-you-have-and-cloud-certification-----what-kinds-)
+- [do you have any cloud certification ?   what kinds?](#do-you-have-any-cloud-certification-----what-kinds-)
 - [do you wish to study and pass certification tests?](#do-you-wish-to-study-and-pass-certification-tests-)
 - [have you applied and tested for certificates?  success or failures?](#have-you-applied-and-tested-for-certificates---success-or-failures-)
 - [virtualization](#virtualization)
@@ -16,7 +16,7 @@
 
 
 
-## do you have and cloud certification ?   what kinds?
+## do you have any cloud certification ?   what kinds?
 
 Discuss details
 
@@ -26,6 +26,7 @@ What kind of certificates are you interested in?
 Why?
 
 ## have you applied and tested for certificates?  success or failures?
+
 ```
 AWS, Azure, GCP?
 
@@ -51,11 +52,13 @@ https://www.javatpoint.com/virtualization-in-cloud-computing
 
 ## Hypervisors
 
-Types of hypervisors.
+List Types of hypervisors
 
 https://vapour-apps.com/what-is-hypervisor/
 
 ## aws, azure, gcp
+
+Compare Azure, aws & gcp
 
 https://www.javatpoint.com/aws-vs-azure-vs-google-cloud-platform
 
@@ -90,5 +93,6 @@ https://www.globalguideline.com/interview_questions/Questions.php?sc=Linux_OS_Ma
 https://www.guru99.com/unix-interview-questions.html
 
 ## RAM, cache, cache-line, registers, hard disk, flash disk, different parts of computer
+
 
 https://medium.com/software-design/why-software-developers-should-care-about-cpu-caches-8da04355bb8a
