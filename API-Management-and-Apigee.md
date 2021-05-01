@@ -12,7 +12,7 @@ API Gateway enables you to provide secure access to your backend services throug
 
 Apigee is a platform for developing and managing APIs. By fronting services with a proxy layer, Apigee provides an abstraction or facade for your backend service APIs and provides security, rate limiting, quotas, analytics, and more.
 
-<img src="https://cloud.google.com/apigee/docs/api-platform/images/ng-saas/apigee-in-the-middle.png" width="800">
+<img src="https://cloud.google.com/apigee/docs/api-platform/images/ng-saas/apigee-in-the-middle.png" width="600">
 https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee
 
 [https://www.youtube.com/watch?v=-okdOGsitm8](https://www.youtube.com/watch?v=-okdOGsitm8)
