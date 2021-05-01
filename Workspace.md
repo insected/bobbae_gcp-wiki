@@ -4,8 +4,6 @@
 
 AKA G-Suite
 
-https://www.goldyarora.com/g-suite-admin/
-
 https://support.google.com/a/?hl=en#topic=4388346
 
 ### Introduction
@@ -15,6 +13,17 @@ All Google Workspace plans provide a custom email for your business and includes
 [https://workspace.google.com/](https://workspace.google.com/)
 
 https://www.coursera.org/specializations/g-suite-administration
+
+
+### Admin
+
+https://www.goldyarora.com/g-suite-admin/
+
+https://support.google.com/a/topic/2413312
+
+#### Admin SDK
+
+https://developers.google.com/admin-sdk
 
 ### YouTube channel for Google Workspace
 
@@ -44,6 +53,12 @@ https://developers.google.com/admin-sdk
 
 [https://www.youtube.com/watch?v=ftxroBc7mi4](https://www.youtube.com/watch?v=ftxroBc7mi4)
 
+
+### AppSheet
+
+AppSheet allows users to  create data driven apps and automation without coding.
+
+https://github.com/bobbae/gcp/wiki/AppSheet
 
 ### Qwiklabs
 
@@ -144,9 +159,3 @@ This lab covers Google Cloud's [BigQuery](http://cloud.google.com/bigquery) API 
 In this lab, you build and deploy a few Cloud Functions connected to G Suite APIs and other Google Cloud Platform services.
 
 [Empower Your Gmail Inbox with Google Cloud Functions](https://www.qwiklabs.com/focuses/5166?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7482904)
-
-### AppSheet
-
-AppSheet allows users to  create data driven apps and automation without coding.
-
-https://github.com/bobbae/gcp/wiki/AppSheet
