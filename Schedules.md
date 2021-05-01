@@ -18,12 +18,12 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1   | [Bigtable](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-bigtable) |
-|    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
-|    3     |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc) |  
-|    4     |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)     |
-|    5    | [Datastore](https://github.com/bobbae/gcp/wiki/Data-Engineering#datastore) |
-|    6    |[Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
+|    1   | [Bigtable](https://github.com/bobbae/gcp/wiki/Bigtable) |
+|    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/BigQuery)      |
+|    3     |[Dataproc](https://github.com/bobbae/gcp/wiki/Dataproc) |  
+|    4     |[Dataflow](https://github.com/bobbae/gcp/wiki/Dataflow)     |
+|    5    | [Datastore](https://github.com/bobbae/gcp/wiki/Datastore) |
+|    6    |[Spanner](https://github.com/bobbae/gcp/wiki/Spanner) |
 |    7    |Group Project   |
 |    8    |Reviews    | 
 
