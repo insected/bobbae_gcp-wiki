@@ -8,11 +8,11 @@ API Gateway enables you to provide secure access to your backend services throug
 
 [Apigee](https://cloud.google.com/apigee) is a Full-LifeCycle API Management tool.
 
-[[https://cloud.google.com/apigee/docs/api-platform/images/ng-saas/ng-saas-arch.png]]
+<img src="https://cloud.google.com/apigee/docs/api-platform/images/ng-saas/ng-saas-arch.png" width="800">
 
 Apigee is a platform for developing and managing APIs. By fronting services with a proxy layer, Apigee provides an abstraction or facade for your backend service APIs and provides security, rate limiting, quotas, analytics, and more.
 
-[[https://cloud.google.com/apigee/docs/api-platform/images/ng-saas/apigee-in-the-middle.png]]
+<img src="https://cloud.google.com/apigee/docs/api-platform/images/ng-saas/apigee-in-the-middle.png" width="800">
 https://cloud.google.com/apigee/docs/api-platform/get-started/what-apigee
 
 [https://www.youtube.com/watch?v=-okdOGsitm8](https://www.youtube.com/watch?v=-okdOGsitm8)
@@ -38,7 +38,7 @@ Apigee Sense protects your APIs from unwanted request traffic, including attacks
 
 [https://docs.apigee.com/sense/what-apigee-sense](https://docs.apigee.com/sense/what-apigee-sense)
 
-[[https://cloud.google.com/apigee/docs/api-platform/images/new_edge_analytics.png]]
+<img src="https://cloud.google.com/apigee/docs/api-platform/images/new_edge_analytics.png" width="800">
 
 ### Apigee API Analytics
 
