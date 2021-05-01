@@ -78,7 +78,7 @@ A list of samples.
 
 [https://github.com/gregsramblings/google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words)
 
-<img src="https://static.packt-cdn.com/products/9781838647438/graphics/2622d854-c8a6-4189-99a7-c55e31bc5fae.png" width="500">
+<img src="https://static.packt-cdn.com/products/9781838647438/graphics/2622d854-c8a6-4189-99a7-c55e31bc5fae.png" width="400">
 
 
 ### Compare Platforms
