@@ -6,6 +6,8 @@
 
 GCP compute stack that contains, Google Compute Engine (GCE), Google Kubernetes Engine (formerly Container Engine) (GKE), Google App Engine (GAE) and Google Cloud Functions (GCF).
 
+https://youtu.be/KBeyQHoAcrQ
+
 [https://cloud.google.com/products/compute](https://cloud.google.com/products/compute)
 
 [https://cloud.google.com/hosting-options](https://cloud.google.com/hosting-options)
@@ -30,7 +32,7 @@ Compute Engine lets you create and run virtual machines on Google infrastructure
 
 [https://cloud.google.com/compute/docs/tutorials](https://cloud.google.com/compute/docs/tutorials)
 
-
+[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/138633884648c8406920f543d8dfce83fc0b78fff0a3130c68ec528ae5df84aa.svg]]
 #### VM
 
 A virtual machine (VM) is an [emulation](https://en.wikipedia.org/wiki/Emulator) of a computer system. Virtual machines are based on [computer architectures](https://en.wikipedia.org/wiki/Computer_architectures) and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination. A VM is a kind of [hypervisor](https://en.wikipedia.org/wiki/Hypervisor). The [distinction](https://en.wikipedia.org/wiki/Hypervisor#Classification) between Type-1 and Type-2 hypervisor can sometimes be not clear. For example, [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) may be categorized as both.  It is possible to run [nested VM](https://cloud.google.com/compute/docs/instances/enable-nested-virtualization-vm-instances) instances in GCP.
