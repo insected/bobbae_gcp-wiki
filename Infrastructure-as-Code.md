@@ -13,7 +13,9 @@ Provisioning compute resources has traditionally been hard to manage, not scalab
 [https://cloud.google.com/solutions/infrastructure-as-code](https://cloud.google.com/solutions/infrastructure-as-code)
 
 
+[[https://phoenixnap.com/blog/wp-content/uploads/2020/09/Explanation-of-how-IaC-works.jpg]]
 
+https://phoenixnap.com/blog/infrastructure-as-code-best-practices-tools
 
 # Cloud Foundation Toolkit
 
