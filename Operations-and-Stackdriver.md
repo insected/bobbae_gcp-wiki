@@ -1,27 +1,3 @@
-- [Operations](#operations)
-  * [Introduction](#introduction)
-  * [Cloud Logging](#cloud-logging)
-  * [Cloud Monitoring](#cloud-monitoring)
-    + [Cloud Monitoring Agents](#cloud-monitoring-agents)
-    + [Dashboards](#dashboards)
-    + [Metrics Explorer](#metrics-explorer)
-  * [Cloud Trace](#cloud-trace)
-  * [Cloud Debugger](#cloud-debugger)
-  * [Cloud Profiler](#cloud-profiler)
-  * [Error Reporting](#error-reporting)
-  * [Service Level Monitoring](#service-level-monitoring)
-  * [Qwiklabs](#qwiklabs)
-    + [Operations Suite](#operations-suite)
-    + [Cloud Monitoring](#cloud-monitoring-1)
-    + [Cloud Trace](#cloud-trace-1)
-    + [Cloud Logging](#cloud-logging-1)
-    + [Application Logs](#application-logs)
-    + [BigQuery Logging](#bigquery-logging)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
 
 
 
