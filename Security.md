@@ -1,17 +1,3 @@
-# Cryptography
-
-https://github.com/bobbae/gcp/wiki/Cryptography
-
-# IAM
-
-https://github.com/bobbae/gcp/wiki/IAM
-
-# Security and Identity
-
-Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
-
-Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.
-
 # Introduction
 
 GCP doesn't rely on any single technology to make it secure. GCP builds security through progressive layers that deliver true defense in depth.
@@ -32,6 +18,22 @@ https://services.google.com/fh/files/misc/google-cloud-security-foundations-guid
 ## 6 layers
 
 https://www.youtube.com/watch?v=vBdYVFgZ2ug
+
+# Cryptography
+
+https://github.com/bobbae/gcp/wiki/Cryptography
+
+# IAM
+
+https://github.com/bobbae/gcp/wiki/IAM
+
+# Security and Identity
+
+Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
+
+Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.
+
+
 
 ## Operational security
 
