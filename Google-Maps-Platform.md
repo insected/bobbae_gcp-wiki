@@ -1,10 +1,3 @@
-- [Google Maps Platform](#google-maps-platform)
-  * [Introduction](#introduction)
-  * [Solving business problems with Google Maps API](#solving-business-problems-with-google-maps-api)
-  * [Qwiklabs](#qwiklabs)
-    + [Google Maps](#google-maps)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
