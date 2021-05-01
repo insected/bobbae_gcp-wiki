@@ -2,6 +2,7 @@
 
 ## Hybrid and Multi-cloud
 
+[[https://cloud.google.com/anthos/images/anthos-arch.svg]]
 
 ### Anthos
 
