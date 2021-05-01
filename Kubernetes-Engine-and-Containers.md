@@ -10,6 +10,8 @@ https://github.com/bobbae/gcp/wiki/Namespaces
 
 # Kubernetes
 
+[[http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg]]
+
 https://kubernetes.io/
 
 https://www.youtube.com/watch?v=Rl5M1CzgEH4
