@@ -18,12 +18,12 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1    |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc) |    |
+|    1   | [Bigtable](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-bigtable) |
 |    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
-|    3    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)     |
-|    4   |[Cloud Composer](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-composer)  |
-|    5    |[BigTable](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-bigtable), [CloudSQL](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-sql), [Datastore](https://github.com/bobbae/gcp/wiki/Data-Engineering#datastore) |
-|    6    |[Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner), [Firestore](https://github.com/bobbae/gcp/wiki/Data-Engineering#firestore), [Firebase](https://github.com/bobbae/gcp/wiki/Data-Engineering#firebase)  |
+|    3     |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc) |  
+|    4     |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)     |
+|    5    | [Datastore](https://github.com/bobbae/gcp/wiki/Data-Engineering#datastore) |
+|    6    |[Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
 |    7    |Group Project   |
 |    8    |Reviews    | 
 
@@ -49,10 +49,10 @@
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
 |   1  | [Introduction to GCP](https://github.com/bobbae/gcp/wiki/Introduction) |
-|    2   |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc) | 
-|    3    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
-|    4    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)      |
-|    5   | [Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
-|    6    | [Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers#containers)       |
+|    2   |[Dataproc](https://github.com/bobbae/gcp/wiki/Dataproc) | 
+|    3    |[BigQuery](https://github.com/bobbae/gcp/wiki/BigQuery)      |
+|    4    |[DevOps](https://github.com/bobbae/gcp/wiki/DevOps)      |
+|    5   | [Spanner](https://github.com/bobbae/gcp/wiki/Spanner) |
+|    6    | [Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
