@@ -1,12 +1,18 @@
+# Cryptography
 
+https://github.com/bobbae/gcp/wiki/Cryptography
 
-## Security and Identity
+# IAM
+
+https://github.com/bobbae/gcp/wiki/IAM
+
+# Security and Identity
 
 Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
 
 Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.
 
-### Introduction
+# Introduction
 
 GCP doesn't rely on any single technology to make it secure. GCP builds security through progressive layers that deliver true defense in depth.
 
@@ -23,11 +29,11 @@ Google datacenter security has 6 layers.
 Security Foundations.
 https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
 
-#### 6 layers
+## 6 layers
 
 https://www.youtube.com/watch?v=vBdYVFgZ2ug
 
-#### Operational security
+## Operational security
 
 Google administrates a vulnerability management process that actively scans for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
 
@@ -43,17 +49,17 @@ https://cloud.google.com/security/overview/whitepaper#operational_security
 https://github.com/bobbae/gcp/wiki/IAM
 
 
-#### Roles
+## Roles
 
 [https://cloud.google.com/iam/docs/understanding-roles](https://cloud.google.com/iam/docs/understanding-roles)
 
 
-#### Service Accounts
+## Service Accounts
 
 
 https://github.com/bobbae/gcp/wiki/Service-Accounts
 
-### Cloud Identity API
+# Cloud Identity API
 
 Cloud Identity API is an API for provisioning and managing identity resources.
 
@@ -71,7 +77,7 @@ Identity Aware Proxy enables you to configure secure controlled access to your a
 [https://www.youtube.com/watch?v=XqMY-rPk3MY](https://www.youtube.com/watch?v=XqMY-rPk3MY)
 
 
-### Context-Aware Access
+# Context-Aware Access
 
 Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, Context-Aware Access is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
 
@@ -91,7 +97,7 @@ The philosophy behind a zero trust network assumes that there are attackers both
 
 https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/
 
-### SASE
+# SASE
 
 Secure access service edge, or SASE, is a cloud-based security model which bundles software-defined networking with network security functions and delivers them from a single service provider. 
 
@@ -99,7 +105,7 @@ SASE brings network security services and access control closer to the end user 
 
 https://www.cloudflare.com/learning/access-management/what-is-sase/
 
-### BeyondCorp Enterprise
+# BeyondCorp Enterprise
 
 A zero trust solution that enables secure access with integrated threat and data protection.
 
@@ -116,14 +122,14 @@ Manage the identities of customers, partners, and Things through Identity Platfo
 [https://www.youtube.com/watch?v=O_O5Hb1bJyw](https://www.youtube.com/watch?v=O_O5Hb1bJyw)
 
 
-### Managed Services for Microsoft Active Directory
+# Managed Services for Microsoft Active Directory
 
 Managed Service for Microsoft Active Directory is a highly available, hardened Google Cloud service running actual Microsoft AD that enables you to manage your cloud-based AD-dependent workloads, automate AD server maintenance and security configuration, and connect your on-premises AD domain to the cloud.
 
 [https://cloud.google.com/managed-microsoft-ad/docs](https://cloud.google.com/managed-microsoft-ad/docs)
 
 
-### Resource Manager
+# Resource Manager
 
 Google Cloud provides container resources such as organizations and projects that allow you to group and hierarchically organize other Google Cloud resources. This hierarchical organization helps you manage common aspects of your resources, such as access control and configuration settings. The Resource Manager API enables you to programmatically manage these container resources.
 
@@ -138,7 +144,7 @@ Folders are a powerful tool for administering GCP resources in Cloud Resource Ma
 [https://www.youtube.com/watch?v=0oJZhlgDbg8](https://www.youtube.com/watch?v=0oJZhlgDbg8)
 
 
-### Security Key enforcement
+# Security Key enforcement
 
 Service to enforce usage of security keys to prevent account takeovers.
 
@@ -160,7 +166,7 @@ Titan Security Keys are built with a hardware chip that includes firmware engine
 [https://cloud.google.com/titan-security-key](https://cloud.google.com/titan-security-key)
 
 
-### Access Transparency
+# Access Transparency
 
 Access Transparency provides you with logs that capture the actions Google personnel take when accessing your content. You might be familiar with [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit), which can help you answer questions about "who did what, where, and when?" in your Google Cloud projects. While Cloud Audit Logs provides these logs about the actions taken by members within your own organization, Access Transparency provides logs of the actions taken by Google personnel.
 
@@ -169,7 +175,7 @@ Access Transparency provides you with logs that capture the actions Google perso
 [https://www.youtube.com/watch?v=6BCuIBO0Mhg](https://www.youtube.com/watch?v=6BCuIBO0Mhg)
 
 
-### Binary Authorization
+# Binary Authorization
 
 Binary Authorization is a service on Google Cloud that provides software supply-chain security for applications that run in the cloud. Binary Authorization is a service on Google Cloud Platform (GCP) that provides software supply-chain security when deploying container-based applications. Binary Authorization extends Google Kubernetes Engine (GKE) and enforces security policies at deploy time. Binary Authorization works with container images from Container Registry or another container image registry. With Binary Authorization, you can automatically and digitally check each component of your software supply chain, ensuring the quality and integrity of your software before an application is deployed to your production environment.
 
@@ -180,14 +186,14 @@ Check out a demo of Binary Authorization, a Google Cloud Platform security featu
 [https://www.youtube.com/watch?v=mi50OJq6wd0](https://www.youtube.com/watch?v=mi50OJq6wd0)
 
 
-### Cloud Asset Inventory
+# Cloud Asset Inventory
 
 Cloud Asset Inventory provides inventory services based on a time series database. This database keeps a five-week history of Google Cloud [asset](https://cloud.google.com/asset-inventory/docs/overview#assets) metadata.
 
 [https://cloud.google.com/asset-inventory/docs/overview](https://cloud.google.com/asset-inventory/docs/overview)
 
 
-### Cloud Data Loss Prevention
+# Cloud Data Loss Prevention
 
 Welcome to Cloud Data Loss Prevention (DLP)! Cloud DLP provides access to a powerful sensitive data inspection, classification, and de-identification platform.
 
@@ -207,7 +213,7 @@ Cloud HSM is a cloud-hosted Hardware Security Module (HSM) service that allows y
 [https://www.youtube.com/watch?v=DB6UfKFo3ds](https://www.youtube.com/watch?v=DB6UfKFo3ds)
 
 
-### Security Command Center
+# Security Command Center
 
 Security Command Center is the canonical security and data risk database for Google Cloud. Security Command Center enables you to understand your security and data attack surface by providing asset inventory, discovery, search, and management.
 
@@ -227,14 +233,14 @@ VPC Service Controls enables you to establish security perimeters around sensiti
 [https://www.youtube.com/watch?v=EXwJFL24QzY](https://www.youtube.com/watch?v=EXwJFL24QzY)
 
 
-### Incident Response and Management
+# Incident Response and Management
 
 The incident response problem space can be divided into three categories: people, process, and data management. Users have long had access to solid people-management solutions (on-call rotation schedulers, etc.) and Google’s SRE book outlines their Incident Management at Google (IMAG) process. In this presentation, attendees will learn the benefits of data management and how Google Cloud Platform (GCP) is providing technology to leverage the idea and accelerate users’ investigations. Attendees will see live demos of Stackdriver Incident Response and Management (IRM) Insights and the supporting GCP technology that makes the innovation possible.
 
 [https://www.youtube.com/watch?v=VXqfbp_zE0c](https://www.youtube.com/watch?v=VXqfbp_zE0c)
 
 
-### Phishing Protection
+# Phishing Protection
 
 Phishing Protection is a phishing countermeasure platform that helps to detect phishing attacks against your users. The Phishing Protection Submission API also enables you to submit URLs suspected to be unsafe to [Safe Browsing](http://safebrowsing.google.com/). Any URLs that are confirmed to match the Safe Browsing Policies will be added to the Safe Browsing list, which is used by over three billion devices to show warnings when a user visits a known unsafe web resource. Common sources of these URLs are customer reports or internal phishing detection results.
 
@@ -256,7 +262,7 @@ Learn about how Google automatically encrypts your data and how to take control 
 [https://www.youtube.com/watch?v=38_dWxOHUN8](https://www.youtube.com/watch?v=38_dWxOHUN8)
 
 
-### reCAPTCHA Enterprise
+# reCAPTCHA Enterprise
 
 Google has been defending millions of sites with reCAPTCHA for almost a decade. reCAPTCHA Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. reCAPTCHA Enterprise offers enhanced detection with more granular scores, reason codes for risky events, and the ability to tune your site-specific model. reCAPTCHA Enterprise is a service that protects your site from spam and abuse. reCAPTCHA Enterprise builds on the existing reCAPTCHA API which uses advanced risk analysis techniques to tell humans and bots apart. reCAPTCHA Enterprise adds enhancements specifically designed to protect enterprise businesses, such as more granular scoring and returning reason codes with low scores to aid in analysis.
 
@@ -267,19 +273,19 @@ See how reCAPTCHA Enterprise can help protect your websites from fraud and abuse
 [https://www.youtube.com/watch?v=ic3Fj2B1LR4](https://www.youtube.com/watch?v=ic3Fj2B1LR4)
 
 
-### Web Risk
+# Web Risk
 
 Web Risk is a new enterprise security product that lets your client applications check URLs against Google's constantly updated lists of unsafe web resources.
 
 [https://cloud.google.com/web-risk/docs](https://cloud.google.com/web-risk/docs)
 
 
-### Identity & Security Topics
+# Identity & Security Topics
 
 [https://cloud.google.com/blog/products/identity-security](https://cloud.google.com/blog/products/identity-security)
 
 
-### Authentication, Identity, Security, AuthN, AuthZ
+# Authentication, Identity, Security, AuthN, AuthZ
 
 Access control for Google Cloud APIs encompasses authentication, authorization, and auditing. Authentication determines who you are, authorization determines what you can do, and auditing logs what you did.  For authorization, see [Identity and Access Management](https://cloud.google.com/iam/docs) (IAM). For auditing, see [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit).
 
@@ -291,19 +297,18 @@ A public key infrastructure (PKI) is a set of roles, policies, hardware, softwar
 
 [https://www.ssh.com/pki/](https://www.ssh.com/pki/)
 
-
-### OAthu, OpenID Connect, SAML
+# OAthu, OpenID Connect, SAML
 
 [https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/)
 
-### Data Governance 
+# Data Governance 
 
 
-#### BigQuery Column-level security
+## BigQuery Column-level security
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
-### Access Context Manager
+## Access Context Manager
 Access Context Manager allows Google Cloud organization administrators to define fine-grained, attribute based access control for projects and resources in Google Cloud.
 
 Administrators first define an access policy, which is an organization-wide container for access levels and service perimeters.
@@ -312,7 +317,7 @@ Access levels describe the necessary requirements for requests to be honored.
 
 https://cloud.google.com/access-context-manager/docs/overview
 
-### Binary Authorization
+## Binary Authorization
 
 Binary Authorization is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE). With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
 
@@ -320,14 +325,14 @@ https://cloud.google.com/binary-authorization/
 
 
 
-### Binary Authorization Attestations with Voucher
+## Binary Authorization Attestations with Voucher
 
 An attestor is a Google Cloud resource that Binary Authorization uses to verify the attestation at container image deploy time. Attestors contain the public key that corresponds to the private key used by a signer to sign the container image digest and create the attestation. The Binary Authorization enforcer uses the attestor at deploy time to limit which container images are allowed to be deployed to those with an accompanying, verifiable attestation created prior to deployment.
 
 [https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher](https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher)
 
 
-### StackRox
+# StackRox
 
 StackRox provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. Alternatively, use StackRox to enforce security policies for GKE with Cloud Run. 
 
@@ -336,10 +341,10 @@ StackRox provides full life cycle security across build, deploy, and runtime pha
 
 
 
-### Qwiklabs
+# Qwiklabs
 
 
-#### Cloud KMS
+## Cloud KMS
 
 In this lab you'll learn how to use some advanced features of Google Cloud Security and Privacy APIs, including:
 
@@ -354,14 +359,14 @@ You'll take abridged data from the Enron Corpus, encrypt it and load it into Clo
 [Getting Started with Cloud KMS](https://www.qwiklabs.com/focuses/1713?catalog_rank=%7B%22rank%22%3A20%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 
 
-#### Security & Identity
+## Security & Identity
 
 Security is an uncompromising feature of Google Cloud services, and Google Cloud has developed specific tools for ensuring safety and identity across your projects. In this fundamental-level quest, you will get hands-on practice with Google Cloud’s Identity and Access Management (IAM) service, which is the go-to for managing user and virtual machine accounts.
 
 [Security & Identity Fundamentals](https://www.qwiklabs.com/quests/40?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
 
 
-#### IAM
+## IAM
 
 In this fundamental-level quest, you will get hands-on practice with Google Cloud’s Identity and Access Management (IAM) service, which is the go-to for managing user and virtual machine accounts. You will get experience with network security by provisioning VPCs and VPNs, and learn what tools are available for security threat and data loss protections.
 
