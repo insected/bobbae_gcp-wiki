@@ -37,6 +37,7 @@ A virtual machine (VM) is an [emulation](https://en.wikipedia.org/wiki/Emulator)
 
 [https://www.youtube.com/watch?v=VtXNIy_noWg](https://www.youtube.com/watch?v=VtXNIy_noWg)
 
+[[https://miro.medium.com/max/1102/1*N-JpifdK3oKdaGeQBjJEUw.png]]
 
 ##### How to create a VM on GCP
 
