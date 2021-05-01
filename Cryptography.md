@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Secure_Shell_Protocol
 
 https://en.m.wikipedia.org/wiki/IPsec
 
-[[https://en.m.wikipedia.org/wiki/File:Ipsec-ah.svg]]
+
 
 
 In [Supported IKE ciphers](https://cloud.google.com/network-connectivity/docs/vpn/concepts/supported-ike-ciphers), you can find details about how Cloud VPN supports multiple [IKE](https://en.wikipedia.org/wiki/Internet_Key_Exchange) ciphers.  IKE is the protocol used to setup a security association (SA) in the [IPSec](https://en.wikipedia.org/wiki/IPsec).  IKE uses [X.509](https://en.wikipedia.org/wiki/X.509) for certificates.  X.509 is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of IDL for defining data structures that can be serialized and de-serialized.  IKE X.509 certificates
