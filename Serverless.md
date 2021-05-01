@@ -1,23 +1,3 @@
-- [Serverless](#serverless)
-  * [Introduction](#introduction)
-  * [Cloud Run](#cloud-run)
-    + [Quickstart: Build and Deploy](#quickstart--build-and-deploy)
-    + [Use Cases](#use-cases)
-  * [App Engine](#app-engine)
-  * [Cloud Functions](#cloud-functions)
-    + [Cloud Functions for .NET](#cloud-functions-for-net)
-  * [Knative](#knative)
-    + [Cloud Run](#cloud-run-1)
-  * [Workflows](#workflows)
-  * [Serverless Predictions at Scale](#serverless-predictions-at-scale)
-  * [Qwiklabs](#qwiklabs)
-    + [Deploy on Cloud Run](#deploy-on-cloud-run)
-    + [Web Applications on Cloud Run](#web-applications-on-cloud-run)
-    + [Monitoring Cloud Functions](#monitoring-cloud-functions)
-    + [Logging in Google Cloud](#logging-in-google-cloud)
-    + [Stackdriver Cloud Functions](#stackdriver-cloud-functions)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Serverless 
 
