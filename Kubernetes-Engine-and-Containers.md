@@ -1,29 +1,3 @@
-- [Containers](#containers)
-  * [Namespaces](#namespaces)
-- [Kubernetes](#kubernetes)
-  * [Kubernetes Control Plane](#kubernetes-control-plane)
-  * [API](#api)
-  * [Objects](#objects)
-  * [Google Kubernetes Engine (GKE)](#google-kubernetes-engine--gke-)
-  * [An introduction to Kubernetes](#an-introduction-to-kubernetes)
-  * [Kubectl](#kubectl)
-    + [Kustomize](#kustomize)
-  * [Kubernetes origin](#kubernetes-origin)
-  * [Kubernetes Examples](#kubernetes-examples)
-  * [Kubernetes Archictecture](#kubernetes-architecture)
-  * [Kubernetes Networking](#kubernetes-networking)
-  * [Kubernetes Storage](#kubernetes-storage)
-  * [Authentication and Authorization in Kubernetes](#authentication-and-authorization-in-kubernetes)
-  * [Ingress](#ingress)
-  * [Service Mesh](#service-mesh)
-  * [Cloud Build & Cloud Code with Containers](#cloud-build---cloud-code-with-containers)
-  * [K8s monitoring](#k8s-monitoring)
-  * [Configuration as Data](#configuration-as-data)
-  * [Binary Authorizations](#binary-authorizations)
-  * [Scaling](#scaling)
-  * [Qwiklabs](#qwiklabs)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # Containers
@@ -37,6 +11,8 @@ https://github.com/bobbae/gcp/wiki/Namespaces
 # Kubernetes
 
 https://kubernetes.io/
+
+https://www.youtube.com/watch?v=Rl5M1CzgEH4
 
 [[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/q1-1.png]]
 
