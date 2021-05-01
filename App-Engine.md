@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s
 
-[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/70eb42ad287e1b01bdc5edbbe73ce52ab972d14bcced1359c6172dbdb8627d31.svg]]
+<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/70eb42ad287e1b01bdc5edbbe73ce52ab972d14bcced1359c6172dbdb8627d31.svg" width="800">
 
 #### Introduction
 
