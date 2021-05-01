@@ -1,31 +1,18 @@
-- [do you have any cloud certification ?   what kinds?](#do-you-have-any-cloud-certification-----what-kinds-)
-- [do you wish to study and pass certification tests?](#do-you-wish-to-study-and-pass-certification-tests-)
-- [have you applied and tested for certificates?  success or failures?](#have-you-applied-and-tested-for-certificates---success-or-failures-)
-- [virtualization](#virtualization)
-- [Hypervisors](#hypervisors)
-- [aws, azure, gcp](#aws--azure--gcp)
-- [docker](#docker)
-- [kubernetes](#kubernetes)
-- [Linux](#linux)
-- [RAM, cache, cache-line, registers, hard disk, flash disk, different parts of computer](#ram--cache--cache-line--registers--hard-disk--flash-disk--different-parts-of-computer)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+# General Infrastructure 
 
 
 
 
-
-
-## do you have any cloud certification ?   what kinds?
+Do you have any cloud certification ?   What kinds?
 
 Discuss details
 
-## do you wish to study and pass certification tests?
+Do you wish to study and pass certification tests?
 
 What kind of certificates are you interested in?
 Why?
 
-## have you applied and tested for certificates?  success or failures?
+Have you applied and tested for certificates?  success or failures?
 
 ```
 AWS, Azure, GCP?
