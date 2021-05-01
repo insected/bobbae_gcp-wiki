@@ -19,6 +19,7 @@
 - [Math](#math)
 - [DevOps](#devops)
 - [Bioinformatics](#bioinformatics)
+- [Links](#links)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -27,17 +28,7 @@
 
 https://github.com/DopplerHQ/awesome-interview-questions
 
-https://github.com/yangshun/tech-interview-handbook
 
-https://github.com/Olshansk/interview
-
-https://www.geeksforgeeks.org/interview-preparation-for-software-developer
-
-https://www.qfles.com/interview-question/
-
-https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
-
-https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
 # Coding
 
@@ -312,6 +303,18 @@ http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Ans
 
 
 
+# Links
 
 
+https://github.com/yangshun/tech-interview-handbook
+
+https://github.com/Olshansk/interview
+
+https://www.geeksforgeeks.org/interview-preparation-for-software-developer
+
+https://www.qfles.com/interview-question/
+
+https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
+
+https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
