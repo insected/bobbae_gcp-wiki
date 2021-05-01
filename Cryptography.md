@@ -2,7 +2,7 @@ Cryptography is the practice and study of techniques for secure communication in
 
 A security protocol (cryptographic protocol or encryption protocol) is an abstract or concrete protocol that performs a security-related function and applies cryptographic methods, often as sequences of cryptographic primitives. A protocol describes how the algorithms should be used. A sufficiently detailed protocol includes details about data structures and representations, at which point it can be used to implement multiple, interoperable versions of a program.
 
-
+https://en.m.wikipedia.org/wiki/Cryptography
 
 # PKI
 
@@ -29,6 +29,23 @@ Transport Layer Security (TLS), and its now-deprecated predecessor, Secure Socke
 
 Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
 
+# cert manager 
+
+cert-manager is a native Kubernetes certificate management controller. It can help with issuing certificates from a variety of sources, such as Let’s Encrypt, HashiCorp Vault, Venafi, a simple signing key pair, or self signed.
+
+It will ensure certificates are valid and up to date, and attempt to renew certificates at a configured time before expiry.
+
+It is loosely based upon the work of kube-lego and has borrowed some wisdom from other similar projects such as kube-cert-manager.
+
+# letsEncrypt 
+
+To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). Let’s Encrypt is a CA. In order to get a certificate for your website’s domain from Let’s Encrypt, you have to demonstrate control over the domain. With Let’s Encrypt, you do this using software that uses the ACME protocol which typically runs on your web host.
+
+# ACME
+
+Automatic certificate management environment.
+
+https://tools.ietf.org/html/rfc8555
 
 
 
