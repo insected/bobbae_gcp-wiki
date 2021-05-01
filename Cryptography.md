@@ -69,5 +69,4 @@ X.509 is a standard defining the format of [public key certificates](https://en.
 
 ## Diffie-Hellman 
 
-IKE X.509 certificates
-are pre-shared or distributed using DNS or DNSSEC and a [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) key exchange is used to set up a shared session secret from which cryptographic keys are derived.
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Public_key_shared_secret.svg/500px-Public_key_shared_secret.svg.png]]
