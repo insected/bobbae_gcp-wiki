@@ -1,29 +1,4 @@
 
-- [Google Workspace](#google-workspace)
-  * [Introduction](#introduction)
-  * [YouTube channel for Google Workspace](#youtube-channel-for-google-workspace)
-  * [Google Workspace Learning Center](#google-workspace-learning-center)
-  * [G Suite tutorial for beginners](#g-suite-tutorial-for-beginners)
-  * [Introduction to G Suite Development tools](#introduction-to-g-suite-development-tools)
-  * [G Suite REST APIs](#g-suite-rest-apis)
-  * [Qwiklabs](#qwiklabs)
-    + [Essentials](#essentials)
-    + [Integrations](#integrations)
-    + [Certification Practice Lab](#certification-practice-lab)
-    + [Gmail](#gmail)
-    + [Shared Drives](#shared-drives)
-    + [Meet](#meet)
-    + [Google Drive](#google-drive)
-    + [Sites](#sites)
-    + [Sheets](#sheets)
-    + [Calendar](#calendar)
-    + [G Suite Administration](#g-suite-administration)
-    + [Hangouts Chat Bot](#hangouts-chat-bot)
-    + [Big Data Analysis](#big-data-analysis)
-    + [Google Cloud Functions](#google-cloud-functions)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Google Workspace
 
