@@ -5,13 +5,13 @@ A container is a standard unit of software that packages up code and all its dep
 
 [https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
 
-[[https://eglerean.github.io/reproducible-research/img/docker_architecture.svg]]
+<img src="https://eglerean.github.io/reproducible-research/img/docker_architecture.svg" width="800">
 
 ### Container Images
 
 A container image is a ready-to-run software package, containing everything needed to run an application: the code and any runtime it requires, application and system libraries, and default values for any essential settings.
 
-[[https://vitalflux.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-07-at-9.26.42-PM.png]]
+<img src="https://vitalflux.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-07-at-9.26.42-PM.png" width="800">
 
 By design, a container is immutable: you cannot change the code of a container that is already running. If you have a containerized application and want to make changes, you need to build a new image that includes the change, then recreate the container to start from the updated image.
 
@@ -32,7 +32,7 @@ Virtual machines and containers differ in several ways, but the primary differen
 https://github.com/bobbae/gcp/wiki/VM
 
 
-[[https://storage.googleapis.com/xebia-blog/1/2016/11/Container-vs-VMs.jpg]]
+<img src="https://storage.googleapis.com/xebia-blog/1/2016/11/Container-vs-VMs.jpg" width="700">
 
 https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms
 
