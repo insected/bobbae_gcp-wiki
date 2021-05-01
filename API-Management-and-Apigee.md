@@ -1,12 +1,3 @@
-- [API Management, Apigee](#api-management--apigee)
-  * [Apigee API Platform](#apigee-api-platform)
-  * [Apigee Developer Portal](#apigee-developer-portal)
-  * [Apigee Sense](#apigee-sense)
-  * [Apigee API Analytics](#apigee-api-analytics)
-  * [Apigee API Monetization](#apigee-api-monetization)
-  * [Apigee Hybrid](#apigee-hybrid)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## API Gateway
 [API Gateway](https://cloud.google.com/api-gateway) is  a fully-managed gateway for serverless workloads.
