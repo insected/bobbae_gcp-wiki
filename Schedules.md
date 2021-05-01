@@ -1,6 +1,6 @@
 # Schedules
 
-## Schedule 1: GCP Infrastructure General Overview Course
+## Schedule 1:  Infrastructure
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -14,7 +14,7 @@
 |    8    |Reviews    |
 
 
-## Schedule 2: GCP Data Engineering Course
+## Schedule 2:  Data Engineering 
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -30,7 +30,7 @@
 
 
 
-## Schedule 3: GCP Networking Course
+## Schedule 3: Networking 
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -44,7 +44,7 @@
 |    8    |Reviews    |
 
 
-## Schedule 4: DataOps Course
+## Schedule 4: DataOps 
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
