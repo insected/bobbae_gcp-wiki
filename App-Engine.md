@@ -1,21 +1,4 @@
-- [App Engine](#app-engine)
-  * [Introduction](#introduction)
-  * [AppEngine Standard](#appengine-standard)
-  * [Language Support](#language-support)
-    + [Go](#go)
-    + [Python](#python)
-    + [Node.js](#nodejs)
-  * [App Engine Flexible](#app-engine-flexible)
-  * [Qwiklabs](#qwiklabs)
-    + [App Engine with Python](#app-engine-with-python)
-    + [App Engine with Go](#app-engine-with-go)
-    + [App Engine with Java](#app-engine-with-java)
-    + [Baseline](#baseline)
-    + [Deploying](#deploying)
-    + [Python Flask on App Engine Flexible](#python-flask-on-app-engine-flexible)
-    + [Node.js Express](#nodejs-express)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ### App Engine
 
