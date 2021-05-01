@@ -35,7 +35,7 @@
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
 |    1    |[Network Options](https://github.com/bobbae/gcp/wiki/Networking#network-options)      |
-|    2    |[VPC](https://github.com/bobbae/gcp/wiki/Networking#introduction-1)      |
+|    2    |[VPC](https://github.com/bobbae/gcp/wiki/VPC)      |
 |    3    |[Router](https://github.com/bobbae/gcp/wiki/Networking#cloud-router)      |
 |    4   |[VPN](https://github.com/bobbae/gcp/wiki/Networking#cloud-vpn), [Interconnect](https://github.com/bobbae/gcp/wiki/Networking#cloud-interconnect)  |
 |    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
