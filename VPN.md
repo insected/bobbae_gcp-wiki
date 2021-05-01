@@ -6,7 +6,7 @@ Cloud VPN securely extends your [peer](https://cloud.google.com/network-connecti
 [https://cloud.google.com/network-connectivity/docs/vpn](https://cloud.google.com/network-connectivity/docs/vpn)
 
 
-[[https://cloud.google.com/network-connectivity/docs/vpn/images/ha-vpn-gcp-to-on-prem-2-a.svg]]
+<img src="https://cloud.google.com/network-connectivity/docs/vpn/images/ha-vpn-gcp-to-on-prem-2-a.svg" width="600">
 
 # Types of Cloud VPN
 
