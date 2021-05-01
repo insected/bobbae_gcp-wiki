@@ -7,3 +7,6 @@ By running your VMware workloads on Google Cloud, you reduce your operational bu
 
 
 [[https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_VMware_Engine_2.max-1300x1300.jpg]]
+
+
+https://cloud.google.com/blog/topics/hybrid-cloud/google-cloud-vmware-engine-is-generally-available
