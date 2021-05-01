@@ -7,11 +7,11 @@ Machine learning is an application of artificial intelligence (AI) that provides
 
 [https://www.youtube.com/watch?v=HcqpanDadyQ](https://www.youtube.com/watch?v=HcqpanDadyQ)
 
-## Machine Learning Online Comic
+
 First read this comicbook.
 https://cloud.google.com/products/ai/ml-comic-1
 
-## Machine Learning crash course
+
 Then head over to this tutorial.
 https://developers.google.com/machine-learning/crash-course/
 
