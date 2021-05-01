@@ -1,50 +1,10 @@
-- [Infrastructure as Code](#infrastructure-as-code)
-  * [Introduction](#introduction)
-    + [Google Cloud Deployment Manager](#google-cloud-deployment-manager)
-    + [Cloud Deployment Quickstart](#cloud-deployment-quickstart)
-    + [Deployments](#deployments)
-    + [Manifests](#manifests)
-    + [Cloud Deployment Manager Deploying Network Load Balanced Logbook](#cloud-deployment-manager-deploying-network-load-balanced-logbook)
-    + [Shard VPC with Cloud Deployment Manager](#shard-vpc-with-cloud-deployment-manager)
-    + [Solutions that use Cloud Deployment Manager](#solutions-that-use-cloud-deployment-manager)
-  * [More examples](#more-examples)
-  * [Cloud Foundation Toolkit](#cloud-foundation-toolkit)
-    + [Deployment manager quickstart](#deployment-manager-quickstart)
-    + [Using terraform with Google Cloud](#using-terraform-with-google-cloud)
-    + [Cloud Foundation Toolkit templates](#cloud-foundation-toolkit-templates)
-    + [Cloud Foundation terraform templates](#cloud-foundation-terraform-templates)
-  * [Terraform](#terraform)
-    + [Introduction](#introduction-1)
-    + [Getting Started on GCP with terraform](#getting-started-on-gcp-with-terraform)
-    + [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](#managing-infrastructure-as-code-with-terraform--cloud-build--and-gitops)
-    + [Hashicorp  terraform on GCP tutorials](#hashicorp--terraform-on-gcp-tutorials)
-    + [Terraform Modules for GCP](#terraform-modules-for-gcp)
-    + [Manage GCP projects with terraform](#manage-gcp-projects-with-terraform)
-    + [Terraform Google modules Examples](#terraform-google-modules-examples)
-    + [Terraformer](#terraformer)
-    + [A list of URLs related to terraform](#a-list-of-urls-related-to-terraform)
-  * [Other IAC Tools](#other-iac-tools)
-    + [Pulumi](#pulumi)
-    + [Ansible](#ansible)
-    + [AWS Cloud formation](#aws-cloud-formation)
-    + [Openstack Heat](#openstack-heat)
-    + [TOSCA](#tosca)
-    + [Cloudify](#cloudify)
-    + [Comparison of terraform and cloud formation and heat, etc.](#comparison-of-terraform-and-cloud-formation-and-heat--etc)
-    + [Qwiklabs](#qwiklabs)
-    + [Terraform Quest](#terraform-quest)
-    + [Terraform](#terraform-1)
-    + [VM Migration](#vm-migration)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-# Infrastructure as Code
 
 Infrastructure as Code (IAC) refers to the process of managing and provisioning computer data centers. It’s a strategy for managing data center servers, networking infrastructure, and storage. Its purpose is to simplify large-scale management and configuration dramatically.
 
 IAC allows provisioning and managing of computer data centers via machine-readable definition files without having to configure tools or physical hardware. In simpler terms, IAC treats manual configurations, build guides, run books, and related procedures as code. Read by software, the code that maintains the state of the infrastructure.
 
-## Introduction
+# Introduction
 
 Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? You can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google Cloud Deployment Manager.
 
@@ -53,24 +13,45 @@ Provisioning compute resources has traditionally been hard to manage, not scalab
 [https://cloud.google.com/solutions/infrastructure-as-code](https://cloud.google.com/solutions/infrastructure-as-code)
 
 
-### Google Cloud Deployment Manager
+
+
+# Cloud Foundation Toolkit
+
+The Cloud Foundation Toolkit provides a series of reference templates for Deployment Manager and Terraform which reflect Google Cloud best practices. These templates can be used off-the-shelf to quickly build a repeatable enterprise-ready foundation in Google Cloud. This frees you to focus on deploying your applications on this baseline secure environment. And with infrastructure as code, you can easily update the foundation as your needs change.
+
+[https://cloud.google.com/foundation-toolkit/](https://cloud.google.com/foundation-toolkit/)
+
+
+The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) (henceforth, CFT) includes the following parts:
+
+- A comprehensive set of production-ready resource templates that follow
+  Google's best practices, which can be used with the CFT or the gcloud
+  utility 
+- A command-line interface (henceforth, CLI) that deploys resources defined in
+  single or multiple CFT-compliant config files.
+- A growing set of sample [Config
+  Connector](https://cloud.google.com/config-connector/docs/overview)
+  YAML configurations
+- a sample pipeline that enables running CFT deployment operations from Jenkins.
+
+## Google Cloud Deployment Manager
 
 Google Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using yaml. You can also use Python or Jinja2 templates to parameterize the configuration and allow reuse of common deployment paradigms such as a load balanced, auto-scaled instance group.
 
 [https://www.youtube.com/watch?v=z-caqPtEw58](https://www.youtube.com/watch?v=z-caqPtEw58)
 
 
-### Cloud Deployment Quickstart
+### Cloud Deployment Manager Quickstart
 
 [https://cloud.google.com/deployment-manager/docs/quickstart](https://cloud.google.com/deployment-manager/docs/quickstart)
 
 
-### Deployments
+### Cloud Deployment Manager Deployments
 
 [https://cloud.google.com/deployment-manager/docs/deployments](https://cloud.google.com/deployment-manager/docs/deployments)
 
 
-### Manifests
+### Cloud Deployment Manager Manifests
 
 [https://cloud.google.com/deployment-manager/docs/deployments/viewing-manifest](https://cloud.google.com/deployment-manager/docs/deployments/viewing-manifest)
 
@@ -90,37 +71,13 @@ Google Cloud Deployment Manager allows you to specify all the resources needed f
 [https://cloud.google.com/docs/tutorials?sortBy=relevance#%22deployment%20manager%22](https://cloud.google.com/docs/tutorials?sortBy=relevance#%22deployment%20manager%22)
 
 
-## More examples
+### Cloud Deployment Manager Examples
 
 [https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/examples/v2](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/examples/v2)
 
 
-## Cloud Foundation Toolkit
-
-The Cloud Foundation Toolkit provides a series of reference templates for Deployment Manager and Terraform which reflect Google Cloud best practices. These templates can be used off-the-shelf to quickly build a repeatable enterprise-ready foundation in Google Cloud. This frees you to focus on deploying your applications on this baseline secure environment. And with infrastructure as code, you can easily update the foundation as your needs change.
-
-[https://cloud.google.com/foundation-toolkit/](https://cloud.google.com/foundation-toolkit/)
 
 
-The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) (henceforth, CFT) includes the following parts:
-
-- A comprehensive set of production-ready resource templates that follow
-  Google's best practices, which can be used with the CFT or the gcloud
-  utility 
-- A command-line interface (henceforth, CLI) that deploys resources defined in
-  single or multiple CFT-compliant config files.
-- A growing set of sample [Config
-  Connector](https://cloud.google.com/config-connector/docs/overview)
-  YAML configurations
-- a sample pipeline that enables running CFT deployment operations from Jenkins.
-
-### Deployment manager quickstart
-
-https://cloud.google.com/deployment-manager/docs/quickstart
-
-### Using terraform with Google Cloud
-
-https://cloud.google.com/docs/terraform
 
 ### Cloud Foundation Toolkit templates
 
@@ -148,6 +105,9 @@ Google Cloud Deployment Manager allows you to specify all the resources needed f
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
+### Using terraform with Google Cloud
+
+https://cloud.google.com/docs/terraform
 
 ### Getting Started on GCP with terraform
 
@@ -197,7 +157,7 @@ Reverse of terraform.
 
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 
-## Other IAC Tools
+# Other IAC Tools
 
 ### Pulumi
 
@@ -244,22 +204,22 @@ https://www.terraform.io/intro/vs/cloudformation.html
 
 
 
-### Qwiklabs
+# Qwiklabs
 
 
-### Terraform Quest
+## Terraform Quest
 
 [https://www.qwiklabs.com/quests/44](https://www.qwiklabs.com/quests/44)
 
 
-### Terraform
+## Terraform Quest
 
 In this Quest, the experienced user of Google Cloud will learn how to describe and launch cloud resources with Terraform, an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. In these nine hands-on labs, you will work with example templates and understand how to launch a range of configurations, from simple servers, through full load-balanced applications.
 
 [Managing Cloud Infrastructure with Terraform](https://www.qwiklabs.com/quests/44?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
 
-### VM Migration
+## VM Migration
 
 Google Cloud’s four step structured Cloud Migration Path Methodology provides a defined and repeatable path for users to follow when migrating and modernizing Virtual Machines. In this quest, you will get hands-on practice with Google’s current solution set for VM assessment, planning, migration, and modernization. You will start by analyzing your lab environment and building assessment reports with CloudPhysics and StratoZone, then build a landing zone within Google Cloud leveraging Terraform’s infrastructure-as-code templates, next you will manually transform a two-tier application into a cloud-native workload running on Kubernetes, and finally, transform a VM workload into Kubernetes with Migrate for Anthos and migrate a VM between cloud environments.
 
