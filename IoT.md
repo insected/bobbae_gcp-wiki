@@ -1,11 +1,3 @@
-- [IoT](#iot)
-  * [Introduction](#introduction)
-  * [IoT Core](#iot-core)
-  * [Qwiklabs](#qwiklabs)
-    + [IoT in GCP](#iot-in-gcp)
-    + [Cloud Logging IoT](#cloud-logging-iot)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## IoT
