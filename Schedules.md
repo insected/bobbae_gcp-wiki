@@ -34,12 +34,12 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1    |[Network Options](https://github.com/bobbae/gcp/wiki/Networking#network-options)      |
+|    1    |[Network Options](https://github.com/bobbae/gcp/wiki/Network-Options)      |
 |    2    |[VPC](https://github.com/bobbae/gcp/wiki/VPC)      |
-|    3    |[Router](https://github.com/bobbae/gcp/wiki/Networking#cloud-router)      |
-|    4   |[VPN](https://github.com/bobbae/gcp/wiki/Networking#cloud-vpn), [Interconnect](https://github.com/bobbae/gcp/wiki/Networking#cloud-interconnect)  |
+|    3    |[Router](https://github.com/bobbae/gcp/wiki/Router)      |
+|    4   |[VPN](https://github.com/bobbae/gcp/wiki/VPN)  |
 |    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
-|    6    |[DNS](https://github.com/bobbae/gcp/wiki/Networking#cloud-dns), [CDN](https://github.com/bobbae/gcp/wiki/Networking#cloud-cdn), [NAT](https://github.com/bobbae/gcp/wiki/Networking#cloud-nat), [LB](https://github.com/bobbae/gcp/wiki/Networking#cloud-load-balancing)   |
+|    6    |[Interconnect](https://github.com/bobbae/gcp/wiki/Interconnect)   |
 |    7    |Group Project   |
 |    8    |Reviews    |
 
