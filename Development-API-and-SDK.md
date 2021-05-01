@@ -1,24 +1,3 @@
-- [Development, API & SDK](#development--api---sdk)
-  * [Introduction](#introduction)
-  * [Cloud Endpoints](#cloud-endpoints)
-  * [Cloud API](#cloud-api)
-  * [Artifact Registry](#artifact-registry)
-  * [Container Registry](#container-registry)
-  * [Cloud Source Repositories](#cloud-source-repositories)
-  * [Cloud Deployment Manager](#cloud-deployment-manager)
-    + [Introduction](#introduction-1)
-    + [Tutorial](#tutorial)
-  * [Codelabs](#codelabs)
-  * [Colab](#colab)
-  * [Cloud Scheduler](#cloud-scheduler)
-  * [Cloud Tasks](#cloud-tasks)
-  * [Cloud Code](#cloud-code)
-  * [Cloud Build](#cloud-build)
-  * [Qwiklabs](#qwiklabs)
-    + [Exploring APIs](#exploring-apis)
-    + [App Engine API Explorer](#app-engine-api-explorer)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
