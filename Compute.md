@@ -10,6 +10,9 @@ GCP compute stack that contains, Google Compute Engine (GCE), Google Kubernetes 
 
 [https://cloud.google.com/hosting-options](https://cloud.google.com/hosting-options)
 
+[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/2d5d0c50a9b20c435977d09ce20c29e6e926f626f198c5a14670f43924a74402.svg]]
+
+
 #### From Data Center Professional Point of view
 
 Typically, data centers use server virtualization, in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These virtual machines are created, provisioned, and managed through a software suite such as VMware vSphere or XenCenter.
