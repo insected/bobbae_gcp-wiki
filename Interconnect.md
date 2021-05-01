@@ -22,7 +22,7 @@ https://docs.packetfabric.com/cloud/google/overview/
 # Dedicated Interconnect
 
 
-[[https://docs.packetfabric.com/cloud/google/images/google_overview_dedicated.svg]]
+<img src="https://docs.packetfabric.com/cloud/google/images/google_overview_dedicated.svg" width="600">
 
 Dedicated Interconnect provides direct physical connections between your on-premises network and Google's network. Dedicated Interconnect enables you to transfer large amounts of data between networks, which can be more cost effective than purchasing additional bandwidth over the public Internet.
 
@@ -35,7 +35,7 @@ Dedicated Interconnect provides direct physical connections between your on-prem
 
 # Partner Interconnect
 
-[[https://docs.packetfabric.com/cloud/google/images/google_overview_hosted.svg]]
+<img src="https://docs.packetfabric.com/cloud/google/images/google_overview_hosted.svg" width="600">
 
 Partner Interconnect provides connectivity between your on-premises network and your VPC network through a supported [service provider](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/service-providers). A Partner Interconnect connection is useful if your data center is in a physical location that can't reach a Dedicated Interconnect colocation facility or if your data needs don't warrant an entire 10 Gbps connection.
 
