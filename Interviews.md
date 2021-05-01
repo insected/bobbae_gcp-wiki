@@ -25,6 +25,10 @@
 
 # General
 
+https://github.com/yangshun/tech-interview-handbook
+
+https://github.com/Olshansk/interview
+
 https://www.geeksforgeeks.org/interview-preparation-for-software-developer
 
 https://www.qfles.com/interview-question/
