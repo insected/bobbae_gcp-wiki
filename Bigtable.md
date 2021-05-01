@@ -17,7 +17,8 @@ Bigtable development began in 2004 and is now used by a number of Google applica
 https://www.youtube.com/watch?v=Lq9uDOM4whI
 
 ## Architecture
-[[https://cloud.google.com/bigtable/img/bigtable-architecture.svg]]
+
+<img src="https://cloud.google.com/bigtable/img/bigtable-architecture.svg" width="600">
 
 Bigtable is one of the prototypical examples of a wide column store. It maps two arbitrary string values (row key and column key) and timestamp (hence three-dimensional mapping) into an associated arbitrary byte array. It is not a relational database and can be better defined as a sparse, distributed multi-dimensional sorted map.
 
