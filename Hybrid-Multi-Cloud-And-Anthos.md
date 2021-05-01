@@ -1,19 +1,4 @@
 
-- [Hybrid and Multi-cloud](#hybrid-and-multi-cloud)
-  * [Anthos](#anthos)
-  * [Anthos Deployments](#anthos-deployments)
-  * [Anthos Config Management](#anthos-config-management)
-  * [Cloud Run for Anthos](#cloud-run-for-anthos)
-  * [Migrate for Anthos](#migrate-for-anthos)
-  * [Google Cloud Marketplace for Anthos](#google-cloud-marketplace-for-anthos)
-  * [Anthos on AWS](#anthos-on-aws)
-  * [Connect](#connect)
-  * [Qwiklabs](#qwiklabs)
-    + [Migrate for Anthos](#migrate-for-anthos-1)
-    + [Anthos Service Mesh](#anthos-service-mesh)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Hybrid and Multi-cloud
 
