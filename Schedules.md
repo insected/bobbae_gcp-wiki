@@ -44,7 +44,7 @@
 |    8    |Reviews    |
 
 
-## Schedule 4: Data Engineering and Kubernetes Combination Course
+## Schedule 4: DataOps Course
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
