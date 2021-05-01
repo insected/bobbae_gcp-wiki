@@ -7,7 +7,7 @@
 |    1    |[Compute](https://github.com/bobbae/gcp/wiki/Compute)      |
 |    2    |[Storage](https://github.com/bobbae/gcp/wiki/Storage)      |
 |    3    |[Networking](https://github.com/bobbae/gcp/wiki/Networking)      |
-|    4   |[Migration](https://github.com/bobbae/gcp/wiki/Migration), [GKE](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)  |
+|    4   |[Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)  |
 |    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
 |    6    |[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)   |
 |    7    |Group Project   |
