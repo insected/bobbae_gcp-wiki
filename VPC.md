@@ -6,7 +6,7 @@ Google Cloud Virtual Private Cloud (VPC) provides networking functionality to Co
 
 [https://cloud.google.com/vpc/docs](https://cloud.google.com/vpc/docs)
 
-[[https://cloud.google.com/vpc/images/vpc-overview-example.svg]]
+<img src="https://cloud.google.com/vpc/images/vpc-overview-example.svg" width="600">
 
 # Migrate from on-prem to cloud using VPC
 
