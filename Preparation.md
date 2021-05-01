@@ -1,24 +1,3 @@
-- [Preparation](#preparation)
-  * [Qwiklabs](#qwiklabs)
-    + [Qwiklabs Videos](#qwiklabs-videos)
-  * [Register  Now at the Partner Advantage site](#register--now-at-the-partner-advantage-site)
-  * [Codelabs](#codelabs)
-  * [Git](#git)
-  * [Certifications](#certifications)
-    + [Register Now](#register-now)
-    + [Test Resources](#test-resources)
-      - [Sample questions](#sample-questions)
-      - [Case Studies](#case-studies)
-      - [Additional information](#additional-information)
-      - [More Practice tests with discussions](#more-practice-tests-with-discussions)
-  * [External Resources](#external-resources)
-    + [Coursera](#coursera)
-    + [A Cloud Guru](#a-cloud-guru)
-    + [Cloud Academy](#cloud-academy)
-    + [A list of external resources](#a-list-of-external-resources)
-- [Syllabus](#syllabus)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Preparation
