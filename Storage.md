@@ -1,17 +1,3 @@
-- [Storage](#storage)
-  * [Introduction](#introduction)
-    + [GFS, Colossus](#gfs--colossus)
-  * [Storage options](#storage-options)
-    + [Disk Options](#disk-options)
-    + [Storage products](#storage-products)
-  * [Cloud Storage](#cloud-storage)
-    + [Storage Classes](#storage-classes)
-  * [Persistent Disk](#persistent-disk)
-  * [Filestore](#filestore)
-    + [Backups](#backups)
-  * [Cloud Storage Connector](#cloud-storage-connector)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Storage
 
