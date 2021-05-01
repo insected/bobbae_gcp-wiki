@@ -82,4 +82,7 @@ https://www.guru99.com/unix-interview-questions.html
 ## RAM, cache, cache-line, registers, hard disk, flash disk, different parts of computer
 
 
+https://www.wisdomjobs.com/e-university/computer-hardware-interview-questions.html
+
+
 https://medium.com/software-design/why-software-developers-should-care-about-cpu-caches-8da04355bb8a
