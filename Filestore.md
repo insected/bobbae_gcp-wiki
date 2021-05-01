@@ -1,6 +1,6 @@
 Filestore instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) file servers on Google Cloud for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters.
 
-[[http://4.bp.blogspot.com/-na_N8omEha8/UwNBPyhpJqI/AAAAAAAABQc/e2pMQ__WLQo/s1600/nfs+architecture.jpg]]
+<img src="http://4.bp.blogspot.com/-na_N8omEha8/UwNBPyhpJqI/AAAAAAAABQc/e2pMQ__WLQo/s1600/nfs+architecture.jpg" width="600">
 
 https://cloud.google.com/netapp
 
@@ -10,7 +10,7 @@ https://cloud.netapp.com/blog/gcp-cvo-blg-high-availability-architecture-on-gcp-
 
 http://examcramnotes.blogspot.com/2019/08/cloud-volumes-ontap-fundamentals.html
 
-[[https://cloud.netapp.com/hs-fs/hubfs/GCP%20HA.jpg?width=1500&name=GCP%20HA.jpg]]
+<img src="https://cloud.netapp.com/hs-fs/hubfs/GCP%20HA.jpg?width=1500&name=GCP%20HA.jpg" width="600">
 
 
 https://youtu.be/HBAbnYg-qq4
