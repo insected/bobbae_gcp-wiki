@@ -10,13 +10,13 @@ https://github.com/bobbae/gcp/wiki/Namespaces
 
 # Kubernetes
 
-[[http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg]]
+<img src="http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg" width="700">
 
 https://kubernetes.io/
 
 https://www.youtube.com/watch?v=Rl5M1CzgEH4
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/q1-1.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/q1-1.png" width="300">
 
 Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 
@@ -26,15 +26,19 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 https://www.youtube.com/watch?v=X48VuDVv0do
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Application.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Application.png" width="700">
 
+Kubernetes API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
 
+<img src="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" width="700">
 
-[[https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg]]
+## GKE
+
+https://github.com/bobbae/gcp/wiki/GKE
 
 ## Kubernetes Control Plane
 
-[[https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png]]
+<img src="https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png" width="600">
 
 https://kubernetes.io/docs/concepts/overview/components/
 
@@ -55,7 +59,7 @@ https://github.com/bobbae/gcp/wiki/GKE
 
 ## An introduction to Kubernetes
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/5-1.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/5-1.png" width="700">
 
 [Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.
 
@@ -63,7 +67,8 @@ https://github.com/bobbae/gcp/wiki/GKE
 
 [https://www.youtube.com/watch?v=Krpb44XR0bk](https://www.youtube.com/watch?v=Krpb44XR0bk)
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Containers-1.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Containers-1.png" width="600">
+
 ## Kubectl
 
 The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/), allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs. For a complete list of kubectl operations, see [Overview of kubectl](https://kubernetes.io/docs/reference/kubectl/overview/).
@@ -73,7 +78,7 @@ The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference
 
 ### Kustomize
 
-[[https://miro.medium.com/max/1575/1*qZV6wiQr4yet746qAl-G7A.png]]
+<img src="https://miro.medium.com/max/1575/1*qZV6wiQr4yet746qAl-G7A.png" width="600">
 
 Kustomize introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into kubectl as apply -k.
 
@@ -97,13 +102,13 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-Examples
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Architecture
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png" width="700">
 
 ## Kubernetes Networking
 
 https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
 ## Kubernetes Storage
 
@@ -137,7 +142,7 @@ https://github.com/bobbae/gcp/wiki/Cloud-Build
 ## K8s monitoring
 https://github.com/bobbae/gcp/wiki/Kubernetes-Monitoring
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/29.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/29.png" width="600">
 
 ## Configuration as Data
 
@@ -161,15 +166,15 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-scaling
 
 Multiple Kubernetes clusters can be managed as a single cluster with the help of federated clusters. So, you can create multiple Kubernetes clusters within a data center/cloud and use federation to control/manage them all at one place.
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/30.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/30.png" width="600">
 
 https://github.com/kubernetes-sigs/kubefed
 
-[[https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png]]
+<img src="https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png" width="600">
 
 ## Workflow
 
-[[https://miro.medium.com/max/1575/1*HFUAAjfQo4ZeJVKPSObgZg.png]]
+<img src="https://miro.medium.com/max/1575/1*HFUAAjfQo4ZeJVKPSObgZg.png" width="600">
 
 https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff
 
