@@ -55,13 +55,13 @@ set of replicas is collectively a Paxos group. At every replica that is a leader
 
 Spanner is global database system, per region we’ll get minimum of 3 shards. Each shard will be in each zone. In Spanner terms a shard is called as Split. If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. And the Compute and Storage layers are de-coupled. Paxos algorithm is used to maintain one leader at a time and rest of the nodes will be the followers.
 
-[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg]]
+<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg" width="600">
 
 Based on the partitions, we’ll have more Splits(shards) in the storage layer. Each shard will be replicated to the other Zones. For eg: if you have a shard called S1 on Zone A, it’ll be replicated to Zone B and C. The replication works based on Leader follower method. So the Paxos will help to maintain the quorum and will help to select a new Leader during the failure. If you are writing something on this Split, the Spanner APIs are aware of the Leaders. So the write directly goes to the Zone where it has the Leader Split. Each Split has its own leader zone.
 
 
 
-[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner2.jpg]]
+<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner2.jpg" width="600">
 
 
 
@@ -81,11 +81,11 @@ Cloud Spanner provides clients with the strictest concurrency-control guarantees
 
 Cloud Spanner provides external consistency, which is a stronger property than linearizability, because linearizability does not say anything about the behavior of transactions.
 
-[[https://accelazh.github.io/images/ddia-linearizability.png]]
+<img src="https://accelazh.github.io/images/ddia-linearizability.png" width="700">
 
 Linearizability is a property of concurrent objects that support atomic read and write operations. In a database, an "object" would typically be a single row or even a single cell. External consistency is a property of transaction-processing systems, where clients dynamically synthesize transactions that contain multiple read and write operations on arbitrary objects. Linearizability can be viewed as a special case of external consistency, where a transaction can only contain a single read or write operation on a single object.
 
-[[https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy]]
+<img src="https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy" width="600">
 
 Cloud Spanner provides external consistency, which is a stricter property than serializability. A transaction-processing system is serializable if it executes transactions in a manner that is indistinguishable from a system in which the transactions are executed serially. Cloud Spanner also guarantees that the serial order is consistent with the order in which the transactions can be observed to commit.
 
@@ -99,13 +99,13 @@ https://www.youtube.com/watch?v=QdkS6ZjeR7Q
 
 Spanner is very keen in syncronizing and maintains the same time across all the nodes over the global datacenters. Their hardwares are built with Atomic Clocks to maintain the time. If you take a look at the Server Hardware Rack, the Server is having 4 time servers. 2 Servers are connected with GPS and the remaining 2 are connect with Automic Oscillators. There are 2 different brands of Oscillators for better failover processing. The GPS time servers will sync with Oscillators to synchronize the time across the global datacenters with every 30sec interval.
 
-[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner3.jpg]]
+<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner3.jpg" width="600">
 
 TrueTime is a highly available, distributed clock that is provided to applications on all Google servers. TrueTime enables applications to generate monotonically increasing timestamps: an application can compute a timestamp T that is guaranteed to be greater than any timestamp T' if T' finished being generated before T started being generated. This guarantee holds across all servers and all timestamps.
 
 [https://cloud.google.com/spanner/docs/true-time-external-consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
 
-[[https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner9.jpg]]
+<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner9.jpg" height="600">
 
 https://www.youtube.com/watch?v=iKQhPwbzzxU
 
