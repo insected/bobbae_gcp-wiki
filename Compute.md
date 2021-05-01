@@ -12,7 +12,7 @@ https://youtu.be/KBeyQHoAcrQ
 
 [https://cloud.google.com/hosting-options](https://cloud.google.com/hosting-options)
 
-[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/d5c9cad33f729dc110d8b907db5a695ca9cf6b0f4b692f44f0f2c0e276d78369.svg]]
+<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/d5c9cad33f729dc110d8b907db5a695ca9cf6b0f4b692f44f0f2c0e276d78369.svg" width="800">
 
 ## From Data Center Professional Point of view
 
