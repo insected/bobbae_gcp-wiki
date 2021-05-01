@@ -104,6 +104,21 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
   YAML configurations
 - a sample pipeline that enables running CFT deployment operations from Jenkins.
 
+### Deployment manager quickstart
+
+https://cloud.google.com/deployment-manager/docs/quickstart
+
+### Using terraform with Google Cloud
+
+https://cloud.google.com/docs/terraform
+
+### Cloud Foundation Toolkit templates
+
+https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/dm
+
+### Cloud Foundation terraform templates
+
+https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
 
 ## Terraform 
 
