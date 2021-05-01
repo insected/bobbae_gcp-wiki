@@ -1,18 +1,4 @@
-- [Comparisons](#comparisons)
-  * [AWS vs. GCP](#aws-vs-gcp)
-  * [VMs vs. Containers](#vms-vs-containers)
-  * [DevOps vs. SRE](#devops-vs-sre)
-  * [Terraform vs. Ansible](#terraform-vs-ansible)
-  * [SQL vs NoSQL](#sql-vs-nosql)
-  * [Data Engineering vs. Data Science](#data-engineering-vs-data-science)
-  * [ETL vs ELT](#etl-vs-elt)
-  * [Deep Learning vs. Machine Learning](#deep-learning-vs-machine-learning)
-  * [TLS vs SSL](#tls-vs-ssl)
-  * [TLS vs HTTPS](#tls-vs-https)
-  * [Reverse Proxy vs. Load Balancer](#reverse-proxy-vs-load-balancer)
-  * [Ingress vs. Load Balancer](#ingress-vs-load-balancer)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
