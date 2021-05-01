@@ -25,7 +25,7 @@ This video is an Introduction to GCP.
 
 #### Regions and Zones
 
-[[https://storage.googleapis.com/gweb-cloudblog-publish/images/gcp_global_presence.max-1600x1600.jpg]]
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/gcp_global_presence.max-1600x1600.jpg" width="800">
 
 Google Cloud consists of a set of physical assets, such as computers and hard disk drives, and virtual resources, such as virtual machines (VMs), that are contained in [Google's data centers](https://cloud.withgoogle.com/infrastructure/explore) around the globe. 
 
@@ -39,7 +39,7 @@ https://cloud.google.com/architecture/scalable-and-resilient-apps
 
 This distribution also introduces some rules about how resources can be used together. When architecting your apps in GCP, it’s important to understand [regions and zones](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources), as well as the resources that are regional or zonal. While some of the core resources in GCP are global, others may be restricted by region or zone. 
 
-[[https://cloud.google.com/docs/images/overview/regions-zones.svg]]
+<img src="https://cloud.google.com/docs/images/overview/regions-zones.svg" width="700">
 
 
 Regional resources can be used anywhere within the same region, while zonal resources can be used anywhere within the same zone. 
@@ -78,7 +78,7 @@ A list of samples.
 
 [https://github.com/gregsramblings/google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words)
 
-[[https://static.packt-cdn.com/products/9781838647438/graphics/2622d854-c8a6-4189-99a7-c55e31bc5fae.png]]
+<img src="https://static.packt-cdn.com/products/9781838647438/graphics/2622d854-c8a6-4189-99a7-c55e31bc5fae.png" width="500">
 
 
 ### Compare Platforms
