@@ -12,7 +12,7 @@ A service can be exposed via NodePort, LoadBalancer or ClusterIP.
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/service
 
-[[https://i.stack.imgur.com/1owA5.jpg]]
+<img src="https://i.stack.imgur.com/1owA5.jpg" width="400">
 
 When to use NodePort vs. LoadBalancer  can be confusing. 
 
@@ -24,7 +24,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps
 
 ## Service Types
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/22-1.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/22-1.png" width="700">
 
 ## ClusterIP
 
@@ -40,19 +40,19 @@ There are several types of proxies in Kubernetes, and among them is the node pro
 
 https://arthurchiao.art/blog/cracking-k8s-node-proxy/
 
-[[https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/host-to-clusterip-lb-ct.png]]
+<img src="https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/host-to-clusterip-lb-ct.png" width="700">
 
 ### iptables
 
 In iptables proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
 
-[[https://d33wubrfki0l68.cloudfront.net/27b2978647a8d7bdc2a96b213f0c0d3242ef9ce0/e8c9b/images/docs/services-iptables-overview.svg]]
+<img src="https://d33wubrfki0l68.cloudfront.net/27b2978647a8d7bdc2a96b213f0c0d3242ef9ce0/e8c9b/images/docs/services-iptables-overview.svg" width="500">
 
 By default, kube-proxy in iptables mode chooses a backend at random.
 
 https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-iptables
 
-[[https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/hooks.png]]
+<img src="https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/hooks.png" width="500">
 
 https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture
 
@@ -80,7 +80,7 @@ A LoadBalancer service is the standard way to expose a service to the internet. 
 
 https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer
 
-[[https://i.imgur.com/QCKwPHE.png]]
+<img src="https://i.imgur.com/QCKwPHE.png" width="700">
 
 https://github.com/bobbae/gcp/wiki/Load-Balancer
 
@@ -105,7 +105,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 
 https://github.com/bobbae/gcp/wiki/Ingress
 
-[[https://i.imgur.com/pO8Gp3d.png]]
+<img src="https://i.imgur.com/pO8Gp3d.png" width="700">
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
