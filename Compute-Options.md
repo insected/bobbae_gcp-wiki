@@ -1,15 +1,3 @@
-- [Compute Options](#compute-options)
-  * [Cloud Functions](#cloud-functions)
-    + [Qwiklabs](#qwiklabs)
-      - [Cloud Functions & Dialogflow](#cloud-functions---dialogflow)
-  * [Cloud GPUs](#cloud-gpus)
-  * [Preemptible VM Instances](#preemptible-vm-instances)
-  * [Shielded VMs](#shielded-vms)
-  * [Sole-tenant nodes](#sole-tenant-nodes)
-  * [Bare Metal Solution](#bare-metal-solution)
-    + [Configuring Google Access for On-Premise](#configuring-google-access-for-on-premise)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Compute Options
