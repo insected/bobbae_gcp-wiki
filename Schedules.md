@@ -18,7 +18,7 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1    |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc), [Hadoop](https://hadoop.apache.org/), [Spark](https://spark.apache.org/) |    |
+|    1    |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc) |    |
 |    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
 |    3    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)     |
 |    4   |[Cloud Composer](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-composer)  |
@@ -49,7 +49,7 @@
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
 |   1  | [Introduction to GCP](https://github.com/bobbae/gcp/wiki/Introduction) |
-|    2   |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc), [Hadoop](https://hadoop.apache.org/), [Spark](https://spark.apache.org/) | 
+|    2   |[Dataproc](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-dataproc) | 
 |    3    |[BigQuery](https://github.com/bobbae/gcp/wiki/Data-Engineering#bigquery)      |
 |    4    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)      |
 |    5   | [Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
