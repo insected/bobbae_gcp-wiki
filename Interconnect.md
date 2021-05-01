@@ -9,8 +9,20 @@ While migrating portions of your on-prem to the cloud, it’s important for your
 
 [https://www.youtube.com/watch?v=cKaryf7qp9w](https://www.youtube.com/watch?v=cKaryf7qp9w)
 
+## Google Cloud Interconnect Overview
+
+The first step when establishing connectivity to Google Cloud is to set up a Virtual Private Cloud (VPC).
+
+Google Cloud’s VPC is a private, managed virtual network that connects VM instances, Google Kubernetes Engine (GKE) clusters, and the Google App Engine flexible environment.
+
+
+
+https://docs.packetfabric.com/cloud/google/overview/
 
 # Dedicated Interconnect
+
+
+[[https://docs.packetfabric.com/cloud/google/images/google_overview_dedicated.svg]]
 
 Dedicated Interconnect provides direct physical connections between your on-premises network and Google's network. Dedicated Interconnect enables you to transfer large amounts of data between networks, which can be more cost effective than purchasing additional bandwidth over the public Internet.
 
@@ -22,6 +34,8 @@ Dedicated Interconnect provides direct physical connections between your on-prem
 
 
 # Partner Interconnect
+
+[[https://docs.packetfabric.com/cloud/google/images/google_overview_hosted.svg]]
 
 Partner Interconnect provides connectivity between your on-premises network and your VPC network through a supported [service provider](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/service-providers). A Partner Interconnect connection is useful if your data center is in a physical location that can't reach a Dedicated Interconnect colocation facility or if your data needs don't warrant an entire 10 Gbps connection.
 
