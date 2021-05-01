@@ -4,7 +4,7 @@ Ingress may provide load balancing, SSL termination and name-based virtual hosti
 
 Ingress exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
 
-[[https://vocon-it.com/wp-content/uploads/2019/10/2019-10-11-19_53_51-Kubernetes-Ingress-Google-Zeichnungen.png]]
+<img src="https://vocon-it.com/wp-content/uploads/2019/10/2019-10-11-19_53_51-Kubernetes-Ingress-Google-Zeichnungen.png" width="600">
 
 ## GCP Network Endpoint Groups
 
@@ -80,7 +80,7 @@ Unlike other types of controllers which run as part of the kube-controller-manag
 
 https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 
-[[https://i.imgur.com/pO8Gp3d.png]]
+<img src="https://i.imgur.com/pO8Gp3d.png" width="600">
 
 https://liejuntao001.medium.com/some-details-about-how-kubernetes-ingress-controller-works-99deb529f2e4
 
@@ -100,7 +100,7 @@ You can expose a Service in multiple ways that don't directly involve the Ingres
 https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
 
 
-[[https://miro.medium.com/max/1575/1*Uo_wGCIlFopJZbf6THu0OQ.png]]
+<img src="https://miro.medium.com/max/1575/1*Uo_wGCIlFopJZbf6THu0OQ.png" width="600">
 
 ## Multi-cluster ingress
 
