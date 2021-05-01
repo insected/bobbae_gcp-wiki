@@ -1,24 +1,3 @@
-- [Migration](#migration)
-  * [Introduction](#introduction)
-  * [BigQuery Data Transfer Service](#bigquery-data-transfer-service)
-  * [Migrate for Compute Engine](#migrate-for-compute-engine)
-    + [Velostrata](#velostrata)
-    + [How to move thousands of VMs to GCP](#how-to-move-thousands-of-vms-to-gcp)
-  * [Cloud Storage Transfer Service](#cloud-storage-transfer-service)
-  * [Migrate for Anthos](#migrate-for-anthos)
-    + [Migrating enterprise workloads using Migrate for Anthos](#migrating-enterprise-workloads-using-migrate-for-anthos)
-  * [Transfer Appliance](#transfer-appliance)
-  * [Cloud Data Transfer](#cloud-data-transfer)
-  * [Storage Transfer Service](#storage-transfer-service)
-  * [Database Migration Service](#database-migration-service)
-  * [All Google Cloud Migration Guides](#all-google-cloud-migration-guides)
-  * [Big Data Transfer over WAN](#big-data-transfer-over-wan)
-  * [Netapp](#netapp)
-    + [Trident](#trident)
-    + [Cloud Volumes Service](#cloud-volumes-service)
-  * [AWS to GCP Data migration](#aws-to-gcp-data-migration)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Migration
