@@ -1,40 +1,42 @@
+[[https://tech.gsa.gov/assets/img/guides/DevSecOps.png]]
 
 
-
-### Introduction
+## Introduction
 
 [DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. In this quest you will learn how to use Google Cloud to improve the speed, stability, availability, and security of your software delivery capability. [DevOps Research and Assessment](https://devops-research.com/) has joined Google Cloud. How does your team measure up? [Take this five multiple-choice question quiz](https://beta.devops-research.com/quickcheck.html) and find out! 
 
 [DevOps Essentials](https://www.qwiklabs.com/quests/96?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
 
-### Jenkins & GKE
+https://www.qwiklabs.com/quests/141
+
+## Jenkins & GKE
 
 Jenkins is one of the most popular CI systems in the world. It’s flexibility and ecosystem allow it to be used for almost any task.
 
 [https://www.youtube.com/watch?v=IDoRWieTcMc](https://www.youtube.com/watch?v=IDoRWieTcMc)
 
-#### JenkinsX
+### JenkinsX
 
 https://jenkins-x.io/
 
 Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
 
-### Spinnaker
+## Spinnaker
 
 Build a container based CI/CD pipeline leveraging Google Cloud Platform  tools along with open source tool Spinnaker for deployment. 
 
 [https://www.youtube.com/watch?v=DQIu373gSKU](https://www.youtube.com/watch?v=DQIu373gSKU)
 
 
-### Jib
+## Jib
 
 Build optimized containers for your Java applications.
 
 [https://www.youtube.com/watch?v=p36tv1YWIfU](https://www.youtube.com/watch?v=p36tv1YWIfU)
 
 
-### Kubernetes CI/CD
+## Kubernetes CI/CD
 
 This session demonstrates how using the best tools in the Kubernetes ecosystem, such as Jenkins X, Tekton, Docker, Helm, Skaffold, ChartMuseum, Knative, Prow and others can help you create a fully automated setup. 
 
@@ -45,30 +47,30 @@ Kubernetes had become the orchestrator of choice to deploy applications — but 
 [https://www.youtube.com/watch?v=TYx0BTyFtmc](https://www.youtube.com/watch?v=TYx0BTyFtmc)
 
 
-#### Security
+### Security
 
 https://github.com/bobbae/gcp/wiki/Security
 
-### GitOps 
+## GitOps 
 
 GitOps is a way to do application delivery. It works by using [Git](https://git-scm.com/) as a single source of truth for [declarative infrastructure and applications](https://en.wikipedia.org/wiki/Infrastructure_as_code), together with tools ensuring the _actual state_ of infrastructure and applications converges towards the _desired state_ declared in Git. With Git at the center of your delivery pipelines, developers can make pull requests to accelerate and simplify application deployments and operations tasks to your infrastructure or container-orchestration system (e.g. [Kubernetes](https://kubernetes.io/)).
 
 [https://github.com/weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 
 
-#### Tutorial
+### Tutorial
 
 This tutorial explains how to manage infrastructure as code with [Terraform](https://cloud.google.com/docs/terraform) and [Cloud Build](https://cloud.google.com/cloud-build) using the popular [GitOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/) methodology. The term GitOps was [first coined by Weaveworks](https://www.weave.works/blog/gitops-operations-by-pull-request), and its key concept is using a Git repository to store the environment state that you want. Terraform is a [HashiCorp](https://www.hashicorp.com/) open source tool that enables you to predictably create, change, and improve your cloud infrastructure by using code. In this tutorial, you use [Cloud Build](https://cloud.google.com/cloud-build), a Google Cloud continuous integration service, to automatically apply Terraform manifests to your environment.
 
 [https://cloud.google.com/solutions/managing-infrastructure-as-code](https://cloud.google.com/solutions/managing-infrastructure-as-code)
 
 
-#### Gitlab Gitops with Anthos
+### Gitlab Gitops with Anthos
 
 [https://www.youtube.com/watch?v=npc08ggdTOw](https://www.youtube.com/watch?v=npc08ggdTOw)
 
 
-### ArgoCD
+## ArgoCD
 
 Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
@@ -76,13 +78,25 @@ Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 [https://www.youtube.com/watch?v=35Qimb_AZ8U](https://www.youtube.com/watch?v=35Qimb_AZ8U)
 
 
-### Chaos Monkey
+## Chaos Monkey
 
 Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures.
 
 [https://netflix.github.io/chaosmonkey/](https://netflix.github.io/chaosmonkey/)
 
-### Tekton
+## Bamboo
+
+Atlassian CICD tool.
+
+https://www.atlassian.com/software/bamboo
+
+## Travis
+
+Travis CI enables your team to test and ship your apps.
+
+https://travis-ci.org/
+
+## Tekton
 
 Tekton is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems. Tekton is a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details.
 
@@ -91,4 +105,26 @@ https://cloud.google.com/tekton
 https://tekton.dev/
 
 https://martinheinz.dev/blog/45
+
+## Kaniko
+
+kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+
+
+https://github.com/GoogleContainerTools/kaniko
+
+## Buildkit
+
+BuildKit is a toolkit  for converting source code to build artifacts. It is party of [Moby Project](https://github.com/moby/moby).
+
+
+https://github.com/moby/buildkit
+
+## DevSecOps
+
+DevOps isn’t just about development and operations teams. If you want to take full advantage of the agility and responsiveness of a DevOps approach, [IT security](https://www.redhat.com/en/topics/security) must also play an integrated role in the full life cycle of your apps.
+
+https://www.devsecops.org/
+
+https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/
 
