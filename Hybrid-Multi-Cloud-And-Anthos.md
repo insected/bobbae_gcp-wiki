@@ -22,6 +22,14 @@ VM instances can exist on premises, managed by products such as VMWare vSphere, 
 
 https://www.youtube.com/watch?v=XB52jRLHeko&list=PLIivdWyY5sqL8p1URcr6h1OkeJ01Myz57
 
+
+### Anthos Technical Overview
+
+[[https://cloud.google.com/anthos/images/anthos-15-components.svg]]
+
+
+https://cloud.google.com/anthos/docs/concepts/overview
+
 ### Anthos Deployments
 
 GKE on-prem is hybrid cloud software that brings Google Kubernetes Engine (GKE) to on-premises data centers. GKE on-prem is a reliable, efficient, and secured way to run Kubernetes clusters anywhere.
