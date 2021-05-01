@@ -1,9 +1,13 @@
-[[https://tech.gsa.gov/assets/img/guides/DevSecOps.png]]
 
 
 ## Introduction
 
 [DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. 
+
+The goal of DevOps is to build better, faster and more responsive software by bringing Development and Operations teams together. DevOps is not a methodology or a suite of tools but a cultural shift to remove the barriers between Dev and Ops in order to meet the need for shorter and more frequent software deliveries.
+
+
+This will allow your organization to respond in a more agile manner to changing business requirements. The DevOps cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
 ## DevSecOps
 
@@ -13,8 +17,9 @@ https://www.devsecops.org/
 
 https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/
 
+[[https://tech.gsa.gov/assets/img/guides/DevSecOps.png]]
 
-## Security
+### Security
 
 https://github.com/bobbae/gcp/wiki/Security
 
@@ -100,7 +105,7 @@ Build a container based CI/CD pipeline leveraging Google Cloud Platform  tools a
 [https://www.youtube.com/watch?v=DQIu373gSKU](https://www.youtube.com/watch?v=DQIu373gSKU)
 
 
-## ArgoCD
+### ArgoCD
 
 Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
@@ -113,19 +118,19 @@ Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
 
 
 
-## Bamboo
+### Bamboo
 
 Atlassian CICD tool.
 
 https://www.atlassian.com/software/bamboo
 
-## Travis
+### Travis
 
 Travis CI enables your team to test and ship your apps.
 
 https://travis-ci.org/
 
-## Tekton
+### Tekton
 
 Tekton is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems. Tekton is a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details.
 
@@ -191,6 +196,11 @@ Build and deploy Go applications on Kubernetes.
 
 ## Testing
 
+A successful DevOps testing strategy is one aimed at building, testing and releasing software faster and more frequently. If you're lucky enough to start out in a "greenfield" organization without an established coding culture, it's a good idea to try to create and automate your software delivery pipeline upfront.
+
+https://smartbear.com/blog/devops-testing-strategy-best-practices-tools/
+
+[[https://www.getzephyr.com/sites/default/files/content/insights/gz-devops-core-content-003.png]]
 
 ### Chaos Monkey
 
