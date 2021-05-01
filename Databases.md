@@ -36,7 +36,7 @@ Many enterprise systems that handle high-profile data (e.g., financial and order
 
 [https://aphyr.com/posts/333-serializability-linearizability-and-locality](https://aphyr.com/posts/333-serializability-linearizability-and-locality)
 
-[[https://accelazh.github.io/images/ddia-linearizability.png]]
+<img src="https://accelazh.github.io/images/ddia-linearizability.png" width="700">
 
 https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy
 
