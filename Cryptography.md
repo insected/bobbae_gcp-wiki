@@ -37,7 +37,7 @@ It will ensure certificates are valid and up to date, and attempt to renew certi
 
 It is loosely based upon the work of kube-lego and has borrowed some wisdom from other similar projects such as kube-cert-manager.
 
-# letsEncrypt 
+# Let's Encrypt 
 
 To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). Let’s Encrypt is a CA. In order to get a certificate for your website’s domain from Let’s Encrypt, you have to demonstrate control over the domain. With Let’s Encrypt, you do this using software that uses the ACME protocol which typically runs on your web host.
 
