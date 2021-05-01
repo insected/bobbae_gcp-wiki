@@ -12,6 +12,10 @@ http://examcramnotes.blogspot.com/2019/08/cloud-volumes-ontap-fundamentals.html
 
 [[https://cloud.netapp.com/hs-fs/hubfs/GCP%20HA.jpg?width=1500&name=GCP%20HA.jpg]]
 
+
+https://youtu.be/HBAbnYg-qq4
+
+
 # Performance
 
 Filestore offers low latency for file operations. For workloads that are latency sensitive, like electronic design automation (EDA), media rendering, data analytics, or other metadata intensive applications, Filestore supports capacity up to 320 TB and throughput of 16 GB/s and 480K IOPS, with minimal variability in performance.
