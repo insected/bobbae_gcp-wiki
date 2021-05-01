@@ -163,6 +163,14 @@ Defining and managing your development, test, staging, and production environmen
 [https://github.com/terraform-google-modules](https://github.com/terraform-google-modules)
 
 
+### Manage GCP projects with terraform
+
+https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform
+
+[[https://storage.googleapis.com/gcp-community/tutorials/managing-gcp-projects-with-terraform/diagram.png]]
+
+https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-gcp-projects-with-terraform
+
 ### Terraform Google modules Examples
 
 [https://github.com/terraform-google-modules/docs-examples](https://github.com/terraform-google-modules/docs-examples)
@@ -179,6 +187,7 @@ Reverse of terraform.
 
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 
+## Other IAC Tools
 
 ### Pulumi
 
@@ -193,32 +202,6 @@ Ansible is a way to automate apps and IT infrastructure. Application Deployment 
 
 [Here](https://www.youtube.com/watch?v=utztQWTewWU)  is an opinionated look at how ansible and terraform complement one another in a provisioner/configuration management separated view. A key takeaway is a simplified workflow for sysadmins/operators in cloud management that can be applied in multi-cloud/hybrid cloud scenarios.
 
-
-
-###Qwiklabs
-
-
-### Terraform Quest
-
-[https://www.qwiklabs.com/quests/44](https://www.qwiklabs.com/quests/44)
-
-
-### Terraform
-
-In this Quest, the experienced user of Google Cloud will learn how to describe and launch cloud resources with Terraform, an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. In these nine hands-on labs, you will work with example templates and understand how to launch a range of configurations, from simple servers, through full load-balanced applications.
-
-[Managing Cloud Infrastructure with Terraform](https://www.qwiklabs.com/quests/44?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
-
-
-### VM Migration
-
-Google Cloud’s four step structured Cloud Migration Path Methodology provides a defined and repeatable path for users to follow when migrating and modernizing Virtual Machines. In this quest, you will get hands-on practice with Google’s current solution set for VM assessment, planning, migration, and modernization. You will start by analyzing your lab environment and building assessment reports with CloudPhysics and StratoZone, then build a landing zone within Google Cloud leveraging Terraform’s infrastructure-as-code templates, next you will manually transform a two-tier application into a cloud-native workload running on Kubernetes, and finally, transform a VM workload into Kubernetes with Migrate for Anthos and migrate a VM between cloud environments.
-
-[VM Migration](https://www.qwiklabs.com/quests/87?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
-
-## Alternatives and Similar tools
-
-Some of the similar frameworks and tools that are used elsewhere and in different contexts.
 
 ### AWS Cloud formation
 
@@ -247,5 +230,29 @@ https://cloudify.co/
 ### Comparison of terraform and cloud formation and heat, etc.
 
 https://www.terraform.io/intro/vs/cloudformation.html
+
+
+
+
+### Qwiklabs
+
+
+### Terraform Quest
+
+[https://www.qwiklabs.com/quests/44](https://www.qwiklabs.com/quests/44)
+
+
+### Terraform
+
+In this Quest, the experienced user of Google Cloud will learn how to describe and launch cloud resources with Terraform, an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. In these nine hands-on labs, you will work with example templates and understand how to launch a range of configurations, from simple servers, through full load-balanced applications.
+
+[Managing Cloud Infrastructure with Terraform](https://www.qwiklabs.com/quests/44?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
+
+
+### VM Migration
+
+Google Cloud’s four step structured Cloud Migration Path Methodology provides a defined and repeatable path for users to follow when migrating and modernizing Virtual Machines. In this quest, you will get hands-on practice with Google’s current solution set for VM assessment, planning, migration, and modernization. You will start by analyzing your lab environment and building assessment reports with CloudPhysics and StratoZone, then build a landing zone within Google Cloud leveraging Terraform’s infrastructure-as-code templates, next you will manually transform a two-tier application into a cloud-native workload running on Kubernetes, and finally, transform a VM workload into Kubernetes with Migrate for Anthos and migrate a VM between cloud environments.
+
+[VM Migration](https://www.qwiklabs.com/quests/87?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
 
