@@ -1,11 +1,3 @@
-- [Database Related topics](#database-related-topics)
-  * [SQL, NoSQL, NewSQL](#sql--nosql--newsql)
-  * [ACID, BASE, CAP](#acid--base--cap)
-  * [Serializability, linearizability, and locality](#serializability--linearizability--and-locality)
-  * [Distributed Consensus Protocols](#distributed-consensus-protocols)
-  * [Database of Databases](#database-of-databases)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Database Related topics
