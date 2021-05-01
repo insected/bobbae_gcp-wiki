@@ -1,17 +1,4 @@
-- [Syllabus](#syllabus)
-- [Course Objectives](#course-objectives)
-- [Course Outline](#course-outline)
-  * [Group Project](#group-project)
-  * [Daily Meetings](#daily-meetings)
-  * [Worklog](#worklog)
-  * [Materials in this document](#materials-in-this-document)
-- [Example Schedules](#example-schedules)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
-# Syllabus
 
 This is a  course on GCP Infrastructure and services in general.  Trainees are expected to complete as much  of the material presented here during the eight week course. Example schedules for different types of GCP classes are provided.  
 
