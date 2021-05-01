@@ -1,6 +1,5 @@
 # Spanner
 
-[[https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads//2012/09/google-spanner.gif]]
 
 https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1
 
