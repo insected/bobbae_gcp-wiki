@@ -18,7 +18,7 @@ https://github.com/kubernetes/dashboard
 
 ## cAdvisor
 
-[[https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/26.png]]
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/26.png" width="600">
 
 cAdvisor is a container resource usage and performance analysis agent; it's integrated into the Kubelet binary. cAdvistor auto-discovers all containers in a machine and collects statistics about memory, network usage, filesystem, and CPU. cAdvisor has native support for Docker containers. It does not operate at the pod level, but on each node.
 
