@@ -2,7 +2,7 @@
 
 ## Migration
 
-[[https://cloudx-bricks-prod-bucket.storage.googleapis.com/138633884648c8406920f543d8dfce83fc0b78fff0a3130c68ec528ae5df84aa.svg]]
+<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/138633884648c8406920f543d8dfce83fc0b78fff0a3130c68ec528ae5df84aa.svg" width="800">
 
 ### Introduction
 
