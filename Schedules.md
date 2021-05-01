@@ -54,6 +54,5 @@
 |    4    |[Dataflow](https://github.com/bobbae/gcp/wiki/Data-Engineering#dataflow)      |
 |    5   | [Spanner](https://github.com/bobbae/gcp/wiki/Data-Engineering#cloud-spanner) |
 |    6    | [Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers#containers)       |
-| 7 | [Kubernetes Examples](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers#kubernetes-examples)  |
-|    8    |Group Project   |
-|    9   |Reviews    | 
+|    7   |Group Project   |
+|    8   |Reviews    | 
