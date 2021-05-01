@@ -1,23 +1,3 @@
-- [Google Cloud Platform](#google-cloud-platform)
-  * [Introduction](#introduction)
-    + [GCP Youtube Channel](#gcp-youtube-channel)
-    + [GCP Useful Links](#gcp-useful-links)
-    + [Summary of GCP Services](#summary-of-gcp-services)
-  * [Compare Platforms](#compare-platforms)
-  * [Google Cloud setup checklist](#google-cloud-setup-checklist)
-  * [Basic Tools](#basic-tools)
-    + [Cloud SDK](#cloud-sdk)
-    + [Cloud Shell](#cloud-shell)
-  * [Tutorials](#tutorials)
-  * [Whitepapers](#whitepapers)
-  * [Borg](#borg)
-  * [Qwiklabs](#qwiklabs)
-    + [GCP Essentials](#gcp-essentials)
-    + [Cloud Architecture](#cloud-architecture)
-    + [Cloud Engineering](#cloud-engineering)
-    + [Manage Cloud Environments](#manage-cloud-environments)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Google Cloud Platform
 
@@ -53,6 +33,7 @@ https://cloud.google.com/about/locations
 
 Each data center location is in a region. Regions are available in Asia, Australia, Europe, North America, and South America. Each region is a collection of zones, which are isolated from each other within the region. Each zone is identified by a name that combines a letter identifier with the name of the region. For example, zone a in the East Asia region is named asia-east1-a. This distribution of resources provides several benefits, including redundancy in case of failure and reduced latency by locating resources closer to clients. 
 
+https://www.youtube.com/watch?v=XZmGGAbHqa0
 
 https://cloud.google.com/architecture/scalable-and-resilient-apps
 
