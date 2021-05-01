@@ -1,12 +1,3 @@
-- [Healthcare and Life Sciences](#healthcare-and-life-sciences)
-  * [Cloud Healthcare API](#cloud-healthcare-api)
-  * [Cloud Life Sciences](#cloud-life-sciences)
-  * [Qwiklabs](#qwiklabs)
-    + [ML Predictions](#ml-predictions)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 
 ## Healthcare and Life Sciences
 
