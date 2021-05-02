@@ -155,8 +155,15 @@ https://github.com/bobbae/gcp/wiki/Scikit-Learn
 
 https://github.com/bobbae/gcp/wiki/Keras
 
+# Pytorch
+
+https://pytorch.org/
+
+https://www.guru99.com/pytorch-tutorial.html
+
 # Links
 
+- [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - [Guide to bring code to ML GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
 - [Labs and demos for courses for GCP ML and Bigdata Training](https://github.com/GoogleCloudPlatform/training-data-analyst)
