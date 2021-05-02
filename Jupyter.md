@@ -17,14 +17,16 @@ There are several ways to run Jupyter notebooks in GCP.
 
 # AI Platform  Jupyter Notebooks 
 
+[AI Platform](AI-Platform) supports Jupyter Notebooks.
+
 https://cloud.google.com/ai-platform-notebooks
 
-# Datalab Jupyter Notebooks 
+# [Datalab](Datalab) Jupyter Notebooks 
 
+[Datalab](Datalab) also supports Jupyter Notebooks.
 
 https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
 
-https://github.com/bobbae/gcp/wiki/Datalab
 
 
 ## Jupyter Notebooks in the cloud
@@ -42,12 +44,13 @@ https://github.com/bobbae/gcp/wiki/Datalab
 [https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
 
 
-# Colab Jupyter Notebooks 
+# [Colab](Colab) Jupyter Notebooks 
 
-https://github.com/bobbae/gcp/wiki/Colab
-
+Colaboratory, or [Colab](Colab) for short, is a Google Research product, which supports Jupyter Notebooks.
 
 # Dataproc Jupyter Notebooks
+
+[Dataproc](Dataproc) supports Jupyter Notebooks as well.
 
 https://cloud.google.com/dataproc/docs/concepts/components/jupyter
 
