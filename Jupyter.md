@@ -49,6 +49,10 @@ https://github.com/bobbae/gcp/wiki/Colab
 https://cloud.google.com/dataproc/docs/concepts/components/jupyter
 
 
+# Tutorial: Spawning notebook servers on Google Kubernetes Engine
+
+https://cloud.google.com/architecture/spawning-notebook-servers-on-gke-tutorial
+
 # JupyterHub
 
 With JupyterHub you can create a multi-user Hub which spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
