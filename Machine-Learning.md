@@ -9,6 +9,7 @@ Google Machine Learning Platform Overview.
 
 [https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
 
+<img src="https://miro.medium.com/max/1575/1*i5HvoYNEBohHxS1MoQoQcQ.png" width="700">
 
 # Machine Learning Crash Course
 
@@ -35,9 +36,8 @@ https://cloud.google.com/ai-platform/docs/ml-solutions-overview
 
 # AutoML
 
-AutoML makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
+[AutoML](AutoML) makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
 
-[AutoML](AutoML)
 
 [https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
 
@@ -146,18 +146,18 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 # TensorFlow 
 
-[Tensorflow](Tensorflow)
+[Tensorflow](Tensorflow) is an open source, powerful, portable machine learning library developed by Google that can work with very large datasets.
 
 
 # Scikit Learn
 
 
-[Scikit Learn](Scikit-Learn)
+[Scikit Learn](Scikit-Learn)  provides a range of supervised and unsupervised learning algorithms via a consistent interface.
 
 
 # Keras
 
-[Keras](Keras)
+[Keras](Keras) is a neural network library. It wraps the efficient numerical computation libraries Theano and TensorFlow and allows you to define and train neural network models.
 
 # Pytorch
 
@@ -167,22 +167,22 @@ https://www.guru99.com/pytorch-tutorial.html
 
 # Kubeflow
 
-[Kubeflow](Kubeflow)
+[Kubeflow](Kubeflow) Pipelines is a platform for building, deploying, and managing multi-step ML workflows based on Docker containers. Kubeflow offers several components that you can use to build your ML training, hyperparameter tuning, and serving workloads across multiple platforms.
 
 # MLOps
 
 
 
-[MLOps](MLOps)
+[MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
 
 
 # AI Hub
 
-[AI Hub](AI-Hub)
+[AI Hub](AI-Hub) is a platform that lets us centralize our code and knowledge in a way that can step up the pace of deployment and learnings globally.
 
 # AI Platform
 
-[AI Platform](AI-Platform)
+[AI Platform](AI-Platform) is a development platform to build AI applications that run on GCP and on-premises. 
 
 
 # Links
