@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/Google_Compute_Engine
 
 ## VM
 
-https://github.com/bobbae/gcp/wiki/VM
+Learn more about VMs [here](VM).
 
 ## How to create a VM on GCP
 
