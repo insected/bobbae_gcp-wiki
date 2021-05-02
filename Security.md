@@ -21,11 +21,11 @@ https://www.youtube.com/watch?v=vBdYVFgZ2ug
 
 # Cryptography
 
-[Cryptography](Cryptography)
+[Cryptography](Cryptography)  is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.
 
 # IAM
 
-[IAM](IAM)
+[Identity and Access Management](IAM)  lets administrators authorize who can take action on specific resources, giving you full control and visibility. 
 
 # Security and Identity
 
@@ -51,13 +51,15 @@ https://cloud.google.com/security/overview/whitepaper#operational_security
 
 ## Roles
 
+A role contains a set of permissions that allows you to perform specific actions on Google Cloud resources. To make permissions available to members, including users, groups, and service accounts, you grant roles to the members.
+
 [https://cloud.google.com/iam/docs/understanding-roles](https://cloud.google.com/iam/docs/understanding-roles)
 
 
 ## Service Accounts
 
 
-[Service Accounts](Service-Accounts)
+[A Service Account](Service-Accounts)  is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
 
 # Cloud Identity API
 
