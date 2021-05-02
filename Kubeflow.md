@@ -5,7 +5,7 @@ Using the Kubeflow configuration interfaces you can specify the ML tools require
 
 [https://www.kubeflow.org/docs/about/kubeflow/](https://www.kubeflow.org/docs/about/kubeflow/)
 
-[[https://www.kubeflow.org/docs/images/kubeflow-overview-platform-diagram.svg]]
+<img src="https://www.kubeflow.org/docs/images/kubeflow-overview-platform-diagram.svg" width="700">
 
 
 [https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
