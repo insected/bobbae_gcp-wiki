@@ -120,3 +120,54 @@ AffinityPropagation creates clusters by sending messages between pairs of sample
 
 
 https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation
+
+# Model Evaluation
+
+## Classification Model Evaluation
+
+### Accuracy Score
+
+Accuracy is one of the simplest and most used metric. It can be defined as the number of correct predictions made by the model divided by the total number of predictions.
+
+
+### Precision Score
+
+Precision is the ability of a classifier to appropriately classify a data point as either positive or negative. It’s the ratio of tp/(tp+fp) where tp is the number of true positives and fp the number of false positives.
+
+### Recall Score
+
+Recall is the ability of a classifier to find all positive/relevant samples within a dataset. To be precise, it’s the ratio of tp/(tp+fn) where tp is the number of true positives and fn the number of false negatives.
+
+### F1 Score
+
+There is often a trade-off between Recall & Precision, so to have an optimal blend, we combine the two metrics using F1 Score. It can be interpreted as an average of the precision and recall, where F1 score reaches its best value at 1 and the worst score at 0.
+
+### Classification report
+
+Builds a report containing main classification metrics.
+
+### Confusion Matrix
+
+It is a table often used to evaluate the performance of a classification model.
+
+## Regression Model Evaluation
+
+### Mean Absolute Error (MAE)
+
+MAE measures the average magnitude errors in a set of predictions. It’s the average of the absolute difference between predicted and actual values. One disadvantage associated with MAE is that it doesn't punish large errors.
+
+### Mean Squared Error (MSE)
+
+MSE overcomes the disadvantage associated with MAE i.e. Large errors. As it can be seen instead of taking the absolute value, here we square the difference between predicted and actual values. However, another issue with MSE is that the unit of target variable(Y) gets squared too.
+
+### Root Mean Squared Error (RMSE)
+
+To fix the above issue associated with MSE, we have RMSE which basically performs the square root function of MSE.
+
+### R2 Score
+
+R² (coefficient of determination) regression score function.The best possible score can be 1, it can go negative as well in the worst conditions.
+
+
+
+
