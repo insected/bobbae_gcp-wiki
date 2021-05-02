@@ -56,9 +56,8 @@ https://developers.google.com/admin-sdk
 
 ### AppSheet
 
-AppSheet allows users to  create data driven apps and automation without coding.
+[AppSheet](AppSheet) allows users to  create data driven apps and automation without coding.
 
-[AppSheet](AppSheet)
 
 ### Qwiklabs
 
