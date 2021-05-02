@@ -27,6 +27,10 @@ https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terrafor
 
 <img src="https://cloud.google.com/architecture/images/provisioning-anthos-clusters-with-terraform-architecture.svg" width="700">
 
+## Terraform examples for GKE
+
+https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
+
 # Cloud Foundation terraform templates
 
 https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
