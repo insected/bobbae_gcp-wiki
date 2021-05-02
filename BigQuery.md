@@ -29,12 +29,12 @@ https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6
 
 https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1
 
-### Data warehousing with BigQuery
+## Data warehousing with BigQuery
 
 [https://cloud.google.com/solutions/bigquery-data-warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)
 
 
-### BigQuery Explained
+## BigQuery Explained
 
 [https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)
 
@@ -46,12 +46,12 @@ Most experienced data analysts and programmers already have the skills to get st
 
 https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1
 
-#### BigQuery under the hood
+## BigQuery under the hood
 
 [https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood)
 
 
-### Loading Data into BigQuery
+## Loading Data into BigQuery
 
 [https://cloud.google.com/bigquery/docs/loading-data](https://cloud.google.com/bigquery/docs/loading-data)
 
@@ -59,59 +59,59 @@ You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
 
-### Anatomy of a BigQuery query
+## Anatomy of a BigQuery query
 
 [https://cloud.google.com/blog/products/gcp/anatomy-of-a-bigquery-query](https://cloud.google.com/blog/products/gcp/anatomy-of-a-bigquery-query)
 
 
-### In memory query execution
+## In memory query execution
 
 [https://cloud.google.com/blog/products/gcp/in-memory-query-execution-in-google-bigquery](https://cloud.google.com/blog/products/gcp/in-memory-query-execution-in-google-bigquery)
 
 
-### Query plan and timeline
+## Query plan and timeline
 
 [https://cloud.google.com/bigquery/query-plan-explanation](https://cloud.google.com/bigquery/query-plan-explanation)
 
 
-##### Managing input data and data sources
+## Managing input data and data sources
 
 [https://cloud.google.com/bigquery/docs/best-practices-performance-input](https://cloud.google.com/bigquery/docs/best-practices-performance-input)
 
 
-##### Optimizing communication between slots
+## Optimizing communication between slots
 
 [https://cloud.google.com/bigquery/docs/best-practices-performance-communication](https://cloud.google.com/bigquery/docs/best-practices-performance-communication)
 
 
-### Optimizing query computation
+## Optimizing query computation
 
 [https://cloud.google.com/bigquery/docs/best-practices-performance-compute](https://cloud.google.com/bigquery/docs/best-practices-performance-compute)
 
 
-### Managing materialization and outputs
+## Managing materialization and outputs
 
 [https://cloud.google.com/bigquery/docs/best-practices-performance-output](https://cloud.google.com/bigquery/docs/best-practices-performance-output)
 
 
-### Anti patterns
+## Anti patterns
 
 [https://cloud.google.com/bigquery/docs/best-practices-performance-patterns](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
 
 
-### Dremel
+## Dremel
 
 Dremel is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
 
 [https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 
 
-##### Building the world’s largest data warehouse
+## Building the world’s largest data warehouse
 
 [https://www.youtube.com/watch?v=1gYUGv_omJA](https://www.youtube.com/watch?v=1gYUGv_omJA)
 
 
-##### BigQuery nested and repeated fields
+## BigQuery nested and repeated fields
 
 [https://www.youtube.com/watch?v=STo98QUKDS8](https://www.youtube.com/watch?v=STo98QUKDS8)
 
@@ -121,27 +121,28 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
 
 
-### Learn writing java code to connect Dataproc map/reduce to BigQuery
+## Learn writing java code to connect Dataproc map/reduce to BigQuery
 
 [https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example)
 
 
-### BigQuery connector to Spark
+#
+## BigQuery connector to Spark
 
 [https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example)
 
 
-#### Data Warehouse Topics
+## Data Warehouse Topics
 
 
-##### BigQuery, Snowflake, Redshift
+### BigQuery, Snowflake, Redshift
 
 [https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555](https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555)
 
 
 https://www.youtube.com/watch?v=XpaN-PqSczM
 
-##### Snowflake, Star, Galaxy
+### Snowflake, Star, Galaxy
 
 Star Schema in a data warehouse, in which the center of the star can have one fact table and a number of associated dimension tables. It is known as star schema as its structure resembles a star. The Star Schema data model is the simplest type of Data Warehouse schema. It is also known as Star Join Schema and is optimized for querying large data sets.
 
@@ -157,12 +158,12 @@ A Galaxy Schema contains two fact table that share dimension tables between them
 [https://en.wikipedia.org/wiki/Denormalization](https://en.wikipedia.org/wiki/Denormalization)
 
 
-#### Public Datasets
+## Public Datasets
 
 [https://cloud.google.com/bigquery/public-data](https://cloud.google.com/bigquery/public-data)
 
 
-#### BigQuery Standard SQL
+## BigQuery Standard SQL
 
 [https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql](https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql)
 
@@ -197,7 +198,7 @@ Want to turn your marketing data into insights and build dashboards? Bring all o
 [BigQuery for Marketing Analysts](https://www.qwiklabs.com/quests/70?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
 
-##### Machine Learning
+### Machine Learning
 
 Want to learn and practice machine learning and build models in minutes instead of hours using just SQL? BigQuery Machine Learning is a new feature in BigQuery where data analysts can create, train, evaluate, and predict machine learning models with minimal coding. In this series of labs you will experiment with different model types and learn what makes a good model.
 
@@ -220,7 +221,7 @@ A favorite lab.
 [Insights from Data with BigQuery](https://www.qwiklabs.com/quests/123?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
 
-##### Create ML Models
+### Create ML Models
 
 Want to build ML models in minutes instead of hours using just SQL? BigQuery ML democratizes machine learning by letting data analysts create, train, evaluate, and predict with machine learning models using existing SQL tools and skills. 
 
@@ -242,7 +243,7 @@ Big data, machine learning, and scientific data? It sounds like the perfect matc
 [Scientific Data Processing](https://www.qwiklabs.com/quests/28?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467566)
 
 
-##### Analyzing Natality Data Using AI Platform and BigQuery
+### Analyzing Natality Data Using AI Platform and BigQuery
 
 A favorite lab.
 
