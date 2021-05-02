@@ -3,6 +3,10 @@ Kubeflow is the ML toolkit for Kubernetes.
 
 Using the Kubeflow configuration interfaces you can specify the ML tools required for your workflow. Then you can deploy the workflow to various clouds.
 
+Kubeflow offers several components that you can use to build your ML training, hyperparameter tuning, and serving workloads across multiple platforms.
+
+
+
 [https://www.kubeflow.org/docs/about/kubeflow/](https://www.kubeflow.org/docs/about/kubeflow/)
 
 <img src="https://www.kubeflow.org/docs/images/kubeflow-overview-platform-diagram.svg" width="700">
@@ -21,9 +25,15 @@ https://www.kubeflow.org/docs/started/kubeflow-overview/#introducing-the-ml-work
 
 https://github.com/kubeflow/examples/blob/master/mnist/mnist_gcp.ipynb
 
-# Kubeflow pipelines and components
+# Kubeflow pipelines 
 
-Kubeflow Pipelines is a component of Kubeflow that provides a platform for building and deploying ML workflows, called pipelines. Pipelines are built from self-contained sets of code called pipeline components.
+Kubeflow Pipelines is a component of Kubeflow that provides a platform for building and deploying ML workflows, called pipelines. 
+
+Kubeflow Pipelines is a platform for building, deploying, and managing multi-step ML workflows based on Docker containers. 
+
+Pipelines are built from self-contained sets of code called pipeline components.
+
+
 
 https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/
 
@@ -32,3 +42,11 @@ https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/
 https://github.com/bobbae/gcp/wiki/AI-Hub
 
 https://cloud.google.com/ai-hub/docs/deploy-pipeline
+
+
+# Kubeflow Examples 
+
+https://github.com/kubeflow/examples
+
+
+
