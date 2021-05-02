@@ -143,16 +143,7 @@ https://www.terraform.io/intro/vs/cloudformation.html
 # Qwiklabs
 
 
-## Terraform Quest
 
-[https://www.qwiklabs.com/quests/44](https://www.qwiklabs.com/quests/44)
-
-
-## Terraform Quest
-
-In this Quest, the experienced user of Google Cloud will learn how to describe and launch cloud resources with Terraform, an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. In these nine hands-on labs, you will work with example templates and understand how to launch a range of configurations, from simple servers, through full load-balanced applications.
-
-[Managing Cloud Infrastructure with Terraform](https://www.qwiklabs.com/quests/44?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
 
 ## VM Migration
