@@ -24,6 +24,7 @@ Compare different GCP Database services.
 
 [https://cloud.google.com/products/databases](https://cloud.google.com/products/databases)
 
+https://github.com/bobbae/gcp/wiki/Databases
 
 # Cloud SQL
 
