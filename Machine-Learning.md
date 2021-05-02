@@ -165,6 +165,26 @@ https://pytorch.org/
 
 https://www.guru99.com/pytorch-tutorial.html
 
+# Kubeflow
+
+https://github.com/bobbae/gcp/wiki/Kubeflow
+
+# MLOps
+
+
+
+https://github.com/bobbae/gcp/wiki/MLOps
+
+
+# AI Hub
+
+https://github.com/bobbae/gcp/wiki/AI-Hub
+
+# AI Platform
+
+https://github.com/bobbae/gcp/wiki/AI-Platform
+
+
 # Links
 
 - [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
