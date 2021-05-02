@@ -2,7 +2,7 @@
 
 Kubernetes service is an abstract way to expose an application running on a set of Pods as a network service.
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
+[Kubernetes Networking](Kubernetes-Networking)
 
 With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
 
@@ -82,7 +82,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer
 
 <img src="https://i.imgur.com/QCKwPHE.png" width="700">
 
-https://github.com/bobbae/gcp/wiki/Load-Balancer
+[Load Balancer](Load-Balancer)
 
 ### MetalLB
 
@@ -103,7 +103,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 
 # Ingress
 
-https://github.com/bobbae/gcp/wiki/Ingress
+[Ingress](Ingress)
 
 <img src="https://i.imgur.com/pO8Gp3d.png" width="700">
 
