@@ -10,7 +10,7 @@ Based on [Apache Airflow](https://airflow.apache.org/), Cloud Composer is great 
 For example, Cloud Composer is a natural choice if your workflow needs to run a series of jobs in a data warehouse or big data cluster, and save results to a storage bucket.
 
 
-https://github.com/bobbae/gcp/wiki/Composer
+[Composer](Composer)
 
 # Google Cloud Workflows
 
@@ -53,7 +53,6 @@ For example, you can use connectors to publish Pub/Sub messages, read or write d
 
 # Google Cloud Composer
 
-https://github.com/bobbae/gcp/wiki/Composer
 
 The [Cloud Composer](https://cloud.google.com/composer) is a fully managed workflow orchestration built on [Apache Airflow](https://airflow.apache.org/). 
 
@@ -66,7 +65,7 @@ The [Cloud Composer](https://cloud.google.com/composer) is a fully managed workf
 
 # Google Dataproc Workflow 
 
-https://github.com/bobbae/gcp/wiki/Dataproc
+[Dataproc](DataProc)
 
 The Dataproc [WorkflowTemplates](https://cloud.google.com/dataproc/docs/reference/rest/v1/projects.regions.workflowTemplates) API provides a flexible and easy-to-use mechanism for managing and executing workflows. 
 
@@ -78,9 +77,9 @@ A Workflow Template is a reusable workflow configuration. It defines a graph of 
 
 ML workflows tools.
 
-https://github.com/bobbae/gcp/wiki/Kubeflow
+[Kubeflow](Kubeflow)
 
-https://github.com/bobbae/gcp/wiki/AI-Hub
+[AI Hub](AI-Hub)
 
 # Workflow Tools Comparison and Alternatives
 
