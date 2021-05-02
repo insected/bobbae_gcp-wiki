@@ -82,14 +82,6 @@ Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/)
 [https://cloud.google.com/data-fusion/docs](https://cloud.google.com/data-fusion/docs)
 
 
-# Qwiklab
-
-
-## Codeless Pipelines
-
-This fundamental-level Quest offers hands-on practice with Cloud Data Fusion, a cloud-native, code-free, data integration platform. ETL Developers, Data Engineers and Analysts can greatly benefit from the pre-built transformations and connectors to build and deploy their pipelines without worrying about writing code. This Quest starts with a quickstart lab that familiarises learners with the Cloud Data Fusion UI. Learners then get to try running batch and realtime pipelines as well as using the built-in Wrangler plugin to perform some interesting transformations on data.
-
-[Building Codeless Pipelines on Cloud Data Fusion](https://www.qwiklabs.com/quests/130?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467888)
 
 
 # Dataflow
