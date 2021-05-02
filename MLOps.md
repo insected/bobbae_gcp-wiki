@@ -37,11 +37,10 @@ https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8
 
 # DevOps vs MLOps
 
-https://github.com/bobbae/gcp/wiki/DevOps
+[DevOps](DevOps)
 
 DevOps  is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
-https://github.com/bobbae/gcp/wiki/DevOps
 
 Comparison with MLOps:
 
@@ -57,4 +56,4 @@ https://www.gitops.tech/
 
 # Kubeflow
 
-https://github.com/bobbae/gcp/wiki/Kubeflow
+[Kubeflow](Kubeflow)
