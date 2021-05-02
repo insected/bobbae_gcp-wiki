@@ -1,5 +1,5 @@
 
-To be used with [GCP Learning main document](https://github.com/bobbae/gcp/wiki/GCP-Learning)
+To be used with [GCP Learning main document](GCP-Learning)
 
 # GCP Basics
 - [Google Cloud Platform](https://cloud.google.com/) 
