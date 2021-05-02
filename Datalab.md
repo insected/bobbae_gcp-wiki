@@ -32,10 +32,12 @@ https://cloud.google.com/datalab/docs
 
 # Jupyter 
 
+https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
+
 https://github.com/bobbae/gcp/wiki/Jupyter
 
 
 
-# Datalab notebook tasks
+# Datalab Jupyter Notebooks Tasks
 
 [https://cloud.google.com/datalab/docs/how-to/working-with-notebooks](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks)
