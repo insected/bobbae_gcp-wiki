@@ -1,7 +1,7 @@
 
 # Composer Introduction 
 
-Cloud Composer is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage workflows. 
+Cloud Composer is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage [workflows](Workflows). 
 
 Cloud Composer automation helps you create Airflow environments quickly and use Airflow-native tools, such as the powerful Airflow web interface and command line tools, so you can focus on your workflows and not your infrastructure.
 
@@ -107,11 +107,6 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 ## Industrialization of a Machine Learning model using Apache Airflow and Apache BEAM.
 
 [https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
-
-
-# Task Orchestration tools
-
-https://github.com/bobbae/gcp/wiki/Workflows
 
 
 
