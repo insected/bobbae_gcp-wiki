@@ -6,15 +6,17 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 # Kubernetes
 
+[Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
+
 <img src="http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg" width="700">
 
-https://kubernetes.io/
+
 
 https://www.youtube.com/watch?v=Rl5M1CzgEH4
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/q1-1.png" width="300">
 
-Kubernetes is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
+[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 
 https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx
 
@@ -24,13 +26,13 @@ https://www.youtube.com/watch?v=X48VuDVv0do
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Application.png" width="700">
 
-Kubernetes API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
+[Kubernetes](https://cloud.google.com/learn/what-is-kubernetes) API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
 
 <img src="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" width="700">
 
 ## GKE
 
-[GKE](GKE)
+[GKE](GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines (specifically, Compute Engine instances) grouped together to form a cluster.
 
 ## Kubernetes Control Plane
 
@@ -39,6 +41,14 @@ Kubernetes API lets you query and manipulate the state of objects in Kubernetes.
 https://kubernetes.io/docs/concepts/overview/components/
 
 ## API
+
+The core of Kubernetes' control plane is the API server. The API server exposes an HTTP API that lets end users, different parts of your cluster, and external components communicate with one another.
+
+The Kubernetes API lets you query and manipulate the state of API objects in Kubernetes (for example: Pods, Namespaces, ConfigMaps, and Events).
+
+Most operations can be performed through the kubectl command-line interface or other command-line tools, such as kubeadm, which in turn use the API. However, you can also access the API directly using REST calls.
+
+Consider using one of the client libraries if you are writing an application using the Kubernetes API.
 
 https://kubernetes.io/docs/concepts/overview/kubernetes-api/
 
@@ -73,39 +83,29 @@ The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference
 
 <img src="https://miro.medium.com/max/1575/1*qZV6wiQr4yet746qAl-G7A.png" width="600">
 
-Kustomize introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into kubectl as apply -k.
+[Kustomize](https://kustomize.io/) introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into `kubectl as apply -k`.
 
 [https://www.youtube.com/watch?v=uvH84BviDS4](https://www.youtube.com/watch?v=uvH84BviDS4)
 
-https://kustomize.io/
 
 https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e
 
 
-## Kubernetes origin
+## Kubernetes Details
 
-[Kubernetes Origin](Kubernetes-Origin)
-
-## Kubernetes Examples
-
-[Kubernetes Examples](Kubernetes-Examples)
-
-
-## Kubernetes Architecture
-
-[Kubernetes Architecture](Kubernetes-Architecture)
+[Kubernetes](Kubernetes-Origin) is influenced by Borg, Omega and other systems.  You should check out various
+[Kubernetes Examples](Kubernetes-Examples) to learn more about [Kubernetes Architecture](Kubernetes-Architecture).
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png" width="700">
 
-## Kubernetes Networking
 
-[Kubernetes Networking](Kubernetes-Networking)
+
+[Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
-## Kubernetes Storage
-
-[Kubernetes Storage](Kubernetes-Storage)
+As Kubernetes evolved the support for [Stateful Applications](https://thenewstack.io/the-evolution-of-stateful-applications-on-kubernetes/) the
+[Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
 
 ## Authentication and Authorization in Kubernetes
 
@@ -113,28 +113,26 @@ https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e
 
 ## Ingress
 
-[Ingress](Ingress)
+Kubernetes [Ingress](Ingress) may provide load balancing, SSL termination and name-based virtual hosting.
 
+
+Ingress exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
 
 
 
 ## Service Mesh
 
-[Service Mesh](Service-Mesh)
-
-
-
+Kubernetes [Service Mesh](Service-Mesh) is configurable infrastructure layer for a microservices application.
 
 
 ## Cloud Build & Cloud Code with Containers
 
-[Cloud Build](Cloud-Build)
-
+[Cloud Build](Cloud-Build) provides a `gke-deploy` builder that enables you to deploy a containerized application to a GKE cluster.
 
 
 ## K8s monitoring
 
-[Kubernetes Monitoring](Kubernetes-Monitoring)
+There are many [Kubernetes Monitoring](Kubernetes-Monitoring) tools.
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/29.png" width="600">
 
@@ -154,7 +152,7 @@ With Binary Authorization, you can automatically check each component of your so
 
 ## Scaling
 
-[Kubernetes Scaling](Kubernetes-scaling]
+[Kubernetes Scaling](Kubernetes-scaling) has evolved over time to include VPA and HPA.
 
 ## Federation
 
@@ -174,4 +172,4 @@ https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff
 
 ## Qwiklabs
 
-[Kubernetes Qwiklabs](Kubernetes-Qwiklabs)
+There many interesting [Kubernetes Qwiklabs](Kubernetes-Qwiklabs).
