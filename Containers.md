@@ -1,15 +1,19 @@
 
 ## What is a container?
 
-A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+A [container](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1/)  is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.  
+
+A [container](https://appfleet.com/blog/what-is-a-container-a-kernel-introduction/) is  attached to different [namespaces](https://opensource.com/article/19/10/namespaces-and-containers-linux).
+
+[Namespaces](https://opensource.com/article/19/10/namespaces-and-containers-linux), along with other technologies like [cgroups](https://en.wikipedia.org/wiki/Cgroups) and [more](https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/), form the foundation of containerization.
 
 [https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
 
 <img src="https://eglerean.github.io/reproducible-research/img/docker_architecture.svg" width="800">
 
-### Container Images
+### Container [Images](https://phoenixnap.com/kb/docker-image-vs-container)
 
-A container image is a ready-to-run software package, containing everything needed to run an application: the code and any runtime it requires, application and system libraries, and default values for any essential settings.
+A [container image](https://cloud.google.com/container-registry/docs/image-formats) is a ready-to-run software package, containing everything needed to run an application: the code and any runtime it requires, application and system libraries, and default values for any essential settings.
 
 <img src="https://vitalflux.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-07-at-9.26.42-PM.png" width="800">
 
