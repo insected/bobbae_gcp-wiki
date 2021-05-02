@@ -14,7 +14,6 @@ AI Platform training with built-in algorithms.
 
 [https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
 
-https://github.com/bobbae/gcp/wiki/Machine-Learning
 
 
 # Dialogflow
@@ -81,20 +80,20 @@ The Cloud Data Loss Prevention (DLP) helps you understand, manage, and protect s
 
 # Scikit Learn
 
-https://github.com/bobbae/gcp/wiki/Scikit-Learn
+[Scikit Learn](Scikit-Learn)
 
 
 # TensorFlow
 
-https://github.com/bobbae/gcp/wiki/Tensorflow
+[Tensorflow](Tensorflow)
 
-# AI Platform and Accelerators
+# AI Platform 
 
-https://github.com/bobbae/gcp/wiki/AI-Platform
+[AI Platform](AI-Platform)
 
 # AI Hub
 
-https://github.com/bobbae/gcp/wiki/AI-Hub
+[AI Hub](AI-Hub)
 
 # AI Explanations
 
@@ -135,19 +134,19 @@ Tensor Processing Units (TPUs) are Google’s custom-developed application-speci
 # Keras
 
 
-https://github.com/bobbae/gcp/wiki/Keras
+[Keras](Keras)
 
 # Datalab
 
-https://github.com/bobbae/gcp/wiki/Datalab
+[Datalab](Datalab)
 
 # Colab
 
-https://github.com/bobbae/gcp/wiki/Colab
+[Colab](Colab)
 
 # Data Science Qwiklabs
 
-https://github.com/bobbae/gcp/wiki/Data-Science-Qwiklabs
+[Data Science Qwiklabs](Data-Science-Qwiklabs)
 
 # Data Science related Math
 
@@ -177,7 +176,7 @@ https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 # Jupyter 
 
-https://github.com/bobbae/gcp/wiki/Jupyter
+[Jupyter](Jupyter)
 
 # Cookiecutter Data Science
 
@@ -188,4 +187,4 @@ https://drivendata.github.io/cookiecutter-data-science/
 
 # Machine Learning 
 
-https://github.com/bobbae/gcp/wiki/Machine-Learning
+[Machine Learning](Machine-Learning)
