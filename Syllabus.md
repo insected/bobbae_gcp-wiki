@@ -53,14 +53,9 @@ You may not have enough time to go through every video and Qwiklabs sessions.  Y
 
 We will discuss the topics to be covered per day as we make progress during our daily meetings. 
 
-# Example Schedules
-
-Here are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
-
-[Schedules](Schedules)
+# Example [Schedules](Schedules)
 
 
+[Here](Schedules) are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
 
-## Weekly Assignments
-
-[Assignments](Assignments)
+During the scheduled programs, there are some weekly [Assignments](Assignments).
