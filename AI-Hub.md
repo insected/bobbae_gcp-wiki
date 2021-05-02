@@ -15,7 +15,7 @@
 
 # Kubeflow
 
-https://github.com/bobbae/gcp/wiki/Kubeflow 
+[Kubeflow](Kubeflow)
 
 # Quickstart for using public assets
 
@@ -38,7 +38,7 @@ Jupyter Notebooks from AI Hub can be opened in AI Platform Notebooks.
 Here is an example:
 [Introduction to Neural Networks on AI Hub](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
 
-https://github.com/bobbae/gcp/wiki/Jupyter
+[Jupyter](Jupyter)
 
 # Links
 
