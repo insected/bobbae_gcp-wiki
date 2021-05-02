@@ -49,7 +49,7 @@ https://github.com/bobbae/gcp/wiki/Colab
 https://cloud.google.com/dataproc/docs/concepts/components/jupyter
 
 
-# Tutorial: Spawning notebook servers on Google Kubernetes Engine
+# Tutorial: Spawning Jupyter notebook servers on Google Kubernetes Engine
 
 https://cloud.google.com/architecture/spawning-notebook-servers-on-gke-tutorial
 
