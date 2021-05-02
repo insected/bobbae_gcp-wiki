@@ -1,8 +1,5 @@
 Terraform is a tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
-Terraform is a widely used tool to create cloud infrastructure to public clouds — and this is Terraform’s most compelling pro: If you do multi-cloud development (as I do — AWS, GCP and Azure) it is a really powerful benefit to have one tool to create IaC for all three cloud platforms. Terraform also provides powerful declarative language (HCL) for creating IaC solutions. All major cloud services are supported in Terraform and usually new major services are supported pretty soon they are launched by the cloud provider.
-
-Terraform is a declarative language but compared to other declarative languages used by some public cloud provider native IaC tools (like JSON or YAML) Terraform provides nice constructs to modularize your cloud resources into logical re-usable entities.
 
 # Infrastructure as Code
 
@@ -10,7 +7,6 @@ Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://clou
 
 [https://cloud.google.com/docs/terraform](https://cloud.google.com/docs/terraform)
 
-Google Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using yaml. On the other hand, Terraform is detailed as "Describe your complete infrastructure as code and build resources across providers".
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
