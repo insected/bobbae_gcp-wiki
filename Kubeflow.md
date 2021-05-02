@@ -20,3 +20,15 @@ https://www.kubeflow.org/docs/started/kubeflow-overview/#introducing-the-ml-work
 ## MNIST end to end on Kubeflow on GKE
 
 https://github.com/kubeflow/examples/blob/master/mnist/mnist_gcp.ipynb
+
+# Kubeflow pipelines and components
+
+Kubeflow Pipelines is a component of Kubeflow that provides a platform for building and deploying ML workflows, called pipelines. Pipelines are built from self-contained sets of code called pipeline components.
+
+https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/
+
+## Deploying Kubeflow Pipelines in AI Hub
+
+https://github.com/bobbae/gcp/wiki/AI-Hub
+
+https://cloud.google.com/ai-hub/docs/deploy-pipeline
