@@ -18,11 +18,11 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 
 ## Google Cloud Deployment Manager
 
-https://github.com/bobbae/gcp/wiki/Cloud-Deployment-Manager
+[Cloud Deployment Manager](Cloud-Deployment-Manager)
 
 ## Terraform
 
-https://github.com/bobbae/gcp/wiki/Terraform
+[Terraform](Terraform)
 
 # Cloud Foundation Toolkit templates
 
