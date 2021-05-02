@@ -51,7 +51,7 @@ When the Service type is set to LoadBalancer, Kubernetes provides functionality 
 
 https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/
 
-https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
+Also [ClusterIP, Ingress, NodePort, Load Balancer](ClusterIP,-Ingress,-NodePort,-Load-Balancer) are some of the ways to expose services.
 
 # GKE Ingess Load Balancer
 
