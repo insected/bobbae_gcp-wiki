@@ -73,4 +73,4 @@ In [Networks and tunnel routing](https://cloud.google.com/network-connectivity/d
 
 # IPSec & Cryptography
 
-https://github.com/bobbae/gcp/wiki/Cryptography
+[Cryptography](Cryptography)
