@@ -9,6 +9,12 @@ Cloud Composer automation helps you create Airflow environments quickly and use 
 
 Cloud Composer is a managed workflow orchestration service built on Apache Airflow. 
 
+
+Google runs this open source orchestration platform on top of a Google Kubernetes Engine (GKE) cluster. 
+
+This cluster manages the Airflow workers, and opens up a host of integration opportunities with other Google Cloud products.
+
+
 [https://www.youtube.com/watch?v=bwZOAXnCMf8](https://www.youtube.com/watch?v=bwZOAXnCMf8)
 
 Environments are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. 
@@ -21,6 +27,20 @@ For simple use cases, you can create one environment in one region. For complex 
 
 Airflow communicates with other Google Cloud products through the products' public APIs.
 
+
+## Integration with Other GCP Services 
+
+Cloud Composer lets you author workflows with a Python API, schedule them to run automatically 
+or start them manually, and monitor the execution of their tasks in real time through a graphical UI.
+
+Built-in integration with  BigQuery, Dataflow, Dataproc, Datastore, Cloud Storage, Pub/Sub, AI Platform.
+
+During environment creation, Cloud Composer provides the following configuration options: Cloud Composer environment with a route-based GKE cluster (default), Private IP Cloud Composer environment, Cloud Composer environment with a VPC Native GKE cluster using alias IP addresses, Shared VPC.
+
+## Writing DAGs
+
+
+https://cloud.google.com/composer/docs/how-to/using/writing-dags
 
 ## Data Pipelines with Cloud Composer
 
