@@ -373,7 +373,7 @@ https://365datascience.com/career-advice/job-interview-tips/data-engineer-interv
 
 https://realpython.com/data-engineer-interview-questions-python/
 
-https://github.com/bobbae/gcp/wiki/Data-Engineering
+[Data Engineering](Data-Engineering)
 
 
 ## Composer & Apache Airflow questions
