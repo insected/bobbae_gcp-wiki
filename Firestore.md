@@ -34,4 +34,4 @@ Firestore in Datastore mode is a NoSQL document database built for automatic sca
 
 https://cloud.google.com/datastore/docs
 
-https://github.com/bobbae/gcp/wiki/Datastore
+[Datastore](Datastore)
