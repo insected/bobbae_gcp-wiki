@@ -28,7 +28,7 @@ Namespaces provide a scope for names. Names of resources need to be unique withi
 
 Google Cloud supports organizing resources at the Project, Folder, and Organization levels. You can add Annotations to your Config Connector Namespaces to map resources to a Project, a Folder or Organization.
 
-Config Connector creates Google Cloud resources using Kubernetes configuration. These resources are organized in Kubernetes Namespaces.
+[Config Connector](https://cloud.google.com/config-connector/docs/overview) creates Google Cloud resources using Kubernetes configuration. These resources are organized in Kubernetes Namespaces.
 
 
 Config Connector can use the annotations on the resource's [Namespace](https://cloud.google.com/config-connector/docs/concepts/namespaces-and-projects)  to determine what project, folder, or organization to create the resources in. The Namespace's annotation will only be applied if the resource configuration does not already specify where to create the resource. 
