@@ -15,6 +15,8 @@
 
 # Kubeflow
 
+https://github.com/bobbae/gcp/wiki/Kubeflow 
+
 # Quickstart for using public assets
 
 The example notebook guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
