@@ -30,11 +30,11 @@ https://cloud.google.com/datalab/docs
 
 [https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
-# Jupyter 
+# [Jupyter](Jupyter)
 
 https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
 
-[Jupyter](Jupyter)
+
 
 
 
