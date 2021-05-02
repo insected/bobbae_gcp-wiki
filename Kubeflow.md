@@ -54,4 +54,10 @@ https://cloud.google.com/ai-hub/docs/deploy-pipeline
 https://github.com/kubeflow/examples
 
 
+# MLOps
 
+https://github.com/bobbae/gcp/wiki/MLOps
+
+# Machine Learning
+
+https://github.com/bobbae/gcp/wiki/Machine-Learning
