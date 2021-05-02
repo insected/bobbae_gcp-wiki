@@ -88,7 +88,7 @@ A survey of pipeline & workflow tools.
 
 [https://github.com/pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
 
-## Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow
+## Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
 [https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
