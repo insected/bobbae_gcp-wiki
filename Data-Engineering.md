@@ -24,7 +24,7 @@ Compare different GCP Database services.
 
 [https://cloud.google.com/products/databases](https://cloud.google.com/products/databases)
 
-https://github.com/bobbae/gcp/wiki/Databases
+There are a lot of [Databases](Databases) to choose from.
 
 # Cloud SQL
 
@@ -50,23 +50,25 @@ SQL is commonly pronounced “sequel.” Its most popular variants are MySQL, Po
 
 # Cloud Bigtable
 
-https://github.com/bobbae/gcp/wiki/Bigtable
+[Bigtable](Bigtable) is ideal for storing very large amounts of data in a key-value store and supports high read and write throughput at low latency for fast access.
 
 # Cloud Dataproc
 
-https://github.com/bobbae/gcp/wiki/Dataproc
+[Dataproc](Dataproc) is a fully managed and highly scalable service for running Apache Spark, Apache Flink, Presto, and 30+ open source tools and frameworks. 
 
 # Cloud Pub/Sub
 
-https://github.com/bobbae/gcp/wiki/PubSub
+[Pub/Sub](PubSub] works as a messaging middleware for traditional service integration or a simple communication medium for modern microservices.
+
 
 # BigQuery
 
-https://github.com/bobbae/gcp/wiki/BigQuery
+[BigQuery](BigQuery) is a serverless, cost-effective and multicloud data warehouse designed to help you turn big data into valuable business insights.
 
 # Cloud Spanner
 
-https://github.com/bobbae/gcp/wiki/Spanner
+[Cloud Spanner](Spanner) optimizes performance by automatically sharding the data based on request load and size of the data. 
+
 
 # Cloud Data Fusion
 
@@ -87,15 +89,15 @@ Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/)
 
 # Dataflow
 
-https://github.com/bobbae/gcp/wiki/Dataflow
+[Dataflow](Dataflow) is a fully managed streaming analytics service that minimizes latency, processing time, and cost through autoscaling and batch processing.
 
 # Cloud Dataprep
 
-https://github.com/bobbae/gcp/wiki/Dataprep
+[Dataprep](Dataprep) is an interactive web application in which users define the data preparation rules by interacting with a sample of their data. For execution of the flow over the complete dataset, the flow can be executed as a Dataprep job (using Dataflow). Pricing is split across two variables; design and execution.
 
 # Cloud Composer
 
-https://github.com/bobbae/gcp/wiki/Composer
+[Cloud Composer](Composer) is a fully managed data workflow orchestration service that empowers you to author, schedule, and monitor pipelines.
 
 # Google Data Studio
 
@@ -110,8 +112,7 @@ Demonstration of Data Studio.
 
 # Datalab 
 
-https://github.com/bobbae/gcp/wiki/Datalab
-
+[Cloud Datalab](Datalab) can be used to easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
 
 
 
@@ -119,7 +120,8 @@ https://github.com/bobbae/gcp/wiki/Datalab
 # Looker 
 
 
-https://github.com/bobbae/gcp/wiki/Looker
+[Looker](Looker) is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily.
+
 
 # Data Catalog
 
@@ -141,11 +143,11 @@ Cloud Life Sciences is a suite of services and tools for managing, processing, a
 
 # Firestore
 
-https://github.com/bobbae/gcp/wiki/Firestore
+[Cloud Firestore](Firestore) is a cloud-hosted, NoSQL database that your iOS, Android, and web apps can access directly via native SDKs. 
 
 # Datastore
 
-https://github.com/bobbae/gcp/wiki/Datastore
+[Datastore](Datastore) is a schemaless database, which allows you to worry less about making changes to your underlying data structure as your application evolves.
 
 # Firestore in datastore mode
 
@@ -155,13 +157,11 @@ https://cloud.google.com/datastore/docs
 
 # Memorystore
 
-https://github.com/bobbae/gcp/wiki/Memorystore
-
+[Memorystore](Memorystore) automates complex tasks for open source Redis and Memcached like enabling high availability, failover, patching, and monitoring so you can spend more time coding.
 
 # Firebase
 
-https://github.com/bobbae/gcp/wiki/Firebase
-
+[Firebase](Firebase) is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
 
 
 
