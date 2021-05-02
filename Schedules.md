@@ -4,12 +4,12 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1    |[Compute](https://github.com/bobbae/gcp/wiki/Compute)      |
-|    2    |[Storage](https://github.com/bobbae/gcp/wiki/Storage)      |
-|    3    |[Networking](https://github.com/bobbae/gcp/wiki/Networking)      |
-|    4   |[Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)  |
-|    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
-|    6    |[Infrastructure as Code](https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code)   |
+|    1    |[Compute](Compute)      |
+|    2    |[Storage](Storage)      |
+|    3    |[Networking](Networking)      |
+|    4   |[Kubernetes](Kubernetes-Engine-and-Containers)  |
+|    5    |[Security](Security)      |
+|    6    |[Infrastructure as Code](Infrastructure-as-Code)   |
 |    7    |Group Project   |
 |    8    |Reviews    |
 
@@ -18,12 +18,12 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1   | [Bigtable](https://github.com/bobbae/gcp/wiki/Bigtable) |
-|    2    |[BigQuery](https://github.com/bobbae/gcp/wiki/BigQuery)      |
-|    3     |[Dataproc](https://github.com/bobbae/gcp/wiki/Dataproc) |  
-|    4     |[Dataflow](https://github.com/bobbae/gcp/wiki/Dataflow)     |
-|    5    | [Datastore](https://github.com/bobbae/gcp/wiki/Datastore) |
-|    6    |[Spanner](https://github.com/bobbae/gcp/wiki/Spanner) |
+|    1   | [Bigtable](Bigtable) |
+|    2    |[BigQuery](BigQuery)      |
+|    3     |[Dataproc](Dataproc) |  
+|    4     |[Dataflow](Dataflow)     |
+|    5    | [Datastore](Datastore) |
+|    6    |[Spanner](Spanner) |
 |    7    |Group Project   |
 |    8    |Reviews    | 
 
@@ -34,12 +34,12 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|    1    |[Network Options](https://github.com/bobbae/gcp/wiki/Network-Options)      |
-|    2    |[VPC](https://github.com/bobbae/gcp/wiki/VPC)      |
-|    3    |[Router](https://github.com/bobbae/gcp/wiki/Router)      |
-|    4   |[VPN](https://github.com/bobbae/gcp/wiki/VPN)  |
-|    5    |[Security](https://github.com/bobbae/gcp/wiki/Security)      |
-|    6    |[Interconnect](https://github.com/bobbae/gcp/wiki/Interconnect)   |
+|    1    |[Network Options](Network-Options)      |
+|    2    |[VPC](VPC)      |
+|    3    |[Router](Router)      |
+|    4   |[VPN](VPN)  |
+|    5    |[Security](Security)      |
+|    6    |[Interconnect](Interconnect)   |
 |    7    |Group Project   |
 |    8    |Reviews    |
 
@@ -48,11 +48,11 @@
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
-|   1  | [Introduction to GCP](https://github.com/bobbae/gcp/wiki/Introduction) |
-|    2   |[Dataproc](https://github.com/bobbae/gcp/wiki/Dataproc) | 
-|    3    |[BigQuery](https://github.com/bobbae/gcp/wiki/BigQuery)      |
-|    4    |[DevOps](https://github.com/bobbae/gcp/wiki/DevOps)      |
-|    5   | [Spanner](https://github.com/bobbae/gcp/wiki/Spanner) |
-|    6    | [Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers)       |
+|   1  | [Introduction to GCP](Introduction) |
+|    2   |[Dataproc](Dataproc) | 
+|    3    |[BigQuery](BigQuery)      |
+|    4    |[DevOps](DevOps)      |
+|    5   | [Spanner](Spanner) |
+|    6    | [Kubernetes](Kubernetes-Engine-and-Containers)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
