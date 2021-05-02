@@ -172,3 +172,4 @@ https://www.guru99.com/pytorch-tutorial.html
 - [Hands-On Machine Learning on GCP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-on-Google-Cloud-Platform)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
