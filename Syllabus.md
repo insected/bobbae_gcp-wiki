@@ -25,7 +25,7 @@ If you are working as a group you can do a group project.
 You may review some project ideas from various sources. 
 
 
-https://github.com/bobbae/gcp/wiki/Projects
+[Projects](Projects)
 
 
 
@@ -57,10 +57,10 @@ We will discuss the topics to be covered per day as we make progress during our 
 
 Here are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
 
-https://github.com/bobbae/gcp/wiki/Schedules
+[Schedules](Schedules)
 
 
 
 ## Weekly Assignments
 
-https://github.com/bobbae/gcp/wiki/Assignments
+[Assignments](Assignments)
