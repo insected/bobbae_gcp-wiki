@@ -6,14 +6,14 @@
 * [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog)
 * [Getting Started with Cloud Shell and gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog)
 * [Google Cloud Essential Skills: Challenge Lab](https://www.qwiklabs.com/focuses/1734?parent=catalog)
-* [Compute Engine Tutorials](Read and discuss: https://cloud.google.com/compute/docs/tutorials)
+* [Compute Engine Tutorials](https://cloud.google.com/compute/docs/tutorials)
 
 ## Storage
 
-* https://www.qwiklabs.com/focuses/1760?parent=catalog
-* https://www.qwiklabs.com/focuses/569?parent=catalog
-* https://www.qwiklabs.com/focuses/3632?parent=catalog
-* Read and discuss: https://cloud.google.com/storage#section-5
+* [Cloud Storage: Qwik Start - Cloud Console](https://www.qwiklabs.com/focuses/1760?parent=catalog)
+* [Cloud Storage: Qwik Start - CLI/SDK](https://www.qwiklabs.com/focuses/569?parent=catalog)
+* [APIs Explorer: Cloud Storage](https://www.qwiklabs.com/focuses/3632?parent=catalog)
+* [Storage Use cases](https://cloud.google.com/storage#section-5)
 
 ## Networking
 
