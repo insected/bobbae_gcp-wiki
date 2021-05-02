@@ -73,13 +73,12 @@ A Workflow Template is a reusable workflow configuration. It defines a graph of 
 
 [Here](https://garystafford.medium.com/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp-95b02f54b5f2) is a great tutorial on Dataproc workflow templates by Gary Stafford.
 
-# Kubeflow & AI Hub
+# [Kubeflow](Kubeflow) & [AI Hub](AI-Hub)
 
-ML workflows tools.
 
-[Kubeflow](Kubeflow)
+[Kubeflow](Kubeflow) Pipelines is a platform for building and deploying portable, scalable machine learning (ML) workflows based on Docker containers.
+[AI Hub](AI-Hub) has support for [Kubeflow](Kubeflow) Pipelines.
 
-[AI Hub](AI-Hub)
 
 # Workflow Tools Comparison and Alternatives
 
