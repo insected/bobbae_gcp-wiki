@@ -27,12 +27,6 @@ Environments are a core concept in Cloud Composer. You can create one or more Cl
 [https://cloud.google.com/composer/docs/tutorials](https://cloud.google.com/composer/docs/tutorials)
 
 
-# Automating infrastructure using Airflow
-
-Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is put into an operator.  Collection of operators are put into a Plugin.  DAGs are composed of each step operator put into a pipeline. DAGs and Plugins are copied into Cloud Storage and run as Cloud Composer jobs.
-
-[https://cloud.google.com/solutions/automating-infrastructure-using-cloud-composer](https://cloud.google.com/solutions/automating-infrastructure-using-cloud-composer)
-
 
 # Apache Airflow 
 
@@ -44,30 +38,39 @@ Rich command line utilities make performing complex surgeries on DAGs a snap. Th
 
 Airflow is a micro-service architected framework. To deploy Airflow in a distributed setup, Cloud Composer provisions several Google Cloud components, which are collectively known as a Cloud Composer environment.
 
+## Automating infrastructure using Airflow
 
-# Concepts
+Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is put into an operator.  Collection of operators are put into a Plugin.  DAGs are composed of each step operator put into a pipeline. DAGs and Plugins are copied into Cloud Storage and run as Cloud Composer jobs.
+
+[https://cloud.google.com/solutions/automating-infrastructure-using-cloud-composer](https://cloud.google.com/solutions/automating-infrastructure-using-cloud-composer)
+
+
+
+
+
+## Concepts
 
 [https://airflow.apache.org/docs/stable/concepts.html](https://airflow.apache.org/docs/stable/concepts.html)
 
 
-# Apache Airflow for Beginners.
+## Apache Airflow for Beginners
 
 [https://www.youtube.com/watch?v=YWtfU0MQZ_4](https://www.youtube.com/watch?v=YWtfU0MQZ_4)
 
 
-# Developing workflows with Apache Airflow
+## Developing workflows with Apache Airflow
 
 [http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/)
 
 
-# Operators
+## Operators
 
  An Operator is an atomic block of workflow logic, which performs a single action. Operators are written as Python classes (subclasses of BaseOperator), where the __init__ function can be used to configure settings for the task and a method named execute is called when the task instance is executed.
 
 [https://github.com/apache/airflow/tree/master/airflow/operators](https://github.com/apache/airflow/tree/master/airflow/operators)
 
 
-## XCom
+### XCom
 
 [https://airflow.apache.org/docs/stable/concepts.html#xcoms](https://airflow.apache.org/docs/stable/concepts.html#xcoms)
 
