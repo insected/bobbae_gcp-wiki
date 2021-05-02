@@ -7,7 +7,7 @@ Jupyter is an interactive computational environment, in which you can combine co
 
 The name “Jupyter” is a strong reference to Galileo, who detailed his discovery of the Moons of Jupiter in his astronomical notebooks. 
 
-Jupyter is also a play on the languages Julia, Python, and R, which are pillars of the modern scientific world. 
+The name “Jupyter” is also a play on the languages Julia, Python, and R, which are pillars of the modern scientific world. 
 
 JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data.
 
