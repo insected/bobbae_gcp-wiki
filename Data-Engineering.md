@@ -162,8 +162,5 @@ https://github.com/bobbae/gcp/wiki/Memorystore
 https://github.com/bobbae/gcp/wiki/Firebase
 
 
-# Choosing Which Database to Use
 
-Database choice and comparison charts and methods. 
-[https://cloud.google.com/products/databases](https://cloud.google.com/products/databases)
 
