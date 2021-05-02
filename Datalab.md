@@ -30,11 +30,7 @@ https://cloud.google.com/datalab/docs
 [https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
 
-# Datalab Videos
 
-[https://cloud.google.com/datalab/docs#videos](https://cloud.google.com/datalab/docs#videos)
-
-[https://www.youtube.com/watch?v=pdQHyTy3s7M](https://www.youtube.com/watch?v=pdQHyTy3s7M)
 
 # Lifecycle 
 
