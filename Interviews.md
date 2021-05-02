@@ -134,6 +134,7 @@ https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3
 
 https://ds-interviews.org/
 
+https://www.whizlabs.com/blog/top-machine-learning-interview-questions/
 
 https://github.com/bobbae/gcp/wiki/Data-Science
 
