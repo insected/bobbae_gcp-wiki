@@ -2,7 +2,7 @@
 
 Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface.
 
-Whenever you perform classification, the first step is to understand the problem and identify potential features and labels. Features are those characteristics or attributes which affect the results of the label. For example, in the case of a loan distribution, bank manager's identify the customer's occupation, income, age, location, previous loan history, transaction history, and credit score. These characteristics are known as features which help the model classify customers.
+
 
 
 https://scikit-learn.org/stable/
