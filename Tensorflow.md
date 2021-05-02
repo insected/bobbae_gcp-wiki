@@ -55,3 +55,6 @@ The Kubeflow project is dedicated to making deployments of machine learning (ML)
 
 [https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
 
+## MNIST end to end on Kubeflow on GKE
+
+https://github.com/kubeflow/examples/blob/master/mnist/mnist_gcp.ipynb
