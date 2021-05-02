@@ -4,7 +4,7 @@
 
 ## Google Kubernetes Engine (GKE)
 
-[GKE](GKE) is Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
+[GKE](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview) is Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
 https://cloud.google.com/kubernetes-engine
 
@@ -19,7 +19,7 @@ Kubernetes is a great tool to host your highly available applications but what h
 
 [https://www.youtube.com/watch?v=rRZtZX0PDFc](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 
-### Batch on [GKE](GKE)
+### Batch on [GKE](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview)
 
 Batch on GKE (Batch) is a cloud-native solution for scheduling and managing batch workloads. With Batch, you can leverage the on-demand and flexible nature of cloud. Batch is based on Kubernetes and containers so your jobs are portable.
 
@@ -30,7 +30,7 @@ A video about using Batch on GKE.
 [https://www.youtube.com/watch?v=qLSLs-ko3ik](https://www.youtube.com/watch?v=qLSLs-ko3ik)
 ## GKE Operations
 
-A video about using Cloud Logging on [GKE](GKE).
+A video about using Cloud Logging on [GKE](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview).
 
 [https://www.youtube.com/watch?v=IusP8jDfnt4](https://www.youtube.com/watch?v=IusP8jDfnt4)
 
