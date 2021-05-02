@@ -28,8 +28,6 @@ The container runtime is the software that is responsible for running containers
 
 [Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers) supports several container runtimes: Docker, [containerd](https://containerd.io/), [CRI-O](https://cri-o.io), and any implementation of the Kubernetes CRI (Container Runtime Interface).
 
-The container runtime is the software that is responsible for running containers. Kubernetes supports several container runtimes: Docker, containerd, CRI-O, and any implementation of the Kubernetes CRI (Container Runtime Interface).
-
 ## Containers vs. VMs
 
 [Virtual machines](VM) and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
