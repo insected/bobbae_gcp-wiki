@@ -62,10 +62,13 @@ Apigee hybrid is a platform for developing and managing API proxies that feature
 
 ## Kong
 
-https://konghq.org/
+[Kong](https://konghq.org/) makes connecting APIs and microservices across hybrid or multi-cloud environments easier and faster than ever. We power trillions of API transactions for leading organizations globally through our end-to-end API platform. 
 
 ## Ambassador API gateway
 
-https://www.getambassador.io/products/api-gateway/
+Emissary Ingress (formerly known as the [Ambassador API Gateway](https://www.getambassador.io)) is an open-source Kubernetes-native API Gateway + Layer 7 load balancer + Kubernetes Ingress built on [Envoy Proxy](https://www.envoyproxy.io). Emissary Ingress is an CNCF incubation project.
+
+The Ambassador Edge Stack is a complete superset of the OSS Emissary Ingress project that offers additional functionality. Edge Stack is designed to easily expose, secure, and manage traffic to your Kubernetes microservices of any type. Edge Stack was built around the ideas of self-service (enabling GitOps-style management) and comprehensiveness (so it works with your situations and technology solutions). 
+
 
 
