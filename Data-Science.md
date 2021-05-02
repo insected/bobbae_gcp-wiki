@@ -80,20 +80,22 @@ The Cloud Data Loss Prevention (DLP) helps you understand, manage, and protect s
 
 # Scikit Learn
 
-[Scikit Learn](Scikit-Learn)
+[Scikit Learn](Scikit-Learn) python library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction.
 
 
 # TensorFlow
 
-[Tensorflow](Tensorflow)
+[Tensorflow](Tensorflow) is an end-to-end open source platform for machine learning. It has a comprehensive ecosystem of tools and libraries 
+to build and deploy ML powered applications.
 
 # AI Platform 
 
-[AI Platform](AI-Platform)
+[AI Platform](AI-Platform) is a development platform to build AI apps that run on Google Cloud and on-premises. Take your ML projects to production, quickly, and cost-effectively.
 
 # AI Hub
 
-[AI Hub](AI-Hub)
+[AI Hub](AI-Hub)   offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. 
+
 
 # AI Explanations
 
@@ -134,19 +136,19 @@ Tensor Processing Units (TPUs) are Google’s custom-developed application-speci
 # Keras
 
 
-[Keras](Keras)
+[Keras](Keras)   is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the [Tensorflow](Tensorflow) library.
 
 # Datalab
 
-[Datalab](Datalab)
+[Datalab](Datalab) is a powerful interactive tool created to explore, analyze, transform and visualize data and build [machine learning](Machine-Learning) models.
 
 # Colab
 
-[Colab](Colab)
+[Colab](Colab) supports [Jupyter](Jupyter) notebooks allow you to combine executable code and rich text.
 
 # Data Science Qwiklabs
 
-[Data Science Qwiklabs](Data-Science-Qwiklabs)
+Please take a look and try out the [Data Science Qwiklabs](Data-Science-Qwiklabs).
 
 # Data Science related Math
 
@@ -176,7 +178,7 @@ https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 # Jupyter 
 
-[Jupyter](Jupyter)
+[Jupyter](Jupyter) Notebooks combine code, data and visualizations for reproducible analytics.
 
 # Cookiecutter Data Science
 
@@ -187,4 +189,4 @@ https://drivendata.github.io/cookiecutter-data-science/
 
 # Machine Learning 
 
-[Machine Learning](Machine-Learning)
+[Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
