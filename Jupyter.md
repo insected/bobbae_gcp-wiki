@@ -15,11 +15,14 @@ https://jupyter.org/
 
 There are several ways to run Jupyter notebooks in GCP.
 
-# AI Platform Notebooks 
+# AI Platform  Jupyter Notebooks 
 
 https://cloud.google.com/ai-platform-notebooks
 
 # Datalab Jupyter Notebooks 
+
+https://github.com/bobbae/gcp/wiki/Datalab
+
 
 ## Jupyter Notebooks in the cloud
 
@@ -35,9 +38,16 @@ https://cloud.google.com/ai-platform-notebooks
 
 [https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
 
-# Colab Notebooks 
+
+# Colab Jupyter Notebooks 
 
 https://github.com/bobbae/gcp/wiki/Colab
+
+
+# Dataproc Jupyter Notebooks
+
+https://cloud.google.com/dataproc/docs/concepts/components/jupyter
+
 
 # JupyterHub
 
