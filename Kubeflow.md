@@ -42,9 +42,8 @@ Pipelines are built from self-contained sets of code called pipeline components.
 
 https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/
 
-## Deploying Kubeflow Pipelines in AI Hub
+## Deploying Kubeflow Pipelines in [AI Hub](AI-Hub)
 
-https://github.com/bobbae/gcp/wiki/AI-Hub
 
 https://cloud.google.com/ai-hub/docs/deploy-pipeline
 
@@ -56,8 +55,4 @@ https://github.com/kubeflow/examples
 
 # MLOps
 
-https://github.com/bobbae/gcp/wiki/MLOps
-
-# Machine Learning
-
-https://github.com/bobbae/gcp/wiki/Machine-Learning
+[MLOps](MLOps) is the process of taking an experimental [Machine Learning](Machine-Learning) model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
