@@ -7,10 +7,15 @@ https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code
 
 Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
-[https://cloud.google.com/docs/terraform](https://cloud.google.com/docs/terraform)
 
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
+
+# Cloud Foundation Toolkit
+
+Google Cloud Foundation Toolkit supports Terraform as well as Google Cloud Deployment manager.
+
+https://github.com/bobbae/gcp/wiki/Cloud-Foundation-Toolkit
 
 # Using terraform with Google Cloud
 
