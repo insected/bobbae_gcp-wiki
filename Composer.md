@@ -113,17 +113,6 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 https://github.com/bobbae/gcp/wiki/Workflows
 
-## Comparison and Alternatives
-
-A survey of pipeline & workflow tools.
-
-[https://github.com/pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
-
-## Airflow vs. Luigi vs. Argo vs. MLFlow vs. KubeFlow
-
-[https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
-
-
 
 
 
