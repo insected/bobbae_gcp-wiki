@@ -56,9 +56,8 @@ https://www.youtube.com/googlecloudplatform/
 
 #### GCP Useful Links
 
-https://github.com/bobbae/gcp/wiki/GCP-Learning-Links
 
-A Curated list of URLs related to GCP.
+Review this [Curated list of URLs](GCP-Learning-Links) related to GCP.
 
 [https://github.com/GoogleCloudPlatform/awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 
