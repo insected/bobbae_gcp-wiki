@@ -27,9 +27,8 @@ Kubernetes supports several container runtimes: Docker, [containerd](https://con
 
 ## Containers vs. VMs
 
-Virtual machines and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
+[Virtual machines](VM) and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
 
-https://github.com/bobbae/gcp/wiki/VM
 
 
 <img src="https://storage.googleapis.com/xebia-blog/1/2016/11/Container-vs-VMs.jpg" width="700">
