@@ -3,5 +3,5 @@ Welcome to the GCP wiki!
 https://ecotrust-canada.github.io/markdown-toc/
 -->
 - [GCP Learning main document](GCP-Learning)
-- [GCP Links](https://github.com/bobbae/gcp/wiki/GCP-Learning-Links)
+- [GCP Links](GCP-Learning-Links)
 
