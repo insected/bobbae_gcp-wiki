@@ -18,7 +18,7 @@ A sidecar proxy is an application design pattern which abstracts certain feature
 
 Nginx and envoy are common proxies used this way and controlled by service mesh controllers. 
 
-https://github.com/bobbae/gcp/wiki/L7-Proxies
+[L7 Proxies](L7-Proxies)
 
 
 ### Service Mesh Manifesto
