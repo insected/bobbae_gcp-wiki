@@ -53,67 +53,66 @@
 
 ## Dataproc
 
-* https://www.qwiklabs.com/focuses/586?parent=catalog
-* https://www.qwiklabs.com/focuses/585?parent=catalog
-* https://www.qwiklabs.com/focuses/5834?parent=catalog
+* [Dataproc: Qwik Start - Console](https://www.qwiklabs.com/focuses/586?parent=catalog)
+* [Dataproc: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/585?parent=catalog)
+* [Distributed Image Processing in Cloud Dataproc](https://www.qwiklabs.com/focuses/5834?parent=catalog)
 
 ## BigQuery
 
 
-* https://www.qwiklabs.com/focuses/577?parent=catalog
-* https://www.qwiklabs.com/focuses/3694?parent=catalog
-* https://www.qwiklabs.com/focuses/3696?parent=catalog
+* [BigQuery: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/577?parent=catalog)
+* [Creating Date-Partitioned Tables in BigQuery](https://www.qwiklabs.com/focuses/3694?parent=catalog)
+* [Working with JSON, Arrays, and Structs in BigQuery](https://www.qwiklabs.com/focuses/3696?parent=catalog)
 
 ## Dataflow
 
 
-* https://www.qwiklabs.com/focuses/1101?parent=catalog
-* https://www.qwiklabs.com/focuses/1100?parent=catalog
+* [Dataflow: Qwik Start - Templates](https://www.qwiklabs.com/focuses/1101?parent=catalog)
+* [Dataflow: Qwik Start - Python](https://www.qwiklabs.com/focuses/1100?parent=catalog)
 
 ## Pubsub
 
-* https://www.qwiklabs.com/focuses/3719?parent=catalog
-* https://www.qwiklabs.com/focuses/2775?parent=catalog
-* https://www.qwiklabs.com/focuses/3481?parent=catalog
+* [Google Cloud Pub/Sub: Qwik Start - Console](https://www.qwiklabs.com/focuses/3719?parent=catalog)
+* [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog)
+* [APIs Explorer: PubSub and IoT](https://www.qwiklabs.com/focuses/3481?parent=catalog)
 
 ## Cloud Composer
 
-* https://www.qwiklabs.com/focuses/2456?parent=catalog
-* https://www.qwiklabs.com/focuses/6034?parent=catalog
+* [Cloud Composer: Qwik Start - Console](https://www.qwiklabs.com/focuses/2456?parent=catalog)
+* [Cloud Composer: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/6034?parent=catalog)
 
 ## Bigtable
 
-* https://www.qwiklabs.com/focuses/579?parent=catalog
-* https://www.qwiklabs.com/focuses/580?parent=catalog
+* [Bigtable: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/579?parent=catalog)
+* [Bigtable: Qwik Start - Hbase Shell](https://www.qwiklabs.com/focuses/580?parent=catalog)
 
 ## CloudSQL
 
-* https://www.qwiklabs.com/focuses/936 ?parent=catalog
-* https://www.qwiklabs.com/focuses/17695?parent=catalog
+* [Cloud SQL for MySQL: Qwik Start](https://www.qwiklabs.com/focuses/936?parent=catalog)
+* [Migrating On-premises MySQL Using a Continuous Database Migration Service Job](https://www.qwiklabs.com/focuses/17695?parent=catalog)
 
 ## Datastore
 
-* https://www.qwiklabs.com/focuses/941?parent=catalog
-* https://www.qwiklabs.com/focuses/1076?parent=catalog
+* [Datastore: Qwik Start](https://www.qwiklabs.com/focuses/941?parent=catalog)
+* [App Dev: Storing Application Data in Cloud Datastore - Python](https://www.qwiklabs.com/focuses/1076?parent=catalog)
 
 
 ## Spanner
 
 
-* https://www.qwiklabs.com/focuses/1774?parent=catalog
-* https://www.qwiklabs.com/focuses/2189?parent=catalog
-* https://www.qwiklabs.com/focuses/1815?parent=catalog
+* [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1774?parent=catalog)
+* [Querying Cloud Spanner With a Java Client](https://www.qwiklabs.com/focuses/2189?parent=catalog)
+* [Cloud Spanner: Create a Gaming Leaderboard with C#](https://www.qwiklabs.com/focuses/1815?parent=catalog)
 
 ## Firestore
 
 
-* https://www.qwiklabs.com/focuses/8392?parent=catalog
-* https://www.qwiklabs.com/focuses/2767?parent=catalog
+* [Importing Data to a Firestore Database](https://www.qwiklabs.com/focuses/8392?parent=catalog)
+* [Using Firestore with Cloud IoT Core for Device Configuration](https://www.qwiklabs.com/focuses/2767?parent=catalog)
 
 ## Firebase
 
-* https://www.qwiklabs.com/focuses/8391?parent=catalog
-* https://www.qwiklabs.com/focuses/3634?parent=catalog
+* [Build a Serverless Web App with Firebase](https://www.qwiklabs.com/focuses/8391?parent=catalog)
 
 # Schedule 3
 
