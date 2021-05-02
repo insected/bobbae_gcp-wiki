@@ -57,23 +57,23 @@ Jupiter fabrics can deliver more than 1 Petabit/sec of total bisection bandwidth
 
 ### Network Options
 
-https://github.com/bobbae/gcp/wiki/Network-Options
+[Network Options](Network-Options)
 
 ### Virtual Private Cloud (VPC)
 
-https://github.com/bobbae/gcp/wiki/VPC
+[VPC](VPC)
 
 ### Cloud Router
 
-https://github.com/bobbae/gcp/wiki/Router
+[Router](Router)
 
 ### Cloud VPN
 
-https://github.com/bobbae/gcp/wiki/VPN
+[VPN](VPN)
 
 ### Cloud DNS
 
-https://github.com/bobbae/gcp/wiki/DNS
+[DNS](DNS)
 
 
 
@@ -106,15 +106,15 @@ Cloud CDN (Content Delivery Network) uses Google's globally distributed edge poi
 
 ### Cloud Interconnect
 
-https://github.com/bobbae/gcp/wiki/Interconnect
+[Interconnect](Interconnect)
 
 ### Peering
 
-https://github.com/bobbae/gcp/wiki/Peering
+[Peering](Peering)
 
 ### Cloud Load Balancing
 
-https://github.com/bobbae/gcp/wiki/Load-Balancer
+[Load Balancer](Load-Balancer)
 
 ### Cloud NAT
 
@@ -174,7 +174,7 @@ Network and security telemetry is fundamental to operate your deployments in pub
 ### Traffic Director
 
 
-https://github.com/bobbae/gcp/wiki/Traffic-Director
+[Traffic Director](Traffic-Director)
 
 
 ### Service Directory
