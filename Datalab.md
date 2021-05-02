@@ -10,12 +10,12 @@ https://cloud.google.com/datalab/docs
 [https://www.youtube.com/watch?v=pdQHyTy3s7M](https://www.youtube.com/watch?v=pdQHyTy3s7M)
 
 
-# Notebook in the cloud.
+# Notebook in the cloud
 
 [https://www.youtube.com/watch?v=Eu57QKNHaiY](https://www.youtube.com/watch?v=Eu57QKNHaiY)
 
 
-# Jupyter
+# Jupyter tips & tricks 
 
 [https://www.youtube.com/watch?v=2eCHD6f_phE](https://www.youtube.com/watch?v=2eCHD6f_phE)
 
