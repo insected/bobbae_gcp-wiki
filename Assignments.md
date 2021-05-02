@@ -172,53 +172,60 @@
 
 ## GCP Introduction
 
-* https://www.qwiklabs.com/focuses/2794?parent=catalog
-* https://www.qwiklabs.com/focuses/3563?parent=catalog
-* https://www.qwiklabs.com/focuses/563?parent=catalog
-* https://www.qwiklabs.com/focuses/1734?parent=catalog
+* [A Tour of Qwiklabs and Google Cloud](https://www.qwiklabs.com/focuses/2794?parent=catalog)
+* [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog)
+* [Getting Started with Cloud Shell and gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog)
+* [Google Cloud Essential Skills: Challenge Lab](https://www.qwiklabs.com/focuses/1734?parent=catalog)
+* [Compute Engine Tutorials](https://cloud.google.com/compute/docs/tutorials)
+
 
 ## Dataproc
 
-* https://www.qwiklabs.com/focuses/586?parent=catalog
-* https://www.qwiklabs.com/focuses/585?parent=catalog
-* https://www.qwiklabs.com/focuses/5834?parent=catalog
+* [Dataproc: Qwik Start - Console](https://www.qwiklabs.com/focuses/586?parent=catalog)
+* [Dataproc: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/585?parent=catalog)
+* [Distributed Image Processing in Cloud Dataproc](https://www.qwiklabs.com/focuses/5834?parent=catalog)
+
 
 ## BigQuery
 
-* https://www.qwiklabs.com/focuses/577?parent=catalog
-* https://www.qwiklabs.com/focuses/3694?parent=catalog
-* https://www.qwiklabs.com/focuses/3696?parent=catalog
 
+* [BigQuery: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/577?parent=catalog)
+* [Creating Date-Partitioned Tables in BigQuery](https://www.qwiklabs.com/focuses/3694?parent=catalog)
+* [Working with JSON, Arrays, and Structs in BigQuery](https://www.qwiklabs.com/focuses/3696?parent=catalog)
 
 ## Dataflow
 
-* https://www.qwiklabs.com/focuses/1101?parent=catalog
-* https://www.qwiklabs.com/focuses/1100?parent=catalog
+
+* [Dataflow: Qwik Start - Templates](https://www.qwiklabs.com/focuses/1101?parent=catalog)
+* [Dataflow: Qwik Start - Python](https://www.qwiklabs.com/focuses/1100?parent=catalog)
 
 ## PubSub
 
-* https://www.qwiklabs.com/focuses/3719?parent=catalog
-* https://www.qwiklabs.com/focuses/2775?parent=catalog
-* https://www.qwiklabs.com/focuses/3481?parent=catalog
+* [Google Cloud Pub/Sub: Qwik Start - Console](https://www.qwiklabs.com/focuses/3719?parent=catalog)
+* [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog)
+* [APIs Explorer: PubSub and IoT](https://www.qwiklabs.com/focuses/3481?parent=catalog)
 
 ## Spanner
 
-* https://www.qwiklabs.com/focuses/1774?parent=catalog
-* https://www.qwiklabs.com/focuses/2189?parent=catalog
-* https://www.qwiklabs.com/focuses/1815?parent=catalog
+
+* [Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1774?parent=catalog)
+* [Querying Cloud Spanner With a Java Client](https://www.qwiklabs.com/focuses/2189?parent=catalog)
+* [Cloud Spanner: Create a Gaming Leaderboard with C#](https://www.qwiklabs.com/focuses/1815?parent=catalog)
 
 ## Kubernetes
 
-* https://www.qwiklabs.com/focuses/1029?parent=catalog
-* https://www.qwiklabs.com/focuses/878?parent=catalog
-* https://www.qwiklabs.com/focuses/557?parent=catalog
-* https://www.qwiklabs.com/focuses/639?parent=catalog
+* [Introduction to Docker](https://www.qwiklabs.com/focuses/1029?parent=catalog)
+* [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog)
+* [Orchestrating the Cloud with Kubernetes](https://www.qwiklabs.com/focuses/557?parent=catalog)
+* [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog)
+* [Kubernetes Tutorials](https://cloud.google.com/kubernetes-engine/docs/tutorials)
+
 
 ## Kubernetes Examples
 
-* https://www.qwiklabs.com/focuses/1050?parent=catalog
-* https://www.qwiklabs.com/focuses/872?parent=catalog
-* https://www.qwiklabs.com/focuses/1241?parent=catalog
-* https://www.qwiklabs.com/focuses/640?parent=catalog
+* [Using Kubernetes Engine to Deploy Apps with Regional Persistent Disks](https://www.qwiklabs.com/focuses/1050?parent=catalog)
+* [NGINX Ingress Controller on Google Kubernetes Engine](https://www.qwiklabs.com/focuses/872?parent=catalog)
+* [Awwvision: Cloud Vision API from a Kubernetes Cluster](https://www.qwiklabs.com/focuses/1241?parent=catalog)
+* [Running a MongoDB Database in Kubernetes with StatefulSets](https://www.qwiklabs.com/focuses/640?parent=catalog)
 
 
