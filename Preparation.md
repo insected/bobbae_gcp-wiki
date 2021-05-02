@@ -135,4 +135,4 @@ https://acloudguru.com/search?s=google
 
 ## Syllabus
 
-https://github.com/bobbae/gcp/wiki/Syllabus
+You can review the [Syllabus](Syllabus). 
