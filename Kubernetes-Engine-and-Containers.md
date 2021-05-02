@@ -2,11 +2,11 @@
 
 # Containers
 
-https://github.com/bobbae/gcp/wiki/Containers
+[Containers](Containers)
 
 ## Namespaces
 
-https://github.com/bobbae/gcp/wiki/Namespaces
+[Namespaces](Namespaces)
 
 # Kubernetes
 
@@ -34,7 +34,7 @@ Kubernetes API lets you query and manipulate the state of objects in Kubernetes.
 
 ## GKE
 
-https://github.com/bobbae/gcp/wiki/GKE
+[GKE](GKE)
 
 ## Kubernetes Control Plane
 
@@ -53,9 +53,6 @@ A Kubernetes object is a "record of intent"--once you create the object, the Kub
 https://kubernetes.io/docs/concepts/overview/working-with-objects/
 
 
-## Google Kubernetes Engine (GKE)
-
-https://github.com/bobbae/gcp/wiki/GKE
 
 ## An introduction to Kubernetes
 
@@ -91,28 +88,28 @@ https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e
 
 ## Kubernetes origin
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Origin
+[Kubernetes Origin](Kubernetes-Origin)
 
 ## Kubernetes Examples
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Examples
+[Kubernetes Examples](Kubernetes-Examples)
 
 
 ## Kubernetes Architecture
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Architecture
+[Kubernetes Architecture](Kubernetes-Architecture)
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png" width="700">
 
 ## Kubernetes Networking
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
+[Kubernetes Networking](Kubernetes-Networking)
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
 ## Kubernetes Storage
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Storage
+[Kubernetes Storage](Kubernetes-Storage)
 
 ## Authentication and Authorization in Kubernetes
 
@@ -120,14 +117,14 @@ https://github.com/bobbae/gcp/wiki/Kubernetes-Storage
 
 ## Ingress
 
-https://github.com/bobbae/gcp/wiki/Ingress
+[Ingress](Ingress)
 
 
 
 
 ## Service Mesh
 
-https://github.com/bobbae/gcp/wiki/Service-Mesh
+[Service Mesh](Service-Mesh)
 
 
 
@@ -135,12 +132,13 @@ https://github.com/bobbae/gcp/wiki/Service-Mesh
 
 ## Cloud Build & Cloud Code with Containers
 
-https://github.com/bobbae/gcp/wiki/Cloud-Build
+[Cloud Build](Cloud-Build)
 
 
 
 ## K8s monitoring
-https://github.com/bobbae/gcp/wiki/Kubernetes-Monitoring
+
+[Kubernetes Monitoring](Kubernetes-Monitoring)
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/29.png" width="600">
 
@@ -160,7 +158,7 @@ With Binary Authorization, you can automatically check each component of your so
 
 ## Scaling
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-scaling
+[Kubernetes Scaling](Kubernetes-scaling]
 
 ## Federation
 
@@ -180,4 +178,4 @@ https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff
 
 ## Qwiklabs
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Qwiklabs
+[Kubernetes Qwiklabs](Kubernetes-Qwiklabs)
