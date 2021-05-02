@@ -18,3 +18,20 @@ A Linux system starts out with a single namespace of each type, used by all proc
 [https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2](https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2)
 
 
+# Kubernetes Namespaces
+
+Kubernetes [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) are intended for use in environments with many users spread across multiple teams, or projects. For clusters with a few to tens of users, you should not need to create or think about namespaces at all. Start using namespaces when you need the features they provide.
+
+Namespaces provide a scope for names. Names of resources need to be unique within a namespace, but not across namespaces. Namespaces cannot be nested inside one another and each Kubernetes resource can only be in one namespace.
+
+# GCP Namespaces
+
+Google Cloud supports organizing resources at the Project, Folder, and Organization levels. You can add Annotations to your Config Connector Namespaces to map resources to a Project, a Folder or Organization.
+
+Config Connector creates Google Cloud resources using Kubernetes configuration. These resources are organized in Kubernetes Namespaces.
+
+
+Config Connector can use the annotations on the resource's [Namespace](https://cloud.google.com/config-connector/docs/concepts/namespaces-and-projects)  to determine what project, folder, or organization to create the resources in. The Namespace's annotation will only be applied if the resource configuration does not already specify where to create the resource. 
+
+
+
