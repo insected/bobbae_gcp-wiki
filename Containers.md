@@ -26,8 +26,9 @@ Container images use [Union Filesystems](https://en.wikipedia.org/wiki/UnionFS).
 
 The container runtime is the software that is responsible for running containers.
 
-Kubernetes supports several container runtimes: Docker, [containerd](https://containerd.io/), [CRI-O](https://cri-o.io), and any implementation of the Kubernetes CRI (Container Runtime Interface).
+[Kubernetes](https://github.com/bobbae/gcp/wiki/Kubernetes-Engine-and-Containers) supports several container runtimes: Docker, [containerd](https://containerd.io/), [CRI-O](https://cri-o.io), and any implementation of the Kubernetes CRI (Container Runtime Interface).
 
+The container runtime is the software that is responsible for running containers. Kubernetes supports several container runtimes: Docker, containerd, CRI-O, and any implementation of the Kubernetes CRI (Container Runtime Interface).
 
 ## Containers vs. VMs
 
