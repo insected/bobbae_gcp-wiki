@@ -117,30 +117,10 @@ Demonstration of Data Studio.
 
 ### Datalab 
 
-
-#### Introduction
-
-[https://www.youtube.com/watch?v=pdQHyTy3s7M](https://www.youtube.com/watch?v=pdQHyTy3s7M)
-
-[Cloud Datalab](https://cloud.google.com/datalab/docs) runs inside of a Google Compute Engine VM with an attached persistent disk that is used to store notebooks. Cloud Datalab VMs are connected to a special network in a project called datalab-network. The default configuration of this network limits incoming connections to SSH connections.
-
-[https://cloud.google.com/datalab/docs/how-to/lifecycle](https://cloud.google.com/datalab/docs/how-to/lifecycle)
+https://github.com/bobbae/gcp/wiki/Datalab
 
 
-#### Datalab Quickstart
 
-[https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
-
-
-#### Working with Notebooks
-
-Jupyter notebooks.
-
-[https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
-
-Working with Datalab notebooks.
-
-[https://cloud.google.com/datalab/docs/how-to/working-with-notebooks](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks)
 
 
 ### Looker 
