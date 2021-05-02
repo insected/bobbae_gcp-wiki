@@ -2,11 +2,7 @@
 
 # Containers
 
-[Containers](Containers)
-
-## Namespaces
-
-[Namespaces](Namespaces)
+Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [Namespaces](Namespaces) features in the Linux kernel.
 
 # Kubernetes
 
