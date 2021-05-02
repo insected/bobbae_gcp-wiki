@@ -38,6 +38,4 @@ https://github.com/bobbae/gcp/wiki/Jupyter
 
 
 
-# Datalab Jupyter Notebooks Tasks
 
-[https://cloud.google.com/datalab/docs/how-to/working-with-notebooks](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks)
