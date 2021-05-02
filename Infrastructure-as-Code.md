@@ -19,19 +19,18 @@ https://phoenixnap.com/blog/infrastructure-as-code-best-practices-tools
 
 # Cloud Foundation Toolkit
 
+The [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) is designed specifically to meet the compliance and security needs of enterprises.
 
-
-https://github.com/bobbae/gcp/wiki/Cloud-Foundation-Toolkit
 
 
 ## Terraform 
 
-https://github.com/bobbae/gcp/wiki/Terraform
+[Terraform](Terraform) is supported in the [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
 
 ## Cloud Deployment Manager
 
 
-https://github.com/bobbae/gcp/wiki/Cloud-Deployment-Manager
+[Cloud Deployment Manager](Cloud-Deployment-Manager) is Google's own IAC tool supported in the  [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
 
 # Other IAC Tools
 
