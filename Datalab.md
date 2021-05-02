@@ -34,7 +34,7 @@ https://cloud.google.com/datalab/docs
 
 https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
 
-https://github.com/bobbae/gcp/wiki/Jupyter
+[Jupyter](Jupyter)
 
 
 
