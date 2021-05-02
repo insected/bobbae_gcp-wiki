@@ -21,6 +21,9 @@ https://cloud.google.com/ai-platform-notebooks
 
 # Datalab Jupyter Notebooks 
 
+
+https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
+
 https://github.com/bobbae/gcp/wiki/Datalab
 
 
