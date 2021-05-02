@@ -25,12 +25,12 @@ https://cloud.google.com/datalab/docs
 [https://github.com/googledatalab/datalab](https://github.com/googledatalab/datalab)
 
 
-# Quickstart
+# Datalab Quickstart
 
 [https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
 
-# Videos
+# Datalab Videos
 
 [https://cloud.google.com/datalab/docs#videos](https://cloud.google.com/datalab/docs#videos)
 
@@ -48,12 +48,10 @@ https://cloud.google.com/datalab/docs
 [https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
 
-# Working with Notebooks
-
-Jupyter notebooks.
+# Jupyter Kubeflow notebooks
 
 [https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
 
-# Working with Datalab notebooks.
+# Datalab notebook tasks
 
 [https://cloud.google.com/datalab/docs/how-to/working-with-notebooks](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks)
