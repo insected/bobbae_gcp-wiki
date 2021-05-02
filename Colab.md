@@ -9,6 +9,9 @@ https://colab.research.google.com/
 
 # Jupyter notebook
 
+https://github.com/bobbae/gcp/wiki/Jupyter
+
+
 A live Colab jupyter lab notebook can be run at:
 
 [Getting started: Training and prediction with Keras in AI Platform](https://colab.research.google.com/github/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/tensorflow/getting-started-keras.ipynb)
