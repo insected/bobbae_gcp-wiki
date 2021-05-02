@@ -21,11 +21,11 @@ https://www.youtube.com/watch?v=vBdYVFgZ2ug
 
 # Cryptography
 
-https://github.com/bobbae/gcp/wiki/Cryptography
+[Cryptography](Cryptography)
 
 # IAM
 
-https://github.com/bobbae/gcp/wiki/IAM
+[IAM](IAM)
 
 # Security and Identity
 
@@ -46,9 +46,7 @@ https://cloud.google.com/security/overview/whitepaper#operational_security
 [https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
 
 
-### IAM
 
-https://github.com/bobbae/gcp/wiki/IAM
 
 
 ## Roles
@@ -59,7 +57,7 @@ https://github.com/bobbae/gcp/wiki/IAM
 ## Service Accounts
 
 
-https://github.com/bobbae/gcp/wiki/Service-Accounts
+[Service Accounts](Service-Accounts)
 
 # Cloud Identity API
 
