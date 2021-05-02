@@ -19,6 +19,7 @@
 - [Math](#math)
 - [DevOps](#devops)
 - [Bioinformatics](#bioinformatics)
+- [Reasoning](#reasoning)
 - [Links](#links)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -303,8 +304,17 @@ https://github.com/bregman-arie/devops-exercises
 
 http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Answers.html
 
+# Reasoning
 
+https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
+https://www.firstnaukri.com/career-guidance/65-logical-reasoning-questions-and-answers-for-freshers
+
+https://www.123test.com/logical-reasoning-test/
+
+https://www.lsac.org/lsat/taking-lsat/test-format/logical-reasoning/logical-reasoning-sample-questions
+
+https://www.javatpoint.com/reasoning
 
 # Links
 
@@ -318,6 +328,4 @@ https://www.geeksforgeeks.org/interview-preparation-for-software-developer
 https://www.qfles.com/interview-question/
 
 https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
-
-https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
