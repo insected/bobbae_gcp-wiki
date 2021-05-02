@@ -1,6 +1,10 @@
-# Examples of GCP related projects
+# Project ideas
 
+* https://www.cloudderby.io/
+* https://github.com/GoogleCloudPlatform/hackathon-toolkit
+* https://codelovehack.bemyapp.com/
 * [Codelabs](https://codelabs.developers.google.com/cloud)
+* https://cloud.google.com/blog/products/no-code-development/no-code-hackathon-tips-and-best-practices
 * https://awesomeopensource.com/project/GoogleCloudPlatform/hackathon-toolkit
 * [More codelabs](https://codelabs.developers.google.com/)
 * [On github](https://github.com/topics/gcp-projects)
