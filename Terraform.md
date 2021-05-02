@@ -3,6 +3,8 @@ Terraform is a tool from Hashicorp for building, changing, and versioning infras
 
 # Infrastructure as Code
 
+https://github.com/bobbae/gcp/wiki/Infrastructure-as-Code
+
 Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
 [https://cloud.google.com/docs/terraform](https://cloud.google.com/docs/terraform)
