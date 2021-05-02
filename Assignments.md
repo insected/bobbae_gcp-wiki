@@ -17,37 +17,37 @@
 
 ## Networking
 
-* https://www.qwiklabs.com/focuses/1200?parent=catalog
-* https://www.qwiklabs.com/focuses/1230?parent=catalog
-* https://www.qwiklabs.com/focuses/1231?parent=catalog
-* https://www.qwiklabs.com/focuses/1250?parent=catalog
-* Read and discuss: https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained
+* [Networking 101](https://www.qwiklabs.com/focuses/1743?parent=catalog)
+* [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)
+* [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog)
+* [Create an Internal Load Balancer](https://www.qwiklabs.com/focuses/1250?parent=catalog)
+* [Networking Options](https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained)
 
 ## GKE
 
-* https://www.qwiklabs.com/focuses/1029?parent=catalog
-* https://www.qwiklabs.com/focuses/878?parent=catalog
-* https://www.qwiklabs.com/focuses/557?parent=catalog
-* https://www.qwiklabs.com/focuses/639?parent=catalog
-* Read and discuss: https://cloud.google.com/kubernetes-engine/docs/tutorials
+* [Introduction to Docker](https://www.qwiklabs.com/focuses/1029?parent=catalog)
+* [Kubernetes Engine: Qwik Start](https://www.qwiklabs.com/focuses/878?parent=catalog)
+* [Orchestrating the Cloud with Kubernetes](https://www.qwiklabs.com/focuses/557?parent=catalog)
+* [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog)
+* [Kubernetes Tutorials](https://cloud.google.com/kubernetes-engine/docs/tutorials)
 
 ## Migration
 
 
-* https://www.qwiklabs.com/focuses/6899?parent=catalog
-* https://www.qwiklabs.com/focuses/17695?parent=catalog
+* [VM Migration planning](https://www.qwiklabs.com/focuses/6899?parent=catalog)
+* [Migrating On-premises MySQL Using a Continuous Database Migration Service Job](https://www.qwiklabs.com/focuses/17695?parent=catalog)
 
 ## Security
 
-* https://www.qwiklabs.com/focuses/551?parent=catalog
-* https://www.qwiklabs.com/focuses/1035?parent=catalog
-* https://www.qwiklabs.com/focuses/1038?parent=catalog
+* [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog)
+* [IAM Custom Roles](https://www.qwiklabs.com/focuses/1035?parent=catalog)
+* [Service Accounts and Roles: Fundamentals](https://www.qwiklabs.com/focuses/1038?parent=catalog)
 
 ## IAC
 
-* https://www.qwiklabs.com/focuses/1208?parent=catalog
-* https://www.qwiklabs.com/focuses/15842?parent=catalog
-* https://www.qwiklabs.com/focuses/15836?parent=catalog
+* [Terraform Fundamentals](https://www.qwiklabs.com/focuses/1208?parent=catalog)
+* [Infrastructure as Code with Terraform](https://www.qwiklabs.com/focuses/15842?parent=catalog)
+* [Interact with Terraform Modules](https://www.qwiklabs.com/focuses/15836?parent=catalog)
 
 # Schedule 2
 
