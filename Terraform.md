@@ -3,7 +3,7 @@ Terraform is a tool from Hashicorp for building, changing, and versioning infras
 
 # Infrastructure as Code
 
-[Infrastructure as Code](Infrastructure-as-Code)
+[Infrastructure as Code](Infrastructure-as-Code)  is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
 Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
