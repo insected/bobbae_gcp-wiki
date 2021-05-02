@@ -76,3 +76,10 @@ Diffie–Hellman key exchange is a method of securely exchanging cryptographic k
 Traditionally, secure encrypted communication between two parties required that they first exchange keys by some secure physical means, such as paper key lists transported by a trusted courier. The Diffie–Hellman key exchange method allows two parties that have no prior knowledge of each other to jointly establish a shared secret key over an insecure channel. This key can then be used to encrypt subsequent communications using a symmetric-key cipher.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Diffie-Hellman_Key_Exchange.svg/1280px-Diffie-Hellman_Key_Exchange.svg.png" width="300">
+
+
+## cryptographic hash
+
+A cryptographic hash function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
+
+<img src="https://en.m.wikipedia.org/wiki/File:Cryptographic_Hash_Function.svg" width ="600">
