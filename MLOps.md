@@ -2,7 +2,7 @@
 
 Machine learning (ML) workflows include steps to prepare and analyze data, train and evaluate models, deploy trained models to production, track ML artifacts and understand their dependencies, etc. Managing these steps in an ad-hoc manner can be difficult and time-consuming.
 
-MLOps is the practice of applying DevOps practices to help automate, manage, and audit ML workflows. AI Platform Pipelines helps you implement MLOps by providing a platform where you can orchestrate the steps in your workflow as a pipeline. ML pipelines are portable and reproducible definitions of ML workflows.
+MLOps is the practice of applying DevOps practices to help automate, manage, and audit ML workflows. AI Platform Pipelines helps you implement MLOps by providing a platform where you can orchestrate the steps in your workflow as a pipeline. ML pipelines are portable and reproducible definitions of ML workflows.  [Kubeflow](Kubeflow) is a kind of MLOps tool.
 
 https://cloud.google.com/solutions/machine-learning/setting-up-an-mlops-environment
 
@@ -37,9 +37,9 @@ https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8
 
 # DevOps vs MLOps
 
-[DevOps](DevOps)
 
-DevOps  is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
+[DevOps](DevOps)  is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
 
 Comparison with MLOps:
@@ -54,6 +54,4 @@ The core idea of GitOps is having a Git repository that always contains declarat
 
 https://www.gitops.tech/
 
-# Kubeflow
 
-[Kubeflow](Kubeflow)
