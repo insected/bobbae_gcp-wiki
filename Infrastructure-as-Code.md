@@ -19,79 +19,19 @@ https://phoenixnap.com/blog/infrastructure-as-code-best-practices-tools
 
 # Cloud Foundation Toolkit
 
-The Cloud Foundation Toolkit provides a series of reference templates for Deployment Manager and Terraform which reflect Google Cloud best practices. These templates can be used off-the-shelf to quickly build a repeatable enterprise-ready foundation in Google Cloud. This frees you to focus on deploying your applications on this baseline secure environment. And with infrastructure as code, you can easily update the foundation as your needs change.
-
-[https://cloud.google.com/foundation-toolkit/](https://cloud.google.com/foundation-toolkit/)
 
 
-The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) (henceforth, CFT) includes the following parts:
+https://github.com/bobbae/gcp/wiki/Cloud-Foundation-Toolkit
 
-- A comprehensive set of production-ready resource templates that follow
-  Google's best practices, which can be used with the CFT or the gcloud
-  utility 
-- A command-line interface (henceforth, CLI) that deploys resources defined in
-  single or multiple CFT-compliant config files.
-- A growing set of sample [Config
-  Connector](https://cloud.google.com/config-connector/docs/overview)
-  YAML configurations
-- a sample pipeline that enables running CFT deployment operations from Jenkins.
-
-## Google Cloud Deployment Manager
-
-Google Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using yaml. You can also use Python or Jinja2 templates to parameterize the configuration and allow reuse of common deployment paradigms such as a load balanced, auto-scaled instance group.
-
-[https://www.youtube.com/watch?v=z-caqPtEw58](https://www.youtube.com/watch?v=z-caqPtEw58)
-
-
-### Cloud Deployment Manager Quickstart
-
-[https://cloud.google.com/deployment-manager/docs/quickstart](https://cloud.google.com/deployment-manager/docs/quickstart)
-
-
-### Cloud Deployment Manager Deployments
-
-[https://cloud.google.com/deployment-manager/docs/deployments](https://cloud.google.com/deployment-manager/docs/deployments)
-
-
-### Cloud Deployment Manager Manifests
-
-[https://cloud.google.com/deployment-manager/docs/deployments/viewing-manifest](https://cloud.google.com/deployment-manager/docs/deployments/viewing-manifest)
-
-
-### Cloud Deployment Manager Deploying Network Load Balanced Logbook 
-
-[https://cloud.google.com/deployment-manager/docs/create-advanced-deployment](https://cloud.google.com/deployment-manager/docs/create-advanced-deployment)
-
-
-### Shard VPC with Cloud Deployment Manager
-
-[https://cloud.google.com/solutions/shared-vpc-with-deployment-manager](https://cloud.google.com/solutions/shared-vpc-with-deployment-manager)
-
-
-### Solutions that use Cloud Deployment Manager
-
-[https://cloud.google.com/docs/tutorials?sortBy=relevance#%22deployment%20manager%22](https://cloud.google.com/docs/tutorials?sortBy=relevance#%22deployment%20manager%22)
-
-
-### Cloud Deployment Manager Examples
-
-[https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/examples/v2](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/tree/master/examples/v2)
-
-
-
-
-
-### Cloud Foundation Toolkit templates
-
-https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/dm
-
-### Cloud Foundation terraform templates
-
-https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
 
 ## Terraform 
 
 https://github.com/bobbae/gcp/wiki/Terraform
+
+## Cloud Deployment Manager
+
+
+https://github.com/bobbae/gcp/wiki/Cloud-Deployment-Manager
 
 # Other IAC Tools
 
