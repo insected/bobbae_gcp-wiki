@@ -84,6 +84,10 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 [https://airflow.apache.org/docs/stable/concepts.html#xcoms](https://airflow.apache.org/docs/stable/concepts.html#xcoms)
 
+## Industrialization of a Machine Learning model using Apache Airflow and Apache BEAM.
+
+[https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
+
 
 # Task Orchestration tools
 
@@ -99,9 +103,7 @@ A survey of pipeline & workflow tools.
 
 [https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
-# Industrialization of a Machine Learning model using Apache Airflow and Apache BEAM.
 
-[https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
 
 
 
