@@ -116,58 +116,56 @@
 
 # Schedule 3
 
-## Network Options
-
-* https://www.qwiklabs.com/focuses/1234?parent=catalog
-* https://www.qwiklabs.com/focuses/1282?parent=catalog
-
 
 ## VPC
 
-* https://www.qwiklabs.com/focuses/1230?parent=catalog
-* https://www.qwiklabs.com/focuses/1231?parent=catalog
+* [VPC Networks - Controlling Access](https://www.qwiklabs.com/focuses/1231?parent=catalog)
+* [Multiple VPC Networks](https://www.qwiklabs.com/focuses/1230?parent=catalog)
 
 
 ## Router
 
-* https://www.qwiklabs.com/focuses/1233?parent=catalog
+* [Dynamic VPN Gateways - Cloud Routers](https://www.qwiklabs.com/focuses/1233?parent=catalog)
 
 
 ## VPN
 
-* https://www.qwiklabs.com/focuses/641?parent=catalog
+* [Building a High-throughput VPN](https://www.qwiklabs.com/focuses/641?parent=catalog)
 
 ## Interconnect
-* Read and discuss https://cloud.google.com/network-connectivity/docs/interconnect/how-to
+
+* [Interconnect How-To's](https://cloud.google.com/network-connectivity/docs/interconnect/how-to)
 
 ## Security
 
-* https://www.qwiklabs.com/focuses/551?parent=catalog
-* https://www.qwiklabs.com/focuses/1035?parent=catalog
-* https://www.qwiklabs.com/focuses/1038?parent=catalog
-* https://www.qwiklabs.com/focuses/5562?parent=catalog
+* [Cloud IAM: Qwik Start](https://www.qwiklabs.com/focuses/551?parent=catalog)
+* [IAM Custom Roles](https://www.qwiklabs.com/focuses/1035?parent=catalog)
+* [Service Accounts and Roles: Fundamentals](https://www.qwiklabs.com/focuses/1038?parent=catalog)
+* [User Authentication: Identity-Aware Proxy](https://www.qwiklabs.com/focuses/5562?parent=catalog)
 
-
-## DNS
-
-* https://www.qwiklabs.com/focuses/12412?parent=catalog
 
 
 ## CDN
 
-* https://www.qwiklabs.com/focuses/1251?parent=catalog
+* [https://www.qwiklabs.com/focuses/1251?parent=catalog](https://www.qwiklabs.com/focuses/1251?parent=catalog)
 
 
 
 ## NAT
 
-* https://www.qwiklabs.com/focuses/1209?parent=catalog
-* https://www.qwiklabs.com/focuses/4362?parent=catalog
+* [Using a NAT Gateway with Kubernetes Engine](https://www.qwiklabs.com/focuses/1209?parent=catalog)
+* [Configuring Private Google Access and Cloud NAT](https://www.qwiklabs.com/focuses/4362?parent=catalog)
 
 ## LB
 
-* https://www.qwiklabs.com/focuses/1250?parent=catalog
-* https://www.qwiklabs.com/focuses/12007?parent=catalog
+* [Create an Internal Load Balancer](https://www.qwiklabs.com/focuses/1250?parent=catalog)
+* [Set Up Network and HTTP Load Balancers](https://www.qwiklabs.com/focuses/12007?parent=catalog)
+
+## Network Options
+
+* [Network Tiers - Optimizing Network Spend](https://www.qwiklabs.com/focuses/1234?parent=catalog)
+* [Network Performance Testing](https://www.qwiklabs.com/focuses/1282?parent=catalog)
+
 
 
 # Schedule 4
