@@ -35,7 +35,7 @@ https://github.com/DopplerHQ/awesome-interview-questions
 
 # Coding
 
-https://github.com/bobbae/gcp/wiki/Interview-Coding
+[Interview Coding](Interview-Coding)
 
 
 
@@ -73,7 +73,7 @@ Explain step by step in as much detail as possible what happens when you use Goo
 
 # General Infrastructure
 
-https://github.com/bobbae/gcp/wiki/Interview-Infrastructure
+[Interview Infrastructure](Interview-Infrastructure)
 
 
 # BASICs
@@ -137,12 +137,12 @@ https://ds-interviews.org/
 
 https://www.whizlabs.com/blog/top-machine-learning-interview-questions/
 
-https://github.com/bobbae/gcp/wiki/Data-Science
+[Data Science](Data-Science)
 
 # Data Engineering
 
 
-https://github.com/bobbae/gcp/wiki/Interview-Data-Engineering
+[Interview Data Engineering](Interview-Data-Engineering)
 
 # Cloud
 
@@ -163,7 +163,7 @@ https://www.javatpoint.com/cloud-service-models
 
 # Security
 
-https://github.com/bobbae/gcp/wiki/Interview-Security
+[Interview Security](Interview-Security)
 
 # Frontend
 
@@ -173,12 +173,14 @@ https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.h
 https://www.fullstack.cafe/blog/backend-developer-interview-questions
 
 # Networking
-https://github.com/bobbae/gcp/wiki/Interview-Networking
+
+
+[Interview Networking](Interview-Networking)
 
 
 # Storage
 
-https://github.com/bobbae/gcp/wiki/Interview-Storage
+[Interview Storage](Interview-Storage)
 
 # Hardware
 
@@ -296,7 +298,7 @@ https://en.m.wikipedia.org/wiki/E_(mathematical_constant)
 
 # DevOps
 
-https://github.com/bobbae/gcp/wiki/Interview-DevOps
+[Interview DevOps](Interview-DevOps)
 
 https://github.com/bregman-arie/devops-exercises
 
