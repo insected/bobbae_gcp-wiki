@@ -59,11 +59,7 @@ The [Cloud Composer](https://cloud.google.com/composer) is a fully managed workf
 
  
 
-## Automating infrastructure with Cloud Composer
 
-This example shows how to schedule automated backups of Compute Engine virtual machine (VM) instances.
-
-https://cloud.google.com/solutions/automating-infrastructure-using-cloud-composer
 
 
 
