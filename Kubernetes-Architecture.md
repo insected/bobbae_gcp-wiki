@@ -66,7 +66,7 @@ https://kubernetes.io/docs/concepts/architecture/
 
 ## Networking
 
-https://github.com/bobbae/gcp/wiki/Kubernetes-Networking
+[Kubernetes Networking](Kubernetes-Networking) is interesting to study.
 
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Pods.png" width="600">
