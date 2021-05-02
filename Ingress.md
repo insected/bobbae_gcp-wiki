@@ -97,7 +97,7 @@ You can expose a Service in multiple ways that don't directly involve the Ingres
 * Use [Service.Type=NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport)
 
 
-https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
+Services can be [exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer) in a variety of ways.
 
 
 <img src="https://miro.medium.com/max/1575/1*Uo_wGCIlFopJZbf6THu0OQ.png" width="600">
