@@ -51,5 +51,5 @@ https://www.guru99.com/tensorflow-tutorial.html
 
 # Kubeflow
 
-https://github.com/bobbae/gcp/wiki/Kubeflow
+[Kubeflow](Kubeflow)
 
