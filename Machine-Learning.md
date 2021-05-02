@@ -144,6 +144,17 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 https://github.com/bobbae/gcp/wiki/Tensorflow
 
+
+# Scikit Learn
+
+
+https://github.com/bobbae/gcp/wiki/Scikit-Learn
+
+
+# Keras
+
+https://github.com/bobbae/gcp/wiki/Keras
+
 # Links
 
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
