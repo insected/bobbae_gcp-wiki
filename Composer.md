@@ -1,7 +1,9 @@
 
+# Composer Introduction 
 
+Cloud Composer is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage workflows. 
 
-Cloud Composer is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage workflows. Cloud Composer automation helps you create Airflow environments quickly and use Airflow-native tools, such as the powerful Airflow web interface and command line tools, so you can focus on your workflows and not your infrastructure.
+Cloud Composer automation helps you create Airflow environments quickly and use Airflow-native tools, such as the powerful Airflow web interface and command line tools, so you can focus on your workflows and not your infrastructure.
 
 [https://cloud.google.com/composer/docs](https://cloud.google.com/composer/docs)
 
@@ -9,20 +11,28 @@ Cloud Composer is a managed workflow orchestration service built on Apache Airfl
 
 [https://www.youtube.com/watch?v=bwZOAXnCMf8](https://www.youtube.com/watch?v=bwZOAXnCMf8)
 
-Environments are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. Environments are self-contained Airflow deployments based on Google Kubernetes Engine. These environments work with Google Cloud services through connectors that are built into Airflow. You create Cloud Composer environments in [supported regions](https://cloud.google.com/about/locations), and the environments run within a Compute Engine zone. For simple use cases, you can create one environment in one region. For complex use cases, you can create multiple environments within a single region or across multiple regions. Airflow communicates with other Google Cloud products through the products' public APIs.
+Environments are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. 
+
+Environments are self-contained Airflow deployments based on Google Kubernetes Engine. 
+
+These environments work with Google Cloud services through connectors that are built into Airflow. You create Cloud Composer environments in [supported regions](https://cloud.google.com/about/locations), and the environments run within a Compute Engine zone. 
+
+For simple use cases, you can create one environment in one region. For complex use cases, you can create multiple environments within a single region or across multiple regions. 
+
+Airflow communicates with other Google Cloud products through the products' public APIs.
 
 
-# Data Pipelines with Cloud Composer
+## Data Pipelines with Cloud Composer
 
 [https://www.youtube.com/watch?v=GeNFEtt-D4k](https://www.youtube.com/watch?v=GeNFEtt-D4k)
 
 
-# Cloud Composer best practices
+## Cloud Composer best practices
 
 [https://www.youtube.com/watch?v=RrKXZcKOz4A](https://www.youtube.com/watch?v=RrKXZcKOz4A)
 
 
-# Tutorials
+## Tutorials
 
 [https://cloud.google.com/composer/docs/tutorials](https://cloud.google.com/composer/docs/tutorials)
 
