@@ -31,7 +31,7 @@ Networking is a central part of Kubernetes, but it can be challenging to underst
 
 ## ClusterIP, Ingress, NodePort, Load Balancer
 
-https://github.com/bobbae/gcp/wiki/ClusterIP,-Ingress,-NodePort,-Load-Balancer
+It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer).
 
 ## More on use of iptables and ipvs in Kubernetes
 
