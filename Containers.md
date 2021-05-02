@@ -5,7 +5,7 @@ A [container](https://www.freecodecamp.org/news/demystifying-containers-101-a-de
 
 A [container](https://appfleet.com/blog/what-is-a-container-a-kernel-introduction/) is  attached to different [namespaces](https://opensource.com/article/19/10/namespaces-and-containers-linux).
 
-[Namespaces](https://opensource.com/article/19/10/namespaces-and-containers-linux), along with other technologies like [cgroups](https://en.wikipedia.org/wiki/Cgroups) and [more](https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/), form the foundation of containerization.
+[Namespaces](Namespaces), along with other technologies like [cgroups](https://en.wikipedia.org/wiki/Cgroups) and [more](https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/), form the foundation of containerization.
 
 [https://www.docker.com/resources/what-container](https://www.docker.com/resources/what-container)
 
