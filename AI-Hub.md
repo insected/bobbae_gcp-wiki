@@ -3,9 +3,9 @@
 
 [AI Hub](https://aihub.cloud.google.com/u/0/) offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. You can use the AI Hub to:
 
-- Find, deploy, and use Kubeflow pipelines and components.
+- Find, deploy, and use [Kubeflow](Kubeflow) pipelines and components.
 - Explore code and learn in interactive Jupyter notebooks.
-- Explore and reuse TensorFlow modules.
+- Explore and reuse [Tensorflow](Tensorflow) modules.
 - Explore, deploy, and use trained models.
 - Use prepackaged virtual machine (VM) images to quickly set up your AI environment.
 - Share AI components with your colleagues.
@@ -13,9 +13,7 @@
 
 [https://cloud.google.com/ai-hub/docs](https://cloud.google.com/ai-hub/docs)
 
-# Kubeflow
 
-[Kubeflow](Kubeflow)
 
 # Quickstart for using public assets
 
@@ -33,12 +31,12 @@ https://cloud.google.com/ai-hub/docs/private-hub-quickstart
 
 # AI Hub Jupyter Notebooks in AI Platform
 
-Jupyter Notebooks from AI Hub can be opened in AI Platform Notebooks. 
+[Jupyter](Jupyter) Notebooks from AI Hub can be opened in AI Platform Notebooks. 
 
 Here is an example:
 [Introduction to Neural Networks on AI Hub](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
 
-[Jupyter](Jupyter)
+
 
 # Links
 
