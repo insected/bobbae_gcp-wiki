@@ -9,7 +9,7 @@ https://colab.research.google.com/
 
 # Jupyter notebook
 
-https://github.com/bobbae/gcp/wiki/Jupyter
+[Jupyter](Jupyter)
 
 
 A live Colab jupyter lab notebook can be run at:
