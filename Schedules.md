@@ -1,6 +1,6 @@
 # Schedules
 
-## Schedule 1:  Infrastructure
+## Schedule 1
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -14,7 +14,7 @@
 |    8    |Reviews    |
 
 
-## Schedule 2:  Data Engineering 
+## Schedule 2
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -30,7 +30,7 @@
 
 
 
-## Schedule 3: Networking 
+## Schedule 3
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
@@ -44,7 +44,7 @@
 |    8    |Reviews    |
 
 
-## Schedule 4: DataOps 
+## Schedule 4
 
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
