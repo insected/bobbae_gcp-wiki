@@ -5,9 +5,7 @@
 
 https://cloud.google.com/datalab/docs
 
-# Visualization of large datasets
 
-[https://www.youtube.com/watch?v=pdQHyTy3s7M](https://www.youtube.com/watch?v=pdQHyTy3s7M)
 
 
 # Jupyter Notebooks in the cloud
