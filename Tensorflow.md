@@ -4,6 +4,7 @@ TensorFlow is an open source, powerful, portable machine learning library develo
 
 [https://www.tensorflow.org/learn](https://www.tensorflow.org/learn)
 
+[Kubeflow](Kubeflow) is a [MLOps] tool that can manage pipelines including Tensorflow.
 
 # TensorFlow.js
 
@@ -50,7 +51,6 @@ A list of URLs related to TensorFlow.
 
 https://www.guru99.com/tensorflow-tutorial.html
 
-# Kubeflow
 
-[Kubeflow](Kubeflow)
+
 
