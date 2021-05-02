@@ -55,6 +55,14 @@ https://cloud.google.com/architecture/spawning-notebook-servers-on-gke-tutorial
 
 [[https://cloud.google.com/architecture/images/spawning-notebook-servers-on-gke-tutorial-architecture.svg]]
 
+# Create Jupyter Classroom environment with Google Container Engine
+
+https://github.com/GoogleCloudPlatform/gke-jupyter-classroom
+
+## GCP Tensorflow and Jupyter solutions
+
+https://cloud.google.com/docs/tutorials#tensorflow+jupyter
+
 # JupyterHub
 
 With JupyterHub you can create a multi-user Hub which spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
