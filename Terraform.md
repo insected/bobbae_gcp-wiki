@@ -21,6 +21,12 @@ https://github.com/bobbae/gcp/wiki/Cloud-Foundation-Toolkit
 
 https://cloud.google.com/docs/terraform
 
+
+
+# Cloud Foundation terraform templates
+
+https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
+
 # Getting Started on GCP with terraform
 
 [https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform)
