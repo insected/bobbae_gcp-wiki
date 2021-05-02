@@ -8,14 +8,6 @@ https://cloud.google.com/datalab/docs
 
 
 
-# Jupyter Notebooks in the cloud
-
-[https://www.youtube.com/watch?v=Eu57QKNHaiY](https://www.youtube.com/watch?v=Eu57QKNHaiY)
-
-
-# Jupyter tips & tricks 
-
-[https://www.youtube.com/watch?v=2eCHD6f_phE](https://www.youtube.com/watch?v=2eCHD6f_phE)
 
 
 # Datalab github open source
@@ -38,10 +30,11 @@ https://cloud.google.com/datalab/docs
 
 [https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
+# Jupyter 
 
-# Jupyter Kubeflow notebooks
+https://github.com/bobbae/gcp/wiki/Jupyter
 
-[https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
+
 
 # Datalab notebook tasks
 
