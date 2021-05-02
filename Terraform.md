@@ -67,6 +67,15 @@ Terragrunt is a thin wrapper that provides extra tools for keeping your configur
 
 https://terragrunt.gruntwork.io/
 
+
+# Terraspace
+
+provides an organized structure, conventions over configurations, keeps your code DRY, and adds convenient tooling. Terraspace makes working with Terraform easier and more fun.
+
+https://terraspace.cloud/
+
+
+
 # A list of URLs related to terraform
 
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
