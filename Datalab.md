@@ -23,9 +23,6 @@ https://cloud.google.com/datalab/docs
 [https://github.com/googledatalab/datalab](https://github.com/googledatalab/datalab)
 
 
-# Datalab Quickstart
-
-[https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
 
 
