@@ -51,12 +51,5 @@ https://www.guru99.com/tensorflow-tutorial.html
 
 # Kubeflow
 
-The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable. Our goal is not to recreate other services, but to provide a straightforward way to deploy best-of-breed open-source systems for ML to diverse infrastructures. Anywhere you are running Kubernetes, you should be able to run Kubeflow.
+https://github.com/bobbae/gcp/wiki/Kubeflow
 
-[https://www.kubeflow.org/docs/about/kubeflow/](https://www.kubeflow.org/docs/about/kubeflow/)
-
-[https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
-
-## MNIST end to end on Kubeflow on GKE
-
-https://github.com/kubeflow/examples/blob/master/mnist/mnist_gcp.ipynb
