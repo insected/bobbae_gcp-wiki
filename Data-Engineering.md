@@ -1,16 +1,16 @@
 
 
 
-## Data Engineering
+
 
 Data engineering is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information. It takes dedicated specialists – data engineers – to maintain data so that it remains available and usable by others. In short, data engineers set up and operate the organization’s data infrastructure preparing it for further analysis by data analysts and scientists.
 
-### Overview
+# Overview
 
 [https://www.youtube.com/watch?v=tc2940Zwvyk](https://www.youtube.com/watch?v=tc2940Zwvyk)
 
 
-### Database options
+# Database options
 
 One of Google Cloud Platform's competitive advantages is the strong ecosystem of managed databases.  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  This is a video about picking the right databases for your tech stack and how to make it all work in a unified way.
 
@@ -25,7 +25,7 @@ Compare different GCP Database services.
 [https://cloud.google.com/products/databases](https://cloud.google.com/products/databases)
 
 
-### Cloud SQL
+# Cloud SQL
 
 Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
 
@@ -36,75 +36,75 @@ You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [Po
 [https://www.youtube.com/watch?v=OvR2KX8GVtU](https://www.youtube.com/watch?v=OvR2KX8GVtU)
 
 
-### SQL
+# SQL
 SQL is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of SQL which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries.
 
 
-#### Tutorials
+# Tutorials
 
 [https://www.youtube.com/watch?v=HXV3zeQKqGY](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 [https://www.freecodecamp.org/news/best-sql-database-tutorial/](https://www.freecodecamp.org/news/best-sql-database-tutorial/)
 
 
-### Cloud Bigtable
+# Cloud Bigtable
 
 https://github.com/bobbae/gcp/wiki/Bigtable
 
-### Cloud Dataproc
+# Cloud Dataproc
 
 https://github.com/bobbae/gcp/wiki/Dataproc
 
-### Cloud Pub/Sub
+# Cloud Pub/Sub
 
 https://github.com/bobbae/gcp/wiki/PubSub
 
-### BigQuery
+# BigQuery
 
 https://github.com/bobbae/gcp/wiki/BigQuery
 
-### Cloud Spanner
+# Cloud Spanner
 
 https://github.com/bobbae/gcp/wiki/Spanner
 
-### Cloud Data Fusion
+# Cloud Data Fusion
 
 
-#### Introduction 
+## Introduction 
 
 Cloud Data Fusion is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. Cloud Data Fusion provides a graphical interface to increase time efficiency and reduce complexity. Now business users, developers, and data scientists can easily and reliably build scalable data integration solutions to cleanse, prepare, blend, transfer, and transform data— without having to wrestle with infrastructure.
 
 
-#### CDAP
+## CDAP
 
 Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/).
 
 [https://cloud.google.com/data-fusion/docs](https://cloud.google.com/data-fusion/docs)
 
 
-#### Qwiklab
+# Qwiklab
 
 
-##### Codeless Pipelines
+## Codeless Pipelines
 
 This fundamental-level Quest offers hands-on practice with Cloud Data Fusion, a cloud-native, code-free, data integration platform. ETL Developers, Data Engineers and Analysts can greatly benefit from the pre-built transformations and connectors to build and deploy their pipelines without worrying about writing code. This Quest starts with a quickstart lab that familiarises learners with the Cloud Data Fusion UI. Learners then get to try running batch and realtime pipelines as well as using the built-in Wrangler plugin to perform some interesting transformations on data.
 
 [Building Codeless Pipelines on Cloud Data Fusion](https://www.qwiklabs.com/quests/130?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467888)
 
 
-### Dataflow
+# Dataflow
 
 https://github.com/bobbae/gcp/wiki/Dataflow
 
-### Cloud Dataprep
+# Cloud Dataprep
 
 https://github.com/bobbae/gcp/wiki/Dataprep
 
-### Cloud Composer
+# Cloud Composer
 
 https://github.com/bobbae/gcp/wiki/Composer
 
-### Google Data Studio
+# Google Data Studio
 
 [Data Studio](https://datastudio.google.com) is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
 
@@ -115,7 +115,7 @@ Demonstration of Data Studio.
 [https://www.youtube.com/watch?v=NhGLOVkyKjg](https://www.youtube.com/watch?v=NhGLOVkyKjg)
 
 
-### Datalab 
+# Datalab 
 
 https://github.com/bobbae/gcp/wiki/Datalab
 
@@ -123,12 +123,12 @@ https://github.com/bobbae/gcp/wiki/Datalab
 
 
 
-### Looker 
+# Looker 
 
 
 https://github.com/bobbae/gcp/wiki/Looker
 
-### Data Catalog
+# Data Catalog
 
 Data Catalog is a fully managed and scalable metadata management service that empowers organizations to quickly discover, understand, and manage all of their data.
 
@@ -139,33 +139,33 @@ Data Catalog is a fully managed and scalable metadata management service that em
 [https://www.youtube.com/watch?v=eUKqXZDXj78](https://www.youtube.com/watch?v=eUKqXZDXj78)
 
 
-### Cloud Life Sciences
+# Cloud Life Sciences
 
 Cloud Life Sciences is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
 
 [https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
 
 
-### Firestore
+# Firestore
 
 https://github.com/bobbae/gcp/wiki/Firestore
 
-### Datastore
+# Datastore
 
 https://github.com/bobbae/gcp/wiki/Datastore
 
-### Firestore in datastore mode
+# Firestore in datastore mode
 
 Firestore in Datastore mode is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
 
 https://cloud.google.com/datastore/docs
 
-### Memorystore
+# Memorystore
 
 https://github.com/bobbae/gcp/wiki/Memorystore
 
 
-### Firebase
+# Firebase
 
 https://github.com/bobbae/gcp/wiki/Firebase
 
