@@ -111,9 +111,8 @@ https://cloud.google.com/storage/docs/gcs-fuse
 
 ### Minio
 
-MinIO is a High Performance Object Storage similar to s3 and GCS.
+[Minio](Minio) is a High Performance Object Storage similar to s3 and GCS.
 
-[Minio](Minio)
 
 ### Rclone
 
