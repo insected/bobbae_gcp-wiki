@@ -21,7 +21,7 @@ https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/
 
 ### Security
 
-https://github.com/bobbae/gcp/wiki/Security
+Please review some [security topics](Security) from the DevOps point of view.
 
 
 ## DevOps Research and Assessment
