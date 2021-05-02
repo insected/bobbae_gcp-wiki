@@ -7,7 +7,7 @@
 - Explore code and learn in interactive Jupyter notebooks.
 - Explore and reuse [Tensorflow](Tensorflow) modules.
 - Explore, deploy, and use trained models.
-- Use prepackaged virtual machine (VM) images to quickly set up your AI environment.
+- Use prepackaged [virtual machine](VM) (VM) images to quickly set up your AI environment.
 - Share AI components with your colleagues.
 
 
