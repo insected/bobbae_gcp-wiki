@@ -14,6 +14,11 @@ Kubeflow offers several components that you can use to build your ML training, h
 
 [https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
 
+# Deploy Kubeflow on Google Cloud
+
+Instructions for [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) and [kpt](https://github.com/GoogleContainerTools/kpt) to deploy Kubeflow on Google Cloud.
+
+https://www.kubeflow.org/docs/distributions/gke/deploy/deploy-cli/
 
 # ML Workflow
 
