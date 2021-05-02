@@ -37,7 +37,7 @@ https://cloud.google.com/ai-platform/docs/ml-solutions-overview
 
 AutoML makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
 
-https://github.com/bobbae/gcp/wiki/AutoML
+[AutoML](AutoML)
 
 [https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
 
@@ -146,18 +146,18 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 # TensorFlow 
 
-https://github.com/bobbae/gcp/wiki/Tensorflow
+[Tensorflow](Tensorflow)
 
 
 # Scikit Learn
 
 
-https://github.com/bobbae/gcp/wiki/Scikit-Learn
+[Scikit Learn](Scikit-Learn)
 
 
 # Keras
 
-https://github.com/bobbae/gcp/wiki/Keras
+[Keras](Keras)
 
 # Pytorch
 
@@ -167,22 +167,22 @@ https://www.guru99.com/pytorch-tutorial.html
 
 # Kubeflow
 
-https://github.com/bobbae/gcp/wiki/Kubeflow
+[Kubeflow](Kubeflow)
 
 # MLOps
 
 
 
-https://github.com/bobbae/gcp/wiki/MLOps
+[MLOps](MLOps)
 
 
 # AI Hub
 
-https://github.com/bobbae/gcp/wiki/AI-Hub
+[AI Hub](AI-Hub)
 
 # AI Platform
 
-https://github.com/bobbae/gcp/wiki/AI-Platform
+[AI Platform](AI-Platform)
 
 
 # Links
