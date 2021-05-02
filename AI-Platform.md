@@ -20,6 +20,8 @@ Deep Learning VM images are Debian 9- and Debian 10-based Compute Engine virtual
 
 # AI Platform Notebooks
 
+https://github.com/bobbae/gcp/wiki/Jupyter
+
 AI Platform Notebooks makes it easy to manage JupyterLab instances through a protected, publicly available notebook instance URL. A JupyterLab instance is a [Deep Learning virtual machine](https://cloud.google.com/ai-platform/deep-learning-vm/docs) instance with the latest machine learning and data science libraries pre-installed.
 
 [https://cloud.google.com/ai-platform/notebooks/docs](https://cloud.google.com/ai-platform/notebooks/docs)
