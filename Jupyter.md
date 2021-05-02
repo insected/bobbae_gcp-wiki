@@ -38,3 +38,19 @@ https://cloud.google.com/ai-platform-notebooks
 # Colab Notebooks 
 
 https://github.com/bobbae/gcp/wiki/Colab
+
+# JupyterHub
+
+With JupyterHub you can create a multi-user Hub which spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
+JupyterHub allows users to interact with a computing environment through a webpage. As most devices have access to a web browser, JupyterHub makes it is easy to provide and standardize the computing environment for a group of people (e.g., for a class of students or an analytics team).
+
+https://github.com/jupyterhub/jupyterhub
+
+## Kubernetes JupyterHub
+
+Helm Chart & Documentation for deploying  JupyterHub on Kubernetes.
+
+
+https://github.com/jupyterhub/zero-to-jupyterhub-k8s/
+
+
