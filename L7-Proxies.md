@@ -19,4 +19,4 @@ Envoy pioneered the use of dynamic APIs for management, and an ecosystem of addi
 
 A service mesh is a transparent layer that adds resilience, observability, and security to your service-to-service communication. Example service meshes include Istio and Linkerd. Istio is closely associated with Envoy because Istio relies on Envoy to do the actual Layer 7 traffic management. Istio itself is a control plane for a fleet of Envoy Proxies that are deployed next to your microservices.
 
-https://github.com/bobbae/gcp/wiki/Service-Mesh
+[Service Mesh](Service-Mesh)
