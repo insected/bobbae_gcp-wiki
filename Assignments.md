@@ -2,11 +2,11 @@
 
 ## Compute
 
-* https://www.qwiklabs.com/focuses/2794?parent=catalog
-* https://www.qwiklabs.com/focuses/3563?parent=catalog
-* https://www.qwiklabs.com/focuses/563?parent=catalog
-* https://www.qwiklabs.com/focuses/1734?parent=catalog
-* Read and discuss: https://cloud.google.com/compute/docs/tutorials
+* [A Tour of Qwiklabs and Google Cloud](https://www.qwiklabs.com/focuses/2794?parent=catalog)
+* [Creating a Virtual Machine](https://www.qwiklabs.com/focuses/3563?parent=catalog)
+* [Getting Started with Cloud Shell and gcloud](https://www.qwiklabs.com/focuses/563?parent=catalog)
+* [Google Cloud Essential Skills: Challenge Lab](https://www.qwiklabs.com/focuses/1734?parent=catalog)
+* [Compute Engine Tutorials](Read and discuss: https://cloud.google.com/compute/docs/tutorials)
 
 ## Storage
 
