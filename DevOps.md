@@ -36,7 +36,7 @@ Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration sy
 
 Anthos clusters on VMware runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
 
-### Case Study
+### DevSecOps Case Study
 
 https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-pipeline-with-jfrog-artifactory-and-gke-on-prem
 
@@ -50,6 +50,11 @@ The term GitOps was [first coined by Weaveworks](https://www.weave.works/blog/gi
 
 [https://github.com/weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 
+### KubeStack
+
+Terraform GitOps Framework.
+
+https://www.kubestack.com/
 
 ### Cloud Build Tutorial
 
