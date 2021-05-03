@@ -1,6 +1,6 @@
 
 
-## Compute Options
+
 
 Every Cloud based application has needs specific to its environment, and Google Cloud offers a diverse set of options to run your code on. What option is right for you? 
 
