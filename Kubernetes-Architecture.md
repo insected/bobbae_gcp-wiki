@@ -254,6 +254,11 @@ https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
 [https://operatorhub.io/](https://operatorhub.io/)
 
+# Add-ons
+
+Add-ons extend the functionality of Kubernetes.
+
+https://kubernetes.io/docs/concepts/cluster-administration/addons/
 
 # Operator Sprawl
 
