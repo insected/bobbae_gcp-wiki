@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Dataproc is a managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. Dataproc automation helps you create clusters quickly, manage them easily, and save money by turning clusters off when you don't need them. With less time and money spent on administration, you can focus on your jobs and your data.
+[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. Dataproc automation helps you create clusters quickly, manage them easily, and save money by turning clusters off when you don't need them. With less time and money spent on administration, you can focus on your jobs and your data.
 
-[https://cloud.google.com/dataproc/docs](https://cloud.google.com/dataproc/docs)
+
 
 Enterprises are migrating their existing on-premises Apache Hadoop and Spark clusters over to Dataproc to manage costs and unlock the power of elastic scale. With Dataproc, enterprises get a fully managed, purpose-built cluster that can autoscale to support any data or analytics processing job. 
 
