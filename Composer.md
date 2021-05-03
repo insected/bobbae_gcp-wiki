@@ -1,7 +1,7 @@
 
 # Composer Introduction 
 
-Cloud Composer is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage [workflows](Workflows). 
+Cloud [Composer](https://cloud.google.com/composer/) is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage [workflows](Workflows). 
 
 Cloud Composer automation helps you create Airflow environments quickly and use Airflow-native tools, such as the powerful Airflow web interface and command line tools, so you can focus on your workflows and not your infrastructure.
 
