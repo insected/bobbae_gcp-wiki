@@ -4,9 +4,9 @@
 
 ## What is Cloud Pub/Sub
 
-Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
+[Cloud Pub/Sub](https://cloud.google.com/pubsub/docs)   is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
 
-[https://cloud.google.com/pubsub/docs](https://cloud.google.com/pubsub/docs)
+
 
 This video walks you through how to create a Google Cloud Pub/Sub topic. Pub/Sub allows you to create global real-time messaging and subscribe to topics you want to follow to stay up to date.
 
