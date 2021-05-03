@@ -12,7 +12,7 @@
 
 # Database options
 
-One of Google Cloud Platform's competitive advantages is the strong ecosystem of managed databases.  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  This is a video about picking the right databases for your tech stack and how to make it all work in a unified way.
+One of Google Cloud Platform's competitive advantages is the strong ecosystem of managed databases.  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  
 
 [https://www.youtube.com/watch?v=3aHBkfBRFEU](https://www.youtube.com/watch?v=3aHBkfBRFEU)
 
@@ -20,9 +20,9 @@ Choosing the right database for your workloads.
 
 [https://www.youtube.com/watch?v=3YnLuEdGzU8](https://www.youtube.com/watch?v=3YnLuEdGzU8)
 
-Compare different GCP Database services.
+Compare different [GCP Database services](https://cloud.google.com/products/databases).
 
-[https://cloud.google.com/products/databases](https://cloud.google.com/products/databases)
+
 
 There are a lot of [Databases](Databases) to choose from.
 
