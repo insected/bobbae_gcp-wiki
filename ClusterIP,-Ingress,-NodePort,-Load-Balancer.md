@@ -105,7 +105,7 @@ Services of type ExternalName map a Service to a DNS name, not to a typical sele
 
 https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 
-# Ingress
+## Ingress
 
 [Ingress](Ingress)  is not a Service type, but it acts as the entry point for your cluster. It lets you consolidate your routing rules into a single resource as it can expose multiple services under the same IP address.
 
@@ -113,7 +113,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
-# ECMP
+## ECMP
 
 ECMP stands for “equal-cost multi-path”; it’s a routing strategy where packets are forwarded to one of any “best paths” in a network. How the best paths are determined depends on a lot of factors, but typically, the best path is likely the shortest path (the path with the least amount of hops). The most common example of using anycast is with global DNS services where we want one IP (think 1.1.1.1 or 8.8.8.8) to be routed to the closest site that is running a globally distributed DNS service. BGP is one of many routing protocols that allows us to implement ECMP routing.
  
