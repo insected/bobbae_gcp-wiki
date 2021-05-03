@@ -20,15 +20,15 @@ Then head over to this [tutorial](https://developers.google.com/machine-learning
 
 # Machine Learning & Artificial Intelligence 
 
-https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1
 
-A Data Scientist models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth data modeling and deep learning
+
+A Data Scientist models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth data modeling and deep learning.
 
 https://cloud.google.com/training/machinelearning-ai
 
 # Machine learning [Workflows](Workflows)
 
-AI Platform enables many parts of the machine learning (ML) [workflow](Workflows). This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
+[AI Platform](AI-Platform) enables many parts of the machine learning (ML) [workflow](Workflows). This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
 
 https://cloud.google.com/ai-platform/docs/ml-solutions-overview
 
@@ -378,6 +378,7 @@ https://www.guru99.com/pytorch-tutorial.html
 
 # Links
 
+- [](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
 - [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - [Guide to bring code to ML GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
