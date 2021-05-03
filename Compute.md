@@ -1,8 +1,5 @@
 
 
-# Compute
-
-## Introduction 
 
 GCP compute stack that contains, Google [Compute Engine](https://cloud.google.com/compute) (GCE), Google Kubernetes Engine (formerly Container Engine) (GKE), Google App Engine (GAE) and Google Cloud Functions (GCF).
 
