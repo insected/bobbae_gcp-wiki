@@ -62,29 +62,28 @@ The [Cloud Composer](https://cloud.google.com/composer) is a fully managed workf
 
 # Google Dataproc Workflow 
 
-[Dataproc](DataProc)
 
-The Dataproc [WorkflowTemplates](https://cloud.google.com/dataproc/docs/reference/rest/v1/projects.regions.workflowTemplates) API provides a flexible and easy-to-use mechanism for managing and executing workflows. 
+
+The [Dataproc](DataProc) [WorkflowTemplates](https://cloud.google.com/dataproc/docs/reference/rest/v1/projects.regions.workflowTemplates) API provides a flexible and easy-to-use mechanism for managing and executing workflows. 
 
 A Workflow Template is a reusable workflow configuration. It defines a graph of jobs with information on where to run those jobs.
 
-[Here](https://garystafford.medium.com/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp-95b02f54b5f2) is a great tutorial on Dataproc workflow templates by Gary Stafford.
+[Check out](https://garystafford.medium.com/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp-95b02f54b5f2) is a great tutorial on Dataproc workflow templates by Gary Stafford.
 
 # [Kubeflow](Kubeflow) & [AI Hub](AI-Hub)
 
 
-[Kubeflow](Kubeflow) Pipelines is a platform for building and deploying portable, scalable machine learning (ML) workflows based on Docker containers.
+[Kubeflow](Kubeflow) Pipelines is a platform for building and deploying portable, scalable machine learning (ML) workflows based on containers.
 [AI Hub](AI-Hub) has support for [Kubeflow](Kubeflow) Pipelines.
 
 
 # Workflow Tools Comparison and Alternatives
 
-A survey of pipeline & workflow tools.
+A [survey of pipeline & workflow tools](https://github.com/pditommaso/awesome-pipeline).
 
-[https://github.com/pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
 
 ## Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
-[https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
+[Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
 
