@@ -1,23 +1,11 @@
 # Introduction
 
-GCP doesn't rely on any single technology to make it secure. GCP builds security through progressive layers that deliver true defense in depth.
+GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP builds security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug).
 
-https://cloud.google.com/security/infrastructure
+[Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA).
 
-https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4
+Review the [Google Cloud Security Foundations Guide](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf).
 
-Google Infrastructure Security.
-[https://www.youtube.com/watch?v=UOdUC8DhprQ](https://www.youtube.com/watch?v=UOdUC8DhprQ)
-
-Google datacenter security has 6 layers. 
-[https://www.youtube.com/watch?v=kd33UVZhnAA](https://www.youtube.com/watch?v=kd33UVZhnAA)
-
-Security Foundations.
-https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
-
-## 6 layers
-
-https://www.youtube.com/watch?v=vBdYVFgZ2ug
 
 # Cryptography
 
@@ -41,7 +29,9 @@ Google administrates a vulnerability management process that actively scans for 
 
 https://cloud.google.com/security/overview/whitepaper#operational_security
 
-#### Authentication Options
+## Authentication Options
+
+[[https://storage.googleapis.com/gweb-cloudblog-publish/images/1_YvHxYeQ.max-600x600.png]]
 
 [https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
 
