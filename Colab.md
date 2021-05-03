@@ -1,4 +1,4 @@
-# Introduction
+### Introduction
 
 [Colaboratory](https://colab.research.google.com/) , or “Colab” for short, is a product from Google Research. 
 Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. 
@@ -7,7 +7,7 @@ More technically, Colab is a hosted Jupyter notebook service that requires no se
 
 https://colab.research.google.com/
 
-# Jupyter notebook
+### Jupyter notebook
 
 [Jupyter](Jupyter)
 
@@ -21,7 +21,7 @@ Please note that any ipynb file hosted on github can be hosted on colab.
 Map to https://colab.research.google.com/github/[filename].ipynb and rendered live for interactive use and edits.
 
 
-# Neural Networks in Colab
+### Neural Networks in Colab
 
 [AI Hub Neural Networks](https://aihub.cloud.google.com/p/products%2Fbda88ef5-fbf1-4d54-8d61-51433f30cb47)
 
