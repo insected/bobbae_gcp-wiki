@@ -17,17 +17,17 @@ Provisioning compute resources has traditionally been hard to manage, not scalab
 
 https://phoenixnap.com/blog/infrastructure-as-code-best-practices-tools
 
-# Cloud Foundation Toolkit
+## Cloud Foundation Toolkit
 
 The [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) is designed specifically to meet the compliance and security needs of enterprises.
 
 
 
-## Terraform 
+### Terraform 
 
 [Terraform](Terraform) is supported in the [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
 
-## Cloud Deployment Manager
+### Cloud Deployment Manager
 
 
 [Cloud Deployment Manager](Cloud-Deployment-Manager) is Google's own IAC tool supported in the  [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
