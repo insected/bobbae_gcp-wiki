@@ -93,7 +93,7 @@ https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e
 
 ## Kubernetes Details
 
-[Kubernetes](Kubernetes-Origin) is influenced by Borg, Omega and other systems.  You should check out various
+[Kubernetes is influenced](Kubernetes-Origin)  by Borg, Omega and other systems.  You should check out various
 [Kubernetes Examples](Kubernetes-Examples) to learn more about [Kubernetes Architecture](Kubernetes-Architecture).
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png" width="700">
