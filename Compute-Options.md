@@ -16,7 +16,7 @@ Decision tree for compute options.
 
 ### Cloud Functions
 
-Cloud Functions has a simple and intuitive developer experience. Just write your code and let Google Cloud handle the operational infrastructure. Develop faster by writing and running small code snippets that respond to events. Connect to Google Cloud or third-party cloud services via triggers to streamline challenging orchestration problems.
+[Cloud Functions](https://cloud.google.com/functions) has a simple and intuitive developer experience. Just write your code and let Google Cloud handle the operational infrastructure. Develop faster by writing and running small code snippets that respond to events. Connect to Google Cloud or third-party cloud services via triggers to streamline challenging orchestration problems.
 
 [https://cloud.google.com/functions](https://cloud.google.com/functions)
 
