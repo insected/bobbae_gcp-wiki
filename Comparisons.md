@@ -30,6 +30,11 @@ A video discussing differences and similarities between [DevOps](DevOps) and [SR
 [https://www.youtube.com/watch?v=uTEL8Ff1Zvk](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
 
 
+### SLOs vs SLIs
+
+<img src="https://wac-cdn.atlassian.com/dam/jcr:2c63228d-0dbd-4b8c-b44b-c8514c835905/slo-vs-sla-vs-sli-1.jpg?cdnVersion=1586" width="400">
+
+https://cloud.google.com/blog/products/devops-sre/availability-part-deux-cre-life-lessons
 
 ### Terraform vs. Ansible
 
