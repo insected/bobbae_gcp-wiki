@@ -59,7 +59,7 @@ You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [Po
 
 # Cloud Pub/Sub
 
-[Pub/Sub](PubSub] works as a messaging middleware for traditional service integration or a simple communication medium for modern microservices.
+[Pub/Sub](PubSub) works as a messaging middleware for traditional service integration or a simple communication medium for modern microservices.
 
 
 # BigQuery
