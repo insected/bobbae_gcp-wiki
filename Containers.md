@@ -21,6 +21,9 @@ By design, a container is immutable: you cannot change the code of a container t
 
 Container images use [Union Filesystems](https://en.wikipedia.org/wiki/UnionFS). In Linux, docker originally use AUFS but they use OverlayFS now.  The details of union filesystem use in docker container images can be found at https://martinheinz.dev/blog/44.
 
+## Borg
+
+Google  infrastructure is containerized, using a cluster management system called [Borg](https://research.google.com/pubs/pub43438.html?hl=es). We run hundreds of thousands of jobs from many different applications, across multiple clusters, each with up to tens of thousands of machines.
 
 ## Container runtimes
 
