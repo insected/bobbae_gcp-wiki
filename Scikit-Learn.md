@@ -1,11 +1,12 @@
 # Introduction
 
-Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface.
+[Scikit-learn](https://scikit-learn.org/stable/) provides a range of supervised and unsupervised learning algorithms via a consistent interface.
 
 It is built on Numpy, Scipy, and Matplotlib libraries.
 
+<img src="https://www.jeremyjordan.me/content/images/2017/05/ml_map.png" width="800">
 
-https://scikit-learn.org/stable/
+
 
 
 # Videos
