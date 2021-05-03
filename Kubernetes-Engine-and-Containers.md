@@ -179,4 +179,4 @@ https://itnext.io/continuous-gitops-the-way-to-do-devops-in-kubernetes-896b0ea1d
 
 ## Qwiklabs
 
-There many interesting [Kubernetes Qwiklabs](Kubernetes-Qwiklabs).
+There are many interesting [Kubernetes Qwiklabs](Kubernetes-Qwiklabs).
