@@ -1,18 +1,19 @@
 # Spanner
 
+Fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. Cloud Spanner optimizes performance by automatically sharding the data based on request load and size of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on scaling your business.
 
 https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1
 
 ## Spanner in a minute
 
-Cloud Spanner is a fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. Cloud Spanner can help you create time-sensitive, mission critical applications at scale. 
+Cloud Spanner can help you create time-sensitive, mission critical applications at scale. 
 
 [https://www.youtube.com/watch?v=5bjYk6Hhd10](https://www.youtube.com/watch?v=5bjYk6Hhd10)
 
 
 ## Introduction 
 
-Cloud Spanner is a fully managed, mission-critical, relational database service that offers transactional consistency at global scale, schemas, SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
+Cloud Spanner is a relational database service that offers transactional consistency at global scale, schemas, SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
 [https://cloud.google.com/spanner/docs](https://cloud.google.com/spanner/docs)
 
