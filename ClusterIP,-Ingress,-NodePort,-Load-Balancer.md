@@ -110,3 +110,5 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 # ECMP
 
 https://medium.com/@kyralak/accessing-kubernetes-services-without-ingress-nodeport-or-loadbalancer-de6061b42d72
+
+https://www.asykim.com/blog/kubernetes-traffic-engineering-with-bgp
