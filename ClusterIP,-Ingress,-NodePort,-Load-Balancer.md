@@ -62,7 +62,7 @@ https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-n
 
 ### ipvs
 
-In ipvs mode, kube-proxy watches Kubernetes Services and Endpoints, calls netlink interface to create IPVS rules accordingly and synchronizes IPVS rules with Kubernetes Services and Endpoints periodically. This control loop ensures that IPVS status matches the desired state. When accessing a Service, IPVS directs traffic to one of the backend Pods.
+In [ipvs](http://www.linuxvirtualserver.org/software/ipvs.html) mode, kube-proxy watches Kubernetes Services and Endpoints, calls netlink interface to create IPVS rules accordingly and synchronizes IPVS rules with Kubernetes Services and Endpoints periodically. This control loop ensures that IPVS status matches the desired state. When accessing a Service, IPVS directs traffic to one of the backend Pods.
 
 https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-iptables
 
