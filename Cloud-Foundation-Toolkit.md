@@ -16,14 +16,14 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 - a sample pipeline that enables running CFT deployment operations from Jenkins.
 
 
-## Google Cloud Deployment Manager
+### Google Cloud Deployment Manager
 
 [Cloud Deployment Manager](Cloud-Deployment-Manager)
 
-## Terraform
+### Terraform
 
 [Terraform](Terraform)
 
-# Cloud Foundation Toolkit templates
+### Cloud Foundation Toolkit templates
 
 https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/dm
