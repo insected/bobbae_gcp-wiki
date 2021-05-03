@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-GCP compute stack that contains, Google Compute Engine (GCE), Google Kubernetes Engine (formerly Container Engine) (GKE), Google App Engine (GAE) and Google Cloud Functions (GCF).
+GCP compute stack that contains, Google [Compute Engine](https://cloud.google.com/compute) (GCE), Google Kubernetes Engine (formerly Container Engine) (GKE), Google App Engine (GAE) and Google Cloud Functions (GCF).
 
 https://youtu.be/KBeyQHoAcrQ
 
@@ -16,7 +16,7 @@ https://youtu.be/KBeyQHoAcrQ
 
 ## From Data Center Professional Point of view
 
-Typically, data centers use server virtualization, in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These virtual machines are created, provisioned, and managed through a software suite such as VMware vSphere or XenCenter.
+Typically, data centers use server virtualization, in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These virtual machines are created, provisioned, and managed through a software suite such as VMware [vSphere](https://www.vmware.com/products/vsphere-hypervisor.html) or [XenCenter](https://docs.citrix.com/en-us/xencenter.html).
 
 Compute Engine uses this model as well, combining server virtualization and related management tools into an integrated suite. On Compute Engine, virtual machines are called virtual machine (VM) instances
 
