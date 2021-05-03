@@ -17,9 +17,13 @@ Google Cloud customers are increasingly looking to leverage streaming data (cust
 
 ## Apache beam
 
-The Apache Beam SDK is an open source programming model that enables you to develop both batch and streaming pipelines. You create your pipelines with an Apache Beam program and then run them on the Dataflow service. The [Apache Beam documentation](https://beam.apache.org/documentation/) provides in-depth conceptual information and reference material for the Apache Beam programming model, SDKs, and other runners.
+The [Apache Beam](https://github.com/apache/beam)    SDK is an open source programming model that enables you to develop both batch and streaming pipelines.
 
-[https://github.com/apache/beam](https://github.com/apache/beam)
+You create your pipelines with an Apache Beam program and then run them on the Dataflow service. 
+
+The [Apache Beam documentation](https://beam.apache.org/documentation/) provides in-depth conceptual information and reference material for the Apache Beam programming model, SDKs, and other runners.
+
+
 
 Cloud Dataflow is certainly not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. So, why would you choose Dataflow?
 There are a few reasons :
@@ -43,14 +47,14 @@ In this notebook, we set up your development environment and work through a simp
 [https://beam.apache.org/get-started/wordcount-example/](https://beam.apache.org/get-started/wordcount-example/)
 
 
-#### Dataflow Templates 
+## Dataflow Templates 
 
 These Dataflow templates are an effort to solve simple, but large, in-Cloud data tasks, including data import/export/backup/restore and bulk API operations, without a development environment. The technology under the hood which makes these operations possible is the [Google Cloud Dataflow](https://cloud.google.com/dataflow/) service combined with a set of [Apache Beam](https://beam.apache.org/) SDK templated pipelines.
 
 [https://github.com/GoogleCloudPlatform/DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates)
 
 
-#### Creating a pipeline
+## Creating a pipeline
 
 Using the Apache Beam interactive runner with JupyterLab notebooks lets you iteratively develop pipelines, inspect your pipeline graph, and parse individual PCollections in a read-eval-print-loop (REPL) workflow. These Apache Beam notebooks are made available through [AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs), a managed service that hosts notebook virtual machines pre-installed with the latest data science and machine learning frameworks.
 
@@ -75,7 +79,7 @@ To create a template from your Apache Beam pipeline, you must modify your pipeli
 [https://cloud.google.com/dataflow/docs/guides/templates/running-templates](https://cloud.google.com/dataflow/docs/guides/templates/running-templates)
 
 
-#### Using Dataflow Flex templates
+## Using Dataflow Flex templates
 
 Dataflow Flex templates use docker containers.
 
