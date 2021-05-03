@@ -1,7 +1,6 @@
-# Google Cloud Platform
 
 
-## Table of Contents
+
 
 - [Preparation](Preparation)
 - [Syllabus](Syllabus)
