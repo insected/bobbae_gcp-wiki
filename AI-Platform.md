@@ -1,4 +1,3 @@
-# Introduction
 
 
 <img src="https://cloud.google.com/ai-platform/images/ml-workflow.svg" width="600">
@@ -9,7 +8,7 @@ AI Platform makes it easy for machine learning developers, data scientists, and 
 
 <img src="https://miro.medium.com/max/1575/1*eF7n2JCVmwb1mRD49UMaYg.png" width="600">
 
-# AI Platform Deep Learning VM Images
+## AI Platform Deep Learning VM Images
 
 Deep Learning VM images are Debian 9- and Debian 10-based Compute Engine virtual machine images optimized for data science and machine learning tasks. All images come with key ML frameworks and tools pre-installed, and can be used out of the box on instances with GPUs to accelerate your data processing tasks.
 
@@ -29,14 +28,14 @@ AI Platform Notebooks makes it easy to manage JupyterLab instances through a pro
 [https://www.youtube.com/watch?v=Eu57QKNHaiY](https://www.youtube.com/watch?v=Eu57QKNHaiY)
 
 
-# AI Platform Deep Learning Containers
+## AI Platform Deep Learning Containers
 
 [https://cloud.google.com/ai-platform/deep-learning-containers/docs](https://cloud.google.com/ai-platform/deep-learning-containers/docs)
 
 [https://www.youtube.com/watch?v=h_BpDOdTX7Y](https://www.youtube.com/watch?v=h_BpDOdTX7Y)
 
 
-# AI Platform Pipelines
+## AI Platform Pipelines
 
 [https://cloud.google.com/ai-platform/pipelines/docs](https://cloud.google.com/ai-platform/pipelines/docs)
 
