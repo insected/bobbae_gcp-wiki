@@ -27,7 +27,7 @@ Original paper on Spanner.
 
 A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
 
-Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of [Bigtable](Bigtable)servers.
+Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of [Bigtable](Bigtable) servers.
 
 Zones are the unit of administrative deployment. The set of zones is also the set of locations across
 which data can be replicated. 
