@@ -59,9 +59,12 @@ At the bottom, each spanserver is responsible for between 100 and 1000 instances
 A
 tablet is similar to Bigtable’s tablet abstraction, in that it implements a bag of the following mappings:
 
+```
   (key:string, timestamp:int64) → string
 
-Unlike Bigtable, Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  
+```
+
+Unlike [Bigtable](Bigtable), Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  
 
 
 A tablet’s state is stored in set of B-tree-like files and a write-ahead log, all on a distributed file system called
