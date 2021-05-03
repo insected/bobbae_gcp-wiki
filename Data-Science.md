@@ -2,7 +2,14 @@
 [Data science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains.
 
 
-https://github.com/ossu/data-science
+[Data Science](https://www.w3schools.com/datascience/default.asp) is about data gathering, analysis and decision-making.
+
+[Data Science](https://github.com/ossu/data-science)   is about finding patterns in data, through analysis, and make future predictions.
+
+
+
+
+
 
 # AI Building Blocks
 
@@ -40,43 +47,6 @@ Time-series analysis is essential for day-to-day operation of many companies. Mo
 
 [https://cloud.google.com/inference/docs](https://cloud.google.com/inference/docs)
 
-
-# Basic Bayes Theorem
-
-[Bayes' theorem](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/), named after 18th-century British mathematician Thomas Bayes, is a mathematical formula for determining conditional probability. Conditional probability is the likelihood of an outcome occurring, based on a previous outcome occurring.
-
-[https://www.youtube.com/watch?v=HZGCoVF3YvM](https://www.youtube.com/watch?v=HZGCoVF3YvM)
-
-We can use probability to make predictions in machine learning. Perhaps the most widely used example is called the Naive Bayes algorithm. Not only is it straightforward to understand, but it also achieves surprisingly good results on a wide range of problems.
-
-[https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
-
-
-# Classification
-
-[Classification](https://machinelearningmastery.com/types-of-classification-in-machine-learning/) is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as “spam” or “not spam.”
-
-## [Regression & Classification](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/)
-
-[https://www.youtube.com/watch?v=TJveOYsK6MY](https://www.youtube.com/watch?v=TJveOYsK6MY)
-
-
-## Content Classification
-
-Content Classification analyzes a document and returns a list of content categories that apply to the text found in the document. 
-
-[https://cloud.google.com/natural-language/docs/classifying-text](https://cloud.google.com/natural-language/docs/classifying-text)
-
-Using [AutoML](AutoML) to classify text.
-
-[https://www.youtube.com/watch?v=ieaqfU1BwJ8](https://www.youtube.com/watch?v=ieaqfU1BwJ8)
-
-
-## Classification, redaction, and de-identification
-
-The [Cloud Data Loss Prevention](https://cloud.google.com/dlp)  (DLP) helps you understand, manage, and protect sensitive data. With the Cloud DLP, you can easily classify and redact sensitive data contained in text-based content and images, including content stored in Google Cloud storage repositories.
-
-[https://cloud.google.com/dlp/docs/classification-redaction](https://cloud.google.com/dlp/docs/classification-redaction)
 
 
 # Scikit Learn
