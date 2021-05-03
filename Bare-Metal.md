@@ -4,6 +4,6 @@ Bare Metal Solution is a managed solution that provides purpose-built HPE or Ato
 
 <img src="https://cloud.google.com/bare-metal/docs/images/bms-architecture-2.png" width="800">
 
-# Setting up Bare Metal Solution
+## Setting up Bare Metal Solution
 
 https://cloud.google.com/bare-metal/docs/bms-setup
