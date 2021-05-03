@@ -84,7 +84,7 @@ The [Cloud Data Loss Prevention](https://cloud.google.com/dlp)  (DLP) helps you 
 [Scikit Learn](Scikit-Learn) python library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction.
 
 
-# TensorFlow
+# Tensorflow
 
 [Tensorflow](Tensorflow) is an end-to-end open source platform for machine learning. It has a comprehensive ecosystem of tools and libraries 
 to build and deploy ML powered applications.
