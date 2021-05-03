@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Dataflow is a managed service for executing a wide variety of data processing patterns. The documentation on this site shows you how to deploy your batch and streaming data processing pipelines using Dataflow, including directions for using service features.
+[Dataflow](https://cloud.google.com/dataflow/docs)   is a managed service for executing a wide variety of data processing patterns. The documentation on this site shows you how to deploy your batch and streaming data processing pipelines using Dataflow, including directions for using service features.
 
-[https://cloud.google.com/dataflow/docs](https://cloud.google.com/dataflow/docs)
+
 
 Google Cloud Dataflow makes it easy to process and analyze real-time streaming data so that you can derive insights and react to new information in real-time. Learn how it is used in conjunction with other technologies, like PubSub, Kafka, BigQuery, Bigtable, or Datastore, to build end-to-end streaming architectures. Learn how these architectures enable diverse use cases such as real-time ingestion and ETL, real-time reporting & analytics, real-time alerting, or fraud detection.
 
