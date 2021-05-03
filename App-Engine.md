@@ -1,12 +1,11 @@
 
 
-### App Engine
 
 https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/70eb42ad287e1b01bdc5edbbe73ce52ab972d14bcced1359c6172dbdb8627d31.svg" width="800">
 
-#### Introduction
+
 
 [App Engine](https://cloud.google.com/appengine)  is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
 
@@ -22,17 +21,17 @@ App Engine's environments, the [Standard Environment](https://cloud.google.com/a
 
 App Engine allows developers to focus on doing what they do best, writing code. The App Engine standard environment is based on container instances running on Google's infrastructure. Containers are preconfigured with one of several available runtimes (Java 8, Python 3.7, Go and PHP). Each runtime also includes libraries that support [App Engine Standard APIs](https://cloud.google.com/appengine/docs/about-the-standard-environment#index_of_features).  
 
-### Locations
+## Locations
 
 https://cloud.google.com/about/locations#region
 
-### Comparison to other PaaS
+## Comparison to other PaaS
 
 * Compare to AWS Elastic Beanstalk 
 https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and-heroku-2129d9c827bc
 
 
-#### AppEngine Standard
+## AppEngine Standard
 
 The App Engine standard environment makes it easy to build and deploy an application that runs reliably even under heavy load and with large amounts of data. It includes the following features:
 
@@ -48,10 +47,10 @@ Applications run in a secure, sandboxed environment, allowing the App Engine sta
 
 
 
-#### Language Support
+## Language Support
 
 
-##### Go
+### Go
 
 [https://cloud.google.com/appengine/docs/go](https://cloud.google.com/appengine/docs/go)
 
@@ -64,7 +63,7 @@ A Go language tutorial video.
 [https://www.youtube.com/watch?v=YS4e4q9oBaU&list=PLk_epN-7EGrjdhjn5gCMJ1aLIhRTHDJcu&index=11&t=0s](https://www.youtube.com/watch?v=YS4e4q9oBaU&list=PLk_epN-7EGrjdhjn5gCMJ1aLIhRTHDJcu&index=11&t=0s)
 
 
-##### Python
+### Python
 
 [https://cloud.google.com/appengine/docs/python](https://cloud.google.com/appengine/docs/python)
 
@@ -73,14 +72,14 @@ A Python tutorial video.
 [https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 
-##### Node.js
+### Node.js
 
 A video tutorial on how to create a web application using node.js and express framework.
 
 [https://www.youtube.com/watch?v=G8uL0lFFoN0](https://www.youtube.com/watch?v=G8uL0lFFoN0)
 
 
-#### App Engine Flexible
+## App Engine Flexible
 
 Based on [Google Compute Engine](https://cloud.google.com/compute), the App Engine flexible environment automatically scales your app up and down while also balancing the load. In the standard environment, your application runs on a lightweight instance inside of a sandbox. This sandbox restricts what your application can do. For example, the sandbox only allows your app to use a limited set of binary libraries, and your app cannot write to disk. The standard environment also limits the CPU and memory options available to your application. Because of these restrictions, most App Engine standard applications tend to be stateless web applications that respond to HTTP requests quickly.
 
@@ -89,45 +88,45 @@ In contrast, the flexible environment runs your application in Docker containers
 [https://cloud.google.com/appengine/docs/flexible/go/flexible-for-standard-users](https://cloud.google.com/appengine/docs/flexible/go/flexible-for-standard-users)
 
 
-#### Qwiklabs
+## Qwiklabs
 
 
-##### App Engine with Python
+### App Engine with Python
 
 [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?catalog_rank=%7B%22rank%22%3A19%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467964)
 
 
-##### App Engine with Go
+### App Engine with Go
 
 [App Engine: Qwik Start - Go](https://www.qwiklabs.com/focuses/2754?catalog_rank=%7B%22rank%22%3A14%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467964)
 
 
-##### App Engine with Java
+### App Engine with Java
 
 [App Engine: Qwik Start - Java](https://www.qwiklabs.com/focuses/951?parent=catalog)
 
 
-##### Baseline
+### Baseline
 
 In this introductory-level quest, you will learn the fundamentals of developing and deploying applications on the Google Cloud Platform. You will get hands-on experience with the Google App Engine framework by launching applications written in languages like Python, Ruby, and Java (just to name a few). You will see first-hand how straightforward and powerful GCP application frameworks are, and how easily they integrate with GCP database, data-loss prevention, and security services.
 
 [Baseline: Deploy & Develop](https://www.qwiklabs.com/quests/37?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
 
-##### Deploying
+### Deploying
 
 The Google Cloud Platform provides many different frameworks and options to fit your application’s needs. In this introductory-level quest, you will get plenty of hands-on practice deploying sample applications on Google App Engine. You will also dive into other web application frameworks like Firebase, Wordpress, and Node.js and see firsthand how they can be integrated with GCP.
 
 [Deploying Applications](https://www.qwiklabs.com/quests/26?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
 
-##### Python Flask on App Engine Flexible
+### Python Flask on App Engine Flexible
 
 In this lab, you will learn how to deploy a Python Flask web application to the App Engine Flexible environment. The example application allows a user to upload a photo of a person's face and learn how likely it is that the person is happy. The application uses Google Cloud APIs for Vision, Storage, and Datastore.
 
 [Deploying a Python Flask Web Application to App Engine Flexible](https://www.qwiklabs.com/focuses/3339?catalog_rank=%7B%22rank%22%3A24%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467972)
 
 
-##### Node.js Express
+### Node.js Express
 
 [Deploy Node.js Express Application in App Engine](https://www.qwiklabs.com/focuses/3340?catalog_rank=%7B%22rank%22%3A21%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467972)
