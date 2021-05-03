@@ -101,7 +101,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#externalname
 
 # Ingress
 
-[Ingress](Ingress)
+[Ingress](Ingress)  is not a Service type, but it acts as the entry point for your cluster. It lets you consolidate your routing rules into a single resource as it can expose multiple services under the same IP address.
 
 <img src="https://i.imgur.com/pO8Gp3d.png" width="700">
 
