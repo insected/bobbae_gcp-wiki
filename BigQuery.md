@@ -56,6 +56,8 @@ https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb5
 
 You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?skip_cache=true) files from local sources, Google Drive, or Cloud Storage buckets, take advantage of [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs/introduction?skip_cache=true) (DTS), [Data Fusion](https://cloud.google.com/data-fusion/plugins?skip_cache=true) plug-ins, or leverage Google's industry-leading [data integration partnerships](https://cloud.google.com/bigquery?skip_cache=true#section-12). You have ultimate flexibility in how you bring data into your data warehouse. 
 
+<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
+
 
 ## Anatomy of a BigQuery query
 
@@ -149,7 +151,6 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 
 [https://www.youtube.com/watch?v=1gYUGv_omJA](https://www.youtube.com/watch?v=1gYUGv_omJA)
 
-<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
 
 
 ## BigQuery nested and repeated fields
