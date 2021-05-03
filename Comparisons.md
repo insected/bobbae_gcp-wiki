@@ -32,6 +32,8 @@ A video discussing differences and similarities between [DevOps](DevOps) and [SR
 
 ### SLOs vs SLIs
 
+KPIs (Key Performance Indicators) are metrics that help businesses determine whether they’re meeting specific goals. For incident management, these metrics could be number of incidents, average time to resolve, or average time between incidents.
+
 <img src="https://wac-cdn.atlassian.com/dam/jcr:2c63228d-0dbd-4b8c-b44b-c8514c835905/slo-vs-sla-vs-sli-1.jpg?cdnVersion=1586" width="400">
 
 https://cloud.google.com/blog/products/devops-sre/availability-part-deux-cre-life-lessons
