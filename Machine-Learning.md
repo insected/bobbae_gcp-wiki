@@ -13,14 +13,12 @@ Google Machine Learning Platform Overview.
 
 # Machine Learning Crash Course
 
-First read this comicbook.
-https://cloud.google.com/products/ai/ml-comic-1
+First read this [comicbook](https://cloud.google.com/products/ai/ml-comic-1).
 
 
-Then head over to this tutorial.
-https://developers.google.com/machine-learning/crash-course/
+Then head over to this [tutorial](https://developers.google.com/machine-learning/crash-course/).
 
-# Machine learning and artificial intelligence learning paths
+# Machine Learning & Artificial Intelligence 
 
 https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1
 
@@ -28,7 +26,7 @@ A Data Scientist models and analyzes key data and continually improves the way t
 
 https://cloud.google.com/training/machinelearning-ai
 
-# Machine learning workflow
+# Machine learning [Workflows](Workflows)
 
 AI Platform enables many parts of the machine learning (ML) [workflow](Workflows). This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
 
