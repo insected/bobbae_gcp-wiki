@@ -33,7 +33,7 @@ There is no shortage of opportunities for clinical decision support and cognitiv
 
 ### Cloud Life Sciences
 
-Cloud Life Sciences is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
+[Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
 
 [https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
 
