@@ -1,14 +1,14 @@
 
 ### Cloud Code
 
-Using Cloud Code with Kubernetes.
+Using [Cloud Code](https://cloud.google.com/code)  with Kubernetes.
 
 [https://www.youtube.com/watch?v=KNd0mTxcQ_M](https://www.youtube.com/watch?v=KNd0mTxcQ_M)
 
 
 ### Cloud Build
 
-Cloud Build is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket, execute a build to your specifications, and produce artifacts such as Docker containers or Java archives.
+[Cloud Build](https://cloud.google.com/build/docs)  is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket, execute a build to your specifications, and produce artifacts such as Docker containers or Java archives.
 
 <img src="https://i.redd.it/uscxzz8hwmc41.png" width="500">
 
