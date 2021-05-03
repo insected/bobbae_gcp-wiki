@@ -7,7 +7,6 @@
 
 [https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/)
 
-<img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="300">
 
 [https://cloud.google.com/bigquery/docs](https://cloud.google.com/bigquery/docs)
 
@@ -141,13 +140,16 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 
 [https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 
+<img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="300">
 
-<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
+
 
 
 ## Building the world’s largest data warehouse
 
 [https://www.youtube.com/watch?v=1gYUGv_omJA](https://www.youtube.com/watch?v=1gYUGv_omJA)
+
+<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
 
 
 ## BigQuery nested and repeated fields
