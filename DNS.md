@@ -1,7 +1,7 @@
 
 # Introduction
 
-[Cloud DNS](https://cloud.google.com/dns) allows you to publish your domain names by using Google's infrastructure for production-quality, high-volume DNS services. Google's global network of anycast name servers provides reliable, low-latency, authoritative name lookups for your domains from anywhere in the world.
+[Cloud DNS](https://cloud.google.com/dns) allows you to publish your domain names by using Google's infrastructure for production-quality, high-volume [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)    services. Google's global network of anycast name servers provides reliable, low-latency, authoritative name lookups for your domains from anywhere in the world.
 
 [https://cloud.google.com/dns/docs](https://cloud.google.com/dns/docs)
 
