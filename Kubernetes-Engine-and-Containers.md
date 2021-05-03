@@ -164,11 +164,18 @@ https://github.com/kubernetes-sigs/kubefed
 
 <img src="https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png" width="600">
 
-## Workflow
+## Kubernetes & AI
+
+https://github.com/CognonicLabs/awesome-AI-kubernetes
+
+## Kubernetes & GitOps
+
 
 <img src="https://miro.medium.com/max/1575/1*HFUAAjfQo4ZeJVKPSObgZg.png" width="600">
 
 https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff
+
+https://itnext.io/continuous-gitops-the-way-to-do-devops-in-kubernetes-896b0ea1d0fb
 
 ## Qwiklabs
 
