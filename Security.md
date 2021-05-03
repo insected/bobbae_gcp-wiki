@@ -86,6 +86,8 @@ Envisioned in 2011, the [BeyondCorp](https://www.beyondcorp.com/) security model
 
 [https://www.youtube.com/watch?v=Sq9gp8KBsY0](https://www.youtube.com/watch?v=Sq9gp8KBsY0)
 
+In the same way that BeyondCorp helped us to evolve beyond a perimeter based security model, [BeyondProd](https://cloud.google.com/security/beyondprod) represents a similar leap forward in our approach to production security. The BeyondProd approach describes a cloud-native security architecture that assumes no trust between services, provides isolation between workloads, verifies that only centrally built applications are deployed, automates vulnerability management, and enforces strong access controls to critical data. The BeyondProd architecture led Google to innovate several new systems in order to meet these requirements.
+
 ### Zero Trust
 
 [Zero Trust](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/) is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access.
