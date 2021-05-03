@@ -1,8 +1,7 @@
-# Introduction
 
-Datastore is a highly scalable NoSQL database for your applications. Datastore automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries and indexes.  
+[Datastore](https://cloud.google.com/datastore) is a highly scalable NoSQL database for your applications. Datastore automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries and indexes.  
 
-https://cloud.google.com/datastore
+
 
 ## Evolution of Datastore
 
