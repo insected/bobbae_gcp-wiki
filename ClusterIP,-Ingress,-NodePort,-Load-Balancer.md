@@ -1,4 +1,4 @@
-# Kubernetes  service
+# Kubernetes  [service](https://kubernetes.io/docs/concepts/services-networking/service/)
 
 Kubernetes [service](https://kubernetes.io/docs/concepts/services-networking/service/) is an abstract way to expose an application running on a set of Pods as a [Network](Kubernetes-Networking) service.
 
@@ -6,7 +6,11 @@ With Kubernetes you don't need to modify your application to use an unfamiliar s
 
 https://kubernetes.io/docs/concepts/services-networking/service/
 
-A service can be exposed via NodePort, LoadBalancer or ClusterIP.
+A service can be [exposed](https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/) via [NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport), [LoadBalancer](https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer) or ClusterIP.
+
+A NodePort is an open port on every node of your cluster. Kubernetes transparently routes incoming traffic on the NodePort to your service, even if your application is running on a different node.
+
+Using a LoadBalancer service type automatically deploys an external load balancer. This external load balancer is associated with a specific IP address and routes external traffic to a Kubernetes service in your cluster.
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/service
 
@@ -16,7 +20,9 @@ When to use NodePort vs. LoadBalancer  can be confusing.
 
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
 
-## GKE
+## [GKE](https://cloud.google.com/kubernetes-engine)
+
+GKE is a Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps
 
@@ -32,9 +38,9 @@ The ClusterIP in kubernetes is a service type which has its origins in the iptab
 
 https://book.huihoo.com/iptables-tutorial/x8906.htm
 
-### Kube-proxy
+### [Kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/)
 
-There are several types of proxies in Kubernetes, and among them is the node proxier, or kube-proxy, which reflects services defined in Kubernetes API on each node and performs simple TCP/UDP/SCTP stream forwarding across a set of backends.
+There are several types of proxies in Kubernetes, and among them is the node proxier, or [kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/), which reflects services defined in Kubernetes API on each node and performs simple TCP/UDP/SCTP stream forwarding across a set of backends.
 
 https://arthurchiao.art/blog/cracking-k8s-node-proxy/
 
@@ -42,11 +48,11 @@ https://arthurchiao.art/blog/cracking-k8s-node-proxy/
 
 ### iptables
 
-In iptables proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
+In [iptables](https://en.wikipedia.org/wiki/Iptables)  proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
 
 <img src="https://d33wubrfki0l68.cloudfront.net/27b2978647a8d7bdc2a96b213f0c0d3242ef9ce0/e8c9b/images/docs/services-iptables-overview.svg" width="400">
 
-By default, kube-proxy in iptables mode chooses a backend at random.
+By default, [kube-proxy](https://kubernetes.io/docs/concepts/overview/components/#kube-proxy) in iptables mode chooses a backend at random.
 
 https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-iptables
 
