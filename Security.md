@@ -6,6 +6,13 @@ GCP doesn't rely on any single technology to make its [infrastructure secure](ht
 
 Review the [Google Cloud Security Foundations Guide](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf).
 
+# [Security Foundations Blueprint](https://cloud.google.com/blog/products/identity-security/google-cloud-security-foundations-guide)
+
+The [Security Foundations Blueprint](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf) presents an opinionated view of Google Cloud security best practices, organized to allow
+users to adopt or adapt them and then automatically deploy them for their estates on Google Cloud.
+
+
+There is an [example repo showing how the CFT Terraform modules can be composed to build a secure GCP foundation](https://github.com/terraform-google-modules/terraform-example-foundation).
 
 # Cryptography
 
