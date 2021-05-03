@@ -13,7 +13,7 @@ This video walks you through how to create a Google Cloud Pub/Sub topic. Pub/Sub
 [https://www.youtube.com/watch?v=pU1zA-DMlWk](https://www.youtube.com/watch?v=pU1zA-DMlWk)
 
 
-## Example
+Example:
 
 Cloud IoT Core to push airline data to PubSub, Dataflow, and BigQuery.
 
