@@ -17,6 +17,12 @@ For example, Cloud [Composer](Composer) is a natural choice if your workflow nee
 However, if you want to process events or chain APIs in a serverless way—or have workloads that are bursty or latency-sensitive— it may be better to use  [Workflows](https://cloud.google.com/workflows).
 
 
+
+[Workflows](https://cloud.google.com/workflows) is Google Cloud's serverless orchestration engine: https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows
+
+
+https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
+
 [Workflows](https://cloud.google.com/workflows) scales to zero when you’re not using it, incurring no costs when it’s idle. 
 
 It is a [Serverless Orchestration Engine](https://codelabs.developers.google.com/codelabs/cloud-workflows-intro) and requires no infrastructure management.
@@ -31,12 +37,6 @@ Workflows scale up automatically with very low startup time and no “cold start
 You can orchestrate and automate Google Cloud and HTTP-based API services with [serverless workflows](https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows).
 
 
-## Serverless Orchestration Engine
-
-[Workflows](https://cloud.google.com/workflows) is Google Cloud's serverless orchestration engine: https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows
-
-
-https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
 
 ## Connectors
 
