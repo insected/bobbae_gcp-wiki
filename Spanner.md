@@ -1,4 +1,4 @@
-# Spanner
+
 
 Fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. Cloud Spanner optimizes performance by automatically sharding the data based on request load and size of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on scaling your business.
 
