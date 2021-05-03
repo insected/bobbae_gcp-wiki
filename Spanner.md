@@ -70,7 +70,7 @@ Colossus (the successor to the Google File System).
 To support replication, each spanserver implements a single [Paxos](https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html)   state machine on top of each tablet.
 
 
-The Paxos state machines are used to implement a consistently replicated bag of mappings. 
+The [Paxos](https://medium.com/distributed-knowledge/paxos-consensus-for-beginners-1b8519d3360f)    state machines are used to implement a consistently replicated bag of mappings. 
 
 The key-value
 mapping state of each replica is stored in its corresponding tablet. Writes must initiate the Paxos protocol at the
