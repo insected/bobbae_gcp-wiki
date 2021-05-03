@@ -1,5 +1,5 @@
 
-# Introduction
+## Introduction
 
 [Cloud Datalab](https://cloud.google.com/datalab/docs)    can be used to easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. Datalab comes with pre-installed [Jupyter](Jupyter) samples and tutorial notebooks.  
 
