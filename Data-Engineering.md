@@ -28,7 +28,7 @@ There are a lot of [Databases](Databases) to choose from.
 
 # Cloud SQL
 
-Cloud SQL is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
+[Cloud SQL](https://cloud.google.com/sql) is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
 
 You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [PostgreSQL](https://cloud.google.com/sql/docs/postgres), or [SQL Server](https://cloud.google.com/sql/docs/sqlserver). 
 
@@ -38,7 +38,8 @@ You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [Po
 
 
 ## SQL
-SQL is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of SQL which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries.
+
+[SQL](https://www.w3schools.com/sql/sql_intro.asp) is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of SQL which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries.
 
 
 ### SQL Tutorials
@@ -75,7 +76,7 @@ SQL is commonly pronounced “sequel.” Its most popular variants are MySQL, Po
 
 ## Introduction 
 
-Cloud Data Fusion is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. Cloud Data Fusion provides a graphical interface to increase time efficiency and reduce complexity. Now business users, developers, and data scientists can easily and reliably build scalable data integration solutions to cleanse, prepare, blend, transfer, and transform data— without having to wrestle with infrastructure.
+[Cloud Data Fusion](https://cloud.google.com/data-fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. Cloud Data Fusion provides a graphical interface to increase time efficiency and reduce complexity. Now business users, developers, and data scientists can easily and reliably build scalable data integration solutions to cleanse, prepare, blend, transfer, and transform data— without having to wrestle with infrastructure.
 
 
 ## CDAP
@@ -125,7 +126,7 @@ Demonstration of Data Studio.
 
 # Data Catalog
 
-Data Catalog is a fully managed and scalable metadata management service that empowers organizations to quickly discover, understand, and manage all of their data.
+[Data Catalog](https://cloud.google.com/data-catalog) is a fully managed and scalable metadata management service that empowers organizations to quickly discover, understand, and manage all of their data.
 
 [https://cloud.google.com/data-catalog/docs](https://cloud.google.com/data-catalog/docs)
 
@@ -136,7 +137,7 @@ Data Catalog is a fully managed and scalable metadata management service that em
 
 # Cloud Life Sciences
 
-Cloud Life Sciences is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
+[Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
 
 [https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
 
@@ -151,7 +152,7 @@ Cloud Life Sciences is a suite of services and tools for managing, processing, a
 
 # Firestore in datastore mode
 
-Firestore in Datastore mode is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
+[Firestore in Datastore mode](https://cloud.google.com/datastore/docs) is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
 
 https://cloud.google.com/datastore/docs
 
