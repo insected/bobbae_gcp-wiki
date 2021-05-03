@@ -1,4 +1,3 @@
-# AutoML
 
 Cloud [AutoML](https://cloud.google.com/automl)  helps you easily build high quality custom machine learning models with limited machine learning expertise needed.
 
