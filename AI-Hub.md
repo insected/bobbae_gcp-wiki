@@ -1,5 +1,5 @@
 
-# AI Hub
+
 
 [AI Hub](https://aihub.cloud.google.com/u/0/) offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. You can use the AI Hub to:
 
@@ -15,13 +15,13 @@
 
 
 
-# Quickstart for using public assets
+## Quickstart for using public assets
 
 The example notebook guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
 
 https://cloud.google.com/ai-hub/docs/public-hub-quickstart
 
-# Quickstart for uploading assets
+## Quickstart for uploading assets
 
 You can share AI assets within your organization by uploading them to your organization's collection of assets on AI Hub. Colleagues in your organization can then find, deploy, and use those assets.
 
@@ -29,7 +29,7 @@ In this guide, you upload a sample notebook file, hello-world.ipynb, to your org
 
 https://cloud.google.com/ai-hub/docs/private-hub-quickstart
 
-# AI Hub Jupyter Notebooks in AI Platform
+## AI Hub Jupyter Notebooks in AI Platform
 
 [Jupyter](Jupyter) Notebooks from AI Hub can be opened in [AI Platform](AI-Platform) Notebooks. 
 
@@ -38,7 +38,7 @@ Here is an example:
 
 
 
-# Links
+## Links
 
 - [AI Hub](https://aihub.cloud.google.com/u/0/)
 - [Kubeflow](https://www.kubeflow.org/)
