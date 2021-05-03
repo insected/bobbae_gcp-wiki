@@ -222,8 +222,17 @@ https://cloud.google.com/architecture/migrating-oracle-to-cloud-spanner
 
 ## Optimizing Applications, Schemas, and Query Design on Cloud Spanner
 
+Discuss techniques for monitoring Cloud Spanner to identify performance bottlenecks. 
 
 https://www.youtube.com/watch?v=DxrdatA_ULk
+
+### Emulator
+
+The [Cloud SDK](https://cloud.google.com/sdk) provides a local, in-memory emulator, which you can use to develop and test your applications for free without creating a GCP Project or a billing account. As the emulator stores data only in memory, all state, including data, schema, and configs, is lost on restart. The emulator offers the same APIs as the Cloud Spanner production service and is intended for local development and testing, not for production deployments.
+
+The emulator supports all languages of the client libraries. You can also use the emulator with the gcloud command-line tool and REST APIs.
+
+The emulator is also available as an open source project in [GitHub](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator).
 
 ## Perspectives
 
