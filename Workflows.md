@@ -81,6 +81,24 @@ A Workflow Template is a reusable workflow configuration. It defines a graph of 
 
 A [survey of pipeline & workflow tools](https://github.com/pditommaso/awesome-pipeline).
 
+## Choosing the right Orchestrator for Google Cloud
+
+Orchestration often refers to the automated configuration, coordination, and management of computer systems and services. 
+
+In the context of service-oriented architectures, orchestration can range from simply executing a single service at a specific time and day, to a more sophisticated approach of automating and monitoring multiple services over longer periods of time, with the ability to react and handle failures as they crop up. 
+
+In the data engineering context, orchestration is central to coordinating the services and workflows that prepare, ingest, and transform data. It can go beyond data processing and also involve a workflow to train a machine learning (ML) model from the data.
+
+Google Cloud Platform offers a number of tools and services for orchestration:
+
+* [Cloud Scheduler](Cloud-Scheduler) for schedule driven single-service orchestration
+* Workflows for complex multi-service orchestration 
+* [Cloud Composer](Composer) for orchestration of your data workloads
+
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Screen_Shot_2021-04-21_at_9.45.28_AM.max-1000x1000.png" width="800">
+
+https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
+
 
 ## Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
