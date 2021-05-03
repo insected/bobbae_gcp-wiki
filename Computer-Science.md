@@ -1,4 +1,4 @@
-# Learning about computer science 
+
 
 If you want to get a well-rounded education in Computer Science there are many  resources available for free.
 
