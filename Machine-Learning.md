@@ -1,5 +1,7 @@
 
-Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
+Machine learning is an [awesome](https://github.com/CognonicLabs/awesome-AI-kubernetes)  application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
+
+[Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)  focuses on the development of computer programs that can access data and use it to learn for themselves.
 
 What is [Machine Learning](https://www.google.com/amp/s/www.mygreatlearning.com/blog/machine-learning-tutorial/%3famp)?
 
@@ -361,9 +363,13 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 ## Pytorch
 
-https://pytorch.org/
+[PyTorch](https://pytorch.org/)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
+
 
 https://www.guru99.com/pytorch-tutorial.html
+
+
+
 
 ## Kubeflow
 
