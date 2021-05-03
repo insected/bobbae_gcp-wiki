@@ -153,7 +153,32 @@ Please take a look and try out the [Data Science Qwiklabs](Data-Science-Qwiklabs
 
 # Data Science related Math
 
-Here are some very basic introductory videos on various useful math topics.
+## Single Variable Calculus
+
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
+
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)
+
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)
+
+## Linear Algebra
+
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+
+## Multivariable Calculus
+
+[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+## Statistics & Probability
+
+[Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
+
+[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+
+[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+
 
 ## Linear Algebra
 
