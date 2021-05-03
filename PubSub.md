@@ -54,6 +54,6 @@ Using Kafka and Confluent allows customers to integrate legacy systems and Googl
 
 ### Kafka
 
-Organizations around the world rely on Apache Kafka to integrate existing systems in real time and build a new class of event streaming applications that unlock new business opportunities. Google and Confluent are in a partnership to deliver the best event streaming service based on Apache Kafka and to build event driven applications and big data pipelines on Google Cloud Platform. In this Quest, you will first learn how to deploy and create a streaming data pipeline with Apache Kafka. You will then perform hand-on labs on the different functionalities of the Confluent Platform such as deploying and running Apache Kafka on GKE, building a Cloud Run Streaming Application with Apache Kafka on Anthos or developing a Streaming Microservices Application.
+
 
 [Getting Started with Apache Kafka and Confluent Platform on Google Cloud](https://www.qwiklabs.com/quests/145?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467576)
