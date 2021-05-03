@@ -25,13 +25,11 @@ https://www.ibm.com/cloud/blog/containers-vs-vms
 
 ### DevOps vs. SRE
 
-A video discussing differences and similarities between DevOps and SRE.
+A video discussing differences and similarities between [DevOps](DevOps) and [SRE](SRE).
 
 [https://www.youtube.com/watch?v=uTEL8Ff1Zvk](https://www.youtube.com/watch?v=uTEL8Ff1Zvk)
 
-Some books on SRE from google.
 
-[https://landing.google.com/sre/books/](https://landing.google.com/sre/books/)
 
 ### Terraform vs. Ansible
 
