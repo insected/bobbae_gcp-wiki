@@ -378,7 +378,7 @@ https://www.guru99.com/pytorch-tutorial.html
 
 # Links
 
-- [](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
+- [video](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
 - [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - [Guide to bring code to ML GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
