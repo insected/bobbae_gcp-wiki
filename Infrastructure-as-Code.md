@@ -4,7 +4,7 @@ Infrastructure as Code (IAC) refers to the process of managing and provisioning 
 
 IAC allows provisioning and managing of computer data centers via machine-readable definition files without having to configure tools or physical hardware. In simpler terms, IAC treats manual configurations, build guides, run books, and related procedures as code. Read by software, the code that maintains the state of the infrastructure.
 
-# Introduction
+
 
 Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? You can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google [Cloud Deployment Manager](Cloud-Deployment-Manager).
 
@@ -32,7 +32,7 @@ The [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) is designed specificall
 
 [Cloud Deployment Manager](Cloud-Deployment-Manager) is Google's own IAC tool supported in the  [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
 
-# Other IAC Tools
+## Other IAC Tools
 
 ### Pulumi
 
@@ -79,13 +79,13 @@ https://www.terraform.io/intro/vs/cloudformation.html
 
 
 
-# Qwiklabs
+##  Qwiklabs
 
 
 
 
 
-## VM Migration
+### VM Migration
 
 Google Cloud’s four step structured [Cloud Migration](Migration) Path Methodology provides a defined and repeatable path for users to follow when migrating and modernizing [Virtual Machines](VM). In this quest, you will get hands-on practice with Google’s current solution set for [VM](VM) assessment, planning, migration, and modernization. You will start by analyzing your lab environment and building assessment reports with CloudPhysics and StratoZone, then build a landing zone within Google Cloud leveraging Terraform’s infrastructure-as-code templates, next you will manually transform a two-tier application into a cloud-native workload running on Kubernetes, and finally, transform a VM workload into [Kubernetes](Kubernetes) with Migrate for Anthos and migrate a VM between cloud environments.
 
