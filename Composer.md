@@ -1,5 +1,4 @@
 
-# Composer Introduction 
 
 Cloud [Composer](https://cloud.google.com/composer/) is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage [workflows](Workflows). 
 
