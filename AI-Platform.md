@@ -17,7 +17,7 @@ Deep Learning VM images are Debian 9- and Debian 10-based Compute Engine virtual
 [https://www.youtube.com/watch?v=kyNbYCHFCSw](https://www.youtube.com/watch?v=kyNbYCHFCSw)
 
 
-# AI Platform [Jupyter](Jupyter) Notebooks
+## AI Platform [Jupyter](Jupyter) Notebooks
 
 
 
