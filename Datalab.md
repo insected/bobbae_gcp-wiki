@@ -21,7 +21,7 @@ Datalab can be used to  show you how to access, analyze, monitor and visualize d
 
 
 
-# Lifecycle 
+## Lifecycle 
 
 [Cloud Datalab](https://cloud.google.com/datalab/docs) runs inside of a Google Compute Engine VM with an attached persistent disk that is used to store notebooks. 
 
@@ -32,11 +32,11 @@ The default configuration of this network limits incoming connections to SSH con
 [https://cloud.google.com/datalab/docs/how-to/lifecycle](https://cloud.google.com/datalab/docs/how-to/lifecycle)
 
 
-# Datalab Quickstart
+## Datalab Quickstart
 
 [https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
 
-# [Jupyter](Jupyter)
+## [Jupyter](Jupyter)
 
 Datalab supports [Jupyter](Jupyter) Notebooks. 
 
