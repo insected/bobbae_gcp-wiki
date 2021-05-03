@@ -26,7 +26,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps
 
 ## ClusterIP
 
-A ClusterIP service is the default Kubernetes service. It gives you a service inside your cluster that other apps inside your cluster can access. There is no external access. It exposes the Service on a cluster-internal IP. Choosing this value makes the Service only reachable from within the cluster. This is the default ServiceType.
+A [ClusterIP](https://en.m.wikipedia.org/wiki/Cluster_IP) service is the default Kubernetes service. It gives you a service inside your cluster that other apps inside your cluster can access. There is no external access. It exposes the Service on a cluster-internal IP. Choosing this value makes the Service only reachable from within the cluster. This is the default ServiceType.
 
 The ClusterIP in kubernetes is a service type which has its origins in the iptables CLUSTERIP.  
 
