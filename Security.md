@@ -14,6 +14,10 @@ users to adopt or adapt them and then automatically deploy them for their estate
 
 There is an [example repo showing how the CFT Terraform modules can be composed to build a secure GCP foundation](https://github.com/terraform-google-modules/terraform-example-foundation).
 
+# Security Infrastructure Design
+
+Read the [overview of how security is designed](https://cloud.google.com/security/infrastructure/design/) into Google's technical infrastructure.
+
 # Cryptography
 
 [Cryptography](Cryptography)  is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.
