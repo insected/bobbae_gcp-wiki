@@ -7,10 +7,10 @@ Google Cloud’s first general purpose workflow orchestration tool was [Cloud Co
 
 Based on [Apache Airflow](https://airflow.apache.org/), Cloud Composer is great for data engineering pipelines like ETL orchestration, big data processing or machine learning workflows, and integrates well with data products like BigQuery or Dataflow. 
 
-For example, Cloud Composer is a natural choice if your workflow needs to run a series of jobs in a data warehouse or big data cluster, and save results to a storage bucket.
+For example, Cloud [Composer](Composer) is a natural choice if your workflow needs to run a series of jobs in a data warehouse or big data cluster, and save results to a storage bucket.
 
 
-[Composer](Composer)
+
 
 # Google Cloud Workflows
 
@@ -19,7 +19,7 @@ However, if you want to process events or chain APIs in a serverless way—or ha
 
 [Workflows](https://cloud.google.com/workflows) scales to zero when you’re not using it, incurring no costs when it’s idle. 
 
-It is a Serverless Orchestration Engine.
+It is a [Serverless Orchestration Engine](https://codelabs.developers.google.com/codelabs/cloud-workflows-intro) and requires no infrastructure management.
 
 
 Pricing is based on the number of steps in the workflow, so you only pay if your workflow runs. And because Workflows doesn’t charge based on execution time, if a workflow pauses for a few hours in between tasks, you don’t pay for this either. 
@@ -30,9 +30,6 @@ Workflows scale up automatically with very low startup time and no “cold start
 
 You can orchestrate and automate Google Cloud and HTTP-based API services with [serverless workflows](https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows).
 
-It’s fully serverless and requires no infrastructure management.
-
-https://cloud.google.com/workflows
 
 ## Serverless Orchestration Engine
 
@@ -45,7 +42,7 @@ https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
 
 Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow. 
 
-For a detailed reference of available connectors, see the Connectors reference. For workflow samples that demonstrate how to use a connector, see [Connectors Samples](https://cloud.google.com/workflows/docs/connectors-samples).
+For a detailed reference of available connectors, see the Connectors reference. For workflow samples that demonstrate how to use a connector, see [Connectors Samples](https://cloud.google.com/workflows/docs/connectors-samples), [github Workflows demo repo](https://github.com/GoogleCloudPlatform/workflows-demos/tree/master/connector-compute) and [Workflows samples](https://github.com/GoogleCloudPlatform/workflows-samples/tree/main/src/connectors).
 
 Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. 
 
