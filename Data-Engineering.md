@@ -5,12 +5,12 @@
 
 [Data Engineering](https://quanthub.com/what-is-data-engineering/) is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information. It takes dedicated specialists – data engineers – to maintain data so that it remains available and usable by others. In short, data engineers set up and operate the organization’s data infrastructure preparing it for further analysis by [data analysts and scientists](Data-Science).
 
-# Overview
+## Overview
 
 [https://www.youtube.com/watch?v=tc2940Zwvyk](https://www.youtube.com/watch?v=tc2940Zwvyk)
 
 
-# Database options
+## Database options
 
 One of Google Cloud Platform's competitive advantages is the strong ecosystem of managed databases.  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  
 
@@ -26,7 +26,7 @@ Compare different [GCP Database services](https://cloud.google.com/products/data
 
 There are a lot of [Databases](Databases) to choose from.
 
-# Cloud SQL
+## Cloud SQL
 
 [Cloud SQL](https://cloud.google.com/sql) is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
 
@@ -49,32 +49,32 @@ You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [Po
 [https://www.freecodecamp.org/news/best-sql-database-tutorial/](https://www.freecodecamp.org/news/best-sql-database-tutorial/)
 
 
-# Cloud Bigtable
+## Cloud Bigtable
 
 [Bigtable](Bigtable) is ideal for storing very large amounts of data in a key-value store and supports high read and write throughput at low latency for fast access.
 
-# Cloud Dataproc
+## Cloud Dataproc
 
 [Dataproc](Dataproc) is a fully managed and highly scalable service for running Apache Spark, Apache Flink, Presto, and 30+ open source tools and frameworks. 
 
-# Cloud Pub/Sub
+## Cloud Pub/Sub
 
 [Pub/Sub](PubSub) works as a messaging middleware for traditional service integration or a simple communication medium for modern microservices.
 
 
-# BigQuery
+## BigQuery
 
 [BigQuery](BigQuery) is a serverless, cost-effective and multicloud data warehouse designed to help you turn big data into valuable business insights.
 
-# Cloud Spanner
+## Cloud Spanner
 
 [Cloud Spanner](Spanner) optimizes performance by automatically sharding the data based on request load and size of the data. 
 
 
-# Cloud Data Fusion
+## Cloud Data Fusion
 
 
-## Introduction 
+
 
 [Cloud Data Fusion](https://cloud.google.com/data-fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. Cloud Data Fusion provides a graphical interface to increase time efficiency and reduce complexity. Now business users, developers, and data scientists can easily and reliably build scalable data integration solutions to cleanse, prepare, blend, transfer, and transform data— without having to wrestle with infrastructure.
 
@@ -88,19 +88,19 @@ Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/)
 
 
 
-# Dataflow
+## Dataflow
 
 [Dataflow](Dataflow) is a fully managed streaming analytics service that minimizes latency, processing time, and cost through autoscaling and batch processing.
 
-# Cloud Dataprep
+## Cloud Dataprep
 
 [Dataprep](Dataprep) is an interactive web application in which users define the data preparation rules by interacting with a sample of their data. For execution of the flow over the complete dataset, the flow can be executed as a Dataprep job (using Dataflow). Pricing is split across two variables; design and execution.
 
-# Cloud Composer
+## Cloud Composer
 
 [Cloud Composer](Composer) is a fully managed data workflow orchestration service that empowers you to author, schedule, and monitor pipelines.
 
-# Google Data Studio
+## Google Data Studio
 
 [Data Studio](https://datastudio.google.com) is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
 
@@ -111,20 +111,20 @@ Demonstration of Data Studio.
 [https://www.youtube.com/watch?v=NhGLOVkyKjg](https://www.youtube.com/watch?v=NhGLOVkyKjg)
 
 
-# Datalab 
+## Datalab 
 
 [Cloud Datalab](Datalab) can be used to easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively.
 
 
 
 
-# Looker 
+## Looker 
 
 
 [Looker](Looker) is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily.
 
 
-# Data Catalog
+## Data Catalog
 
 [Data Catalog](https://cloud.google.com/data-catalog) is a fully managed and scalable metadata management service that empowers organizations to quickly discover, understand, and manage all of their data.
 
@@ -135,32 +135,32 @@ Data Catalog is a fully managed and scalable metadata management service that em
 [https://www.youtube.com/watch?v=eUKqXZDXj78](https://www.youtube.com/watch?v=eUKqXZDXj78)
 
 
-# Cloud Life Sciences
+## Cloud Life Sciences
 
 [Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
 
 [https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
 
 
-# Firestore
+## Firestore
 
 [Cloud Firestore](Firestore) is a cloud-hosted, NoSQL database that your iOS, Android, and web apps can access directly via native SDKs. 
 
-# Datastore
+## Datastore
 
 [Datastore](Datastore) is a schemaless database, which allows you to worry less about making changes to your underlying data structure as your application evolves.
 
-# Firestore in datastore mode
+## Firestore in datastore mode
 
 [Firestore in Datastore mode](https://cloud.google.com/datastore/docs) is a NoSQL document database built for automatic scaling, high performance, and ease of application development.
 
 https://cloud.google.com/datastore/docs
 
-# Memorystore
+## Memorystore
 
 [Memorystore](Memorystore) automates complex tasks for open source Redis and Memcached like enabling high availability, failover, patching, and monitoring so you can spend more time coding.
 
-# Firebase
+## Firebase
 
 [Firebase](Firebase) is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
 
