@@ -1,60 +1,59 @@
 
-## Introduction
+
 
 <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/BQ_Explained_2.max-900x900.jpg" width="600">
 
 
 
-[BigQuery](https://cloud.google.com/bigquery/docs)  is Google Cloud's fully managed, petabyte-scale, and cost-effective analytics data warehouse that lets you run analytics over vast amounts of data in near real time. With BigQuery, there's no infrastructure to set up or manage, letting you focus on finding meaningful insights using standard SQL and taking advantage of flexible pricing models across on-demand and flat-rate options.
+[BigQuery](https://cloud.google.com/bigquery/docs)  is Google Cloud's fully managed, petabyte-scale, and cost-effective analytics [data warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)  that lets you run [analytics over vast amounts](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)  of data in near real time. 
 
-[https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/)
-
-
-[https://cloud.google.com/bigquery/docs](https://cloud.google.com/bigquery/docs)
-
-BigQuery is designed to ingest and store large amounts of data, and make that data accessible for fast, large-scale analytics - to help analysts and developers alike. 
-
-[https://www.youtube.com/watch?v=d3MDxC_iuaw](https://www.youtube.com/watch?v=d3MDxC_iuaw)
-
-How to load CSV data in batch, and analyze your own data in BigQuery.
-
-[https://www.youtube.com/watch?v=Abzj-Vyhi74](https://www.youtube.com/watch?v=Abzj-Vyhi74)
+With BigQuery, there's no infrastructure to set up or manage, letting you [focus on finding meaningful insights](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/amp/) using standard SQL and taking advantage of flexible pricing models across on-demand and flat-rate options.
 
 
 
-## BigQuery 101
 
-https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g
+
+
+[BigQuery](https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1)  is designed to [ingest and store](https://www.youtube.com/watch?v=d3MDxC_iuaw) large amounts of data, and make that data accessible for fast, [large-scale analytics](https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g) - to help analysts and developers alike. 
+
+
+
+Learn [how to load](https://www.youtube.com/watch?v=Abzj-Vyhi74) CSV data in batch, and analyze your own data in BigQuery.
+
+
+
+
+
+
+
+
 
 <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/BQ_Explained_3.max-500x500.jpg" width="500">
 
-https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1
-
-## Data warehousing with BigQuery
-
-[https://cloud.google.com/solutions/bigquery-data-warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)
 
 
-## BigQuery Explained
 
-[https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)
 
-[https://www.youtube.com/watch?v=ZVgt1-LfWW4](https://www.youtube.com/watch?v=ZVgt1-LfWW4)
 
-Most experienced data analysts and programmers already have the skills to get started. BigQuery is fully managed and lets you search through terabytes of data in seconds. It’s also cost effective: you can store gigabytes, terabytes, or even petabytes of data.
 
-[https://www.youtube.com/watch?v=qqbYrQGSibQ](https://www.youtube.com/watch?v=qqbYrQGSibQ)
 
-https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1
 
-## BigQuery under the hood
 
-[https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood)
+
+
+Most experienced data analysts and programmers already have the skills to get started. [BigQuery](https://www.youtube.com/watch?v=ZVgt1-LfWW4) is [fully managed](https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1) and lets you search through terabytes of data in seconds. It’s also cost effective: you can store gigabytes, terabytes, or even [petabytes of data](https://www.youtube.com/watch?v=qqbYrQGSibQ).
+
+
+
+
+
+
+
 
 
 ## Loading Data into BigQuery
 
-[https://cloud.google.com/bigquery/docs/loading-data](https://cloud.google.com/bigquery/docs/loading-data)
+
 
 You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?skip_cache=true) files from local sources, Google Drive, or Cloud Storage buckets, take advantage of [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs/introduction?skip_cache=true) (DTS), [Data Fusion](https://cloud.google.com/data-fusion/plugins?skip_cache=true) plug-ins, or leverage Google's industry-leading [data integration partnerships](https://cloud.google.com/bigquery?skip_cache=true#section-12). You have ultimate flexibility in how you bring data into your data warehouse. 
 
@@ -63,7 +62,7 @@ You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?
 
 ## Anatomy of a BigQuery query
 
-Google BigQuery is a lightning-fast analytics database. Customers find BigQuery performance liberating, allowing them to experiment with enormous datasets without compromise. But how fast is BigQuery really? And what does it take to achieve BigQuery speeds? Let’s check out the publically-available bigquery-samples:wikipedia_benchmark, specifically the Wiki100B table. This table contains 100 billion rows and is about 7 Terabytes in size.
+Google [BigQuery](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood) is a lightning-fast analytics database. Customers find BigQuery performance liberating, allowing them to experiment with enormous datasets without compromise. But how fast is BigQuery really? And what does it take to achieve BigQuery speeds? Let’s check out the publically-available bigquery-samples:wikipedia_benchmark, specifically the Wiki100B table. This table contains 100 billion rows and is about 7 Terabytes in size.
 
 You can see that this query runs in under 30 seconds, but let’s round up to 30. It’s quite impressive, since to churn through this much data, BigQuery has had to:
 
@@ -88,11 +87,11 @@ Shuffle is a key ingredient in any distributed data processing system, from Hado
 
 The variety of BigQuery query characteristics and requirements called for rethinking of the shuffle step. In 2014, BigQuery shuffle migrated to a newly developed infrastructure that's memory-based (with support for disk spooling) and specifically designed for Google data center networking technology. Moreover, it's designed as a flexible data delivery system with use cases beyond specific distributed operations, for example hash joins. This project culminated a multi-year research and development effort on data transfer technologies.
 
-In-memory BigQuery shuffle stores intermediate data produced from various stages of query processing in a set of nodes that are dedicated to hosting remote memory. Persisting the intermediate results of a data processing job is common in many systems, such as Spark (in the form of RDDs) or Piccolo (in the form of distributed hash sets). However, BigQuery takes a different direction with respect to in-memory intermediate results in a form that's tightly integrated with shuffle operations.
+[In-memory BigQuery shuffle](https://cloud.google.com/blog/products/gcp/in-memory-query-execution-in-google-bigquery) stores intermediate data produced from various stages of query processing in a set of nodes that are dedicated to hosting remote memory. Persisting the intermediate results of a data processing job is common in many systems, such as Spark (in the form of RDDs) or Piccolo (in the form of distributed hash sets). However, BigQuery takes a different direction with respect to in-memory intermediate results in a form that's tightly integrated with shuffle operations.
 
 
 
-[https://cloud.google.com/blog/products/gcp/in-memory-query-execution-in-google-bigquery](https://cloud.google.com/blog/products/gcp/in-memory-query-execution-in-google-bigquery)
+
 
 
 ## Query plan and timeline
@@ -100,51 +99,50 @@ In-memory BigQuery shuffle stores intermediate data produced from various stages
 
 When BigQuery executes a query job, it converts the declarative SQL statement into a graph of execution, broken up into a series of query stages, which themselves are composed of more granular sets of execution steps. BigQuery leverages a heavily distributed parallel architecture to run these queries. Stages model the units of work that many potential workers may execute in parallel. Stages communicate with one another by using a fast distributed shuffle architecture, which you can read about at In-memory query execution in BigQuery.
 
-Within the query plan, the terms work units and workers are used to convey information specifically about parallelism. Elsewhere within BigQuery, you may encounter the term slot", which is an abstracted representation of multiple facets of query execution, including compute, memory, and I/O resources. Top level job statistics provide the estimate of individual query cost using the totalSlotMs estimate of the query using this abstracted accounting.
+Within the [query plan](https://cloud.google.com/bigquery/query-plan-explanation), the terms work units and workers are used to convey information specifically about parallelism. Elsewhere within BigQuery, you may encounter the term slot", which is an abstracted representation of multiple facets of query execution, including compute, memory, and I/O resources. Top level job statistics provide the estimate of individual query cost using the totalSlotMs estimate of the query using this abstracted accounting.
 
-[https://cloud.google.com/bigquery/query-plan-explanation](https://cloud.google.com/bigquery/query-plan-explanation)
 
 
 ## Managing input data and data sources
 
-When evaluating your input data, consider the required I/O. How many bytes does your query read? Are you properly limiting the amount of input data? Is your data in native BigQuery storage or an external data source? The amount of data read by a query and the source of the data impact query performance and cost.
+When [evaluating](https://cloud.google.com/bigquery/docs/best-practices-performance-input) your input data, consider the required I/O. How many bytes does your query read? Are you properly limiting the amount of input data? Is your data in native BigQuery storage or an external data source? The amount of data read by a query and the source of the data impact query performance and cost.
 
-[https://cloud.google.com/bigquery/docs/best-practices-performance-input](https://cloud.google.com/bigquery/docs/best-practices-performance-input)
+
 
 
 ## Optimizing communication between slots
 
-When evaluating your communication throughput, consider the amount of shuffling that is required by your query. How many bytes are passed between stages? How many bytes are passed to each slot? For example, a GROUP BY clause passes like values to the same slot for processing. The amount of data that is shuffled directly impacts communication throughput and as a result, query performance.
+When evaluating your [communication](https://cloud.google.com/bigquery/docs/best-practices-performance-communication) throughput, consider the amount of shuffling that is required by your query. How many bytes are passed between stages? How many bytes are passed to each slot? For example, a GROUP BY clause passes like values to the same slot for processing. The amount of data that is shuffled directly impacts communication throughput and as a result, query performance.
 
-[https://cloud.google.com/bigquery/docs/best-practices-performance-communication](https://cloud.google.com/bigquery/docs/best-practices-performance-communication)
+
 
 
 ## Optimizing query computation
 
-When evaluating the computation that is required by a query, consider the amount of work that is required. How much CPU time is required? Are you using functions like JavaScript user-defined functions that require additional CPU resources?
+When evaluating the computation that is required by a query, consider the [amount of work](https://cloud.google.com/bigquery/docs/best-practices-performance-compute) that is required. How much CPU time is required? Are you using functions like JavaScript user-defined functions that require additional CPU resources?
 
-[https://cloud.google.com/bigquery/docs/best-practices-performance-compute](https://cloud.google.com/bigquery/docs/best-practices-performance-compute)
+
 
 
 ## Managing materialization and outputs
 
 When evaluating your output data, consider the number of bytes written by your query. How many bytes are written for your result set? Are you properly limiting the amount of data written? Are you repeatedly writing the same data? The amount of data written by a query impacts query performance (I/O). If you are writing results to a permanent (destination) table, the amount of data written also has a cost.
 
-[https://cloud.google.com/bigquery/docs/best-practices-performance-output](https://cloud.google.com/bigquery/docs/best-practices-performance-output)
+
 
 
 ## Anti patterns
 
-Avoid query anti-patterns that impact performance in BigQuery.
+Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns) that impact performance in BigQuery.
 
-[https://cloud.google.com/bigquery/docs/best-practices-performance-patterns](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)
+
 
 
 ## Dremel
 
-Dremel is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
+[Dremel](https://research.google/pubs/pub36632/) is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
 
-[https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+
 
 <img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="300">
 
@@ -172,7 +170,7 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 [https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example)
 
 
-#
+
 ## BigQuery connector to Spark
 
 [https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example)
