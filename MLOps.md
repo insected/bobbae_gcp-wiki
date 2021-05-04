@@ -48,37 +48,12 @@ https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 
 ## ML CICD
 
-Automating continuous integration (CI), continuous delivery (CD), and continuous training (CT) for machine learning (ML) systems.
+[Automating](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) continuous integration (CI), continuous delivery (CD), and continuous training (CT) for machine learning (ML) systems.
 
-https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+
 
 ## TFX
 
-TFX is an open source project that you can use to define your ML workflow as a pipeline. Currently, TFX components can only train TensorFlow based models. TFX provides components that you can use to ingest and transform data, train and evaluate a model, deploy a trained model for inference, etc. By using the TFX SDK, you can compose a pipeline for your ML process from TFX components.
-
-https://cloud.google.com/ai-platform/pipelines/docs/create-pipeline
-
-## [DataOps vs MLOps](https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8)
-
-
-DataOps takes the practices and values of DevOps and extends it to data analytics workflows and goals. It applies the focus on collaboration and shared responsibility and shifts it to the engineers and admins that collect, store, analyze, secure, and deliver data.
-
-* DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.
-
-* MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and improve the quality of production ML while also focusing on business and regulatory requirements.
-
-
-
-
-
-
-
-## GitOps
-
-[GitOps](https://www.gitops.tech/) is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
-
-The core idea of [GitOps](https://www.weave.works/technologies/gitops/) is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It’s like having cruise control for managing your applications in production.
-
-
+[TFX](https://www.tensorflow.org/tfx) is an open source project that you can use to define your ML workflow as a pipeline. Currently, TFX components can only train TensorFlow based models. TFX provides components that you can use to ingest and transform data, train and evaluate a model, deploy a trained model for inference, etc. By using the TFX SDK, you can compose a pipeline for your ML process from TFX components.
 
 
