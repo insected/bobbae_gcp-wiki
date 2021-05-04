@@ -226,7 +226,7 @@ https://blog.alexellis.io/building-containers-without-docker/
 
 * DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.
 
-* MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and improve the quality of production ML while also focusing on business and regulatory requirements.
+* [MLOps](MLOps) is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and improve the quality of production ML while also focusing on business and regulatory requirements.
 
 
 
