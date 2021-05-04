@@ -20,11 +20,8 @@ In general, a Distributed SQL Database is a single logical database deployed acr
 
 Cloud Spanner is a relational database service that offers transactional consistency at global scale, [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
-[https://cloud.google.com/spanner/docs](https://cloud.google.com/spanner/docs)
 
-Original paper on Spanner. 
-
-[https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+[Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains details of its design. 
 
 ## Architecture
 
@@ -70,8 +67,8 @@ tablet is similar to Bigtable’s tablet abstraction, in that it implements a ba
 Unlike [Bigtable](Bigtable), Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  
 
 
-A tablet’s state is stored in set of B-tree-like files and a write-ahead log, all on a distributed file system called
-Colossus (the successor to the Google File System).  
+A tablet’s state is stored in set of [B-tree-like](https://en.m.wikipedia.org/wiki/B-tree) files and a write-ahead log, all on a distributed file system called
+[Colossus](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system/amp/)  (the successor to the Google File System).  
 
 To support replication, each spanserver implements a single [Paxos](https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html)   state machine on top of each tablet.
 
