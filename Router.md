@@ -1,4 +1,3 @@
-<img src="https://miro.medium.com/max/5400/1*yZclHkU5wb-xTGj8fhb24w.png" width="500">
 
 
 [Cloud Router]((https://cloud.google.com/network-connectivity/docs/router))  enables you to dynamically exchange routes between your Virtual Private Cloud (VPC) and on-premises networks by using [Border Gateway Protocol (BGP)](https://www.wikipedia.org/wiki/Border_Gateway_Protocol). 
@@ -27,6 +26,8 @@ On Cloud Router, you configure an interface and a [BGP](https://en.wikipedia.org
 # Dynamic Routing
 
 The biggest pitfall with static routes is that they aren’t fault-tolerant. Any change to the routing infrastructure, like a failed VM or re-architecture, would mean manual intervention. If routers are purely static, they have no way of choosing a better route if a link becomes unavailable. They have no way to intelligently share information between one another to advertise alternative routes. Simply stated, static routes are great for stable networks that don’t change.
+
+<img src="https://miro.medium.com/max/5400/1*yZclHkU5wb-xTGj8fhb24w.png" width="500">
 
 
 Instead of a static routing table, dynamic routers advertise their routes to other routers, meaning they exchange information. It allows routers on the network to make intelligent decisions on which path is best to get data to a subnet/destination. A dynamic routing table is created, maintained, and updated by a routing protocol (like BGP) running on the router. This lets the router dynamically choose a different (or better) path when there is a change to the routing infrastructure, like when a link fails. It’s like how Google Maps recalculates a new optimal path when your current route becomes flooded with traffic or an accident occurs. Cloud Routers make determinations based on several criteria, including network quality, link up/down, traffic congestion, etc. The key benefit here is redundancy. If one path on the network disappears, dynamic routing will adjust routes around that path without manual intervention.
