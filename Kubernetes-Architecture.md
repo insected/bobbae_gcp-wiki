@@ -1,8 +1,8 @@
-# Kubernetes Cluster Architecture
+## Kubernetes Cluster Architecture
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
-# Kubernetes features
+## Kubernetes features
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/7.png" width="600">
 
