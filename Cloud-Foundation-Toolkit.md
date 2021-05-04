@@ -3,7 +3,7 @@ The [Cloud Foundation Toolkit](https://cloud.google.com/foundation-toolkit)  pro
 [https://cloud.google.com/foundation-toolkit/](https://cloud.google.com/foundation-toolkit/)
 
 
-The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) (henceforth, CFT) includes the following parts:
+The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) (CFT) includes the following parts:
 
 - A comprehensive set of production-ready resource templates that follow
   Google's best practices, which can be used with the CFT or the gcloud
