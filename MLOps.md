@@ -58,7 +58,7 @@ TFX is an open source project that you can use to define your ML workflow as a p
 
 https://cloud.google.com/ai-platform/pipelines/docs/create-pipeline
 
-## DataOps vs MLOps
+## [DataOps vs MLOps](https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8)
 
 
 DataOps takes the practices and values of DevOps and extends it to data analytics workflows and goals. It applies the focus on collaboration and shared responsibility and shifts it to the engineers and admins that collect, store, analyze, secure, and deliver data.
@@ -67,25 +67,18 @@ DataOps takes the practices and values of DevOps and extends it to data analytic
 
 * MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and improve the quality of production ML while also focusing on business and regulatory requirements.
 
-https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8
-
-## DevOps vs MLOps
 
 
 
-[DevOps](DevOps)  is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
 
-Comparison with MLOps:
-
-https://towardsdatascience.com/mlops-with-a-feature-store-816cfa5966e9
 
 ## GitOps
 
-GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
+[GitOps](https://www.gitops.tech/) is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
 
-The core idea of GitOps is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It’s like having cruise control for managing your applications in production.
+The core idea of [GitOps](https://www.weave.works/technologies/gitops/) is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It’s like having cruise control for managing your applications in production.
 
-https://www.gitops.tech/
+
 
 
