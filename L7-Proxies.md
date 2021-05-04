@@ -1,5 +1,4 @@
 
-# L7
 
 In a microservice architecture, services communicate with each other through L7 protocols such as gRPC and HTTP. Since the network is not reliable (and services can go down!), managing L7 communications is critical for reliability and scale.
 
