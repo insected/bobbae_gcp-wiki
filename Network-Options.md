@@ -1,7 +1,9 @@
+<img src="https://callcenterstudio.com/wp-content/uploads/2020/04/Deciding_how_to_connect_to_Google_Cloud.max-2800x2800.jpg-1030x579.png" width="800"> 
 
-### Connectivity Options
 
-[https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained](https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained)
+### [Connectivity Options](https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained)
+
+
 
 For pricing, quotas, service level agreement (SLA), and release note information for all Network Connectivity products, see the [Network Connectivity resources page](https://cloud.google.com/network-connectivity/docs/resources).
 
@@ -11,6 +13,7 @@ For high-level architectural guides and tutorials that describe networking scena
 ### Choosing Network Products
 
 [https://cloud.google.com/network-connectivity/docs/how-to/choose-product](https://cloud.google.com/network-connectivity/docs/how-to/choose-product)
+
 
 
 ### Compare Dedicated Interconnect vs Partner Interconnect
