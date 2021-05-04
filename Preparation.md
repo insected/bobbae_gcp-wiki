@@ -85,9 +85,9 @@ Sign up for the [Professional Cloud Architect exam](https://cloud.google.com/cer
 
 ##### More Practice tests with discussions
 
-The answers are not necessarily clear and the discussions can be confusing but you can look at a large list of questions and practice them.
+The answers are not necessarily clear and the [discussions](https://www.examtopics.com/exams/google/professional-cloud-architect) can be confusing but you can look at a large [list of questions](https://www.gcp-examquestions.com/category/gcp-practice-questions/) and practice them.
 
-[https://www.examtopics.com/exams/google/professional-cloud-architect](https://www.examtopics.com/exams/google/professional-cloud-architect)
+
 
 
 
