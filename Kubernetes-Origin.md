@@ -1,4 +1,4 @@
-# Kubernetes and other schedulers
+Similar systems that may have influenced Kubernetes designs.
 
 ### Borg
 
