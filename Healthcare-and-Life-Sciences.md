@@ -35,6 +35,12 @@ There is no shortage of [opportunities](https://www.youtube.com/watch?v=P54bm_TN
 
 Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
 
+
+### Tutorials for the ISB-CGC Google Cloud Engine
+
+
+This [github repository](https://github.com/isb-cgc/RunningWorkflows-on-the-GoogleCloud) is  for the running workflows on the Google Cloud Platform for the ISB-CGC.  The documentation at http://isb-cancer-genomics-cloud.readthedocs.org.
+
 ### Qwiklabs
 
 
