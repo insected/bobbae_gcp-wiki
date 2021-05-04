@@ -1,6 +1,5 @@
 
 
-## Preparation
 
 This document is intended to be used in an instructor-lead training class on [GCP](GCP-Learning).
 
