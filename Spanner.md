@@ -241,11 +241,29 @@ The emulator is also available as an open source project in [GitHub](https://git
 
 ## Perspectives
 
-A Shift to Distributed SQL.
+In the data chronicles, [The Google File System paper in 2003](https://research.google/pubs/pub51/) marked a seminal moment for software development. It was one of the first times Google detailed the technical underpinnings that helped it catapult from clever idea to global force.
 
-[https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7)
+The following year in 2004, Google shared [another paper on MapReduce](https://research.google/pubs/pub62), further cementing the genealogy of big data. 
 
-Databases, ETL, ELT and tools.
+[MapReduce](https://en.m.wikipedia.org/wiki/MapReduce) was a new technique to move computation to data, and it allowed large web companies including Google to operate with enormous amounts of information, such as the entire internet. 
+
+Soon after that, Doug Cutting, Hadoop’s initial creator, began to implement MapReduce and the Hadoop Distributed File System while at Yahoo, and in 2006 Hadoop 0.1.0 was released.
+
+Six years later in 2012, Hadoop 1.0 became available.
+
+By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-of-an-era/).
+
+There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
+
+
+Did Google unintentionally send the industry  [on a 10 year head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
+
+
+
+
+
+
+## Databases, ETL, ELT and tools.
 
 [https://cube.dev/blog/category/data-stack/](https://cube.dev/blog/category/data-stack/)
 
