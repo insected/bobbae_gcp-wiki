@@ -1,4 +1,4 @@
-
+<img src="https://lh3.googleusercontent.com/j-Z_jAhCLu5qKpNogaXEiuIe_sTgm_D2-xYXjoWlVM-Cwdgw3Wsz-CMs6NPCfTwqcGlx6G4Lnb7t=e14-rw-lo-sc0xffffff-w3004" width="800">
 
 ### Cloud Healthcare API
 
@@ -42,18 +42,18 @@ It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E)
 
 There are useful [courses](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) on Deep Learning in Sciences and [general bioinformatics](https://github.com/ossu/bioinformatics).
 
-
-### Storing and loading genomic variants
+### Examples
+#### Storing and loading genomic variants
 
 [This page describes](https://cloud.google.com/life-sciences/docs/how-tos/load-variants) how to use the Variant Transforms tool to transform and load VCF files directly into [BigQuery](BigQuery) for large-scale analysis.
 
 
-### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
+#### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
 
 Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
 
 
-### Tutorials for the ISB-CGC Google Cloud Engine
+#### Tutorials for the ISB-CGC Google Cloud Engine
 
 
 This [github repository](https://github.com/isb-cgc/RunningWorkflows-on-the-GoogleCloud) is  for the running workflows on the Google Cloud Platform for the ISB-CGC.  The documentation at http://isb-cancer-genomics-cloud.readthedocs.org.
