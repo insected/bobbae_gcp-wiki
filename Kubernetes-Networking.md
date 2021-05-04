@@ -1,33 +1,43 @@
 ## Basic [Networking Model](https://www.youtube.com/watch?v=WwQ62OyCNz4)
 
+The [Kubernetes networking model](https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-networking) supports different types of open source implementations. Kubernetes provides an IP address to each pod so that there is no need to map host ports to container ports as in the Docker networking model. In [Kubernetes Networking Model](https://kubernetes.io/docs/concepts/cluster-administration/networking/#kubernetes-model) Pods behave much like VMs or physical hosts with respect to port allocation, naming, load balancing and application configuration. 
+
 Every [Pod](https://www.youtube.com/watch?v=5cNrTU6o3Fw) gets its own IP address. This means you do not need to explicitly create links between Pods and you almost never need to deal with mapping container ports to host ports. This creates a clean, backwards-compatible model where Pods can be treated much like VMs or physical hosts from the perspectives of port allocation, naming, service discovery, load balancing, application configuration, and migration.
 
-Kubernetes imposes the following fundamental requirements on any networking implementation (barring any intentional network segmentation policies):
+Pods on a node can communicate with all pods on all nodes without NAT.
 
-1. pods on a node can communicate with all pods on all nodes without NAT
-2. agents on a node (e.g. system daemons, kubelet) can communicate with all pods on that node
+Agents on a node (e.g. system daemons, [kubelet](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/)) can communicate with all pods on that node.
 
-Note: For those platforms that support Pods running in the host network (e.g. Linux):
-
-* pods in the host network of a node can communicate with all pods on all nodes without NAT
+Pods in the host network of a node can communicate with all pods on all nodes without NAT.
 
 This model is not only less complex overall, but it is principally compatible with the desire for Kubernetes to enable low-friction porting of apps from VMs to containers. If your job previously ran in a VM, your VM had an IP and could talk to other VMs in your project. This is the same basic model.
 
-Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their [network namespaces](https://www.youtube.com/watch?v=j_UUnlVC2Ss) - including their IP address and MAC address. This means that containers within a Pod can all reach each other's ports on localhost. This also means that containers within a Pod must coordinate port usage, but this is no different from processes in a VM. This is called the "IP-per-pod" model.
+Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their [network namespaces](https://www.youtube.com/watch?v=j_UUnlVC2Ss) - including their IP address and MAC address. 
+
+This means that containers within a Pod can all reach each other's ports on localhost. 
+
+This also means that containers within a Pod must coordinate port usage, but this is no different from processes in a VM. This is called the "IP-per-pod" model.
 
 ## Cluster Networking
 
-https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
 
 <img src="https://d33wubrfki0l68.cloudfront.net/e351b830334b8622a700a8da6568cb081c464a9b/13020/images/docs/services-userspace-overview.svg" width="500">
 
-Networking is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
+[Kubernetes Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/) is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
 
 1. Highly-coupled container-to-container communications
 2. Pod-to-Pod communications
 3. Pod-to-Service communications
 4. External-to-Service communications
+
+## Docker Networking vs. Kubernetes Networking
+
+The [Docker networking model](https://docs.docker.com/network/) relies, by default, on a virtual bridge network called Docker0. It is a per-host private network where containers get attached (and thus can reach each other) and allocated a private IP address. This means containers running on different machines are not able to communicate with each other (as they are attached to different hosts’ networks). In order to communicate across nodes with Docker, we have to map host ports to container ports and proxy the traffic. In this scenario, it’s up to the Docker operator to avoid port clashes between containers.
+
+The [Kubernetes networking model](https://kubernetes.io/docs/concepts/cluster-administration/networking/), on the other hand, natively supports multi-host networking in which pods are able to communicate with each other by default, regardless of which host they live in. Kubernetes does not provide an implementation of this model by default, rather it relies on third-party tools that comply with the following requirements: all containers are able to communicate with each other without NAT; nodes are able to communicate with containers without NAT; and a container’s IP address is the same from inside and outside the container.
+
+Kubernetes follows an “IP-per-pod” model where each pod get assigned an IP address and all containers in a single pod share the same network namespaces and IP address. Containers in the same pod can therefore reach each other’s ports via localhost:<port>. However, it is not recommended to communicate directly with a pod via its IP address due to pod’s volatility (a pod can be killed and replaced at any moment). Instead, use a Kubernetes service which represents a group of pods acting as a single entity to the outside. Services get allocated their own IP address in the cluster and provide a reliable entry point.
 
 ## ClusterIP, [Ingress](https://www.youtube.com/watch?v=GhZi4DxaxxE), NodePort, Load Balancer
 
@@ -35,11 +45,16 @@ It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-L
 
 ## More on use of iptables and ipvs in Kubernetes
 
-https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
+
+[Here](https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/) is an introduction into the complexities of Kubernetes networking by following the journey of an HTTP request to a service running on a basic Kubernetes cluster.
 
 <img src="https://miro.medium.com/max/1575/1*UetnYP8uE05GAqQD0tbtBQ.png" width="600">
 
-https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
+You can use a pod IP address as an endpoint but there is no guarantee that the address won’t change the next time the pod is recreated, which might happen for any number of reasons.
+
+The kubernetes designers [solved this problem](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82) in a way that builds on the basic capabilities of the platform to deliver on all three of those requirements, and it starts with a resource type called a service.
+
+
 
 <img src="https://miro.medium.com/max/1575/1*iezVQZMVEqzic_yfREO8Jw.png" width="400">
 
