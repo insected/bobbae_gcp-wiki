@@ -45,11 +45,11 @@ There have been [many deprecated](https://www.zdnet.com/article/apache-software-
 
 [Apache Spark](https://en.m.wikipedia.org/wiki/Apache_Spark) is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. Originally developed at the University of California, Berkeley's AMPLab, the Spark codebase was later donated to the Apache Software Foundation.
 
-Apache Spark has its architectural foundation in the resilient distributed dataset (RDD), a read-only multiset of data items distributed over a cluster of machines, that is maintained in a fault-tolerant way.
+[Apache Spark](https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/) has its architectural foundation in the resilient distributed dataset (RDD), a read-only multiset of data items distributed over a cluster of machines, that is maintained in a fault-tolerant way.
 
 The Dataframe API was released as an abstraction on top of the RDD, followed by the Dataset API.
 
-Spark and its RDDs were developed in 2012 in response to [limitations](https://www.google.com/amp/s/data-flair.training/blogs/13-limitations-of-hadoop/amp/) in the [MapReduce](https://en.m.wikipedia.org/wiki/MapReduce) cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs: MapReduce programs read input data from disk, map a function across the data, reduce the results of the map, and store reduction results on disk.  Hadoop and Spark are [different platforms](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html), each implementing various technologies that can work separately and together.
+[Apache Spark](https://www.datanami.com/2019/04/03/apache-spark-is-great-but-its-not-perfect/) and its RDDs were developed in 2012 in response to [limitations](https://www.google.com/amp/s/data-flair.training/blogs/13-limitations-of-hadoop/amp/) in the [MapReduce](https://en.m.wikipedia.org/wiki/MapReduce) cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs: MapReduce programs read input data from disk, map a function across the data, reduce the results of the map, and store reduction results on disk.  Hadoop and Spark are [different platforms](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html), each implementing various technologies that can work separately and together.
 
 Spark's RDDs function as a working set for distributed programs that offers a (deliberately) restricted form of distributed shared memory.
 
@@ -75,7 +75,8 @@ Six years later in 2012, Hadoop 1.0 became available.
 
 By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-of-an-era/).
 
+Did Google unintentionally send the industry  [on a more than a decade long head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
+
 There's now [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
 
 
-Did Google unintentionally send the industry  [on a more than a decade long head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
