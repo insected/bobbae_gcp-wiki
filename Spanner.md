@@ -5,7 +5,7 @@
 [Cloud Spanner](https://cloud.google.com/spanner)    optimizes performance by automatically sharding the data based on request load and size of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on [scaling your business](https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1).
 
 
-Cloud Spanner is a relational database service that offers transactional consistency at global scale, [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
+Cloud Spanner is a relational database service that offers transactional consistency at [global scale](https://www.google.com/amp/s/techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/amp/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
 
 
