@@ -6,26 +6,28 @@ https://www.guru99.com/data-communication-computer-network-tutorial.html
 
 ### Introduction
 
-Google Cloud Platform includes software-defined networking, hybrid connectivity, network performance optimization, network security, service mesh deployment, NAT, load balancing, and routing.
-
-[https://developers.google.com/learn/topics/networking](https://developers.google.com/learn/topics/networking)
-
-Google Cloud Platform has recently added new regions in Seoul, Salt Lake City, Las Vegas and Jakarta. GCP implements software-defined network that provides fast and reliable connections to users around the world.
-
-[https://cloud.google.com/about/locations](https://cloud.google.com/about/locations)
+Google Cloud Platform includes [software-defined networking](https://developers.google.com/learn/topics/networking), hybrid connectivity, network performance optimization, network security, service mesh deployment, NAT, load balancing, and routing.
 
 
-Google spent $30 billion improving the infrastructure over the years. From data centers to subsea cables, GCP connects customers in different regions around the world.
 
-[https://www.blog.google/products/google-cloud/expanding-our-global-infrastructure-new-regions-and-subsea-cables/](https://www.blog.google/products/google-cloud/expanding-our-global-infrastructure-new-regions-and-subsea-cables/)
+GCP implements software-defined network that provides fast and reliable connections to users [around the world](https://cloud.google.com/about/locations).
+
+
+
+
+From data centers to subsea cables, GCP connects customers in [different regions](https://www.blog.google/products/google-cloud/expanding-our-global-infrastructure-new-regions-and-subsea-cables/) around the world.
+
+
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/infrastructure-3.max-1000x1000.png" width="700">
 
-In a traditional data center, you manage a complex network setup composed of racks of servers, storage devices, multiple layers of switches, routers, load balancers, firewall devices, and more. In addition to these hardware components, you must set up, maintain, and monitor the network's underlying software, as well as detailed device configurations for your environment. And the managerial overhead doesn't end there: you also have to worry about the security and availability of your network, and you must plan out the upgrades and expansions of your network—a lengthy and time-consuming process.
+In a traditional data center, you manage a complex network setup composed of racks of servers, storage devices, multiple layers of switches, routers, load balancers, firewall devices, and more. 
 
-https://cloud.google.com/docs/compare/data-centers/networking
+In addition to these hardware components, you must set up, maintain, and monitor the network's underlying software, as well as detailed device configurations for your environment. And the managerial overhead doesn't end there: you also have to worry about the security and availability of your network, and you must plan out the upgrades and expansions of your network—a lengthy and time-consuming process.
 
-Google built a superior cloud network as a result of the well-provisioned direct paths between its cloud and end-users.
+
+
+Google built a superior [cloud network](https://cloud.google.com/docs/compare/data-centers/networking) as a result of the well-provisioned direct paths between its cloud and end-users.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/infrastructure-1.max-1000x1000.png" width="500">
 
@@ -50,14 +52,14 @@ https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 #### Jupiter 
 
-[Jupiter](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-series-digest)  fabrics can deliver more than 1 Petabit/sec of total bisection bandwidth. To put this in perspective, such capacity would be enough for 100,000 servers to exchange information at 10Gb/s each, enough to read the entire scanned contents of the Library of Congress in less than 1/10th of a second.
+[Jupiter](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-series-digest)  fabrics can deliver more than 1 Petabit/sec of total bisection bandwidth. To put this in perspective, such [capacity](https://cloudplatform.googleblog.com/2015/06/A-Look-Inside-Googles-Data-Center-Networks.html?m=1) would be enough for 100,000 servers to exchange information at 10Gb/s each, enough to read the entire scanned contents of the Library of Congress in less than 1/10th of a second.
 
-[https://cloudplatform.googleblog.com/2015/06/A-Look-Inside-Googles-Data-Center-Networks.html](https://cloudplatform.googleblog.com/2015/06/A-Look-Inside-Googles-Data-Center-Networks.html?m=1)
+
 
 
 ### Network Options
 
-[Network Options](Network-Options)
+You can choose from [Network Options](Network-Options).
 
 
 #### Introduction
@@ -66,9 +68,9 @@ Cloud [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) (Content Del
 
 There are [DNS](DNS) based CDNs.
 
-The CDN provider typically determines the optimal server selection based on the source IP address of the DNS request (probably combined with other information). However, the source IP address conveyed to the CDN provider is that of the DNS recursive server, rather than that of the client.
+The CDN provider typically determines the optimal server selection based on the source IP address of the DNS request (probably combined with other information). However, the source IP address conveyed to the [CDN](https://cloud.google.com/cdn/docs) provider is that of the DNS recursive server, rather than that of the client.
 
-[https://cloud.google.com/cdn/docs](https://cloud.google.com/cdn/docs)
+
 
 
 #### Using CDN and Load Balancing
@@ -100,9 +102,9 @@ The CDN provider typically determines the optimal server selection based on the 
 
 ### Cloud NAT
 
-Cloud NAT provides fully managed, software-defined network address translation support for Google Cloud.
+[Cloud NAT](https://cloud.google.com/nat/docs) provides fully managed, software-defined network address translation support for Google Cloud.
 
-[https://cloud.google.com/nat/docs](https://cloud.google.com/nat/docs)
+
 
 Moving your internal services to the cloud can bring you a handful of new, useful features, but one of the biggest challenges is protecting your internal endpoints. 
 
@@ -111,9 +113,9 @@ Moving your internal services to the cloud can bring you a handful of new, usefu
 
 ### Cloud Armor
 
-Google Cloud Armor helps protect your infrastructure and applications from distributed denial-of-service (DDoS) attacks by using Google's global infrastructure and security systems.
+Google [Cloud Armor](https://cloud.google.com/armor/docs) helps protect your infrastructure and applications from distributed denial-of-service (DDoS) attacks by using Google's global infrastructure and security systems.
 
-[https://cloud.google.com/armor/docs](https://cloud.google.com/armor/docs)
+
 
 Setting up Cloud Armor.
 
@@ -122,9 +124,9 @@ Setting up Cloud Armor.
 
 ### Network Intelligence Center
 
-Network Intelligence Center provides a single console for managing Google Cloud network visibility, monitoring, and troubleshooting.
+[Network Intelligence Center](https://cloud.google.com/network-intelligence-center/docs) provides a single console for managing Google Cloud network visibility, monitoring, and troubleshooting.
 
-[https://cloud.google.com/network-intelligence-center/docs](https://cloud.google.com/network-intelligence-center/docs)
+
 
 Getting started with topology in network intelligence center.
 
@@ -133,9 +135,9 @@ Getting started with topology in network intelligence center.
 
 ### Network Service Tiers
 
-With Network Service Tiers, Google Cloud is the first major public cloud to offer a tiered cloud network. Select the right tier of network service for your requirements and budget.
+With [Network Service Tiers](https://cloud.google.com/network-tiers), Google Cloud is the first major public cloud to offer a tiered cloud network. Select the right tier of network service for your requirements and budget.
 
-[https://cloud.google.com/network-tiers](https://cloud.google.com/network-tiers)
+
 
 Cost savings using different network tiers.
 
@@ -144,9 +146,9 @@ Cost savings using different network tiers.
 
 ### Network Telemetry
 
-[VPC](VPC) Flow Logs records a sample of network flows sent from and received by VM instances, including instances used as GKE nodes. These logs can be used for network monitoring, forensics, real-time security analysis, and expense optimization.
+[VPC](VPC) [Flow Logs](https://cloud.google.com/vpc/docs/using-flow-logs) records a sample of network flows sent from and received by VM instances, including instances used as GKE nodes. These logs can be used for network monitoring, forensics, real-time security analysis, and expense optimization.
 
-[https://cloud.google.com/vpc/docs/using-flow-logs](https://cloud.google.com/vpc/docs/using-flow-logs)
+
 
 Network and security telemetry is fundamental to operate your deployments in public clouds with confidence, providing the required visibility on the behavior of your network and Access control firewalls. 
 
@@ -161,9 +163,9 @@ Network and security telemetry is fundamental to operate your deployments in pub
 
 ### Service Directory
 
-Service Directory helps reduce the complexity of management and operations by providing a single place to publish, discover, and connect services. It is a managed service that enhances service inventory management at scale so you don’t have to. Service Directory provides real-time service information, whether you have a few service endpoints or thousands. 
+[Service Directory](https://cloud.google.com/service-directory) helps reduce the complexity of management and operations by providing a single place to publish, discover, and connect services. It is a managed service that enhances service inventory management at scale so you don’t have to. Service Directory provides real-time service information, whether you have a few service endpoints or thousands. 
 
-[https://cloud.google.com/service-directory](https://cloud.google.com/service-directory)
+
 
 [https://www.youtube.com/watch?v=H9UoE_cWIEY](https://www.youtube.com/watch?v=H9UoE_cWIEY)
 
