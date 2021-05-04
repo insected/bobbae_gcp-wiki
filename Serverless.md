@@ -1,8 +1,4 @@
 
-## Serverless 
-
-
-### Introduction
 
 Google Cloud’s serverless platform lets you write code your way without worrying about the underlying infrastructure. Deploy functions or apps as source code or as containers. Build full stack serverless applications with Google Cloud’s storage, databases, machine learning, and more. Easily extend applications with event-driven computing from Google or third-party service integrations. You can even choose to move your serverless workloads to on-premises environments or to the cloud.
 
