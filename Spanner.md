@@ -122,7 +122,7 @@ Each Split has its own leader zone.
 
 ## Strong Consistency
 
-Spanner, as most ACID databases, it uses the 2PC ( two phase commit ), and it uses Paxos groups to mitigate the "anti-availability" shortcoming. 
+Spanner, as most [ACID](https://en.m.wikipedia.org/wiki/ACID) databases, it uses the [2PC](https://en.m.wikipedia.org/wiki/Two-phase_commit_protocol) (Two phase commit), and it uses Paxos groups to mitigate the "anti-availability" shortcoming. 
 
 At the highest level of abstraction, Spanner is a database that shards data across many sets of Paxos state machines in datacenters spread all over the world.
 
@@ -130,7 +130,7 @@ Spanner provides synchronous cross-datacenter replication and strong consistency
 
 ### Google F1 
 
-F1 is a distributed relational database built to support the Google AdWords business.  
+[F1](https://research.google/pubs/pub41344/) is a distributed relational database built to support the Google AdWords business.  
 
 F1 is built using Spanner to replace an implementation based on MySQL.
 
