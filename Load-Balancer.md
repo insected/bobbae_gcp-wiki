@@ -2,7 +2,7 @@
 
 [Cloud Load Balancing](https://cloud.google.com/load-balancing) allows you to put your resources behind a single IP address that is externally accessible or internal to your Virtual Private Cloud (VPC) network.
 
-Cloud Load Balancing can put your resources behind a single anycast IP and scale your resources up or down with intelligent autoscaling. Cloud Load Balancing comes in a variety of flavors and is integrated with Cloud CDN for optimal application and content delivery.
+Cloud Load Balancing can put your resources behind a single [anycast](https://en.wikipedia.org/wiki/Anycast) IP and scale your resources up or down with intelligent autoscaling. Cloud Load Balancing comes in a variety of flavors and is integrated with Cloud CDN for optimal application and content delivery.
 
 [https://cloud.google.com/load-balancing/docs](https://cloud.google.com/load-balancing/docs)
 
@@ -10,7 +10,7 @@ A Video about Cloud Load Balancing.
 
 [https://www.youtube.com/watch?v=D4XZkCJyqis](https://www.youtube.com/watch?v=D4XZkCJyqis)
 
-Google Cloud Load Balancing enables enterprises and cloud-natives to deliver highly available, scalable, low-latency cloud services with a global footprint. Use Google Global Load Balancing to deliver global reach and scale. Deploy your application backends in single or multiple regions wherever your users are, front-ending these with a single anycast VIP, and growing or shrinking your backend resources with intelligent Autoscaling. Scale private services using Internal Load Balancing (ILB) for clients in Google Cloud or on-prem across Interconnect/VPN. 
+Google Cloud Load Balancing enables enterprises and cloud-natives to deliver highly available, scalable, low-latency cloud services with a global footprint. Use Google Global Load Balancing to deliver global reach and scale. Deploy your application backends in single or multiple regions wherever your users are, front-ending these with a single anycast VIP, and growing or shrinking your backend resources with intelligent Autoscaling. Scale private services using Internal Load Balancing (ILB) for clients in Google Cloud or on-prem across [Interconnect](Interconnect)/[VPN](VPN). 
 
 [https://www.youtube.com/watch?v=J5HJ1y6PeyE](https://www.youtube.com/watch?v=J5HJ1y6PeyE)
 
@@ -70,14 +70,32 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/ingress
 ## Nginx
 
 Nginx [HTTP Load Balancer](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/) is widely used.
+Nginx offers highly scalable performance out of the box and can be extended with additional modules like Lua. 
 
 ## Traefik
 
 Traefik can [load balance services](https://doc.traefik.io/traefik/routing/services/).
+Traefik bills itself as the “cloud native edge router.” It’s a modern microservices-focused application load balancer and reverse proxy written in Golang. With its emphasis on support for several modern container orchestration platforms, batteries-included logging, and several popular metric formats, Traefik is a top choice for container-based microservices architectures.
+
+
+## HAProxy
+
+
+[HAProxy](https://github.com/haproxy/) is another common name in the web ecosystem. HAProxy offers reverse proxying and load balancing of TCP and HTTP traffic. When you choose HAProxy, you’re choosing a high-performance, well-established solution.
+
+## Seesaw
+
+
+[Seesaw](https://github.com/google/seesaw) is another open-source load balancer written in Golang. It was originally created by Google SREs to provide a robust solution for load balancing internal Google infrastructure traffic. 
+
+## Neutrino
+
+[Neutrino](https://github.com/eBay/Neutrino) is a Scala-based software load balancer originally developed by eBay. Neutrino’s strength lies in the broad compatibility of its runtime environment, the JVM.
 
 ## Github Load Balancer Director
 
 Github [Load Balancer Director](https://github.com/github/glb-director)  is a set of components that provide a scalable set of stateless Layer 4 load balancer servers capable of line rate packet processing in bare metal datacenter environments, and is used in production to serve all traffic from GitHub's datacenters.
+
 
 
 ## List of Load Balancers
