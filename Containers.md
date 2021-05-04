@@ -3,6 +3,10 @@
 
 A [container](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1/)  is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.  
 
+An [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization), different from [VMs](VM), is an operating system paradigm in which the kernel allows the existence of multiple isolated user space instances. Such instances, called containers (LXC, Solaris containers, Docker), Zones (Solaris containers), virtual private servers (OpenVZ), partitions, virtual environments (VEs), virtual kernels (DragonFly BSD), or jails (FreeBSD jail or chroot jail),[1] may look like real computers from the point of view of programs running in them. A computer program running on an ordinary operating system can see all resources (connected devices, files and folders, network shares, CPU power, quantifiable hardware capabilities) of that computer. However, programs running inside of a container can only see the container's contents and devices assigned to the container.
+
+
+
 A [container](https://appfleet.com/blog/what-is-a-container-a-kernel-introduction/) is  attached to different [namespaces](https://opensource.com/article/19/10/namespaces-and-containers-linux).
 
 [Namespaces](Namespaces), along with other technologies like [cgroups](https://en.wikipedia.org/wiki/Cgroups) and [more](https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/), form the foundation of containerization.
