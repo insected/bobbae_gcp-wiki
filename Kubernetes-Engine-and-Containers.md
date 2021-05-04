@@ -19,7 +19,7 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. 
 
 
-[Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do) is a portable, extensible, open-source platform for managing [containerized workloads and services](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx), that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+[Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do) is a portable, extensible, open-source platform for managing [containerized workloads and services](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx), that facilitates both [declarative configuration](https://www.youtube.com/watch?v=qmDzcu5uY1I) and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
 
 
