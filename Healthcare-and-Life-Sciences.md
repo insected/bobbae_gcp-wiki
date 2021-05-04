@@ -31,6 +31,11 @@ There is no shortage of [opportunities](https://www.youtube.com/watch?v=P54bm_TN
 
 [Cloud Life Sciences](https://cloud.google.com/life-sciences) is [a suite of services](https://www.youtube.com/watch?v=n0dhKfuhbVM) and tools for [managing, processing, and transforming life sciences](https://www.youtube.com/watch?v=Uz93mfqQvYA) data. It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E) and operational workflows using highly scalable and compliant infrastructure. [Cloud Life Sciences](https://www.youtube.com/watch?v=M_G_1SWVHgw) includes features such as the [Cloud Life Sciences API](https://www.youtube.com/watch?v=vQeh0l9lnfk) and extract-transform-load (ETL) [tools](https://www.youtube.com/watch?v=B8RABR19n8Y), and [more](https://www.youtube.com/watch?v=BAAZNH-Wa6A).
 
+### Storing and loading genomic variants
+
+[This page describes](https://cloud.google.com/life-sciences/docs/how-tos/load-variants) how to use the Variant Transforms tool to transform and load VCF files directly into [BigQuery](BigQuery) for large-scale analysis.
+
+
 ### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
 
 Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
@@ -40,6 +45,11 @@ Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked r
 
 
 This [github repository](https://github.com/isb-cgc/RunningWorkflows-on-the-GoogleCloud) is  for the running workflows on the Google Cloud Platform for the ISB-CGC.  The documentation at http://isb-cancer-genomics-cloud.readthedocs.org.
+
+
+### Pachyderm
+
+[Pachyderm](https://www.pachyderm.com/) is a data science platform that combines Data Lineage with End-to-End Pipelines on Kubernetes, engineered for the enterprise.
 
 ### Qwiklabs
 
