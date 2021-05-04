@@ -1,8 +1,4 @@
 
-## Google Cloud Platform
-
-
-### Introduction
 
 Google Cloud Platform offers four main kinds of services: Compute, Storage, Big Data, and Machine Learning. 
 
