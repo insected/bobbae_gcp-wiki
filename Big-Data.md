@@ -9,6 +9,10 @@ The world's technological per-capita capacity to store information has roughly d
 
 Based on an IDC report prediction, the global data volume was predicted to grow exponentially from 4.4 [zettabytes](https://en.m.wikipedia.org/wiki/Byte#Multiple-byte_units) to 44 zettabytes between 2013 and 2020. By 2025, IDC predicts there will be 163 zettabytes of data.
 
+
+
+The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data-3fb14d5351ba) to a dataset which is too large or too complex for ordinary computing devices to process. As such, it is relative to the available computing power on the market. If you look at recent history of data, then in 1999 we had a total of 1.5 exabytes of data and 1 gigabyte was considered big data. Already in 2006, total data was estimated at 160 exabytes level — 1000% more in 7 years. In our Zettabyte Era 1 gigabyte is no longer big data really, and it makes sense to talk about big data starting with at least 1 terabyte. If we were to put that in more mathematical terms, then it seems natural to talk about Big Data with regard to datasets which exceed total data created in the world divided by 1000³.
+
 [Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data.
 
 ## Hadoop 
