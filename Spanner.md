@@ -8,7 +8,9 @@
 
 ## Spanner in a minute
 
-Cloud Spanner can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale. 
+[Cloud Spanner](https://www.youtube.com/watch?v=IfsTINNCooY) can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale. 
+
+
 
 
 
@@ -21,7 +23,7 @@ In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distrib
 Cloud Spanner is a relational database service that offers transactional consistency at global scale, [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
 
-[Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains details of its design. 
+[Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its design. 
 
 ## Architecture
 
@@ -196,14 +198,14 @@ This guarantee holds across all servers and all timestamps.
 https://www.youtube.com/watch?v=iKQhPwbzzxU
 
 
-## Internals
+Some databases support similar timestamp capabilities [without TrueTime](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/).
 
 
-https://thedataguy.in/internals-of-google-cloud-spanner/
 
-## Cloud Spanner 101
 
-[https://www.youtube.com/watch?v=IfsTINNCooY](https://www.youtube.com/watch?v=IfsTINNCooY)
+
+
+
 
 ## Example: Build realtime inventory management systems with Cloud Spanner
 
