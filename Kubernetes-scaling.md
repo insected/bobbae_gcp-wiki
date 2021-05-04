@@ -1,4 +1,4 @@
-# Cluster auto scaling
+## Cluster auto scaling
 
 GKE's cluster autoscaler automatically resizes the number of nodes in a given node pool, based on the demands of your workloads. You don't need to manually add or remove nodes or over-provision your node pools. Instead, you specify a minimum and maximum size for the node pool, and the rest is automatic.
 
@@ -6,7 +6,7 @@ If resources are deleted or moved when autoscaling your cluster, your workloads 
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler
 
-# Horizontal pod autoscaler 
+## Horizontal pod autoscaler 
 
 HPA changes the shape of your Kubernetes workload by automatically increasing or decreasing the number of Pods in response to the workload's CPU or memory consumption, or in response to custom metrics reported from within Kubernetes or external metrics from sources outside of your cluster.
 
@@ -27,7 +27,7 @@ You can automatically scale your Google Kubernetes Engine (GKE) workloads based 
 
 https://cloud.google.com/kubernetes-engine/docs/tutorials/autoscaling-metrics
 
-# Vertical pod autoscaler 
+## Vertical pod autoscaler 
 
 Vertical Pod Autoscaler (VPA) frees the users from necessity of setting up-to-date resource limits and requests for the containers in their pods. When configured, it will set the requests automatically based on usage and thus allow proper scheduling onto nodes so that appropriate resource amount is available for each pod. It will also maintain ratios between limits and requests that were specified in initial containers configuration.
 
@@ -35,7 +35,7 @@ It can both down-scale pods that are over-requesting resources, and also up-scal
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler
 
-# Multi-dimensional Auto Scaling
+## Multi-dimensional Auto Scaling
 
 Multidimensional Pod autoscaling (MPA) frees you from choosing a single way to scale your clusters. With multidimensional Pod autoscaling, you can use horizontal scaling based on CPU and vertical scaling based on memory at the same time.
 
