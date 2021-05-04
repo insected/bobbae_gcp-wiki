@@ -12,7 +12,7 @@ For example, Cloud [Composer](Composer) is a natural choice if your workflow nee
 
 
 
-# Google Cloud Workflows
+## Google Cloud Workflows
 
 However, if you want to process events or chain APIs in a serverless way—or have workloads that are bursty or latency-sensitive— it may be better to use  [Workflows](https://cloud.google.com/workflows).
 
@@ -57,7 +57,7 @@ Connectors can be used to connect to other Google Cloud APIs within a workflow, 
 
 For example, you can use connectors to publish Pub/Sub messages, read or write data to a Firestore database, or retrieve authentication keys from Secret Manager.
 
-# Google Cloud Composer
+## Google Cloud Composer
 
 
 The [Cloud Composer](https://cloud.google.com/composer) is a fully managed workflow orchestration built on [Apache Airflow](https://airflow.apache.org/). 
@@ -69,7 +69,7 @@ The [Cloud Composer](https://cloud.google.com/composer) is a fully managed workf
 
 
 
-# Google Dataproc Workflow 
+## Google Dataproc Workflow 
 
 
 
@@ -79,18 +79,18 @@ A Workflow Template is a reusable workflow configuration. It defines a graph of 
 
 [Check out](https://garystafford.medium.com/using-the-google-cloud-dataproc-workflowtemplates-api-to-automate-spark-and-hadoop-workloads-on-gcp-95b02f54b5f2) is a great tutorial on Dataproc workflow templates by Gary Stafford.
 
-# [Kubeflow](Kubeflow) & [AI Hub](AI-Hub)
+## [Kubeflow](Kubeflow) & [AI Hub](AI-Hub)
 
 
 [Kubeflow](Kubeflow) Pipelines is a platform for building and deploying portable, scalable machine learning (ML) workflows based on containers.
 [AI Hub](AI-Hub) has support for [Kubeflow](Kubeflow) Pipelines.
 
 
-# Workflow Tools Comparison and Alternatives
+## Workflow Tools Comparison and Alternatives
 
 A [survey of pipeline & workflow tools](https://github.com/pditommaso/awesome-pipeline).
 
-## Choosing the right Orchestrator for Google Cloud
+### Choosing the right Orchestrator for Google Cloud
 
 Orchestration often refers to the automated configuration, coordination, and management of computer systems and services. 
 
@@ -109,7 +109,7 @@ Google Cloud Platform offers a number of tools and services for orchestration:
 https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
 
 
-## Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
+### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
 [Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
