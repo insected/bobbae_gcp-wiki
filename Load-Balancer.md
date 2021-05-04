@@ -2,17 +2,14 @@
 
 [Cloud Load Balancing](https://cloud.google.com/load-balancing) allows you to put your resources behind a single IP address that is externally accessible or internal to your Virtual Private Cloud (VPC) network.
 
-Cloud Load Balancing can put your resources behind a single [anycast](https://en.wikipedia.org/wiki/Anycast) IP and scale your resources up or down with intelligent autoscaling. Cloud Load Balancing comes in a variety of flavors and is integrated with Cloud CDN for optimal application and content delivery.
+[Cloud Load Balancing](https://cloud.google.com/load-balancing/docs) can put your resources behind a single [anycast](https://en.wikipedia.org/wiki/Anycast) IP and scale your resources up or down with intelligent autoscaling. Cloud Load Balancing comes in a variety of flavors and is integrated with Cloud CDN for optimal application and content delivery.
 
-[https://cloud.google.com/load-balancing/docs](https://cloud.google.com/load-balancing/docs)
 
-A Video about Cloud Load Balancing.
+A [Video](https://www.youtube.com/watch?v=D4XZkCJyqis) about Cloud Load Balancing.
 
-[https://www.youtube.com/watch?v=D4XZkCJyqis](https://www.youtube.com/watch?v=D4XZkCJyqis)
 
-Google Cloud Load Balancing enables enterprises and cloud-natives to deliver highly available, scalable, low-latency cloud services with a global footprint. Use Google Global Load Balancing to deliver global reach and scale. Deploy your application backends in single or multiple regions wherever your users are, front-ending these with a single anycast VIP, and growing or shrinking your backend resources with intelligent Autoscaling. Scale private services using Internal Load Balancing (ILB) for clients in Google Cloud or on-prem across [Interconnect](Interconnect)/[VPN](VPN). 
+Google Cloud Load Balancing enables enterprises and cloud-natives to deliver highly available, scalable, low-latency cloud services with a global footprint. Use Google Global Load Balancing to deliver [global reach and scale](https://www.youtube.com/watch?v=J5HJ1y6PeyE). Deploy your application backends in single or multiple regions wherever your users are, front-ending these with a single anycast VIP, and growing or shrinking your backend resources with intelligent Autoscaling. Scale private services using Internal Load Balancing (ILB) for clients in Google Cloud or on-prem across [Interconnect](Interconnect)/[VPN](VPN). 
 
-[https://www.youtube.com/watch?v=J5HJ1y6PeyE](https://www.youtube.com/watch?v=J5HJ1y6PeyE)
 
 
 ## Types of Load Balancing
