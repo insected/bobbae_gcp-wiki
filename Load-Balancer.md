@@ -1,5 +1,4 @@
 
-# Introduction
 
 [Cloud Load Balancing](https://cloud.google.com/load-balancing) allows you to put your resources behind a single IP address that is externally accessible or internal to your Virtual Private Cloud (VPC) network.
 
@@ -16,28 +15,28 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 [https://www.youtube.com/watch?v=J5HJ1y6PeyE](https://www.youtube.com/watch?v=J5HJ1y6PeyE)
 
 
-# Types of Load Balancing
+## Types of Load Balancing
 
 [https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
 
 [https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
 
 
-# Maglev
+## Maglev
 
 Maglev is Google's network load balancer. It is a large distributed software system that runs on commodity Linux servers.
 
 [https://research.google/pubs/pub44824/](https://research.google/pubs/pub44824/)
 
 
-# Andromeda
+## Andromeda
 
 Andromeda is the network virtualization environment for Google Cloud Platform (GCP). 
 
 [https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf)
 
 
-# Load Balancer Options
+## Load Balancer Options
 
 To decide which load balancer best suits your implementation of Google Cloud, consider the following aspects of Cloud Load Balancing:
 
@@ -47,7 +46,7 @@ To decide which load balancer best suits your implementation of Google Cloud, co
 
 [https://cloud.google.com/load-balancing/docs/choosing-load-balancer](https://cloud.google.com/load-balancing/docs/choosing-load-balancer)
 
-# Kubernetes External Load Balancer
+## Kubernetes External Load Balancer
 
 When the Service type is set to LoadBalancer, Kubernetes provides functionality equivalent to type equals ClusterIP to pods within the cluster and extends it by programming the (external to Kubernetes) load balancer with entries for the Kubernetes pods. The Kubernetes service controller automates the creation of the external load balancer, health checks (if needed), firewall rules (if needed) and retrieves the external IP allocated by the cloud provider and populates it in the service object.
 
@@ -55,8 +54,26 @@ https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load
 
 Also [ClusterIP, Ingress, NodePort, Load Balancer](ClusterIP,-Ingress,-NodePort,-Load-Balancer) are some of the ways to expose services.
 
-# GKE Ingess Load Balancer
+## GKE Ingess Load Balancer
 
 In GKE, an Ingress object defines rules for routing HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects, each of which is associated with a set of Pods. 
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/ingress
+
+## Nginx
+
+Nginx [HTTP Load Balancer](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/) is widely used.
+
+## Traefik
+
+Traefik can [load balance services](https://doc.traefik.io/traefik/routing/services/).
+
+## Github Load Balancer Director
+
+Github [Load Balancer Director](https://github.com/github/glb-director)  is a set of components that provide a scalable set of stateless Layer 4 load balancer servers capable of line rate packet processing in bare metal datacenter environments, and is used in production to serve all traffic from GitHub's datacenters.
+
+
+## List of Load Balancers
+
+A [list](https://github.com/cristaloleg/awesome-load-balancing) of Load Balancers.
+
