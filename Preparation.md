@@ -9,7 +9,7 @@ This document is intended to be used in an instructor-lead training class on [GC
 
 We will be using [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.  You should register using the  email address as your identity and create an account right away. It takes a few days to get the credits to be used for labs.
 
-You can learn about Qwiklabs [here]([https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D](https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D).
+You can learn about Qwiklabs [here](https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D).
 
 These [videos](https://www.youtube.com/user/yogaarsa/playlists) may give you an idea of what Qwiklabs are like.
 
