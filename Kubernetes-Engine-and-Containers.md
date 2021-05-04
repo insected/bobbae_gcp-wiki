@@ -6,7 +6,7 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 ## Kubernetes
 
-[Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
+[Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system for automating deployment, scaling, and management of [containerized](https://en.wikipedia.org/wiki/OS-level_virtualization) applications.
 
 <img src="http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg" width="700">
 
