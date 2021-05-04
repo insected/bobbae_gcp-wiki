@@ -31,7 +31,7 @@ Spark's RDDs function as a working set for distributed programs that offers a (d
 
 ## Perspectives on Big Data
 
-In the data chronicles, [The Google File System paper in 2003](https://research.google/pubs/pub51/) marked a seminal moment for software development. It was one of the first times Google detailed the technical underpinnings that helped it catapult from clever idea to global force.
+In the Big Data  chronicles, [The Google File System paper in 2003](https://research.google/pubs/pub51/) marked a seminal moment for software development. It was one of the first times Google detailed the technical underpinnings that helped it catapult from clever idea to global force.
 
 The following year in 2004, Google shared [another paper on MapReduce](https://research.google/pubs/pub62), further cementing the genealogy of big data. 
 
