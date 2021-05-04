@@ -17,7 +17,15 @@ Based on an IDC report prediction, the global data volume was predicted to grow 
 
 
 
-The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data-3fb14d5351ba) to a dataset which is too large or too complex for ordinary computing devices to process. As such, it is relative to the available computing power on the market. If you look at recent history of data, then in 1999 we had a total of 1.5 exabytes of data and 1 gigabyte was considered big data. Already in 2006, total data was estimated at 160 exabytes level — 1000% more in 7 years. In our Zettabyte Era 1 gigabyte is no longer big data really, and it makes sense to talk about big data starting with at least 1 terabyte. If we were to put that in more mathematical terms, then it seems natural to talk about Big Data with regard to datasets which exceed total data created in the world divided by 1000³.
+The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data-3fb14d5351ba) to a dataset which is too large or too complex for ordinary computing devices to process. 
+
+As such, it is relative to the available computing power on the market. 
+
+If you look at recent history of data, then in 1999 we had a total of 1.5 exabytes of data and 1 gigabyte was considered big data. Already in 2006, total data was estimated at 160 exabytes level — 1000% more in 7 years. 
+
+In our Zettabyte Era 1 gigabyte is no longer big data really, and it makes sense to talk about big data starting with at least 1 terabyte. 
+
+If we were to put that in more mathematical terms, then it seems natural to talk about Big Data with regard to datasets which exceed total data created in the world divided by 1000³.
 
 ## Hadoop 
 
@@ -35,7 +43,7 @@ The main Hadoop components are:
 
 [Dataproc](Dataproc) is a Google managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that [scales](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/scaling-clusters).
 
-[Some](https://www.teradata.com/Blogs/Why-Hadoop-Failed-and-Where-We-Go-from-Here) [claim](https://www.datanami.com/2017/03/13/hadoop-failed-us-tech-experts-say/)  Hadoop has [some](https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/) [issues](https://towardsdatascience.com/what-happened-to-hadoop-what-should-you-do-now-2876f68dbd1d) and [limitations](https://medium.com/@bharvi.vyas123/6-major-hadoop-limitations-with-their-solutions-1cae1d3936e1).  
+[Some](https://www.teradata.com/Blogs/Why-Hadoop-Failed-and-Where-We-Go-from-Here) analysts may [claim](https://www.datanami.com/2017/03/13/hadoop-failed-us-tech-experts-say/)  Hadoop has [some](https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/) standing [issues](https://towardsdatascience.com/what-happened-to-hadoop-what-should-you-do-now-2876f68dbd1d) and [limitations](https://medium.com/@bharvi.vyas123/6-major-hadoop-limitations-with-their-solutions-1cae1d3936e1).  
 
 There have been [many deprecated](https://www.zdnet.com/article/apache-software-foundation-retires-slew-of-hadoop-related-projects) and [retired](https://en.wikipedia.org/wiki/Apache_Attic) projects among a [very large list of projects](https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) and [incubator projects](http://incubator.apache.org/projects/).
 
@@ -63,7 +71,7 @@ The main Spark components are:
 
 ## Perspectives on Big Data
 
-In the [Big Data Chronicles](https://datafloq.com/read/big-data-history/239), [the Google File System paper in 2003](https://research.google/pubs/pub51/) marked a seminal moment for software development. It was one of the first times Google detailed the technical underpinnings that helped it catapult from clever idea to global force.
+In the [Big Data Chronicles](https://datafloq.com/read/big-data-history/239) and history, [the Google File System paper in 2003](https://research.google/pubs/pub51/) marked a seminal moment for software development. It was one of the first times Google detailed the technical underpinnings that helped it catapult from clever idea to global force.
 
 The following year in 2004, Google shared [another paper on MapReduce](https://research.google/pubs/pub62), further cementing the genealogy of big data. 
 
@@ -75,12 +83,12 @@ Six years later in 2012, Hadoop 1.0 became available.
 
 By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-of-an-era/).
 
-Did Google unintentionally send the industry  [on a more than a decade long head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
+Did Google  send the industry  [on a more than a decade long head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
 
-There's now [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
+We can now use [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
 
 
-[Often](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html) the data you may use isn't [really that big](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/) or do not need to be that [big](https://hbr.org/2013/12/you-may-not-need-big-data-after-all).
+[Often](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html) the data  isn't [really that big](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/) or does not need to be that [big](https://hbr.org/2013/12/you-may-not-need-big-data-after-all).
 
 [Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data.
 
