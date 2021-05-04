@@ -1,5 +1,4 @@
 
-# Peering
 In computer networking, peering is a voluntary interconnection of administratively separate Internet networks for the purpose of exchanging traffic between the users of each network. The pure definition of peering is settlement-free, also known as "bill-and-keep," or "sender keeps all," meaning that neither party pays the other in association with the exchange of traffic; instead, each derives and retains revenue from its own customers.
 
 ## Direct Peering
