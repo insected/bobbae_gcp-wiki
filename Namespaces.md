@@ -18,7 +18,7 @@ A Linux system starts out with a single namespace of each type, used by all proc
 [https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2](https://www.youtube.com/watch?v=j_UUnlVC2Ss&list=TLPQMTQxMDIwMjD4ry4yOmhx2w&index=2)
 
 
-# Kubernetes Namespaces
+## Kubernetes Namespaces
 
 Kubernetes [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) are intended for use in environments with many users spread across multiple teams, or projects. For clusters with a few to tens of users, you should not need to create or think about namespaces at all. Start using namespaces when you need the features they provide.
 
@@ -26,7 +26,7 @@ Namespaces provide a scope for names. Names of resources need to be unique withi
 
 Kubernetes namespaces are comparable to Linux namespaces. However, Kubernetes manages namespaces in a declarative style. The simple clean-up process is central to managing operations at scale and the cluster management add-ons such as role-based access control (RBAC), making namespaces even more powerful.
 
-# GCP Namespaces
+## GCP Namespaces
 
 Google Cloud supports organizing resources at the Project, Folder, and Organization levels. You can add Annotations to your Config Connector Namespaces to map resources to a Project, a Folder or Organization.
 
