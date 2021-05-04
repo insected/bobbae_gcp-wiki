@@ -7,12 +7,14 @@ This document is intended to be used in an instructor-lead training class on [GC
 
 
 
-We will be using [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.  You should register using the  email address as your identity and create an account right away. It takes a few days to get the credits to be used for labs.
+You can use [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.  You should register using the  email address as your identity and create an account right away. It takes a few days to get the credits to be used for labs.
 
 You can learn about [Qwiklabs]((https://googlecourses.qwiklabs.com/)) [here](https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D).
 
 These [videos](https://www.youtube.com/user/yogaarsa/playlists) may give you an idea of what Qwiklabs are like.
 
+
+If you don’t get [Qwiklabs]((https://www.qwiklabs.com/focuses/2794?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467708)) credit in a few days, you can still sign up to use [free tier Google cloud services](https://cloud.google.com/free) and do the labs there.
 
 
 
@@ -27,8 +29,6 @@ You may also [fill out a form]((https://inthecloud.withgoogle.com/partner-traini
 
 [Here](https://inthecloud.withgoogle.com/training-discount/register.html) is another place to sign up for Qwiklabs credit if the above links do not work.
 
-
-If you don’t get [Qwiklabs]((https://www.qwiklabs.com/focuses/2794?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467708)) credit in a few days, you can still sign up to use [free tier Google cloud services](https://cloud.google.com/free) and do the labs there.
 
 ### Codelabs
 
