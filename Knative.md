@@ -5,22 +5,22 @@ https://knative.dev/docs/
 Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters. Built by codifying the best practices shared by successful real-world implementations, Knative solves the "boring but difficult" parts of deploying and managing cloud native services so you don't have to.
 
  
-# Samples
+## Samples
 
-## Getting Started
+### Getting Started
 https://knative.dev/docs/serving/getting-started-knative-app/
 
-## Blue Green
+### Blue Green
 https://knative.dev/docs/serving/samples/blue-green-deployment/
 
-## Auto Scale
+### Auto Scale
 
 https://knative.dev/docs/serving/autoscaling/
 
-## Eventing
+### Eventing
 
 https://knative.dev/docs/eventing/getting-started/
 
-## Code Samples
+### Code Samples
 
 https://knative.dev/docs/samples/
