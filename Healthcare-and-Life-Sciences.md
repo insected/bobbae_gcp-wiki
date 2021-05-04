@@ -47,10 +47,6 @@ Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked r
 This [github repository](https://github.com/isb-cgc/RunningWorkflows-on-the-GoogleCloud) is  for the running workflows on the Google Cloud Platform for the ISB-CGC.  The documentation at http://isb-cancer-genomics-cloud.readthedocs.org.
 
 
-### Pachyderm
-
-[Pachyderm](https://www.pachyderm.com/) is a data science platform that combines Data Lineage with End-to-End Pipelines on Kubernetes, engineered for the enterprise.
-
 ### Qwiklabs
 
 
