@@ -14,13 +14,13 @@ Kubeflow offers several components that you can use to build your ML training, h
 
 [https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
 
-# Deploy Kubeflow on Google Cloud
+## Deploy Kubeflow on Google Cloud
 
 Instructions for [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) and [kpt](https://github.com/GoogleContainerTools/kpt) to deploy Kubeflow on Google Cloud.
 
 https://www.kubeflow.org/docs/distributions/gke/deploy/deploy-cli/
 
-# ML Workflow
+## ML Workflow
 
 https://www.kubeflow.org/docs/started/kubeflow-overview/#introducing-the-ml-workflow
 
@@ -30,7 +30,7 @@ https://www.kubeflow.org/docs/started/kubeflow-overview/#introducing-the-ml-work
 
 https://github.com/kubeflow/examples/blob/master/mnist/mnist_gcp.ipynb
 
-# Kubeflow pipelines 
+## Kubeflow pipelines 
 
 Kubeflow Pipelines is a component of Kubeflow that provides a platform for building and deploying ML workflows, called pipelines. 
 
@@ -48,11 +48,11 @@ https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/
 https://cloud.google.com/ai-hub/docs/deploy-pipeline
 
 
-# Kubeflow Examples 
+## Kubeflow Examples 
 
 https://github.com/kubeflow/examples
 
 
-# MLOps
+## MLOps
 
 [MLOps](MLOps) is the process of taking an experimental [Machine Learning](Machine-Learning) model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
