@@ -25,7 +25,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-# General
+## General
 
 https://github.com/yangshun/tech-interview-handbook
 
@@ -33,13 +33,13 @@ https://github.com/DopplerHQ/awesome-interview-questions
 
 
 
-# Coding
+## Coding
 
 [Interview Coding](Interview-Coding)
 
 
 
-# General Computer Science
+## General Computer Science
 
 https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/amp/
 
@@ -65,18 +65,18 @@ https://www.javatpoint.com/operating-system-interview-questions
 
 
 
-# Google Cloud Platform
+## Google Cloud Platform
 
 https://www.qfles.com/interview-question/google-cloud-platform-interview-questions
 
 Explain step by step in as much detail as possible what happens when you use Google search from your browser. 
 
-# General Infrastructure
+## General Infrastructure
 
 [Interview Infrastructure](Interview-Infrastructure)
 
 
-# BASICs
+## BASICs
 
 Regarding your own computer in  front of you, can you look up information on what hardware components you have? List
 CPU, memory, storage, networking details as reported by your operating system (windows, macosx, linux, ...)
@@ -88,7 +88,7 @@ Discuss details on each: cpu, memory, storage, network...
 
 How do these things matter when selecting a type of virtual machine in cloud compute services?
 
-# IT and sysadmin questions
+## IT and sysadmin questions
 
 https://opensource.com/article/19/7/sysadmin-job-interview-questions
 
@@ -129,7 +129,7 @@ https://www.howtogeek.com/68563/htg-explains-what-are-the-differences-between-li
 
 
 
-# Data Science
+## Data Science
 
 https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
 
@@ -139,12 +139,12 @@ https://www.whizlabs.com/blog/top-machine-learning-interview-questions/
 
 [Data Science](Data-Science)
 
-# Data Engineering
+## Data Engineering
 
 
 [Interview Data Engineering](Interview-Data-Engineering)
 
-# Cloud
+## Cloud
 
 https://www.edureka.co/community/cloud-computing/gcp
 
@@ -161,28 +161,29 @@ https://www.acte.in/google-cloud-interview-questions-and-answers
 
 https://www.javatpoint.com/cloud-service-models
 
-# Security
+## Security
 
 [Interview Security](Interview-Security)
 
-# Frontend
+## Frontend
 
 https://frontendmasters.com/books/front-end-handbook/2018/practice/interview-q.html
-# Backend
+
+## Backend
 
 https://www.fullstack.cafe/blog/backend-developer-interview-questions
 
-# Networking
+## Networking
 
 
 [Interview Networking](Interview-Networking)
 
 
-# Storage
+## Storage
 
 [Interview Storage](Interview-Storage)
 
-# Hardware
+## Hardware
 
 https://www.hitequest.com/Hardware/El_hardware.htm
 
@@ -267,17 +268,17 @@ https://quizizz.com/admin/quiz/5ab28f10ba09bf0019b2b33a/cpu-cores
 http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html
 
 
-# Desktop Support
+## Desktop Support
 
 https://career.guru99.com/top-50-desktop-support-interview-questions/
 
-# Statistics
+## Statistics
 
 https://towardsdatascience.com/12-probability-practice-questions-for-data-science-interviews-2ec5230304d9
 
 https://www.digitalvidya.com/blog/bayesian-statistics-interview-questions-answers/
 
-# Math
+## Math
 
 https://www.testdome.com/d/math-interview-questions/941
 
@@ -296,17 +297,17 @@ https://en.m.wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_i
 
 https://en.m.wikipedia.org/wiki/E_(mathematical_constant)
 
-# DevOps
+## DevOps
 
 [Interview DevOps](Interview-DevOps)
 
 https://github.com/bregman-arie/devops-exercises
 
-# Bioinformatics
+## Bioinformatics
 
 http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Answers.html
 
-# Reasoning
+## Reasoning
 
 https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
@@ -318,7 +319,7 @@ https://www.lsac.org/lsat/taking-lsat/test-format/logical-reasoning/logical-reas
 
 https://www.javatpoint.com/reasoning
 
-# Links
+## Links
 
 
 
