@@ -18,7 +18,7 @@ If you don’t get [Qwiklabs]((https://www.qwiklabs.com/focuses/2794?catalog_ran
 
 
 
-### Register  Now at the Partner Advantage site
+#### Register at the Partner Advantage site
 
 If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin?language=en_US) to get some Qwiklabs credits.
 
