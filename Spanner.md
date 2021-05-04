@@ -146,7 +146,7 @@ Intuitively, Cloud Spanner is semantically indistinguishable from a single-machi
 
 Even though it provides such strong guarantees, Cloud Spanner enables applications to achieve performance comparable to databases that provide weaker guarantees. 
 
-Cloud Spanner provides external consistency, which is a stronger property than linearizability, because linearizability does not say anything about the behavior of transactions.
+Cloud Spanner provides [external consistency](https://www.youtube.com/watch?v=QdkS6ZjeR7Q), which is a stronger property than linearizability, because linearizability does not say anything about the behavior of transactions.
 
 <img src="https://accelazh.github.io/images/ddia-linearizability.png" width="700">
 
@@ -157,7 +157,7 @@ In a database, an "object" would typically be a single row or even a single cell
 External consistency is a property of transaction-processing systems, where clients dynamically synthesize transactions that contain multiple read and write operations on arbitrary objects. 
 
 
-Cloud Spanner provides external consistency, which is a stricter property than serializability. 
+Cloud Spanner provides external [consistency](https://aphyr.com/posts/313-strong-consistency-models), which is a stricter property than serializability. 
 
 A transaction-processing system is serializable if it executes transactions in a manner that is indistinguishable from a system in which the transactions are executed serially. 
 
@@ -165,9 +165,9 @@ Cloud Spanner also guarantees that the serial order is consistent with the order
 
 In a system that provides serializability but not external consistency, even though the customer executed T1 and then T2 sequentially, the system would be permitted to reorder them, which could cause the debit to incur a penalty due to insufficient funds.
 
-https://aphyr.com/posts/313-strong-consistency-models
 
-https://www.youtube.com/watch?v=QdkS6ZjeR7Q
+
+
 
 ## TrueTime
 
