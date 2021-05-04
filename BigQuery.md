@@ -181,7 +181,8 @@ Dremel is a scalable, interactive ad-hoc query system for analysis of read-only 
 ## Data Warehouse Topics
 
 
-### BigQuery, Snowflake, Redshift
+### BigQuery, [Snowflake](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/), [Redshift](https://aws.amazon.com/redshift/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+
 
 [https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555](https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555)
 
