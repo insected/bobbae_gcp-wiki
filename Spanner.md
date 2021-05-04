@@ -18,7 +18,7 @@ Cloud Spanner is one of [Distributed SQL Databases](https://www.google.com/amp/s
 
 In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distributed_SQL) is a single logical database deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
 
-## Introduction 
+
 
 Cloud Spanner is a relational database service that offers transactional consistency at global scale, [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
