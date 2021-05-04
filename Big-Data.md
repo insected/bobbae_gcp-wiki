@@ -65,7 +65,7 @@ The following year in 2004, Google shared [another paper on MapReduce](https://r
 
 [MapReduce](https://en.m.wikipedia.org/wiki/MapReduce) was a new technique to move computation to data, and it allowed large web companies including Google to operate with enormous amounts of information, such as the entire internet. 
 
-Soon after that, Doug Cutting, Hadoop’s initial creator, began to implement MapReduce and the Hadoop Distributed File System while at Yahoo, and in 2006 Hadoop 0.1.0 was released.
+Soon after that, Doug Cutting, Hadoop’s initial creator, [began to implement MapReduce and the Hadoop Distributed File System while at Yahoo](https://web.archive.org/web/20070119142832/http://weblogs.java.net/blog/tomwhite/archive/2005/09/mapreduce.html), and in 2006 Hadoop 0.1.0 was released.
 
 Six years later in 2012, Hadoop 1.0 became available.
 
