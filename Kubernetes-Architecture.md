@@ -164,7 +164,7 @@ A Secret is an object that contains a small amount of sensitive data such as a p
 
 ## Stateful Sets
 
-StatefulSet is the workload API object used to manage stateful applications.
+[StatefulSet](https://www.youtube.com/watch?v=pPQKAR1pA9U) is the workload API object used to manage stateful applications.
 
 Manages the deployment and scaling of a set of Pods, and provides guarantees about the ordering and uniqueness of these Pods.
 
@@ -204,7 +204,7 @@ https://book.kubebuilder.io/quick-start.html
 https://github.com/kubernetes-sigs/kubebuilder
 
 
-## Operator Pattern
+## [Operator](https://www.youtube.com/watch?v=ha3LjlD6g7g) Pattern
 
 <img src="https://blog.container-solutions.com/hs-fs/hubfs/kubernetes_operators_diagram2.png?width=1875&name=kubernetes_operators_diagram2.png" width="600">
 
