@@ -6,23 +6,25 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 ## Kubernetes
 
-[Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system for automating deployment, scaling, and management of [containerized](https://en.wikipedia.org/wiki/OS-level_virtualization) applications.
+[Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system for automating deployment, scaling, and management of [containerized](https://en.wikipedia.org/wiki/OS-level_virtualization) applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
 
 <img src="http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg" width="700">
 
 
 
-https://www.youtube.com/watch?v=Rl5M1CzgEH4
+
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/q1-1.png" width="300">
 
-[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
+[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. 
 
-https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx
+[GKE](https://www.youtube.com/watch?v=Rl5M1CzgEH4) clusters are powered by the Kubernetes open source cluster management system. Kubernetes provides the mechanisms through which you interact with your cluster. You use Kubernetes commands and resources to deploy and manage your applications, perform administration tasks, set policies, and monitor the health of your deployed workloads.
 
-Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+[GKE](GKE) is Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
-https://www.youtube.com/watch?v=X48VuDVv0do
+[Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do) is a portable, extensible, open-source platform for managing [containerized workloads and services](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx), that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+
+
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Application.png" width="700">
 
