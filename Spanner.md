@@ -1,21 +1,24 @@
 
 
-Fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. 
+[Cloud Spanner](https://cloud.google.com/spanner) is a  managed relational database with unlimited scale, strong consistency, and up to 99.999% availability. 
 
-[Cloud Spanner](https://cloud.google.com/spanner)    optimizes performance by automatically sharding the data based on request load and size of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on scaling your business.
+[Cloud Spanner](https://cloud.google.com/spanner)    optimizes performance by automatically sharding the data based on request load and size of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on [scaling your business](https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1).
 
-https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1
+
 
 ## Spanner in a minute
 
-Cloud Spanner can help you create time-sensitive, mission critical applications at scale. 
+Cloud Spanner can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale. 
 
-[https://www.youtube.com/watch?v=5bjYk6Hhd10](https://www.youtube.com/watch?v=5bjYk6Hhd10)
 
+
+Cloud Spanner is one of [Distributed SQL Databases](https://www.google.com/amp/s/www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
+
+In general, a Distributed SQL Database is a single logical database deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
 
 ## Introduction 
 
-Cloud Spanner is a relational database service that offers transactional consistency at global scale, schemas, SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
+Cloud Spanner is a relational database service that offers transactional consistency at global scale, [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
 [https://cloud.google.com/spanner/docs](https://cloud.google.com/spanner/docs)
 
@@ -246,6 +249,11 @@ A Shift to Distributed SQL.
 Databases, ETL, ELT and tools.
 
 [https://cube.dev/blog/category/data-stack/](https://cube.dev/blog/category/data-stack/)
+
+
+
+
+
 
 
 ## Qwiklabs
