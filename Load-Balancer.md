@@ -31,16 +31,14 @@ How does a load balancer decide where to send requests?
 
 ## Maglev
 
-Maglev is Google's network load balancer. It is a large distributed software system that runs on commodity Linux servers.
+[Maglev](https://research.google/pubs/pub44824/) is Google's network load balancer. It is [a large distributed software system](https://research.google/pubs/pub44824/) that runs on commodity Linux servers.
 
-[https://research.google/pubs/pub44824/](https://research.google/pubs/pub44824/)
 
 
 ## Andromeda
 
-Andromeda is the network virtualization environment for Google Cloud Platform (GCP). 
+[Andromeda](https://cloud.google.com/blog/products/gcp/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack) is the [network virtualization environment](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf) for Google Cloud Platform (GCP). 
 
-[https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf)
 
 
 ## Load Balancer Options
