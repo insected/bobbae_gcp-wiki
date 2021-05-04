@@ -29,7 +29,7 @@ Networking is a central part of Kubernetes, but it can be challenging to underst
 3. Pod-to-Service communications
 4. External-to-Service communications
 
-## ClusterIP, Ingress, NodePort, Load Balancer
+## ClusterIP, [Ingress](https://www.youtube.com/watch?v=GhZi4DxaxxE), NodePort, Load Balancer
 
 It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer).
 
