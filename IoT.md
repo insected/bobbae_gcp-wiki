@@ -1,11 +1,6 @@
 
 
-## IoT
-
-
-### Introduction
-
-The Internet of things (IoT) describes the network of physical objects—“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
+The [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) describes the network of physical objects—“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
 
 Learn how to create a Cloud IoT Core device registry and register a device. 
 
