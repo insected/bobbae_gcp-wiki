@@ -42,7 +42,7 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 <img src="https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png" width="600">
 
-A [Kubernetes cluster](https://kubernetes.io/docs/concepts/overview/components/) consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
+A [Kubernetes cluster](https://kubernetes.io/docs/concepts/overview/components/) consists of a set of worker machines, called nodes, that run containerized applications. [Every cluster](https://www.youtube.com/watch?v=Krpb44XR0bk) has at least one worker node.
 
 The worker node(s) host the Pods that are the components of the application workload. The control plane manages the worker nodes and the Pods in the cluster. In production environments, the control plane usually runs across multiple computers and a cluster usually runs multiple nodes, providing fault-tolerance and high availability.
 
@@ -50,7 +50,7 @@ The worker node(s) host the Pods that are the components of the application work
 
 ## API
 
-The core of Kubernetes' control plane is the API server. The API server exposes an HTTP API that lets end users, different parts of your cluster, and external components communicate with one another.
+The core of Kubernetes' control plane is the [API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/) server. The API server exposes an HTTP API that lets end users, different parts of your cluster, and external components communicate with one another.
 
 The Kubernetes API lets you query and manipulate the state of API objects in Kubernetes (for example: Pods, Namespaces, ConfigMaps, and Events).
 
@@ -58,13 +58,13 @@ Most operations can be performed through the kubectl command-line interface or o
 
 Consider using one of the client libraries if you are writing an application using the Kubernetes API.
 
-https://kubernetes.io/docs/concepts/overview/kubernetes-api/
+
 
 ## Objects
 
-A Kubernetes object is a "record of intent"--once you create the object, the Kubernetes system will constantly work to ensure that object exists. By creating an object, you're effectively telling the Kubernetes system what you want your cluster's workload to look like; this is your cluster's desired state.
+A Kubernetes [object](https://kubernetes.io/docs/concepts/overview/working-with-objects/) is a "record of intent"--once you create the object, the Kubernetes system will constantly work to ensure that object exists. By creating an object, you're effectively telling the Kubernetes system what you want your cluster's workload to look like; this is your cluster's desired state.
 
-https://kubernetes.io/docs/concepts/overview/working-with-objects/
+
 
 
 
@@ -72,31 +72,26 @@ https://kubernetes.io/docs/concepts/overview/working-with-objects/
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/5-1.png" width="700">
 
-[Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.
+[Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally [designed by Google](https://www.youtube.com/watch?v=pQ87vVMZK-A)  and is now maintained by the Cloud Native Computing Foundation.
 
-[https://www.youtube.com/watch?v=pQ87vVMZK-A](https://www.youtube.com/watch?v=pQ87vVMZK-A)
-
-[https://www.youtube.com/watch?v=Krpb44XR0bk](https://www.youtube.com/watch?v=Krpb44XR0bk)
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Containers-1.png" width="600">
 
 ## Kubectl
 
-The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/), allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs. For a complete list of kubectl operations, see [Overview of kubectl](https://kubernetes.io/docs/reference/kubectl/overview/).
+The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/), allows you to run commands against Kubernetes clusters. You can use [kubectl](https://www.youtube.com/watch?v=azuwXALfyRg) to deploy applications, inspect and manage cluster resources, and view logs. For a complete list of kubectl operations, see [Overview of kubectl](https://kubernetes.io/docs/reference/kubectl/overview/).
 
-[https://www.youtube.com/watch?v=azuwXALfyRg](https://www.youtube.com/watch?v=azuwXALfyRg)
 
 
 ### Kustomize
 
 <img src="https://miro.medium.com/max/1575/1*qZV6wiQr4yet746qAl-G7A.png" width="600">
 
-[Kustomize](https://kustomize.io/) introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into `kubectl as apply -k`.
-
-[https://www.youtube.com/watch?v=uvH84BviDS4](https://www.youtube.com/watch?v=uvH84BviDS4)
+[Kustomize](https://kustomize.io/) introduces a [template-free way](https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e) to [customize application configuration]((https://www.youtube.com/watch?v=uvH84BviDS4)) that simplifies the use of off-the-shelf applications. Now, built into `kubectl as apply -k`.
 
 
-https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e
+
+
 
 
 ## Kubernetes Details
@@ -151,11 +146,10 @@ There are many [Kubernetes Monitoring](Kubernetes-Monitoring) tools.
 
 ## Binary Authorizations
 
-Binary Authorization is a service on Google Cloud that provides software supply-chain security for container-based applications. Binary Authorization extends Google Kubernetes Engine (GKE) and Anthos clusters on VMware with deploy time enforcement of security policies. On Anthos clusters on VMware, Binary Authorization extends this policy enforcement to hybrid-cloud architectures. Binary Authorization works with container images from Container Registry, Artifact Registry and other container image registries.
+[Binary Authorization](https://cloud.google.com/binary-authorization/docs/overview) is a service on Google Cloud that provides software supply-chain security for container-based applications. Binary Authorization extends Google Kubernetes Engine (GKE) and Anthos clusters on VMware with deploy time enforcement of security policies. On Anthos clusters on VMware, Binary Authorization extends this policy enforcement to hybrid-cloud architectures. Binary Authorization works with container images from Container Registry, Artifact Registry and other container image registries.
 
 With Binary Authorization, you can automatically check each component of your software supply chain, ensuring the quality and integrity of your software before an application is deployed to your production environment.
 
-[https://cloud.google.com/binary-authorization/docs/overview](https://cloud.google.com/binary-authorization/docs/overview)
 
 
 ## Scaling
@@ -164,26 +158,26 @@ With Binary Authorization, you can automatically check each component of your so
 
 ## Federation
 
-Multiple Kubernetes clusters can be managed as a single cluster with the help of federated clusters. So, you can create multiple Kubernetes clusters within a data center/cloud and use federation to control/manage them all at one place.
+[Multiple Kubernetes clusters can be managed as a single cluster](https://github.com/kubernetes-sigs/kubefed) with the help of federated clusters. So, you can create multiple Kubernetes clusters within a data center/cloud and use federation to control/manage them all at one place.
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/30.png" width="600">
 
-https://github.com/kubernetes-sigs/kubefed
+
 
 <img src="https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png" width="600">
 
 ## Kubernetes & AI
 
-https://github.com/CognonicLabs/awesome-AI-kubernetes
+Kubernetes has [awesome](https://github.com/CognonicLabs/awesome-AI-kubernetes) support and integration with AI [Workflows](Workflows) such as [Kubeflow](Kubeflow).
 
 ## Kubernetes & GitOps
 
 
 <img src="https://miro.medium.com/max/1575/1*HFUAAjfQo4ZeJVKPSObgZg.png" width="600">
 
-https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff
+Kubernetes supports various [Workflows](Workflows) for [DevOps](DevOps) as discussed [here](https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff).
 
-https://itnext.io/continuous-gitops-the-way-to-do-devops-in-kubernetes-896b0ea1d0fb
+It is possible to support [GitOps CICD](https://itnext.io/continuous-gitops-the-way-to-do-devops-in-kubernetes-896b0ea1d0fb) in Kubernetes.
 
 ## Qwiklabs
 
