@@ -58,6 +58,8 @@ Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked r
 
 This [github repository](https://github.com/isb-cgc/RunningWorkflows-on-the-GoogleCloud) is  for the running workflows on the Google Cloud Platform for the ISB-CGC.  The documentation at http://isb-cancer-genomics-cloud.readthedocs.org.
 
+This [Google genomics github account](https://github.com/googlegenomics) contains code samples and information about Google Life Sciences.
+
 
 ### Qwiklabs
 
