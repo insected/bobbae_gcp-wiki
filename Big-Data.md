@@ -19,9 +19,25 @@ The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data
 
 ## Hadoop 
 
-[Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) is a [collection of open-source software utilities](https://techvidvan.com/tutorials/apache-hadoop-tutorials/) that facilitates using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the [MapReduce](https://research.google/pubs/pub62/) programming model. Hadoop was originally designed for computer clusters built from commodity hardware, which is still the common use.  [Some](https://www.teradata.com/Blogs/Why-Hadoop-Failed-and-Where-We-Go-from-Here) [claim](https://www.datanami.com/2017/03/13/hadoop-failed-us-tech-experts-say/)  Hadoop has [some](https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/) [issues](https://towardsdatascience.com/what-happened-to-hadoop-what-should-you-do-now-2876f68dbd1d).  There have been [many deprecated](https://www.zdnet.com/article/apache-software-foundation-retires-slew-of-hadoop-related-projects) and [retired](https://en.wikipedia.org/wiki/Apache_Attic) projects among a [very large list of projects](https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) and [incubator projects](http://incubator.apache.org/projects/).
+[Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) is a [collection of open-source software utilities](https://techvidvan.com/tutorials/apache-hadoop-tutorials/) that facilitates using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the [MapReduce](https://research.google/pubs/pub62/) programming model. Hadoop was originally designed for computer clusters built from commodity hardware, which is still the common use.  
 
-[Dataproc](Dataproc) is a Google managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that scales.
+The main Hadoop components are:
+
+* HDFS, a unit for storing big data across multiple nodes in a distributed fashion based on a master-slave architecture.
+* NameNode, the master daemon that maintains and manages the DataNodes (slave nodes), recording the metadata of all the files stored in the cluster and every change performed on the file system metadata.
+* DataNodes, the slave daemons running on each slave machine that store the actual data, serve read and write requests from clients and manage data blocks.
+* YARN, which performs all processing activities by allocating resources and scheduling tasks through two major daemons – ResourceManager and NodeManager.
+* ResourceManager, a cluster-level component running on top of YARN for managing resources and scheduling applications.
+* NodeManager, a node-level component running on each slave machine for managing containers, monitoring resource utilization in each container, node health and log management.
+* MapReduce, which performs all the necessary computations and data processing across the Hadoop cluster.
+
+[Dataproc](Dataproc) is a Google managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that [scales](https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/scaling-clusters).
+
+[Some](https://www.teradata.com/Blogs/Why-Hadoop-Failed-and-Where-We-Go-from-Here) [claim](https://www.datanami.com/2017/03/13/hadoop-failed-us-tech-experts-say/)  Hadoop has [some](https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/) [issues](https://towardsdatascience.com/what-happened-to-hadoop-what-should-you-do-now-2876f68dbd1d) and [limitations](https://medium.com/@bharvi.vyas123/6-major-hadoop-limitations-with-their-solutions-1cae1d3936e1).  
+
+There have been [many deprecated](https://www.zdnet.com/article/apache-software-foundation-retires-slew-of-hadoop-related-projects) and [retired](https://en.wikipedia.org/wiki/Apache_Attic) projects among a [very large list of projects](https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) and [incubator projects](http://incubator.apache.org/projects/).
+
+
 
 ## Spark
 
@@ -31,9 +47,17 @@ Apache Spark has its architectural foundation in the resilient distributed datas
 
 The Dataframe API was released as an abstraction on top of the RDD, followed by the Dataset API.
 
-Spark and its RDDs were developed in 2012 in response to [limitations](https://www.google.com/amp/s/data-flair.training/blogs/13-limitations-of-hadoop/amp/) in the [MapReduce](https://en.m.wikipedia.org/wiki/MapReduce) cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs: MapReduce programs read input data from disk, map a function across the data, reduce the results of the map, and store reduction results on disk. 
+Spark and its RDDs were developed in 2012 in response to [limitations](https://www.google.com/amp/s/data-flair.training/blogs/13-limitations-of-hadoop/amp/) in the [MapReduce](https://en.m.wikipedia.org/wiki/MapReduce) cluster computing paradigm, which forces a particular linear dataflow structure on distributed programs: MapReduce programs read input data from disk, map a function across the data, reduce the results of the map, and store reduction results on disk.  Hadoop and Spark are [different platforms](https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html), each implementing various technologies that can work separately and together.
 
 Spark's RDDs function as a working set for distributed programs that offers a (deliberately) restricted form of distributed shared memory.
+
+The main Spark components are: 
+
+* Spark Core, the base engine for large-scale parallel and distributed data processing, responsible for memory management and fault recovery, scheduling, distributing and monitoring jobs on a cluster and interacting with storage systems.
+* Spark Streaming for processing real-time streaming data, enabling high-throughput and fault-tolerant stream processing of live data streams.
+* Spark SQL for integrating relational processing with the functional programming API.
+* GraphX, an API for graphs and graph-parallel computation.
+* MLlib, a machine learning library for performing machine learning.
 
 ## Perspectives on Big Data
 
