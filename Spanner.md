@@ -6,7 +6,7 @@
 
 
 
-## Spanner in a minute
+
 
 [Cloud Spanner](https://www.youtube.com/watch?v=IfsTINNCooY) can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale. 
 
