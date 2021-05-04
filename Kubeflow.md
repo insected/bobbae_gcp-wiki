@@ -56,3 +56,13 @@ https://github.com/kubeflow/examples
 ## MLOps
 
 [MLOps](MLOps) is the process of taking an experimental [Machine Learning](Machine-Learning) model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
+
+
+## Pachyderm
+
+[Pachyderm](https://www.pachyderm.com/) is a data science platform that combines Data Lineage with End-to-End Pipelines on Kubernetes, engineered for the enterprise.  [Other similar tools](https://neptune.ai/blog/the-best-pachyderm-alternatives) also exist to control an end-to-end machine learning life cycle.
+
+## DVC
+
+[DVC](https://dvc.org/) is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
+
