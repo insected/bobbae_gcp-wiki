@@ -1,10 +1,8 @@
 
-## Healthcare and Life Sciences
-
 
 ### Cloud Healthcare API
 
-The Cloud Healthcare API provides industry-standard protocols and formats for ingesting, storing, analyzing, and integrating healthcare data with cloud-based applications.
+The [Cloud Healthcare API](https://cloud.google.com/healthcare/docs) provides industry-standard protocols and formats for ingesting, storing, analyzing, and integrating healthcare data with cloud-based applications.
 
 The API supports the following applications:
 
@@ -22,21 +20,20 @@ For many applications, the Cloud Healthcare API can provide a cloud-based altern
 *   Fast Healthcare Interoperability Resources (FHIR) DSTU2, STU3, and R4 standards
 *   Health Level Seven Version 2.x (HL7v2)
 
-The Cloud Healthcare API simplifies data integration with existing systems and allows developers to focus on differentiating features, such as UX and intelligence.
+The [Cloud Healthcare API](https://www.youtube.com/watch?v=Y-yvlt5mVXk) simplifies data integration with existing systems and allows developers to focus on differentiating features, such as UX and intelligence.
 
-[https://cloud.google.com/healthcare/docs](https://cloud.google.com/healthcare/docs)
 
-There is no shortage of opportunities for clinical decision support and cognitive assistance in healthcare. 
+There is no shortage of [opportunities](https://www.youtube.com/watch?v=P54bm_TNnqQ) for [clinical decision support and cognitive assistance](https://www.youtube.com/watch?v=DH-JC9DfYdI) in healthcare. 
 
-[https://www.youtube.com/watch?v=DH-JC9DfYdI](https://www.youtube.com/watch?v=DH-JC9DfYdI)
 
 
 ### Cloud Life Sciences
 
-[Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
+[Cloud Life Sciences](https://cloud.google.com/life-sciences) is [a suite of services](https://www.youtube.com/watch?v=n0dhKfuhbVM) and tools for [managing, processing, and transforming life sciences](https://www.youtube.com/watch?v=Uz93mfqQvYA) data. It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E) and operational workflows using highly scalable and compliant infrastructure. [Cloud Life Sciences](https://www.youtube.com/watch?v=M_G_1SWVHgw) includes features such as the [Cloud Life Sciences API](https://www.youtube.com/watch?v=vQeh0l9lnfk) and extract-transform-load (ETL) [tools](https://www.youtube.com/watch?v=B8RABR19n8Y), and [more](https://www.youtube.com/watch?v=BAAZNH-Wa6A).
 
-[https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
+### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
 
+Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
 
 ### Qwiklabs
 
