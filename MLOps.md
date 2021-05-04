@@ -12,6 +12,20 @@ https://cloud.google.com/solutions/machine-learning/setting-up-an-mlops-environm
 
 Using the Kubeflow configuration interfaces you can specify the ML tools required for your workflow. Then you can deploy the workflow to various clouds.
 
+
+## MLflow
+
+[MLflow](https://mlflow.org/) is a MLOps platform that was born from learning the standards of Big Tech with the focus on creating transferable knowledge, ease of use, modularity and compatibility with popular ML libraries and frameworks. It was designed for a 1 or 1000+ person organisation. 
+
+
+## Neptune
+
+[Neptune](https://neptune.ai/) is a metadata store for MLOps, built for research and production teams that run a lot of experiments. 
+
+It gives you a central place to log, store, display, organize, compare, and query all metadata generated during the machine learning lifecycle
+
+https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
+
 ## AI  Platform  Pipelines 
 
 https://cloud.google.com/ai-platform/pipelines/docs
