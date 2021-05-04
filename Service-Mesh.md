@@ -1,4 +1,4 @@
-# What is [Service Mesh](https://www.nginx.com/blog/what-is-a-service-mesh/)?
+## What is [Service Mesh](https://www.nginx.com/blog/what-is-a-service-mesh/)?
 
 
 Enterprises are increasingly adopting microservices to enable new levels of IT [agility](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html) , scale, and innovation — but a successful microservices implementation is notoriously complicated. As the number of services an organization uses grows, complexity and risk can increase rapidly. Moreover, [microservices](https://microservices.io/) need to be exposed as APIs to enable seamless access for internal groups — or with external partners to increase operational efficiency and speed up development. 
