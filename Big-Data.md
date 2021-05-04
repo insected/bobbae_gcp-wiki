@@ -1,7 +1,11 @@
 
-[Big data](https://en.m.wikipedia.org/wiki/Big_data) is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields (columns) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.
+[Big data](https://en.m.wikipedia.org/wiki/Big_data)  has been used in the industry to provide customer insights for transparent and simpler products, by analyzing and predicting customer behavior through data derived from social media, GPS-enabled devices, and CCTV footage. The Big Data also allows for better customer retention from insurance companies.
 
-[Big data](https://www.guru99.com/bigdata-tutorials.html) was originally associated with three key concepts: volume, variety, and velocity. The analysis of big data presents challenges in sampling, and thus previously allowing for only observations and sampling. Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value.
+[Big data](https://www.guru99.com/bigdata-tutorials.html) was originally associated with three key concepts: volume, variety, and velocity. 
+
+The analysis of big data presents challenges in sampling, and thus previously allowing for only observations and sampling. 
+
+Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value.
 
 Current usage of the term big data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
 
