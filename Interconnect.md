@@ -36,11 +36,17 @@ After you create a VLAN attachment, you need to configure your on-premises route
 
 <img src="https://docs.packetfabric.com/cloud/google/images/google_overview_hosted.svg" width="600">
 
-Partner Interconnect provides connectivity between your on-premises network and your VPC network through a supported [service provider](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/service-providers). A Partner Interconnect connection is useful if your data center is in a physical location that can't reach a Dedicated Interconnect colocation facility or if your data needs don't warrant an entire 10 Gbps connection.
+[Partner Interconnect](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview) provides connectivity between your on-premises network and your VPC network through a supported [service provider](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/service-providers). 
 
-[https://cloud.google.com/network-connectivity/docs/interconnect](https://cloud.google.com/network-connectivity/docs/interconnect)
+A Partner Interconnect connection is useful if your data center is in a physical location that can't reach a Dedicated Interconnect colocation facility or if your data needs don't warrant an entire 10 Gbps connection.
 
-An on-premises router in this context means a Layer 2 (L2) or Layer 3 (L3) device you configure to enable Partner Interconnect.
 
-[https://cloud.google.com/network-connectivity/docs/interconnect/how-to/partner/configuring-onprem-routers](https://cloud.google.com/network-connectivity/docs/interconnect/how-to/partner/configuring-onprem-routers)
 
+An on-premises router in this context means a [Layer 2 (L2) or Layer 3 (L3)](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview#connectivity-type)  [device](https://cloud.google.com/network-connectivity/docs/interconnect/how-to/partner/configuring-onprem-routers) you configure to enable Partner Interconnect.
+
+
+To provision a Partner Interconnect connection with a service provider, you start by connecting your on-premises network to a supported service provider. Work with the service provider to establish connectivity.
+
+Next, you create a VLAN attachment for a Partner Interconnect connection in your Google Cloud project, which generates a unique pairing key that you use to request a connection from your service provider. You also need to provide other information such as the connection location and capacity.
+
+After the service provider configures your VLAN attachment, you activate your connection to start using it. Depending on your connection, either you or your service provider then establishes a Border Gateway Protocol (BGP) session.
