@@ -90,14 +90,11 @@ The answers are not necessarily clear and the discussions can be confusing but y
 [https://www.examtopics.com/exams/google/professional-cloud-architect](https://www.examtopics.com/exams/google/professional-cloud-architect)
 
 
-### External Learning Resources
 
-External resources which are listed below can be used along with this document. 
 
-https://www.guru99.com/best-google-course.html
+## External Learning Resources
 
-[https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb)
-
+External [list](https://www.guru99.com/best-google-course.html) and [resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb) can be used along with this document. 
 
 #### Coursera
 
@@ -120,3 +117,6 @@ Another resource is [Cloud Academy](https://cloudacademy.com/) which has their o
 ## Syllabus
 
 You can review the [Syllabus](Syllabus) and [Schedules](Schedules).
+
+
+
