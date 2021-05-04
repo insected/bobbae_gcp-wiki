@@ -15,13 +15,13 @@ https://jupyter.org/
 
 There are several ways to run Jupyter notebooks in GCP.
 
-# AI Platform  Jupyter Notebooks 
+## AI Platform  Jupyter Notebooks 
 
 [AI Platform](AI-Platform) supports Jupyter Notebooks.
 
 https://cloud.google.com/ai-platform-notebooks
 
-# [Datalab](Datalab) Jupyter Notebooks 
+## [Datalab](Datalab) Jupyter Notebooks 
 
 [Datalab](Datalab) also supports Jupyter Notebooks.
 
@@ -44,24 +44,24 @@ https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
 [https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
 
 
-# [Colab](Colab) Jupyter Notebooks 
+## [Colab](Colab) Jupyter Notebooks 
 
 Colaboratory, or [Colab](Colab) for short, is a Google Research product, which supports Jupyter Notebooks.
 
-# Dataproc Jupyter Notebooks
+## Dataproc Jupyter Notebooks
 
 [Dataproc](Dataproc) supports Jupyter Notebooks as well.
 
 https://cloud.google.com/dataproc/docs/concepts/components/jupyter
 
 
-# Tutorial: Spawning Jupyter notebook servers on Google Kubernetes Engine
+## Tutorial: Spawning Jupyter notebook servers on Google Kubernetes Engine
 
 https://cloud.google.com/architecture/spawning-notebook-servers-on-gke-tutorial
 
 [[https://cloud.google.com/architecture/images/spawning-notebook-servers-on-gke-tutorial-architecture.svg]]
 
-# Create Jupyter Classroom environment with Google Container Engine
+## Create Jupyter Classroom environment with Google Container Engine
 
 https://github.com/GoogleCloudPlatform/gke-jupyter-classroom
 
@@ -69,7 +69,7 @@ https://github.com/GoogleCloudPlatform/gke-jupyter-classroom
 
 https://cloud.google.com/docs/tutorials#tensorflow+jupyter
 
-# JupyterHub
+## JupyterHub
 
 With JupyterHub you can create a multi-user Hub which spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
 JupyterHub allows users to interact with a computing environment through a webpage. As most devices have access to a web browser, JupyterHub makes it is easy to provide and standardize the computing environment for a group of people (e.g., for a class of students or an analytics team).
