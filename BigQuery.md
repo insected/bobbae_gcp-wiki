@@ -25,22 +25,6 @@ Learn [how to load](https://www.youtube.com/watch?v=Abzj-Vyhi74) CSV data in bat
 
 
 
-
-
-
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/BQ_Explained_3.max-500x500.jpg" width="500">
-
-
-
-
-
-
-
-
-
-
-
-
 Most experienced data analysts and programmers already have the skills to get started. [BigQuery](https://www.youtube.com/watch?v=ZVgt1-LfWW4) is [fully managed](https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1) and lets you search through terabytes of data in seconds. It’s also cost effective: you can store gigabytes, terabytes, or even [petabytes of data](https://www.youtube.com/watch?v=qqbYrQGSibQ).
 
 
