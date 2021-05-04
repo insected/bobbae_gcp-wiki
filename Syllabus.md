@@ -3,24 +3,25 @@
 This is a  course on GCP Infrastructure and services in general.  Trainees are expected to complete as much  of the material presented here during the eight week course. Example schedules for different types of GCP classes are provided.  
 
 
-# Course Objectives
+## Course Objectives
 
 Upon completion the successful trainees will have taken and passed GCP Professional Cloud Architect certification exams or similar certificate exams in the appropriate study domains and pursue further studies in practice. The material here is intended to help the trainees to be productive  in their relevant fields as they continue to learn and improve GCP related skills.
 
 
-# Course Outline
+## Course Outline
 
 Besides the outlines of content that follow, the trainees are also given external resources such as Udemy, Coursera, [A Cloud Guru](https://acloudguru.com/) or Cloud Academy learning paths to be completed in parallel. For example, Coursera has [some GCP classes](https://www.coursera.org/courses?query=gcp).
 
 The materials in this document are intended to cover a wide spectrum of areas of GCP.  You need to cover the breadth of what GCP offers but you also need to figure out which area you want to study in more detail. You will discover on your own the specific areas that are suited for you.  
 
+There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions.
 
-## Group Project
+### Group Project
 
 If you are working as a group you can do a group project.
   The project will be conceived, designed, and implemented by the team consisting of the trainees.  We can present the work as part of the final completion requirement. The trainees are encouraged to advocate for themselves, proactively reaching out to other members of the  community.  
 
- We should communicate effectively to learn the needs of various practice teams and also administrative requirements  to come up with possible project ideas.  Coming up with project ideas is part of the project itself.  We can confirm the validity of our ideas by proposing specific remedies in the specific areas of concern. The project contents such as code, documentation and presentation materials should be placed into a git repository and google drive.  Github or gitlab repository can be used to contain all code, data, documentation, tests, videos of presentations and others.  They can also be made available via google drive for the people who have no github account.
+We should communicate effectively to learn the needs of various practice teams and also administrative requirements  to come up with possible project ideas.  Coming up with project ideas is part of the project itself.  We can confirm the validity of our ideas by proposing specific remedies in the specific areas of concern. The project contents such as code, documentation and presentation materials should be placed into a git repository and google drive.  Github or gitlab repository can be used to contain all code, data, documentation, tests, videos of presentations and others.  They can also be made available via google drive for the people who have no github account.
 
 You may review some project ideas from various sources. 
 
@@ -53,7 +54,7 @@ You may not have enough time to go through every video and Qwiklabs sessions.  Y
 
 We will discuss the topics to be covered per day as we make progress during our daily meetings. 
 
-# Example [Schedules](Schedules)
+## Example [Schedules](Schedules)
 
 
 [Here](Schedules) are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
