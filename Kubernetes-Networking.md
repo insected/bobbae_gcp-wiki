@@ -13,7 +13,7 @@ Note: For those platforms that support Pods running in the host network (e.g. Li
 
 This model is not only less complex overall, but it is principally compatible with the desire for Kubernetes to enable low-friction porting of apps from VMs to containers. If your job previously ran in a VM, your VM had an IP and could talk to other VMs in your project. This is the same basic model.
 
-Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their network namespaces - including their IP address and MAC address. This means that containers within a Pod can all reach each other's ports on localhost. This also means that containers within a Pod must coordinate port usage, but this is no different from processes in a VM. This is called the "IP-per-pod" model.
+Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their [network namespaces](https://www.youtube.com/watch?v=j_UUnlVC2Ss) - including their IP address and MAC address. This means that containers within a Pod can all reach each other's ports on localhost. This also means that containers within a Pod must coordinate port usage, but this is no different from processes in a VM. This is called the "IP-per-pod" model.
 
 ## Cluster Networking
 
@@ -72,7 +72,7 @@ https://kubernetes.io/docs/concepts/services-networking/service-topology/
 
 ## CNI
 
-CNI (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux containers, along with a number of supported plugins. CNI concerns itself only with network connectivity of containers and removing allocated resources when the container is deleted. Because of this focus, CNI has a wide range of support and the specification is simple to implement.
+[CNI](https://www.youtube.com/watch?v=l2BS_kuQxBA) (Container Network Interface), a Cloud Native Computing Foundation project, consists of a specification and libraries for writing plugins to configure network interfaces in Linux containers, along with a number of supported plugins. CNI concerns itself only with network connectivity of containers and removing allocated resources when the container is deleted. Because of this focus, CNI has a wide range of support and the specification is simple to implement.
 
 https://github.com/containernetworking/cni
 
