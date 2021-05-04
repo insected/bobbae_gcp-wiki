@@ -46,4 +46,4 @@ By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-o
 There's now [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
 
 
-Did Google unintentionally send the industry  [on a 10 year head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
+Did Google unintentionally send the industry  [on a  head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
