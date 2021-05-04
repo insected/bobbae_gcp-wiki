@@ -5,6 +5,8 @@
 
 Current usage of the term big data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Big_Data.png" width="500">
+
 The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s.
 
 Based on an IDC report prediction, the global data volume was predicted to grow exponentially from 4.4 [zettabytes](https://en.m.wikipedia.org/wiki/Byte#Multiple-byte_units) to 44 zettabytes between 2013 and 2020. By 2025, IDC predicts there will be 163 zettabytes of data.
