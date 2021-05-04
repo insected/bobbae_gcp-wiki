@@ -43,7 +43,7 @@ Six years later in 2012, Hadoop 1.0 became available.
 
 By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-of-an-era/).
 
-There's [BigQuery](BigQuery) and [Spanner](Spanner). There's a[Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
+There's now [BigQuery](BigQuery) and [Spanner](Spanner). There's a[Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
 
 
 Did Google unintentionally send the industry  [on a 10 year head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
