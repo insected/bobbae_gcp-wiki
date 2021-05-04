@@ -13,7 +13,7 @@ Based on an IDC report prediction, the global data volume was predicted to grow 
 
 ## Hadoop 
 
-[Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) is a collection of open-source software utilities that facilitates using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model. Hadoop was originally designed for computer clusters built from commodity hardware, which is still the common use. 
+[Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) is a [collection of open-source software utilities](https://techvidvan.com/tutorials/apache-hadoop-tutorials/) that facilitates using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the [MapReduce](https://research.google/pubs/pub62/) programming model. Hadoop was originally designed for computer clusters built from commodity hardware, which is still the common use.  [Some](https://www.teradata.com/Blogs/Why-Hadoop-Failed-and-Where-We-Go-from-Here) [claim](https://www.datanami.com/2017/03/13/hadoop-failed-us-tech-experts-say/)  Hadoop has [some](https://www.singlestore.com/blog/hadoop-the-chronicle-of-an-expected-decline/) [issues](https://towardsdatascience.com/what-happened-to-hadoop-what-should-you-do-now-2876f68dbd1d).  There have been [many deprecated projects](https://www.zdnet.com/article/apache-software-foundation-retires-slew-of-hadoop-related-projects) among a [very large list of projects](https://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects). 
 
 [Dataproc](Dataproc) is a Google managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that scales.
 
@@ -46,4 +46,4 @@ By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-o
 There's now [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
 
 
-Did Google unintentionally send the industry  [on a  head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
+Did Google unintentionally send the industry  [on a more than a decade long head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
