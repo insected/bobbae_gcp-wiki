@@ -15,7 +15,7 @@ Based on an IDC report prediction, the global data volume was predicted to grow 
 
 [Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) is a collection of open-source software utilities that facilitates using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model. Hadoop was originally designed for computer clusters built from commodity hardware, which is still the common use. 
 
- 
+[Dataproc](Dataproc) is a Google managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that scales.
 
 ## Spark
 
