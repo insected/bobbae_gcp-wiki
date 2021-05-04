@@ -1,8 +1,7 @@
-# Kustomize
+
 
 [Kustomize](https://kustomize.io/) introduces a template-free way to customize application configuration that simplifies the use of off-the-shelf applications. Now, built into kubectl as apply -k.
 
-## Introduction
 
 Kustomize provides a solution for customizing Kubernetes resource configuration free from templates and DSLs.
 
