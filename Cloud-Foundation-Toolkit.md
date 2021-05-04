@@ -18,11 +18,11 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 
 ### Google Cloud Deployment Manager
 
-[Cloud Deployment Manager](Cloud-Deployment-Manager)
+[Cloud Deployment Manager](Cloud-Deployment-Manager) is supported in CFT.
 
 ### Terraform
 
-[Terraform](Terraform)
+[Terraform](Terraform) is supported in CFT.
 
 ### Cloud Foundation Toolkit templates
 
