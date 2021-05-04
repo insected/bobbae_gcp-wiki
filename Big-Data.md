@@ -15,7 +15,7 @@ Based on an IDC report prediction, the global data volume was predicted to grow 
 
 The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data-3fb14d5351ba) to a dataset which is too large or too complex for ordinary computing devices to process. As such, it is relative to the available computing power on the market. If you look at recent history of data, then in 1999 we had a total of 1.5 exabytes of data and 1 gigabyte was considered big data. Already in 2006, total data was estimated at 160 exabytes level — 1000% more in 7 years. In our Zettabyte Era 1 gigabyte is no longer big data really, and it makes sense to talk about big data starting with at least 1 terabyte. If we were to put that in more mathematical terms, then it seems natural to talk about Big Data with regard to datasets which exceed total data created in the world divided by 1000³.
 
-[Often](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html) the data you may use isn't [really that big](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/).
+[Often](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html) the data you may use isn't [really that big](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/) or do not need to be that [big](https://hbr.org/2013/12/you-may-not-need-big-data-after-all).
 
 [Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data.
 
