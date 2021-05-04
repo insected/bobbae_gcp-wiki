@@ -109,25 +109,24 @@ https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monito
 https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/
 
 
-# Kubernetes URLs
-
-[https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 
-# Resource Limits
+
+
+## Resource Limits
 
 When you specify a Pod, you can optionally specify how much of each resource a Container needs. The most common resources to specify are CPU and memory (RAM); there are others.
 
 When you specify the resource request for Containers in a Pod, the scheduler uses this information to decide which node to place the Pod on. When you specify a resource limit for a Container, the kubelet enforces those limits so that the running container is not allowed to use more of that resource than the limit you set. The kubelet also reserves at least the request amount of that system resource specifically for that container to use.
 
-# Requests and limits 
+## Requests and limits 
 
 If the node where a Pod is running has enough of a resource available, it's possible (and allowed) for a container to use more resource than its request for that resource specifies. However, a container is not allowed to use more than its resource limit.
 
 [https://www.youtube.com/watch?v=xjpHggHKm78&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB&index=4](https://www.youtube.com/watch?v=xjpHggHKm78&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB&index=4)
 
 
-# RBAC
+## RBAC
 
 Role-based access control (RBAC) is a method of regulating access to computer or network resources based on the roles of individual users within your organization.
 
@@ -136,7 +135,7 @@ RBAC authorization uses the rbac.authorization.k8s.io API group to drive authori
 [https://www.youtube.com/watch?v=4HMRFcg6nEY](https://www.youtube.com/watch?v=4HMRFcg6nEY)
 
 
-### Deployment & Service
+## Deployment & Service
 
 A Deployment provides declarative updates for Pods and ReplicaSets.
 
@@ -150,7 +149,7 @@ With Kubernetes you don't need to modify your application to use an unfamiliar s
 
 https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
-# Configmaps & Secrets
+## Configmaps & Secrets
 
 A ConfigMap is an API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
 
@@ -163,7 +162,7 @@ A Secret is an object that contains a small amount of sensitive data such as a p
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
 
-# Stateful Sets
+## Stateful Sets
 
 StatefulSet is the workload API object used to manage stateful applications.
 
@@ -172,14 +171,14 @@ Manages the deployment and scaling of a set of Pods, and provides guarantees abo
 [https://www.youtube.com/watch?v=pPQKAR1pA9U](https://www.youtube.com/watch?v=pPQKAR1pA9U)
 
 
-# DaemonSet
+## DaemonSet
 
 A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
 
 [https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
 
-# CRD
+## CRD
 
 
 CRD stands for  Custom Resource Definition.
@@ -205,7 +204,7 @@ https://book.kubebuilder.io/quick-start.html
 https://github.com/kubernetes-sigs/kubebuilder
 
 
-# Operator Pattern
+## Operator Pattern
 
 <img src="https://blog.container-solutions.com/hs-fs/hubfs/kubernetes_operators_diagram2.png?width=1875&name=kubernetes_operators_diagram2.png" width="600">
 
@@ -250,17 +249,20 @@ https://cert-manager.io/docs/installation/kubernetes/
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
-# Operator Hub
+## Operator Hub
 
 [https://operatorhub.io/](https://operatorhub.io/)
 
-# Add-ons
+## Add-ons
 
 Add-ons extend the functionality of Kubernetes.
 
 https://kubernetes.io/docs/concepts/cluster-administration/addons/
 
-# Operator Sprawl
+## Operator Sprawl
 
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
 
+## Awesome links
+
+[https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
