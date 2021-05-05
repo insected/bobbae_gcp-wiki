@@ -18,7 +18,7 @@ In the [Big Data Chronicles](https://datafloq.com/read/big-data-history/239) and
 
 ## Compute Engine Storage options
 
-Compute Engine offers several types of storage options for your instances. Each of the following storage options has unique price and performance characteristics:
+Compute Engine offers several types of [storage options](https://cloud.google.com/products/storage) for your instances. Each of the following storage options has unique price and performance characteristics:
 
 
 
@@ -28,12 +28,13 @@ Compute Engine offers several types of storage options for your instances. Each 
 *   [Cloud Storage buckets](https://cloud.google.com/compute/docs/disks#gcsbuckets): Affordable object storage.
 *   [Filestore](https://cloud.google.com/filestore/docs/mounting-fileshares): High performance file storage for Google Cloud users.
 
-[https://cloud.google.com/products/storage](https://cloud.google.com/products/storage)
+
 
 
 ## Compute Engine Disk Options
 
-Discuss how traditional [storage models compare to the cloud](https://cloud.google.com/compute/docs/disks) counterparts. 
+Block storage resources have different performance characteristics. Consider your [storage size and performance requirements](https://cloud.google.com/compute/docs/disks) to help you determine the correct block storage type for your instances.
+
 
 
 ## Compute Engine Storage products
@@ -42,6 +43,7 @@ Overview and comparison of [various Storage services and products](https://cloud
 
 Companies have a [wide range of options to choose from when storing data and selecting a database](https://www.youtube.com/watch?v=HuhTkfautDA) in the cloud. Listen to an overview of data storage options, discuss why you would choose one over the other.
 
+Discuss how traditional [storage models compare to the cloud](https://cloud.google.com/compute/docs/disks) counterparts. 
 
 
 ## Cloud Storage
@@ -79,14 +81,13 @@ You can create and manage [Filestore](https://cloud.google.com/filestore/docs) i
 
 ## Backups
 
-[https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups](https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups)
+[Filestore Backups](https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups)  eases migration of file-based apps to cloud
 
 
 ## Cloud Storage Connector
 
-The [Cloud Storage](https://cloud.google.com/storage) connector is an [open source Java library](https://github.com/GoogleCloudDataproc/hadoop-connectors/tree/master/gcs) that lets you run [Apache Hadoop](https://hadoop.apache.org/) or [Apache Spark](https://spark.apache.org/) jobs directly on data in Cloud Storage, and offers a number of benefits over choosing the Hadoop Distributed File System (HDFS).
+The [Cloud Storage](https://cloud.google.com/storage) [connector](https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage) is an [open source Java library](https://github.com/GoogleCloudDataproc/hadoop-connectors/tree/master/gcs) that lets you run [Apache Hadoop](https://hadoop.apache.org/) or [Apache Spark](https://spark.apache.org/) jobs directly on data in Cloud Storage, and offers a number of benefits over choosing the Hadoop Distributed File System (HDFS).
 
-[https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage](https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage)
 
 ## Cloud Storage FUSE
 
