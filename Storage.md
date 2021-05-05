@@ -68,7 +68,9 @@ The [storage class](https://cloud.google.com/storage/docs/storage-classes) you s
 Reliable, high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances.
 
 
+## [Local SSD](https://cloud.google.com/local-ssd)
 
+Local SSDs are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
 
 ## Filestore
 
