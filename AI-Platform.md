@@ -2,9 +2,9 @@
 
 <img src="https://cloud.google.com/ai-platform/images/ml-workflow.svg" width="600">
 
-AI Platform makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively. From data engineering to "no lock- in" flexibility, AI Platform's integrated tool chain helps you build and run your own machine learning applications.
+[AI Platform](https://cloud.google.com/ai-platform/docs) makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively. From data engineering to "no lock- in" flexibility, AI Platform's integrated tool chain helps you build and run your own machine learning applications.
 
-[https://cloud.google.com/ai-platform/docs](https://cloud.google.com/ai-platform/docs)
+[https://cloud.google.com/ai-platform/docs]()
 
 <img src="https://miro.medium.com/max/1575/1*eF7n2JCVmwb1mRD49UMaYg.png" width="600">
 
@@ -21,7 +21,7 @@ Deep Learning VM images are Debian 9- and Debian 10-based Compute Engine virtual
 
 
 
-AI Platform Notebooks makes it easy to manage JupyterLab instances through a protected, publicly available notebook instance URL. A JupyterLab instance is a [Deep Learning virtual machine](https://cloud.google.com/ai-platform/deep-learning-vm/docs) instance with the latest machine learning and data science libraries pre-installed.
+[AI](AI) Platform Notebooks makes it easy to manage JupyterLab instances through a protected, publicly available notebook instance URL. A JupyterLab instance is a [Deep Learning virtual machine](https://cloud.google.com/ai-platform/deep-learning-vm/docs) instance with the latest machine learning and data science libraries pre-installed.
 
 [https://cloud.google.com/ai-platform/notebooks/docs](https://cloud.google.com/ai-platform/notebooks/docs)
 
