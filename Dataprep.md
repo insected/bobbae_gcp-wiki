@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Cloud Dataprep by Trifacta is an intelligent data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis, reporting, and machine learning. Because Cloud Dataprep is serverless and works at any scale, there is no infrastructure to deploy or manage. 
+[Cloud Dataprep](https://cloud.google.com/dataprep) by [Trifacta](https://www.trifacta.com/) is an intelligent data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis, reporting, and machine learning. Because Cloud Dataprep is serverless and works at any scale, there is no infrastructure to deploy or manage. 
 
-[https://cloud.google.com/dataprep](https://cloud.google.com/dataprep)
+
 
 Use Cloud Dataprep to explore and transform raw data from disparate and/or large datasets into clean and structured data for further analysis and processing.
 
