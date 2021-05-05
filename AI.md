@@ -10,7 +10,7 @@ General AI is very different, and is the type of adaptable intellect found in hu
 
 ## Google  AI
 
-[Google AI](https://ai.google/) is making it easier for people to do things every day, whether it’s searching for photos of loved ones, breaking down language barriers in [Google Translate](https://translate.google.com/), typing emails on the go, or getting things done with the [Google Assistant](https://assistant.google.com/). AI also provides new ways of looking at existing problems, from rethinking healthcare to advancing scientific discovery. Google [AI Hub](AI-Hub) and [AI Platform](AI-Platform) provides useful services to Google Cloud Platform users.
+[Google AI](https://ai.google/) is making it easier for people to do things every day, whether it’s searching for photos of loved ones, breaking down language barriers in [Google Translate](https://translate.google.com/), typing emails on the go, or getting things done with the [Google Assistant](https://assistant.google.com/). AI also provides new ways of looking at existing problems, from rethinking healthcare to advancing scientific discovery. Google [AI Hub](AI-Hub) and [AI Platform](AI-Platform) provide useful services to Google Cloud Platform users.
 
 ## AI Winter  & Resurgence 
 
