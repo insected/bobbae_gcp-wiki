@@ -16,9 +16,11 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 
 [https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
 
+## Deep dive
+
 [https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
 
-How does a load balancer decide where to send requests?
+## How does a load balancer decide where to send requests?
 
 * Round robin: The load balancer distributes connection requests to a pool of servers in a repeating loop, regardless of relative load or capacity. Server A, server B, server C, server A, server B, etc. 
 * Weighted round robin: This is like the standard round robin, except for the fact that certain back end servers can be assigned to a higher priority, receiving disproportionally more traffic/requests. Server A, server A, server B, server C, server A, server A, server B, server C, etc. 
