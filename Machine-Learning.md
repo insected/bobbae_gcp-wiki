@@ -3,7 +3,7 @@ Machine learning is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)  focuses on the development of computer programs that can access data and use it to learn for themselves.
 
-What is [Machine Learning](https://www.google.com/amp/s/www.mygreatlearning.com/blog/machine-learning-tutorial/%3famp)?
+What is [Machine Learning](https://www.mygreatlearning.com/blog/machine-learning-tutorial/)?
 
 [https://www.youtube.com/watch?v=HcqpanDadyQ](https://www.youtube.com/watch?v=HcqpanDadyQ)
 
