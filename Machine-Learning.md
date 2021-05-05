@@ -1,5 +1,5 @@
 
-Machine learning is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
+Machine learning is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)  focuses on the development of computer programs that can access data and use it to learn for themselves.
 
