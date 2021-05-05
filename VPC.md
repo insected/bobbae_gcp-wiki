@@ -23,7 +23,9 @@ Google Cloud Virtual Private Cloud (VPC) Network Peering allows private connecti
 
 [VPC networks](https://cloud.google.com/vpc/docs/advanced-vpc) use Linux's [VIRTIO network module](http://dl.acm.org/citation.cfm?id=1400097.1400108) to model Ethernet card and router functionality, but higher levels of the networking stack, such as ARP lookups, are handled using standard networking software.
 
+A Virtual Private Cloud (VPC) network is a virtual version of a physical network, [implemented inside of Google's production network, using Andromeda](https://cloud.google.com/vpc/docs/vpc).
 
+Cloud Platform firewalls, routing, and forwarding rules all leverage the underlying internal [Andromeda]( https://cloud.google.com/blog/products/gcp/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack) APIs and infrastructure.
 
 
 ## Shared VPC and VPC Peering
