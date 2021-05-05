@@ -74,7 +74,7 @@ https://www.journaldev.com/370/java-programming-interview-questions
 
 ## go
 
-https://www.google.com/amp/s/career.guru99.com/top-20-go-programming-interview-questions/amp/
+https://career.guru99.com/top-20-go-programming-interview-questions/
 
 ## rust
 
