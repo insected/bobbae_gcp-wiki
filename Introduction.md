@@ -22,7 +22,7 @@ There are many [GCP related videos in playlists](https://www.youtube.com/channel
 
 #### Regions and Zones
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/gcp_global_presence.max-1600x1600.jpg" width="800">
+<img src="https://lh3.googleusercontent.com/A803aDoV8Jx5SVmpyDMi4QI-dVuUH6s8sTCjzZgNbwgCd_2aMRg8SMUI7QiHhaM608bCdH0GT1qx=e14-rw-lo-sc0xffffff-h1200" width="800">
 
 Google Cloud consists of a set of physical assets, such as computers and hard disk drives, and virtual resources, such as virtual machines (VMs), that are contained in [Google's data centers](https://cloud.withgoogle.com/infrastructure/explore) [around the globe](https://cloud.google.com/about/locations). 
 
