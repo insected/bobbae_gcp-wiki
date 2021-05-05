@@ -9,17 +9,17 @@ The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, f
 
 This will allow your organization to respond in a more agile manner to changing business requirements. The DevOps cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
-## DevSecOps
+## [DevSecOps](https://www.devsecops.org/)
 
-DevOps isn’t just about development and operations teams. If you want to take full advantage of the agility and responsiveness of a DevOps approach, [IT security](https://www.redhat.com/en/topics/security) must also play an integrated role in the full life cycle of your apps.
+DevOps isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](https://www.redhat.com/en/topics/security) must also play an integrated role in the full life cycle of your apps.
 
-https://www.devsecops.org/
+[Practical DevSecOps](https://www.practical-devsecops.com/devsecops-university/) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. 
 
-https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/
+
 
 <img src="https://tech.gsa.gov/assets/img/guides/DevSecOps.png" width="500">
 
-### Security
+### [Security](Security)
 
 Please review some [security topics](Security) from the DevOps point of view.
 
