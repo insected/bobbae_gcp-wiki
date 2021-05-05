@@ -12,13 +12,7 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 
 
 
-## Types of Load Balancing
 
-[https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
-
-## Deep dive
-
-[https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
 
 ## How does a load balancer decide where to send requests?
 
@@ -38,6 +32,13 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 
 [Andromeda](https://cloud.google.com/blog/products/gcp/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack) is the [network virtualization environment](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf) for Google Cloud Platform (GCP). 
 
+## Types of Load Balancing
+
+[https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
+
+## Deep dive
+
+[https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
 
 
 ## Load Balancer Options
