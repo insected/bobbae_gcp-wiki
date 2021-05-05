@@ -5,7 +5,7 @@
 [Cloud Spanner](https://cloud.google.com/spanner)    optimizes performance by automatically sharding the data based on request load and size of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on [scaling your business](https://www.youtube.com/watch?v=bUSU1e9j8wc&list=PLIivdWyY5sqJPSoX2R4mRq_wyg0JTjrAG&index=1).
 
 
-Cloud Spanner is a relational database service that offers transactional consistency at [global scale](https://www.google.com/amp/s/techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/amp/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
+Cloud Spanner is a relational database service that offers transactional consistency at [global scale](https://techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
 
 
@@ -15,7 +15,7 @@ Cloud Spanner is a relational database service that offers transactional consist
 
 
 
-Cloud Spanner is one of [Distributed SQL Databases](https://www.google.com/amp/s/www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
+Cloud Spanner is one of [Distributed SQL Databases](https://www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
 
 In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distributed_SQL) is a single logical database deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
 
@@ -70,7 +70,7 @@ Unlike [Bigtable](Bigtable), Spanner assigns timestamps to data, which is an imp
 
 
 A tablet’s state is stored in set of [B-tree-like](https://en.m.wikipedia.org/wiki/B-tree) files and a write-ahead log, all on a distributed file system called
-[Colossus](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system/amp/)  (the successor to the Google File System).  
+[Colossus](https://cloudblog.withgoogle.com/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)  (the successor to the Google File System).  
 
 To support replication, each spanserver implements a single [Paxos](https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html)   state machine on top of each tablet.
 
