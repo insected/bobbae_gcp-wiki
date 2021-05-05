@@ -1,7 +1,7 @@
 
 
 
-https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s
+
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/70eb42ad287e1b01bdc5edbbe73ce52ab972d14bcced1359c6172dbdb8627d31.svg" width="800">
 
@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wY
 
 [https://cloud.google.com/appengine/docs](https://cloud.google.com/appengine/docs)
 
-Google App Engine makes it easy to focus on your code, not infrastructure.
+[Google App Engine](https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s) makes it easy to focus on your code, not infrastructure.
 
 [https://www.youtube.com/watch?v=2PRciDpqpko](https://www.youtube.com/watch?v=2PRciDpqpko)
 
