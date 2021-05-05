@@ -1,31 +1,33 @@
 
 
-Google Cloud’s serverless platform lets you write code your way without worrying about the underlying infrastructure. Deploy functions or apps as source code or as containers. Build full stack serverless applications with Google Cloud’s storage, databases, machine learning, and more. Easily extend applications with event-driven computing from Google or third-party service integrations. You can even choose to move your serverless workloads to on-premises environments or to the cloud.
+Google Cloud’s [serverless platform](https://www.youtube.com/watch?v=PBw9vD_BO5A) lets you write code your way without worrying about the underlying infrastructure. Deploy functions or apps as source code or as containers. Build full stack serverless applications with Google Cloud’s storage, databases, machine learning, and more. Easily extend applications with event-driven computing from Google or third-party service integrations. You can even choose to move your serverless workloads to on-premises environments or to the cloud.
 
-[https://www.youtube.com/watch?v=PBw9vD_BO5A](https://www.youtube.com/watch?v=PBw9vD_BO5A)
+
 
 
 ### Cloud Run
 
-Cloud Run is a managed compute platform that enables you to run stateless containers that can be invoked via web requests or Pub/Sub events. 
+[Cloud Run](http://cloud.run/) is a managed compute platform that enables you to run stateless containers that can be invoked via web requests or Pub/Sub events. 
 
-[http://cloud.run](http://cloud.run/)
 
-Cloud Run is serverless: it abstracts away all infrastructure management, so you can focus on what matters most — building great applications. It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with Cloud Run for Anthos.
 
-[https://cloud.google.com/run/docs](https://cloud.google.com/run/docs)
+Cloud Run is serverless: it abstracts away all infrastructure management, so you can focus on what matters most — building great applications. 
+
+It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with Cloud Run for Anthos.
+
+
 
 
 #### Quickstart: Build and Deploy
 
-This interactive tutorial can be opened in Cloud Shell editor (theia) and followed step by step.
+This [interactive tutorial](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) can be opened in Cloud Shell editor (theia) and followed step by step.
 
-[https://cloud.google.com/run/docs/quickstarts/build-and-deploy](https://cloud.google.com/run/docs/quickstarts/build-and-deploy)
+
 
 
 #### Use Cases
 
-[https://cloud.google.com/run/#section-6](https://cloud.google.com/run/#section-6)
+
 
 Learn how to deploy serverless containers in 3 environments using Cloud Run and Knative.
 
@@ -38,9 +40,8 @@ A video on migrating kubernetes apps to serverless with Cloud Run on Anthos.
 
 ### App Engine
 
-App Engine is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
+[App Engine](App-Engine) is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
 
-[https://cloud.google.com/appengine/docs](https://cloud.google.com/appengine/docs)
 
 Google App Engine makes it easy to focus on your code, while letting us manage your infrastructure.
 
@@ -51,7 +52,7 @@ Google App Engine makes it easy to focus on your code, while letting us manage y
 
 [Google Cloud Functions](https://cloud.google.com/functions/docs/concepts/overview) is a lightweight compute solution for developers to create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment.
 
-[https://cloud.google.com/functions/docs](https://cloud.google.com/functions/docs)
+
 
 A video tutorial of Cloud Functions that  will show you how to deploy a Cloud Function from a Google Cloud project.  You will learn how to test your function and see your log entries. 
 
@@ -65,7 +66,7 @@ A video tutorial of Cloud Functions that  will show you how to deploy a Cloud Fu
 
 ### Knative
 
-Knative (pronounced kay-nay-tiv) extends [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
+[Knative](https://knative.dev/) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
 
 
 
@@ -83,7 +84,7 @@ Knative consists of the Serving and Eventing components:
 *   [Eventing](https://knative.dev/docs/eventing) - Management and delivery of events
 *   [Serving](https://knative.dev/docs/serving) - Request-driven compute that can scale to zero
 
-[https://knative.dev/](https://knative.dev/)
+
 
 Run managed serverless containers with Knative.
 
@@ -98,9 +99,9 @@ Knative installation is done on top of Kubernetes and uses optional extensions s
 
 ### Workflows
 
-You can use Workflows to create serverless workflows that link a series of serverless tasks together in an order you define. Combine the power of Google Cloud's APIs, serverless products like Cloud Functions and Cloud Run, and calls to external APIs to create flexible serverless applications. Workflows require no infrastructure management and scales seamlessly with demand, including scaling down to zero.
+You can use [Workflows](Workflows) to create serverless workflows that link a series of serverless tasks together in an order you define. Combine the power of Google Cloud's APIs, serverless products like Cloud Functions and Cloud Run, and calls to external APIs to create flexible serverless applications. Workflows require no infrastructure management and scales seamlessly with demand, including scaling down to zero.
 
-[https://cloud.google.com/workflows/docs](https://cloud.google.com/workflows/docs)
+
 
 Build serverless workflows orchestrating various products and API calls within Google Cloud and beyond. 
 
