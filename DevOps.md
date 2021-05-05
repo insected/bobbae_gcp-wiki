@@ -4,7 +4,7 @@
 
 [DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. 
 
-The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, faster and more responsive software by bringing Development and Operations teams together. DevOps is not a methodology or [a suite of tools](https://en.wikipedia.org/wiki/DevOps_toolchain) but a cultural shift to remove the barriers between Dev and Ops in order to meet the need for shorter and more frequent software deliveries.
+The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, faster and more responsive software by bringing Development and Operations teams together. [DevOps](https://devops-research.com/ is not a methodology or [a suite of tools](https://en.wikipedia.org/wiki/DevOps_toolchain) but a cultural shift to remove the barriers between Dev and Ops in order to meet the need for shorter and more frequent software deliveries.
 
 
 This will allow your organization to respond in a more agile manner to changing business requirements. The DevOps cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
@@ -26,7 +26,8 @@ Please review some [security topics](Security) from the DevOps point of view.
 
 ## DevOps Research and Assessment
 
-https://devops-research.com/
+[Google’s DORA team](https://www.devops-research.com/research.html) conducted a six-year research program which validated a number of technical, process, measurement, and cultural capabilities that drive higher software delivery and organizational performance. Explore DORA’s research program and discover these capabilities, how to implement them, and how to overcome common obstacles.
+
 
 ## Hybrid Cloud DevOps
 
