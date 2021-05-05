@@ -15,9 +15,9 @@ General AI is very different, and is the type of adaptable intellect found in hu
 ## AI Winter  & Resurgence 
 
 
-The [beginnings of modern AI](https://www.livescience.com/49007-history-of-artificial-intelligence.html) can be traced to [classical philosophers' attempts to describe human thinking](https://towardsdatascience.com/rise-and-fall-of-symbolic-ai-6b7abd2420f2) as a symbolic system. But the field of AI wasn't formally founded until 1956, at a conference at Dartmouth College.
+The [beginnings of modern AI](https://www.livescience.com/49007-history-of-artificial-intelligence.html) can be traced to [classical philosophers' attempts to describe human thinking](https://towardsdatascience.com/rise-and-fall-of-symbolic-ai-6b7abd2420f2) as a symbolic system. But the field of AI wasn't formally founded until 1956, at a [conference at Dartmouth College](https://en.m.wikipedia.org/wiki/Dartmouth_workshop).
 
-MIT cognitive scientist Marvin Minsky and others who attended the conference were extremely optimistic but 1974–80 [AI Winter](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b) was followed by another winter from 1987 to 1993, coinciding with the collapse of the market for some of the early general-purpose computers, and reduced government funding.
+MIT cognitive scientist Marvin Minsky, [John McCarthy](https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) and others who attended the conference were extremely optimistic but 1974–80 [AI Winter](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b) was followed by another winter from 1987 to 1993, coinciding with the collapse of the market for some of the early general-purpose computers, and reduced government funding.
 
 AI is in resurgence due to Google and [Machine Learning](Machine-Learning). 
  
