@@ -19,9 +19,9 @@ The [beginnings of modern AI](https://www.livescience.com/49007-history-of-artif
 
 MIT cognitive scientist Marvin Minsky, [John McCarthy](https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) and others who attended the conference were extremely optimistic but 1974–80 [AI Winter](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b) was followed by another winter from 1987 to 1993, coinciding with the collapse of the market for some of the early general-purpose computers, and reduced government funding.
 
-AI is in resurgence due to Google and [Machine Learning](Machine-Learning). 
+AI is in resurgence partly due to Google and [Machine Learning](Machine-Learning). 
  
-There's the famous Moore’s Law according to which the number of transistors per integrated circuit doubles every two years. An immediate corollary of this law is the exponential increase of processing power that now benefits AI. 
+Also there's the famous Moore’s Law according to which the number of transistors per integrated circuit doubles every two years. An immediate corollary of this law is the exponential increase of processing power that now benefits AI. 
 
 Another reason is the no-less exponential increase of data and, in particular, labeled data. The market size of data collection and labeling has reached in 2019 a whopping value of 1 billion USD. Experiments on 300 million images  revealed that the accuracy of deep neural nets increases logarithmically with the training set size. Said otherwise, the generalization capabilities of deep neural nets do not seem to have a plateau.
 
