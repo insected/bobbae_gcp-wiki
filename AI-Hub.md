@@ -1,7 +1,7 @@
 
 
 
-[AI Hub](https://aihub.cloud.google.com/u/0/) offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. You can use the AI Hub to:
+[AI Hub](https://aihub.cloud.google.com/u/0/) offers a collection of components for developers and data scientists building [artificial intelligence](AI) (AI) systems. You can use the AI Hub to:
 
 - Find, deploy, and use [Kubeflow](Kubeflow) pipelines and components.
 - Explore code and learn in interactive Jupyter notebooks.
