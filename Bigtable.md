@@ -107,6 +107,8 @@ https://codelabs.developers.google.com/codelabs/cloud-bigtable-intro-java/index.
 
 [https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/)
 
+https://etcnotes.com/posts/sstable-and-lsm/
+
 ## Querying
 
 https://cloud.google.com/bigquery/external-data-bigtable
