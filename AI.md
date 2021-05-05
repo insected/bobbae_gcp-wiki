@@ -28,4 +28,8 @@ Another reason is the no-less exponential increase of data and, in particular, l
 Although discovered in the late 1980’s, it was in 2012, when the team of Geoffrey Hinton won the ImageNet challenge, that the CNNs set the prairie on fire. Since then, CNNs have been the tool of choice for analyzing images of all kinds.
 
 
+## AI Ethics 
 
+The ways in which artificial intelligence is built and deployed will significantly affect society. 
+
+We are living in times when it is paramount that the possibility of harm in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://interestingengineering.com/ethics-of-ai-benefits-and-risks-of-artificial-intelligence-systems)  caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
