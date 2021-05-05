@@ -2,7 +2,7 @@
 
 At a very high level, artificial intelligence can be split into two broad types: narrow AI and general AI.
 
-As mentioned above, narrow AI is what we see all around us in computers today: intelligent systems that have been taught or have learned how to carry out specific tasks without being explicitly programmed how to do so.
+The narrow AI is what we see all around us in computers today: intelligent systems that have been taught or have learned how to carry out specific tasks without being explicitly programmed how to do so.
 
 General AI is very different, and is the type of adaptable intellect found in humans, a flexible form of intelligence capable of learning how to carry out vastly different tasks, anything from haircutting to building spreadsheets, or reasoning about a wide variety of topics based on its accumulated experience. 
 
