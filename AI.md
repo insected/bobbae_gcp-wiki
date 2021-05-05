@@ -25,7 +25,7 @@ Also there's the famous [Moore’s Law](https://en.m.wikipedia.org/wiki/Moore%27
 
 Another reason is the no-less exponential increase of data and, in particular, labeled data. The market size of data collection and labeling has reached in 2019 a whopping value of 1 billion USD. Experiments on 300 million images  revealed that the accuracy of deep neural nets increases logarithmically with the training set size. Said otherwise, the generalization capabilities of deep neural nets do not seem to have a plateau.
 
-Although discovered in the late 1980’s, it was in 2012, when the team of Geoffrey Hinton won the [ImageNet challenge](https://image-net.org/challenges/LSVRC/), that the [Convolutional Neural Networks](https://docs.paperspace.com/machine-learning/wiki/convolutional-neural-network-cnn) set the prairie on fire. Since then, CNNs have been the tool of choice for analyzing images of all kinds.
+Although discovered in the late 1980’s, it was in 2012, when the team of [Geoffrey Hinton](https://en.m.wikipedia.org/wiki/Geoffrey_Hinton) won the [ImageNet challenge](https://image-net.org/challenges/LSVRC/), that the [Convolutional Neural Networks](https://docs.paperspace.com/machine-learning/wiki/convolutional-neural-network-cnn) set the prairie on fire. Since then, CNNs have been the tool of choice for analyzing images of all kinds.
 
 
 ## AI Ethics 
