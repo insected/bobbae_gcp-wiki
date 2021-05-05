@@ -21,7 +21,7 @@ MIT cognitive scientist Marvin Minsky, [John McCarthy](https://en.m.wikipedia.or
 
 AI is in resurgence partly due to Google and [Machine Learning](Machine-Learning). 
  
-Also there's the famous Moore’s Law according to which the number of transistors per integrated circuit doubles every two years. An immediate corollary of this law is the exponential increase of processing power that now benefits AI. 
+Also there's the famous [Moore’s Law](https://en.m.wikipedia.org/wiki/Moore%27s_law) according to which the number of transistors per integrated circuit doubles every two years. An immediate corollary of this law is the exponential increase of processing power that now benefits AI. 
 
 Another reason is the no-less exponential increase of data and, in particular, labeled data. The market size of data collection and labeling has reached in 2019 a whopping value of 1 billion USD. Experiments on 300 million images  revealed that the accuracy of deep neural nets increases logarithmically with the training set size. Said otherwise, the generalization capabilities of deep neural nets do not seem to have a plateau.
 
