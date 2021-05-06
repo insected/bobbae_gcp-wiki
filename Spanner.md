@@ -180,7 +180,7 @@ Discuss [techniques for monitoring Cloud Spanner](https://www.youtube.com/watch?
 The [Cloud Spanner SQL query optimizer](https://cloud.google.com/spanner/docs/query-optimizer/overview) converts a declarative SQL statement, that describes what data the query wants, into an imperative execution plan, that describes one way to precisely obtain that data. The process of transforming a declarative statement into a query execution plan involves performing transformations to tree structures used to represent the query. It is expected that the optimizer, in the process of producing an execution plan, preserves the logical meaning of the original SQL query so that the correct rows are returned.
 
 
-oading data into Cloud Spanner.
+[This page](https://cloud.google.com/spanner/docs/schema-design) describes best practices for designing Cloud Spanner schemas to avoid hotspots and for loading data into Cloud Spanner.
 
 ### Emulator
 
