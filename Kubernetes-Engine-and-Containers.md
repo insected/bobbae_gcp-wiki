@@ -11,7 +11,6 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 [Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally [designed by Google](https://www.youtube.com/watch?v=pQ87vVMZK-A)  and is now maintained by the Cloud Native Computing Foundation.
 
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Containers-1.png" width="600">
 
 Kubernetes objects can quickly be created, updated, and deleted directly using imperative commands built into the kubectl command-line tool. 
 
@@ -21,7 +20,6 @@ Kubernetes objects can quickly be created, updated, and deleted directly using i
 A Kubernetes cluster consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
 
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/q1-1.png" width="300">
 
 [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. 
 
@@ -95,13 +93,11 @@ The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference
 [Kubernetes is influenced](Kubernetes-Origin)  by Borg, Omega and other systems.  You should check out various
 [Kubernetes Examples](Kubernetes-Examples) to learn more about [Kubernetes Architecture](Kubernetes-Architecture).
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png" width="700">
 
 
 
 [Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
 As Kubernetes evolved the support for [Stateful Applications](https://thenewstack.io/the-evolution-of-stateful-applications-on-kubernetes/) the
 [Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
@@ -169,7 +165,6 @@ Kubernetes has [awesome](https://github.com/CognonicLabs/awesome-AI-kubernetes) 
 ## Kubernetes & GitOps
 
 
-<img src="https://miro.medium.com/max/1575/1*HFUAAjfQo4ZeJVKPSObgZg.png" width="600">
 
 Kubernetes supports various [Workflows](Workflows) for [DevOps](DevOps) as discussed [here](https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff).
 
