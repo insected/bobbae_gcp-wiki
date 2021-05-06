@@ -40,6 +40,9 @@ which data can be replicated.
 Zones can be added to or removed from a running system as new datacenters are
 brought into service and old ones are turned off, respectively. 
 
+<img src="https://i.ytimg.com/vi/SB-z3GL9gVY/maxresdefault.jpg" width="700">
+
+
 Zones are also the unit of physical isolation: there
 may be one or more zones in a datacenter, for example, if different applications’ data must be partitioned across
 different sets of servers in the same datacenter.
@@ -98,7 +101,6 @@ Each shard will be in each zone.
 
 In Spanner terms a shard is called as Split. 
 
-<img src="https://i.ytimg.com/vi/SB-z3GL9gVY/maxresdefault.jpg" width="700">
 
 
 If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. 
