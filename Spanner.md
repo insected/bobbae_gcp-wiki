@@ -4,6 +4,8 @@
 
 [Cloud Spanner](https://www.youtube.com/watch?v=bUSU1e9j8wc)    optimizes performance by [automatically sharding the data based on request load and size](https://www.youtube.com/watch?v=amcf6W2Xv6M) of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on [scaling your business]().
 
+<img src="https://sdmj45.github.io/blog/2020/05/20/b05-Cloud-Spanner/spanner_architecture.png" width="500">
+
 
 [Cloud Spanner](https://www.youtube.com/watch?v=C75kpQszAjs) is a relational database service that offers transactional consistency at [global scale](https://techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
@@ -102,7 +104,6 @@ Each shard will be in each zone.
 
 In Spanner terms a shard is called as Split. 
 
-<img src="https://sdmj45.github.io/blog/2020/05/20/b05-Cloud-Spanner/spanner_architecture.png" width="500">
 
 
 If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. 
