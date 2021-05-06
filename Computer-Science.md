@@ -2,9 +2,6 @@
 
 If you want to get a well-rounded education in Computer Science there are many  resources available for free.
 
-## OSSU
-
-The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
 
 
@@ -35,6 +32,10 @@ https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&in
 Lectures and videos from various Universities.
 
 https://github.com/Developer-Y/cs-video-courses
+
+## OSSU
+
+The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
 ## Go
 
