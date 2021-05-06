@@ -7,7 +7,6 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 ## Kubernetes
 
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/5-1.png" width="700">
 
 [Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally [designed by Google](https://www.youtube.com/watch?v=pQ87vVMZK-A)  and is now maintained by the Cloud Native Computing Foundation.
 
