@@ -14,7 +14,7 @@ The name “Jupyter” is also a play on the languages Julia, Python, and R, whi
 
 
 There are several ways to run Jupyter notebooks in GCP. [AI Platform](https://cloud.google.com/ai-platform-notebooks), [Datalab](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks), [Dataproc](https://cloud.google.com/dataproc/docs/concepts/components/jupyter), and [Colab](Colab) all support [Jupyter notebooks](https://www.youtube.com/watch?v=Eu57QKNHaiY). You could also create a [GCE](https://cloud.google.com/compute) [VM](VM) and install [Jupyter notebook manually](https://www.datacamp.com/community/tutorials/google-cloud-data-science) or use [terraform to provision a AI Platform Jupyter Notebook via Cloud Shell](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/notebooks_instance).  You can also [start Jupyter notebook servers on Google Kubernetes Engine](https://cloud.google.com/architecture/spawning-notebook-servers-on-gke-tutorial).
-You can create Jupyter Classroom environment with Google Container Engine](https://github.com/GoogleCloudPlatform/gke-jupyter-classroom).
+You can [create Jupyter Classroom environment with Google Container Engine](https://github.com/GoogleCloudPlatform/gke-jupyter-classroom).
 The [Tensorflow and Jupyter](https://cloud.google.com/docs/tutorials#tensorflow+jupyter) can be used together. 
 
 
