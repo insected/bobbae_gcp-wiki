@@ -106,30 +106,19 @@ F1 is built using Spanner to replace an implementation based on MySQL.
 ## External Consistency, Linearizability, Serializability
 
 Cloud Spanner provides clients with the strictest concurrency-control guarantees for transactions, which is called external consistency. Under external consistency, the system behaves as if all transactions were executed sequentially, even though Cloud Spanner actually runs them across multiple servers (and possibly in multiple datacenters) for higher performance and availability. 
-
 In addition if one transaction completes before another transaction starts to commit, the system guarantees that clients can never see a state that includes the effect of the second transaction but not the first. 
-
 Intuitively, Cloud Spanner is semantically indistinguishable from a single-machine database. 
-
 Even though it provides such strong guarantees, Cloud Spanner enables applications to achieve performance comparable to databases that provide weaker guarantees. 
-
 Cloud Spanner provides [external consistency](https://www.youtube.com/watch?v=QdkS6ZjeR7Q), which is a stronger property than linearizability, because linearizability does not say anything about the behavior of transactions.
 
 <img src="https://accelazh.github.io/images/ddia-linearizability.png" width="700">
 
 Linearizability is a property of concurrent objects that support atomic read and write operations. 
-
 In a database, an "object" would typically be a single row or even a single cell. 
-
 External consistency is a property of transaction-processing systems, where clients dynamically synthesize transactions that contain multiple read and write operations on arbitrary objects. 
-
-
 Cloud Spanner provides external [consistency](https://aphyr.com/posts/313-strong-consistency-models), which is a stricter property than serializability. 
-
 A transaction-processing system is serializable if it executes transactions in a manner that is indistinguishable from a system in which the transactions are executed serially. 
-
 Cloud Spanner also guarantees that the serial order is consistent with the order in which the transactions can be observed to commit.
-
 In a system that provides serializability but not external consistency, even though the customer executed T1 and then T2 sequentially, the system would be permitted to reorder them, which could cause the debit to incur a penalty due to insufficient funds.
 
 
@@ -139,23 +128,14 @@ In a system that provides serializability but not external consistency, even tho
 ## TrueTime
 
 Spanner is very keen in syncronizing and maintains the same time across all the nodes over the global datacenters. 
-
 Their hardwares are built with Atomic Clocks to maintain the time. 
-
 If you take a look at the Server Hardware Rack, the Server is having 4 time servers. 
-
 2 Servers are connected with GPS and the remaining 2 are connect with Automic Oscillators. 
-
 There are 2 different brands of Oscillators for better failover processing. 
-
 The GPS time servers will sync with Oscillators to synchronize the time across the global datacenters with every 30sec interval.
-
 <img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner3.jpg" width="600">
-
 TrueTime is a highly available, distributed clock that is provided to applications on all Google servers. 
-
 TrueTime enables applications to generate monotonically increasing timestamps: an application can compute a timestamp T that is guaranteed to be greater than any timestamp T' if T' finished being generated before T started being generated. 
-
 This guarantee holds across all servers and all timestamps.
 
 [https://cloud.google.com/spanner/docs/true-time-external-consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
@@ -201,14 +181,12 @@ https://www.youtube.com/watch?v=DxrdatA_ULk
 ### Emulator
 
 The [Cloud SDK](https://cloud.google.com/sdk) provides a local, in-memory emulator, which you can use to develop and test your applications for free without creating a GCP Project or a billing account. As the emulator stores data only in memory, all state, including data, schema, and configs, is lost on restart. The emulator offers the same APIs as the Cloud Spanner production service and is intended for local development and testing, not for production deployments.
-
 The emulator supports all languages of the client libraries. You can also use the emulator with the gcloud command-line tool and REST APIs.
-
 The emulator is also available as an open source project in [GitHub](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator).
 
 ## Perspectives
 
-[Big Data](Big-Data) technology evolves over time.
+[Big Data](Big-Data) technology evolves over time. 
 
 
 
