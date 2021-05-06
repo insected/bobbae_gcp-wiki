@@ -11,7 +11,7 @@
 
 
 
-[Cloud Spanner](https://www.youtube.com/watch?v=IfsTINNCooY) can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale. 
+[Cloud Spanner](https://www.youtube.com/watch?v=IfsTINNCooY) can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale.  In terms of [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) the consensus is that  [Spanner is CP with good A](https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-cap-theorem).
 
 
 
