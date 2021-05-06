@@ -3,10 +3,8 @@
 
 
 [Data Science](https://www.w3schools.com/datascience/default.asp) is about data gathering, analysis and decision-making.
-
 [Data Science](https://github.com/ossu/data-science)   is about finding patterns in data, through analysis, and make future predictions.
-
-
+There are [awesome](https://github.com/academic/awesome-datascience) and [freely available](https://github.com/ossu/data-science) Data Science [curriculum](https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum) that are [online](https://github.com/rowanv/data-science-curriculum).
 
 
 
