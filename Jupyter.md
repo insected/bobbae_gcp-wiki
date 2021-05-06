@@ -41,7 +41,6 @@ With [JupyterHub](https://github.com/jupyterhub/jupyterhub) you can create a mul
 JupyterHub allows users to interact with a computing environment through a webpage. As most devices have access to a web browser, JupyterHub makes it is easy to provide and standardize the computing environment for a group of people (e.g., for a class of students or an analytics team).
 
 
-## Kubernetes JupyterHub
 
 Helm Chart & Documentation for [deploying  JupyterHub on Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/).
 
