@@ -115,6 +115,10 @@ https://www.wisdomjobs.com/e-university/all-skillsets.html
 
 ## Computer Science Ethics 
 
-The FCA is part of the Association for Computing Machinery (ACM) which is making changes to encourage researchers to consider [societal impacts]( https://www.nature.com/articles/d41586-018-05791-w ).  
+
 
 Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The [ACM Code of Ethics and Professional Conduct]( https://www.acm.org/code-of-ethics ) ("the Code") expresses the conscience of the profession.
+
+[Computer ethics]( https://en.m.wikipedia.org/wiki/Computer_ethics ) is a part of practical philosophy concerned with how computing professionals should make decisions regarding professional and social conduct.
+
+[Algorithmic bias]() describes systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one arbitrary group of users over others. Bias can emerge due to many factors, including but not limited to the design of the algorithm or the unintended or unanticipated use or decisions relating to the way data is coded, collected, selected or used to train the algorithm.
