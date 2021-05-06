@@ -108,7 +108,7 @@ Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practice
 
 
 
-<img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="300">
+<img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="500">
 
 
 
