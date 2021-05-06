@@ -2,11 +2,11 @@
 
 <img src="https://cloud.google.com/iam/img/iam-overview-basics.svg" width="700">
 
-Cloud IAM is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  This video will take you through the basic terms and concepts you need to use Cloud IAM.
+[Cloud IAM](https://cloud.google.com/iam/docs/overview) is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  This video will take you through the basic terms and concepts you need to use Cloud IAM.
 
-https://cloud.google.com/iam/docs/overview
 
-## How IAM works
+
+## [How IAM works](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works)
 
 With IAM, you manage access control by defining who (identity) has what access (role) for which resource. For example, Compute Engine virtual machine instances, Google Kubernetes Engine (GKE) clusters, and Cloud Storage buckets are all Google Cloud resources. The organizations, folders, and projects that you use to organize your resources are also resources.
 
@@ -14,7 +14,7 @@ With IAM, you manage access control by defining who (identity) has what access (
 
 In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into roles, and roles are granted to authenticated members. An IAM policy defines and enforces what roles are granted to which members, and this policy is attached to a resource. When an authenticated member attempts to access a resource, IAM checks the resource's policy to determine whether the action is permitted.
 
-https://cloud.google.com/iam/docs/overview#how_cloud_iam_works
+
 
 ### Model for Access management
 
@@ -31,28 +31,27 @@ A role is a collection of permissions. Permissions determine what operations are
 
 https://cloud.google.com/iam/docs/understanding-roles
 
-#### Policy
+#### [Policy](https://cloud.google.com/iam/docs/policies)
 
 <img src="https://cloud.google.com/iam/img/iam-overview-policy.png" width="600">
 
-The IAM policy binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
+The [IAM policy](https://cloud.google.com/iam/docs/overview#cloud-iam-policy) binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
 
-https://cloud.google.com/iam/docs/overview#cloud-iam-policy
 
-https://cloud.google.com/iam/docs/policies
 
-#### Policy intelligence tools
+
+
+#### [Policy intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)
 
 Large organizations often have complicated Identity and Access Management (IAM) policies. Policy Intelligence tools help you understand and manage your policies to proactively improve your security configuration.
 
-https://cloud.google.com/iam/docs/policy-intelligence-tools
+
 
 
 ## Granular Access
 
 IAM lets you grant granular access to specific Google Cloud resources and helps prevent access to other resources. IAM lets you adopt the security principle of least privilege, which states that nobody should have more permissions than they actually need.
 
-[https://cloud.google.com/iam](https://cloud.google.com/iam)
 
 
 ## Resources
@@ -70,7 +69,7 @@ https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
 
 ## Access Control 
 
-Cloud IAM provides a simple and consistent access control interface for all Google Cloud services. Learn one access control interface and apply that knowledge to all Google Cloud resources. Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer roles to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the Owner, Editor, and Viewer roles. Create and manage Cloud IAM policies using the Google Cloud Console, the Cloud IAM methods, and the gcloud command line tool.
+Cloud IAM provides a simple and consistent access control interface for all Google Cloud services. Learn one access control interface and apply that knowledge to all Google Cloud resources. Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer roles to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the Owner, Editor, and Viewer roles. Create and manage Cloud IAM policies using the Google Cloud Console, the Cloud IAM methods, and the `gcloud` command line tool.
 
 ## Identity and Access
 
@@ -78,14 +77,14 @@ In general, the term IAM as in Identity and access management (IAM or IdAM for s
 
 You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
 
-## Concepts related to identity
+## [Concepts related to identity](https://cloud.google.com/iam/docs/overview#concepts_related_identity)
 
 In IAM you grant access to members. Members can have the following types: Google Account, Service Account, Google Group, Google Workspace domain, Cloud Identity Domain, All authenticated users, All users.
 
-https://cloud.google.com/iam/docs/overview#concepts_related_identity
 
 
-### Google Groups
+
+### [Google Groups](https://cloud.google.com/iam/docs/groups-in-cloud-console)
 
 Google Groups is a service from Google that provides discussion groups for people sharing common interests. The Groups service also provides a gateway to Usenet newsgroups via a shared user interface.
 
@@ -93,15 +92,15 @@ Google Groups became operational in February 2001, following Google's acquisitio
 
 Usenet  is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980.
 
-https://cloud.google.com/iam/docs/groups-in-cloud-console
+
 
 
 ## Recommender
 
-Recommender is a service on Google Cloud that provides usage recommendations and insights for Cloud products and services.
+[Recommender](https://cloud.google.com/iam/docs/recommender-overview) is a service on Google Cloud that provides usage recommendations and insights for Cloud products and services.
 
 
-https://cloud.google.com/iam/docs/recommender-overview
+
 
 ### IAM Recommender
 
@@ -111,14 +110,14 @@ IAM uses Recommender to compare role grants with the permissions that each membe
 
 ### Managing insights
 
-In addition to providing recommendations, Recommender uses machine learning (ML) to provide detailed insights. Insights are findings that highlight notable patterns in resource usage. For example, you can collect additional information about permission usage in your project, or identify unused service accounts. Some insights also link to recommendations, because the insights provide evidence for the recommendations.
+In addition to providing recommendations, Recommender uses machine learning (ML) to provide detailed insights. [Insights](https://cloud.google.com/iam/docs/managing-insights) are findings that highlight notable patterns in resource usage. For example, you can collect additional information about permission usage in your project, or identify unused service accounts. Some insights also link to recommendations, because the insights provide evidence for the recommendations.
 
 
 
-https://cloud.google.com/iam/docs/managing-insights
+
 
 ## Audit
 
-Google Cloud services write audit logs to help you answer the questions, "Who did what, where, and when?" Your Cloud projects contain only the audit logs for resources that are directly within the project. Other entities, such as folders, organizations, and Cloud Billing accounts, contain the audit logs for the entity itself.
+Google Cloud services [write audit logs](https://cloud.google.com/iam/docs/audit-logging) to help you answer the questions, "Who did what, where, and when?" Your Cloud projects contain only the audit logs for resources that are directly within the project. Other entities, such as folders, organizations, and Cloud Billing accounts, contain the audit logs for the entity itself.
 
-https://cloud.google.com/iam/docs/audit-logging
+
