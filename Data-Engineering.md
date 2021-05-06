@@ -4,9 +4,9 @@
 
 There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and [freely available books](https://github.com/andkret/Cookbook), [roadmaps](https://github.com/datastacktv/data-engineer-roadmap) and [courses](https://github.com/chandra1sekar/data-engineering).
 
-## Overview
 
-[https://www.youtube.com/watch?v=tc2940Zwvyk](https://www.youtube.com/watch?v=tc2940Zwvyk)
+
+Here is a basic [overview of GCP data storage features](https://www.youtube.com/watch?v=tc2940Zwvyk).
 
 
 ## Database options
