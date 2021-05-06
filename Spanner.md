@@ -2,7 +2,7 @@
 
 [Cloud Spanner](https://cloud.google.com/spanner) is a  [managed relational database](https://www.youtube.com/watch?v=IFbydfGV2lQ) with [unlimited scale, strong consistency, and up to 99.999% availability](https://www.youtube.com/watch?v=5bjYk6Hhd10). 
 
-[Cloud Spanner](https://www.youtube.com/watch?v=bUSU1e9j8wc)    optimizes performance by [automatically sharding the data based on request load and size](https://www.youtube.com/watch?v=amcf6W2Xv6M) of the data. As a result, you can spend less time worrying about how to scale your database and instead focus on [scaling your business]().
+[Cloud Spanner](https://www.youtube.com/watch?v=bUSU1e9j8wc)    optimizes performance by [automatically sharding the data based on request load and size](https://www.youtube.com/watch?v=amcf6W2Xv6M) of the data. As a result, you can spend less time worrying about [how to scale your database](https://www.youtube.com/watch?v=9PsSIVUbtWo) and instead focus on [scaling your business]().
 
 <img src="https://sdmj45.github.io/blog/2020/05/20/b05-Cloud-Spanner/spanner_architecture.png" width="500">
 
