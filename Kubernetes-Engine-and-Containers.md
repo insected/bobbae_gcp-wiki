@@ -31,7 +31,6 @@ A Kubernetes cluster consists of a set of worker machines, called nodes, that ru
 
 
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Application.png" width="700">
 
 [Kubernetes](https://cloud.google.com/learn/what-is-kubernetes) API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
 
