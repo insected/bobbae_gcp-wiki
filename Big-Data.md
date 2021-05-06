@@ -53,7 +53,7 @@ There have been [many deprecated](https://www.zdnet.com/article/apache-software-
 
 [Apache Spark](https://en.m.wikipedia.org/wiki/Apache_Spark) is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. Originally developed at the University of California, Berkeley's AMPLab, the Spark codebase was later donated to the Apache Software Foundation.
 
-[Apache Spark](https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/) has its architectural foundation in the resilient distributed dataset (RDD), a read-only multiset of data items distributed over a cluster of machines, that is maintained in a fault-tolerant way.
+[Apache Spark](https://thenewstack.io/the-good-bad-and-ugly-apache-spark-for-data-science-work/) has its architectural foundation in the [resilient distributed dataset](  https://databricks.com/glossary/what-is-rdd ) (RDD), a read-only multiset of data items distributed over a cluster of machines, that is maintained in a fault-tolerant way.
 
 The Dataframe API was released as an abstraction on top of the RDD, followed by the Dataset API.
 
