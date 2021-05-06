@@ -32,14 +32,9 @@ In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distrib
 <img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg" width="600">
 
 A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
-
-
-
 Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of [Bigtable](Bigtable) servers.
-
 Zones are the unit of administrative deployment. The set of zones is also the set of locations across
 which data can be replicated. 
-
 Zones can be added to or removed from a running system as new datacenters are
 brought into service and old ones are turned off, respectively. 
 
@@ -53,23 +48,16 @@ different sets of servers in the same datacenter.
 
 A zone has one zonemaster and between one hundred and several thousand spanservers. The former assigns
 data to spanservers; the latter serve data to clients. 
-
 The per-zone location proxies are used by clients to locate
 the spanservers assigned to serve their data. The universe master and the placement driver are currently singletons. 
-
 The universe master is primarily a console that displays status information about all the zones for interactive debugging. 
-
-
 The placement driver handles automated movement of data across zones on the timescale of minutes. 
-
 The placement driver periodically communicates with the spanservers to find data that needs to be moved, either to meet updated replication constraints or to balance load.
 
 ### Spanserver
 
 At the bottom, each spanserver is responsible for between 100 and 1000 instances of a data structure called a tablet. 
-
-A
-tablet is similar to Bigtable’s tablet abstraction, in that it implements a bag of the following mappings:
+A tablet is similar to Bigtable’s tablet abstraction, in that it implements a bag of the following mappings:
 
 ```
   (key:string, timestamp:int64) → string
@@ -77,54 +65,31 @@ tablet is similar to Bigtable’s tablet abstraction, in that it implements a ba
 ```
 
 Unlike [Bigtable](Bigtable), Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  
-
-
 A tablet’s state is stored in set of [B-tree-like](https://en.m.wikipedia.org/wiki/B-tree) files and a write-ahead log, all on a distributed file system called
 [Colossus](https://cloudblog.withgoogle.com/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)  (the successor to the Google File System).  
-
 To support replication, each spanserver implements a single [Paxos](https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html)   state machine on top of each tablet.
-
-
 The [Paxos](https://medium.com/distributed-knowledge/paxos-consensus-for-beginners-1b8519d3360f)    state machines are used to implement a consistently replicated bag of mappings. 
-
 The key-value
 mapping state of each replica is stored in its corresponding tablet. Writes must initiate the Paxos protocol at the
 leader; reads access state directly from the underlying tablet at any replica that is sufficiently up-to-date. 
-
 The
 set of replicas is collectively a Paxos group. 
-
 At every replica that is a leader, each spanserver implements a lock table to implement concurrency control. The lock table contains the state for two-phase locking: it maps ranges of keys to lock states.
 
 ### Split
 
 Spanner is global database system, per region we’ll get minimum of 3 shards. 
-
 Each shard will be in each zone. 
-
 In Spanner terms a shard is called as Split. 
-
-
-
 If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. 
-
 And the Compute and Storage layers are de-coupled. Paxos algorithm is used to maintain one leader at a time and rest of the nodes will be the followers.
-
-
 Based on the partitions, we’ll have more Splits(shards) in the storage layer. 
-
 Each shard will be replicated to the other Zones. 
-
 For eg: if you have a shard called S1 on Zone A, it’ll be replicated to Zone B and C. 
-
 The replication works based on Leader follower method. 
-
 So the Paxos will help to maintain the quorum and will help to select a new Leader during the failure. 
-
 If you are writing something on this Split, the Spanner APIs are aware of the Leaders. 
-
 So the write directly goes to the Zone where it has the Leader Split. 
-
 Each Split has its own leader zone.
 
 
@@ -135,9 +100,7 @@ Each Split has its own leader zone.
 ## Strong Consistency
 
 Spanner, as most [ACID](https://en.m.wikipedia.org/wiki/ACID) databases, it uses the [2PC](https://en.m.wikipedia.org/wiki/Two-phase_commit_protocol) (Two phase commit), and it uses Paxos groups to mitigate the "anti-availability" shortcoming. 
-
 At the highest level of abstraction, Spanner is a database that shards data across many sets of Paxos state machines in datacenters spread all over the world.
-
 Spanner provides synchronous cross-datacenter replication and strong consistency and usability of traditional SQL databases. 
 
 ### Google F1 
