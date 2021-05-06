@@ -5,39 +5,17 @@
 
 
 
-[BigQuery](https://cloud.google.com/bigquery/docs)  is Google Cloud's fully managed, petabyte-scale, and cost-effective analytics [data warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)  that lets you run [analytics over vast amounts](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)  of data in near real time. 
+[BigQuery](https://cloud.google.com/bigquery/docs)  is Google Cloud's [fully managed](https://www.youtube.com/watch?v=kKBnFsNWwYM), petabyte-scale, and cost-effective analytics [data warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)  that lets you run [analytics over vast amounts](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)  of data in near real time. 
 
 With BigQuery, there's no infrastructure to set up or manage, letting you [focus on finding meaningful insights](https://cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/) using standard SQL and taking advantage of flexible pricing models across on-demand and flat-rate options.
 
-
-
-
-
-
 [BigQuery](https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1)  is designed to [ingest and store](https://www.youtube.com/watch?v=d3MDxC_iuaw) large amounts of data, and make that data accessible for fast, [large-scale analytics](https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g) - to help analysts and developers alike. 
-
-
 
 Learn [how to load](https://www.youtube.com/watch?v=Abzj-Vyhi74) CSV data in batch, and analyze your own data in BigQuery.
 
-
-
-
-
-
 Most experienced data analysts and programmers already have the skills to get started. [BigQuery](https://www.youtube.com/watch?v=ZVgt1-LfWW4) is [fully managed](https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1) and lets you search through terabytes of data in seconds. It’s also cost effective: you can store gigabytes, terabytes, or even [petabytes of data](https://www.youtube.com/watch?v=qqbYrQGSibQ).
 
-
-
-
-
-
-
-
-
 ## Loading Data into BigQuery
-
-
 
 You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?skip_cache=true) files from local sources, Google Drive, or Cloud Storage buckets, take advantage of [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs/introduction?skip_cache=true) (DTS), [Data Fusion](https://cloud.google.com/data-fusion/plugins?skip_cache=true) plug-ins, or leverage Google's industry-leading [data integration partnerships](https://cloud.google.com/bigquery?skip_cache=true#section-12). You have ultimate flexibility in how you bring data into your data warehouse. 
 
@@ -54,6 +32,8 @@ You can see that this query runs in under 30 seconds, but let’s round up to 30
 - Execute 100 billion regular expressions with 3 wildcards each
 - Distribute 1.25TB of data across the network (1TB compressed for initial read, and 0.25TB for the aggregation)
 - Let’s assume for a second that all distributed analytics engines take the same amount of resources to process a query and that queries are perfectly parallelizable.
+
+<img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="500">
 
 That’s a lot of resources! So it’s quite impressive that BigQuery lets you use all this stuff for just the few seconds required for your job to complete.
 But what’s even more impressive is that we do not know this is happening — we simply press “Run Query” and BigQuery takes care of the rest automagically. BigQuery entirely hides the complexity of large-scale analytics technologies.
