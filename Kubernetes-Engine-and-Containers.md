@@ -6,7 +6,13 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 ## Kubernetes
 
-[Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system for automating deployment, scaling, and management of [containerized](https://en.wikipedia.org/wiki/OS-level_virtualization) applications. The open source project is hosted by the Cloud Native Computing Foundation (CNCF).
+
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/5-1.png" width="700">
+
+[Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally [designed by Google](https://www.youtube.com/watch?v=pQ87vVMZK-A)  and is now maintained by the Cloud Native Computing Foundation.
+
+
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Containers-1.png" width="600">
 
 <img src="http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg" width="700">
 
@@ -28,6 +34,8 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 [Kubernetes](https://cloud.google.com/learn/what-is-kubernetes) API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
 
 <img src="https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg" width="700">
+
+
 
 ## GKE
 
@@ -65,17 +73,6 @@ Consider using one of the client libraries if you are writing an application usi
 A Kubernetes [object](https://kubernetes.io/docs/concepts/overview/working-with-objects/) is a "record of intent"--once you create the object, the Kubernetes system will constantly work to ensure that object exists. By creating an object, you're effectively telling the Kubernetes system what you want your cluster's workload to look like; this is your cluster's desired state.
 
 
-
-
-
-## An introduction to Kubernetes
-
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/5-1.png" width="700">
-
-[Kubernetes](https://kubernetes.io) is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally [designed by Google](https://www.youtube.com/watch?v=pQ87vVMZK-A)  and is now maintained by the Cloud Native Computing Foundation.
-
-
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Containers-1.png" width="600">
 
 ## Kubectl
 
