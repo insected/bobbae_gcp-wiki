@@ -29,6 +29,9 @@ In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distrib
 
 A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
 
+
+[[https://sdmj45.github.io/blog/2020/05/20/b05-Cloud-Spanner/spanner_architecture.png]]
+
 Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of [Bigtable](Bigtable) servers.
 
 Zones are the unit of administrative deployment. The set of zones is also the set of locations across
@@ -40,6 +43,7 @@ brought into service and old ones are turned off, respectively.
 Zones are also the unit of physical isolation: there
 may be one or more zones in a datacenter, for example, if different applications’ data must be partitioned across
 different sets of servers in the same datacenter.
+
 
 A zone has one zonemaster and between one hundred and several thousand spanservers. The former assigns
 data to spanservers; the latter serve data to clients. 
@@ -93,6 +97,9 @@ Spanner is global database system, per region we’ll get minimum of 3 shards.
 Each shard will be in each zone. 
 
 In Spanner terms a shard is called as Split. 
+
+<img src="https://i.ytimg.com/vi/SB-z3GL9gVY/maxresdefault.jpg" width="700">
+
 
 If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. 
 
