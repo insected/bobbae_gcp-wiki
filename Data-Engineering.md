@@ -36,6 +36,8 @@ You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [Po
 
 ### SQL Tutorials
 
+https://www.youtube.com/watch?v=p3qvj9hO_Bo
+
 [https://www.youtube.com/watch?v=HXV3zeQKqGY](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 [https://www.freecodecamp.org/news/best-sql-database-tutorial/](https://www.freecodecamp.org/news/best-sql-database-tutorial/)
