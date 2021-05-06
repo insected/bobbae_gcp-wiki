@@ -71,6 +71,9 @@ The main Spark components are:
 
 ## Perspectives on Big Data
 
+
+### Hype 
+
 In the [Big Data Chronicles](https://datafloq.com/read/big-data-history/239) and history, [the Google File System paper in 2003](https://research.google/pubs/pub51/) marked a seminal moment for software development. It was one of the first times Google detailed the [technical underpinnings](https://levelup.gitconnected.com/the-google-file-system-the-distributed-file-system-that-google-built-68463670ac57) that helped it catapult from clever idea to global force.
 
 The following year in 2004, Google shared [another paper on MapReduce](https://research.google/pubs/pub62), further cementing the genealogy of big data. 
@@ -85,13 +88,16 @@ By 2017, the Hadoop hype [has come and gone](https://0x0fff.com/hadoop-the-end-o
 
 Did Google  send the industry  [on a more than a decade long head-fake](https://garyorenstein.medium.com/did-google-send-the-big-data-industry-on-a-10-year-head-fake-9c94d553925a)?
 
+
+### Shift 
+
 We can now use [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to Distributed SQL](https://medium.com/@garyorenstein/the-shift-to-distributed-sql-232c04dec1f7).
 
 
 [Often](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html) the data  isn't [really that big](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/) or does not need to be that [big](https://hbr.org/2013/12/you-may-not-need-big-data-after-all).
 
 
-### Data Ethics 
+### Ethics 
 
 [Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data and [privacy](https://en.m.wikipedia.org/wiki/Information_privacy).
 
