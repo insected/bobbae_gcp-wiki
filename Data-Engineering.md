@@ -11,19 +11,12 @@ Here is a basic [overview of GCP data storage features](https://www.youtube.com/
 
 ## Database options
 
-One of Google Cloud Platform's competitive advantages is the strong ecosystem of managed databases.  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  
+One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU).  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  
 
-[https://www.youtube.com/watch?v=3aHBkfBRFEU](https://www.youtube.com/watch?v=3aHBkfBRFEU)
+Because we have so many available, [choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing.
+We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
 
-Choosing the right database for your workloads.
-
-[https://www.youtube.com/watch?v=3YnLuEdGzU8](https://www.youtube.com/watch?v=3YnLuEdGzU8)
-
-Compare different [GCP Database services](https://cloud.google.com/products/databases).
-
-
-
-There are a lot of [Databases](Databases) to choose from.
+Besides the GCP provided database services, there are also a lot of [other databases](Databases) to choose from that may be available elsewhere.
 
 ## Cloud SQL
 
