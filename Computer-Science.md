@@ -116,3 +116,5 @@ https://www.wisdomjobs.com/e-university/all-skillsets.html
 ## Computer Science Ethics 
 
 The FCA is part of the Association for Computing Machinery (ACM) which is making changes to encourage researchers to consider [societal impacts]( https://www.nature.com/articles/d41586-018-05791-w ).  
+
+Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The [ACM Code of Ethics and Professional Conduct]( https://www.acm.org/code-of-ethics ) ("the Code") expresses the conscience of the profession.
