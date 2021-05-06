@@ -23,7 +23,7 @@ In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distrib
 
 
 
-[Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its design. 
+[Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its [design](https://www.youtube.com/watch?v=nvlt0dA7rsQ). 
 
 ## Architecture
 
