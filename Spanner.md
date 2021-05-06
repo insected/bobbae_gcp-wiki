@@ -9,16 +9,10 @@
 
 [Cloud Spanner](https://www.youtube.com/watch?v=C75kpQszAjs) is a relational database service that offers transactional consistency at [global scale](https://techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
 
-
-
 [Cloud Spanner](https://www.youtube.com/watch?v=IfsTINNCooY) can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale.  In terms of [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) the consensus is that  [Spanner is CP with good A](https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-cap-theorem).
 
-
-
-
-
 [Cloud Spanner](https://www.youtube.com/watch?v=sOtlaH-QlxM) is one of the [Distributed SQL Databases](https://www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
-In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distributed_SQL) is a single logical database deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
+In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distributed_SQL) is [a single logical database](https://www.youtube.com/watch?v=9PsSIVUbtWo) deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
 [Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its [design](https://www.youtube.com/watch?v=nvlt0dA7rsQ). 
 
 ## Architecture
