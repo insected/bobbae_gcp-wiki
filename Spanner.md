@@ -27,6 +27,8 @@ In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distrib
 
 ## Architecture
 
+<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg" width="600">
+
 A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
 
 
@@ -107,7 +109,6 @@ If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the diffe
 
 And the Compute and Storage layers are de-coupled. Paxos algorithm is used to maintain one leader at a time and rest of the nodes will be the followers.
 
-<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg" width="600">
 
 Based on the partitions, we’ll have more Splits(shards) in the storage layer. 
 
