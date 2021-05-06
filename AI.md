@@ -34,4 +34,4 @@ Although discovered in the late 1980’s, it was in 2012, when the team of [Geof
 
 The ways in which artificial intelligence is built and deployed will significantly affect society. 
 
-We are living in times when it is paramount that the possibility of harm in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/)  and [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms) caused by [AI systems](http://gendershades.org/) means a plan of measures to counteract them has to be adopted as soon as possible.
+We are living in times when it is paramount that the possibility of harm in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms) and [shades](http://gendershades.org/)   caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
