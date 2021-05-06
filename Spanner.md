@@ -15,7 +15,7 @@
 
 
 
-[Cloud Spanner](https://www.youtube.com/watch?v=sOtlaH-QlxM) is one of [Distributed SQL Databases](https://www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
+[Cloud Spanner](https://www.youtube.com/watch?v=sOtlaH-QlxM) is one of the [Distributed SQL Databases](https://www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
 
 In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distributed_SQL) is a single logical database deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
 
