@@ -8,7 +8,7 @@ With BigQuery, there's no infrastructure to set up or manage, letting you [focus
 
 [BigQuery](https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1)  is designed to [ingest and store](https://www.youtube.com/watch?v=d3MDxC_iuaw) large amounts of data, and make that data accessible for fast, [large-scale analytics](https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g) - to help analysts and developers alike. BigQuery stores data in columns which are in separate files that are compressed and work well with distributed systems like Colossus.
 
-<img src="https://s3.amazonaws.com/files.dezyre.com/images/blog/Impala+vs+Hive/Columnar+Storage+Technology+in+Impala.png" width="700">
+<img src="https://s3.amazonaws.com/files.dezyre.com/images/blog/Impala+vs+Hive/Columnar+Storage+Technology+in+Impala.png" width="500">
 
 Learn [how to load](https://www.youtube.com/watch?v=Abzj-Vyhi74) CSV data in batch, and analyze your own data in BigQuery.
 
