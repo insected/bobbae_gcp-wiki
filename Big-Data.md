@@ -90,5 +90,8 @@ We can now use [BigQuery](BigQuery) and [Spanner](Spanner). There's a [Shift to 
 
 [Often](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html) the data  isn't [really that big](https://veekaybee.github.io/2017/03/20/hadoop-or-laptop/) or does not need to be that [big](https://hbr.org/2013/12/you-may-not-need-big-data-after-all).
 
-[Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data.
+
+### Data Ethics 
+
+[Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data and [privacy](https://en.m.wikipedia.org/wiki/Information_privacy).
 
