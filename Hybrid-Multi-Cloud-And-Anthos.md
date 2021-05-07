@@ -105,17 +105,8 @@ You remain in control of what data is sent through Connect.
 
 ### Qwiklabs
 
-
-#### Migrate for Anthos
-
-[Anthos](https://cloud.google.com/anthos) is an open source application platform that enables you to modernize your existing applications on your hybrid or multi-cloud environment. You can build new VMs and run them anywhere in a secure manner. Anthos is built on open source technologies pioneered by Google — including Kubernetes, Istio, and Knative — and enables consistency between on-premises and cloud environments.
-
 [Migrate for Anthos: Qwik Start](https://www.qwiklabs.com/focuses/10268?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467866)
 
-
-#### Anthos Service Mesh
-
-This intermediate-level quest is unique among Qwiklabs quests. These labs have been curated to give operators hands-on practice with Anthos—a new, open application modernization platform on GCP. Anthos enables you to build and manage modern hybrid applications. Tasks include: installing service mesh, collecting telemetry, and securing your microservices with service mesh policies. 
 
 [Anthos: Service Mesh](https://www.qwiklabs.com/quests/100?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482852)
 
