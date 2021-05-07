@@ -1,22 +1,9 @@
+[Google Cloud](  https://www.youtube.com/watch?v=4D3X6Xl5c_Y ) consists of a set of physical assets, such as computers and hard disk drives, and virtual resources, such as virtual machines (VMs), that are contained in Google's [data centers](  https://blog.google/inside-google/infrastructure/how-data-center-security-works/ ) around [the globe]( https://www.google.com/about/datacenters/   ).
+
+[Google Cloud Platform](https://cloud.google.com/) offers four main kinds of [products](https://cloud.google.com/products) and [services](  https://gcp.solutions/ ): [Compute](Compute), [Storage](Storage), [Big Data](Big-Data), and [Machine Learning](Machine-Learning). 
 
 
-[Google Cloud Platform](https://cloud.google.com/docs/overview/) offers four main kinds of [services](https://cloud.google.com/products): Compute, Storage, Big Data, and Machine Learning. 
-
-
-
-
-[GCP](https://www.youtube.com/watch?v=vmOMataJZWw) also includes Google App Engine, Google Compute Engine, Google Kubernetes Engine, Google Cloud Storage, Google Cloud SQL, and BigQuery. You will learn about important resource and policy management tools, such as the Google Cloud Resource Manager hierarchy and Google Cloud Identity and Access Management.
-
-
-
-Here are some very high level diagrams and references for various GCP [solutions](https://gcp.solutions/).
-
-
-Please view this [Introduction to GCP](https://www.youtube.com/watch?v=4D3X6Xl5c_Y) video. 
-
-[Here](https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL) are some additional essential GCP videos.
-
-There are many [GCP related videos in playlists](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg/playlists).
+[GCP](https://www.youtube.com/watch?v=vmOMataJZWw) also [includes](  https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg/playlists  ) Google [App Engine](App-Engine), Google [Compute Engine](Compute), Google [Kubernetes Engine](GKE), Google [Cloud Storage](Storage), Google [Cloud SQL]( https://cloud.google.com/sql  ), and [BigQuery](BigQuery). You will learn about important resource and policy management tools, such as the Google [Cloud Resource Manager](  https://cloud.google.com/resource-manager ) hierarchy and Google Cloud [Identity and Access Management](  IAM). 
 
 
 
@@ -24,14 +11,8 @@ There are many [GCP related videos in playlists](https://www.youtube.com/channel
 
 <img src="https://lh3.googleusercontent.com/A803aDoV8Jx5SVmpyDMi4QI-dVuUH6s8sTCjzZgNbwgCd_2aMRg8SMUI7QiHhaM608bCdH0GT1qx=e14-rw-lo-sc0xffffff-h1200" width="800">
 
-Google Cloud consists of a set of physical assets, such as computers and hard disk drives, and virtual resources, such as virtual machines (VMs), that are contained in [Google's data centers](https://cloud.withgoogle.com/infrastructure/explore) [around the globe](https://cloud.google.com/about/locations). 
-
-
 
 Each [data center](https://www.youtube.com/watch?v=XZmGGAbHqa0) location is in a region. Regions are available in Asia, Australia, Europe, North America, and South America. Each region is a collection of zones, which are [isolated from each other](https://cloud.google.com/architecture/scalable-and-resilient-apps) within the region. Each zone is identified by a name that combines a letter identifier with the name of the region. For example, zone a in the East Asia region is named asia-east1-a. This distribution of resources provides several benefits, including redundancy in case of failure and reduced latency by locating resources closer to clients. 
-
-
-
 
 
 This distribution also introduces some rules about how resources can be used together. When architecting your apps in GCP, it’s important to understand [regions and zones](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources), as well as the resources that are regional or zonal. While some of the core resources in GCP are global, others may be restricted by [region or zone](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources). 
@@ -43,12 +24,9 @@ Regional resources can be used anywhere within the same region, while zonal reso
 
 
 
-
 #### GCP Youtube Channel
 
 [Google produced videos](https://www.youtube.com/googlecloudplatform/) that help you learn about GCP are collected in this channel.
-
-
 
 
 #### GCP Useful Links
@@ -56,16 +34,7 @@ Regional resources can be used anywhere within the same region, while zonal reso
 
 Review this [awesome](https://github.com/GoogleCloudPlatform/awesome-google-cloud) [Curated list of URLs](GCP-Learning-Links) related to GCP.
 
-
-A list of industry specific [solutions](https://cloud.google.com/solutions).
-
-
-
-A list GCP [Architecture reference solutions](https://gcp.solutions/).
-
-
-
-A list of [samples](https://cloud.google.com/docs/samples).
+Review the lists of [industry specific solutions](https://cloud.google.com/solutions) and GCP [Architecture reference solutions](https://gcp.solutions/) and  [samples](https://cloud.google.com/docs/samples).
 
 
 #### Summary of GCP Services
