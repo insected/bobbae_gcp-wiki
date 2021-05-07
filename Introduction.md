@@ -32,7 +32,7 @@ Regional resources can be used anywhere within the same region, while zonal reso
 #### GCP Useful Links
 
 
-Review this [awesome](https://github.com/GoogleCloudPlatform/awesome-google-cloud) [Curated list of URLs](GCP-Learning-Links) related to GCP.
+Review this [awesome](https://github.com/GoogleCloudPlatform/awesome-google-cloud) list of [ resources](GCP-Learning-Links) related to GCP.
 
 Review the lists of [industry specific solutions](https://cloud.google.com/solutions) and GCP [Architecture reference solutions](https://gcp.solutions/) and  [samples](https://cloud.google.com/docs/samples).
 
