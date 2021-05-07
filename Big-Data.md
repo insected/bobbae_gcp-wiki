@@ -3,11 +3,9 @@
 
 [Big data](https://www.guru99.com/bigdata-tutorials.html) was originally associated with three key concepts: volume, variety, and velocity. 
 
-The analysis of big data presents challenges in sampling, and thus previously allowing for only observations and sampling. 
 
-Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value.
 
-Current usage of the term big data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
+Current usage of the term [big data](  https://cloud.google.com/docs/tutorials?q=big%20data  ) tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Big_Data.png" width="500">
 
