@@ -7,7 +7,7 @@
 The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, faster and more responsive software by bringing Development and Operations teams together. [DevOps](https://devops-research.com/) is not a methodology or [a suite of tools](https://en.wikipedia.org/wiki/DevOps_toolchain) but a cultural shift to remove the barriers between Dev and Ops in order to meet the need for shorter and more frequent software deliveries.
 
 
-This will allow your organization to respond in a more agile manner to changing business requirements. The DevOps cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
+This will allow your organization to respond in a more agile manner to changing business requirements. The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
 ## [DevSecOps](https://www.devsecops.org/)
 
