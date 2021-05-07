@@ -110,9 +110,5 @@ https://cloud.google.com/billing/docs/concepts#subaccounts
 ### Qwiklabs
 
 
-#### Optimizing GCP Costs
-
-Here you'll learn several ways to control and optimize your GCP costs, including setting up budgets and alerts, managing quota limits, and taking advantage of committed use discounts. In the hands-on labs, you’ll practice using various tools to control and optimize your GCP costs or to influence your technology teams to apply the cost optimization best practices.
-
 [Optimizing Your GCP Costs](https://www.qwiklabs.com/quests/97?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7468028)
 
