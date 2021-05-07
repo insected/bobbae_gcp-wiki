@@ -84,11 +84,6 @@ https://www.terraform.io/intro/vs/cloudformation.html
 
 
 
-
-### VM Migration
-
-Google Cloud’s four step structured [Cloud Migration](Migration) Path Methodology provides a defined and repeatable path for users to follow when migrating and modernizing [Virtual Machines](VM). In this quest, you will get hands-on practice with Google’s current solution set for [VM](VM) assessment, planning, migration, and modernization. You will start by analyzing your lab environment and building assessment reports with CloudPhysics and StratoZone, then build a landing zone within Google Cloud leveraging Terraform’s infrastructure-as-code templates, next you will manually transform a two-tier application into a cloud-native workload running on Kubernetes, and finally, transform a VM workload into [Kubernetes](Kubernetes) with Migrate for Anthos and migrate a VM between cloud environments.
-
 [VM Migration](https://www.qwiklabs.com/quests/87?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
 
 
