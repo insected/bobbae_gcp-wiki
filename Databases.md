@@ -2,7 +2,8 @@
 
 ## Database Related topics
 
-There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Datastore](Datastore), [Firebase](Firebase), [Firestore](Firestore), [Cloud SQL](Cloud SQL), [Spanner](Spanner), and [Memorystore](Memorystore).
+There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud SQL](  Cloud-SQL 
+ ), [Datastore](Datastore), [Firebase](Firebase), [Firestore](Firestore), [Spanner](Spanner), and [Memorystore](Memorystore).
 
 ### Cloud Databases
 
