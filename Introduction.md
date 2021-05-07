@@ -82,7 +82,7 @@ A list of short tutorials on [getting started](https://cloud.google.com/gcp/gett
 
 ### Whitepapers
 
-[Google Cloud whitepapers](https://cloud.google.com/whitepapers/) explain the technology underlying our products and services or examine topics such as security, architecture, and total cost of ownership. The whitepapers listed here are written by Googlers, independent analysts, customers, and partners.
+[Google Cloud whitepapers](https://cloud.google.com/whitepapers/) explain the technology underlying gcp products and services or examine topics such as security, architecture, and total cost of ownership. 
 
 
 ### Qwiklabs
