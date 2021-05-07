@@ -2,11 +2,11 @@
 
 Cloud [Composer](https://cloud.google.com/composer/) is a managed [Apache Airflow](https://airflow.apache.org/) service that helps you create, schedule, monitor and manage [workflows](Workflows). 
 
-Cloud Composer automation helps you create Airflow environments quickly and use Airflow-native tools, such as the powerful Airflow web interface and command line tools, so you can focus on your workflows and not your infrastructure.
+[Cloud Composer](   https://cloud.google.com/composer/docs ) automation helps you create Airflow environments quickly and use Airflow-native tools, such as the powerful Airflow web interface and command line tools, so you can focus on your workflows and not your infrastructure.
 
-[https://cloud.google.com/composer/docs](https://cloud.google.com/composer/docs)
 
-Cloud Composer is a managed workflow orchestration service built on Apache Airflow. 
+
+[Cloud Composer](  https://www.youtube.com/watch?v=bwZOAXnCMf8 ) is a managed workflow orchestration service built on Apache Airflow. 
 
 
 Google runs this open source orchestration platform on top of a Google Kubernetes Engine (GKE) cluster. 
@@ -14,7 +14,7 @@ Google runs this open source orchestration platform on top of a Google Kubernete
 This cluster manages the Airflow workers, and opens up a host of integration opportunities with other Google Cloud products.
 
 
-[https://www.youtube.com/watch?v=bwZOAXnCMf8](https://www.youtube.com/watch?v=bwZOAXnCMf8)
+
 
 Environments are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. 
 
@@ -94,9 +94,9 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 ## Operators
 
- An Operator is an atomic block of workflow logic, which performs a single action. Operators are written as Python classes (subclasses of BaseOperator), where the __init__ function can be used to configure settings for the task and a method named execute is called when the task instance is executed.
+ An [Operator](  https://github.com/apache/airflow/tree/master/airflow/operators ) is an atomic block of workflow logic, which performs a single action. Operators are written as Python classes (subclasses of BaseOperator), where the __init__ function can be used to configure settings for the task and a method named execute is called when the task instance is executed.
 
-[https://github.com/apache/airflow/tree/master/airflow/operators](https://github.com/apache/airflow/tree/master/airflow/operators)
+
 
 
 ### XCom
