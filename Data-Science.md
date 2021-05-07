@@ -11,12 +11,12 @@ There are [awesome](https://github.com/academic/awesome-datascience) and [freely
 What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? In practical terms,  
 there are significant overlapping areas of interest in data science, engineering  and analytics. 
 
-GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/architecture/reference-patterns/overview ) in various areas of focus such as [anomaly detection](https://cloud.google.com/architecture/reference-patterns/overview#anomaly_detection), [data monetization](https://cloud.google.com/architecture/reference-patterns/overview#data_monetization
+GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/architecture/reference-patterns/overview ) in broad areas of applications such as [anomaly detection](https://cloud.google.com/architecture/reference-patterns/overview#anomaly_detection), [data monetization](https://cloud.google.com/architecture/reference-patterns/overview#data_monetization
 ), [general analytics](
 https://cloud.google.com/architecture/reference-patterns/overview#general_analytics), [log analytics](  https://cloud.google.com/architecture/reference-patterns/overview#log_analytics), [pattern recognition](https://cloud.google.com/architecture/reference-patterns/overview#pattern_recognition), [predictive forecasting](https://cloud.google.com/architecture/reference-patterns/overview#predictive_forecasting), [real-time clickstream analytics](https://cloud.google.com/architecture/reference-patterns/overview#real-time_clickstream_analytics),  [time-series analytics](https://cloud.google.com/architecture/reference-patterns/overview#time_series_analytics) and [working with data lakes](https://cloud.google.com/architecture/reference-patterns/overview#working_with_data_lakes).
 
 
-
+These topics require diverse range of knowledge and skills  from many disciplines. The need to distinguish data engineers from analysts and scientists diminish when faced with such multi-disciplinary scope of endeavors. 
 
 
 ## AI Building Blocks
