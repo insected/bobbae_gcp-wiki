@@ -80,5 +80,5 @@ Traditionally, secure encrypted communication between two parties required that 
 
 ## Cryptographic hash
 
-A cryptographic hash function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
+A [cryptographic hash]( https://en.m.wikipedia.org/wiki/Cryptographic_hash_function  ) function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
 
