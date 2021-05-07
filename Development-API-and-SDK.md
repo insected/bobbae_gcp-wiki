@@ -146,17 +146,7 @@ A list of URLs related to Cloud Build.
 ### Qwiklabs
 
 
-#### Exploring APIs
-
-This quest will give you hands-on practice with a variety of GCP APIs, which you will learn through working with Google’s APIs Explorer, a tool that allows you to browse APIs and run their methods interactively. By learning how to transfer data between Cloud Storage buckets, deploy Compute Engine instances, configure Dataproc clusters and much more, Exploring APIs will show you how powerful APIs are and why they are used almost exclusively by proficient GCP users. Enroll in this quest today.
-
 [Exploring APIs](https://www.qwiklabs.com/quests/54?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
-
-#### App Engine API Explorer
-
-[App Engine](https://cloud.google.com/appengine/) lets you deploy applications on a fully managed platform. You can scale your applications seamlessly without having to worry about managing the underlying infrastructure. With zero server management and zero configuration deployments, developers can focus only on building great applications without the management overhead.
-
-In this lab you will deploy a simple hello world application to App Engine and make updates to its configuration using the App Engine Admin API through the APIs Explorer tool.
 
 [APIs Explorer: App Engine](https://www.qwiklabs.com/focuses/3662?catalog_rank=%7B%22rank%22%3A16%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467964)
