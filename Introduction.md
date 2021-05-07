@@ -72,29 +72,17 @@ Learn more about the integrated command line tools to help manage resources and 
 
 #### Cloud Shell
 
-Google [Cloud Shell](https://cloud.google.com/shell/docs) is an interactive shell environment for Google Cloud Platform that makes it easy for you to learn and experiment with GCP and manage your projects and resources from your web browser.
-
-Tutorial on [Cloud Shell](https://www.youtube.com/watch?v=d7bXH_2X760).
+Google [Cloud Shell](https://cloud.google.com/shell/docs) is an [interactive shell](   https://www.youtube.com/watch?v=d7bXH_2X760 ) environment for Google Cloud Platform that makes it easy for you to learn and experiment with GCP and manage your projects and resources from your web browser.
 
 
 ### Tutorials
 
-A list of short tutorials on [getting started](https://cloud.google.com/gcp/getting-started) with GCP.
-
-
-A list of updated [tutorials on GCP](https://cloud.google.com/docs/tutorials).
-
-
-
-
-
+A list of short tutorials on [getting started](https://cloud.google.com/gcp/getting-started) with [GCP](  https://cloud.google.com/docs/tutorials ).
 
 
 ### Whitepapers
 
 [Google Cloud whitepapers](https://cloud.google.com/whitepapers/) explain the technology underlying our products and services or examine topics such as security, architecture, and total cost of ownership. The whitepapers listed here are written by Googlers, independent analysts, customers, and partners.
-
-
 
 
 ### Qwiklabs
