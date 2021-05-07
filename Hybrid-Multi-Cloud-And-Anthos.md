@@ -83,7 +83,7 @@ A Kubernetes app is a containerized application that you can run on your Kuberne
 
 ### Anthos on AWS
 
-Anthos is Google's managed platform for application modernization and delivery, providing consistent automated operations so that an Enterprise can write once and deploy anywhere. This session will provide an overview and technical deep dive into "Extending Anthos to AWS", including capabilities that facilitate automation best practices that span across multi-cloud environments and the freedom to run, deploy and manage applications on the cloud of your choice.
+Anthos is Google's managed platform for application modernization and delivery, providing consistent automated operations which can run on AWS as well.
 
 [https://www.youtube.com/watch?v=qnlrEXOGFz4](https://www.youtube.com/watch?v=qnlrEXOGFz4)
 
