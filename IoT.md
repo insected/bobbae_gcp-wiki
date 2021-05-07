@@ -22,16 +22,9 @@ Events of interest fire off continuously in the physical world, and data that is
 ### Qwiklabs
 
 
-#### IoT in GCP
-
-In this quest, you will learn about Google Cloud’s IoT Core service and its integration with other services like GCS, Dataprep, Stackdriver and Firestore. The labs in this quest use simulator code to mimic IOT devices and the learning here should empower you to implement the same streaming pipeline with real world IoT devices.
 
 [IoT in the Google Cloud](https://www.qwiklabs.com/quests/49?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467733)
 
-
-#### Cloud Logging IoT
-
-In this hands-on lab you will learn how to configure Cloud Functions to send IoT Core device application logs to Cloud Logging.
 
 [Using Cloud Logging with IoT Core Devices](https://www.qwiklabs.com/focuses/2768?catalog_rank=%7B%22rank%22%3A18%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 
