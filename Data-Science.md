@@ -9,7 +9,7 @@ There are [awesome](https://github.com/academic/awesome-datascience) and [freely
 ## Data Analytics 
 
 
-GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/solutions/smart-analytics ). 
+GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/architecture/reference-patterns/overview ). 
 
 
 
