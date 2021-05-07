@@ -219,10 +219,6 @@
 * [Orchestrating the Cloud with Kubernetes](https://www.qwiklabs.com/focuses/557?parent=catalog)
 * [Managing Deployments Using Kubernetes Engine](https://www.qwiklabs.com/focuses/639?parent=catalog)
 * [Kubernetes Tutorials](https://cloud.google.com/kubernetes-engine/docs/tutorials)
-
-
-### Kubernetes Examples
-
 * [Using Kubernetes Engine to Deploy Apps with Regional Persistent Disks](https://www.qwiklabs.com/focuses/1050?parent=catalog)
 * [NGINX Ingress Controller on Google Kubernetes Engine](https://www.qwiklabs.com/focuses/872?parent=catalog)
 * [Awwvision: Cloud Vision API from a Kubernetes Cluster](https://www.qwiklabs.com/focuses/1241?parent=catalog)
