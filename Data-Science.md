@@ -51,9 +51,9 @@ https://cloud.google.com/architecture/reference-patterns/overview#general_analyt
 
 ## [Cloud Interference API](https://cloud.google.com/inference)
 
-Time-series analysis is essential for day-to-day operation of many companies. Most popular use cases include analyzing foot traffic and conversion for retailers, detecting data anomalies, identifying correlations in real time over sensor data, or generating high-quality recommendations. With Cloud Inference API Alpha, you can gather insights in real time from your typed time-series datasets.
+[Time-series analysis]( https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775  ) is essential for day-to-day operation of many companies. Most popular use cases include analyzing foot traffic and conversion for retailers, detecting data anomalies, identifying correlations in real time over sensor data, or generating high-quality recommendations. With [Cloud Inference API](  https://cloud.google.com/inference), you can gather insights in real time from your typed time-series datasets.
 
-[https://cloud.google.com/inference/docs](https://cloud.google.com/inference/docs)
+
 
 
 
