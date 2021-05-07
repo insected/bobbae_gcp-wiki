@@ -10,34 +10,10 @@ The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete ed
 
 You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/) as well as many related topics as listed below.
 
-## Go
-
-https://www.youtube.com/watch?v=YS4e4q9oBaU&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=3
-
-## Python
-
-https://www.youtube.com/watch?v=rfscVS0vtbw
-
-### Python Data Analysis
-
-https://www.youtube.com/watch?v=r-uOLxNrNk8&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=3
 
 
-### Python Data Science
 
-https://www.youtube.com/watch?v=LHBE6Q9XlzI
 
-### Pandas
-
-https://www.youtube.com/watch?v=vmEHCJofslg
-
-## Javascript
-
-https://www.youtube.com/watch?v=PkZNo7MFNFg
-
-## C
-
-https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 ## Data structures
 
@@ -60,15 +36,25 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 
 https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=18
 
-## Java
-
-https://www.youtube.com/watch?v=grEKMHGYyns&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=29
 
 ## Data Science
 
 https://www.youtube.com/watch?v=XU5pw3QRYjQ&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=36
 
 https://www.youtube.com/watch?v=xZbU6bCZFYo&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=33
+
+### Python Data Analysis
+
+https://www.youtube.com/watch?v=r-uOLxNrNk8&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=3
+
+
+### Python Data Science
+
+https://www.youtube.com/watch?v=LHBE6Q9XlzI
+
+### Pandas
+
+https://www.youtube.com/watch?v=vmEHCJofslg
 
 
 ## Tensorflow
@@ -78,6 +64,28 @@ https://www.youtube.com/watch?v=tPYj3fFJGjk&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&in
 ## Network programming
 
 https://www.youtube.com/watch?v=FGdiSJakIS4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=37
+
+## Programming Languages
+
+### Java
+
+https://www.youtube.com/watch?v=grEKMHGYyns&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=29
+
+### Javascript
+
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+### Go
+
+https://www.youtube.com/watch?v=YS4e4q9oBaU&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=3
+
+### Python
+
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+### C
+
+https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 ## React
 
