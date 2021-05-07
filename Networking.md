@@ -2,7 +2,9 @@
 
 ## Networking
 
-https://www.guru99.com/data-communication-computer-network-tutorial.html
+Data Communication and [Computer Networking]( https://www.guru99.com/data-communication-computer-network-tutorial.html  ) provides the rules and regulations that allow computers with different operating systems, languages, cabling, and locations to share resources and communicate with each other. 
+
+
 
 ### Introduction
 
@@ -10,7 +12,7 @@ Google Cloud Platform includes [software-defined networking](https://developers.
 
 
 
-GCP implements software-defined network that provides fast and reliable connections to users [around the world](https://cloud.google.com/about/locations).
+GCP implements [software-defined network](  https://cloud.google.com/docs/compare/data-centers/networking ) that provides fast and reliable connections to users [around the world](https://cloud.google.com/about/locations).
 
 
 
