@@ -18,8 +18,5 @@ Learn how to easily clean up your data without the hassle of writing complex ETL
 ## Qwiklabs
 
 
-### Data Transformation Pipeline
-
-The dataset you'll use is an [ecommerce dataset](https://www.en.advertisercommunity.com/t5/Articles/Introducing-the-Google-Analytics-Sample-Dataset-for-BigQuery/ba-p/1676331#) that has millions of Google Analytics session records for the [Google Merchandise Store](https://shop.googlemerchandisestore.com/) loaded into BigQuery. You have a copy of that dataset for this lab and will explore the available fields and rows for insights.
 
 [Creating a Data Transformation Pipeline with Cloud Dataprep](https://www.qwiklabs.com/focuses/4415?parent=catalog)
