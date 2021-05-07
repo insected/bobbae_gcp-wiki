@@ -6,7 +6,7 @@ Using a curated list of [free courses from reputable universities](https://githu
 ).
 
 
-The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete education in computer science using online materials. 
 
 You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/) as well as many related topics as listed below.
 
