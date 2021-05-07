@@ -82,16 +82,9 @@ Firebase Test Lab is a cloud-based app-testing infrastructure. With one operatio
 ## Qwiklabs
 
 
-### Build Apps
-
-Firebase is a backend-as-service (Bass) platform for creating mobile and web applications. In this quest you will learn to build serverless web apps, import data into a serverless database, and build a Google Assistant application with Firebase and its Google Cloud integrations.
-
 [Build Apps & Websites with Firebase](https://www.qwiklabs.com/quests/148?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467888)
 
 
-### Hugo
-
-In this lab you will create a pipeline for deploying websites based on Hugo, a static website builder. You will store the website content in Cloud Source Repositories and deploy the website with Firebase, then use Cloud Build to create a pipeline to automatically deploy new content that is committed to the repository.
 
 [Deploy a Hugo Website with Cloud Build and Firebase Pipeline](https://www.qwiklabs.com/focuses/14353?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467907)
 
