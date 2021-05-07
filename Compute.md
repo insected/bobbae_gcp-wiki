@@ -101,11 +101,11 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 ## Firewall Rules
 
-Each firewall rule applies to incoming (ingress) or outgoing (egress) connection, not both. Firewall rules only support IPv4 connections. Each firewall rule's action is either allow or deny . When you create a firewall rule, you must select a VPC network.
+Each [firewall](  https://cloud.google.com/vpc/docs/firewalls ) rule applies to incoming (ingress) or outgoing (egress) connection, not both. [Firewall rules](   https://www.youtube.com/watch?v=HTVV9YzGw5k ) only support IPv4 connections. Each firewall rule's action is either allow or deny . When you create a firewall rule, you must select a VPC network.
 
-[https://cloud.google.com/vpc/docs/firewalls](https://cloud.google.com/vpc/docs/firewalls)
 
-[https://www.youtube.com/watch?v=HTVV9YzGw5k](https://www.youtube.com/watch?v=HTVV9YzGw5k)
+
+
 
 
 ##### Using Network tags
