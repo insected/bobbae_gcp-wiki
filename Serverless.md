@@ -118,36 +118,21 @@ Cloud Machine Learning Engine Prediction Service can serve TensorFlow models and
 ### Qwiklabs
 
 
-#### Deploy on Cloud Run
-
-This is a Qwiklab to show you how to deploy a website using Cloud Run.
 
 [Deploy Your Website on Cloud Run](https://www.qwiklabs.com/focuses/10445?parent=catalog)
 
 
-#### Web Applications on Cloud Run
-
-It is a part of the larger “Quest”.
 
 [Websites and Web Applications](https://www.qwiklabs.com/quests/39?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
 
-#### Monitoring Cloud Functions
-
-You can [view your Cloud Functions](https://cloud.google.com/functions) with their execution times,execution counts, and memory usage in the Cloud Console using [Cloud Monitoring](https://cloud.google.com/monitoring), where you can set up custom alerting on these metrics.
 
 [Monitoring and Logging for Cloud Functions](https://www.qwiklabs.com/focuses/1833?catalog_rank=%7B%22rank%22%3A16%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 
 
-#### Logging in Google Cloud
-
-Learn how to monitor, troubleshoot, and improve your infrastructure and application performance. Guided by the principles of Site Reliability Engineering (SRE), this course features a combination of lectures, demos, hands-on labs, and real-world case studies. In this course, you'll gain experience with full-stack monitoring, real-time log management and analysis, debugging code in production, and profiling CPU and memory usage.
 
 [Logging, Monitoring and Observability in Google Cloud](https://www.qwiklabs.com/courses/1514?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7468061)
 
 
-#### Stackdriver Cloud Functions
-
-In this lab you will learn how to use Cloud Functions to perform lightweight processing of Stackdriver Logging messages.
 
 [Responding to Stackdriver Messages with Cloud Functions](https://www.qwiklabs.com/focuses/8500?catalog_rank=%7B%22rank%22%3A22%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468090)
