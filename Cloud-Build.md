@@ -12,7 +12,7 @@ Using [Cloud Code](https://cloud.google.com/code)  with Kubernetes.
 
 <img src="https://i.redd.it/uscxzz8hwmc41.png" width="500">
 
-A video about Cloud Build with Containers.
+
 
 [https://www.youtube.com/watch?v=w7dMHiEyGAs](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 
