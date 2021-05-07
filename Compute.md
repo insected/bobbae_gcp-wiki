@@ -143,44 +143,19 @@ The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general pur
 ## Qwiklabs
 
 
-### Getting Started
-
-In this introductory-level Quest, you will get hands-on practice with Google Cloud’s fundamental tools and services. Getting Started: Create and Manage Cloud Resources is the recommended first Quest for the Google Cloud learner - you will come in with little or no prior cloud knowledge, and come out with practical experience that you can apply to your first Google Cloud project. From writing Cloud Shell commands and deploying your first virtual machine, to running applications on Kubernetes Engine or with load balancing, Getting Started: Create and Manage Cloud Resources is a prime introduction to the basic features of Google Cloud. 
-
 [Getting Started: Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467866)
 
-
-### Hosting a Web App on GCP
-
-There are many ways to deploy web sites within Google Cloud with each solution offering different features, capabilities, and levels of control. Compute Engine offers a deep level of control over the infrastructure used to run a web site, but also requires a little more operational management compared to solutions like Google Kubernetes Engines (GKE), App Engine, or others. With Compute Engine, you have fine-grained control of aspects of the infrastructure, including the virtual machines, load balancers, and more. In this lab you will deploy a sample application, the "Fancy Store" ecommerce website, to show how a website can be deployed and scaled easily with Compute Engine.
 
 [Hosting a Web App on Google Cloud Using Compute Engine](https://www.qwiklabs.com/focuses/11952?catalog_rank=%7B%22rank%22%3A26%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467972)
 
 
-### Build a Website on GCP
-
-In this quest you will learn about the 4 Google Cloud website architectures available to ensure that your website is available and scalable. This quest is based on the video series [Get Cooking in Cloud](https://www.youtube.com/watch?v=pxp7uYUjH_M).
-
 [Build a Website on Google Cloud](https://www.qwiklabs.com/quests/115?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467892)
 
 
-### Planning VM migration
-
-This lab focuses on the “Plan” phase and how to deploy your basic infrastructure on GCP. [Terraform](https://www.terraform.io/) is a popular open-source tool for defining and provisioning infrastructure (Infrastructure as Code). In this lab, you'll leverage pre-built Infrastructure as Code templates to setup a cloud network, configure access, and deploy your first application—all in a secure and automated fashion.
-
 [VM Migration: Planning](https://www.qwiklabs.com/focuses/6899?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467835)
-
-
-### VM Migration Assessment
-
-This lab focuses on the “Assess” phase using [CloudPhysics](https://www.cloudphysics.com/).
 
 [VM Migration: Assessment](https://www.qwiklabs.com/focuses/6896?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467835)
 
-
-### Cloud Development 
-
-The hands-on labs in this Quest are structured to give experienced app developers hands-on practice with the state-of-the-art developing applications in Google Cloud. The topics align with the [Google Cloud Certified Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer) Certification. These labs follow the sequence of activities needed to create and deploy an app in GCP from beginning to end. Labs in the sequence with application code are presented in two language flavors, Java and Python. 
 
 [Cloud Development](https://www.qwiklabs.com/quests/67?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
