@@ -9,7 +9,10 @@ There are [awesome](https://github.com/academic/awesome-datascience) and [freely
 ## Data Analytics 
 
 
-GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/architecture/reference-patterns/overview ). 
+GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/architecture/reference-patterns/overview ) in various areas of focus such as [anomaly detection](https://cloud.google.com/architecture/reference-patterns/overview#anomaly_detection), [data monetization](https://cloud.google.com/architecture/reference-patterns/overview#data_monetization
+), [general analytics](
+https://cloud.google.com/architecture/reference-patterns/overview#general_analytics), [log analytics](  https://cloud.google.com/architecture/reference-patterns/overview#log_analytics), [pattern recognition](https://cloud.google.com/architecture/reference-patterns/overview#pattern_recognition), [predictive forecasting](https://cloud.google.com/architecture/reference-patterns/overview#predictive_forecasting), [real-time clickstream analytics](https://cloud.google.com/architecture/reference-patterns/overview#real-time_clickstream_analytics),  [time-series analytics](https://cloud.google.com/architecture/reference-patterns/overview#time_series_analytics) and [working with data lakes](https://cloud.google.com/architecture/reference-patterns/overview#working_with_data_lakes).
+
 
 
 
