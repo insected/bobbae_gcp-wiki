@@ -21,9 +21,6 @@ Maps JavaScript API, Street View Static API, Maps URLs and Maps Embed API. Route
 ### Qwiklabs
 
 
-#### Google Maps
-
-In this quest you will use several tools available in Google Cloud to manipulate data and create a Google Map - map location details to find subway stations or a business; use geocoding and Apps Script to send an email of a map; visualize data on a customized map; and build a server-side proxy to create a map on a mobile device.
 
 [Creating with Google Maps](https://www.qwiklabs.com/quests/103?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467888)
 
