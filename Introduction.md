@@ -90,30 +90,24 @@ A list of short tutorials on [getting started](https://cloud.google.com/gcp/gett
 
 #### GCP Essentials
 
-GCP Essentials Qwiklab Quest. A Quest is a bunch of Qwiklabs collected under a topic.
+GCP Essentials Qwiklab Quest.  
 
 [Google Cloud Essentials](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467715)
 
 
 #### Cloud Architecture
 
-This fundamental-level quest is unique amongst the other Qwiklabs offerings. The labs have been curated to give IT professionals hands-on practice with topics and services that appear in the [Google Cloud Certified Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) Certification.
+
 
 [Cloud Architecture](https://www.qwiklabs.com/quests/24?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467715)
 
 
 #### Cloud Engineering
 
-This quest is unique amongst the other Qwiklabs offerings. The labs have been curated to give IT professionals hands-on practice with topics and services that appear in the Google Cloud Certified Associate Cloud Engineer Certification. 
+
 
 [Cloud Engineering](https://www.qwiklabs.com/quests/66?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7468028)
 
-
-#### Manage Cloud Environments
-
-This fundamental-level quest is unique amongst the other Qwiklabs offerings. The labs have been curated to give IT professionals hands-on practice with topics and services that appear in the [Google Cloud Certified Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) Certification. 
-
-[Deploy and Manage Cloud Environments with Google Cloud](https://www.qwiklabs.com/quests/121?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467754)
 
 
 
