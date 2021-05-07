@@ -27,7 +27,7 @@ The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-s
 
 ## HTTPS
 
-Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
+[Hypertext Transfer Protocol]( https://en.m.wikipedia.org/wiki/HTTPS   ) Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
 
 ## cert manager 
 
@@ -38,15 +38,15 @@ It will ensure certificates are valid and up to date, and attempt to renew certi
 
 It is loosely based upon the work of [kube-lego]( https://github.com/jetstack/kube-lego   ) and has borrowed some wisdom from other similar projects such as kube-cert-manager.
 
-# [Let's Encrypt](https://letsencrypt.org/) 
+# Let's Encrypt
 
-To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). Let’s Encrypt is a CA. In order to get a certificate for your website’s domain from Let’s Encrypt, you have to demonstrate control over the domain. With Let’s Encrypt, you do this using software that uses the ACME protocol which typically runs on your web host.
+To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). [Let’s Encrypt](  https://letsencrypt.org/ ) is a CA. In order to get a certificate for your website’s domain from Let’s Encrypt, you have to demonstrate control over the domain. With Let’s Encrypt, you do this using software that uses the ACME protocol which typically runs on your web host.
 
 ## ACME
 
-Automatic certificate management environment.
+[Automatic certificate management environment]( https://tools.ietf.org/html/rfc8555  ).
 
-https://tools.ietf.org/html/rfc8555
+
 
 
 
@@ -59,14 +59,14 @@ https://tools.ietf.org/html/rfc8555
 
 ## IKE
 
-[Internet Key Exchange](https://en.wikipedia.org/wiki/Internet_Key_Exchange) is the protocol used to set up a security association (SA) in the IPsec protocol suite. IKE builds upon the Oakley protocol and ISAKMP. IKE uses X.509 certificates for authentication ‒ either pre-shared or distributed using DNS (preferably with DNSSEC) ‒ and a Diffie–Hellman key exchange to set up a shared session secret from which cryptographic keys are derived. In addition, a security policy for every peer which will connect must be manually maintained.
+[Internet Key Exchange](https://en.wikipedia.org/wiki/Internet_Key_Exchange) is the protocol used to set up a security association (SA) in the IPsec protocol suite. IKE builds upon the Oakley protocol and [ISAKMP](  https://en.m.wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol ). IKE uses [X.509](  https://en.m.wikipedia.org/wiki/X.509  ) certificates for authentication ‒ either pre-shared or distributed using DNS (preferably with DNSSEC) ‒ and a Diffie–Hellman key exchange to set up a shared session secret from which cryptographic keys are derived. In addition, a security policy for every peer which will connect must be manually maintained.
 
 Cloud VPN supports  [some IKE ciphers](https://cloud.google.com/network-connectivity/docs/vpn/concepts/supported-ike-ciphers).
 
 
 ## X.509
 
-X.509 is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of IDL for defining data structures that can be serialized and de-serialized.  
+[X.509](  https://en.m.wikipedia.org/wiki/X.509  ) is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of IDL for defining data structures that can be serialized and de-serialized.  
 
 ## Diffie-Hellman 
 
