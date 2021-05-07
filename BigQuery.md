@@ -182,91 +182,38 @@ A Galaxy Schema contains two fact table that share dimension tables between them
 ## Qwiklabs
 
 
-### Data Analysts
-
-BigQuery uses SQL and can take advantage of the pay-as-you-go model. BigQuery allows you to focus on analyzing data to find meaningful insights.
-
 [BigQuery Basics for Data Analysts](https://www.qwiklabs.com/quests/69?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
-GSP340
+[BigQuery challenge on Covid-19 public data sources](https://www.qwiklabs.com/focuses/14341?parent=catalog)
 
-A favorite BigQuery challenge on Covid-19 public data sources
-
-[https://www.qwiklabs.com/focuses/14341?parent=catalog](https://www.qwiklabs.com/focuses/14341?parent=catalog)
-
-
-### Data Warehousing
-
-Looking to build or optimize your data warehouse? Learn best practices to Extract, Transform, and Load your data into Google Cloud with BigQuery. 
 
 [Build and Optimize Data Warehouses with BigQuery](https://www.qwiklabs.com/quests/147?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
 
-### Marketing Analysts
-
-Want to turn your marketing data into insights and build dashboards? Bring all of your data into one place for large-scale analysis and model building.
-
 [BigQuery for Marketing Analysts](https://www.qwiklabs.com/quests/70?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
-
-### Machine Learning
-
-Want to learn and practice machine learning and build models in minutes instead of hours using just SQL? BigQuery Machine Learning is a new feature in BigQuery where data analysts can create, train, evaluate, and predict machine learning models with minimal coding. In this series of labs you will experiment with different model types and learn what makes a good model.
 
 [BigQuery for Machine Learning](https://www.qwiklabs.com/quests/71?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
 
-### Data Warehousing Optimization
-
-In this series of interactive labs you will create and optimize your own data warehouse using a variety of large-scale BigQuery public datasets. 
-
 [BigQuery for Data Warehousing](https://www.qwiklabs.com/quests/68?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
-
-### Insights from Data
-
-Learn the best practices for querying and getting insights from your data warehouse with this interactive series of BigQuery labs. 
-
-A favorite lab.
 
 [Insights from Data with BigQuery](https://www.qwiklabs.com/quests/123?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
 
-### Create ML Models
-
-Want to build ML models in minutes instead of hours using just SQL? BigQuery ML democratizes machine learning by letting data analysts create, train, evaluate, and predict with machine learning models using existing SQL tools and skills. 
-
 [Create ML Models with BigQuery ML](https://www.qwiklabs.com/quests/146?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
-
-### March Madness
-
-In this series of labs you will learn how to use BigQuery to analyze NCAA basketball data with SQL. Build a Machine Learning Model to predict the outcomes of NCAA March Madness basketball tournament games.
 
  
 [NCAA® March Madness®: Bracketology with Google Cloud](https://www.qwiklabs.com/quests/58?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
 
 
-### Scientific Data Processing
-
-Big data, machine learning, and scientific data? It sounds like the perfect match. In this advanced-level quest, you will get hands-on practice with GCP services like Big Query, Dataproc, and TensorFlow by applying them to use cases that employ real-life, scientific data sets. By getting experience with tasks like earthquake data analysis and satellite image aggregation, Scientific Data Processing will expand your skill set in big data and machine learning so you can start tackling your own problems across a spectrum of scientific disciplines.
-
 [Scientific Data Processing](https://www.qwiklabs.com/quests/28?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467566)
 
 
-### Analyzing Natality Data Using AI Platform and BigQuery
-
-A favorite lab.
-
-This lab illustrates how you can carry out data exploration of large datasets, but continue to use familiar tools like Pandas and Jupyter. The trick is to do the first part of your aggregation in BigQuery, get back a Pandas DataFrame, then work with the smaller Pandas DataFrame locally. AI Platform provides a managed Jupyter experience, so you don't need to run notebook servers yourself.
-
-[https://google.qwiklabs.com/focuses/604?parent=catalog](https://google.qwiklabs.com/focuses/604?parent=catalog)
+[Analyzing Natality Data Using AI Platform and BigQuery](https://google.qwiklabs.com/focuses/604?parent=catalog)
 
 
-### Weather data in BigQuery
 
-A favorite lab.
-
-This lab uses two public datasets in BigQuery: weather data from NOAA and citizen complaints data from New York City.  Interestingly, you will find what types of municipal complaints are correlated with weather. For example, you will find (not surprisingly) that complaints about residential furnaces are most common when it is cold outside.
-
-[https://google.qwiklabs.com/focuses/609?parent=catalog](https://google.qwiklabs.com/focuses/609?parent=catalog)
+[Weather data in BigQuery](https://google.qwiklabs.com/focuses/609?parent=catalog)
