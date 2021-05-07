@@ -9,13 +9,9 @@ If you want to get a well-rounded education in Computer Science there are many  
 
 ## Opensource computer science degree 
 
-This is a curated list of [free courses from reputable universities](https://github.com/ForrestKnight/open-source-cs) like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+Using a curated list of [free courses from reputable universities](https://github.com/ForrestKnight/open-source-cs) like MIT, Stanford, and Princeton you can get an undergraduate [Computer Science education](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
+).
 
-
-
-## Computer Science Concepts
-
-https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 
 ## Data
 
