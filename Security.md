@@ -367,29 +367,14 @@ The Binary Authorization enforcer uses the attestor at deploy time to limit whic
 
 ### Cloud KMS
 
-In this lab you'll learn how to use some advanced features of Google Cloud Security and Privacy APIs, including:
-
-
-
-*   Setting up a secure Cloud Storage bucket
-*   Managing keys and encrypted data using Key Management Storage
-*   Viewing Cloud Storage audit logs
-
-You'll take abridged data from the Enron Corpus, encrypt it and load it into Cloud Storage.
 
 [Getting Started with Cloud KMS](https://www.qwiklabs.com/focuses/1713?catalog_rank=%7B%22rank%22%3A20%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 
 
-### Security & Identity
-
-Security is an uncompromising feature of Google Cloud services, and Google Cloud has developed specific tools for ensuring safety and identity across your projects. In this fundamental-level quest, you will get hands-on practice with Google Cloud’s Identity and Access Management (IAM) service, which is the go-to for managing user and virtual machine accounts.
 
 [Security & Identity Fundamentals](https://www.qwiklabs.com/quests/40?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
 
 
-### IAM
-
-In this fundamental-level quest, you will get hands-on practice with Google Cloud’s Identity and Access Management (IAM) service, which is the go-to for managing user and virtual machine accounts. You will get experience with network security by provisioning VPCs and VPNs, and learn what tools are available for security threat and data loss protections.
 
 [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
 
