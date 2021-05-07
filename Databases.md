@@ -11,7 +11,8 @@ There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud
 * [AWS Database products](https://aws.amazon.com/products/databases/) 
 * [Azure databases](https://azure.microsoft.com/en-us/product-categories/databases/)
 * [Oracle databases](https://www.oracle.com/database/)
-* [List of cloud databases](https://en.wikipedia.org/wiki/Cloud_database)
+* [IBM  DB2 database](https://www.ibm.com/cloud/db2-on-cloud)
+* [SAP HANA Cloud](   https://www.sap.com/products/hana/cloud.html )
 
 ### SQL, NoSQL, NewSQL, distributed SQL
 
