@@ -25,7 +25,7 @@ https://cloud.google.com/ai-hub/docs/public-hub-quickstart
 
 You can share AI assets within your organization by uploading them to your organization's collection of assets on AI Hub. Colleagues in your organization can then find, deploy, and use those assets.
 
-In this guide, you upload a sample notebook file, hello-world.ipynb, to your organization's collection of private assets.
+
 
 https://cloud.google.com/ai-hub/docs/private-hub-quickstart
 
