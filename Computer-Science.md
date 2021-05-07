@@ -1,37 +1,14 @@
 
-
-If you want to get a well-rounded education in Computer Science there are many  resources available for free.
-
-
-
-
-
-
-## Opensource computer science degree 
+If you want to get a well-rounded education in  Computer Science  there are many  [resources available](https://github.com/Developer-Y/cs-video-courses
+).
 
 Using a curated list of [free courses from reputable universities](https://github.com/ForrestKnight/open-source-cs) like MIT, Stanford, and Princeton you can get an undergraduate [Computer Science education](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 ).
 
 
-## Data
-
-
-https://datacadamia.com/
-
-
-## Statistics
-
-https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7
-
-## List of courses with video
-
-Lectures and videos from various Universities.
-
-https://github.com/Developer-Y/cs-video-courses
-
-## OSSU
-
 The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+
+You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/) as well as many related topics as listed below.
 
 ## Go
 
