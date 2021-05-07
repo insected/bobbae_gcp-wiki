@@ -93,42 +93,20 @@ In contrast, the flexible environment runs your application in Docker containers
 ## Qwiklabs
 
 
-### App Engine with Python
-
 [App Engine: Qwik Start - Python](https://www.qwiklabs.com/focuses/1014?catalog_rank=%7B%22rank%22%3A19%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467964)
 
-
-### App Engine with Go
-
 [App Engine: Qwik Start - Go](https://www.qwiklabs.com/focuses/2754?catalog_rank=%7B%22rank%22%3A14%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467964)
-
-
-### App Engine with Java
 
 [App Engine: Qwik Start - Java](https://www.qwiklabs.com/focuses/951?parent=catalog)
 
 
-### Baseline
-
-In this introductory-level quest, you will learn the fundamentals of developing and deploying applications on the Google Cloud Platform. You will get hands-on experience with the Google App Engine framework by launching applications written in languages like Python, Ruby, and Java (just to name a few). You will see first-hand how straightforward and powerful GCP application frameworks are, and how easily they integrate with GCP database, data-loss prevention, and security services.
-
 [Baseline: Deploy & Develop](https://www.qwiklabs.com/quests/37?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
-
-### Deploying
-
-The Google Cloud Platform provides many different frameworks and options to fit your application’s needs. In this introductory-level quest, you will get plenty of hands-on practice deploying sample applications on Google App Engine. You will also dive into other web application frameworks like Firebase, Wordpress, and Node.js and see firsthand how they can be integrated with GCP.
 
 [Deploying Applications](https://www.qwiklabs.com/quests/26?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467936)
 
 
-### Python Flask on App Engine Flexible
-
-In this lab, you will learn how to deploy a Python Flask web application to the App Engine Flexible environment. The example application allows a user to upload a photo of a person's face and learn how likely it is that the person is happy. The application uses Google Cloud APIs for Vision, Storage, and Datastore.
-
 [Deploying a Python Flask Web Application to App Engine Flexible](https://www.qwiklabs.com/focuses/3339?catalog_rank=%7B%22rank%22%3A24%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467972)
 
-
-### Node.js Express
 
 [Deploy Node.js Express Application in App Engine](https://www.qwiklabs.com/focuses/3340?catalog_rank=%7B%22rank%22%3A21%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467972)
