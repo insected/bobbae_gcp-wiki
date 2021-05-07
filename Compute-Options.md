@@ -23,14 +23,6 @@ Decision tree for compute options.
 [https://cloud.google.com/functions/docs/functions-framework](https://cloud.google.com/functions/docs/functions-framework)
 
 
-#### Qwiklabs
-
-
-##### Cloud Functions & Dialogflow
-
-[Google Assistant](https://assistant.google.com/#?modal_active=none) is a personal voice assistant that offers a host of actions and integrations. From making appointments and setting reminders, to ordering coffee and playing music, the 1 million+ actions available suit a wide range of voice command tasks. Google Assistant is offered on Android and iOS, but it can even be integrated with other devices like smartwatches, Google Homes, and Android TVs. [Actions](https://developers.google.com/actions/extending-the-assistant) is the central platform for developing Google Assistant applications. The Actions platform integrates with human-computer interaction suites, which simplifies conversational app development. The most widely used suite is [Dialogflow](https://dialogflow.com/), which uses an underlying machine learning (ML) and natural language understanding (NLU) schema to build rich Assistant applications. The Actions platform also integrates with [Cloud Functions](https://cloud.google.com/functions/), which lets you run backend fulfillment code in response to events triggered by Dialogflow requests. In this lab you will get hands-on practice with the Actions platform, the Dialogflow suite, and Cloud Functions by building a "Silly Name Maker" application, which returns a user with a silly name after they have entered in a lucky number and favorite color. You will build a Dialogflow agent that intelligently parses user input for specific information. The agent will be supplemented with a webhook, which will trigger a Cloud Function that handles fulfillment logic and returns your user with their silly name.
-
-[Google Assistant: Build an Application with Dialogflow and Cloud Functions](https://www.qwiklabs.com/focuses/3634?catalog_rank=%7B%22rank%22%3A19%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7510653)
 
 
 ### Cloud GPUs
@@ -99,3 +91,7 @@ Before migrating a portion of your environment to the Cloud, it is important to 
 [https://www.youtube.com/watch?v=QUb86NiMZ8k](https://www.youtube.com/watch?v=QUb86NiMZ8k)
 
 
+## Qwiklabs
+
+
+[Google Assistant: Build an Application with Dialogflow and Cloud Functions](https://www.qwiklabs.com/focuses/3634?catalog_rank=%7B%22rank%22%3A19%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7510653)
