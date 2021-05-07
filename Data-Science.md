@@ -8,6 +8,8 @@ There are [awesome](https://github.com/academic/awesome-datascience) and [freely
 
 ## Data Analytics 
 
+What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? In practical terms,  
+there are significant overlapping areas of interest in data science, engineering  and analytics. 
 
 GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analytics ) can help strip out layers of complexity and [analyze data  to solve problems](  https://cloud.google.com/architecture/reference-patterns/overview ) in various areas of focus such as [anomaly detection](https://cloud.google.com/architecture/reference-patterns/overview#anomaly_detection), [data monetization](https://cloud.google.com/architecture/reference-patterns/overview#data_monetization
 ), [general analytics](
