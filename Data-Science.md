@@ -33,23 +33,23 @@ https://cloud.google.com/architecture/reference-patterns/overview#general_analyt
 
 ## Dialogflow
 
-[Dialogflow](https://cloud.google.com/dialogflow/docs) is a [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) platform that makes it easy to design and integrate a conversational user interface into your mobile app, web application, device, bot, interactive voice response system, and so on. Using Dialogflow, you can provide new and engaging ways for users to interact with your product.
+[Dialogflow](https://cloud.google.com/dialogflow/docs) is a [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) platform that makes it easy to design and integrate a conversational user interface into your mobile app, web application, device, bot, interactive voice response system, and so on. Using [Dialogflow](  https://cloud.google.com/dialogflow/docs  ), you can [provide new and engaging ways](  https://www.youtube.com/watch?v=YoytR7kzorg  ) for users to interact with your product.
 
-[https://cloud.google.com/dialogflow/docs](https://cloud.google.com/dialogflow/docs)
 
-[https://www.youtube.com/watch?v=YoytR7kzorg](https://www.youtube.com/watch?v=YoytR7kzorg)
+
+
 
 
 ## AutoML Tables
 
-[AutoML](https://cloud.google.com/automl) Tables enables your entire team to automatically build and deploy state-of-the-art machine learning models on structured data at massively increased speed and scale.
-
-[https://cloud.google.com/automl-tables/docs](https://cloud.google.com/automl-tables/docs)
-
-[https://www.youtube.com/watch?v=tWbiOuHae0c](https://www.youtube.com/watch?v=tWbiOuHae0c)
+[AutoML](https://cloud.google.com/automl) Tables enables your entire team to [automatically build and deploy](  https://www.youtube.com/watch?v=tWbiOuHae0c  ) state-of-the-art machine learning models on structured data at massively increased speed and scale.
 
 
-## [Cloud Interference API](https://cloud.google.com/inference)
+
+
+
+
+## Cloud Interference API
 
 [Time-series analysis]( https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775  ) is essential for day-to-day operation of many companies. Most popular use cases include analyzing foot traffic and conversion for retailers, detecting data anomalies, identifying correlations in real time over sensor data, or generating high-quality recommendations. With [Cloud Inference API](  https://cloud.google.com/inference), you can gather insights in real time from your typed time-series datasets.
 
@@ -96,18 +96,18 @@ Using the same deep machine learning technology that powers Google Search and As
 
 ## Cloud GPUs
 
-Compute Engine provides graphics processing units (GPUs) that you can add to your virtual machine instances. You can use these GPUs to accelerate specific workloads on your instances such as machine learning and data processing.
+[Compute Engine]( https://cloud.google.com/compute/docs/gpus   ) provides graphics processing units (GPUs) that you can add to your virtual machine instances. You can use these GPUs to accelerate specific workloads on your instances such as machine learning and data processing.
 
-[https://cloud.google.com/compute/docs/gpus](https://cloud.google.com/compute/docs/gpus)
+
 
 [https://www.youtube.com/watch?v=jUZhe1aTnFk](https://www.youtube.com/watch?v=jUZhe1aTnFk)
 
 
 ## Cloud TPU
 
-Tensor Processing Units (TPUs) are Google’s custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads. TPUs are designed from the ground up with the benefit of Google’s deep experience and leadership in machine learning.
+[Tensor Processing Units]( https://cloud.google.com/tpu/docs   ) (TPUs) are Google’s custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads. TPUs are designed from the ground up with the benefit of Google’s deep experience and leadership in machine learning.
 
-[https://cloud.google.com/tpu/docs](https://cloud.google.com/tpu/docs)
+
 
 [https://www.youtube.com/watch?v=2kSo7Az4ZOs](https://www.youtube.com/watch?v=2kSo7Az4ZOs)
 
