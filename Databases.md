@@ -2,7 +2,7 @@
 
 ## Database Related topics
 
-https://moi.vonos.net/cloud/google-databases-overview/
+There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Datastore](Datastore), [Firebase](Firebase), [Firestore](Firestore), [Cloud SQL](Cloud SQL), [Spanner](Spanner), and [Memorystore](Memorystore).
 
 ### Cloud Databases
 
