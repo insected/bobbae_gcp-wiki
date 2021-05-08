@@ -38,24 +38,9 @@ https://github.com/kubeflow/examples/blob/master/mnist/mnist_gcp.ipynb
 
 ## Kubeflow pipelines 
 
-Kubeflow Pipelines is a component of Kubeflow that provides a platform for building and deploying ML workflows, called pipelines. 
-
-Kubeflow Pipelines is a platform for building, deploying, and managing multi-step ML workflows based on Docker containers. 
-
+[Kubeflow Pipelines](https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/)  is a component of Kubeflow that provides a platform for building and deploying ML workflows, called pipelines. 
+[Kubeflow](https://github.com/kubeflow/examples) Pipelines is a platform for building, deploying, and managing multi-step ML workflows based on Docker containers. 
 Pipelines are built from self-contained sets of code called pipeline components.
-
-
-
-https://www.kubeflow.org/docs/guides/pipelines/pipelines-overview/
-
-## Deploying Kubeflow Pipelines in [AI Hub](AI-Hub)
-
-
-https://cloud.google.com/ai-hub/docs/deploy-pipeline
-
-
-## Kubeflow Examples 
-
-https://github.com/kubeflow/examples
+Kubeflow Pipelines can be [deployed](https://cloud.google.com/ai-hub/docs/deploy-pipeline) in [AI Hub](AI-Hub).
 
 
