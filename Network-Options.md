@@ -16,17 +16,9 @@ For high-level architectural guides and tutorials that describe [networking scen
 <img src="https://callcenterstudio.com/wp-content/uploads/2020/04/Deciding_how_to_connect_to_Google_Cloud.max-2800x2800.jpg-1030x579.png" width="800"> 
 
 
-### Compare Dedicated Interconnect vs Partner Interconnect
+* Compare [Dedicated Interconnect vs Partner Interconnect](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions)
 
-[https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions)
+* Compare [Direct Peering to Cloud Interconnect](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#dp-compare)
 
-
-### Compare Direct Peering to Cloud Interconnect
-
-[https://cloud.google.com/network-connectivity/docs/how-to/choose-product#dp-compare](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#dp-compare)
-
-
-### Compare Cloud Interconnect with Carrier Peering
-
-[https://cloud.google.com/network-connectivity/docs/how-to/choose-product#cp-compare](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#cp-compare)
+* Compare [Cloud Interconnect with Carrier Peering](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#cp-compare)
 
