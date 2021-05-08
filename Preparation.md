@@ -25,34 +25,14 @@ If you are not familiar with git, you should [learn to use it]((https://www.yout
 
 ### Certifications
 
-You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after studying the 
-materials in this document for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
-Being certified by Google does not necessarily mean that you know everything you need to know. But it does have a value in letting others
-know that you have the necessary amount of GCP knowledge to pass the exams.
+You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after [studying the 
+materials](https://cloud.google.com/certification/sample-questions/cloud-architect) in [this document](https://www.gcp-examquestions.com/category/gcp-practice-questions/) for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
+Being certified by Google does not necessarily mean that you know everything [you need to know](https://github.com/ddneves/awesome-gcp-certifications). But it does have a value in letting others
+know that you have the [necessary amount of GCP knowledge](https://www.examtopics.com/exams/google/professional-cloud-architect) to pass the exams.
 
-#### Register for exams
+[Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or other GCP exams. During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, [some of the questions](https://www.youtube.com/watch?v=Kub0oH6TFKw) may refer you to a case study that describes a fictitious business and solution concept. These case studies are intended to provide additional context to help you choose your answer
 
-[Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or other GCP exams.
 
-##### Sample test questions
-
-[https://cloud.google.com/certification/sample-questions/cloud-architect](https://cloud.google.com/certification/sample-questions/cloud-architect)
-
-##### Case Studies commonly used in exams
-
-[https://cloud.google.com/certification/guides/professional-cloud-architect](https://cloud.google.com/certification/guides/professional-cloud-architect)
-
-##### Additional certificate exam related information
-
-[https://www.youtube.com/watch?v=Kub0oH6TFKw](https://www.youtube.com/watch?v=Kub0oH6TFKw)
-
-[https://www.youtube.com/watch?v=2Djgv5YTj1s](https://www.youtube.com/watch?v=2Djgv5YTj1s)
-
-[https://github.com/ddneves/awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications)
-
-##### More Practice tests with discussions
-
-The answers are not necessarily clear and the [discussions](https://www.examtopics.com/exams/google/professional-cloud-architect) can be confusing but you can look at a large [list of questions](https://www.gcp-examquestions.com/category/gcp-practice-questions/) and practice them.
 
 ## External Learning Resources
 
