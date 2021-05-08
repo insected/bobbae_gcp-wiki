@@ -143,13 +143,13 @@ Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practice
 ## Data Warehouse Topics
 
 
-### BigQuery, [Snowflake](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/), [Redshift](https://aws.amazon.com/redshift/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+### BigQuery, Snowflake and Redshift
+
+[Compare](https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555)  
+and [review](https://www.youtube.com/watch?v=XpaN-PqSczM
+) various Data Warehousing solutions: BigQuery, [Snowflake](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/) and [RedShift](https://aws.amazon.com/redshift/).
 
 
-[https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555](https://medium.com/2359media/redshift-vs-bigquery-vs-snowflake-a-comparison-of-the-most-popular-data-warehouse-for-data-driven-cb1c10ac8555)
-
-
-https://www.youtube.com/watch?v=XpaN-PqSczM
 
 ### Snowflake, Star, Galaxy
 
