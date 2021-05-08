@@ -15,11 +15,11 @@ Kubernetes is the most popular container orchestration system, and Google Kubern
 
 ### GKE HA and Stateful Application, PVC
 
-Kubernetes is a great tool to host your highly available applications but what happens when you have to work with stateful workloads? 
+[Kubernetes](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview) is a great tool to host your highly available applications but what happens when you have to work with [stateful workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)? 
 
-[https://www.youtube.com/watch?v=rRZtZX0PDFc](https://www.youtube.com/watch?v=rRZtZX0PDFc)
 
-### Batch on [GKE](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview)
+
+### Batch on GKE
 
 Batch on GKE (Batch) is a cloud-native solution for scheduling and managing batch workloads. With Batch, you can leverage the on-demand and flexible nature of cloud. Batch is based on Kubernetes and containers so your jobs are portable.
 
