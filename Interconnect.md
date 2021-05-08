@@ -34,8 +34,8 @@ After you create a VLAN attachment, you need to configure your on-premises route
 
 
 
-## [Partner Interconnect](
-https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview)
+## Partner Interconnect
+
 
 <img src="https://docs.packetfabric.com/cloud/google/images/google_overview_hosted.svg" width="600">
 
