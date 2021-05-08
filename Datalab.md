@@ -32,15 +32,11 @@ The default configuration of this network limits incoming connections to SSH con
 [https://cloud.google.com/datalab/docs/how-to/lifecycle](https://cloud.google.com/datalab/docs/how-to/lifecycle)
 
 
-## Datalab Quickstart
-
-[https://cloud.google.com/datalab/docs/quickstart](https://cloud.google.com/datalab/docs/quickstart)
-
 ## Jupyter
 
-Datalab supports [Jupyter](Jupyter) Notebooks. 
+[Datalab](https://cloud.google.com/datalab/docs/quickstart) supports [Jupyter](Jupyter) [Notebooks]https://cloud.google.com/datalab/docs/how-to/working-with-notebooks). 
 
-https://cloud.google.com/datalab/docs/how-to/working-with-notebooks
+
 
 
 
