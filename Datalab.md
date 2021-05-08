@@ -3,22 +3,7 @@
 
 [Cloud Datalab](https://cloud.google.com/datalab/docs)    can be used to easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. Datalab comes with pre-installed [Jupyter](Jupyter) samples and tutorial notebooks.  
 
-Datalab can be used to  show you how to access, analyze, monitor and visualize data.  You can use notebooks with Python, TensorFlow ML, Google Analytics, BigQuery and Google Charts APIs.
-
-
-
-
-
-
-
-
-## Datalab on github
-
-[https://github.com/googledatalab/datalab](https://github.com/googledatalab/datalab)
-
-
-
-
+[Datalab](https://github.com/googledatalab/datalab) can be used to  show you how to access, analyze, monitor and visualize data.  You can use notebooks with Python, TensorFlow ML, Google Analytics, BigQuery and Google Charts APIs.
 
 
 ## Lifecycle 
