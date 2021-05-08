@@ -4,9 +4,9 @@
 
 ## Google Kubernetes Engine (GKE)
 
-[GKE](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview) is Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
+[GKE](https://cloud.google.com/kubernetes-engine) is Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
-https://cloud.google.com/kubernetes-engine
+
 
 Kubernetes is the most popular container orchestration system, and Google Kubernetes Engine was designed specifically to support managed Kubernetes deployments in Google Cloud. In this advanced-level quest, you will get hands-on practice configuring Docker images, containers, and deploying fully-fledged Kubernetes Engine applications. This quest will teach you the practical skills needed for integrating container orchestration into your own workflow. 
 
