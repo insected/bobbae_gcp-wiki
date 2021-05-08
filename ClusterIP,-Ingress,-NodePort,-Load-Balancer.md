@@ -1,4 +1,4 @@
-## Kubernetes  [service](https://kubernetes.io/docs/concepts/services-networking/service/)
+## Kubernetes  service
 
 Kubernetes [service](https://kubernetes.io/docs/concepts/services-networking/service/) is an abstract way to expose an application running on a set of Pods as a [Network](Kubernetes-Networking) service.
 
@@ -20,15 +20,17 @@ When to use NodePort vs. LoadBalancer  can be confusing.
 
 https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0
 
-## [GKE](https://cloud.google.com/kubernetes-engine)
+## GKE
 
-GKE is a Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
+[GKE](GKE) is a Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
 
-https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps
+
 
 ## Service Types
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/22-1.png" width="700">
+
+Services can be exposed in [different ways](https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps)
 
 ## ClusterIP
 
@@ -38,11 +40,11 @@ The ClusterIP in kubernetes is a service type which has its origins in the iptab
 
 https://book.huihoo.com/iptables-tutorial/x8906.htm
 
-### [Kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/)
+### Kube-proxy
 
-There are several types of proxies in Kubernetes, and among them is the node proxier, or [kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/), which reflects services defined in Kubernetes API on each node and performs simple TCP/UDP/SCTP stream forwarding across a set of backends.
+There are several types of proxies in Kubernetes, and among them is the node proxier, or [kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/), which [reflects services defined in Kubernetes API on each node](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/)  and performs simple TCP/UDP/SCTP stream [forwarding across a set of backends](https://arthurchiao.art/blog/cracking-k8s-node-proxy/).
 
-https://arthurchiao.art/blog/cracking-k8s-node-proxy/
+
 
 <img src="https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/host-to-clusterip-lb-ct.png" width="700">
 
@@ -78,9 +80,9 @@ NodePort exposes the Service on each Node's IP at a static port (the NodePort). 
 
 https://hackernoon.com/introducing-nodeport-service-in-kubernetes-ear0360s
 
-## [LoadBalancer](  Load-Balancer )
+## LoadBalancer
 
-A [LoadBalancer](  https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer ) service is the standard way to expose a service to the internet. On GKE, this will spin up a [Network Load Balancer](https://cloud.google.com/compute/docs/load-balancing/network/) that will give you a single IP address that will forward all traffic to your service.
+A [LoadBalancer](  https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer ) service is the [standard way to expose a service](  Load-Balancer ) to the internet. On GKE, this will spin up a [Network Load Balancer](https://cloud.google.com/compute/docs/load-balancing/network/) that will give you a single IP address that will forward all traffic to your service.
 
 
 
@@ -88,13 +90,13 @@ A [LoadBalancer](  https://kubernetes.io/docs/concepts/services-networking/servi
 
 
 
-### [MetalLB](https://metallb.universe.tf/)
+### MetalLB
 
 Kubernetes does not offer an implementation of network load-balancers (Services of type LoadBalancer) for bare metal clusters. The implementations of Network LB that Kubernetes does ship with are all glue code that calls out to various IaaS platforms (GCP, AWS, Azure…). If you’re not running on a supported IaaS platform (GCP, AWS, Azure…), LoadBalancers will remain in the “pending” state indefinitely when created.
 
 Bare metal cluster operators are left with two lesser tools to bring user traffic into their clusters, “NodePort” and “externalIPs” services. Both of these options have significant downsides for production use, which makes bare metal clusters second class citizens in the Kubernetes ecosystem.
 
-MetalLB aims to redress this imbalance by offering a Network LB implementation that integrates with standard network equipment, so that external services on bare metal clusters also “just work” as much as possible.
+[MetalLB](https://metallb.universe.tf/) aims to redress this imbalance by offering a Network LB implementation that integrates with standard network equipment, so that external services on bare metal clusters also “just work” as much as possible.
 
 MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols.
 
