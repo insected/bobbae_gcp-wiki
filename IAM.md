@@ -6,9 +6,9 @@
 
 
 
-## [How IAM works](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works)
+## How IAM works
 
-With IAM, you manage access control by defining who (identity) has what access (role) for which resource. For example, Compute Engine virtual machine instances, Google Kubernetes Engine (GKE) clusters, and Cloud Storage buckets are all Google Cloud resources. The organizations, folders, and projects that you use to organize your resources are also resources.
+With [IAM](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works), you manage access control by defining who (identity) has what access (role) for which resource. For example, Compute Engine virtual machine instances, Google Kubernetes Engine (GKE) clusters, and Cloud Storage buckets are all Google Cloud resources. The organizations, folders, and projects that you use to organize your resources are also resources.
 
 ### IAM Model
 
@@ -31,19 +31,19 @@ A role is a collection of permissions. Permissions determine what operations are
 
 https://cloud.google.com/iam/docs/understanding-roles
 
-#### [Policy](https://cloud.google.com/iam/docs/policies)
+#### Policy
 
 <img src="https://cloud.google.com/iam/img/iam-overview-policy.png" width="600">
 
-The [IAM policy](https://cloud.google.com/iam/docs/overview#cloud-iam-policy) binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a policy and attach it to the resource.
+The [IAM policy](https://cloud.google.com/iam/docs/overview#cloud-iam-policy) binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a [policy](https://cloud.google.com/iam/docs/policies) and attach it to the resource.
 
 
 
 
 
-#### [Policy intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)
+#### Policy intelligence tools
 
-Large organizations often have complicated Identity and Access Management (IAM) policies. Policy Intelligence tools help you understand and manage your policies to proactively improve your security configuration.
+Large organizations often have complicated Identity and Access Management (IAM) policies. [Policy Intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)  help you understand and manage your policies to proactively improve your security configuration.
 
 
 
@@ -77,16 +77,14 @@ In general, the term IAM as in Identity and access management (IAM or IdAM for s
 
 You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
 
-## [Concepts related to identity](https://cloud.google.com/iam/docs/overview#concepts_related_identity)
+## Concepts related to identity
 
-In IAM you grant access to members. Members can have the following types: Google Account, Service Account, Google Group, Google Workspace domain, Cloud Identity Domain, All authenticated users, All users.
-
-
+In [IAM you grant access](https://cloud.google.com/iam/docs/overview#concepts_related_identity) to members. Members can have the following types: Google Account, Service Account, Google Group, Google Workspace domain, Cloud Identity Domain, All authenticated users, All users.
 
 
-### [Google Groups](https://cloud.google.com/iam/docs/groups-in-cloud-console)
+### Google Groups
 
-Google Groups is a service from Google that provides discussion groups for people sharing common interests. The Groups service also provides a gateway to Usenet newsgroups via a shared user interface.
+[Google Groups](https://cloud.google.com/iam/docs/groups-in-cloud-console) is a service from Google that provides discussion groups for people sharing common interests. The Groups service also provides a gateway to Usenet newsgroups via a shared user interface.
 
 Google Groups became operational in February 2001, following Google's acquisition of Deja's Usenet archive. Deja News had been operational since March 1995.
 
