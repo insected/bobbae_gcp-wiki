@@ -14,7 +14,7 @@ A [container](https://appfleet.com/blog/what-is-a-container-a-kernel-introductio
 
 <img src="https://eglerean.github.io/reproducible-research/img/docker_architecture.svg" width="800">
 
-### Container [Images](https://phoenixnap.com/kb/docker-image-vs-container)
+### Container Images
 
 A [container image](https://cloud.google.com/container-registry/docs/image-formats) is a ready-to-run software package, containing everything needed to run an application: the code and any runtime it requires, application and system libraries, and default values for any essential settings.
 
@@ -22,7 +22,7 @@ A [container image](https://cloud.google.com/container-registry/docs/image-forma
 
 By design, a container is immutable: you cannot change the code of a container that is already running. If you have a containerized application and want to make changes, you need to build a new image that includes the change, then recreate the container to start from the updated image.
 
-Container images use [Union Filesystems](https://en.wikipedia.org/wiki/UnionFS). In Linux, docker originally use AUFS but they use OverlayFS now.  The details of union filesystem use in docker container images can be found at https://martinheinz.dev/blog/44.
+[Container images](https://phoenixnap.com/kb/docker-image-vs-container) use [Union Filesystems](https://en.wikipedia.org/wiki/UnionFS). In Linux, docker originally use AUFS but they use OverlayFS now.  The details of union filesystem use in docker container images can be found at https://martinheinz.dev/blog/44.
 
 ## Borg
 
