@@ -1,12 +1,11 @@
 
 
-### [Connectivity Options](https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained)
-
+### GCP Network Connectivity Options
 
 
 For pricing, quotas, service level agreement (SLA), and release note information for all Network Connectivity products, see the [Network Connectivity resources page](https://cloud.google.com/network-connectivity/docs/resources).
 
-For high-level architectural guides and tutorials that describe networking scenarios for Google Cloud, see the [Technical guides for networking](https://cloud.google.com/docs/tutorials#networking).
+For high-level architectural guides and tutorials that describe [networking scenarios](https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-options-explained) for Google Cloud, see the [Technical guides for networking](https://cloud.google.com/docs/tutorials#networking).
 
 
 ### Choosing Network Products
