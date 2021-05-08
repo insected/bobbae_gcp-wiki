@@ -6,9 +6,9 @@ GCP doesn't rely on any single technology to make its [infrastructure secure](ht
 
 Review the [Google Cloud Security Foundations Guide](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf).
 
-## [Security Foundations Blueprint](https://cloud.google.com/blog/products/identity-security/google-cloud-security-foundations-guide)
+## Security Foundations Blueprint
 
-The [Security Foundations Blueprint](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf) presents an opinionated view of Google Cloud security best practices, organized to allow
+The [Security Foundations Blueprint](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf) presents [an opinionated view](https://cloud.google.com/blog/products/identity-security/google-cloud-security-foundations-guide) of Google Cloud security best practices, organized to allow
 users to adopt or adapt them and then automatically deploy them for their estates on Google Cloud.
 
 
@@ -287,14 +287,14 @@ See how reCAPTCHA Enterprise can help protect your websites from fraud and abuse
 
 
 
-## [Identity](https://cloud.google.com/identity) & Security Topics
+## Identity & Security Topics
 
-[See how Google Cloud achieves confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
+See how Google Cloud [Identity](https://cloud.google.com/identity)  achieves [confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
 
 
-## [Authentication](https://cloud.google.com/docs/authentication), Identity, Security, AuthN, AuthZ
+## Authentication, Identity, Security, AuthN, AuthZ
 
-Access control for Google Cloud APIs encompasses authentication, authorization, and auditing. Authentication determines who you are, authorization determines what you can do, and auditing logs what you did.  For authorization, see [Identity and Access Management](https://cloud.google.com/iam/docs) (IAM). For auditing, see [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit).
+Access control for Google Cloud APIs encompasses [authentication](https://cloud.google.com/docs/authentication), authorization, and auditing. Authentication determines who you are, authorization determines what you can do, and auditing logs what you did.  For authorization, see [Identity and Access Management](https://cloud.google.com/iam/docs) (IAM). For auditing, see [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit).
 
 
 ## PKI
