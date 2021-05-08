@@ -1,8 +1,8 @@
 [Cloud Endpoints](https://cloud.google.com/endpoints/docs/) is an API management system that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. After you deploy your API to Endpoints, you can use the Cloud Endpoints Portal to create a developer portal, a website that users of your API can access to view documentation and interact with your API.
 
-## [OpenAPI](https://cloud.google.com/endpoints/docs/openapi)
+## OpenAPI
 
-Cloud Endpoints is an API management system that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. Endpoints works with the Extensible Service Proxy (ESP) and the Extensible Service Proxy V2 (ESPv2) to provide API management. You can find out more about Endpoints, ESP, and ESPv2 in About Endpoints.
+Cloud Endpoints is an [API management system](https://cloud.google.com/endpoints/docs/openapi) that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. Endpoints works with the Extensible Service Proxy (ESP) and the Extensible Service Proxy V2 (ESPv2) to provide API management. You can find out more about Endpoints, ESP, and ESPv2 in About Endpoints.
 
 
 
