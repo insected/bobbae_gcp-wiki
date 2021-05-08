@@ -63,14 +63,14 @@ The [storage class](https://cloud.google.com/storage/docs/storage-classes) you s
 
 
 
-## [Persistent Disk](https://cloud.google.com/persistent-disk)
+## Persistent Disk
 
-Reliable, high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances.
+[Persistent Disks](https://cloud.google.com/persistent-disk) are reliable &  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. Persistent Disk is designed for high durability. It stores data redundantly to ensure data integrity. Persistent disk performance scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage space requirements.
 
 
-## [Local SSD](https://cloud.google.com/local-ssd)
+## Local SSD
 
-Local SSDs are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
+[Local SSDs](https://cloud.google.com/local-ssd) are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
 
 ## Filestore
 
