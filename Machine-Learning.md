@@ -28,7 +28,7 @@ A Data Scientist models and analyzes key data and continually improves the way t
 
 https://cloud.google.com/training/machinelearning-ai
 
-## Machine learning [Workflows](Workflows)
+## Machine learning Workflows
 
 [AI Platform](AI-Platform) enables many parts of the machine learning (ML) [workflow](Workflows). This document provides an introductory description of the overall ML process and explains where each AI Platform service fits into the process.
 
@@ -53,9 +53,9 @@ We can use probability to make predictions in machine learning. Perhaps the most
 
 Naive [Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/) methods are quite simple (in terms of model complexity) and commonly used for tasks such as document classification and spam filtering. This algorithm works well for datasets with a large amount of features (ex. a body of text where every word is treated as a feature) but it is naive in the sense that it treats every feature as independent of one another. This is clearly not the case for language, where word order matters when trying to discern meaning from a statement. Nonetheless, these methods have been used quite successfully for various text classification tasks.
 
-### [Regression & Classification](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/)
+### [Regression & Classification
 
-[https://www.youtube.com/watch?v=TJveOYsK6MY](https://www.youtube.com/watch?v=TJveOYsK6MY)
+[Regression](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/) and [classification](https://www.youtube.com/watch?v=TJveOYsK6MY) lead to ways of splitting data.
 
 ### Logistic Regression
 
@@ -175,13 +175,10 @@ One of the key hyperparameters to set in order to train a neural network is the 
 
 If your learning rate is set too low, training will progress very slowly as you are making very tiny updates to the weights in your network. However, if your learning rate is set too high, it can cause undesirable divergent behavior in your loss function. 
 
-### [Overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/)
-
+### Overfitting
 
 Many of the modern advancements in neural networks have been a result of stacking many hidden layers.
-
-
-This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to potentially overfitting our data. 
+This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/) our data. 
 
 
 ### Normalization
