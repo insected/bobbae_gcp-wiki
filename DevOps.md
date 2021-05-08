@@ -11,17 +11,14 @@ This will allow your organization to respond in a more agile manner to changing 
 
 ## DevSecOps
 
-DevOps isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](https://www.redhat.com/en/topics/security) must also play an integrated role in the full life cycle of your apps.
-
-[Practical DevSecOps](https://www.practical-devsecops.com/devsecops-university/) offers vendor-neutral, practical, and hands-on [DevSecOps](https://www.devsecops.org/)  training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. 
-
+DevOps isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](Security) and [privacy](Privacy) must also [play an integrated role](https://techbeacon.com/security/devsecops-realities-app-dev-teams-must-accept) in the [full life cycle of your apps](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/).
 
 
 <img src="https://tech.gsa.gov/assets/img/guides/DevSecOps.png" width="500">
 
-### Security
+### Security and Privacy
 
-Please review some [security topics](Security) from the DevOps point of view.
+Please review some [security topics](Security) and [privacy issues](Privacy) from the [DevSecOps point of view](https://www.csoonline.com/article/3245748/what-is-devsecops-developing-more-secure-applications.html).
 
 
 ## DevOps Research and Assessment
@@ -32,15 +29,12 @@ Please review some [security topics](Security) from the DevOps point of view.
 ## Hybrid Cloud DevOps
 
 Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. Anthos helps you manage both an on-premises Kubernetes cluster and a cluster running on Google Cloud.
-
 Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration system for containers and Kubernetes clusters that run within Google's public cloud services.
-
 Anthos clusters on VMware runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
 
 ### DevSecOps Case Study
 
 https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-pipeline-with-jfrog-artifactory-and-gke-on-prem
-
 
 
 ## GitOps 
@@ -53,24 +47,21 @@ The term GitOps was [first coined by Weaveworks](https://www.weave.works/blog/gi
 
 ### KubeStack
 
-Terraform GitOps Framework.
+Terraform [GitOps Framework](https://www.kubestack.com/).
 
-https://www.kubestack.com/
+
 
 ### Cloud Build Tutorial
 
 This tutorial explains how to manage infrastructure as code with [Terraform](https://cloud.google.com/docs/terraform) and [Cloud Build](https://cloud.google.com/cloud-build) using the popular [GitOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/) methodology. 
 
-Use [Cloud Build](https://cloud.google.com/cloud-build), a Google Cloud continuous integration service, to automatically apply Terraform manifests to your environment.
+Use [Cloud Build](https://cloud.google.com/cloud-build), a Google Cloud [continuous integration service, to automatically apply Terraform manifests to your environment](https://cloud.google.com/solutions/managing-infrastructure-as-code).
 
-[https://cloud.google.com/solutions/managing-infrastructure-as-code](https://cloud.google.com/solutions/managing-infrastructure-as-code)
 
 
 ### Gitlab Gitops with Anthos
 
 [https://www.youtube.com/watch?v=npc08ggdTOw](https://www.youtube.com/watch?v=npc08ggdTOw)
-
-
 
 
 ## CICD Tools
