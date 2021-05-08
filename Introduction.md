@@ -65,9 +65,9 @@ This [checklist](https://cloud.google.com/docs/enterprise/onboarding-checklist) 
 Google [Cloud SDK](https://cloud.google.com/sdk/docs) is a set of tools that you can use to manage resources and applications hosted on Google Cloud. These include the [gcloud](https://cloud.google.com/sdk/gcloud/reference), [gsutil](https://cloud.google.com/storage/docs/gsutil), and [bq](https://cloud.google.com/bigquery/bq-command-line-tool) command line tools. The gcloud command-line tool is downloaded along with the Cloud SDK; a comprehensive guide to the gcloud CLI can be found in [gcloud command-line tool overview](https://cloud.google.com/sdk/gcloud).
 
 
-Learn more about the integrated command line tools to help manage resources and apps on Google Cloud. Try the [Google Cloud SDK: Qwik Start lab](http://bit.ly/2vm0rKN).
+Learn more about the integrated [command line tools](https://www.youtube.com/watch?v=69MdTXgA6Ws) to help manage resources and apps on Google Cloud. Try the [Google Cloud SDK: Qwik Start lab](http://bit.ly/2vm0rKN).
 
-[https://www.youtube.com/watch?v=69MdTXgA6Ws](https://www.youtube.com/watch?v=69MdTXgA6Ws)
+
 
 
 #### Cloud Shell
