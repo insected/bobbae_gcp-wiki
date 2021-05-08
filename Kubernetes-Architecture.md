@@ -204,7 +204,7 @@ https://book.kubebuilder.io/quick-start.html
 https://github.com/kubernetes-sigs/kubebuilder
 
 
-## [Operator](https://www.youtube.com/watch?v=ha3LjlD6g7g) Pattern
+## Operator Pattern
 
 <img src="https://blog.container-solutions.com/hs-fs/hubfs/kubernetes_operators_diagram2.png?width=1875&name=kubernetes_operators_diagram2.png" width="600">
 
@@ -212,7 +212,7 @@ In Kubernetes, objects are analogous to a job or a completed task in the real wo
 
 <img src="https://blog.container-solutions.com/hs-fs/hubfs/kubernetes_operators_diagram1.png?width=1875&name=kubernetes_operators_diagram1.png" width="600">
 
-With Operators, Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
+With [Operators](https://www.youtube.com/watch?v=ha3LjlD6g7g), Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
 
 https://blog.container-solutions.com/kubernetes-operators-explained
 
