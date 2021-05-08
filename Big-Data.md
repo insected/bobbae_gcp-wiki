@@ -21,5 +21,5 @@ The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data
 
 ### Ethics 
 
-[Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data and [privacy](https://en.m.wikipedia.org/wiki/Information_privacy).
+[Big data ethics](https://en.m.wikipedia.org/wiki/Big_data_ethics) also known as simply data ethics refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data and [privacy](Privacy).
 
