@@ -21,13 +21,11 @@ These topics require diverse range of knowledge and skills  from many discipline
 
 ## AI Building Blocks
 
-[AI Platform](AI-Platform) training with built-in algorithms.
+[AI Platform](AI-Platform) training [with built-in algorithms](https://www.youtube.com/watch?v=IrPXm0DSCWI).
 
-[https://www.youtube.com/watch?v=IrPXm0DSCWI](https://www.youtube.com/watch?v=IrPXm0DSCWI)
+## Machine Learning
 
-## What is [Machine Learning](Machine-Learning)?
-
-[https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
+[What](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) is [Machine Learning](Machine-Learning)?
 
 
 
@@ -83,15 +81,10 @@ Intro to Explanations for AI Platform.
 [https://www.youtube.com/watch?v=XXvFHqLv9p8](https://www.youtube.com/watch?v=XXvFHqLv9p8)
 
 
-## [Document AI](https://cloud.google.com/document-ai)
+## Document AI
 
-Unlock insights from documents with machine learning. Tap into the opportunity offered by your unstructured data to increase operational efficiency, improve customer experience, and inform decision-making. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy.
-
-Using the same deep machine learning technology that powers Google Search and Assistant, Google Cloud’s natural language products enable you to derive valuable insights from your unstructured documents.
-
-[https://cloud.google.com/solutions/document-ai](https://cloud.google.com/solutions/document-ai)
-
-[https://www.youtube.com/watch?v=akp0zeI6_6c](https://www.youtube.com/watch?v=akp0zeI6_6c)
+[Unlock insights from documents](https://cloud.google.com/document-ai) with machine learning. Tap into the opportunity offered by your unstructured data to increase operational efficiency, improve customer experience, and inform decision-making. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy. 
+Using [the same deep machine learning technology that powers Google Search](https://www.youtube.com/watch?v=akp0zeI6_6c) and Assistant, Google Cloud’s [natural language products](https://cloud.google.com/solutions/document-ai) enable you to derive valuable insights from your unstructured documents.
 
 
 ## Cloud GPUs
