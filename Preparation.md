@@ -8,14 +8,9 @@ You can use [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.  
 
 #### Register at the Partner Advantage site
 
-If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin?language=en_US) to get some Qwiklabs credits.
-
-You may sign up as a new partner using your email address. You will receive a confirmation email after that. Often the confirmation email goes into the SPAM folder.  You may need to look for the email confirmation from Partner Advantage in your SPAM folder.
-
+If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin?language=en_US) to get some Qwiklabs credits. You may sign up as a new partner using your email address. You will receive a confirmation email after that. Often the confirmation email goes into the SPAM folder.  You may need to look for the email confirmation from Partner Advantage in your SPAM folder.
 You may also [fill out a form](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) for Google training resources.
-
 [Here is another place](  https://inthecloud.withgoogle.com/training-discount/register.html ) to sign up for Qwiklabs credit if the above links do not work.
-
 
 ### Codelabs
 
@@ -25,7 +20,6 @@ Once you are comfortable with it, you may try [creating your own Codelab](https:
 ### Git
 
 If you are not familiar with git, you should [learn to use it]((https://www.youtube.com/watch?v=HVsySz-h9r4)). You should create accounts using your  email address at [github](https://www.youtube.com/watch?reload=9&v=w3jLJU7DT5E) or [gitlab](https://www.youtube.com/watch?v=7q9Y1Cv-ib0).
-
 [Github flow](https://guides.github.com/introduction/flow/) is a way of using github.
 [Gitlab flow](https://about.gitlab.com/blog/2014/09/29/gitlab-flow/) is a way of using gitlab.
 
