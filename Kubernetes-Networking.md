@@ -1,6 +1,6 @@
-## Basic [Networking Model](https://www.youtube.com/watch?v=WwQ62OyCNz4)
+## Basic Networking Model
 
-The [Kubernetes networking model](https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-networking) supports different types of open source implementations. Kubernetes provides an IP address to each pod so that there is no need to map host ports to container ports as in the Docker networking model. In [Kubernetes Networking Model](https://kubernetes.io/docs/concepts/cluster-administration/networking/#kubernetes-model) Pods behave much like VMs or physical hosts with respect to port allocation, naming, load balancing and application configuration. 
+The [Kubernetes networking model](https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-networking) supports different types of open source implementations. [Kubernetes provides an IP address to each pod](https://www.youtube.com/watch?v=WwQ62OyCNz4) so that there is no need to map host ports to container ports as in the Docker networking model. In [Kubernetes Networking Model](https://kubernetes.io/docs/concepts/cluster-administration/networking/#kubernetes-model) Pods behave much like VMs or physical hosts with respect to port allocation, naming, load balancing and application configuration. 
 
 Every [Pod](https://www.youtube.com/watch?v=5cNrTU6o3Fw) gets its own IP address. This means you do not need to explicitly create links between Pods and you almost never need to deal with mapping container ports to host ports. This creates a clean, backwards-compatible model where Pods can be treated much like VMs or physical hosts from the perspectives of port allocation, naming, service discovery, load balancing, application configuration, and migration.
 
@@ -65,9 +65,9 @@ If you want to control traffic flow at the IP address or port level (OSI layer 3
 
 https://kubernetes.io/docs/concepts/services-networking/network-policies/
 
-## [Services](https://www.youtube.com/watch?v=T4Z7visMM4E) networking
+## Kubernetes Services Networking
 
-In Kubernetes, a Service is an abstraction which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a Service is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
+In Kubernetes, a [Service is an abstraction](https://www.youtube.com/watch?v=T4Z7visMM4E) which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a Service is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
 
 https://kubernetes.io/docs/concepts/services-networking/service/
 
