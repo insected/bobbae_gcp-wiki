@@ -35,11 +35,8 @@ The instructor will review your work log each week and you will be graded on you
 
 You may not have enough time to go through every video and Qwiklabs sessions.  You may have to skip some Qwiklabs and come back to them after you’ve gained more knowledge. You may pace yourself but please try to gain as much hands-on experience as possible as you move through the topics. Some topics can be learned briskly. Others require more attention. 
 
-
-
 ## Example Schedules
 
-
-[Here](Schedules) are some example 8 weeks programs that can be presented using the materials described in this document. Each topic is roughly equivalent to a chapter in this document. 
+Review the [example 8 weeks schedules](  Schedules ) that can be presented using the materials described in this document. Each scheduled week is roughly equivalent to a chapter in this document. 
 
 During the scheduled programs, there are some weekly [Assignments](Assignments).
