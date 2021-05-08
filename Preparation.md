@@ -14,12 +14,11 @@ If you don’t get [Qwiklabs](https://www.qwiklabs.com/focuses/2794?catalog_rank
 
 If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin?language=en_US) to get some Qwiklabs credits.
 
-
 You may sign up as a new partner using your email address. You will receive a confirmation email after that. Often the confirmation email goes into the SPAM folder.  You may need to look for the email confirmation from Partner Advantage in your SPAM folder.
 
-You may also [fill out a form]((https://inthecloud.withgoogle.com/partner-training/request-training-resources.html)) for Google training resources.
+You may also [fill out a form](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) for Google training resources.
 
-[Here](https://inthecloud.withgoogle.com/training-discount/register.html) is another place to sign up for Qwiklabs credit if the above links do not work.
+[Here is another place](  https://inthecloud.withgoogle.com/training-discount/register.html ) to sign up for Qwiklabs credit if the above links do not work.
 
 
 ### Codelabs
