@@ -28,40 +28,29 @@ Once you are comfortable with it, you may try [creating your own Codelab](https:
 
 ### Git
 
-If you are not familiar with git, you should [learn to use it]((https://www.youtube.com/watch?v=HVsySz-h9r4)). You should create accounts using your  email address at [github](https://www.youtube.com/watch?reload=9&v=w3jLJU7DT5E) and [gitlab](https://www.youtube.com/watch?v=7q9Y1Cv-ib0).
-
-
+If you are not familiar with git, you should [learn to use it]((https://www.youtube.com/watch?v=HVsySz-h9r4)). You should create accounts using your  email address at [github](https://www.youtube.com/watch?reload=9&v=w3jLJU7DT5E) or [gitlab](https://www.youtube.com/watch?v=7q9Y1Cv-ib0).
 
 [Github flow](https://guides.github.com/introduction/flow/) is a way of using github.
-
 [Gitlab flow](https://about.gitlab.com/blog/2014/09/29/gitlab-flow/) is a way of using gitlab.
-
 
 ### Certifications
 
-You can try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after studying the 
+You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after studying the 
 materials in this document for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
 Being certified by Google does not necessarily mean that you know everything you need to know. But it does have a value in letting others
 know that you have the necessary amount of GCP knowledge to pass the exams.
-
-
 
 #### Register for exams
 
 [Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or other GCP exams.
 
-
-
-
 ##### Sample test questions
 
 [https://cloud.google.com/certification/sample-questions/cloud-architect](https://cloud.google.com/certification/sample-questions/cloud-architect)
 
-
 ##### Case Studies commonly used in exams
 
 [https://cloud.google.com/certification/guides/professional-cloud-architect](https://cloud.google.com/certification/guides/professional-cloud-architect)
-
 
 ##### Additional certificate exam related information
 
@@ -71,12 +60,9 @@ know that you have the necessary amount of GCP knowledge to pass the exams.
 
 [https://github.com/ddneves/awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications)
 
-
 ##### More Practice tests with discussions
 
 The answers are not necessarily clear and the [discussions](https://www.examtopics.com/exams/google/professional-cloud-architect) can be confusing but you can look at a large [list of questions](https://www.gcp-examquestions.com/category/gcp-practice-questions/) and practice them.
-
-
 
 ## External Learning Resources
 
@@ -86,18 +72,14 @@ External [list](https://www.guru99.com/best-google-course.html) and [resources](
 
 There seem to be a lot of Google sourced training materials at [Coursera](https://www.coursera.org/).
 
-
 #### A Cloud Guru
 
 The [LinuxAcademy has been integrated into A Cloud Guru](https://acloudguru.com/) and many people like their increasing GCP content.
-
 
 #### Cloud Academy 
 
 Another resource is [Cloud Academy](https://cloudacademy.com/) which has their own GCP related materials.
 
-
 ## Syllabus
 
 You can review the [Syllabus](Syllabus) and [Schedules](Schedules).
-
