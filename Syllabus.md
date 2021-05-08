@@ -29,7 +29,7 @@ The daily group meetings are held using Google meet to discuss any issues, quest
 Each participant will keep an online  daily journal of their learning, issues and progress.
 To spend the meeting time efficiently all issues should be noted in writing before the daily meeting.  
 
-**The instructor will review your work log each week and you will be graded on your worklog reports.**
+The instructor will review your work log each week and you will be graded on your worklog reports.
 
 ## Materials in this document
 
