@@ -6,11 +6,9 @@ The [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) (DNS)
 [Cloud DNS](https://cloud.google.com/dns) allows you to publish your domain names by using Google's infrastructure for production-quality, high-volume [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)    services. Google's global network of anycast name servers provides reliable, low-latency, authoritative name lookups for your domains from anywhere in the world.
 
 
-## [Kubernetes DNS Server](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+## Kubernetes DNS Server
 
-
-
-Kubernetes creates DNS records for services and pods. You can contact services with consistent DNS names instead of IP addresses.
+Kubernetes creates [DNS records for services and pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/). You can contact services with consistent DNS names instead of IP addresses.
 
 Kubernetes DNS schedules a DNS Pod and Service on the cluster, and configures the kubelets to tell individual containers to use the DNS Service's IP to resolve DNS names.
 
