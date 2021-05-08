@@ -42,15 +42,13 @@ If you are not familiar with git, you should [learn to use it]((https://www.yout
 You can try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after studying the 
 materials in this document for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
 Being certified by Google does not necessarily mean that you know everything you need to know. But it does have a value in letting others
-know that you have necessary amount of GCP knowledge to pass the exams.
+know that you have the necessary amount of GCP knowledge to pass the exams.
 
 
 
 #### Register for exams
 
-[https://cloud.google.com/certification/register](https://cloud.google.com/certification/register)
-
-Sign up for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or other GCP exams.
+[Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or other GCP exams.
 
 
 
@@ -80,9 +78,6 @@ The answers are not necessarily clear and the [discussions](https://www.examtopi
 
 
 
-
-
-
 ## External Learning Resources
 
 External [list](https://www.guru99.com/best-google-course.html) and [resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb) can be used along with this document. 
@@ -102,12 +97,7 @@ The [LinuxAcademy has been integrated into A Cloud Guru](https://acloudguru.com/
 Another resource is [Cloud Academy](https://cloudacademy.com/) which has their own GCP related materials.
 
 
-
-
-
 ## Syllabus
 
 You can review the [Syllabus](Syllabus) and [Schedules](Schedules).
-
-
 
