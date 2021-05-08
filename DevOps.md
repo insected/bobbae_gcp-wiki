@@ -9,17 +9,17 @@ The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, f
 
 This will allow your organization to respond in a more agile manner to changing business requirements. The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
-## [DevSecOps](https://www.devsecops.org/)
+## DevSecOps
 
 DevOps isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](https://www.redhat.com/en/topics/security) must also play an integrated role in the full life cycle of your apps.
 
-[Practical DevSecOps](https://www.practical-devsecops.com/devsecops-university/) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. 
+[Practical DevSecOps](https://www.practical-devsecops.com/devsecops-university/) offers vendor-neutral, practical, and hands-on [DevSecOps](https://www.devsecops.org/)  training and certification programs for IT Professionals. Our online training and certifications are focused on modern areas of information security, including DevOps Security, Cloud-Native Security, Cloud Security & Container security. 
 
 
 
 <img src="https://tech.gsa.gov/assets/img/guides/DevSecOps.png" width="500">
 
-### [Security](Security)
+### Security
 
 Please review some [security topics](Security) from the DevOps point of view.
 
@@ -220,14 +220,14 @@ Chaos Monkey is responsible for randomly terminating instances in production to 
 https://blog.alexellis.io/building-containers-without-docker/
 
 
-## [DataOps vs MLOps](https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8)
+## DataOps vs MLOps
 
 
 [DataOps](https://medium.com/data-ops/dataops-is-not-just-devops-for-data-6e03083157b7) takes the practices and values of DevOps and extends it to data analytics workflows and goals. It applies the focus on collaboration and shared responsibility and shifts it to the engineers and admins that collect, store, analyze, secure, and deliver data.
 
 * DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.
 
-* [MLOps](MLOps) is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and improve the quality of production ML while also focusing on business and regulatory requirements.
+* [MLOps](MLOps) is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and [improve the quality of production ML](https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8)  while also focusing on business and regulatory requirements.
 
 
 
