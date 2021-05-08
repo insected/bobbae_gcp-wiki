@@ -30,7 +30,7 @@ materials](https://cloud.google.com/certification/sample-questions/cloud-archite
 Being certified by Google does not necessarily mean that you know everything [you need to know](https://github.com/ddneves/awesome-gcp-certifications). But it does have a value in letting others
 know that you have the [necessary amount of GCP knowledge](https://www.examtopics.com/exams/google/professional-cloud-architect) to pass the exams.
 
-[Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or other GCP exams. During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, [some of the questions](https://www.youtube.com/watch?v=Kub0oH6TFKw) may refer you to a case study that describes a fictitious business and solution concept. These case studies are intended to provide additional context to help you choose your answer
+[Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or [other GCP exams](https://www.youtube.com/watch?v=Kub0oH6TFKw) . During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, some of the questions may refer you to a case study that describes a fictitious business and solution concept. These case studies are intended to provide additional context to help you choose your answer
 
 
 
