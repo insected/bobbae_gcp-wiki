@@ -18,7 +18,7 @@ There is an [example repo showing how the CFT Terraform modules can be composed 
 
 ## Security Infrastructure Design
 
-Read the [overview of how security is designed](https://cloud.google.com/security/infrastructure/design/) into Google's technical infrastructure.
+Read the [overview of how security is designed](https://cloud.google.com/security/infrastructure/design/) into Google's technical infrastructure. 
 
 ## Cryptography
 
@@ -32,15 +32,14 @@ Read the [overview of how security is designed](https://cloud.google.com/securit
 
 Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
 
-Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.
-
-
+Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
+Account management, authentication and password management can be tricky. Often, account management is a dark corner that isn't a top priority for developers or product managers. The resulting experience often falls short of what some of your users would expect for data security and user experience.  Use  [the best practices](https://cloud.google.com/blog/products/identity-security/account-authentication-and-password-management-best-practices) to  ensure you have a safe, scalable, usable account authentication system.
 
 ## Operational security
 
-Google administrates a vulnerability management process that actively scans for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
+Google [administrates a vulnerability management process that actively scans](https://cloud.google.com/security/overview/whitepaper#operational_security) for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
 
-https://cloud.google.com/security/overview/whitepaper#operational_security
+
 
 ## Authentication Options
 
@@ -268,19 +267,9 @@ Learn about how Google automatically encrypts your data and how to take control 
 ## reCAPTCHA Enterprise
 
 Google has been defending millions of sites with [reCAPTCHA](https://cloud.google.com/recaptcha-enterprise/docs) for almost a decade. 
+reCAPTCHA Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. reCAPTCHA Enterprise offers enhanced detection with more granular scores, reason codes for risky events, and the ability to tune your site-specific model.  reCAPTCHA Enterprise is a service that protects your site from spam and abuse. reCAPTCHA Enterprise builds on the existing reCAPTCHA API which uses advanced risk analysis techniques to tell humans and bots apart.  reCAPTCHA Enterprise adds enhancements specifically designed to protect enterprise businesses, such as more granular scoring and returning reason codes with low scores to aid in analysis.
 
-reCAPTCHA Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. 
-
-reCAPTCHA Enterprise offers enhanced detection with more granular scores, reason codes for risky events, and the ability to tune your site-specific model. 
-
-reCAPTCHA Enterprise is a service that protects your site from spam and abuse. reCAPTCHA Enterprise builds on the existing reCAPTCHA API which uses advanced risk analysis techniques to tell humans and bots apart. 
-
-reCAPTCHA Enterprise adds enhancements specifically designed to protect enterprise businesses, such as more granular scoring and returning reason codes with low scores to aid in analysis.
-
-
-See how reCAPTCHA Enterprise can help protect your websites from fraud and abuse.
-
-[https://www.youtube.com/watch?v=ic3Fj2B1LR4](https://www.youtube.com/watch?v=ic3Fj2B1LR4)
+[See](https://www.youtube.com/watch?v=ic3Fj2B1LR4) how reCAPTCHA Enterprise can help protect your websites from fraud and abuse.
 
 
 ## Web Risk
@@ -354,29 +343,18 @@ An [attestor](https://cloud.google.com/binary-authorization/docs/creating-attest
 
 The Binary Authorization enforcer uses the attestor at deploy time to limit which container images are allowed to be deployed to those with an accompanying, verifiable attestation created prior to deployment.
 
-
-
 ## StackRox
 
 [StackRox](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/) provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. Alternatively, use StackRox to enforce security policies for GKE with Cloud Run. 
 
-
-
-
-
 ## Qwiklabs
 
-
 ### Cloud KMS
-
 
 [Getting Started with Cloud KMS](https://www.qwiklabs.com/focuses/1713?catalog_rank=%7B%22rank%22%3A20%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 
 
-
 [Security & Identity Fundamentals](https://www.qwiklabs.com/quests/40?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
-
-
 
 [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
 
