@@ -2,3 +2,5 @@
 
 Cloud Trace recommends using [OpenTelemetry](https://opentelemetry.io/). OpenTelemetry is an open-source product from the merger between [OpenCensus](https://opencensus.io/) and OpenTracing.
 
+Cloud Trace is part of [Google Cloud operations suite](https://cloud.google.com/stackdriver/docs).
+
