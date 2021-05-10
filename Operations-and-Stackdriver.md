@@ -11,7 +11,7 @@ AKA Stackdriver
 
 ### Introduction
 
-Monitor, troubleshoot, and improve application performance on your Google Cloud environment.
+[Monitor](Monitoring), [trace](Tracing), troubleshoot, and improve application performance on your Google Cloud environment.
 
 [https://cloud.google.com/stackdriver/docs](https://cloud.google.com/stackdriver/docs)
 
