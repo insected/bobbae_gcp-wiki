@@ -9,9 +9,9 @@ Google Cloud resources are organized hierarchically. This hierarchy allows you t
 
 ### Concepts
 
-In the context of Google Cloud, a resource can refer to the service-level resources that are used to process your workloads (VMs, DBs, and so on) as well as to the account-level resources that sit above the services, such as projects, folders, and the organization.
+In the context of Google Cloud, a [resource](https://cloud.google.com/billing/docs/concepts) can refer to the service-level resources that are used to process your workloads (VMs, DBs, and so on) as well as to the account-level resources that sit above the services, such as projects, folders, and the organization.
 
-https://cloud.google.com/billing/docs/concepts
+
 
 #### Important Roles
 
@@ -29,32 +29,34 @@ Google Cloud Platform provides resource containers such as organizations, folder
 
 #### Projects, Folders, Labels
 
-[https://cloud.google.com/billing/docs/onboarding-checklist#projects-folders-labels](https://cloud.google.com/billing/docs/onboarding-checklist#projects-folders-labels)
+[Projects, folders, and labels](https://cloud.google.com/billing/docs/onboarding-checklist#projects-folders-labels) help you create logical groupings of resources that support your management and cost attribution requirements.
+
 
 
 #### Relationships between Resources
 
-Relationships between organizations, projects, Cloud Billing accounts, and payments profiles
-
-[https://cloud.google.com/billing/docs/concepts#relationships-between-resources](https://cloud.google.com/billing/docs/concepts#relationships-between-resources)
+[Relationships](https://cloud.google.com/billing/docs/concepts#relationships-between-resources) between organizations, projects, Cloud Billing accounts, and payments profiles.
 
 <img src="https://cloud.google.com/billing/docs/images/subaccounts.png" width="800">
 
 ### Organizations
 
-[https://cloud.google.com/resource-manager/docs/creating-managing-organization](https://cloud.google.com/resource-manager/docs/creating-managing-organization)
+An Organization resource is available for [Google Workspace](https://support.google.com/a/answer/53926) and [Cloud Identity](https://cloud.google.com/identity/docs/setup) customers. Once you have created your Google Workspace or Cloud Identity account and associated it with a domain, your [organization resource](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy#organizations) will be automatically [created](https://cloud.google.com/resource-manager/docs/creating-managing-organization) for you. The resource will be provisioned at different times depending on your account status.
+
 
 <img src="https://cloud.google.com/billing/docs/images/access-control-org.png" width="800">
 
 ### Accounts
 
-[https://cloud.google.com/billing/docs/how-to/manage-billing-account](https://cloud.google.com/billing/docs/how-to/manage-billing-account)
+
+A [Cloud Billing account](https://cloud.google.com/billing/docs/how-to/manage-billing-account) is set up in Google Cloud and is used to [define who pays](https://cloud.google.com/billing/docs/concepts#overview) for a given set of Google Cloud resources and Google Maps Platform APIs. [Access control to a Cloud Billing account](https://cloud.google.com/billing/docs/how-to/billing-access) is established by IAM roles. A Cloud Billing account is connected to a [Google payments profile](https://support.google.com/paymentscenter/topic/9017382?ref_topic=9037778). Your Google payments profile includes a payment instrument to which costs are charged.
 
 
 ### Folders
 
-[https://cloud.google.com/resource-manager/docs/creating-managing-folders](https://cloud.google.com/resource-manager/docs/creating-managing-folders)
+[Folders are nodes]((https://cloud.google.com/resource-manager/docs/creating-managing-folders)) in the Cloud Platform Resource Hierarchy. A folder can contain projects, other folders, or a combination of both. Organizations can use folders to group projects under the organization node in a hierarchy. For example, your organization might contain multiple departments, each with its own set of Google Cloud resources. Folders allow you to group these resources on a per-department basis. Folders are used to group resources that share common IAM policies. While a folder can contain multiple folders or resources, a given folder or resource can have exactly one parent.
 
+<img src="https://cloud.google.com/resource-manager/img/cloud-folders-hierarchy.png" width="700">
 
 ### Billing Account & Payment Profile
 
