@@ -1,7 +1,7 @@
 
 ## Accounts & Billing
 
-<img src="https://cloud.google.com/billing/docs/images/resource-hierarchy-overview.png" width="800">
+<img src="https://cloud.google.com/billing/docs/images/resource-hierarchy-overview.png" width="700">
 
 A Cloud Billing account defines who pays for a given set of Google Cloud resources. To use Google Cloud services, you must have a valid Cloud Billing account, and must link it to your Google Cloud projects. Your project's Google Cloud usage is charged to the linked Cloud Billing account.
 
@@ -37,14 +37,14 @@ Google Cloud Platform provides resource containers such as organizations, folder
 
 [Relationships](https://cloud.google.com/billing/docs/concepts#relationships-between-resources) between organizations, projects, Cloud Billing accounts, and payments profiles.
 
-<img src="https://cloud.google.com/billing/docs/images/subaccounts.png" width="800">
+<img src="https://cloud.google.com/billing/docs/images/subaccounts.png" width="700">
 
 ### Organizations
 
 An Organization resource is available for [Google Workspace](https://support.google.com/a/answer/53926) and [Cloud Identity](https://cloud.google.com/identity/docs/setup) customers. Once you have created your Google Workspace or Cloud Identity account and associated it with a domain, your [organization resource](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy#organizations) will be automatically [created](https://cloud.google.com/resource-manager/docs/creating-managing-organization) for you. The resource will be provisioned at different times depending on your account status.
 
 
-<img src="https://cloud.google.com/billing/docs/images/access-control-org.png" width="800">
+<img src="https://cloud.google.com/billing/docs/images/access-control-org.png" width="700">
 
 ### Accounts
 
@@ -60,7 +60,7 @@ A [Cloud Billing account](https://cloud.google.com/billing/docs/how-to/manage-bi
 
 ### Billing Account & Payment Profile
 
-<img src="https://cloud.google.com/billing/docs/images/billing-project.png" width="800">
+<img src="https://cloud.google.com/billing/docs/images/billing-project.png" width="700">
 
 [https://cloud.google.com/billing/docs/concepts#billing_account](https://cloud.google.com/billing/docs/concepts#billing_account)
 
