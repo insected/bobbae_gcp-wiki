@@ -1,8 +1,17 @@
 ### Project ideas
 
-#### Get [detailed information](https://medium.com/google-cloud/dear-keys-are-you-still-alive-ad7c73ce63b9) about Google Cloud service account key usage.
-#### Create disposable project strategy: terraform examples to [create and deliver project based solutions](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform) to enable clean onboarding and offboarding workflow without leaking credentials. All resources under the projects and project itself become units of delivery that can be created and destroyed at will.
-#### 
+#### Service Account Keys
+
+Get [detailed information](https://medium.com/google-cloud/dear-keys-are-you-still-alive-ad7c73ce63b9) about Google Cloud service account key usage.
+
+#### Resource Management
+
+Create an alternative to [project migration](https://cloud.google.com/resource-manager/docs/project-migration).
+
+#### Create disposable project strategy
+
+Create terraform examples to [create project based solutions](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform) to enable ephemeral project based delivery. 
+
 
 #### List of project ideas
 
