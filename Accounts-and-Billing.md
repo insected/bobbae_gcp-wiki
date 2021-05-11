@@ -5,7 +5,7 @@
 
 A Cloud Billing account defines who pays for a given set of Google Cloud resources. To use Google Cloud services, you must have a valid Cloud Billing account, and must link it to your Google Cloud projects. Your project's Google Cloud usage is charged to the linked Cloud Billing account.
 
-Google Cloud resources are organized hierarchically. This hierarchy allows you to map your organization's operational structure to Google Cloud, and to manage access control and permissions for groups of related resources.
+Google Cloud resources are organized hierarchically. This hierarchy allows you to map your organization's operational structure to Google Cloud, and to manage access control and permissions for groups of related resources.  [Resource Manager](https://cloud.google.com/resource-manager) allows the hierarchical resources by project, folder and organization.
 
 ### Concepts
 
@@ -15,12 +15,16 @@ https://cloud.google.com/billing/docs/concepts
 
 #### Important Roles
 
-[https://cloud.google.com/billing/docs/concepts#important_roles](https://cloud.google.com/billing/docs/concepts#important_roles)
+The Google Workspace or Cloud Identity [super administrators](https://support.google.com/a/answer/2405986#super_admin) at the domain level are the first users who can access an organization after creation.  An [organization](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy#organizations) (for example, a company) is the root node in the Google Cloud resource hierarchy. The Organization resource is the hierarchical ancestor of project resources and Folders. The IAM access control policies applied on the Organization resource apply throughout the hierarchy on all resources in the organization.
+
+[This diagram](https://cloud.google.com/billing/docs/concepts#important_roles) represents the Google Cloud resource hierarchy in complete form, and calls out the important high-access roles at each level.
+
 
 
 #### Resource Hierarchy
 
-[https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy#resource-hierarchy-detail](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy#resource-hierarchy-detail)
+Google Cloud Platform provides resource containers such as organizations, folders, and projects that allow you to group and [hierarchically organize](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy#resource-hierarchy-detail) other GCP resources. This hierarchical organization lets you easily manage common aspects of your resources such as access control and configuration settings. [Resource Manager](https://cloud.google.com/resource-manager) enables you to programmatically manage these resource containers.
+
 
 
 #### Projects, Folders, Labels
