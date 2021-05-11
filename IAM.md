@@ -119,3 +119,11 @@ In addition to providing recommendations, Recommender uses machine learning (ML)
 Google Cloud services [write audit logs](https://cloud.google.com/iam/docs/audit-logging) to help you answer the questions, "Who did what, where, and when?" Your Cloud projects contain only the audit logs for resources that are directly within the project. Other entities, such as folders, organizations, and Cloud Billing accounts, contain the audit logs for the entity itself.
 
 
+## IAM Conditions
+
+[IAM Conditions](https://cloud.google.com/iam/docs/conditions-overview) allows you to define and enforce conditional, attribute-based access control for Google Cloud resources.
+
+## Tags and access control
+
+[A tag is a key-value pair](https://cloud.google.com/iam/docs/tags-access-control) that is attached to an organization, folder, or project. You can [conditionally grant IAM roles](https://cloud.google.com/iam/docs/conditions-overview) based on whether a resource has a specific tag.
+
