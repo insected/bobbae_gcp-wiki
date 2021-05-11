@@ -1,19 +1,24 @@
-### Project ideas
+## Project ideas
 
-#### Service Account Keys
+### Service Account Keys
 
 Get [detailed information](https://medium.com/google-cloud/dear-keys-are-you-still-alive-ad7c73ce63b9) about Google Cloud service account key usage.
 
-#### Resource Management
+### Resource Management
 
 Create an alternative to [project migration](https://cloud.google.com/resource-manager/docs/project-migration).
 
-#### Create disposable project strategy
+### Create disposable project strategy
 
 Create terraform examples to [create project based solutions](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform) to enable ephemeral project based delivery. 
 
+### Use of Workload Identity and IAM Conditions with Kubernetes
 
-#### List of project ideas
+Using Workload Identity bindings have two kubernetes clusters access a GCS bucket as allowed via bound identity between Kubernetes service account and Google Service account.  Disallow one of the kubernetes clusters from accessing GCS using IAM conditions.  [Explore other resource management and credentials](https://medium.com/google-cloud/solving-the-workload-identity-sameness-with-iam-conditions-c02eba2b0c13) issues in kubernetes and GCP resources.
+
+
+
+### List of project ideas
 
 * https://www.cloudderby.io/
 * https://github.com/GoogleCloudPlatform/hackathon-toolkit
