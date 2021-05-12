@@ -311,11 +311,16 @@ OpenID Connect: If you’ve used your Google to sign in to applications like You
 
 SAML: You’ve more likely experienced SAML authentication in action in the work environment. For example, it enables you to log into your corporate intranet or IdP and then access numerous additional services, such as Salesforce, Box, or Workday, without having to re-enter your credentials. SAML is an XML-based standard for exchanging authentication and authorization data between IdPs and service providers to verify the user’s identity and permissions, then grant or deny their access to services.
 
+## Machine Learning for Cybersecurity
+
+There have been attempts to aid Cybersecurity concerns using [Machine Learning](Machine-Learning).
+[ML in network security](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b) implies new solutions called Network Traffic Analytics (NTA) aimed at in-depth analysis of all the traffic at each layer and detect attacks and anomalies.
 
 ## Data Governance 
 
+[Data governance](https://cloud.google.com/learn/what-is-data-governance) is a principled approach to managing data during its life cycle, from acquisition to use to disposal. 
 
-## BigQuery Column-level security
+### BigQuery Column-level security
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
