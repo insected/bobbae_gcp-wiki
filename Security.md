@@ -28,7 +28,8 @@ Read the [overview of how security is designed](https://cloud.google.com/securit
 
 Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
 
-Identity-based security is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
+[Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
+
 Account management, authentication and password management can be tricky. Often, account management is a dark corner that isn't a top priority for developers or product managers. The resulting experience often falls short of what some of your users would expect for data security and user experience.  Use  [the best practices](https://cloud.google.com/blog/products/identity-security/account-authentication-and-password-management-best-practices) to  ensure you have a safe, scalable, usable account authentication system.
 
 ## Operational security
