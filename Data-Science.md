@@ -16,7 +16,7 @@ GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analyt
 https://cloud.google.com/architecture/reference-patterns/overview#general_analytics), [log analytics](  https://cloud.google.com/architecture/reference-patterns/overview#log_analytics), [pattern recognition](https://cloud.google.com/architecture/reference-patterns/overview#pattern_recognition), [predictive forecasting](https://cloud.google.com/architecture/reference-patterns/overview#predictive_forecasting), [real-time clickstream analytics](https://cloud.google.com/architecture/reference-patterns/overview#real-time_clickstream_analytics),  [time-series analytics](https://cloud.google.com/architecture/reference-patterns/overview#time_series_analytics) and [working with data lakes](https://cloud.google.com/architecture/reference-patterns/overview#working_with_data_lakes).
 
 
-These topics require diverse range of knowledge and skills  from many disciplines. The need to distinguish data engineers from analysts and scientists diminish when faced with such multi-disciplinary scope of endeavors. 
+These [topics]( https://www.jeremyjordan.me/data-science/ ). require diverse range of knowledge and skills  from many disciplines. The need to distinguish data engineers from analysts and scientists diminish when faced with such multi-disciplinary scope of endeavors. 
 
 
 ## AI Building Blocks
