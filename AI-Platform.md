@@ -10,9 +10,9 @@
 
 ## AI Platform Deep Learning VM Images
 
-Deep Learning VM images are Debian 9- and Debian 10-based Compute Engine virtual machine images optimized for data science and machine learning tasks. All images come with key ML frameworks and tools pre-installed, and can be used out of the box on instances with GPUs to accelerate your data processing tasks.
+[Deep Learning VM images]( https://cloud.google.com/ai-platform/deep-learning-vm/docs ) are Debian 9- and Debian 10-based Compute Engine virtual machine images optimized for data science and machine learning tasks. All images come with key ML frameworks and tools pre-installed, and can be used out of the box on instances with GPUs to accelerate your data processing tasks.
 
-[https://cloud.google.com/ai-platform/deep-learning-vm/docs](https://cloud.google.com/ai-platform/deep-learning-vm/docs)
+
 
 [https://www.youtube.com/watch?v=kyNbYCHFCSw](https://www.youtube.com/watch?v=kyNbYCHFCSw)
 
