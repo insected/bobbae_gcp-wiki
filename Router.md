@@ -4,7 +4,7 @@ Cloud Router is a fully distributed and managed service that programs custom dyn
 
 [Cloud Router](https://cloud.google.com/network-connectivity/docs/router)  enables you to dynamically exchange routes between your Virtual Private Cloud (VPC) and on-premises networks by using [Border Gateway Protocol (BGP)](https://www.wikipedia.org/wiki/Border_Gateway_Protocol). 
 
-For example, if you use a Cloud [VPN](VPN) tunnel to connect your networks, you can use Cloud Router to establish a BGP session with your on-premises router over your Cloud VPN tunnel. Cloud Router automatically learns new subnets in your [VPC](VPC) network and announces them to your on-premises network.
+For example, if you use a Cloud [VPN](VPN) tunnel to connect your networks, you can [use Cloud Router to establish a BGP session with your on-premises router over your Cloud VPN tunnel](https://medium.com/google-cloud/dynamic-routing-with-cloud-router-9ff5c362d833  ). Cloud Router automatically learns new subnets in your [VPC](VPC) network and announces them to your on-premises network.
 
 
 
@@ -16,7 +16,7 @@ For example, if you use a Cloud [VPN](VPN) tunnel to connect your networks, you 
 
 Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to [exchange routing and reachability information](https://www.youtube.com/watch?v=_Z29ZzKeZHc) among autonomous systems (AS) on the Internet. 
 
-BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
+[BGP]( https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/   ) is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
 
 
 [Cloud Router uses Border Gateway Protocol](https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp) (BGP) to exchange routes between your Virtual Private Cloud (VPC) network and your on-premises network.  This is great for setting up VPN between the cloud and on-prem, as topology changes automatically propagate with no manual intervention and higher redundancy for your systems.
@@ -51,3 +51,4 @@ The key benefit here is redundancy. If one path on the network disappears, dynam
 You can learn more about [Dynamic routing with Cloud Router](https://medium.com/google-cloud/dynamic-routing-with-cloud-router-9ff5c362d833) and view this [video](https://www.youtube.com/watch?v=K_xb_j46YOk).
 
 
+Dynamic routing does have [risks that should be considered](  https://www.wired.com/story/bgp-routing-manrs-google-fix/  ).
