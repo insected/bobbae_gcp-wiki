@@ -19,9 +19,9 @@
 
 ## AI Platform Jupyter Notebooks
 
-[AI](AI) Platform [Jupyter](Jupyter) Notebooks make it easy to manage JupyterLab instances through a protected, publicly available notebook instance URL. A JupyterLab instance is a [Deep Learning virtual machine](https://cloud.google.com/ai-platform/deep-learning-vm/docs) instance with the latest machine learning and data science libraries pre-installed.
+[AI](AI) Platform [Jupyter](Jupyter) Notebooks [make it easy]( https://cloud.google.com/ai-platform/notebooks/docs  ) to manage JupyterLab instances through a protected, publicly available notebook instance URL. A JupyterLab instance is a [Deep Learning virtual machine](https://cloud.google.com/ai-platform/deep-learning-vm/docs) instance with the latest machine learning and data science libraries pre-installed.
 
-[https://cloud.google.com/ai-platform/notebooks/docs](https://cloud.google.com/ai-platform/notebooks/docs)
+
 
 [https://www.youtube.com/watch?v=Eu57QKNHaiY](https://www.youtube.com/watch?v=Eu57QKNHaiY)
 
