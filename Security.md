@@ -346,7 +346,7 @@ The Binary Authorization enforcer uses the attestor at deploy time to limit whic
 
 ## BGP
 
-Internet routing depends on continuous  correct configuration and operation of its routing protocols. The dynamic nature of the routing protocols means [the risks associated](  https://www.secureworks.com/research/bgp-hijacking-for-cryptocurrency-profit  ) must be considered.
+Internet routing depends on continuous  correct configuration and operation of its routing protocols. The dynamic nature of the [routing protocols](Router) means [the risks associated](  https://www.secureworks.com/research/bgp-hijacking-for-cryptocurrency-profit  ) must be considered.
 
 
 
