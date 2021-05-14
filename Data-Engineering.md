@@ -22,16 +22,12 @@ Besides the GCP provided database services, there are also a lot of [other datab
 
 [Cloud SQL](https://cloud.google.com/sql) is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
 
-You can use Cloud SQL with [MySQL](https://cloud.google.com/sql/docs/mysql), [PostgreSQL](https://cloud.google.com/sql/docs/postgres), or [SQL Server](https://cloud.google.com/sql/docs/sqlserver). 
-
-[https://cloud.google.com/sql/docs](https://cloud.google.com/sql/docs)
-
-[https://www.youtube.com/watch?v=OvR2KX8GVtU](https://www.youtube.com/watch?v=OvR2KX8GVtU)
+You can use [Cloud SQL](https://www.youtube.com/watch?v=OvR2KX8GVtU) with [MySQL](https://cloud.google.com/sql/docs/mysql), [PostgreSQL](https://cloud.google.com/sql/docs/postgres), or [SQL Server](https://cloud.google.com/sql/docs/sqlserver). 
 
 
 ## SQL
 
-[SQL](https://www.w3schools.com/sql/sql_intro.asp) is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of SQL which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries.
+[SQL](https://www.w3schools.com/sql/sql_intro.asp) is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of [SQL](https://www.w3schools.com/sql/) which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
 
 
 ### SQL Tutorials
