@@ -343,6 +343,13 @@ The Binary Authorization enforcer uses the attestor at deploy time to limit whic
 
 [StackRox](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/) provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. Alternatively, use StackRox to enforce security policies for GKE with Cloud Run. 
 
+
+## BGP
+
+Internet routing depends on continuous  correct configuration and operation of its routing protocols. The dynamic nature of the routing protocols means [the risks associated](  https://www.secureworks.com/research/bgp-hijacking-for-cryptocurrency-profit  ) must be considered.
+
+
+
 ## Qwiklabs
 
 ### Cloud KMS
