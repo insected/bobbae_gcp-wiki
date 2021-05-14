@@ -81,6 +81,16 @@ The locations in the GFS of tablets are recorded as database entries in multiple
 - Column families, including their garbage-collection policies
 - Columns
 
+
+## Schema for time series data
+
+A time series is a collection of data that consists of measurements and the times when the measurements are recorded.
+
+There are [different schema design patterns]( https://cloud.google.com/bigtable/docs/keyvis-overview  ) for storing time series data in Cloud Bigtable.
+
+
+
+
 ## Key Visualizer
 
 
