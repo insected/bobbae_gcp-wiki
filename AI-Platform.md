@@ -28,13 +28,19 @@
 
 ## AI Platform Deep Learning Containers
 
-[https://cloud.google.com/ai-platform/deep-learning-containers/docs](https://cloud.google.com/ai-platform/deep-learning-containers/docs)
+
+[Deep Learning Containers]( https://cloud.google.com/ai-platform/deep-learning-containers/docs ) are a set of Docker containers with key data science frameworks, libraries, and tools pre-installed.
+
+
 
 [https://www.youtube.com/watch?v=h_BpDOdTX7Y](https://www.youtube.com/watch?v=h_BpDOdTX7Y)
 
 
 ## AI Platform Pipelines
 
-[https://cloud.google.com/ai-platform/pipelines/docs](https://cloud.google.com/ai-platform/pipelines/docs)
+[AI Platform Pipelines](https://cloud.google.com/ai-platform/pipelines/docs)  makes it easier to get started with [MLOps](MLOps) by saving you the difficulty of setting up [Kubeflow](Kubeflow) Pipelines with [TensorFlow](Tensorflow) Extended (TFX). 
+
+
+
 
 [https://www.youtube.com/watch?v=MUtsIaQuiRw](https://www.youtube.com/watch?v=MUtsIaQuiRw)
