@@ -81,6 +81,10 @@ The locations in the GFS of tablets are recorded as database entries in multiple
 - Column families, including their garbage-collection policies
 - Columns
 
+## Key Visualizer
+
+
+[Key Visualizer]( https://cloud.google.com/bigtable/docs/keyvis-overview ) is a tool that helps you analyze your Bigtable usage patterns. It generates visual reports for your tables that break down your usage based on the row keys that you access.
 
 
 ## Cassandra and Cloud Bigtable
