@@ -19,7 +19,7 @@ The default configuration of this network limits incoming connections to SSH con
 
 ## Jupyter
 
-[Datalab](https://cloud.google.com/datalab/docs/quickstart) supports Jupyter [Notebooks]https://cloud.google.com/datalab/docs/how-to/working-with-notebooks). 
+[Datalab](https://cloud.google.com/datalab/docs/quickstart) supports Jupyter [Notebooks](https://cloud.google.com/datalab/docs/how-to/working-with-notebooks). 
 
 
 
