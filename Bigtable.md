@@ -73,6 +73,16 @@ When Table size threaten to grow beyond a specified limit, the tablets may be co
 
 The locations in the GFS of tablets are recorded as database entries in multiple special tablets, which are called "META1" tablets. META1 tablets are found by querying the single "META0" tablet, which typically resides on a server of its own since it is often queried by clients as to the location of the "META1" tablet which itself has the answer to the question of where the actual data is located. Like GFS's master server, the META0 server is not generally a bottleneck since the processor time and bandwidth necessary to discover and transmit META1 locations is minimal and clients aggressively cache locations to minimize queries.
 
+## Schema design
+
+[Designing a Bigtable schema]( https://cloud.google.com/bigtable/docs/schema-design  ) is different than designing a schema for a relational database. In Bigtable, a schema is a blueprint or model of a table, including the structure of the following table components:
+
+- Row keys
+- Column families, including their garbage-collection policies
+- Columns
+
+
+
 ## Cassandra and Cloud Bigtable
 
 Why and how Spotify migrated some of their workloads, and how they built an auto-scaler for Cloud Bigtable.
