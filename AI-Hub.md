@@ -17,17 +17,17 @@
 
 ## Quickstart for using public assets
 
-The example notebook guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
+The [example notebook](https://cloud.google.com/ai-hub/docs/public-hub-quickstart) guides you through the process of training two TensorFlow image classification models using the MNIST dataset.
 
-https://cloud.google.com/ai-hub/docs/public-hub-quickstart
+
 
 ## Quickstart for uploading assets
 
-You can share AI assets within your organization by uploading them to your organization's collection of assets on AI Hub. Colleagues in your organization can then find, deploy, and use those assets.
+You can share AI assets within your organization by [uploading them to your organization's collection]( https://cloud.google.com/ai-hub/docs/private-hub-quickstart  ) of assets on AI Hub. Colleagues in your organization can then find, deploy, and use those assets.
 
 
 
-https://cloud.google.com/ai-hub/docs/private-hub-quickstart
+
 
 ## AI Hub Jupyter Notebooks in AI Platform
 
