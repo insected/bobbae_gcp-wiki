@@ -133,7 +133,7 @@ https://codelabs.developers.google.com/codelabs/cloud-bigtable-intro-java/index.
 
 https://etcnotes.com/posts/sstable-and-lsm/
 
-## Querying
+## Querying from BigQuery
 
 https://cloud.google.com/bigquery/external-data-bigtable
 
