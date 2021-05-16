@@ -27,7 +27,7 @@ You can use [Cloud SQL](https://www.youtube.com/watch?v=OvR2KX8GVtU) with [MySQL
 
 ## SQL
 
-[SQL](https://www.w3schools.com/sql/sql_intro.asp) is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of [SQL](https://www.tutorialspoint.com/sql/index.htm) which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
+[SQL](https://www.w3schools.com/sql/sql_intro.asp) is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of [SQL](https://www.tutorialspoint.com/sql/index.htm) which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries. 
 
 
 ### SQL Tutorials
