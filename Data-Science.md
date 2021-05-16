@@ -1,5 +1,5 @@
 
-[Data science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a [broad range of application domains](https://blog.ml.cmu.edu/2020/08/31/1-domain-knowledge/  ).
+[Data science](https://en.wikipedia.org/wiki/Data_science) is an [inter-disciplinary]( https://www.empiricaldata.org/dataladyblog/the-role-of-domain-knowledge-in-data-science  ) field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and [actionable insights]( https://towardsdatascience.com/what-is-data-science-4565e457cc17 ) from data across a [broad range of application domains](https://blog.ml.cmu.edu/2020/08/31/1-domain-knowledge/  ).
 
 
 [Data Science](https://www.w3schools.com/datascience/default.asp) is about data gathering, analysis and decision-making.
@@ -16,7 +16,7 @@ GCP [smart analytics platform](  https://cloud.google.com/solutions/smart-analyt
 https://cloud.google.com/architecture/reference-patterns/overview#general_analytics), [log analytics](  https://cloud.google.com/architecture/reference-patterns/overview#log_analytics), [pattern recognition](https://cloud.google.com/architecture/reference-patterns/overview#pattern_recognition), [predictive forecasting](https://cloud.google.com/architecture/reference-patterns/overview#predictive_forecasting), [real-time clickstream analytics](https://cloud.google.com/architecture/reference-patterns/overview#real-time_clickstream_analytics),  [time-series analytics](https://cloud.google.com/architecture/reference-patterns/overview#time_series_analytics) and [working with data lakes](https://cloud.google.com/architecture/reference-patterns/overview#working_with_data_lakes).
 
 
-These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse range of knowledge and skills  from many disciplines](https://www.explorium.ai/blog/domain-knowledge-in-data-science-are-your-models-ready-for-business/  ). The need to distinguish data engineers from analysts and scientists diminish when faced with such multi-disciplinary scope of endeavors. 
+These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse range of knowledge and skills  from many disciplines](https://www.explorium.ai/blog/domain-knowledge-in-data-science-are-your-models-ready-for-business/  ). The need to distinguish data engineers from analysts and scientists diminish when faced with such [multi-disciplinary scope](https://winderresearch.com/what-is-data-science/ ) of endeavors. 
 
 
 ## AI Building Blocks
