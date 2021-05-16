@@ -66,10 +66,10 @@ https://www.youtube.com/watch?v=p3qvj9hO_Bo
 
 
 
-[Cloud Data Fusion](https://cloud.google.com/data-fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. Cloud Data Fusion provides a graphical interface to increase time efficiency and reduce complexity. Now business users, developers, and data scientists can easily and reliably build scalable data integration solutions to cleanse, prepare, blend, transfer, and transform data— without having to wrestle with infrastructure.
+[Cloud Data Fusion](https://cloud.google.com/data-fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. 
 
 
-## CDAP
+### CDAP
 
 Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/).
 
@@ -84,7 +84,7 @@ Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/)
 
 ## Cloud Dataprep
 
-[Dataprep](Dataprep) is an interactive web application in which users define the data preparation rules by interacting with a sample of their data. For execution of the flow over the complete dataset, the flow can be executed as a Dataprep job (using Dataflow). Pricing is split across two variables; design and execution.
+[Dataprep](Dataprep) is an interactive web application in which users define the data preparation rules by interacting with a sample of their data. 
 
 ## Cloud Composer
 
@@ -107,7 +107,6 @@ Demonstration of Data Studio.
 
 
 
-
 ## Looker 
 
 
@@ -120,14 +119,14 @@ Demonstration of Data Studio.
 
 [https://cloud.google.com/data-catalog/docs](https://cloud.google.com/data-catalog/docs)
 
-Data Catalog is a fully managed and scalable metadata management service that empowers organizations to quickly discover, understand, and manage all of their data.
+
 
 [https://www.youtube.com/watch?v=eUKqXZDXj78](https://www.youtube.com/watch?v=eUKqXZDXj78)
 
 
 ## Cloud Life Sciences
 
-[Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. Cloud Life Sciences includes features such as the Cloud Life Sciences API and extract-transform-load (ETL) tools, and more.
+[Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. 
 
 [https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
 
@@ -148,11 +147,9 @@ https://cloud.google.com/datastore/docs
 
 ## Memorystore
 
-[Memorystore](Memorystore) automates complex tasks for open source Redis and Memcached like enabling high availability, failover, patching, and monitoring so you can spend more time coding.
+[Memorystore](Memorystore) automates complex tasks for open source Redis and Memcached like enabling high availability, failover, patching, and monitoring.
 
 ## Firebase
 
 [Firebase](Firebase) is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
-
-
 
