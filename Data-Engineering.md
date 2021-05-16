@@ -1,6 +1,6 @@
 
 
-[Data Engineering](https://quanthub.com/what-is-data-engineering/) is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information. It takes dedicated specialists – data engineers – to maintain data so that it remains available and usable by others. In short, data engineers set up and operate the organization’s data infrastructure preparing it for further analysis by [data analysts and scientists](Data-Science).
+[Data Engineering](https://quanthub.com/what-is-data-engineering/) is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information. It takes dedicated specialists – data engineers – to maintain data so that it remains available and usable by others. In short, data engineers set up and operate the organization’s [data infrastructure]( https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5 ) preparing it for further analysis by [data analysts and scientists](Data-Science).
 
 There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and [freely available books](https://github.com/andkret/Cookbook), [roadmaps](https://github.com/datastacktv/data-engineer-roadmap) and [courses](https://github.com/chandra1sekar/data-engineering).
 
