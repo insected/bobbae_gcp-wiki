@@ -6,7 +6,7 @@ The [IPython](https://ipython.org) Notebook is now known as the [Jupyter Noteboo
 [Jupyter](https://jupyter.org/) is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media.
 
 The name “Jupyter” is a strong reference to Galileo, who detailed his discovery of the Moons of Jupiter in his astronomical notebooks. 
-The name “Jupyter” is also a play on the languages [Julia](https://julialang.org/  ), Python, and R, which are pillars of the modern scientific world. 
+The name “Jupyter” is also a play on the languages [Julia](https://julialang.org/  ), Python, and [R](https://www.r-project.org/ ), which are pillars of the modern scientific world. 
 [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) is a web-based interactive development environment for Jupyter notebooks, code, and data.
 
 
