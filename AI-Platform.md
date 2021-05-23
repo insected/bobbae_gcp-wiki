@@ -1,4 +1,5 @@
 
+[Vertex AI]( https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform ) brings AutoML and AI Platform together into a unified API, client library, and user interface. 
 
 <img src="https://cloud.google.com/ai-platform/images/ml-workflow.svg" width="600">
 
