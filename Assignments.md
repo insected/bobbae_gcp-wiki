@@ -205,6 +205,11 @@
 * [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?parent=catalog)
 * [APIs Explorer: PubSub and IoT](https://www.qwiklabs.com/focuses/3481?parent=catalog)
 
+### DevOps
+
+* [DevOps Quest](https://www.qwiklabs.com/quests/96)
+
+
 ### Spanner
 
 
