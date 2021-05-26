@@ -8,7 +8,7 @@ Learn [how to create a Cloud IoT Core device registry](https://www.youtube.com/w
 
 ### IoT Core
 
-[Google Cloud Internet of Things (IoT) Core](https://cloud.google.com/iot/docs  ) is a fully managed service for securely connecting and managing IoT devices, from a few to millions. Ingest data from connected devices and build rich applications that integrate with the other big data services of Google Cloud Platform.
+[Google Cloud Internet of Things (IoT) Core](https://cloud.google.com/iot/docs  ) is a fully managed service for securely connecting and managing [IoT devices](https://cloud.google.com/solutions/iot/kit ), from a few to millions. Ingest data from connected devices and build rich applications that integrate with the other big data services of Google Cloud Platform.
 
 Events of interest [fire off continuously](https://www.youtube.com/watch?v=51bq_Yhuof4 ) in the physical world, and data that is material to decision making can’t always wait for offline analysis. [Internet-equipped sensors](https://cloud.google.com/community/tutorials/monitoring-iot-data-grafana ) on any physical item imaginable make it possible to ingest data continuously into the cloud, directly from the source at massive scale. 
 
