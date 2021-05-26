@@ -2,17 +2,13 @@
 
 The [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) describes the network of physical objects—“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
 
-Learn how to create a Cloud IoT Core device registry and register a device. 
+Learn [how to create a Cloud IoT Core device registry](https://www.youtube.com/watch?v=iRZzqpvARbc ) and register a device. 
 
-
-[https://www.youtube.com/watch?v=iRZzqpvARbc](https://www.youtube.com/watch?v=iRZzqpvARbc)
 
 
 ### IoT Core
 
-Google Cloud Internet of Things (IoT) Core is a fully managed service for securely connecting and managing IoT devices, from a few to millions. Ingest data from connected devices and build rich applications that integrate with the other big data services of Google Cloud Platform.
-
-[https://cloud.google.com/iot/docs](https://cloud.google.com/iot/docs)
+[Google Cloud Internet of Things (IoT) Core](https://cloud.google.com/iot/docs  ) is a fully managed service for securely connecting and managing IoT devices, from a few to millions. Ingest data from connected devices and build rich applications that integrate with the other big data services of Google Cloud Platform.
 
 Events of interest fire off continuously in the physical world, and data that is material to decision making can’t always wait for offline analysis. Internet-equipped sensors on any physical item imaginable make it possible to ingest data continuously into the cloud, directly from the source at massive scale. Learn why Cloud Platform is the best place to build IoT initiatives, taking advantage of Google’s heritage of web-scale processing, analytics, and machine intelligence.
 
