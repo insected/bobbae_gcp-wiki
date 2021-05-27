@@ -5,9 +5,12 @@
 
 [GCP](https://www.youtube.com/watch?v=vmOMataJZWw) also [includes](  https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg/playlists  ) Google [App Engine](App-Engine), Google [Compute Engine](Compute), Google [Kubernetes Engine](GKE), Google [Cloud Storage](Storage), Google [Cloud SQL]( https://cloud.google.com/sql  ), and [BigQuery](BigQuery). You will learn about important resource and policy management tools, such as the Google [Cloud Resource Manager](  https://cloud.google.com/resource-manager ) hierarchy and Google Cloud [Identity and Access Management](  IAM). 
 
+### Getting Started
+
+https://console.cloud.google.com/getting-started
 
 
-#### Regions and Zones
+### Regions and Zones
 
 <img src="https://lh3.googleusercontent.com/A803aDoV8Jx5SVmpyDMi4QI-dVuUH6s8sTCjzZgNbwgCd_2aMRg8SMUI7QiHhaM608bCdH0GT1qx=e14-rw-lo-sc0xffffff-h1200" width="800">
 
@@ -24,12 +27,12 @@ Regional resources can be used anywhere within the same region, while zonal reso
 
 
 
-#### GCP Youtube Channel
+### GCP Youtube Channel
 
 [Google produced videos](https://www.youtube.com/googlecloudplatform/) that help you learn about GCP are collected in this channel.
 
 
-#### GCP Useful Links
+### GCP Useful Links
 
 
 Review this [awesome](https://github.com/GoogleCloudPlatform/awesome-google-cloud) list of [ resources](GCP-Learning-Links) related to GCP.
