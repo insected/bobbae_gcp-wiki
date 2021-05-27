@@ -14,6 +14,17 @@ Decision tree for compute options.
 
 [https://cloud.google.com/blog/products/gcp/choosing-the-right-compute-option-in-gcp-a-decision-tree?m=1](https://cloud.google.com/blog/products/gcp/choosing-the-right-compute-option-in-gcp-a-decision-tree?m=1)
 
+### PaaS / IaaS
+
+PaaS refers to cloud-based platform services that provide developers with a framework to build custom applications. Therefore, PaaS isn’t delivering software over the internet but provides a platform that’s accessible to different developers to create software that’s delivered over the internet.
+
+IaaS cloud-based infrastructure resources are delivered to organizations with virtualization technology that helps them build and manage their servers, network, data storage and operating systems. IaaS customers can control their own data infrastructure without having to physically manage it on-site.
+
+### App Engine
+
+
+The Google App Engine, which is also a PaaS solution, allows you to simply deploy your code, and the platform automates everything. GAE is fully scalable, meaning that it acquires more instances automatically if the traffic of your application becomes higher.
+
 ### Cloud Functions
 
 [Cloud Functions](https://cloud.google.com/functions) has a simple and intuitive developer experience. Just write your code and let Google Cloud handle the operational infrastructure. Develop faster by writing and running small code snippets that respond to events. Connect to Google Cloud or third-party cloud services via triggers to streamline challenging orchestration problems.
@@ -22,8 +33,18 @@ Decision tree for compute options.
 
 [https://cloud.google.com/functions/docs/functions-framework](https://cloud.google.com/functions/docs/functions-framework)
 
+#### Using Cloud Tasks to trigger Cloud Function
+
+https://cloud.google.com/tasks/docs/tutorial-gcf
 
 
+### Cloud Run
+
+[Cloud Run](https://cloud.google.com/run/docs) is a managed compute platform that enables you to run stateless containers that are invocable via web requests or Pub/Sub events. Cloud Run is serverless: it abstracts away all infrastructure management, so you can focus on what matters most — building great applications. It is built from [Knative](https://cloud.google.com/knative).
+
+Cloud Run takes containers and makes them invocable via HTTP requests, Cloud Functions remain as Google's event-driven serverless platform.
+
+https://cloud.google.com/run/docs/quickstarts
 
 ### Cloud GPUs
 
