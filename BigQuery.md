@@ -128,6 +128,7 @@ Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practice
 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
 
+https://medium.com/google-cloud/bigquery-explained-working-with-joins-nested-repeated-data-1941646ccb5b
 
 ## Learn writing java code to connect Dataproc map/reduce to BigQuery
 
