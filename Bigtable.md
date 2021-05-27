@@ -3,6 +3,9 @@ Cloud [Bigtable](https://cloud.google.com/bigtable/docs)  is Google's [NoSQL Big
 ), including Search, Analytics, Maps, and Gmail.
 
 
+## Overview
+
+https://cloud.google.com/bigtable/docs/overview
 
 ## Scalable Key-value store
 
@@ -67,11 +70,13 @@ You can use Bigtable to store and query all of the following types of data:
 Bigtable stores data in massively scalable tables, each of which is a sorted key/value map. The table is composed of rows, each of which typically describes a single entity, and columns, which contain individual values for each row. Each row is indexed by a single row key, and columns that are related to one another are typically grouped together into a column family. Each column is identified by a combination of the column family and a column qualifier, which is a unique name within the column family.
 
 
-Tables are split into multiple tablets – segments of the table are split at certain row keys so that each tablet is a few hundred megabytes or a few gigabytes in size. A bigtable is somewhat like a mapreduce worker pool in that thousands to hundreds of thousands of tablet shards may be served by hundreds to thousands of BigTable servers. 
+Tables are split into multiple tablets – segments of the table are split at certain row keys so that each tablet is a few hundred megabytes or a few gigabytes in size. 
 
 When Table size threaten to grow beyond a specified limit, the tablets may be compressed using the algorithm BMDiff and the Zippy compression algorithm publicly known and open-sourced as Snappy, which is a less space-optimal variation of LZ77 but more efficient in terms of computing time. 
 
 The locations in the GFS of tablets are recorded as database entries in multiple special tablets, which are called "META1" tablets. META1 tablets are found by querying the single "META0" tablet, which typically resides on a server of its own since it is often queried by clients as to the location of the "META1" tablet which itself has the answer to the question of where the actual data is located. Like GFS's master server, the META0 server is not generally a bottleneck since the processor time and bandwidth necessary to discover and transmit META1 locations is minimal and clients aggressively cache locations to minimize queries.
+
+
 
 ## Schema design
 
