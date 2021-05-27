@@ -26,6 +26,13 @@ You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
 
+
+
+
+## BigQuery tutorials
+
+[https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
+
 ## Anatomy of a BigQuery query
 
 Google [BigQuery](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood) is a lightning-fast analytics database. Customers find BigQuery performance liberating, allowing them to experiment with enormous datasets without compromise. But how fast is BigQuery really? And what does it take to achieve BigQuery speeds? Let’s check out the publically-available bigquery-samples:wikipedia_benchmark, specifically the Wiki100B table. This table contains 100 billion rows and is about 7 Terabytes in size.
@@ -123,12 +130,6 @@ Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practice
 
 [https://www.youtube.com/watch?v=STo98QUKDS8](https://www.youtube.com/watch?v=STo98QUKDS8)
 
-
-## BigQuery tutorials
-
-[https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
-
-https://medium.com/google-cloud/bigquery-explained-working-with-joins-nested-repeated-data-1941646ccb5b
 
 ## Learn writing java code to connect Dataproc map/reduce to BigQuery
 
