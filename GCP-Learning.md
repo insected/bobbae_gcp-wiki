@@ -27,7 +27,6 @@
 - [DevOps](DevOps)
 - [Development API and SDK](Development-API-and-SDK)
 - [API Management and Apigee](API-Management-and-Apigee)
-- [Comparisons](Comparisons)
 - [Accounts and Billing](Accounts-and-Billing)
 - [Compliance](Compliance)
 - [Links](GCP-Learning-Links)
