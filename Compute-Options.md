@@ -49,7 +49,7 @@ https://cloud.google.com/run/docs/quickstarts
 
 ### Cloud Run for Anthos
 
-Cloud Run for Anthos provides a flexible serverless development platform on Google Kubernetes Engine (GKE). Cloud Run for Anthos is powered by [Knative](https://knative.dev/), an open source project that supports serverless workloads on Kubernetes. 
+[Cloud Run for Anthos](https://cloud.google.com/anthos/run) provides a flexible serverless development platform on Google Kubernetes Engine (GKE). Cloud Run for Anthos is powered by [Knative](https://knative.dev/), an open source project that supports serverless workloads on Kubernetes. 
 
 ### Cloud GPUs
 
