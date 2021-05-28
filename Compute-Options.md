@@ -18,7 +18,7 @@ Decision tree for compute options.
 
 PaaS refers to cloud-based platform services that provide developers with a framework to build custom applications. Therefore, PaaS isn’t delivering software over the internet but provides a platform that’s accessible to different developers to create software that’s delivered over the internet.
 
-IaaS cloud-based infrastructure resources are delivered to organizations with virtualization technology that helps them build and manage their servers, network, data storage and operating systems. IaaS customers can control their own data infrastructure without having to physically manage it on-site.
+[IaaS](https://cloud.google.com/learn/what-is-iaas) cloud-based infrastructure resources are delivered to organizations with virtualization technology that helps them build and manage their servers, network, data storage and operating systems. IaaS customers can control their own data infrastructure without having to physically manage it on-site.
 
 ### App Engine
 
