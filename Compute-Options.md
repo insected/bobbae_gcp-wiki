@@ -40,11 +40,16 @@ https://cloud.google.com/tasks/docs/tutorial-gcf
 
 ### Cloud Run
 
-[Cloud Run](https://cloud.google.com/run/docs) is a managed compute platform that enables you to run stateless containers that are invocable via web requests or Pub/Sub events. Cloud Run is serverless: it abstracts away all infrastructure management, so you can focus on what matters most — building great applications. It is built from [Knative](https://cloud.google.com/knative).
+[Cloud Run](https://cloud.google.com/run/docs) is a managed compute platform that enables you to run stateless containers that are invocable via web requests or Pub/Sub events. Cloud Run is serverless: it abstracts away all infrastructure management.
+
 
 Cloud Run takes containers and makes them invocable via HTTP requests, Cloud Functions remain as Google's event-driven serverless platform.
 
 https://cloud.google.com/run/docs/quickstarts
+
+### Cloud Run for Anthos
+
+Cloud Run for Anthos provides a flexible serverless development platform on Google Kubernetes Engine (GKE). Cloud Run for Anthos is powered by [Knative](https://knative.dev/), an open source project that supports serverless workloads on Kubernetes. 
 
 ### Cloud GPUs
 
