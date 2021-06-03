@@ -39,6 +39,7 @@ Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-f
 
 [https://www.youtube.com/watch?v=OoEpfb6yga8](https://www.youtube.com/watch?v=OoEpfb6yga8)
 
+You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) create a small three node Hadoop cluster and submit map reduce example.
 
 #### Apache Spark Tutorial
 
