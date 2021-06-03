@@ -130,3 +130,5 @@ And finally a perspective on replacing Sawzell within Google.
 
 
 [Hadoop to GCP](https://cloud.google.com/blog/products/data-analytics/goodbye-hadoop-building-a-streaming-data-processing-pipeline-on-google-cloud) 
+
+[Using Apache Hive on Dataproc](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc )
