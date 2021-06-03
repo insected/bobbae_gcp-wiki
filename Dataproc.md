@@ -15,6 +15,11 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 [https://www.youtube.com/watch?v=h1LvACJWjKc](https://www.youtube.com/watch?v=h1LvACJWjKc)
 
 
+[Dataproc Metastore] can be used as a centralized metadata repository that can be shared among various ephemeral Dataproc clusters running different [open source engines](https://cloud.google.com/dataproc-metastore/docs ).
+
+[Apache Hive](https://hive.apache.org/ ) [can run](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc ) on Dataproc.
+
+Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
 
 
 ## Big Data analytics with Dataproc
