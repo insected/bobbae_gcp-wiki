@@ -18,9 +18,9 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 [Dataproc Metastore](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/cloud-hive-metastore-now-available/amp/ ) can be used as a [centralized metadata repository]( 
  https://cloud.google.com/dataproc-metastore/docs  ) that can be shared among various ephemeral Dataproc clusters running different [open source components](https://cloud.google.com/dataproc/docs/concepts/components/overview#available_optional_components ).
 
-[Apache Hive](https://hive.apache.org/ ) [can run](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc ) on Dataproc.
 
-Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
+
+
 
 
 [Component Gateway](https://cloud.google.com/dataproc/docs/concepts/accessing/dataproc-gateways ) provides secure access to web endpoints for Dataproc default and [optional components](https://cloud.google.com/dataproc/docs/concepts/components/overview#available_optional_components ).
@@ -35,18 +35,18 @@ Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-f
 [https://www.youtube.com/watch?v=YK_-yS9y_0k](https://www.youtube.com/watch?v=YK_-yS9y_0k)
 
 
-#### Basic introduction to Apache Hadoop
+## Basic introduction to Apache Hadoop
 
 [https://www.youtube.com/watch?v=OoEpfb6yga8](https://www.youtube.com/watch?v=OoEpfb6yga8)
 
 You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) create a small three node Hadoop cluster and submit map reduce example.
 
-#### Apache Spark Tutorial
+## Apache Spark Tutorial
 
 [https://www.youtube.com/watch?v=IQfG0faDrzE4](https://www.youtube.com/watch?v=IQfG0faDrzE4)  
 
 
-##### A Scala tutorial for Java programmers
+## A Scala tutorial for Java programmers
 
 [https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 
@@ -56,9 +56,6 @@ You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-
 [https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30](https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30)
 
 
-## Using Apache Hive on Cloud Dataproc
-
-[https://cloud.google.com/solutions/using-apache-hive-on-cloud-dataproc](https://cloud.google.com/solutions/using-apache-hive-on-cloud-dataproc)
 
 
 ## Spark by Example
@@ -90,6 +87,8 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 [https://www.youtube.com/watch?v=cMziv1iYt28](https://www.youtube.com/watch?v=cMziv1iYt28)
 
 [Using Apache Hive on Dataproc](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc ).
+
+Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
 
 ## Hadoop Pig 
 
