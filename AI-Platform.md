@@ -3,7 +3,7 @@
 
 <img src="https://cloud.google.com/ai-platform/images/ml-workflow.svg" width="600">
 
-[AI Platform](https://cloud.google.com/ai-platform/docs) makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively. From data engineering to "no lock- in" flexibility, AI Platform's integrated tool chain helps you build and run your own machine learning applications.
+[AI Platform](https://cloud.google.com/ai-platform/docs) provides integrated tool chain  that helps you build and run your own machine learning applications.
 
 [https://cloud.google.com/ai-platform/docs]()
 
