@@ -136,3 +136,13 @@ And finally a perspective on replacing Sawzell within Google.
 
 
 [Distributed Image Processing in Cloud Dataproc](https://www.qwiklabs.com/focuses/5834?parent=catalog)
+
+[Using Apache Spark DStreams with Dataproc and Pub/Sub](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub)
+
+[Cloud Bigtable map reduce word count example with Dataproc](https://github.com/GoogleCloudPlatform/cloud-bigtable-examples/tree/master/java/dataproc-wordcount)
+
+[Install and run a Jupyter notebook on a Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
+
+[Apache Spark and Jupyter Notebooks made easy with Dataproc component gateway](https://medium.com/google-cloud/apache-spark-and-jupyter-notebooks-made-easy-with-dataproc-component-gateway-fa91d48d6a5a)
+
+[Cloud Dataproc example repository](https://github.com/GoogleCloudDataproc/cloud-dataproc)
