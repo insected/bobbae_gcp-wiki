@@ -135,4 +135,4 @@ And finally a perspective on replacing Sawzell within Google.
 [Machine Learning with Spark on Google Cloud Dataproc](https://www.qwiklabs.com/focuses/3390?parent=catalog )
 
 
-[Distributed Image Processing in Cloud Dataproc]()
+[Distributed Image Processing in Cloud Dataproc](https://www.qwiklabs.com/focuses/5834?parent=catalog? )
