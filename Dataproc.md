@@ -120,7 +120,7 @@ And finally a perspective on replacing Sawzell within Google.
 [http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html?m=1](http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html?m=1)
 
 
-## Qwiklabs
+## Tutorials
 
 
 
@@ -132,3 +132,7 @@ And finally a perspective on replacing Sawzell within Google.
 [Hadoop to GCP](https://cloud.google.com/blog/products/data-analytics/goodbye-hadoop-building-a-streaming-data-processing-pipeline-on-google-cloud) 
 
 
+[Machine Learning with Spark on Google Cloud Dataproc](https://www.qwiklabs.com/focuses/3390?parent=catalog )
+
+
+[Distributed Image Processing in Cloud Dataproc]()
