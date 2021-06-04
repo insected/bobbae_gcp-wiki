@@ -89,13 +89,13 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 
 [https://www.youtube.com/watch?v=cMziv1iYt28](https://www.youtube.com/watch?v=cMziv1iYt28)
 
-
+[Using Apache Hive on Dataproc](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc ).
 
 ## Hadoop Pig 
 
 [Apache Pig](http://pig.apache.org/) is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs.
 
-[https://www.youtube.com/watch?v=Hve24pRW_Ps](https://www.youtube.com/watch?v=Hve24pRW_Ps) \
+[https://www.youtube.com/watch?v=Hve24pRW_Ps](https://www.youtube.com/watch?v=Hve24pRW_Ps) 
 
 
 ## Hive vs Pig vs SQL
@@ -132,4 +132,4 @@ And finally a perspective on replacing Sawzell within Google.
 
 [Hadoop to GCP](https://cloud.google.com/blog/products/data-analytics/goodbye-hadoop-building-a-streaming-data-processing-pipeline-on-google-cloud) 
 
-[Using Apache Hive on Dataproc](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc )
+
