@@ -53,7 +53,7 @@ We can use probability to make predictions in machine learning. Perhaps the most
 
 Naive [Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/) methods are quite simple (in terms of model complexity) and commonly used for tasks such as document classification and spam filtering. This algorithm works well for datasets with a large amount of features (ex. a body of text where every word is treated as a feature) but it is naive in the sense that it treats every feature as independent of one another. This is clearly not the case for language, where word order matters when trying to discern meaning from a statement. Nonetheless, these methods have been used quite successfully for various text classification tasks.
 
-### [Regression & Classification
+### Regression & Classification
 
 [Regression](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/) and [classification](https://www.youtube.com/watch?v=TJveOYsK6MY) lead to ways of splitting data.
 
