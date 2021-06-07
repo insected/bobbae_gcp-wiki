@@ -56,6 +56,33 @@ https://www.tutorialspoint.com/difference-between-process-and-thread
 https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread
 
 
+## coding
+
+https://github.com/bobbae/gcp/wiki/Interview-Coding
+
+## Data Engineering
+
+https://github.com/bobbae/gcp/wiki/Interview-Data-Engineering
+
+## DevOps
+
+https://github.com/bobbae/gcp/wiki/Interview-DevOps
+
+## Infrastructure
+
+https://github.com/bobbae/gcp/wiki/Interview-Infrastructure
+
+
+## Networking
+
+https://github.com/bobbae/gcp/wiki/Interview-Networking
+
+## Security
+
+https://github.com/bobbae/gcp/wiki/Interview-Security
+
+## Storage
+
 
 
 
