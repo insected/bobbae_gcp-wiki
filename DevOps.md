@@ -9,6 +9,8 @@ The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, f
 
 This will allow your organization to respond in a more agile manner to changing business requirements. The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
+
+
 ## DevSecOps
 
 [DevSecOps](https://resources.github.com/whitepapers/Architects-guide-to-DevOps/) isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](Security) and [privacy](Privacy) must also [play an integrated role](https://techbeacon.com/security/devsecops-realities-app-dev-teams-must-accept) in the [full life cycle of your apps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/).
