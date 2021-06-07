@@ -1,28 +1,4 @@
-- [General](#general)
-- [Coding](#coding)
-- [General Computer Science](#general-computer-science)
-- [Google Cloud Platform](#google-cloud-platform)
-- [General Infrastructure](#general-infrastructure)
-- [BASICs](#basics)
-- [IT and sysadmin questions](#it-and-sysadmin-questions)
-- [Data Science](#data-science)
-- [Data Engineering](#data-engineering)
-- [Cloud](#cloud)
-- [Security](#security)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [Networking](#networking)
-- [Storage](#storage)
-- [Hardware](#hardware)
-- [Desktop Support](#desktop-support)
-- [Statistics](#statistics)
-- [Math](#math)
-- [DevOps](#devops)
-- [Bioinformatics](#bioinformatics)
-- [Reasoning](#reasoning)
-- [Links](#links)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## General
