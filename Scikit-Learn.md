@@ -110,7 +110,7 @@ https://scikit-learn.org/stable/modules/clustering.html
 
 #### KMeans
 
-The KMeans algorithm clusters data by trying to separate samples in n groups of equal variance, minimizing a criterion known as the inertia or within-cluster sum-of-squares (see below). This algorithm requires the number of clusters to be specified. It scales well to large number of samples and has been used across a large range of application areas in many different fields.
+The [KMeans](https://www.saedsayad.com/clustering_kmeans.htm) algorithm clusters data by trying to separate samples in n groups of equal variance, minimizing a criterion known as the inertia or within-cluster sum-of-squares (see below). This algorithm requires the number of clusters to be specified. It scales well to large number of samples and has been used across a large range of application areas in many different fields.
 
 https://scikit-learn.org/stable/modules/clustering.html#k-means
 
