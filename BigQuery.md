@@ -200,6 +200,35 @@ A Galaxy Schema contains two fact table that share dimension tables between them
 [https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql](https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql)
 
 
+## BigQuery ML 
+
+[BigQuery ML](https://cloud.google.com/bigquery-ml/docs/) enables data scientists and data analysts to build and operationalize ML models on planet-scale structured or semi-structured data, directly inside BigQuery, using simple SQL. Export BigQuery ML models for online prediction into Vertex AI or your own serving layer. 
+
+###  BigQuery ML  Tutorials
+
+https://cloud.google.com/bigquery-ml/docs/tutorials
+
+## BigQuery Omni
+
+[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
+
+
+
+## BigQuery BI Engine 
+
+[BigQuery BI Engine](https://cloud.google.com/bi-engine/docs) is a fast, in-memory analysis service that allows you to analyze data stored in BigQuery. 
+
+
+## BigQuery GIS 
+
+[BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
+
+
+### BigQuery GIS tutorial
+
+https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
+
+
 ## Qwiklabs
 
 
