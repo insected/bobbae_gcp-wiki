@@ -20,6 +20,8 @@ First read this [comicbook](https://cloud.google.com/products/ai/ml-comic-1).
 
 Then head over to this [tutorial](https://developers.google.com/machine-learning/crash-course/).
 
+And look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
 ## Machine Learning & Artificial Intelligence 
 
 
@@ -60,6 +62,8 @@ Naive [Bayes classification](https://www.jeremyjordan.me/naive-bayes-classificat
 ### Logistic Regression
 
 The goal of [logistic regression](https://www.jeremyjordan.me/logistic-regression/), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. (For instance, if we were examining the Iris flower dataset, our classifier would figure out some method to split the data based on the following: sepal length, sepal width, petal length, petal width.) In the case of a generic two-dimensional example, the split might look something like this.
+
+https://www.youtube.com/watch?v=yIYKR4sgzI8
 
 ### Decision Trees
 
@@ -116,6 +120,10 @@ Example: Predict the price of a house using the following features: sq ft, numbe
 
 [Linear regression](https://www.jeremyjordan.me/linear-regression/) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. For example, a classifier might draw a decision boundary that can tell you whether or not a house is likely to sell at a given price (when provided with features of the house) but a regressor can use those same features to predict the market value of the house. Nonetheless, regression is still a supervised learning technique and you'll still need to train your model on a set of examples with known outcomes.
 
+
+https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU&index=1
+
+
 ### Polynomial regression
 
 [Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/) is very similar to linear regression, with a slight deviation in how we treat our feature-space.
@@ -128,6 +136,10 @@ Clustering is a popular technique to find groups or segments in your data that a
 ### K-means clustering 
 
 [K-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/) is a simple method for partitioning n data points in k groups, or clusters.
+
+https://www.youtube.com/watch?v=4b5d3muPQmA
+
+
 
 ## Dimensionality Reduction
 
