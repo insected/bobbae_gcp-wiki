@@ -22,6 +22,10 @@ Then head over to this [tutorial](https://developers.google.com/machine-learning
 
 And look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
+Then read
+
+https://duchesnay.github.io/pystatsml/index.html
+
 ## Machine Learning & Artificial Intelligence 
 
 
