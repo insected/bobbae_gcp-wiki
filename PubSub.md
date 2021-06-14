@@ -43,6 +43,9 @@ Using Kafka and Confluent allows customers to integrate legacy systems and Googl
 
 [https://www.youtube.com/watch?v=LjF8IqKKbWc](https://www.youtube.com/watch?v=LjF8IqKKbWc)
 
+## MQTT
+
+https://www.integrasources.com/blog/mqtt-protocol-iot-devices/
 
 ## Qwiklabs
 
