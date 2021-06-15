@@ -47,6 +47,10 @@ Using Kafka and Confluent allows customers to integrate legacy systems and Googl
 
 https://www.integrasources.com/blog/mqtt-protocol-iot-devices/
 
+## AWS SQS, SNS, Kinesis
+
+https://medium.com/@campfirecode/sqs-vs-sns-vs-kinesis-which-aws-messaging-service-to-use-1fa3aa6be97d
+
 ## Qwiklabs
 
 [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7524031)
