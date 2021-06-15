@@ -102,6 +102,8 @@ Jenkins X provides pipeline automation, built-in GitOps.
 
 https://jenkins-x.io/
 
+Try [this tutorial installing and deploying](https://itnext.io/deploy-a-basic-python-application-using-jenkins-x-kubernetes-4adace2fe345) a python app to kubernetes via jenkins X.
+
 
 ### Spinnaker
 
