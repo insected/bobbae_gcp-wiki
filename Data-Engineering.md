@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=p3qvj9hO_Bo
 
 ## Cloud Dataproc
 
-[Dataproc](Dataproc) is a fully managed and highly scalable service for running [Apache Spark](https://spark.apache.org/), [Apache Flink](https://flink.apache.org/), [Presto](https://prestodb.io/), and 30+ [open source tools(https://cloud.google.com/blog/products/data-analytics/new-open-source-tools-in-cloud-dataproc-process-data-at-cloud-scale) and frameworks. 
+[Dataproc](Dataproc) is a fully managed and highly scalable service for running [Apache Spark](https://spark.apache.org/), [Apache Flink](https://flink.apache.org/), [Presto](https://prestodb.io/), and 30+ [open source tools](https://cloud.google.com/blog/products/data-analytics/new-open-source-tools-in-cloud-dataproc-process-data-at-cloud-scale) and frameworks. 
 
 ## Cloud Pub/Sub
 
