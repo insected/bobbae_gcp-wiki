@@ -92,6 +92,9 @@ When BigQuery executes a query job, it converts the declarative SQL statement in
 
 Within the [query plan](https://cloud.google.com/bigquery/query-plan-explanation), the terms work units and workers are used to convey information specifically about parallelism. Elsewhere within BigQuery, you may encounter the term slot", which is an abstracted representation of multiple facets of query execution, including compute, memory, and I/O resources. Top level job statistics provide the estimate of individual query cost using the totalSlotMs estimate of the query using this abstracted accounting.
 
+## Point in time recovery
+
+https://cloud.google.com/spanner/docs/pitr
 
 
 ## Managing input data and data sources
