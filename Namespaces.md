@@ -1,5 +1,5 @@
 
-[Namespaces](https://www.openshift.com/blog/kubernetes-namespaces-demystified-how-to-make-the-most-of-them) are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources. The feature works by having the same namespace for a set of resources and processes, but those namespaces refer to distinct resources. Resources may exist in multiple spaces. Examples of such resources are process IDs, hostnames, user IDs, file names, and some names associated with network access, and interprocess communication.
+[Namespaces](https://en.wikipedia.org/wiki/Linux_namespaces) are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a different set of resources. The feature works by having the same [namespace](https://lwn.net/Articles/531114/) for a set of resources and processes, but those namespaces refer to distinct resources. Resources may exist in multiple spaces. Examples of such resources are process IDs, hostnames, user IDs, file names, and some names associated with network access, and interprocess communication.
 
 
 
