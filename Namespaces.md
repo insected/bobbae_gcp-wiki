@@ -5,7 +5,7 @@
 
 ### Linux namespaces
 
-Namespaces are a fundamental aspect of containers on Linux.
+[Namespaces](https://lwn.net/Articles/531114/) are a fundamental aspect of containers on Linux.
 
 The term "namespace" is often used for a type of namespace (e.g. process ID) as well as for a particular space of names.
 
