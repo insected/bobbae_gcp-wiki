@@ -75,6 +75,8 @@ https://kubernetes.io/docs/concepts/architecture/
 
 ## Components
 
+https://kubernetes.io/docs/concepts/overview/components/
+
 ### etcd
 
 https://kubernetes.io/docs/concepts/overview/components/#etcd
