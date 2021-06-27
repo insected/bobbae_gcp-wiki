@@ -142,7 +142,14 @@ There are many [Kubernetes Monitoring](Kubernetes-Monitoring) tools.
 
 With Binary Authorization, you can automatically check each component of your software supply chain, ensuring the quality and integrity of your software before an application is deployed to your production environment.
 
+## Stateless Applications
 
+https://kubernetes.io/docs/tutorials/stateless-application/
+
+
+## Stateful Apps
+
+https://kubernetes.io/docs/tutorials/stateful-application/
 
 ## Scaling
 
@@ -169,6 +176,11 @@ Kubernetes has [awesome](https://github.com/CognonicLabs/awesome-AI-kubernetes) 
 Kubernetes supports various [Workflows](Workflows) for [DevOps](DevOps) as discussed [here](https://faun.pub/workflow-for-kubernetes-devops-15f0dbb560ff).
 
 It is possible to support [GitOps CICD](https://itnext.io/continuous-gitops-the-way-to-do-devops-in-kubernetes-896b0ea1d0fb) in Kubernetes.
+
+## Tutorials
+
+https://kubernetes.io/docs/tutorials/
+
 
 ## Qwiklabs
 
