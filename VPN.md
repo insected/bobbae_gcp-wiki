@@ -77,7 +77,8 @@ Study [Cryptography](Cryptography) in the context of VPN.
 ## Comparisons of different kinds of VPNs
 
 
-## Comparison of VPN Protocols
-
 https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
 
+## NSA and VPN
+
+https://www.schneier.com/blog/archives/2020/07/nsa_on_securing.html
