@@ -356,6 +356,14 @@ https://kubernetes.io/docs/concepts/security/overview/
 
 https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-ipsec-vpn-overview.html
 
+### Cryptographic evaluation of IPSec
+
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.33.7922
+
+### AES Key agility issues
+
+https://www.researchgate.net/publication/2646713_AES_Key_Agility_Issues_in_High-Speed_IPsec_Implementations
+
 ## Comparison of VPN Protocols
 
 There are many [VPNs](VPN).
