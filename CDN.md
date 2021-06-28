@@ -32,4 +32,7 @@ Cloud CDN works with external HTTP(S) Load Balancing to deliver content to your 
 
 https://cloud.google.com/cdn/docs/using-cdn
 
+## CDN Comparison
+
+https://cdncomparison.com/
 
