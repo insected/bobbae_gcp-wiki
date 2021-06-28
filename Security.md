@@ -177,6 +177,21 @@ Check out a demo of Binary Authorization, a Google Cloud Platform security featu
 [https://www.youtube.com/watch?v=mi50OJq6wd0](https://www.youtube.com/watch?v=mi50OJq6wd0)
 
 
+### Container image binary authorization
+
+
+[Binary Authorization](https://cloud.google.com/binary-authorization/) is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE). With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
+
+
+
+
+
+### Binary Authorization Attestations with Voucher
+
+An [attestor](https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher) is a Google Cloud resource that Binary Authorization uses to verify the attestation at container image deploy time. Attestors contain the public key that corresponds to the private key used by a signer to sign the container image digest and create the attestation. 
+
+The Binary Authorization enforcer uses the attestor at deploy time to limit which container images are allowed to be deployed to those with an accompanying, verifiable attestation created prior to deployment.
+
 ## Cloud Asset Inventory
 
 [Cloud Asset Inventory](https://cloud.google.com/asset-inventory/docs/overview) provides inventory services based on a time series database. This database keeps a five-week history of Google Cloud [asset](https://cloud.google.com/asset-inventory/docs/overview#assets) metadata.
@@ -324,21 +339,6 @@ Administrators first define an access policy, which is an organization-wide cont
 Access levels describe the necessary requirements for requests to be honored. 
 
 
-
-### Binary Authorization
-
-[Binary Authorization](https://cloud.google.com/binary-authorization/) is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE). With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
-
-
-
-
-
-### Binary Authorization Attestations with Voucher
-
-An [attestor](https://cloud.google.com/binary-authorization/docs/creating-attestations-voucher) is a Google Cloud resource that Binary Authorization uses to verify the attestation at container image deploy time. Attestors contain the public key that corresponds to the private key used by a signer to sign the container image digest and create the attestation. 
-
-The Binary Authorization enforcer uses the attestor at deploy time to limit which container images are allowed to be deployed to those with an accompanying, verifiable attestation created prior to deployment.
-
 ## StackRox
 
 [StackRox](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/) provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. Alternatively, use StackRox to enforce security policies for GKE with Cloud Run. 
@@ -348,7 +348,19 @@ The Binary Authorization enforcer uses the attestor at deploy time to limit whic
 
 Internet routing depends on continuous  correct configuration and operation of its routing protocols. The dynamic nature of the [routing protocols](Router) means [the risks associated](  https://www.secureworks.com/research/bgp-hijacking-for-cryptocurrency-profit  ) must be considered.
 
+## Kubernetes security
 
+https://kubernetes.io/docs/concepts/security/overview/
+
+## IPSec
+
+https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-ipsec-vpn-overview.html
+
+## Comparison of VPN Protocols
+
+There are many [VPNs](VPN).
+
+https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
 
 ## Qwiklabs
 
