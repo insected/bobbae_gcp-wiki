@@ -72,3 +72,12 @@ In [Networks and tunnel routing](https://cloud.google.com/network-connectivity/d
 
 
 Study [Cryptography](Cryptography) in the context of VPN.
+
+
+## Comparisons of different kinds of VPNs
+
+
+## Comparison of VPN Protocols
+
+https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
+
