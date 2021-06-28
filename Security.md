@@ -375,6 +375,11 @@ https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
 https://internetofthingsagenda.techtarget.com/definition/IoT-security-Internet-of-Things-security
 
 
+## BigQuery row level security
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
+
+
 ## Qwiklabs
 
 ### Cloud KMS
