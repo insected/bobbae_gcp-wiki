@@ -4,6 +4,22 @@
 
 https://cloud.google.com/cdn/docs/overview
 
+
+### Using CDN with backend bucket
+
+https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket
+
+
+### Using CDN with managed instance group
+
+https://cloud.google.com/cdn/docs/setting-up-cdn-with-mig
+
+
+### Using CDN with an external origin
+
+https://cloud.google.com/cdn/docs/setting-up-cdn-with-external-origin
+
+
 ## HTTP/3 
 
 HTTP/3 is a next-generation internet protocol, and is built on top of [QUIC](https://datatracker.ietf.org/doc/html/rfc9000).
