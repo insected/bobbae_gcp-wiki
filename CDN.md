@@ -1,8 +1,8 @@
 ## Cloud CDN
 
-[Cloud CDN](https://cloud.google.com/cdn/) (Content Delivery Network) uses Google's globally distributed edge points of presence to cache external HTTP(S) load balanced content close to your users. Caching content at the edges of Google's network provides faster delivery of content to your users while reducing serving costs
+[Cloud CDN](https://cloud.google.com/cdn/) (Content Delivery Network) uses Google's globally distributed edge points of presence to cache external HTTP(S) load balanced content close to your users. Caching content at the edges of Google's network provides faster delivery of content to your users while reducing serving costs.
 
-[[https://lh3.googleusercontent.com/jKc6k8-_KCpx7eyZZRLnZbWACEojC-4Qh_-o5LpODsph4bo6vbYRaQr88EU4qBpP7wj2BbynFtFN=e14-rw-lo-sc0xffffff-h800-w1906]]
+https://cloud.google.com/cdn/docs/overview
 
 ## HTTP/3 
 
