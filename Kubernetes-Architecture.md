@@ -201,7 +201,7 @@ A custom resource is an extension of the Kubernetes API that is not necessarily 
 
 [https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 
-<img src="https://miro.medium.com/max/5400/1*PTT5VXpyYHu1SQxXcULqhg.png" width="600">
+<!--<img src="https://miro.medium.com/max/5400/1*PTT5VXpyYHu1SQxXcULqhg.png" width="600">-->
 
 Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
 
