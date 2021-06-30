@@ -48,7 +48,7 @@ It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-L
 
 [Here](https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/) is an introduction into the complexities of Kubernetes networking by following the journey of an HTTP request to a service running on a basic Kubernetes cluster.
 
-<img src="https://miro.medium.com/max/1575/1*UetnYP8uE05GAqQD0tbtBQ.png" width="600">
+<!--<img src="https://miro.medium.com/max/1575/1*UetnYP8uE05GAqQD0tbtBQ.png" width="600">-->
 
 You can use a pod IP address as an endpoint but there is no guarantee that the address won’t change the next time the pod is recreated, which might happen for any number of reasons.
 
@@ -56,7 +56,7 @@ The kubernetes designers [solved this problem](https://medium.com/google-cloud/u
 
 
 
-<img src="https://miro.medium.com/max/1575/1*iezVQZMVEqzic_yfREO8Jw.png" width="400">
+<!--<img src="https://miro.medium.com/max/1575/1*iezVQZMVEqzic_yfREO8Jw.png" width="400">-->
 
 
 ## Policies
