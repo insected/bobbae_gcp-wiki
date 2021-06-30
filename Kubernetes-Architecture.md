@@ -34,7 +34,7 @@ A Pod (as in a pod of whales or pea pod) is a group of one or more containers, w
 https://kubernetes.io/docs/concepts/workloads/pods/
 
 
-<img src="https://miro.medium.com/max/1575/1*Ow5A6_zjjwdKkf2Yi1KgYw.png" width="600">
+<!--<img src="https://miro.medium.com/max/1575/1*Ow5A6_zjjwdKkf2Yi1KgYw.png" width="600">-->
 
 ## Control Plane
 
@@ -248,6 +248,7 @@ https://d2iq.com/products/kudo
 
 <img src="https://miro.medium.com/max/5400/1*jrkpUKU9pX9og6NNdnsbIw.jpeg" width="600">
 
+## Certificates
 
 https://cert-manager.io/docs/installation/kubernetes/
 
