@@ -198,3 +198,19 @@ You may become a more efficient and productive data scientist by teaching you ho
 # Limits
 
 https://towardsdatascience.com/the-limits-of-data-science-b4e5faad20f4
+
+
+## Limits of Machine Learning
+
+https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
+
+
+## Computational limits
+
+https://arxiv.org/pdf/2007.05558.pdf
+
+
+## Causation & correlation
+
+https://chrislovejoy.me/correlation-causation/
+
