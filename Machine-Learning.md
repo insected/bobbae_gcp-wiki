@@ -393,6 +393,9 @@ https://www.guru99.com/pytorch-tutorial.html
 
 [MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
 
+## Precision & Recall
+
+https://en.m.wikipedia.org/wiki/Precision_and_recall
 
 # Links
 
