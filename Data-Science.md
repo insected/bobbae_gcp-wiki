@@ -218,6 +218,6 @@ https://chrislovejoy.me/correlation-causation/
 
 https://www.inference.vc/causal-inference-3-counterfactuals/
 
-## Judea Pearl
+## Causality
 
 https://www.youtube.com/watch?v=78EmmdfOcI8
