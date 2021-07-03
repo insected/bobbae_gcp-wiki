@@ -40,6 +40,26 @@ https://cloud.google.com/training/machinelearning-ai
 
 https://cloud.google.com/ai-platform/docs/ml-solutions-overview
 
+## 7 steps of Machine Learning
+
+Gather data, prepare data, choose the model, train the model, evaluate, tune parameters, review prediction or inference.
+
+https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e
+
+[https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
+
+
+
+## Plain and Simple estimators
+
+The Estimators API gives us a nice workflow of getting our raw data, passing it through an input function, setting up our feature columns and model structure, running our training, and running our evaluation.
+
+[https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
+
+
+## Precision & Recall
+
+https://en.m.wikipedia.org/wiki/Precision_and_recall
 
 ## Classification
 
@@ -235,48 +255,48 @@ The [Monte Carlo](https://www.jeremyjordan.me/rl-learning-implementations/) appr
 
 [Term frequency-inverse document frequency](https://www.jeremyjordan.me/identifying-related-bodies-of-text-using-tf-idf-vectorization/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
 
-# GCP ML Solutions
+## GCP ML Solutions
 
-## AutoML
+### AutoML
 
 [AutoML](AutoML) makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
 
 
 [https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
 
-## AI Platform and Machine Learning
+### AI Platform and Machine Learning
 
 [AI Platform](AI-Platform) enables many parts of the machine learning (ML) workflow. 
 
-## ML Solutions Overview 
+### ML Solutions Overview 
 
 
 [https://cloud.google.com/ai-platform/docs/ml-solutions-overview](https://cloud.google.com/ai-platform/docs/ml-solutions-overview)
 
 
-## Choosing Machine Learning Options
+### Choosing Machine Learning Options
 
 Decision pyramid to choose the right ML option.
 
 [https://www.youtube.com/watch?v=pm_-pVPvZ-4](https://www.youtube.com/watch?v=pm_-pVPvZ-4)
 
 
-## CloudML Engine
+### CloudML Engine
 
 [https://www.youtube.com/watch?v=m0rqccviLNM](https://www.youtube.com/watch?v=m0rqccviLNM)
 
 
-## Cloud AutoML to custom model
+### Cloud AutoML to custom model
 
 [https://www.youtube.com/watch?v=OHIEZ-Scek8](https://www.youtube.com/watch?v=OHIEZ-Scek8)
 
 
-## AutoML NL for custom text classification
+### AutoML NL for custom text classification
 
 [https://www.youtube.com/watch?v=ieaqfU1BwJ8](https://www.youtube.com/watch?v=ieaqfU1BwJ8)
 
 
-## Vision AI
+### Vision AI
 
 Cloud Vision includes several options that you can use to integrate machine learning vision models into your applications and web sites.
 
@@ -291,7 +311,7 @@ A favorite Qwiklab. Awwvision.
 [https://www.qwiklabs.com/focuses/1241?parent=catalog](https://www.qwiklabs.com/focuses/1241?parent=catalog)
 
 
-## Video AI
+### Video AI
 
 Video Intelligence includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites.
 
@@ -300,7 +320,7 @@ Video Intelligence includes several options that you can use to integrate machin
 [https://www.youtube.com/watch?v=h1zU0Qor9J8](https://www.youtube.com/watch?v=h1zU0Qor9J8)
 
 
-## Cloud Natural Language API
+### Cloud Natural Language API
 
 The Cloud Natural Language API provides natural language understanding technologies to developers, including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis. This API is part of the larger Cloud Machine Learning API family.
 
@@ -313,7 +333,7 @@ The Cloud Natural Language API provides natural language understanding technolog
 [https://www.youtube.com/watch?v=MNvT5JekDpg](https://www.youtube.com/watch?v=MNvT5JekDpg)
 
 
-## Cloud Translation
+### Cloud Translation
 
 Cloud Translation can dynamically translate text between thousands of language pairs. Translation lets websites and programs programmatically integrate with the translation service.
 
@@ -322,7 +342,7 @@ Cloud Translation can dynamically translate text between thousands of language p
 [https://www.youtube.com/watch?v=YapTts_An9A](https://www.youtube.com/watch?v=YapTts_An9A)
 
 
-## Text-to-Speech
+### Text-to-Speech
 
 Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
 
@@ -331,7 +351,7 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 [https://www.youtube.com/watch?v=OK1ZmlaFIV8](https://www.youtube.com/watch?v=OK1ZmlaFIV8)
 
 
-## Speech-to-Text
+### Speech-to-Text
 
 Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
 
@@ -339,13 +359,8 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 [https://www.youtube.com/watch?v=naZ8oEKuR44](https://www.youtube.com/watch?v=naZ8oEKuR44)
 
-## 7 steps of Machine Learning
 
-[https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 
-## Plain and Simple estimators
-
-[https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
 
 
 ## AI Hub
@@ -356,24 +371,24 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 [AI Platform](AI-Platform) is a development platform to build AI applications that run on GCP and on-premises. 
 
-# ML Frameworks
+## ML Frameworks
 
-## Tensorflow 
+### Tensorflow 
 
 [Tensorflow](Tensorflow) is an open source, powerful, portable machine learning library developed by Google that can work with very large datasets.
 
 
-## Scikit Learn
+### Scikit Learn
 
 
 [Scikit Learn](Scikit-Learn)  provides a range of supervised and unsupervised learning algorithms via a consistent interface.
 
 
-## Keras
+### Keras
 
 [Keras](Keras) is a neural network library. It wraps the efficient numerical computation libraries Theano and TensorFlow and allows you to define and train neural network models.
 
-## Pytorch
+### Pytorch
 
 [PyTorch](https://pytorch.org/)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
 
@@ -383,19 +398,17 @@ https://www.guru99.com/pytorch-tutorial.html
 
 
 
-## Kubeflow
+### Kubeflow
 
 [Kubeflow](Kubeflow) Pipelines is a platform for building, deploying, and managing multi-step ML workflows based on Docker containers. Kubeflow offers several components that you can use to build your ML training, hyperparameter tuning, and serving workloads across multiple platforms.
 
-## MLOps
+### MLOps
 
 
 
 [MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
 
-## Precision & Recall
 
-https://en.m.wikipedia.org/wiki/Precision_and_recall
 
 # Links
 
