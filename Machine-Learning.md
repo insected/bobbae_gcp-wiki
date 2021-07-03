@@ -255,6 +255,49 @@ The [Monte Carlo](https://www.jeremyjordan.me/rl-learning-implementations/) appr
 
 [Term frequency-inverse document frequency](https://www.jeremyjordan.me/identifying-related-bodies-of-text-using-tf-idf-vectorization/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
 
+
+### BERT 
+
+Bidirectional Encoder Representations from Transformers is described in this [paper](https://arxiv.org/pdf/1810.04805.pdf).
+
+https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+### ELMo
+
+ELMo is a deep contextualized word representation that models both (1) complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy).
+
+
+https://allennlp.org/elmo
+
+### Transfer Learning
+
+The process of training a model on a large-scale dataset and then using that pre-trained model to process learning for another target task. 
+
+Transfer Learning became popular in the field of NLP thanks to the state-of-the-art performance of different algorithms like ULMFiT, Skip-Gram, Elmo, BERT etc.
+
+https://towardsdatascience.com/transfer-learning-using-elmo-embedding-c4a7e415103c
+
+### Attention
+
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+
+
+### Transformers
+
+https://jalammar.github.io/illustrated-transformer/
+
+
+
+### BERT and ELMo
+
+
+http://jalammar.github.io/illustrated-bert/
+
+### trends
+
+https://www.elderresearch.com/blog/trends-in-natural-language-processing/
+
 ## GCP ML Solutions
 
 ### AutoML
