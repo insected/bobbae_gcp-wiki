@@ -32,9 +32,7 @@ You can use [Cloud SQL](https://www.youtube.com/watch?v=OvR2KX8GVtU) with [MySQL
 
 ### SQL Tutorials
 
-https://www.youtube.com/watch?v=p3qvj9hO_Bo
 
-[https://www.youtube.com/watch?v=HXV3zeQKqGY](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 [https://www.freecodecamp.org/news/best-sql-database-tutorial/](https://www.freecodecamp.org/news/best-sql-database-tutorial/)
 
