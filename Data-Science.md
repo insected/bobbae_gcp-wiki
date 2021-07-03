@@ -214,3 +214,10 @@ https://arxiv.org/pdf/2007.05558.pdf
 
 https://chrislovejoy.me/correlation-causation/
 
+## Counterfactual
+
+https://www.inference.vc/causal-inference-3-counterfactuals/
+
+## Judea Pearl
+
+https://www.youtube.com/watch?v=78EmmdfOcI8
