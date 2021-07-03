@@ -1,5 +1,5 @@
 
-[Data science](https://en.wikipedia.org/wiki/Data_science) is an [inter-disciplinary]( https://www.empiricaldata.org/dataladyblog/the-role-of-domain-knowledge-in-data-science  ) field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and [actionable insights]( https://towardsdatascience.com/what-is-data-science-4565e457cc17 ) from data across a [broad range of application domains](https://blog.ml.cmu.edu/2020/08/31/1-domain-knowledge/  ).
+[Data science]( https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-) is an [inter-disciplinary]( https://www.empiricaldata.org/dataladyblog/the-role-of-domain-knowledge-in-data-science  ) field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and [actionable insights]( https://towardsdatascience.com/what-is-data-science-4565e457cc17 ) from data across a [broad range of application domains](https://blog.ml.cmu.edu/2020/08/31/1-domain-knowledge/  ).
 
 
 [Data Science](https://www.w3schools.com/datascience/default.asp) is about data gathering, analysis and decision-making.
