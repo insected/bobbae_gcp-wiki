@@ -112,4 +112,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orc
 
 [Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
+## Example to use GCP Workflows to load data from GCS to BigQuery
 
+[[https://cloud.google.com/architecture/images/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows-1-architecture.svg]]
+
+https://cloud.google.com/architecture/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows
