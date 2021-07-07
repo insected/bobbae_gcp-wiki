@@ -177,4 +177,3 @@ Explainable AI relates to the ways to explain or to present in understandable te
 
 https://pair.withgoogle.com/
 
-https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf
