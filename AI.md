@@ -12,8 +12,36 @@ The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is wh
 https://github.com/amusi/awesome-ai-awesomeness
 
 
-## AI Ethics 
+# AI Ethics 
 
 The ways in which artificial intelligence is built and deployed will significantly affect society. 
 
 We are living in times when it is paramount that the [possibility of harm](https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business ) in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms), [privacy](Privacy) and [security](Security) issues caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
+
+
+# Limits
+
+https://towardsdatascience.com/the-limits-of-data-science-b4e5faad20f4
+
+
+## Limits of Machine Learning
+
+https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
+
+
+## Computational limits
+
+https://arxiv.org/pdf/2007.05558.pdf
+
+
+## Causation & correlation
+
+https://chrislovejoy.me/correlation-causation/
+
+## Counterfactual
+
+https://www.inference.vc/causal-inference-3-counterfactuals/
+
+## Causality
+
+https://www.youtube.com/watch?v=78EmmdfOcI8
