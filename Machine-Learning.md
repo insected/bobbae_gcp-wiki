@@ -413,6 +413,14 @@ Cloud Translation can dynamically translate text between thousands of language p
 
 [https://cloud.google.com/translate/docs](https://cloud.google.com/translate/docs)
 
+#### AutoML Translation vs Translation API
+
+The Translation API covers a huge number of language pairs and does a great job with general-purpose text. Where AutoML Translation really shines is for the "last mile" between generic translation tasks and specific, niche vocabularies. Our custom models start from the generic Translation API model, but add a layer that specifically helps the model get the right translation for domain-specific content that matters to you.
+
+https://cloud.google.com/translate/automl/docs/beginners-guide
+
+#### Using Python and Translation API
+
 [https://www.youtube.com/watch?v=YapTts_An9A](https://www.youtube.com/watch?v=YapTts_An9A)
 
 
