@@ -11,6 +11,25 @@ The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is wh
 
 https://github.com/amusi/awesome-ai-awesomeness
 
+# GCP AI Products
+
+https://cloud.google.com/products/ai
+
+## GCP AI Solutions
+
+
+https://cloud.google.com/solutions/ai
+
+### Contact Center AI
+
+https://cloud.google.com/solutions/contact-center
+
+### Document AI
+
+https://cloud.google.com/document-ai
+
+
+
 # Vertex AI
 
 [Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With Vertex AI, both AutoML training and custom training are available options. 
