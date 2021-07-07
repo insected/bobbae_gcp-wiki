@@ -61,6 +61,10 @@ The Estimators API gives us a nice workflow of getting our raw data, passing it 
 
 https://en.m.wikipedia.org/wiki/Precision_and_recall
 
+## Precision & Recall & F-measure
+
+https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
+
 ## Classification
 
 [Classification](https://machinelearningmastery.com/types-of-classification-in-machine-learning/) is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as “spam” or “not spam.”
