@@ -21,6 +21,33 @@ https://cloud.google.com/vertex-ai/docs
 
 https://cloud.google.com/vertex-ai/docs/tutorials
 
+## Vertex Pipelines
+
+
+[MLOps](MLOps) is the practice of applying DevOps strategies to machine learning (ML) systems. DevOps strategies let you efficiently build and release code changes, and monitor systems to ensure you meet your reliability goals. MLOps extends this practice to help you reduce the amount of time that it takes to reliably go from data ingestion to deploying your model in production, in a way that lets you monitor and understand your ML system.
+
+Vertex Pipelines helps you to automate, monitor, and govern your ML systems by orchestrating your ML workflow in a serverless manner, and storing your workflow's artifacts using Vertex ML Metadata. By storing the artifacts of your ML workflow in Vertex ML Metadata, you can analyze the lineage of your workflow's artifacts — for example, an ML model's lineage may include the training data, hyperparameters, and code that were used to create the model.
+
+
+
+https://cloud.google.com/vertex-ai/docs/pipelines/introduction
+
+## Vertex Explainable AI
+
+
+Vertex Explainable AI integrates feature attributions into Vertex AI. This page provides a brief conceptual overview of the feature attribution methods available with Vertex AI. 
+
+
+
+
+https://cloud.google.com/vertex-ai/docs/explainable-ai
+
+
+### AI Explanations
+
+https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf
+
+
 ## AutoML
 
 Vertex AI [AutoML](AutoML) beginners guide:  https://cloud.google.com/vertex-ai/docs/beginner/beginners-guide
@@ -29,16 +56,29 @@ Vertex AI [AutoML](AutoML) beginners guide:  https://cloud.google.com/vertex-ai/
 
 [AI Hub](AI-Hub)  offers a collection of components for developers and data scientists building AI systems. 
 
+
+### Learning with AI Hub
+
+https://cloud.google.com/ai-hub/docs/learn
+
+
 ### AI Hub vs. TensorFlow Hub
 
 [TensorFlow Hub](https://www.tensorflow.org/hub) provides a library of TensorFlow modules that you can use to speed up the process of training your model. On the AI Hub, you can explore and use a variety of AI asset categories.
 
+### AI Hub Quickstarts
+
+https://cloud.google.com/ai-hub/docs/quickstarts
 
 # AI Ethics 
 
 The ways in which artificial intelligence is built and deployed will significantly affect society. 
 
 We are living in times when it is paramount that the [possibility of harm](https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business ) in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms), [privacy](Privacy) and [security](Security) issues caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
+
+## Responsible AI Practices
+
+https://ai.google/responsibilities/responsible-ai-practices/
 
 
 # Limits
@@ -67,3 +107,11 @@ https://www.inference.vc/causal-inference-3-counterfactuals/
 ## Causality
 
 https://www.youtube.com/watch?v=78EmmdfOcI8
+
+## XAI
+
+Explainable AI relates to the ways to explain or to present in understandable terms to a human. 
+
+https://pair.withgoogle.com/
+
+https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf
