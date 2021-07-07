@@ -13,9 +13,39 @@ https://github.com/amusi/awesome-ai-awesomeness
 
 # Vertex AI
 
-Vertex AI brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With Vertex AI, both AutoML training and custom training are available options. 
+[Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With Vertex AI, both AutoML training and custom training are available options. 
 
 https://cloud.google.com/vertex-ai/docs
+
+## AutoML vs. custom training
+
+
+AutoML lets you create and train a model with minimal technical effort. Even if you want the flexibility of a custom training application, you can use AutoML to quickly prototype models and explore new datasets before investing in development. For example, you can use it to learn which are good features in a dataset.
+
+Custom training lets you create a training application optimized for your targeted outcome. You have complete control over training application functionality; you can target any objective, use any algorithm, develop your own loss functions or metrics, or do any other customization.
+
+https://cloud.google.com/vertex-ai/docs/start/training-methods
+
+## Migrating to Vertex AI
+
+Vertex AI supports all features and models available in AutoML and AI Platform. However, the client libraries do not support client integration backward compatibility. In other words, you must plan to migrate your resources to benefit from Vertex AI features.
+
+https://cloud.google.com/vertex-ai/docs/start/migrating-to-vertex-ai
+
+## Migrating Applications to Vertex AI
+
+API  changes you need to make when you migrate your applications from AutoML or AI Platform to Vertex AI.
+
+
+https://cloud.google.com/vertex-ai/docs/start/migrating-applications
+
+## Vertex AI for AutoML users
+
+https://cloud.google.com/vertex-ai/docs/start/automl-users
+
+## Vertex AI for AI Platform users
+
+https://cloud.google.com/vertex-ai/docs/start/ai-platform-users
 
 ## Vertex AI Tutorials
 
@@ -41,6 +71,11 @@ Vertex Explainable AI integrates feature attributions into Vertex AI. This page 
 
 
 https://cloud.google.com/vertex-ai/docs/explainable-ai
+
+
+### Vertex AI Tutorials
+
+https://cloud.google.com/vertex-ai/docs/tutorials
 
 
 ### AI Explanations
