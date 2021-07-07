@@ -194,30 +194,3 @@ https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 You may become a more efficient and productive data scientist by teaching you how to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
 
-
-# Limits
-
-https://towardsdatascience.com/the-limits-of-data-science-b4e5faad20f4
-
-
-## Limits of Machine Learning
-
-https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
-
-
-## Computational limits
-
-https://arxiv.org/pdf/2007.05558.pdf
-
-
-## Causation & correlation
-
-https://chrislovejoy.me/correlation-causation/
-
-## Counterfactual
-
-https://www.inference.vc/causal-inference-3-counterfactuals/
-
-## Causality
-
-https://www.youtube.com/watch?v=78EmmdfOcI8
