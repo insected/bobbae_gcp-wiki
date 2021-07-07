@@ -256,6 +256,15 @@ The [Monte Carlo](https://www.jeremyjordan.me/rl-learning-implementations/) appr
 [Term frequency-inverse document frequency](https://www.jeremyjordan.me/identifying-related-bodies-of-text-using-tf-idf-vectorization/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
 
 
+#### Build Text Classification Model using  TF-IDF and NLTK
+
+https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
+#### NLTK
+
+https://www.nltk.org/book/
+
+
 ### BERT 
 
 Bidirectional Encoder Representations from Transformers is described in this [paper](https://arxiv.org/pdf/1810.04805.pdf).
@@ -307,6 +316,8 @@ https://www.elderresearch.com/blog/trends-in-natural-language-processing/
 
 [https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
 
+
+
 ### AI Platform and Machine Learning
 
 [AI Platform](AI-Platform) enables many parts of the machine learning (ML) workflow. 
@@ -334,10 +345,15 @@ Decision pyramid to choose the right ML option.
 [https://www.youtube.com/watch?v=OHIEZ-Scek8](https://www.youtube.com/watch?v=OHIEZ-Scek8)
 
 
+
 ### AutoML NL for custom text classification
 
 [https://www.youtube.com/watch?v=ieaqfU1BwJ8](https://www.youtube.com/watch?v=ieaqfU1BwJ8)
 
+
+### Custom Sentiment Analysis with AutoML Natural Language
+
+https://www.youtube.com/watch?v=CReeC8YuEd8
 
 ### Vision AI
 
@@ -369,9 +385,20 @@ The Cloud Natural Language API provides natural language understanding technolog
 
 [https://cloud.google.com/natural-language/docs](https://cloud.google.com/natural-language/docs)
 
+#### Example of using Classification of Bag of Words via Keras
+
 [https://www.youtube.com/watch?v=UFtXy0KRxVI](https://www.youtube.com/watch?v=UFtXy0KRxVI)
 
+#### Gain Insights from Text with Cloud Natural Language API
+
+Qwiklabs GSP097  https://www.qwiklabs.com/focuses/582?parent=catalog
+
+#### Entity Analysis
+
 [https://www.youtube.com/watch?v=3iOtK0sRNMI](https://www.youtube.com/watch?v=3iOtK0sRNMI)
+
+
+#### RNN & Natural Language generation
 
 [https://www.youtube.com/watch?v=MNvT5JekDpg](https://www.youtube.com/watch?v=MNvT5JekDpg)
 
@@ -391,6 +418,8 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 [https://cloud.google.com/text-to-speech/docs](https://cloud.google.com/text-to-speech/docs)
 
+#### Cloud Text-to-Speech API using C#
+
 [https://www.youtube.com/watch?v=OK1ZmlaFIV8](https://www.youtube.com/watch?v=OK1ZmlaFIV8)
 
 
@@ -400,10 +429,58 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 [https://cloud.google.com/speech-to-text/docs](https://cloud.google.com/speech-to-text/docs)
 
+#### Convert speech to text using Node.js
+
 [https://www.youtube.com/watch?v=naZ8oEKuR44](https://www.youtube.com/watch?v=naZ8oEKuR44)
 
+## Difference between AutoML and Cloud Natural language API
+
+Google AutoML Natural Language is much more powerful than the Natural Language API because it allows the user to train models that are customized for their specific dataset and domain.
+
+It is as easy to use and doesn’t require machine learning knowledge. The two downsides are the higher costs and the necessity of providing a high-quality dataset that needs to train models that perform well.
+
+The AutoML beta supports only three NLP tasks for now (classification, sentiment analysis, entity extraction) and supports only English language documents. 
 
 
+### Natural Language API 
+
+The Google Natural Language API is an easy to use interface to a set of powerful NLP models which have been pre-trained by Google to perform various tasks. As these models have been trained on enormously large document corpuses, their performance is usually quite good as long as they are used on datasets that do not make use of a very idiosyncratic language.
+
+The biggest advantage of using these pre-trained models via the API is, that no training dataset is needed. The API allows the user to immediately start making predictions, which can be very valuable in situations where little labeled data is available.
+
+
+
+The Natural Language API comprises five different services:
+
+* Syntax Analysis
+* Sentiment Analysis
+* Entity Analysis
+* Entity Sentiment Analysis
+* Text Classification
+
+The major advantage of the Google Natural Language API is its ease of use. No machine learning skills are required and almost no coding skills. On the Google Cloud website, you can find code snippets for calling the API for a lot of languages.
+
+
+
+The Google Natural Language API is a very convenient option for quick, out-of-the-box solutions. Very little technical knowledge and no understanding of the underlying machine learning models is required.
+
+The main disadvantage is its inflexibility and the lack of access to the models. The models cannot be tuned to a specific task or dataset.
+
+In a real-world environment, most tasks will probably require a more tailored solution than the standardized Natural Language API functions can provide.
+
+### AutoML Natural Language
+
+If the Natural Language API is not flexible enough for your business purposes, then AutoML Natural Language might be the right service. AutoML is a new Google Cloud Service (still in beta) that enables the user to create customized machine learning models. In contrast to the Natural Language API, the AutoML models will be trained on the user’s data and therefore fit a specific task.
+
+Custom machine learning models for classifying content are useful when the predefined categories that are available from the Natural Language API are too generic or not applicable to your specific use case or knowledge domain.
+
+The AutoML service requires a bit more effort for the user, mainly because you have to provide a dataset to train the model. However, the training and evaluation of the models in completely automated and no machine learning knowledge is required. The whole process can be done without writing any code by using the Google Cloud console. Of course, if you want to automate these steps, there is support for all common programming languages.
+
+The training process is quite slow, probably because the underlying models are very big. Training a small test classification task with 15,000 samples and 10 categories and the training can take several hours. A real-world example with a much bigger dataset can take several days.
+
+Fine-tuning big models like [BERT](https://arxiv.org/abs/1810.04805) is a computationally expensive process, especially when a lot of cross-validation is performed.
+
+That means while using AutoML might be very convenient, for performance critical tasks it makes sense to invest the time and develop the model yourself.
 
 
 ## AI Hub
@@ -466,3 +543,8 @@ https://www.guru99.com/pytorch-tutorial.html
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
+
+# Qwiklabs
+
+- https://google.qwiklabs.com/quests/82
+
