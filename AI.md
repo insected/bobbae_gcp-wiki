@@ -11,6 +11,28 @@ The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is wh
 
 https://github.com/amusi/awesome-ai-awesomeness
 
+# Vertex AI
+
+Vertex AI brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With Vertex AI, both AutoML training and custom training are available options. 
+
+https://cloud.google.com/vertex-ai/docs
+
+## Vertex AI Tutorials
+
+https://cloud.google.com/vertex-ai/docs/tutorials
+
+## AutoML
+
+Vertex AI [AutoML](AutoML) beginners guide:  https://cloud.google.com/vertex-ai/docs/beginner/beginners-guide
+
+## AI Hub
+
+[AI Hub](AI-Hub)  offers a collection of components for developers and data scientists building AI systems. 
+
+### AI Hub vs. TensorFlow Hub
+
+[TensorFlow Hub](https://www.tensorflow.org/hub) provides a library of TensorFlow modules that you can use to speed up the process of training your model. On the AI Hub, you can explore and use a variety of AI asset categories.
+
 
 # AI Ethics 
 
