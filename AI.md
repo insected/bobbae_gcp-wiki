@@ -15,16 +15,16 @@ https://github.com/amusi/awesome-ai-awesomeness
 
 https://cloud.google.com/products/ai
 
-## GCP AI Solutions
+# GCP AI Solutions
 
 
 https://cloud.google.com/solutions/ai
 
-### Contact Center AI
+## Contact Center AI
 
 https://cloud.google.com/solutions/contact-center
 
-### Document AI
+## Document AI
 
 https://cloud.google.com/document-ai
 
