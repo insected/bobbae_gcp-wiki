@@ -48,7 +48,9 @@ https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 [MLRun](https://github.com/mlrun/mlrun) is an open-source MLOps framework that offers an integrative approach to managing your machine-learning pipelines from early development through model development to full pipeline deployment in production. MLRun offers a convenient abstraction layer to a wide variety of technology stacks while empowering data engineers and data scientists to define the feature and models.
 
 
+## Vertex Pipelines
 
+https://cloud.google.com/vertex-ai/docs/pipelines/introduction
 
 
 ## ML CICD
