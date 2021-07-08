@@ -4,7 +4,7 @@
 
 
 
-[Kubeflow](Kubeflow) is a [MLOps] tool that can manage pipelines including Tensorflow.
+[Kubeflow](Kubeflow) is a [MLOps](MLOps) tool that can manage pipelines including Tensorflow.
 
 ### TensorFlow.js
 
