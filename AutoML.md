@@ -54,15 +54,24 @@ https://cloud.google.com/translate/automl/docs
 
 ## AutoML Tables
 
-AutoML Tables enables your entire team to automatically build and deploy state-of-the-art machine learning models on structured data at massively increased speed and scale.
+AutoML Tables helps to  build and deploy  machine learning models on structured data at speed and scale.
 
 https://cloud.google.com/automl-tables/docs
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/e8d92904ce53ae0d52b13ef6dd9f2fcd0dc7eba15dbae833fc6ba69fb2cc9883.svg" width="800">
 
+### AutoML Tables Beginner's Guide
+
+https://cloud.google.com/automl-tables/docs/beginners-guide
+
 ### AutoML Tables Quickstart
 
 https://cloud.google.com/automl-tables/docs/quickstart
+
+### Using AutoML Tables from BigQuery
+
+https://towardsdatascience.com/the-best-of-both-worlds-calling-auto-ml-from-bigquery-9dfd433a45d6
+
 
 ## Links
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
