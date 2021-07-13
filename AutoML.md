@@ -74,6 +74,9 @@ You can use AutoML Tables directly from [BigQuery](BigQuery) SQL.
 
 https://towardsdatascience.com/the-best-of-both-worlds-calling-auto-ml-from-bigquery-9dfd433a45d6
 
+### List of Hyperparameters
+
+https://cloud.google.com/automl-tables/docs/logging#hps
 
 ## Links
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
