@@ -70,6 +70,8 @@ https://cloud.google.com/automl-tables/docs/quickstart
 
 ### Using AutoML Tables from BigQuery
 
+You can use AutoML Tables directly from [BigQuery](BigQuery) SQL.
+
 https://towardsdatascience.com/the-best-of-both-worlds-calling-auto-ml-from-bigquery-9dfd433a45d6
 
 
