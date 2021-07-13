@@ -78,6 +78,16 @@ https://towardsdatascience.com/the-best-of-both-worlds-calling-auto-ml-from-bigq
 
 https://cloud.google.com/automl-tables/docs/logging#hps
 
+### When to use AutoML vs others
+
+Use BigQuery ML for easy, low-cost machine learning and quick experimentation to see if ML is viable on your data. Sometimes, the accuracy you get with BQML is sufficient, and you will simply stop here.
+
+Once you identify a viable ML problem using BQML, use Auto ML for code-free, state-of-the-art models. Text classification, for example, is a very specialized field with high-dimensional inputs. So, you can do better with a customized solution (i.e., Auto ML Natural Language) than with a structured data approach that just uses bag-of-words.
+
+Hand-roll your own custom models only for problems where you have lots of data and enough time/effort to devote. Use AutoML as a benchmark. If, you can not beat Auto ML after some reasonable effort, stop wasting time. Just go with Auto ML.
+
+https://towardsdatascience.com/choosing-between-tensorflow-keras-bigquery-ml-and-automl-natural-language-for-text-classification-6b1c9fc21013
+
 ## Links
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
 - [AutoML Cloud Natural Language Samples](https://cloud.google.com/natural-language/automl/docs/samples)
