@@ -121,6 +121,10 @@ Why and how Spotify migrated some of their workloads, and how they built an auto
 
 [https://www.youtube.com/watch?v=_Qm0eopwjG0](https://www.youtube.com/watch?v=_Qm0eopwjG0)
 
+## Bigtable emulator
+
+https://cloud.google.com/bigtable/docs/emulator
+
 ## Music Recommendation
 
 https://www.youtube.com/watch?v=807uHC0Ia10
