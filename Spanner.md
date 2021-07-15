@@ -181,16 +181,11 @@ The [Cloud Spanner SQL query optimizer](https://cloud.google.com/spanner/docs/qu
 
 [This page](https://cloud.google.com/spanner/docs/schema-design) describes best practices for designing Cloud Spanner schemas to avoid hotspots and for loading data into Cloud Spanner. Pay attention to [query limits](https://cloud.google.com/spanner/quotas#query_limits) and [limits in CRUD operations](https://cloud.google.com/spanner/quotas#limits_for_creating_reading_updating_and_deleting_data).
 
-### Emulator
+### Spanner Emulator
 
 The [Cloud SDK](https://cloud.google.com/sdk) provides a local, in-memory emulator, which you can use to develop and test your applications for free without creating a GCP Project or a billing account. As the emulator stores data only in memory, all state, including data, schema, and configs, is lost on restart. The emulator offers the same APIs as the Cloud Spanner production service and is intended for local development and testing, not for production deployments.
-The emulator supports all languages of the client libraries. You can also use the emulator with the gcloud command-line tool and REST APIs.
+The [emulator](https://cloud.google.com/spanner/docs/emulator) supports all languages of the client libraries. You can also use the emulator with the gcloud command-line tool and REST APIs.
 The emulator is also available as an open source project in [GitHub](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator).
-
-## Perspectives
-
-[Big Data](Big-Data) technology evolves over time. 
-
 
 
 
