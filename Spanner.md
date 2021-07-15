@@ -100,6 +100,10 @@ Spanner provides synchronous cross-datacenter replication and strong consistency
 
 F1 is built using Spanner to replace an implementation based on MySQL.
 
+## Transactions
+
+https://cloud.google.com/spanner/docs/transactions
+
 ## External Consistency, Linearizability, Serializability
 
 Cloud Spanner provides clients with the strictest concurrency-control guarantees for transactions, which is called external consistency. Under external consistency, the system behaves as if all transactions were executed sequentially, even though Cloud Spanner actually runs them across multiple servers (and possibly in multiple datacenters) for higher performance and availability. 
