@@ -203,7 +203,9 @@ The emulator is also available as an open source project in [GitHub](https://git
 
 
 
+## Spanner SQL Best practices
 
+https://cloud.google.com/spanner/docs/sql-best-practices
 
 
 
