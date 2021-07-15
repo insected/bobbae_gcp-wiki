@@ -141,6 +141,9 @@ Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practice
 <img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="500">
 
 
+## Denormalize whenever possible
+
+https://cloud.google.com/bigquery/docs/best-practices-performance-input#denormalize_data_whenever_possible
 
 
 ## Building the world’s largest data warehouse
