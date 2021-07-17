@@ -83,18 +83,20 @@ Reverse of terraform.
 
 ## Terragrunt
 
-Terragrunt is a thin wrapper that provides extra tools for keeping your configurations DRY, working with multiple Terraform modules, and managing remote state.
+
 
 https://terragrunt.gruntwork.io/
 
 
 ## Terraspace
 
-provides an organized structure, conventions over configurations, keeps your code DRY, and adds convenient tooling. Terraspace makes working with Terraform easier and more fun.
+
 
 https://terraspace.cloud/
 
 ## Atlantis
+
+Terraform pull request automation
 
 https://www.runatlantis.io/
 
