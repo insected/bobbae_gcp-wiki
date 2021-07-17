@@ -98,6 +98,9 @@ https://terraspace.cloud/
 
 https://www.runatlantis.io/
 
+## Terraform validator
+
+https://github.com/GoogleCloudPlatform/terraform-validator
 
 ## A list of URLs related to terraform
 
