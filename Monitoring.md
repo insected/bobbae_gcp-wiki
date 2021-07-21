@@ -1,4 +1,4 @@
-[Cloud Operations Suite](https://cloud.google.com/products/operations) is new name for [Stackdriver](https://cloud.google.com/products/operations) which includes Cloud Monitoring, Cloud logging, debugging, tracing, dashboarding, etc.
+[Cloud Operations Suite](Operations-and-Stackdriver) is new name for [Stackdriver](https://cloud.google.com/products/operations) which includes Cloud Monitoring, Cloud logging, debugging, tracing, dashboarding, etc.
 
 [Cloud Monitoring](https://cloud.google.com/monitoring) collects measurements of your service and of the Google Cloud resources that you use.  
 
