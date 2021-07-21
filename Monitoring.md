@@ -5,3 +5,4 @@
 
 Cloud Monitoring [is part](Operations-and-Stackdriver) of [Google Cloud operations suite](https://cloud.google.com/stackdriver/docs).
 
+Cloud Operations Suite is new name for Stackdriver which includes Cloud Monitoring, Cloud logging, debugging, tracing, dashboarding, etc.
