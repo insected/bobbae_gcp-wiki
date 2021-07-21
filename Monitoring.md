@@ -6,3 +6,5 @@
 Cloud Monitoring [is part](Operations-and-Stackdriver) of [Google Cloud operations suite](https://cloud.google.com/stackdriver/docs).
 
 Cloud Operations Suite is new name for [Stackdriver](https://cloud.google.com/products/operations) which includes Cloud Monitoring, Cloud logging, debugging, tracing, dashboarding, etc.
+
+Open source projects like [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/) are often used in Kubernetes along with [metrics server](https://github.com/kubernetes-sigs/metrics-server).
