@@ -1,3 +1,4 @@
+[Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) is the study of computer algorithms that improve automatically through experience and by the use of data.
 
 [Machine learning](https://developers.google.com/machine-learning/glossary) is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
 
