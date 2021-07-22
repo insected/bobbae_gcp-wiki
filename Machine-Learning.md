@@ -57,14 +57,45 @@ The Estimators API gives us a nice workflow of getting our raw data, passing it 
 
 [https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
 
+## Evaluation of Models
 
-## Precision & Recall
+
+Once you have a model built using the training set, how can you say how good the model is? You use test set to assess the model. The test set contains the examples that the learning algorithm has never seen before. If our model performs well on predicting the labels of the examples from the test set, we say that our model generalizes well.
+
+
+### Accuracy
+
+Accuracy is necessarily relevant or good way of evaluating a model. Accuracy is given by the number of correctly classified examples divided by the total number of classified examples.
+
+Accuracy may be useful when errors in predicting all classes are equally important.  In case of spam/not spam this may not be the case. You would tolerate false positives less than false negatives.  A false positive may mean you don't get an important email.  False negative is no big deal, even though it is annoying to get a spam.
+
+Accuracy can be not useful when all classes not not equally important. Predicting click stream can be biased because of very few real positive clicks per rendered pages. In other words, almost no clicks can be the norm. In that case, a model that is 99.999% accurate can be created by simply returning "no click" as answer every time.
+
+### Confusion Matrix
+
+Confusion Matrix is a table that summarizes how successful the classification model is at predicting examples belonging to various classes.
+
+https://en.wikipedia.org/wiki/Confusion_matrix
+
+Confusion Matrices can be used to calculate two important performance metrics: precision and recall.
+
+### Precision & Recall
+
+The two most frequently used metrics to assess the model are precision and recall.  Precision is the ratio of correct positive predictions to overall number of positive predictions.   Recall is the ratio of positive predictions to the overall number of positive examples in the test set.  
 
 https://en.m.wikipedia.org/wiki/Precision_and_recall
 
-## Precision & Recall & F-measure
+### F-measure
+
+F-measure is the harmonic mean of Precision and Recall and gives a better measure of the incorrectly classified cases than the Accuracy Metric.
 
 https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
+
+### ROC and AUC
+
+Receiver Operating Characteristic curve and Area Under the Curve use a combination of the true positive rate and false positive rate to build up a summary picture of the model performance.
+
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
 
 ## Classification
 
@@ -209,6 +240,11 @@ Neural networks are a [biologically-inspired algorithm](https://www.jeremyjordan
 
 [Gradient descent](https://www.jeremyjordan.me/gradient-descent/) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a cost function which is capable of measuring how well our model is doing. This function will penalize any error our model makes (by assigning a cost) with respect to the current parameter values. Thus, by minimizing the cost function we can find the optimal parameters that yield the best model performance.
 
+### Hyperparameter Tuning
+
+You will probably tune hyperparameters by experimentally finding the best combination of values, one per hyperparamter.
+
+https://en.wikipedia.org/wiki/Hyperparameter_optimization
 
 ### Learning Rate
 
