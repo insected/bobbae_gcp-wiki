@@ -33,11 +33,11 @@ GCP Essentials: Cloud Logging.
 
 ### Cloud Monitoring
 
-Cloud Monitoring collects metrics, events, and metadata from Google Cloud, Amazon Web Services (AWS), hosted uptime probes, and application instrumentation. Using the [BindPlane service](https://bluemedora.com/products/bindplane/bindplane-for-stackdriver/), you can also collect this data from over 150 common application components, on-premise systems, and hybrid cloud systems. Google Cloud's operations suite ingests that data and generates insights via dashboards, charts, and alerts. BindPlane is included with your Google Cloud project at no additional cost.
+Cloud Monitoring collects metrics, events, and metadata from Google Cloud, Amazon Web Services (AWS), hosted uptime probes, and application instrumentation. Google Cloud's operations suite ingests that data and generates insights via dashboards, charts, and alerts. 
 
 [https://cloud.google.com/monitoring/docs](https://cloud.google.com/monitoring/docs)
 
-Getting started with Cloud Monitoring.
+#### Getting started with Cloud Monitoring
 
 [https://www.youtube.com/watch?v=wY8cmFY4ua8](https://www.youtube.com/watch?v=wY8cmFY4ua8)
 
@@ -87,7 +87,7 @@ Cloud Profiler is a statistical, low-overhead profiler that continuously gathers
 
 [https://cloud.google.com/profiler/docs](https://cloud.google.com/profiler/docs)
 
-Introduction to Stackdriver Profiler.
+#### Introduction to Stackdriver Profiler
 
 [https://www.youtube.com/watch?v=KXjPhadwr8k](https://www.youtube.com/watch?v=KXjPhadwr8k)
 
