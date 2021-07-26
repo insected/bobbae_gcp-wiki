@@ -37,3 +37,7 @@ Firestore in Datastore mode is a NoSQL document database built for automatic sca
 https://cloud.google.com/datastore/docs
 
 [Datastore](Datastore)  is a highly scalable NoSQL database for your web and mobile applications.
+
+## Using firestore emulator
+
+https://github.com/Abszissex/medium-golang-firestore-emulator
