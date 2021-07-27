@@ -81,7 +81,7 @@ A Workflow Template is a reusable workflow configuration. It defines a graph of 
 
 ## Dataflow
 
-[Dataflow](https://cloud.google.com/dataflow/docs)   is a managed service for executing a wide variety of data processing patterns. 
+[Dataflow](Dataflow)   is a managed service for executing a wide variety of data processing patterns. 
 
 
 ## Kubeflow & AI Hub
