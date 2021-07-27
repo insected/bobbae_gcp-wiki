@@ -224,7 +224,7 @@ https://blog.alexellis.io/building-containers-without-docker/
 ## DataOps vs MLOps
 
 
-[DataOps](https://medium.com/data-ops/dataops-is-not-just-devops-for-data-6e03083157b7) takes the practices and values of DevOps and extends it to data analytics workflows and goals. It applies the focus on collaboration and shared responsibility and shifts it to the engineers and admins that collect, store, analyze, secure, and deliver data.
+[DataOps](https://en.wikipedia.org/wiki/DataOps) takes the practices and values of DevOps and extends it to data analytics workflows and goals. It applies the focus on collaboration and shared responsibility and shifts it to the engineers and admins that collect, store, analyze, secure, and deliver data.
 
 * DataOps is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.
 
