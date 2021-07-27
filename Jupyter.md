@@ -1,6 +1,6 @@
 
-The [IPython](https://ipython.org) Notebook is now known as the [Jupyter Notebook]( https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook ). 
-
+[Jupyter Notebook]( https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook ) is based on 
+[IPython](https://ipython.org) 
 
 
 [Jupyter](https://jupyter.org/) is an interactive computational environment, in which you can combine code execution, rich text, mathematics, plots and rich media.
