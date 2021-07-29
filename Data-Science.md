@@ -194,3 +194,8 @@ https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 You may become a more efficient and productive data scientist by teaching you how to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
 
+## Data Lineage
+
+Data lineage uncovers the life cycle of data—it aims to show the complete data flow, from start to finish. Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. This includes all transformations the data underwent along the way—how the data was transformed, what changed, and why.
+
+https://www.keboola.com/blog/data-lineage-tools
