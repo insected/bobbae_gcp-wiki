@@ -47,8 +47,13 @@ Gather data, prepare data, choose the model, train the model, evaluate, tune par
 
 https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e
 
+Steps:
+
 [https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 
+## Dataset Search engine
+
+https://datasetsearch.research.google.com/
 
 
 ## Tensorflow Example: Plain and Simple estimators
