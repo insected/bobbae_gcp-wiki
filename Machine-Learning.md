@@ -51,7 +51,12 @@ https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e
 
 
 
-## Plain and Simple estimators
+## Tensorflow Example: Plain and Simple estimators
+
+
+TensorFlow has a pretty large API surface, but the part we are going to focus on is high-level APIs, called Estimators.
+
+https://towardsdatascience.com/plain-and-simple-estimators-d8d3f4c185c1
 
 The Estimators API gives us a nice workflow of getting our raw data, passing it through an input function, setting up our feature columns and model structure, running our training, and running our evaluation.
 
@@ -121,6 +126,7 @@ Naive [Bayes classification](https://www.jeremyjordan.me/naive-bayes-classificat
 
 ### Logistic Regression
 
+
 The goal of [logistic regression](https://www.jeremyjordan.me/logistic-regression/), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. (For instance, if we were examining the Iris flower dataset, our classifier would figure out some method to split the data based on the following: sepal length, sepal width, petal length, petal width.) In the case of a generic two-dimensional example, the split might look something like this.
 
 https://www.youtube.com/watch?v=yIYKR4sgzI8
@@ -180,8 +186,8 @@ Example: Predict the price of a house using the following features: sq ft, numbe
 
 [Linear regression](https://www.jeremyjordan.me/linear-regression/) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. For example, a classifier might draw a decision boundary that can tell you whether or not a house is likely to sell at a given price (when provided with features of the house) but a regressor can use those same features to predict the market value of the house. Nonetheless, regression is still a supervised learning technique and you'll still need to train your model on a set of examples with known outcomes.
 
+https://www.youtube.com/watch?v=nk2CQITm_eo
 
-https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU&index=1
 
 
 ### Polynomial regression
@@ -239,6 +245,8 @@ Neural networks are a [biologically-inspired algorithm](https://www.jeremyjordan
 ### Gradient descent 
 
 [Gradient descent](https://www.jeremyjordan.me/gradient-descent/) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a cost function which is capable of measuring how well our model is doing. This function will penalize any error our model makes (by assigning a cost) with respect to the current parameter values. Thus, by minimizing the cost function we can find the optimal parameters that yield the best model performance.
+
+https://www.youtube.com/watch?v=sDv4f4s2SB8
 
 ### Hyperparameter Tuning
 
@@ -577,10 +585,13 @@ https://www.guru99.com/pytorch-tutorial.html
 
 [MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
 
+## Metascience and p-value
 
+https://en.wikipedia.org/wiki/P-value
 
 # Links
 
+- [StatQuest videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Google AI Fun Projects](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
 - [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
