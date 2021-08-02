@@ -2,7 +2,7 @@
 
 ## Containers
 
-Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [Namespaces](Namespaces) features in the Linux kernel.
+Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [Namespaces](Namespaces) and [CGroups](https://en.wikipedia.org/wiki/Cgroups) features in the Linux kernel.
 
 ## Kubernetes
 
