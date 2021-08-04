@@ -40,13 +40,24 @@ Google [administrates a vulnerability management process that actively scans](ht
 
 ## Authentication Options
 
+Access control for Google Cloud APIs encompasses authentication, authorization, and auditing. [Authentication](https://cloud.google.com/docs/authentication) determines who you are, authorization determines what you can do, and auditing logs what you did.
+
+User accounts are managed as Google Accounts, and they represent a developer, administrator, or any other person who interacts with Google Cloud. They are intended for scenarios where your application needs to access resources on behalf of a human user. See Authenticating as an end user for more information.
+
+Service accounts are managed by IAM, and they represent non-human users. They are intended for scenarios where your application needs to access resources or perform actions on its own, such as running App Engine apps or interacting with Compute Engine instances. See Authenticating as a service account for more information.
+
+
+
 [[https://storage.googleapis.com/gweb-cloudblog-publish/images/1_YvHxYeQ.max-600x600.png]]
 
 [https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
 
 
+### Authentication Examples
 
+Examples that use different authentication strategies using Go language version of the Pub/Sub client library. 
 
+https://cloud.google.com/docs/authentication#examples
 
 ## Roles
 
@@ -290,14 +301,21 @@ reCAPTCHA Enterprise is an extension of that effort to help enterprises detect o
 
 
 
-## Identity & Security Topics
+## Google Cloud Identity 
 
-See how Google Cloud [Identity](https://cloud.google.com/identity)  achieves [confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
+Google Cloud [Identity](https://cloud.google.com/identity)  achieves [confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
 
 
-## Authentication, Identity, Security, AuthN, AuthZ
+## IAM
 
-Access control for Google Cloud APIs encompasses [authentication](https://cloud.google.com/docs/authentication), authorization, and auditing. Authentication determines who you are, authorization determines what you can do, and auditing logs what you did.  For authorization, see [Identity and Access Management](https://cloud.google.com/iam/docs) (IAM). For auditing, see [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit).
+[Identity and Access Management](https://cloud.google.com/iam/docs) is also known as [IAM](IAM).  IAM lets you create and manage permissions for Google Cloud resources. IAM unifies access control for Google Cloud services into a single system and presents a consistent set of operations.
+
+
+## Cloud Audit Logs
+
+Cloud Audit Logs](https://cloud.google.com/logging/docs/audit)  helps security, auditing, and compliance entities maintain audit trails in Google Cloud. With Cloud Audit Logs, your enterprise can attain the same level of transparency over administrative activities and accesses to data in Google Cloud as in on-premises environments. Audit logs help the Google Cloud Support team troubleshoot issues with your account.
+
+
 
 
 ## PKI
@@ -378,6 +396,11 @@ https://internetofthingsagenda.techtarget.com/definition/IoT-security-Internet-o
 ## BigQuery row level security
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
+
+## Using OAuth 2.0 to Access Google APIs
+
+Google APIs use the [OAuth 2.0 protocol](https://datatracker.ietf.org/doc/html/rfc6749) for authentication and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, client-side, installed, and limited-input device applications.
+
 
 
 ## Qwiklabs
