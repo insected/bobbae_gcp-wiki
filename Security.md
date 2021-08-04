@@ -401,7 +401,11 @@ https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-
 
 Google APIs use the [OAuth 2.0 protocol](https://datatracker.ietf.org/doc/html/rfc6749) for authentication and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, client-side, installed, and limited-input device applications.
 
+## DNSSEC
 
+The Domain Name System Security Extensions (DNSSEC) is a feature of the Domain Name System (DNS) that authenticates responses to domain name lookups. It does not provide privacy protections for those lookups, but prevents attackers from manipulating or poisoning the responses to DNS requests.
+
+https://cloud.google.com/dns/docs/dnssec
 
 ## Qwiklabs
 
