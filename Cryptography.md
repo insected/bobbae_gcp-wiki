@@ -54,7 +54,7 @@ See also: https://github.com/acmesh-official/acme.sh
 
 [Internet Protocol Security](https://www.cloudflare.com/learning/network-layer/what-is-ipsec/) (IPsec) is a secure network protocol suite that authenticates and encrypts the packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private network.
 
-
+See also: https://www.schneier.com/academic/archives/2003/12/a_cryptographic_eval.html
 
 
 ## IKE
@@ -83,3 +83,4 @@ Traditionally, secure encrypted communication between two parties required that 
 
 A [cryptographic hash]( https://en.m.wikipedia.org/wiki/Cryptographic_hash_function  ) function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
 
+https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/
