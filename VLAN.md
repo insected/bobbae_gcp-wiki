@@ -68,7 +68,7 @@ The VETH (virtual Ethernet) device is a local Ethernet tunnel. Devices are creat
 
 ## VCAN
 
-Similar to the network loopback devices, the VCAN (virtual CAN) driver offers a virtual local CAN (Controller Area Network) interface, so users can send/receive CAN messages via a VCAN interface. CAN is mostly used in the automotive field nowadays.
+Similar to the network loopback devices, the VCAN (virtual CAN) driver offers a virtual local [CAN (Controller Area Network)](https://en.wikipedia.org/wiki/CAN_bus) interface, so users can send/receive CAN messages via a VCAN interface. CAN is mostly used in the automotive field nowadays.
 
 ## VXCAN
 
