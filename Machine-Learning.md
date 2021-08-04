@@ -55,6 +55,34 @@ Steps:
 
 https://datasetsearch.research.google.com/
 
+## Supervised vs. Unsupervised learning
+
+A supervised machine learning algorithm (as opposed to an unsupervised machine learning algorithm) is one that relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data.
+
+Imagine a computer is a child, we are its supervisor (e.g. parent, guardian, or teacher), and we want the child (computer) to learn what a pig looks like. We will show the child several different pictures, some of which are pigs and the rest could be pictures of anything (cats, dogs, etc).
+
+When we see a pig, we shout “pig!” When it’s not a pig, we shout “no, not pig!” After doing this several times with the child, we show them a picture and ask “pig?” and they will correctly (most of the time) say “pig!” or “no, not pig!” depending on what the picture is. That is supervised machine learning.
+
+https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d
+
+The most common tasks within unsupervised learning are clustering, representation learning, and density estimation. In all of these cases, we wish to learn the inherent structure of our data without using explicitly-provided labels. Some common algorithms include k-means clustering, principal component analysis, and autoencoders. Since no labels are provided, there is no specific way to compare model performance in most unsupervised learning methods.
+
+Two common use-cases for unsupervised learning are exploratory analysis and dimensionality reduction.
+
+Unsupervised learning is very useful in exploratory analysis because it can automatically identify structure in data. For example, if an analyst were trying to segment consumers, unsupervised clustering methods would be a great starting point for their analysis. In situations where it is either impossible or impractical for a human to propose trends in the data, unsupervised learning can provide initial insights that can then be used to test individual hypotheses.
+
+Dimensionality reduction, which refers to the methods used to represent data using less columns or features, can be accomplished through unsupervised methods. In representation learning, we wish to learn relationships between individual features, allowing us to represent our data using the latent features that interrelate our initial features. This sparse latent structure is often represented using far fewer features than we started with, so it can make further data processing much less intensive, and can eliminate redundant features.
+
+
+[[https://miro.medium.com/max/1030/1*zWBYt9DQQEf_XxXWLA2tzQ.jpeg]]
+
+
+## Tensorflow
+
+
+Created by the Google Brain team, 
+[TensorFlow](Tensorflow) is an open source library for numerical computation and large-scale machine learning.
+
 
 ## Tensorflow Example: Plain and Simple estimators
 
@@ -129,6 +157,21 @@ Naive [Bayes classification](https://www.jeremyjordan.me/naive-bayes-classificat
 
 [Regression](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/) and [classification](https://www.youtube.com/watch?v=TJveOYsK6MY) lead to ways of splitting data.
 
+Classification is a problem of automatically assigning a label to an unlabeled example. Spam detection is a famous example of classification.
+
+In machine learning, the classification problem is solved by a classification learning algorithm that takes a collection of labeled examples as inputs and produces a model that can take an unlabeled example as input and either directly output a label or output a number that can be used by the data analyst to deduce the label easily. An example of such a number is a probability.
+
+In a classification problem, a label is a member of a finite set of classes. If the size of the set of classes is two (“sick”/“healthy”, “spam”/“not_spam”), we talk about binary classification (also called binomial).
+
+Multiclass classification (also called multinomial) is a classification problem with three or more classes.
+
+While some learning algorithms naturally allow for more than two classes, others are by nature binary classification algorithms. There are strategies allowing to turn a binary classification learning algorithm into a multiclass one. 
+
+Regression is a problem of predicting a real-valued label (often called a target) given an unlabeled example. Estimating house price valuation based on house features, such as area, the number of bedrooms, location and so on is a famous example of regression.
+
+The regression problem is solved by a regression learning algorithm that takes a collection of labeled examples as inputs and produces a model that can take an unlabeled example as input and output a target.
+
+
 ### Logistic Regression
 
 
@@ -143,13 +186,24 @@ https://www.youtube.com/watch?v=yIYKR4sgzI8
 
 ### K-nearest neighbors
 
+The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. 
 
 Many machine learning techniques involve building a model that is capable of representing the data and then finding the optimal parameters for the model to minimize error. [K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/), however, is an example of instance-based learning where we instead simply store the training data and use it to make new predictions.
+
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 
 
 ### SVM
 
-[Support vector machines](https://www.jeremyjordan.me/support-vector-machines/) classifier works well in complicated feature domains, albeit requiring clear separation between classes. SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n3) to input depending on your implementation (sklearn's SVM fit time complexity is more than quadratic, so it won't be able to train quickly on large datasets (>10,000 examples).
+[Support vector machines](https://www.jeremyjordan.me/support-vector-machines/) classifier works well in complicated feature domains, albeit requiring clear separation between classes. 
+
+SVM  is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text.
+
+Compared to newer algorithms like neural networks, they have two main advantages: higher speed and better performance with a limited number of samples (in the thousands). This makes the algorithm very suitable for text classification problems, where it’s common to have access to a dataset of at most a couple of thousands of tagged samples.
+
+https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
+
+SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n3) to input depending on your implementation. For example, sklearn's SVM fit time complexity is more than quadratic, so it won't be able to train quickly on large datasets (>10,000 examples).
 
 ### Random forests
 
@@ -300,6 +354,18 @@ The [Markov Decision Process](https://www.jeremyjordan.me/markov-decision-proces
 ### Monte Carlo learning
 
 The [Monte Carlo](https://www.jeremyjordan.me/rl-learning-implementations/) approach approximates the value of a state-action pair by calculating the mean return from a collection of episodes.
+
+
+## Model based vs. Instance based learning
+
+Most supervised learning algorithms are model-based, e.g. SVM. Model-based learning algorithms use the training data to create a model that has parameters learned from the training data.  After the model was built, the training data can be discarded.
+
+Instance-based learning algorithms use the whole dataset as the model. One instance-based algorithm frequently used in practice is k-Nearest Neighbors (kNN). In classification, to predict a label for an input example the kNN algorithm looks at the close neighborhood of the input example in the space of feature vectors and outputs the label that it saw the most often in this close neighborhood.
+
+
+## Shallow vs. Deep learning
+
+A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called deep neural networks. In deep neural network learning (or, simply, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
 
 
 ## Natural Language Processing
