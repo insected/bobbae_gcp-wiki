@@ -140,8 +140,12 @@ RBAC authorization uses the rbac.authorization.k8s.io API group to drive authori
 
 [https://www.youtube.com/watch?v=4HMRFcg6nEY](https://www.youtube.com/watch?v=4HMRFcg6nEY)
 
+## Workload Resources
 
-## Deployment & Service
+
+https://kubernetes.io/docs/concepts/workloads/controllers/
+
+### Deployment & Service
 
 A Deployment provides declarative updates for Pods and ReplicaSets.
 
@@ -154,6 +158,31 @@ With Kubernetes you don't need to modify your application to use an unfamiliar s
 [https://www.youtube.com/watch?v=qmDzcu5uY1I](https://www.youtube.com/watch?v=qmDzcu5uY1I)
 
 https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
+
+### Stateful Sets
+
+[StatefulSet](https://www.youtube.com/watch?v=pPQKAR1pA9U) is the workload API object used to manage stateful applications.
+
+Manages the deployment and scaling of a set of Pods, and provides guarantees about the ordering and uniqueness of these Pods.
+
+[https://www.youtube.com/watch?v=pPQKAR1pA9U](https://www.youtube.com/watch?v=pPQKAR1pA9U)
+
+
+### DaemonSet
+
+A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
+
+[https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
+
+
+### ReplicaSet
+
+A ReplicaSet's purpose is to maintain a stable set of replica Pods running at any given time. As such, it is often used to guarantee the availability of a specified number of identical Pods.
+
+#### Alternative to ReplicaSets
+
+
+https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#alternatives-to-replicaset
 
 ## Configmaps & Secrets
 
@@ -168,20 +197,6 @@ A Secret is an object that contains a small amount of sensitive data such as a p
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
 
-## Stateful Sets
-
-[StatefulSet](https://www.youtube.com/watch?v=pPQKAR1pA9U) is the workload API object used to manage stateful applications.
-
-Manages the deployment and scaling of a set of Pods, and provides guarantees about the ordering and uniqueness of these Pods.
-
-[https://www.youtube.com/watch?v=pPQKAR1pA9U](https://www.youtube.com/watch?v=pPQKAR1pA9U)
-
-
-## DaemonSet
-
-A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
-
-[https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
 
 ## CRD
