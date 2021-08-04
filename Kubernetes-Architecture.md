@@ -174,10 +174,10 @@ If you want to use storage volumes to provide persistence for your workload, you
 
 StatefulSets are valuable for applications that require one or more of the following.
 
-Stable, unique network identifiers.
-Stable, persistent storage.
-Ordered, graceful deployment and scaling.
-Ordered, automated rolling updates.
+- Stable, unique network identifiers.
+- Stable, persistent storage.
+- Ordered, graceful deployment and scaling.
+- Ordered, automated rolling updates.
 
 
 In the above, stable is synonymous with persistence across Pod (re)scheduling. If an application doesn't require any stable identifiers or ordered deployment, deletion, or scaling, you should deploy your application using a workload object that provides a set of stateless replicas. Deployment or ReplicaSet may be better suited to your stateless needs.
@@ -203,11 +203,9 @@ A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are a
 
 Some typical uses of a DaemonSet are:
 
-running a cluster storage daemon on every node
-
-running a logs collection daemon on every node
-
-running a node monitoring daemon on every node
+* running a cluster storage daemon on every node
+* running a logs collection daemon on every node
+* running a node monitoring daemon on every node
 
 In a simple case, one DaemonSet, covering all nodes, would be used for each type of daemon. 
 
