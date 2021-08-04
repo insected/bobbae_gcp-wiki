@@ -18,7 +18,7 @@ The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-s
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ssh_binary_packet_alt.svg/500px-Ssh_binary_packet_alt.svg.png" width="400">
 
-
+[OpenSSH](https://en.wikipedia.org/wiki/OpenSSH) can be used as a kind of VPN in addition to normal login, tunneling use cases.
 
 ## TLS
 
