@@ -29,7 +29,7 @@ You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/ce
 materials](https://cloud.google.com/certification/sample-questions/cloud-architect) in [this document](https://www.gcp-examquestions.com/category/gcp-practice-questions/) for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
 Being certified by Google does not necessarily mean that you know everything [you need to know](https://github.com/ddneves/awesome-gcp-certifications). But it does have a value in letting others
 know that you have the [necessary amount of GCP knowledge](https://www.examtopics.com/exams/google/) to pass the exams.
-
+<!--- https://www.gratisexam.com/google/professional-cloud-architect-exam/ -->
 [Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or [other GCP exams](https://www.youtube.com/watch?v=Kub0oH6TFKw) . During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, some of the questions may refer you to a case study that describes a fictitious business and solution concept. These case studies are intended to provide additional context to help you choose your answer
 
 
