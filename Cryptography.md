@@ -2,7 +2,7 @@
 
 A security protocol (cryptographic protocol or encryption protocol) is an abstract or concrete protocol that performs a security-related function and applies cryptographic methods, often as sequences of cryptographic primitives. A protocol describes how the algorithms should be used. A sufficiently detailed protocol includes details about data structures and representations, at which point it can be used to implement multiple, interoperable versions of a program.
 
-
+There are many [encryption algorithms](https://en.wikipedia.org/wiki/Category:Cryptographic_algorithms).
 
 ## PKI
 
