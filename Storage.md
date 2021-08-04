@@ -1,5 +1,7 @@
 [[https://blog.cartridgemonkey.com/wp-content/uploads/2012/03/Google2.jpg]]
 
+Discuss different types of storage devices and methods.  What are block devices? What is a filesystem in the traditional sense, for example ext4 in Linux kernel?  What are networked file systems?  How do they compare to Google Cloud filesystem?  What is a SAN?  What are disk arrays, RAID, hard disk vs. SSD?
+
 [Cloud Storage](https://cloud.google.com/storage/docs) allows world-wide storage and retrieval of any amount of data at any time. You can use Cloud Storage for a range of scenarios including serving website content, storing data for archival and disaster recovery, or distributing large data objects to users via direct download.
 
 
@@ -55,6 +57,20 @@ Discuss how traditional [storage models compare to the cloud](https://cloud.goog
 
 
 How do  different [types of buckets impact](https://www.youtube.com/watch?v=nCTiVwnnEhQ) your performance? 
+
+### Basic gsutil examples
+
+https://cloud.google.com/storage/docs/working-with-big-data
+
+### Using buckets to host a static website
+
+https://cloud.google.com/storage/docs/hosting-static-website
+
+https://cloud.google.com/storage/docs/static-website
+
+### GCS Tutorials
+
+https://cloud.google.com/architecture#/?q=cloud_storage
 
 
 ## Storage Classes
