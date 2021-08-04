@@ -5,6 +5,9 @@ The [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) (DNS)
 
 [Cloud DNS](https://cloud.google.com/dns) allows you to publish your domain names by using Google's infrastructure for production-quality, high-volume [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)    services. Google's global network of anycast name servers provides reliable, low-latency, authoritative name lookups for your domains from anywhere in the world.
 
+### DNS Overview
+
+https://cloud.google.com/dns/docs/dns-overview
 
 ## Kubernetes DNS Server
 
@@ -87,6 +90,11 @@ As we saw in the default `resolv.conf` file, only `.svc` suffixes are automatica
 
 [https://www.youtube.com/watch?v=sTDVsMUegL8](https://www.youtube.com/watch?v=sTDVsMUegL8)
 
+## DNSSEC
+
+The Domain Name System Security Extensions (DNSSEC) is a feature of the Domain Name System (DNS) that authenticates responses to domain name lookups. It does not provide privacy protections for those lookups, but prevents attackers from manipulating or poisoning the responses to DNS requests.
+
+https://cloud.google.com/dns/docs/dnssec
 
 ## Cert Manager, Kubernetes, Let’s Encrypt
 
@@ -97,3 +105,6 @@ As we saw in the default `resolv.conf` file, only `.svc` suffixes are automatica
 
 [https://www.youtube.com/watch?v=EkNq4TrHP_U](https://www.youtube.com/watch?v=EkNq4TrHP_U)
 
+## GCP DNS Quickstart
+
+https://cloud.google.com/dns/docs/quickstart
