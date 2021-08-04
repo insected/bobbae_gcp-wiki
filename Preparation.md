@@ -47,4 +47,4 @@ Another resource is [Cloud Academy](https://cloudacademy.com/) which has their o
 You can review the [Syllabus](Syllabus) and [Schedules](Schedules).
 
 
-<!--- https://www.gratisexam.com/google/professional-cloud-architect-exam/ -->
+<!--- https://www.gratisexam.com/google-certification/ -->
