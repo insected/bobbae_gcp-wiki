@@ -418,3 +418,15 @@ https://cloud.google.com/dns/docs/dnssec
 
 [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
 
+## Cloud Storage Security
+
+https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations
+
+### ACL
+
+https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#access-control-lists
+
+### Encryption at Rest
+
+https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest
+
