@@ -20,7 +20,7 @@ This also means that containers within a Pod must coordinate port usage, but thi
 
 ## Cluster Networking
 
-
+https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
 <img src="https://d33wubrfki0l68.cloudfront.net/e351b830334b8622a700a8da6568cb081c464a9b/13020/images/docs/services-userspace-overview.svg" width="500">
 
@@ -92,3 +92,71 @@ https://kubernetes.io/docs/concepts/services-networking/service-topology/
 https://github.com/containernetworking/cni
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Pods.png" width="600">
+
+https://kubernetes.io/docs/concepts/cluster-administration/networking/
+
+### Calico
+
+[Calico](https://docs.projectcalico.org/) is an open source networking and network security solution for containers, virtual machines, and native host-based workloads. Calico supports multiple data planes including: a pure Linux eBPF dataplane, a standard Linux networking dataplane, and a Windows HNS dataplane. 
+
+https://www.tigera.io/blog/kubernetes-networking-with-calico/
+
+While solutions like Flannel operate over layer 2, Calico makes use of layer 3 to route packets to pods. The way it does this is relatively simple in practice. Calico can also provide network policy for Kubernetes. 
+
+Calico provides a full networking stack but can also be used in conjunction with cloud provider CNIs to provide network policy enforcement.
+
+https://docs.projectcalico.org/networking/determine-best-networking#calico-compatible-cni-plugins-and-cloud-provider-integrations
+
+#### BIRD
+
+[BIRD](https://bird.network.cz/) is a BGP routing daemon which runs on every host. Calico makes uses of BGP to propagate routes between hosts. BGP (if you’re not aware) is widely used to propagate routes over the internet. It’s suggested you make yourself familiar with some of the concepts if you’re using Calico.
+
+BIRD daemon runs on every host in the Kubernetes cluster, usually as a DaemonSet. It’s included in the calico/node container.
+
+
+
+### Flannel
+
+[Flannel](https://github.com/coreos/flannel#flannel) routes pod traffic using static per-node CIDRs obtained from the host-local IPAM CNI plugin. Flannel provides a number of networking backends, but is predominantly used with its VXLAN overlay backend. Calico CNI and Calico network policy can be combined with flannel and the host-local IPAM plugin to provide a VXLAN network with policy enforcement. This combination is sometimes referred to as “Canal”.
+
+
+https://github.com/flannel-io/flannel/blob/master/Documentation/backends.md
+
+Calico now has built in support for VXLAN, which we generally recommend for simplicity in preference to using the Calico+Flannel combination.
+
+
+### Cilium
+
+[Cilium](https://github.com/cilium/cilium) is open source software for providing and transparently securing network connectivity between application containers. Cilium is L7/HTTP aware and can enforce network policies on L3-L7 using an identity based security model that is decoupled from network addressing, and it can be used in combination with other CNI plugins.
+
+### Contiv
+
+[Contiv](https://github.com/contiv/netplugin) provides configurable networking (native l3 using BGP, overlay using vxlan, classic l2, or Cisco-SDN/ACI) for various use cases. Contiv is all open sourced.
+
+### Contrail
+
+[Contrail](https://www.juniper.net/us/en/products-services/sdn/contrail/contrail-networking/), based on [Tungsten Fabric](https://tungsten.io/), is a truly open, multi-cloud network virtualization and policy management platform. Contrail and Tungsten Fabric are integrated with various orchestration systems such as Kubernetes, OpenShift, OpenStack and Mesos, and provide different isolation modes for virtual machines, containers/pods and bare metal workloads.
+
+### Kube-router  
+
+[Kube-router](https://github.com/cloudnativelabs/kube-router) is a purpose-built networking solution for Kubernetes that aims to provide high performance and operational simplicity. Kube-router provides a Linux LVS/IPVS-based service proxy, a Linux kernel forwarding-based pod-to-pod networking solution with no overlays, and iptables/ipset-based network policy enforcer.
+
+### OVN
+
+OVN is an opensource network virtualization solution developed by the Open vSwitch community. It lets one create logical switches, logical routers, stateful ACLs, load-balancers etc to build different virtual networking topologies. The project has a specific Kubernetes plugin and documentation at [ovn-kubernetes](https://github.com/openvswitch/ovn-kubernetes).
+
+### Romana
+
+[Romana](https://romana.io/) is an open source network and security automation solution that lets you deploy Kubernetes without an overlay network. Romana supports Kubernetes Network Policy to provide isolation across network namespaces.
+
+### Weavenet
+
+[Weave Net](https://www.weave.works/oss/net/) is a resilient and simple to use network for Kubernetes and its hosted applications. Weave Net runs as a CNI plug-in or stand-alone. In either version, it doesn't require any configuration or extra code to run, and in both cases, the network provides one IP address per pod - as is standard for Kubernetes.
+
+Weave Net creates a network bridge on the host. Each container is connected to that bridge via a veth pair, the container side of which is given an IP address and netmask supplied either by the user or by Weave Net’s IP address allocator.
+
+Weave Net routes packets between containers on different hosts via two methods: a fast data path method, which operates entirely in kernel space, and a fallback [sleeve method](https://www.weave.works/docs/net/latest/concepts/router-encapsulation/), in which packets destined for non-local containers are captured by the kernel and processed by the Weave Net router in user space, forwarded over UDP to weave router peers running on other hosts, and there injected back into the kernel which in turn passes them to local destination containers.
+
+
+
+https://www.weave.works/docs/net/latest/concepts/how-it-works/
