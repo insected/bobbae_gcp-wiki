@@ -58,7 +58,7 @@ In Kubernetes, controllers are control loops that watch the state of your cluste
 
 ## Cloud Controller Manager
 
-The cloud-controller-manager is a Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+The [cloud-controller-manager](https://kubernetes.io/docs/concepts/architecture/cloud-controller/) is a Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
 
 By decoupling the interoperability logic between Kubernetes and the underlying cloud infrastructure, the cloud-controller-manager component enables cloud providers to release features at a different pace compared to the main Kubernetes project.
 
@@ -75,6 +75,12 @@ https://kubernetes.io/docs/concepts/architecture/
 
 ## Components
 
+A Kubernetes cluster consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
+
+The worker node(s) host the Pods that are the components of the application workload. The control plane manages the worker nodes and the Pods in the cluster. In production environments, the control plane usually runs across multiple computers and a cluster usually runs multiple nodes, providing fault-tolerance and high availability.
+
+[[https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg]]
+
 https://kubernetes.io/docs/concepts/overview/components/
 
 ### etcd
@@ -83,32 +89,68 @@ https://kubernetes.io/docs/concepts/overview/components/#etcd
 
 <img src="https://superuser.openstack.org/wp-content/uploads/2019/11/etcd-in-Kubernetes.png" width="600">
 
+Consistent and highly-available key value store used as Kubernetes' backing store for all cluster data.
+
+If your Kubernetes cluster uses etcd as its backing store, make sure you have a back up plan for those data.
 
 <img src="https://superuser.openstack.org/wp-content/uploads/2019/11/etcd-in-Kubernetes-2.png" width="600">
 
 ### kube-controller-manager
+
+Control plane component that runs controller processes.
+
+Logically, each controller is a separate process, but to reduce complexity, they are all compiled into a single binary and run in a single process.
+
+
+
 https://kubernetes.io/docs/concepts/overview/components/#kube-controller-manager
 
 ### cloud-controller-manager
+
+
+A Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+The cloud-controller-manager only runs controllers that are specific to your cloud provider. If you are running Kubernetes on your own premises, or in a learning environment inside your own PC, the cluster does not have a cloud controller manager.
+
+
+
 https://kubernetes.io/docs/concepts/overview/components/#cloud-controller-manager
 
 ### kubelet
+
+An agent that runs on each node in the cluster. It makes sure that containers are running in a Pod.
 
 https://kubernetes.io/docs/concepts/overview/components/#kubelet
 
 ### kube-proxy
 
+kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept.
+
+
+
 https://kubernetes.io/docs/concepts/overview/components/#kube-proxy
 
 ### cluster DNS
+
+Cluster DNS is a DNS server, in addition to the other DNS server(s) in your environment, which serves DNS records for Kubernetes services.
+
+Containers started by Kubernetes automatically include this DNS server in their DNS searches.
+
+
 
 https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
 
 ### resource monitoring
 
+To scale an application and provide a reliable service, you need to understand how the application behaves when it is deployed. You can examine application performance in a Kubernetes cluster by examining the containers, pods, services, and the characteristics of the overall cluster. Kubernetes provides detailed information about an application's resource usage at each of these levels. This information allows you to evaluate your application's performance and where bottlenecks can be removed to improve overall performance.
+
+In Kubernetes, application monitoring does not depend on a single monitoring solution. On new clusters, you can use resource metrics or full metrics pipelines to collect monitoring statistics.
+
+
 https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/
 
 ### kube-scheduler
+
+Control plane component that watches for newly created Pods with no assigned node, and selects a node for them to run on.
 
 https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/
 
@@ -218,6 +260,10 @@ https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
 
 A ReplicaSet's purpose is to maintain a stable set of replica Pods running at any given time. As such, it is often used to guarantee the availability of a specified number of identical Pods.
 
+A ReplicaSet ensures that a specified number of pod replicas are running at any given time. However, a Deployment is a higher-level concept that manages ReplicaSets and provides declarative updates to Pods along with a lot of other useful features. Therefore, use Deployments instead of directly using ReplicaSets, unless you require custom update orchestration or don't require updates at all.
+
+https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+
 #### Alternative to ReplicaSets
 
 
@@ -236,7 +282,47 @@ A Secret is an object that contains a small amount of sensitive data such as a p
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
 
+### Replication Controller
 
+A ReplicationController ensures that a specified number of pod replicas are running at any one time. In other words, a ReplicationController makes sure that a pod or a homogeneous set of pods is always up and available.
+
+https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/
+
+### Alternatives to ReplicationController
+
+https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/#alternatives-to-replicationcontroller
+
+ReplicaSet is the next-generation ReplicationController that supports the new set-based label selector. It's mainly used by Deployment as a mechanism to orchestrate pod creation, deletion and updates. Note that we recommend using Deployments instead of directly using Replica Sets, unless you require custom update orchestration or don't require updates at all.
+
+### Jobs
+
+A Job creates one or more Pods and will continue to retry execution of the Pods until a specified number of them successfully terminate. As pods successfully complete, the Job tracks the successful completions. When a specified number of successful completions is reached, the task (ie, Job) is complete. Deleting a Job will clean up the Pods it created. Suspending a Job will delete its active Pods until the Job is resumed again.
+
+https://kubernetes.io/docs/concepts/workloads/controllers/job/
+
+Jobs are complementary to Replication Controllers. A Replication Controller manages Pods which are not expected to terminate (e.g. web servers), and a Job manages Pods that are expected to terminate (e.g. batch tasks).
+
+
+
+Job is only appropriate for pods with RestartPolicy equal to OnFailure or Never. (Note: If RestartPolicy is not set, the default value is Always.)
+
+#### Cron Jobs
+
+You can use a CronJob to create a Job that will run at specified times/dates, similar to the Unix tool cron.
+
+A CronJob creates Jobs on a repeating schedule.
+
+One CronJob object is like one line of a crontab (cron table) file. It runs a job periodically on a given schedule, written in Cron format.
+
+https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+
+
+Cron jobs are useful for creating periodic and recurring tasks, like running backups or sending emails. Cron jobs can also schedule individual tasks for a specific time, such as if you want to schedule a job for a low activity period.
+
+Cron jobs have limitations and idiosyncrasies. For example, in certain circumstances, a single cron job can create multiple jobs. Therefore, jobs should be idempotent.
+
+
+https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/
 
 ## CRD
 
