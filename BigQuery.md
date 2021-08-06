@@ -379,6 +379,11 @@ Data governance is a principled approach to manage data during its lifecycle —
 
 https://cloud.google.com/bigquery/docs/data-governance
 
+### BigQuery Column-level security
+
+[https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
+
+
 ## Qwiklabs
 
 
