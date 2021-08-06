@@ -64,6 +64,7 @@ By decoupling the interoperability logic between Kubernetes and the underlying c
 
 https://kubernetes.io/docs/concepts/architecture/
 
+
 <img src="https://miro.medium.com/proxy/1*ax_IkyNCNlNUYY8WKrawaA.png" width="600">
 
 ## Networking
@@ -109,6 +110,7 @@ https://kubernetes.io/docs/concepts/overview/components/#kube-controller-manager
 
 
 A Kubernetes control plane component that embeds cloud-specific control logic. The cloud controller manager lets you link your cluster into your cloud provider's API, and separates out the components that interact with that cloud platform from components that only interact with your cluster.
+
 The cloud-controller-manager only runs controllers that are specific to your cloud provider. If you are running Kubernetes on your own premises, or in a learning environment inside your own PC, the cluster does not have a cloud controller manager.
 
 
