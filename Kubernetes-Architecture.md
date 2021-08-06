@@ -1,10 +1,40 @@
+
+Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+
 ## Kubernetes Cluster Architecture
+
+A Kubernetes cluster consists of the components that represent the control plane and a set of machines called nodes.
+
+The Kubernetes API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
+
+Kubernetes objects are persistent entities in the Kubernetes system. Kubernetes uses these entities to represent the state of your cluster. Learn about the Kubernetes object model and how to work with these objects.
 
 https://kubernetes.io/docs/concepts/architecture/
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
 ## Kubernetes features
+
+Kubernetes progressively rolls out changes to your application or its configuration, while monitoring application health to ensure it doesn't kill all your instances at the same time. If something goes wrong, Kubernetes will rollback the change for you. 
+
+Restarts containers that fail, replaces and reschedules containers when nodes die, kills containers that don't respond to your user-defined health check, and doesn't advertise them to clients until they are ready to serve.
+
+Deploy and update secrets and application configuration without rebuilding your image and without exposing secrets in your stack configuration.
+
+Scale your application up and down with a simple command, with a UI, or automatically based on CPU usage.
+
+In addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.
+
+Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
+
+Automatically places containers based on their resource requirements and other constraints, while not sacrificing availability. Mix critical and best-effort workloads in order to drive up utilization and save even more resources.
+
+Allocation of IPv4 and IPv6 addresses to Pods and Services.
+
+Automatically mount the storage system of your choice, whether from local storage, a public cloud provider such as GCP or AWS, or a network storage system such as NFS, iSCSI, Gluster, Ceph, Cinder, or Flocker.
+
+
+Add features to your Kubernetes cluster without changing upstream source code.
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/7.png" width="600">
 
@@ -401,6 +431,14 @@ https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 ## Operator Hub
 
 [https://operatorhub.io/](https://operatorhub.io/)
+
+## Garbage Collection
+
+Garbage collection is a collective term for the various mechanisms Kubernetes uses to clean up cluster resources. 
+
+https://kubernetes.io/docs/concepts/architecture/garbage-collection/
+
+
 
 ## Add-ons
 
