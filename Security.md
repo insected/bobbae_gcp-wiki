@@ -344,6 +344,8 @@ There have been attempts to aid Cybersecurity concerns using [Machine Learning](
 
 [Data governance](https://cloud.google.com/learn/what-is-data-governance) is a principled approach to managing data during its life cycle, from acquisition to use to disposal. 
 
+https://cloud.google.com/bigquery/docs/data-governance-summary
+
 ### BigQuery Column-level security
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
