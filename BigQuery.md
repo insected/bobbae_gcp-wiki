@@ -129,8 +129,33 @@ When evaluating your output data, consider the number of bytes written by your q
 
 Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns) that impact performance in BigQuery.
 
+## Managing partitioned tables
+
+A partitioned table is a special table that is divided into segments, called partitions, that make it easier to manage and query your data. By dividing a large table into smaller partitions, you can improve query performance, and you can control costs by reducing the number of bytes read by a query.
 
 
+You can partition BigQuery tables by:
+
+- Time-unit column: Tables are partitioned based on a TIMESTAMP, DATE, or DATETIME column in the table.
+- Ingestion time: Tables are partitioned based on the timestamp when BigQuery ingests the data.
+- Integer range: Tables are partitioned based on an integer column.
+
+If a query filters on the value of the partitioning column, BigQuery can scan the partitions that match the filter and skip the remaining partitions. This process is called pruning.
+
+
+https://cloud.google.com/bigquery/docs/managing-partitioned-tables
+
+### Paritioning vs. clustering
+
+https://cloud.google.com/bigquery/docs/partitioned-tables#partitioning_versus_clustering
+
+### Using dataset properties
+
+https://cloud.google.com/bigquery/docs/updating-datasets
+
+### Updating default table expiration times
+
+https://cloud.google.com/bigquery/docs/updating-datasets#table-expiration
 
 ## Dremel
 
