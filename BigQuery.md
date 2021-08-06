@@ -145,17 +145,117 @@ If a query filters on the value of the partitioning column, BigQuery can scan th
 
 https://cloud.google.com/bigquery/docs/managing-partitioned-tables
 
-### Paritioning vs. clustering
 
-https://cloud.google.com/bigquery/docs/partitioned-tables#partitioning_versus_clustering
+### Using datasets
+
+A dataset is contained within a specific project. Datasets are top-level containers that are used to organize and control access to your tables and views. A table or view must belong to a dataset, so you need to create at least one dataset before loading data into BigQuery.
+
+BigQuery datasets are subject to the following limitations:
+
+- You can set the geographic location at creation time only. After a dataset has been created, the location becomes immutable and can't be changed by using the Cloud Console, using the bq command-line tool, or calling the patch or update API methods.
+All tables that are referenced in a query must be stored in datasets in the same location.
+- When you copy a table, the datasets that contain the source table and destination table must reside in the same location.
+- Dataset names must be unique for each project.
+
+https://cloud.google.com/bigquery/docs/datasets-intro
 
 ### Using dataset properties
+
+After you create a dataset, you can update the following dataset properties:
+
+- Description
+- Default expiration time for new tables
+- Default partition expiration for new partitioned tables
+- Access controls
+- Labels
+
 
 https://cloud.google.com/bigquery/docs/updating-datasets
 
 ### Updating default table expiration times
 
 https://cloud.google.com/bigquery/docs/updating-datasets#table-expiration
+
+### Using tables
+
+A BigQuery table contains individual records organized in rows. Each record is composed of columns (also called fields).
+
+Every table is defined by a schema that describes the column names, data types, and other information. You can specify the schema of a table when it is created, or you can create a table without a schema and declare the schema in the query job or load job that first populates it with data.
+
+BigQuery supports the following table types:
+
+- Native tables: tables backed by native BigQuery storage.
+- External tables: tables backed by storage external to BigQuery. For more information, see Querying External Data Sources.
+- Views: Virtual tables defined by a SQL query. For more information, see Creating views.
+
+https://cloud.google.com/bigquery/docs/tables-intro
+
+### Table schemas
+
+https://cloud.google.com/bigquery/docs/schemas
+
+### Using partitioned tables
+
+A partitioned table is a special table that is divided into segments, called partitions, that make it easier to manage and query your data. By dividing a large table into smaller partitions, you can improve query performance, and you can control costs by reducing the number of bytes read by a query.
+
+You can partition BigQuery tables by:
+
+- Time-unit column: Tables are partitioned based on a TIMESTAMP, DATE, or DATETIME column in the table.
+- Ingestion time: Tables are partitioned based on the timestamp when BigQuery ingests the data.
+- Integer range: Tables are partitioned based on an integer column.
+
+
+
+### Clustered tables
+
+When you create a clustered table in BigQuery, the table data is automatically organized based on the contents of one or more columns in the table’s schema. The columns you specify are used to colocate related data. When you cluster a table using multiple columns, the order of columns you specify is important. The order of the specified columns determines the sort order of the data.
+
+Clustering can improve the performance of certain types of queries such as queries that use filter clauses and queries that aggregate data. When data is written to a clustered table by a query job or a load job, BigQuery sorts the data using the values in the clustering columns. These values are used to organize the data into multiple blocks in BigQuery storage. When you submit a query that contains a clause that filters data based on the clustering columns, BigQuery uses the sorted blocks to eliminate scans of unnecessary data. You might not see a significant difference in query performance between a clustered and unclustered table if the table or partition is under 1 GB.
+
+
+https://cloud.google.com/bigquery/docs/clustered-tables
+
+
+### Paritioning vs. clustering
+
+Both partitioning and clustering can improve performance and reduce query cost.  Use clustering when you don't need strict cost guarantees before running the query.  Use partitioning when you want to know query costs before a query runs.  You may prefer cluster over partitioning when partitioning results in a small amount of data per partition approximately less than  1GB.
+
+https://cloud.google.com/bigquery/docs/partitioned-tables#partitioning_versus_clustering
+
+### Views
+
+A view is a virtual table defined by a SQL query. When you create a view, you query it in the same way you query a table. When a user queries the view, the query results contain data only from the tables and fields specified in the query that defines the view.
+
+https://cloud.google.com/bigquery/docs/views-intro
+
+### Materialized Views
+
+In BigQuery, materialized views are precomputed views that periodically cache the results of a query for increased performance and efficiency. BigQuery leverages precomputed results from materialized views and whenever possible reads only delta changes from the base table to compute up-to-date results. Materialized views can be queried directly or can be used by the BigQuery optimizer to process queries to the base tables.
+
+Queries that use materialized views are generally faster and consume fewer resources than queries that retrieve the same data only from the base table. Materialized views can significantly improve the performance of workloads that have the characteristic of common and repeated queries.
+
+
+https://cloud.google.com/bigquery/docs/materialized-views-intro
+
+### Reservations
+
+
+BigQuery Reservations enables you to switch between on-demand pricing and flat-rate pricing. With flat-rate pricing, you purchase dedicated query processing capacity. You can allocate this capacity across your organization, by reserving pools of capacity for different projects or different parts of your organization. You can also combine the two billing models, taking advantage of both on-demand and flat-rate pricing.
+
+
+### Controlling costs
+
+https://cloud.google.com/bigquery/docs/controlling-costs
+
+### Reservations
+
+https://cloud.google.com/bigquery/docs/reservations-intro
+
+
+### Organizing BigQuery resources
+
+https://cloud.google.com/bigquery/docs/resource-hierarchy
+
 
 ## Dremel
 
@@ -272,6 +372,12 @@ https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-synt
 
 https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
 
+## Data Security and Governance
+
+Data governance is a principled approach to manage data during its lifecycle — from acquisition, to use, to disposal. Your data governance program clearly outlines policies, procedures, responsibilities, and controls surrounding data activities. This program helps to ensure that information is collected, maintained, used, and disseminated in such a way that both meets your organization's data integrity and [security](security) needs, and also helps empower your employees to discover and use the data to its fullest potential.
+
+
+https://cloud.google.com/bigquery/docs/data-governance
 
 ## Qwiklabs
 
