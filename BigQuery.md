@@ -383,6 +383,45 @@ https://cloud.google.com/bigquery/docs/data-governance
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
+## Using Connected Sheets with BigQuery
+
+With Connected Sheets, you can access, analyze, visualize, and share billions of rows of BigQuery data from your Sheets spreadsheet.
+
+You can also do the following:
+
+- Collaborate with partners, analysts, or other stakeholders in a familiar spreadsheet interface.
+- Ensure a single source of truth for data analysis without additional spreadsheet exports.
+- Streamline your reporting and dashboard workflows.
+
+
+
+https://cloud.google.com/bigquery/docs/connected-sheets
+
+## Tutorials
+
+https://cloud.google.com/bigquery/docs/tutorials
+
+### Authorize and Share access views
+
+https://cloud.google.com/bigquery/docs/share-access-views
+
+### Using BigQuery GIS to plot a hurricane's path
+
+https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
+
+### Visualize BigQuery data in Jupyter notebook
+
+https://cloud.google.com/bigquery/docs/visualize-jupyter
+
+
+
+## Looker and BigQuery
+
+[Looker](Looker) is an enterprise platform for business intelligence, data applications, and embedded analytics. Looker helps you explore, share, and visualize your company's data so that you can make better business decisions.
+
+
+https://cloud.google.com/bigquery/docs/looker
+
 
 ## Qwiklabs
 
