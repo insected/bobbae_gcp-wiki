@@ -25,4 +25,4 @@ https://codelabs.developers.google.com/codelabs/bigquery-data-studio#0
 
 ## Looker
 
-[Looker](Looker) 
+[Looker](Looker) is a data aggregation tool in addition to dashboarding. It was built from the ground up to integrate a variety of data sources and allow for the flexibility to aggregate and transform data with LookML. Looker also allows you to send data to other platforms through an Application Programming Interface (API) and develop separate data services and products, proving there is much more you can do with the platform than just develop dashboards.
