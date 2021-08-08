@@ -42,6 +42,41 @@ TensorFlow Enterprise makes it easier to develop and deploy TensorFlow models on
 [https://cloud.google.com/TensorFlow-enterprise/docs](https://cloud.google.com/tensorflow-enterprise/docs)
 
 
+
+
+### TensorFlow Examples
+
+https://github.com/tensorflow/examples
+
+
+### TensorFlow Tutorials
+
+https://www.tensorflow.org/tutorials
+
+### Running Distributed TensorFlow on Compute Engine
+
+https://cloud.google.com/architecture/running-distributed-tensorflow-on-compute-engine
+
+
+### Training and prediction with Keras
+
+https://cloud.google.com/ai-platform/docs/getting-started-keras
+
+
+### Training Models with Tensorflow Cloud
+
+
+https://blog.tensorflow.org/2020/08/train-your-tensorflow-model-on-google.html
+
+
+### Distributed TensorFlow on GCP
+
+https://blog.tensorflow.org/2020/12/getting-started-with-distributed-tensorflow-on-gcp.html
+
+### Making Predictions with Tensorflow and BigQuery
+
+https://cloud.google.com/bigquery-ml/docs/making-predictions-with-imported-tensorflow-models
+
 ### TensorFlow Resources
 
 A list of URLs related to TensorFlow.
@@ -49,7 +84,4 @@ A list of URLs related to TensorFlow.
 [https://github.com/jtoy/awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
 https://www.guru99.com/tensorflow-tutorial.html
-
-
-
 
