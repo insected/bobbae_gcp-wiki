@@ -11,6 +11,9 @@ It is built on Numpy, Scipy, and Matplotlib libraries.
 
 ### Videos
 
+
+An example of scikit-learn.
+
 [https://www.youtube.com/watch?v=rvVkVsG49uU](https://www.youtube.com/watch?v=rvVkVsG49uU)
 
 
