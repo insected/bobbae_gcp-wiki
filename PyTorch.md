@@ -22,4 +22,11 @@ https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c
 
 
 
+## PyTorch examples
+
+https://github.com/pytorch/examples
+
+## PyTorch  Video course
+
+https://www.youtube.com/watch?v=GIsg-ZUy0MY
 
