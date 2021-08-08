@@ -85,3 +85,11 @@ Training business users.
 [https://training.looker.com/series/recorded-webinars/custom-visualizations](https://training.looker.com/series/recorded-webinars/custom-visualizations)
 
 [https://training.looker.com/series/recorded-webinars](https://training.looker.com/series/recorded-webinars)
+
+## Looker vs  Tableau
+
+https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef
+
+## Looker and Data Studio
+
+https://infotrust.com/articles/google-data-studio-looker-comparison/
