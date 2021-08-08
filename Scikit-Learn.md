@@ -15,6 +15,9 @@ It is built on Numpy, Scipy, and Matplotlib libraries.
 
 [https://www.youtube.com/watch?v=MaKLWy5zXe8](https://www.youtube.com/watch?v=MaKLWy5zXe8)
 
+### Linear Regression Example
+
+https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 
 ### Pre-Processing
 
