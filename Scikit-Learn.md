@@ -2,14 +2,19 @@
 
 [Scikit-learn](https://scikit-learn.org/stable/) provides a range of [awesome](https://github.com/fkromer/awesome-scikit-learn) supervised and unsupervised learning algorithms via a consistent interface.
 
-It is built on Numpy, Scipy, and Matplotlib libraries.
+It is built on [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), and [Matplotlib](https://matplotlib.org/) libraries.
 
 <img src="https://www.jeremyjordan.me/content/images/2017/05/ml_map.png" width="800">
 
 
+### Scikit learn and TensorFlow
+
+[TensorFlow](Tensorflow) is more of a low-level library.  TensorFlow can be considered as the Lego bricks (similar to NumPy and SciPy) that we can use to implement machine learning algorithms whereas scikit-learn comes with off-the-shelf algorithms, e.g., algorithms for classification such as SVMs, Random Forests, Logistic Regression, and many, many more. TensorFlow really shines if we want to implement deep learning algorithms, since it allows us to take advantage of GPUs for more efficient training.
+
+https://sebastianraschka.com/faq/docs/tensorflow-vs-scikitlearn.html
 
 
-### Videos
+### Scikit learn Videos
 
 
 An example of scikit-learn.
