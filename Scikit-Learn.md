@@ -25,6 +25,12 @@ Setting up deployment pipeline with scikit-learn.
 
 https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 
+
+### Examples
+
+https://scikit-learn.org/stable/auto_examples/index.html
+
+
 ### Pre-Processing
 
 
