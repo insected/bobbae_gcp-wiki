@@ -23,4 +23,3 @@ https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c
 
 
 
-https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b
