@@ -1,7 +1,7 @@
 
 ### Introduction
 
-[Keras](https://keras.io/)     is an [awesome](https://github.com/gym0569/awesome-keras) library that wraps the efficient numerical computation libraries Theano and TensorFlow. 
+[Keras](https://keras.io/)     is an [awesome](https://github.com/gym0569/awesome-keras) library that wraps the efficient numerical computation libraries Theano and TensorFlow. Keras is a higher-level deep learning framework, which abstracts many details away, making code simpler and more concise than in PyTorch or TensorFlow, at the cost of limited hackability. It abstracts away the computation backend, which can be TensorFlow, Theano or CNTK. It does not support a PyTorch backend.
 
 It allows you to define and train neural network models in just a few lines of code.
 
