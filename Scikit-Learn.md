@@ -1,6 +1,8 @@
 
 
-[Scikit-learn](https://scikit-learn.org/stable/) provides a range of [awesome](https://github.com/fkromer/awesome-scikit-learn) supervised and unsupervised learning algorithms via a consistent interface.
+[Scikit-learn](https://scikit-learn.org/stable/) provides a range of [awesome](https://github.com/fkromer/awesome-scikit-learn) supervised and unsupervised learning algorithms via a consistent interface. SciKit Learn is a general machine learning library, built on top of NumPy. It features a lot of machine learning algorithms such as support vector machines, random forests, as well as a lot of utilities for general pre- and postprocessing of data. It is not a neural network framework.
+
+
 
 It is built on [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), and [Matplotlib](https://matplotlib.org/) libraries.
 
