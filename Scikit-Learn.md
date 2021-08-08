@@ -13,6 +13,9 @@ It is built on Numpy, Scipy, and Matplotlib libraries.
 
 [https://www.youtube.com/watch?v=rvVkVsG49uU](https://www.youtube.com/watch?v=rvVkVsG49uU)
 
+
+Setting up deployment pipeline with scikit-learn.
+
 [https://www.youtube.com/watch?v=MaKLWy5zXe8](https://www.youtube.com/watch?v=MaKLWy5zXe8)
 
 ### Linear Regression Example
