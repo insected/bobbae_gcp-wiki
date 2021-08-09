@@ -14,6 +14,7 @@ Events of interest [fire off continuously](https://www.youtube.com/watch?v=51bq_
 
 ### IoT Operating Systems
 
+IoT operating systems allow users to perform the basic functions of a computer within an internet-connected device. IoT operating systems are embedded within IoT devices and connect to a greater network of devices. These operating systems provide similar functionality to that of a computer by delivering processing capacity for memory and data storage purposes. These systems can run and process all software run on the device. 
 
 https://www.g2.com/categories/iot-operating-systems
 
