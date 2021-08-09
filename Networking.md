@@ -73,7 +73,7 @@ https://en.wikipedia.org/wiki/IP_routing
 
 ### DNS
 
-The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
+The [Domain Name System](DNS) (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
 
 https://en.wikipedia.org/wiki/Domain_Name_System
 
@@ -153,13 +153,13 @@ You can choose from [Network Options](Network-Options).
 
 ## CDN
 
-Cloud [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) (Content Delivery Network) uses Google's globally distributed edge points of presence to cache external HTTP(S) load balanced content close to your users. Caching content at the edges of Google's network provides faster delivery of content to your users while reducing serving costs. 
+Cloud [CDN](CDN) (Content Delivery Network) uses Google's globally distributed edge points of presence to cache external HTTP(S) load balanced content close to your users. Caching content at the edges of Google's network provides faster delivery of content to your users while reducing serving costs. 
 
 There are [DNS](DNS) based CDNs.
 
 The CDN provider typically determines the optimal server selection based on the source IP address of the DNS request (probably combined with other information). However, the source IP address conveyed to the [CDN](https://cloud.google.com/cdn/docs) provider is that of the DNS recursive server, rather than that of the client.
 
-
+https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
 
 
 ### Using CDN and Load Balancing
