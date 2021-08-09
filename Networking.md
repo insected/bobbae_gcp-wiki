@@ -369,18 +369,29 @@ All of the CNIs can be deployed by simply running a pod or a daemonset that laun
 IEEE 802.15.4 is a technical standard which defines the operation of low-rate wireless personal area networks (LR-WPANs). It specifies the physical layer and media access control for LR-WPANs, and is maintained by the IEEE 802.15 working group, which defined the standard in 2003.
 
 
+https://standards.ieee.org/standard/802_15_4-2020.html
 
 ### ZigBee 
 
 ZigBee is a 2.4 GHz mesh local area network (LAN) protocol. It was originally designed for building automation and control—so things like wireless thermostats and lighting systems often use ZigBee.
 
+
+https://zigbeealliance.org/solution/zigbee/
+
+
 ### LoRaWAN 
 
 LoRaWAN is a media access control (MAC) layer protocol designed for large-scale public networks with a single operator. It is built using Semtech’s LoRa modulation as the underlying PHY, but it is important to note that LoRa and LoRaWAN are two seperate things that are often (mistakenly) conflated. 
 
+
+https://lora-alliance.org/
+
 ### GPRS 
 
 General Packet Radio Service (GPRS) is a packet oriented mobile data standard on the 2G and 3G cellular communication network's global system for mobile communications (GSM). GPRS was established by European Telecommunications Standards Institute (ETSI) in response to the earlier CDPD and i-mode packet-switched cellular technologies. It is now maintained by the 3rd Generation Partnership Project (3GPP).
+
+https://www.twilio.com/docs/glossary/what-general-packet-radio-service-gprs
+
 
 ### 3G & 4G
 
@@ -414,6 +425,9 @@ https://en.wikipedia.org/wiki/GSM
 
 https://en.wikipedia.org/wiki/5G
 
+### Cellular IoT Overview
+
+https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
 
 ### MQTT 
 
