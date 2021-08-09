@@ -9,12 +9,15 @@ The material here is intended to help the participants to be productive  in thei
 ## Course Outline
 
 The materials in this document  cover the breadth of what GCP offers but you also need to figure out which area you want to study in more detail. 
+
 There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions.
 
 ### Group Project
 
 If you are working as a group you can do a group project. The project should be conceived, designed, and implemented by the group.  
-Coming up with good project ideas is part of the project itself.  We can confirm the validity of our ideas by proposing specific [solutions]( https://cloud.google.com/solutions  ) in  [specific areas](https://cloud.google.com/architecture). You should start planning on the group project right away. Don't wait until seventh week to start the project. 
+Coming up with good project ideas is part of the project itself.  We can confirm the validity of our ideas by proposing specific [solutions]( https://cloud.google.com/solutions  ) in  [specific areas](https://cloud.google.com/architecture). 
+
+You should start planning on the group project right away. Don't wait  to start the project. 
 You may [review possible project ideas](Projects) ideas from various sources. 
 
 ## Daily Meetings
