@@ -200,9 +200,28 @@ The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general pur
 [https://cloud.google.com/compute/docs/tutorials/performing-an-automated-in-place-upgrade-windows-server](https://cloud.google.com/compute/docs/tutorials/performing-an-automated-in-place-upgrade-windows-server)
 
 
-### Where to run my code? Deciding between GCE, GKE, App Engine
+
+## Where to run my code? Deciding between GCE, GKE, App Engine
 
 https://www.youtube.com/watch?v=2tLXKCgqwLY
+
+## Data Centers
+
+### Google Data Centers
+
+https://www.google.com/about/datacenters/
+
+### GCP Locations
+
+https://www.google.com/about/datacenters/locations/
+
+
+### Open Compute Project
+
+Open source hardware design for data centers.
+
+
+https://www.opencompute.org/products
 
 
 ## Qwiklabs
