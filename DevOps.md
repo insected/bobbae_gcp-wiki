@@ -22,12 +22,12 @@ This will allow your organization to respond in a more agile manner to changing 
 Please review some [security topics](Security) and [privacy issues](Privacy) from the [DevSecOps point of view](https://www.csoonline.com/article/3245748/what-is-devsecops-developing-more-secure-applications.html).
 
 
-## DevOps Research and Assessment
+### DevOps Research and Assessment
 
 [Google’s DORA team](https://www.devops-research.com/research.html) conducted a six-year research program which validated a number of technical, process, measurement, and cultural capabilities that drive higher software delivery and organizational performance. Explore DORA’s research program and discover these capabilities, how to implement them, and how to overcome common obstacles.
 
 
-## Hybrid Cloud DevOps
+### Hybrid Cloud DevOps
 
 Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. Anthos helps you manage both an on-premises Kubernetes cluster and a cluster running on Google Cloud.
 Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration system for containers and Kubernetes clusters that run within Google's public cloud services.
@@ -36,6 +36,13 @@ Anthos clusters on VMware runs privately on your own servers with regulated acce
 ### DevSecOps Case Study
 
 https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-pipeline-with-jfrog-artifactory-and-gke-on-prem
+
+### Binary Authorization
+
+Binary Authorization is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE) or Cloud Run. With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
+
+
+https://cloud.google.com/binary-authorization
 
 
 ## GitOps 
