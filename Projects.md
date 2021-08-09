@@ -1,6 +1,6 @@
 ## Project ideas
 
-### Rube Goldberg
+### Rube Goldberg Record Player
 
 http://record-player.glitch.me/auth
 
@@ -20,7 +20,9 @@ Create terraform examples to [create project based solutions](https://cloud.goog
 
 Using Workload Identity bindings have two kubernetes clusters access a GCS bucket as allowed via bound identity between Kubernetes service account and Google Service account.  Disallow one of the kubernetes clusters from accessing GCS using IAM conditions.  [Explore other resource management and credentials](https://medium.com/google-cloud/solving-the-workload-identity-sameness-with-iam-conditions-c02eba2b0c13) issues in kubernetes and GCP resources.
 
+### Track Google Cloud Platform Organizations Associated With Your Billing Ids
 
+https://medium.com/google-cloud/find-google-cloud-platform-organizations-associated-with-your-billing-ids-6b216618a592
 
 ### List of project ideas
 
