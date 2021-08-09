@@ -132,6 +132,18 @@ https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 ## GCP Network Options
 
+Google's connectivity solutions enable you to connect your networks to Google in the following ways:
+
+- To Google Cloud, which enables you to access your Virtual Private Cloud (VPC) networks and Compute Engine virtual machine (VM) instances from your on-premises networks or from another cloud provider.
+
+- To connect your sites together through a Network Connectivity Center hub located in Google Cloud.
+
+- To Google Workspace and supported Google APIs, which lets you access only these products and services.
+
+- To CDN providers, which enables you to choose supported content delivery providers that establish Direct Peering links with Google's edge network. Choosing a provider enables you to send traffic from your VPC networks to that provider.
+
+
+
 You can choose from [Network Options](Network-Options).
 
 
