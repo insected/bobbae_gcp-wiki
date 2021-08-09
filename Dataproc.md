@@ -146,3 +146,8 @@ And finally a perspective on replacing Sawzell within Google.
 [Apache Spark and Jupyter Notebooks made easy with Dataproc component gateway](https://medium.com/google-cloud/apache-spark-and-jupyter-notebooks-made-easy-with-dataproc-component-gateway-fa91d48d6a5a)
 
 [Cloud Dataproc example repository](https://github.com/GoogleCloudDataproc/cloud-dataproc)
+
+
+## Big Data Hadoop Tutorial
+
+https://www.guru99.com/bigdata-tutorials.html
