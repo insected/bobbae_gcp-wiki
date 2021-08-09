@@ -336,6 +336,25 @@ Network [Security](Security) consists of the policies, processes and practices a
 
 https://en.wikipedia.org/wiki/Network_security
 
+## Underlay network
+
+Underlay network is closer to the physical layer. It includes switches, routers, VLANs and so on. It is the basis on which overlay networks are built. It tends to be less scalable due to technical limitations. However, since it’s closer to the actual hardware, it is slightly faster than an overlay.
+
+## Overlay network
+
+Overlay network refers to the virtual network layer. It is designed to be highly scalable than the underlying network. For example, while VLANs in the underlying network support only 4096 identifiers, VxLAN can reach up to 16 million ones.
+
+## Kubernetes Networking
+
+[Kubernetes Networking](Kubernetes-Networking) supports both networking models, so you can base your model of choice on other factors than whether or not the cluster can handle it.
+
+## Kubernetes CNI
+
+A [CNI](Kubernetes-Networking#cni) is simply a link between the container runtime (like Docker or rkt) and the network plugin. The network plugin is nothing but the executable that handles the actual connection of the container to or from the network, according to a set of rules defined by the CNI. So, to put it simply, a CNI is a set of rules and Go libraries that aid in container/network-plugin integration.
+
+All of the CNIs can be deployed by simply running a pod or a daemonset that launches and manages their daemons. Let’s have a look now at the most well-known Kubernetes networking solutions.
+
+
 ## Qwiklabs
 
 
