@@ -2,6 +2,7 @@
 
 [TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk)    is an [awesome](https://github.com/jtoy/awesome-tensorflow)   open source, powerful, portable [machine learning](Machine-Learning) library developed by Google that can work with very large datasets.
 
+[Keras](Keras) is the high-level API of TensorFlow.
 
 [Kubeflow](Kubeflow) is a [MLOps](MLOps) tool that can manage pipelines including [TensorFlow](https://www.tensorflow.org/learn).
 
