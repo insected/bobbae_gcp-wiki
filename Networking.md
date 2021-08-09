@@ -382,6 +382,11 @@ A firewall rule can contain either IPv4 or IPv6 ranges, but not both.
 
 https://cloud.google.com/vpc/docs/using-firewalls
 
+### Netfilter
+
+https://en.wikipedia.org/wiki/Netfilter
+
+
 ## Underlay network
 
 Underlay network is closer to the physical layer. It includes switches, routers, VLANs and so on. It is the basis on which overlay networks are built. It tends to be less scalable due to technical limitations. However, since it’s closer to the actual hardware, it is slightly faster than an overlay.
