@@ -13,7 +13,6 @@ For high-level architectural guides and tutorials that describe [networking scen
 [https://cloud.google.com/network-connectivity/docs/how-to/choose-product](https://cloud.google.com/network-connectivity/docs/how-to/choose-product)
 
 
-<img src="https://callcenterstudio.com/wp-content/uploads/2020/04/Deciding_how_to_connect_to_Google_Cloud.max-2800x2800.jpg-1030x579.png" width="800"> 
 
 
 * Compare [Dedicated Interconnect vs Partner Interconnect](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions)
