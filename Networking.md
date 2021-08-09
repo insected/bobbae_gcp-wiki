@@ -1,12 +1,11 @@
 
 
-## Networking
 
 Data Communication and [Computer Networking]( https://www.guru99.com/data-communication-computer-network-tutorial.html  ) provides the rules and regulations that allow computers with different operating systems, languages, cabling, and locations to share resources and communicate with each other. 
 
 
 
-### Introduction
+## Introduction
 
 Google Cloud Platform includes [software-defined networking](https://developers.google.com/learn/topics/networking), hybrid connectivity, network performance optimization, network security, service mesh deployment, NAT, load balancing, and routing.
 
@@ -38,20 +37,20 @@ Google built a superior [cloud network](https://cloud.google.com/docs/compare/da
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/infrastructure-1.max-1000x1000.png" width="500">
 
 
-#### Networking 101
+## Networking 101
 
 [https://www.youtube.com/watch?v=0hN-dyOV10c](https://www.youtube.com/watch?v=0hN-dyOV10c)
 
-#### CompTIA Network+ full course
+## CompTIA Network+ full course
 
 https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
-#### Networking End to End
+## Networking End to End
 
 [https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u)
 
 
-#### Two Tier vs. Three Tier Architecture
+## Two Tier vs. Three Tier Architecture
 
 [https://www.wwt.com/article/comparing-two-tier-three-tier-data-center-networks](https://www.wwt.com/article/comparing-two-tier-three-tier-data-center-networks)
 
@@ -63,12 +62,12 @@ https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 
 
-### Network Options
+## Network Options
 
 You can choose from [Network Options](Network-Options).
 
 
-#### Introduction
+## CDN
 
 Cloud [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) (Content Delivery Network) uses Google's globally distributed edge points of presence to cache external HTTP(S) load balanced content close to your users. Caching content at the edges of Google's network provides faster delivery of content to your users while reducing serving costs. 
 
@@ -79,22 +78,22 @@ The CDN provider typically determines the optimal server selection based on the 
 
 
 
-#### Using CDN and Load Balancing
+### Using CDN and Load Balancing
 
 [https://www.youtube.com/watch?v=NedNhOg_TgA](https://www.youtube.com/watch?v=NedNhOg_TgA)
 
 
-#### Setting up Cloud CDN with backend storage bucket
+### Setting up Cloud CDN with backend storage bucket
 
 [https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket](https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket)
 
 
-### Hybrid Connectivity
+## Hybrid Connectivity
 
 [https://cloud.google.com/hybrid-connectivity](https://cloud.google.com/hybrid-connectivity)
 
 
-### Cloud Interconnect
+## Cloud Interconnect
 
 [Interconnect](Interconnect) extends your on-premises network to Google's network through a highly available, low latency connection. 
 
@@ -102,11 +101,11 @@ The CDN provider typically determines the optimal server selection based on the 
 
 
 
-### Cloud Load Balancing
+## Cloud Load Balancing
 
 [Load Balancer](Load-Balancer) distributes user traffic across multiple instances of your applications. By spreading the load, load balancing reduces the risk that your applications experience performance issues.
 
-### Cloud NAT
+## Cloud NAT
 
 [Cloud NAT](https://cloud.google.com/nat/docs) provides fully managed, software-defined network address translation support for Google Cloud.
 
@@ -117,7 +116,7 @@ Moving your internal services to the cloud can bring you a handful of new, usefu
 [https://www.youtube.com/watch?v=bmaarG0IkH8](https://www.youtube.com/watch?v=bmaarG0IkH8)
 
 
-### Cloud Armor
+## Cloud Armor
 
 Google [Cloud Armor](https://cloud.google.com/armor/docs) helps protect your infrastructure and applications from distributed denial-of-service (DDoS) attacks by using Google's global infrastructure and security systems.
 
@@ -128,7 +127,7 @@ Setting up Cloud Armor.
 [https://www.youtube.com/watch?v=g_c2KLpnWck](https://www.youtube.com/watch?v=g_c2KLpnWck)
 
 
-### Network Intelligence Center
+## Network Intelligence Center
 
 [Network Intelligence Center](https://cloud.google.com/network-intelligence-center/docs) provides a single console for managing Google Cloud network visibility, monitoring, and troubleshooting.
 
@@ -139,7 +138,7 @@ Getting started with topology in network intelligence center.
 [https://www.youtube.com/watch?v=ID7szIL9eew](https://www.youtube.com/watch?v=ID7szIL9eew)
 
 
-### Network Service Tiers
+## Network Service Tiers
 
 With [Network Service Tiers](https://cloud.google.com/network-tiers), Google Cloud is the first major public cloud to offer a tiered cloud network. Select the right tier of network service for your requirements and budget.
 
@@ -150,7 +149,7 @@ Cost savings using different network tiers.
 [https://www.youtube.com/watch?v=wsdgWGE-mwE](https://www.youtube.com/watch?v=wsdgWGE-mwE)
 
 
-### Network Telemetry
+## Network Telemetry
 
 [VPC](VPC) [Flow Logs](https://cloud.google.com/vpc/docs/using-flow-logs) records a sample of network flows sent from and received by VM instances, including instances used as GKE nodes. These logs can be used for network monitoring, forensics, real-time security analysis, and expense optimization.
 
@@ -161,13 +160,13 @@ Network and security telemetry is fundamental to operate your deployments in pub
 [https://www.youtube.com/watch?v=as9mXNEcaDo](https://www.youtube.com/watch?v=as9mXNEcaDo)
 
 
-### Traffic Director
+## Traffic Director
 
 
 [Traffic Director](Traffic-Director)  is GCP's fully managed traffic control plane for service mesh. With Traffic Director, you can easily deploy global load balancing across clusters and VM instances in multiple regions, offload health checking from service proxies, and configure sophisticated traffic control policies.
 
 
-### Service Directory
+## Service Directory
 
 [Service Directory](https://cloud.google.com/service-directory) helps reduce the complexity of management and operations by providing a single place to publish, discover, and connect services. It is a managed service that enhances service inventory management at scale so you don’t have to. Service Directory provides real-time service information, whether you have a few service endpoints or thousands. 
 
@@ -176,7 +175,7 @@ Network and security telemetry is fundamental to operate your deployments in pub
 [https://www.youtube.com/watch?v=H9UoE_cWIEY](https://www.youtube.com/watch?v=H9UoE_cWIEY)
 
 
-### Qwiklabs
+## Qwiklabs
 
 
 [Networking in the Google Cloud](https://www.qwiklabs.com/quests/31?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7467791)
