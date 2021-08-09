@@ -22,9 +22,7 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 ### Compute Engine
 
-[Compute Engine](  https://cloud.google.com/compute/docs  ) lets you create and run virtual machines on Google infrastructure. [Compute Engine offers scale](  https://cloud.google.com/compute/docs/tutorials  ), performance, and value that lets you easily launch large compute clusters on [Google's infrastructure](  https://en.wikipedia.org/wiki/Google_Compute_Engine ). There are no upfront investments, and you can run thousands of virtual CPUs on a system that offers quick, consistent performance.
-
-
+[Compute Engine](  https://cloud.google.com/compute/docs  ) lets you create and run virtual machines on Google infrastructure. [Compute Engine offers scale](  https://cloud.google.com/compute/docs/tutorials  ), performance, and value that lets you easily launch large compute clusters on [Google's infrastructure](  https://en.wikipedia.org/wiki/Google_Compute_Engine ). 
 
 
 
@@ -34,6 +32,15 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 ## How to create a VM on GCP
 
 [https://www.youtube.com/watch?v=1FpMe8na64A](https://www.youtube.com/watch?v=1FpMe8na64A)
+
+https://cloud.google.com/compute/docs/instances/create-start-instance
+
+### Preemptible VM
+
+
+A preemptible instance is an instance you can create and run at a much lower price than normal instances. However, Compute Engine might stop (preempt) these instances if it requires access to those resources for other tasks. Preemptible instances will always stop after 24 hours. 
+
+https://cloud.google.com/compute/docs/instances/create-start-preemptible-instance
 
 
 ## Creating machine images
@@ -45,6 +52,20 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 [https://cloud.google.com/compute/docs/disks/add-persistent-disk](https://cloud.google.com/compute/docs/disks/add-persistent-disk)
 
+### Creating customized boot disks
+
+https://cloud.google.com/compute/docs/disks/create-root-persistent-disks
+
+### Detach and reattach boot disks
+
+https://cloud.google.com/compute/docs/disks/detach-reattach-boot-disk
+
+
+### Slurm-GCP
+
+https://cloud.google.com/compute/docs/instances/create-intel-select-solution-hpc-clusters#create_intel_select_solution_verified_clusters_using_slurm-gcp
+
+https://github.com/schedmd/slurm-gcp/tree/intel-select
 
 ## Public & Custom Images
 
@@ -80,9 +101,13 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 [https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys](https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys)
 
+### SSH protocol and public key authentication method
 
+https://www.ssh.com/academy/ssh/public-key-authentication
 
+### PKI
 
+https://www.ssh.com/academy/pki
 
 ### Creating snapshots
 
@@ -108,7 +133,7 @@ Each [firewall](  https://cloud.google.com/vpc/docs/firewalls ) rule applies to 
 
 
 
-##### Using Network tags
+### Using Network tags
 
 [https://cloud.google.com/vpc/docs/add-remove-network-tags](https://cloud.google.com/vpc/docs/add-remove-network-tags)
 
@@ -122,7 +147,7 @@ A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a se
 The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general purpose but balanced price / performance, M2, M1 are memory optimized and C2 are compute optimized.
 
 
-## Windows
+## Windows VM Instances
 
 
 ### Creating Windows Server Failover Clustering
@@ -138,6 +163,12 @@ The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general pur
 ### Performing an automated in-place upgrade
 
 [https://cloud.google.com/compute/docs/tutorials/performing-an-automated-in-place-upgrade-windows-server](https://cloud.google.com/compute/docs/tutorials/performing-an-automated-in-place-upgrade-windows-server)
+
+
+### Where to run my code? Deciding between GCE, GKE, App Engine
+
+https://www.youtube.com/watch?v=XcHE5V82OxM
+
 
 
 ## Qwiklabs
