@@ -13,6 +13,11 @@ Learn [how to create a Cloud IoT Core device registry](https://www.youtube.com/w
 Events of interest [fire off continuously](https://www.youtube.com/watch?v=51bq_Yhuof4 ) in the physical world, and data that is material to decision making can’t always wait for offline analysis. [Internet-equipped sensors](https://cloud.google.com/community/tutorials/monitoring-iot-data-grafana ) on any physical item imaginable make it possible to ingest data continuously into the cloud, directly from the source at massive scale. 
 
 
+### IoT Networking
+
+https://github.com/bobbae/gcp/wiki/Networking#iot-networking
+
+
 
 
 ### Qwiklabs
