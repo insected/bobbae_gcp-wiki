@@ -468,7 +468,6 @@ Cross Origin Resource Sharing (CORS) allows interactions between resources from 
 https://cloud.google.com/storage/docs/configuring-cors
 
 
-### Encryption at Rest
 
 ## Encryption at Rest
 
