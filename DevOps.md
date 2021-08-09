@@ -17,6 +17,8 @@ This will allow your organization to respond in a more agile manner to changing 
 
 <img src="https://tech.gsa.gov/assets/img/guides/DevSecOps.png" width="500">
 
+DevSecOps is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment, also known as the DevOps movement. Embracing this shift-left mentality requires organizations to bridge the gap that usually exists between development and security teams to the point where many of the security processes are automated and handled by the development team itself.
+
 ### Security and Privacy
 
 Please review some [security topics](Security) and [privacy issues](Privacy) from the [DevSecOps point of view](https://www.csoonline.com/article/3245748/what-is-devsecops-developing-more-secure-applications.html).
