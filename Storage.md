@@ -106,6 +106,11 @@ RAID (/reɪd/; "Redundant Array of Inexpensive Disks" or "Redundant Array of Ind
 
 https://searchstorage.techtarget.com/definition/RAID
 
+#### Linux software RAID
+
+https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information
+
+
 ### SSD
 
 A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage. It is also sometimes called a solid-state device or a solid-state disk even though SSDs lack the physical spinning disks and movable read–write heads used in hard disk drives (HDDs) and floppy disks.
