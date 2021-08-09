@@ -127,6 +127,7 @@ The two most frequently used metrics to assess the model are precision and recal
 
 https://wikipedia.org/wiki/Precision_and_recall
 
+https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
 
 https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
 
