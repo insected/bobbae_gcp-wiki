@@ -199,3 +199,7 @@ You may become a more efficient and productive data scientist by teaching you ho
 Data lineage uncovers the life cycle of data—it aims to show the complete data flow, from start to finish. Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. This includes all transformations the data underwent along the way—how the data was transformed, what changed, and why.
 
 https://www.keboola.com/blog/data-lineage-tools
+
+## Data Science Tutorial
+
+https://www.guru99.com/data-science-tutorial.html
