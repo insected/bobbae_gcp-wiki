@@ -52,6 +52,33 @@ There are many versions: https://en.wikipedia.org/wiki/Network_File_System
 
 https://en.wikipedia.org/wiki/List_of_file_systems
 
+#### Linux Filesystems
+
+The majority of modern Linux distributions default to the ext4 filesystem, just as previous Linux distributions defaulted to ext3, ext2, and—if you go back far enough—ext.
+
+If you're new to Linux—or to filesystems—you might wonder what ext4 brings to the table that ext3 didn't. You might also wonder whether ext4 is still in active development at all, given the flurries of news coverage of alternate filesystems such as btrfs, xfs, and zfs.
+
+https://opensource.com/article/18/4/ext4-filesystem
+
+#### Flash file systems
+
+Because of the [particular characteristics of flash memory](https://en.wikipedia.org/wiki/Flash_memory_controller), it is best used with either a controller to perform wear leveling and error correction or specifically designed flash file systems, which spread writes over the media and deal with the long erase times of NAND flash blocks. The basic concept behind flash file systems is: when the flash store is to be updated, the file system will write a new copy of the changed data over to a fresh block, remap the file pointers, then erase the old block later when it has time.
+
+https://en.wikipedia.org/wiki/Flash_file_system
+
+
+The earliest flash file system, managing an array of flash as a freely writable disk, was TrueFFS by M-Systems of Israel, presented as a software product in PC-Card Expo at Santa Clara, California, in July 1992 and patented in 1993.
+
+Around 1994, the PCMCIA, an industry group, approved the Flash Translation Layer (FTL) specification, based on the design of M-Systems' TrueFFS. The specification was authored and jointly proposed by M-Systems and SCM Microsystems, who also provided the first working implementations of FTL.
+
+JFFS was the first flash-specific file system for Linux, but it was quickly superseded by JFFS2, originally developed for NOR flash. Then YAFFS was released in 2002, dealing specifically with NAND flash, and JFFS2 was updated to support NAND flash too.
+
+UBIFS has been merged since Linux 2.6.22[7] in 2008. UBIFS has been actively developed from its initial merge. UBIFS has documentation hosted at infradead.org along with JFFS2 and MTD drivers. Some initial comparison show UBIFS with compression faster than F2FS.
+
+LogFS, another Linux flash-specific file system, is currently being developed to address the scalability issues of JFFS2.
+
+F2FS (Flash-Friendly File System) was added to the Linux kernel 3.8.[10] Instead of being targeted at speaking directly to raw flash devices, F2FS is designed to be used on flash-based storage devices that already include a flash translation layer, such as SD cards.
+
 
 ## Block Storage
 
@@ -62,6 +89,9 @@ Block storage is often configured to decouple the data from the user’s environ
 Because block storage doesn’t rely on a single path to data, it can be retrieved quickly. Each block lives on its own and can be partitioned so it can be accessed in a different operating system, which gives the user complete freedom to configure their data. It’s an efficient and reliable way to store data and is easy to use and manage. It works well with enterprises performing big transactions and those that deploy huge databases, meaning the more data you need to store, the better off you’ll be with block storage.
 
 There are some downsides, though. Block storage can be expensive. It has limited capability to handle metadata, which means it needs to be dealt with in the application or database level—adding another thing for a developer or systems administrator to worry about.
+
+
+https://www.ibm.com/cloud/learn/block-storage
 
 ### SCSI
 
