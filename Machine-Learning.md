@@ -99,6 +99,50 @@ The Estimators API gives us a nice workflow of getting our raw data, passing it 
 
 [https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
 
+## Feature Engineering
+
+Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data.
+
+https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+
+### One-Hot Encoding
+
+Some learning algorithms only work with numerical feature vectors. When some feature in your dataset is categorical, like “colors” or “days of the week,” you can transform such a categorical feature into several binary ones.
+
+If your example has a categorical feature “colors” and this feature has three possible values: “red,” “yellow,” “green,” you can transform this feature into a vector of three numerical values. By doing so, you increase the dimensionality of your feature vectors. You should not transform red into 1, yellow into 2, and green into 3 to avoid increasing the dimensionality because that would imply that there’s an order among the values in this category and this specific order is important for the decision making. If the order of a feature’s values is not important, using ordered numbers as values is likely to confuse the learning algorithm, because the algorithm will try to find a regularity where there’s no one, which may potentially lead to overfitting.
+
+### Binning
+
+Binning (also called bucketing) is the process of converting a continuous feature into multiple binary features called bins or buckets, typically based on value range. For example, instead of representing age as a single real-valued feature, the analyst could chop ranges of age into discrete bins: all ages between 0 and 5 years-old could be put into one bin, 6 to 10 years-old could be in the second bin, 11 to 15 years-old could be in the third bin, and so on.
+
+### Normalization
+
+Normalization is the process of converting an actual range of values which a numerical
+feature can take, into a standard range of values, typically in the interval [≠1, 1] or [0, 1].
+For example, suppose the natural range of a particular feature is 350 to 1450. By subtracting 350 from every value of the feature, and dividing the result by 1100, one can normalize those values into the range [0, 1].
+
+### Standardization
+
+Standardization (or z-score normalization) is the procedure during which the feature values are rescaled so that they have the properties of a standard normal distribution with μ = 0 and ‡ = 1, where μ is the mean (the average value of the feature, averaged over all examples in the dataset) and ‡ is the standard deviation from the mean.
+
+
+### Dealing with Missing Features
+
+In some cases, the data comes to the analyst in the form of a dataset with features already defined. In some examples, values of some features can be missing. That often happens when the dataset was handcrafted, and the person working on it forgot to fill some values or didn’t get them measured at all.
+
+
+### Data Imputation Techniques
+
+One technique consists in replacing the missing value of a feature by an average value of this
+feature in the dataset.
+
+Another technique is to replace the missing value by the same value outside the normal range of values. 
+
+For example, if the normal range is [0, 1], then you can set the missing value equal to 2 or ≠1. The idea is that the learning algorithm will learn what is it better to do when the feature has a value significantly different from other values. Alternatively, you can replace the missing value by a value in the middle of the range. For example, if the range for a feature is [≠1, 1], you can set the missing value to be equal to 0. Here, the idea is that if we use the value in the middle of the range to replace missing features, such value will not significantly affect the prediction.
+
+
+
+
 ## Evaluation of Models
 
 
