@@ -8,9 +8,6 @@ Cloud [Bigtable](https://cloud.google.com/bigtable/docs)  is Google's [NoSQL Big
 https://cloud.google.com/bigtable/docs/overview
 
 
-## Quickstart
-
-https://cloud.google.com/bigtable/docs/quickstart-cbt
 
 ## Scalable Key-value store
 
