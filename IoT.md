@@ -18,6 +18,8 @@ IoT operating systems allow users to perform the basic functions of a computer w
 
 https://www.g2.com/categories/iot-operating-systems
 
+https://devopedia.org/iot-operating-systems
+
 ### IoT Networking
 
 https://github.com/bobbae/gcp/wiki/Networking#iot-networking
