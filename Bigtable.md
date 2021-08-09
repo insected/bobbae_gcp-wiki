@@ -184,8 +184,28 @@ The locations in the GFS of tablets are recorded as database entries in multiple
 - Column families, including their garbage-collection policies
 - Columns
 
+### Schema design general concepts
 
-## Schema for time series data
+
+The following general concepts apply to Bigtable schema design:
+
+- Bigtable is a key/value store, not a relational store. It does not support joins, and transactions are supported only within a single row.
+- Each table has only one index, the row key. There are no secondary indices. Each row key must be unique.
+- Rows are sorted lexicographically by row key, from the lowest to the highest byte string. Row keys are sorted in [big-endian byte order](https://en.wikipedia.org/wiki/Endianness) (sometimes called network byte order), the binary equivalent of alphabetical order.
+- Column families are not stored in any specific order.
+- Columns are grouped by column family and sorted in lexicographic order within the column family. For example, in a column family called SysMonitor with column qualifiers of ProcessName, User, %CPU, ID, Memory, DiskRead, and Priority, Bigtable stores the columns in this order:
+%CPU, DiskRead, ID, Memory, Priority, ProcessName, User.
+- The intersection of a row and column can contain multiple timestamped cells. Each cell contains a unique, timestamped version of the data for that row and column.
+- All operations are atomic at the row level. This means that an operation affects either an entire row or none of the row.
+- Ideally, both reads and writes should be distributed evenly across the row space of a table.
+- Bigtable tables are sparse. A column doesn't take up any space in a row that doesn't use the column.
+
+### Schema Best Practices
+
+https://cloud.google.com/bigtable/docs/schema-design#best-practices
+
+
+### Schema for time series data
 
 A time series is a collection of data that consists of measurements and the times when the measurements are recorded.
 
