@@ -120,9 +120,13 @@ https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 ## Two Tier vs. Three Tier Architecture
 
+### Networking point of view
+
 [https://www.wwt.com/article/comparing-two-tier-three-tier-data-center-networks](https://www.wwt.com/article/comparing-two-tier-three-tier-data-center-networks)
 
+### Database point of view
 
+https://www.softwaretestingclass.com/what-is-difference-between-two-tier-and-three-tier-architecture/
  
 
 
