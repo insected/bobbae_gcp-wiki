@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 ## SQL Examples
 
-https://www.freecodecamp.org/news/sql-example/
+https://sqlzoo.net/
 
 ## CloudSQL
 
