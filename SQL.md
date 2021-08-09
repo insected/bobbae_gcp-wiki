@@ -5,7 +5,9 @@ Structured Query Language (SQL) is the standard language for data manipulation i
 - Data Manipulation Language (DML) is used for searching, inserting, updating, and deleting data, which will be partially covered in this SQL tutorial.
 
 
+## CloudSQL
 
+[CloudSQL](CloudSQL)  is a fully managed service that makes it easy to set up, manage, and administer relational databases: PostgreSQL, MySQL, and SQL Server.
 
 ## SQL Tutorials
 
