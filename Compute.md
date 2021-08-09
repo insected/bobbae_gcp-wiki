@@ -26,7 +26,9 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 
 
+## Quickstart using a Linux VM
 
+https://cloud.google.com/compute/docs/quickstart-linux
 
 
 ## How to create a VM on GCP
