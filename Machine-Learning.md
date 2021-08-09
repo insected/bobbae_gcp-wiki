@@ -25,6 +25,10 @@ And look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTa
 
 Then read
 
+http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf
+
+and
+
 https://duchesnay.github.io/pystatsml/index.html
 
 ## Machine Learning & Artificial Intelligence 
