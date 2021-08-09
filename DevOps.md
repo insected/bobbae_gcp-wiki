@@ -22,16 +22,7 @@ This will allow your organization to respond in a more agile manner to changing 
 Please review some [security topics](Security) and [privacy issues](Privacy) from the [DevSecOps point of view](https://www.csoonline.com/article/3245748/what-is-devsecops-developing-more-secure-applications.html).
 
 
-### DevOps Research and Assessment
 
-[Google’s DORA team](https://www.devops-research.com/research.html) conducted a six-year research program which validated a number of technical, process, measurement, and cultural capabilities that drive higher software delivery and organizational performance. Explore DORA’s research program and discover these capabilities, how to implement them, and how to overcome common obstacles.
-
-
-### Hybrid Cloud DevOps
-
-Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. Anthos helps you manage both an on-premises Kubernetes cluster and a cluster running on Google Cloud.
-Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration system for containers and Kubernetes clusters that run within Google's public cloud services.
-Anthos clusters on VMware runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
 
 ### DevSecOps Case Study
 
@@ -44,7 +35,16 @@ Binary Authorization is a deploy-time security control that ensures only trusted
 
 https://cloud.google.com/binary-authorization
 
+## DevOps Research and Assessment
 
+[Google’s DORA team](https://www.devops-research.com/research.html) conducted a six-year research program which validated a number of technical, process, measurement, and cultural capabilities that drive higher software delivery and organizational performance. Explore DORA’s research program and discover these capabilities, how to implement them, and how to overcome common obstacles.
+
+
+## Hybrid Cloud DevOps
+
+Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. Anthos helps you manage both an on-premises Kubernetes cluster and a cluster running on Google Cloud.
+Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration system for containers and Kubernetes clusters that run within Google's public cloud services.
+Anthos clusters on VMware runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
 ## GitOps 
 
 
