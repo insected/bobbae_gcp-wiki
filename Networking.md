@@ -260,7 +260,7 @@ Network and security telemetry is fundamental to operate your deployments in pub
 
 ## Network Security
 
-Network [security](Security) consists of the policies, processes and practices adopted to prevent, detect and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources.
+Network [Security](Security) consists of the policies, processes and practices adopted to prevent, detect and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources.
 
 
 ## Qwiklabs
