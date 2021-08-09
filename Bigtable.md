@@ -14,7 +14,7 @@ https://cloud.google.com/bigtable/docs/quickstart-cbt
 
 ## Scalable Key-value store
 
-Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, SSTable (log-structured storage like LevelDB) and a few other Google technologies. On May 6, 2015, a public version of Bigtable was made available as a service. Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
+Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, [SSTable](https://etcnotes.com/posts/sstable-and-lsm/) (log-structured storage like LevelDB) and a few other Google technologies. On May 6, 2015, a public version of Bigtable was made available as a service. Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
 
 [https://cloud.google.com/bigtable/docs](https://cloud.google.com/bigtable/docs)
 
