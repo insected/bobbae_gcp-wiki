@@ -34,6 +34,12 @@ These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse ran
 
 [Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
+There are common areas of interests in both Machine Learning Engineering and Data Science.  However, some prefer to focus on the [differences](https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/).  While others prefer to consider Data Scientists engaging in Machine Learning activities, especially as distinctive job functions as opposed to Data Engineering or Data Analytics.
+
+
+
+
+
 ## Dialogflow
 
 [Dialogflow](https://cloud.google.com/dialogflow/docs) is a [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) platform that makes it easy to design and integrate a conversational user interface into your mobile app, web application, device, bot, interactive voice response system, and so on. Using [Dialogflow](  https://cloud.google.com/dialogflow/docs  ), you can [provide new and engaging ways](  https://www.youtube.com/watch?v=YoytR7kzorg  ) for users to interact with your product.
