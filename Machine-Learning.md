@@ -125,7 +125,10 @@ Confusion Matrices can be used to calculate two important performance metrics: p
 
 The two most frequently used metrics to assess the model are precision and recall.  Precision is the ratio of correct positive predictions to overall number of positive predictions.   Recall is the ratio of positive predictions to the overall number of positive examples in the test set.  
 
-https://en.m.wikipedia.org/wiki/Precision_and_recall
+https://wikipedia.org/wiki/Precision_and_recall
+
+
+https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
 
 ### F-measure
 
