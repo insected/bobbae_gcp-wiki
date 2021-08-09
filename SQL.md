@@ -4,13 +4,23 @@ Structured Query Language (SQL) is the standard language for data manipulation i
 - Data Control Language (DCL) allows you to manipulate and manage access rights on database objects
 - Data Manipulation Language (DML) is used for searching, inserting, updating, and deleting data, which will be partially covered in this SQL tutorial.
 
+## Relational Database
 
+A relational database is a digital database based on the relational model of data, as proposed by E. F. Codd in 1970.[1] A software system used to maintain relational databases is a relational database management system (RDBMS). Many relational database systems have an option of using the SQL (Structured Query Language) for querying and maintaining the database.
+
+https://en.wikipedia.org/wiki/Relational_database
 
 
 ## SQL Tutorials
 
+https://www.w3schools.com/sql/
+
 
 https://www.guru99.com/sql.html
+
+https://www.tutorialspoint.com/sql/index.htm
+
+https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 ## CloudSQL
 
