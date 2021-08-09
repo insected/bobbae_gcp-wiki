@@ -8,6 +8,13 @@
 
 ### TensorFlow.js
 
+TensorFlow.js is a library for machine learning in JavaScript.
+
+Develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
+
+
+https://www.tensorflow.org/js
+
 Getting started with TensorFlow.js.
 
 [https://www.youtube.com/watch?v=WYvgP9LfvTg](https://www.youtube.com/watch?v=WYvgP9LfvTg)
@@ -16,6 +23,7 @@ Getting started with TensorFlow.js.
 ### TensorFlow Hub
 
 The TensorFlow Hub lets you search and discover hundreds of trained, ready-to-deploy machine learning models in one place.
+Reuse trained models like BERT and Faster R-CNN with just a few lines of code.
 
 [https://tfhub.dev/](https://tfhub.dev/)
 
@@ -25,6 +33,15 @@ The TensorFlow Hub lets you search and discover hundreds of trained, ready-to-de
 ### TensorBoard
 
 Visualizing your model with tensorboard.
+
+TensorBoard provides the visualization and tooling needed for machine learning experimentation:
+
+- Tracking and visualizing metrics such as loss and accuracy
+- Visualizing the model graph (ops and layers)
+- Viewing histograms of weights, biases, or other tensors as they change over time
+- Projecting embeddings to a lower dimensional space
+- Displaying images, text, and audio data
+- Profiling TensorFlow programs
 
 [https://www.youtube.com/watch?v=qEQ-_EId-D0](https://www.youtube.com/watch?v=qEQ-_EId-D0)
 
