@@ -67,23 +67,59 @@ There are some downsides, though. Block storage can be expensive. It has limited
 
 Small Computer System Interface (SCSI, /ˈskʌzi/ SKUZ-ee)[1] is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types; the presence of "unknown" as one of these types means that in theory it can be used as an interface to almost any device, but the standard is highly pragmatic and addressed toward commercial requirements. 
 
+
+https://www.lifewire.com/small-computer-system-interface-scsi-2626002
+
 ### RAID
 
 RAID (/reɪd/; "Redundant Array of Inexpensive Disks" or "Redundant Array of Independent Disks") is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. 
+
+https://searchstorage.techtarget.com/definition/RAID
 
 ### SSD
 
 A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage. It is also sometimes called a solid-state device or a solid-state disk even though SSDs lack the physical spinning disks and movable read–write heads used in hard disk drives (HDDs) and floppy disks.
 
 
+https://www.pcmag.com/news/ssd-vs-hdd-whats-the-difference
 
 ### SAN
 
 A storage area network (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access data storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage. A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
 
-#### Types of SAN
+https://www.snia.org/education/storage_networking_primer/san/what_san
+
+
+### Types of SAN
 
 https://en.wikipedia.org/wiki/Storage_area_network#Network_protocols
+
+
+### Linux Block devices
+
+https://www.dell.com/support/kbdoc/en-us/000132092/ubuntu-linux-terms-for-your-hard-drive-and-devices-explained
+
+#### /dev/sda9
+
+/dev/ is the part in the Unix directory tree that contains all "device" files -- Unix traditionally treats just about everything you can access as a file to read from or write to.
+
+sd originally identified a SCSI device, but since the proliferation of USB (and other removable) data carriers, it became a catch-all for any block device (another Unix term; in this context, anything capable of carrying data) that wasn't already accessible via IDE. When SATA came around, the developers figured it'd be much easier and much more convenient for everyone to add it into the existing framework rather than write a whole new framework.
+
+The letter immediately after sd signifies the order in which it was first found -- a,b,c...z, Aa...Az... etc. (Not that there are many situations in the real world where more than 26 discrete block devices are on the same bus...)
+
+Finally, the number after that signifies the partition on the device. Note that because of the rather haphazard way PCs handle partitioning, there are only four "primary" partitions, so the numbering will be slightly off from the actual count. This isn't a terrible problem as the main purpose for the naming scheme is to have a unique and recognizable identifier for each partition found in this manner
+
+/dev/sda9 means the ninth partition on the first drive.
+
+
+
+#### Linux Logical Volume Manager (LVM)
+
+LVM makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard Drive to the system. LVM does not have redundancy built in. This means in a multi disk system if one disk fails you will have problems. LVM is only working using the automated scheme now.
+
+
+https://opensource.com/business/16/9/linux-users-guide-lvm
+
 
 ## Object Storage
 
@@ -95,6 +131,7 @@ Object storage requires a simple HTTP application programming interface (API), w
 
 There are drawbacks, to be sure. Objects can’t be modified—you have to write the object completely at once. Object storage also doesn’t work well with traditional databases, because writing objects is a slow process and writing an app to use an object storage API isn’t as simple as using file storage.
 
+https://www.netapp.com/data-storage/storagegrid/what-is-object-storage/
 
 ## Compute Engine Disk Options
 
@@ -174,6 +211,20 @@ The [Cloud Storage](https://cloud.google.com/storage) [connector](https://cloud.
 
 [Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) is an open source [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems. It also provides a way for applications to upload and download Cloud Storage objects using standard file system semantics. Cloud Storage FUSE can be run anywhere with connectivity to Cloud Storage, including Google Compute Engine VMs or on-premises systems.
 
+## Encryption at Rest
+
+
+Google uses several layers of encryption to protect customer data at rest in Google Cloud products.
+
+Google Cloud encrypts all customer content stored at rest, without any action required from the customer, using one or more encryption mechanisms.
+
+Data for storage is split into chunks, and each chunk is encrypted with a unique data encryption key. These data encryption keys are stored with the data, encrypted with ("wrapped" by) key encryption keys that are exclusively stored and used inside Google's central Key Management Service. Google's Key Management Service is redundant and globally distributed.
+
+All data stored in Google Cloud is encrypted at the storage level using AES256, with the exception of a small number of Persistent Disks created before 2015 that use AES128.
+
+Google uses a common cryptographic library, Tink, which incorporates our FIPS 140-2 validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. Consistent use of a common library means that only a small team of cryptographers needs to implement and maintain this tightly controlled and reviewed code.
+
+https://cloud.google.com/security/encryption/default-encryption
 
 
 ## Minio
