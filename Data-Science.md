@@ -26,21 +26,33 @@ https://cloud.google.com/architecture/reference-patterns/overview#general_analyt
 These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse range of knowledge and skills  from many disciplines](https://www.explorium.ai/blog/domain-knowledge-in-data-science-are-your-models-ready-for-business/  ). The need to distinguish data engineers from analysts and scientists diminish when faced with such [multi-disciplinary scope](https://winderresearch.com/what-is-data-science/ ) of endeavors. 
 
 
-## AI Building Blocks
+
+
+
+## AI Platform 
+
+[AI Platform](AI-Platform) is a development platform to build AI apps that run on Google Cloud and on-premises. Take your ML projects to production, quickly, and cost-effectively.
+
 
 [AI Platform](AI-Platform) training [with built-in algorithms](https://www.youtube.com/watch?v=IrPXm0DSCWI).
 
 
+## AI Hub
 
-## Machine Learning 
-
-[Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
-
-There are common areas of interests in both Machine Learning Engineering and Data Science.  However, some prefer to focus on the [differences](https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/).  While others prefer to consider Data Scientists engaging in Machine Learning activities, especially as distinctive job functions as opposed to Data Engineering or Data Analytics.
+[AI Hub](AI-Hub)   offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. 
 
 
+## AI Explanations
+
+Intro to Explanations for AI Platform.
+
+[https://www.youtube.com/watch?v=XXvFHqLv9p8](https://www.youtube.com/watch?v=XXvFHqLv9p8)
 
 
+## Document AI
+
+[Unlock insights from documents](https://cloud.google.com/document-ai) with machine learning. Tap into the opportunity offered by your unstructured data to increase operational efficiency, improve customer experience, and inform decision-making. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy. 
+Using [the same deep machine learning technology that powers Google Search](https://www.youtube.com/watch?v=akp0zeI6_6c) and Assistant, Google Cloud’s [natural language products](https://cloud.google.com/solutions/document-ai) enable you to derive valuable insights from your unstructured documents.
 
 ## Dialogflow
 
@@ -49,6 +61,13 @@ There are common areas of interests in both Machine Learning Engineering and Dat
 
 
 
+
+
+## Machine Learning 
+
+[Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+
+There are common areas of interests in both Machine Learning Engineering and Data Science.  However, some prefer to focus on the [differences](https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/).  While others prefer to consider Data Scientists engaging in Machine Learning activities, especially as distinctive job functions as opposed to Data Engineering or Data Analytics.
 
 
 ## AutoML Tables
@@ -78,26 +97,7 @@ There are common areas of interests in both Machine Learning Engineering and Dat
 [Tensorflow](Tensorflow) is an end-to-end open source platform for machine learning. It has a comprehensive ecosystem of tools and libraries 
 to build and deploy ML powered applications.
 
-## AI Platform 
 
-[AI Platform](AI-Platform) is a development platform to build AI apps that run on Google Cloud and on-premises. Take your ML projects to production, quickly, and cost-effectively.
-
-## AI Hub
-
-[AI Hub](AI-Hub)   offers a collection of components for developers and data scientists building artificial intelligence (AI) systems. 
-
-
-## AI Explanations
-
-Intro to Explanations for AI Platform.
-
-[https://www.youtube.com/watch?v=XXvFHqLv9p8](https://www.youtube.com/watch?v=XXvFHqLv9p8)
-
-
-## Document AI
-
-[Unlock insights from documents](https://cloud.google.com/document-ai) with machine learning. Tap into the opportunity offered by your unstructured data to increase operational efficiency, improve customer experience, and inform decision-making. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy. 
-Using [the same deep machine learning technology that powers Google Search](https://www.youtube.com/watch?v=akp0zeI6_6c) and Assistant, Google Cloud’s [natural language products](https://cloud.google.com/solutions/document-ai) enable you to derive valuable insights from your unstructured documents.
 
 
 ## Cloud GPUs
