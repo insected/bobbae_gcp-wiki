@@ -186,7 +186,7 @@ https://www.youtube.com/watch?v=yIYKR4sgzI8
 
 ### K-nearest neighbors
 
-The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. 
+The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 ) (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. 
 
 Many machine learning techniques involve building a model that is capable of representing the data and then finding the optimal parameters for the model to minimize error. [K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/), however, is an example of instance-based learning where we instead simply store the training data and use it to make new predictions.
 
