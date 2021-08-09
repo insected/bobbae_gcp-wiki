@@ -84,6 +84,10 @@ LogFS, another Linux flash-specific file system, is currently being developed to
 
 F2FS (Flash-Friendly File System) was added to the Linux kernel 3.8.[10] Instead of being targeted at speaking directly to raw flash devices, F2FS is designed to be used on flash-based storage devices that already include a flash translation layer, such as SD cards.
 
+##### TRIM
+
+https://en.wikipedia.org/wiki/Trim_(computing)
+
 
 ## Block Storage
 
