@@ -638,7 +638,7 @@ That means while using AutoML might be very convenient, for performance critical
 
 ### Pytorch
 
-[PyTorch](https://pytorch.org/)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
+[PyTorch](PyTorch)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
 
 
 https://www.guru99.com/pytorch-tutorial.html
