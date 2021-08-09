@@ -181,6 +181,22 @@ A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a se
 
 The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general purpose but balanced price / performance, M2, M1 are memory optimized and C2 are compute optimized.
 
+### Available Regions and Zones
+
+https://cloud.google.com/compute/docs/regions-zones
+
+
+### TPU Types and Zones
+
+
+Tensor Processing Units (TPUs) are Google’s custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads. TPUs are designed from the ground up with the benefit of Google’s deep experience and leadership in machine learning.
+
+https://cloud.google.com/tpu/docs/tpus
+
+Available Zones:
+
+https://cloud.google.com/tpu/docs/types-zones
+
 
 ## Windows VM Instances
 
