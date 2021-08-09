@@ -47,6 +47,11 @@ Network-attached storage (NAS) is a file-level (as opposed to block-level storag
 Network File System (NFS) is a distributed file system protocol originally developed by Sun Microsystems.
 There are many versions: https://en.wikipedia.org/wiki/Network_File_System
 
+
+#### NFS Appliance
+
+https://www.netapp.com/atg/publications/publications-file-system-design-for-an-nfs-file-server-appliance-20000024/
+
 ### Many types of filesystems
 
 
@@ -92,6 +97,13 @@ There are some downsides, though. Block storage can be expensive. It has limited
 
 
 https://www.ibm.com/cloud/learn/block-storage
+
+
+### GCP Block storage resources
+
+Block storage resources have different performance characteristics. Consider your [storage size and performance requirements](https://cloud.google.com/compute/docs/disks) to help you determine the correct block storage type for your instances.
+
+
 
 ### SCSI
 
@@ -168,11 +180,87 @@ There are drawbacks, to be sure. Objects can’t be modified—you have to write
 
 https://www.netapp.com/data-storage/storagegrid/what-is-object-storage/
 
+### Google Cloud Storage
+
+GCS is the Object storage for companies of all sizes. Store any amount of data. Retrieve it as often as you’d like.
+
+https://cloud.google.com/storage
+
+### s3
+
+
+
+Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. Amazon S3 can be employed to store any type of object, which allows for uses like storage for Internet applications, backup and recovery, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage.
+
+
+
+#### Minio
+
+[Minio](Minio) is a High Performance Object Storage similar to s3 and GCS.
+
+
+#### b2
+
+https://www.backblaze.com/b2/cloud-storage.html
+
+#### s3 alternatives
+
+https://www.coralnodes.com/amazon-s3-alternatives/
+
+
+### Azure Blob Storage
+
+Azure Blob Storage helps you create data lakes for your analytics needs, and provides storage to build powerful cloud-native and mobile apps. Optimize costs with tiered storage for your long-term data, and flexibly scale up for high-performance computing and machine learning workloads.
+
+### IBM Cloud Object Storage
+
+IBM Cloud Object Storage supports exponential data growth and cloud-native workloads with built-in high-speed file transfer capabilities, cross-region offerings and integrated services. The IBM [Aspera](https://www.ibm.com/cloud/object-storage/aspera) high-speed data transfer option makes it easy to transfer data, and flexible storage class tiers help manage costs while meeting data access needs.
+
+https://www.ibm.com/cloud/object-storage
+
+
+### Ceph
+
+Ceph implements object, block and file storage.
+
+https://ceph.io/en/discover/technology/
+
+#### Ceph Object storage
+
+The Ceph RGW object storage service provides  S3 API compatibility with a robust set of security, tiering, and interoperability features. 
+
+
+https://docs.ceph.com/en/latest/architecture/#ceph-object-storage
+
+
+#### Ceph Block storage
+
+Ceph RBD (RADOS Block Device) block storage stripes virtual disks over objects within a Ceph storage cluster, distributing data and workload across all available devices for extreme scalability and performance. RBD disk images are [thinly provisioned](https://searchstorage.techtarget.com/definition/thin-provisioning), support both read-only snapshots and writable clones, and can be asynchronously mirrored to remote Ceph clusters in other data centers for disaster recovery or backup, making Ceph RBD the leading choice for block storage in public/private cloud and virtualization environments.
+
+https://docs.ceph.com/en/latest/architecture/#ceph-block-device
+
+#### Ceph File Storage
+
+
+
+The Ceph File System (CephFS) is a robust, fully-featured POSIX-compliant distributed filesystem as a service with snapshots, quotas, and multi-cluster mirroring capabilities. CephFS files are striped across objects stored by Ceph for extreme scale and performance. Linux systems can mount CephFS filesystems natively, via a FUSE-based client, or via an NFSv4 gateway.
+
+
+https://docs.ceph.com/en/latest/architecture/#ceph-file-system
+
+
+
+
+
 ## Compute Engine Disk Options
 
-Block storage resources have different performance characteristics. Consider your [storage size and performance requirements](https://cloud.google.com/compute/docs/disks) to help you determine the correct block storage type for your instances.
+
+By default, each Compute Engine instance has a single boot persistent disk (PD) that contains the operating system. When your apps require additional storage space, you can add one or more additional storage options to your instance.
 
 
+https://cloud.google.com/compute/disks-image-pricing#disk
+
+https://cloud.google.com/compute/docs/disks
 
 ## Compute Engine Storage products
 
@@ -260,12 +348,6 @@ All data stored in Google Cloud is encrypted at the storage level using AES256, 
 Google uses a common cryptographic library, Tink, which incorporates our FIPS 140-2 validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. Consistent use of a common library means that only a small team of cryptographers needs to implement and maintain this tightly controlled and reviewed code.
 
 https://cloud.google.com/security/encryption/default-encryption
-
-
-## Minio
-
-[Minio](Minio) is a High Performance Object Storage similar to s3 and GCS.
-
 
 ## Rclone
 
