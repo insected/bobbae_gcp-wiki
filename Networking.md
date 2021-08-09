@@ -89,11 +89,38 @@ A network switch (also called switching hub, bridging hub, and, by the IEEE, MAC
 
 https://en.wikipedia.org/wiki/Network_switch
 
+#### Multi-layer Switch
+
+A multilayer switch (MLS) is a computer networking device that switches on OSI layer 2 like an ordinary network switch and provides extra functions on higher OSI layers.
+
+Switching technologies are crucial to network design, as they allow traffic to be sent only where it is needed in most cases, using fast, hardware-based methods. Switching uses different kinds of network switches. A standard switch is known as a layer 2 switch and is commonly found in nearly any LAN. Layer 3 or layer 4 switches require advanced technology (see managed switch) and are more expensive, and thus are usually only found in larger LANs or in special network environments.
+
+https://en.wikipedia.org/wiki/Multilayer_switch
+
+
+#### Open vSwitch
+
+Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+
+https://en.wikipedia.org/wiki/Open_vSwitch
+
+
+#### Open Compute Project Whitebox Switches
+
+https://www.opencompute.org/wiki/Networking/SpecsAndDesigns
+
 ### Network Router
 
 A router[a] is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.
 
 https://en.wikipedia.org/wiki/Router_(computing)
+
+#### Brouter
+
+A bridge router or brouter[1] is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.[2]
+
+Brouters operate at both the network layer for routable protocols and at the data link layer for non-routable protocols. As networks continue to become more complex, a mix of routable and non-routable protocols has led to the need for the combined features of bridges and routers. Brouters handle both routable and non-routable features by acting as routers for routable protocols and bridges for non-routable protocols. 
+Bridged protocols might propagate throughout the network, but techniques such as filtering and learning might be used to reduce potential congestion. Brouters are used as connecting devices in the networking system, so it acts as a bridge in a network and as a router in an internetwork.
 
 ### Routing Protocols
 
