@@ -23,11 +23,11 @@ These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse ran
 
 [AI Platform](AI-Platform) training [with built-in algorithms](https://www.youtube.com/watch?v=IrPXm0DSCWI).
 
-## Machine Learning
-
-[What](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) is [Machine Learning](Machine-Learning)?
 
 
+## Machine Learning 
+
+[Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
 ## Dialogflow
 
@@ -186,9 +186,7 @@ https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 
 
-## Machine Learning 
 
-[Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
 ## Data Science at Command Line
 
