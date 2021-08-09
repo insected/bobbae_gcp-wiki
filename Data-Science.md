@@ -6,6 +6,10 @@
 [Data Science](https://github.com/ossu/data-science)   is also about finding patterns in data, to make future predictions.
 There are [awesome](https://github.com/academic/awesome-datascience) and [freely available](https://github.com/ossu/data-science) Data Science [curriculum](https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum) that are [online](https://github.com/rowanv/data-science-curriculum).
 
+## Data Engineering
+
+[Data engineers](Data-Engineering) build and maintain the systems that allow data scientists to access and interpret data. The role generally involves creating data models, building data pipelines and overseeing ETL (extract, transform, load).  Some believe that Data scientists build and train predictive models using data after it's been cleaned.  This separation is not always valid and there are overlapping areas in practice.
+
 ## Data Analytics 
 
 What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? In practical terms,  
@@ -118,9 +122,33 @@ Using [the same deep machine learning technology that powers Google Search](http
 
 [Colab](Colab) supports [Jupyter](Jupyter) notebooks allow you to combine executable code and rich text.
 
-## Data Science Qwiklabs
+## Jupyter 
 
-Please take a look and try out the [Data Science Qwiklabs](Data-Science-Qwiklabs).
+[Jupyter](Jupyter) Notebooks combine code, data and visualizations for reproducible analytics.
+
+## Cookiecutter Data Science
+
+[Cookiecutter Data Science template](https://drivendata.github.io/cookiecutter-data-science/) is a logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+
+
+
+
+
+
+## Data Science at Command Line
+
+You may become a more efficient and productive data scientist by teaching you how to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
+
+## Data Lineage
+
+Data lineage uncovers the life cycle of data—it aims to show the complete data flow, from start to finish. Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. This includes all transformations the data underwent along the way—how the data was transformed, what changed, and why.
+
+https://www.keboola.com/blog/data-lineage-tools
+
+## Data Science Tutorial
+
+https://www.guru99.com/data-science-tutorial.html
+
 
 ## Data Science related Math
 
@@ -175,29 +203,7 @@ https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367
 
 https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
-## Jupyter 
 
-[Jupyter](Jupyter) Notebooks combine code, data and visualizations for reproducible analytics.
+## Data Science Qwiklabs
 
-## Cookiecutter Data Science
-
-[Cookiecutter Data Science template](https://drivendata.github.io/cookiecutter-data-science/) is a logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-
-
-
-
-
-
-## Data Science at Command Line
-
-You may become a more efficient and productive data scientist by teaching you how to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
-
-## Data Lineage
-
-Data lineage uncovers the life cycle of data—it aims to show the complete data flow, from start to finish. Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. This includes all transformations the data underwent along the way—how the data was transformed, what changed, and why.
-
-https://www.keboola.com/blog/data-lineage-tools
-
-## Data Science Tutorial
-
-https://www.guru99.com/data-science-tutorial.html
+Please take a look and try out the [Data Science Qwiklabs](Data-Science-Qwiklabs).
