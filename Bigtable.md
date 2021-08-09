@@ -151,6 +151,11 @@ https://etcnotes.com/posts/sstable-and-lsm/
 
 https://cloud.google.com/bigquery/external-data-bigtable
 
+
+## HBase tutorial
+
+https://www.guru99.com/hbase-tutorials.html
+
 ## Qwiklabs
 
 
