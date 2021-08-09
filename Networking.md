@@ -232,7 +232,7 @@ https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
 
 ### Cloud Interconnect
 
-Enterprise-grade connections to your Google VPC backed by industry-leading SLAs. Choose a 10 Gbps or 100 Gbps pipe and connect directly to a Google location with Dedicated Interconnect, or flexible bandwidth options (50 Mbps to 10 Gbps) with Partner Interconnect.
+Enterprise-grade connections to your Google VPC backed by industry-leading SLAs. Choose a 10 Gbps or 100 Gbps pipe and [interconnect](Interconnect) directly to a Google location with Dedicated Interconnect, or flexible bandwidth options (50 Mbps to 10 Gbps) with Partner Interconnect.
 
 
 https://cloud.google.com/network-connectivity/docs/interconnect
