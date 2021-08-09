@@ -22,6 +22,10 @@ https://www.tutorialspoint.com/sql/index.htm
 
 https://www.youtube.com/watch?v=HXV3zeQKqGY
 
+## SQL Examples
+
+https://www.freecodecamp.org/news/sql-example/
+
 ## CloudSQL
 
 [CloudSQL](CloudSQL)  is a fully managed service that makes it easy to set up, manage, and administer relational databases: PostgreSQL, MySQL, and SQL Server.
