@@ -37,6 +37,13 @@ https://cloud.google.com/compute/docs/quickstart-linux
 
 https://cloud.google.com/compute/docs/instances/create-start-instance
 
+
+### Sole tenant nodes
+
+Sole-tenancy lets you have exclusive access to a sole-tenant node, which is a physical Compute Engine server that is dedicated to hosting only your project's VMs. Use sole-tenant nodes to keep your VMs physically separated from VMs in other projects, or to group your VMs together on the same host hardware.
+
+https://cloud.google.com/compute/docs/nodes/provisioning-sole-tenant-vms
+
 ### Preemptible VM
 
 
@@ -44,6 +51,11 @@ A preemptible instance is an instance you can create and run at a much lower pri
 
 https://cloud.google.com/compute/docs/instances/create-start-preemptible-instance
 
+### Reservations
+
+Reservations provide a very high level of assurance in obtaining capacity for Compute Engine zonal resources. For example, use reservations to help ensure that your project has resources for future increases in demand, including: planned or unplanned spikes, migrating a large number of virtual machine (VM) instances, backup and disaster recovery, or planned growth and buffer.
+
+https://cloud.google.com/compute/docs/instances/reservations-overview
 
 ## Creating machine images
 
@@ -62,6 +74,11 @@ https://cloud.google.com/compute/docs/disks/create-root-persistent-disks
 
 https://cloud.google.com/compute/docs/disks/detach-reattach-boot-disk
 
+## Importing and Exporting VM images
+
+You can share virtual machine (VM) instances, virtual disk files, and machine images from other cloud environments or from your on-premises environment by importing and exporting images from Cloud Storage. 
+
+https://cloud.google.com/compute/docs/import/requirements-export-import-images
 
 ### Slurm-GCP
 
@@ -74,19 +91,32 @@ https://github.com/schedmd/slurm-gcp/tree/intel-select
 [https://cloud.google.com/compute/docs/images/](https://cloud.google.com/compute/docs/images/)
 
 
-##### Instance Templates & Groups
+
+## Instance Groups
+
+A managed instance group (MIG) is a group of virtual machine (VM) instances that you control as a single entity. MIGs support features such as autohealing, load balancing, autoscaling, auto-updating, and stateful workloads.
+
+https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances
+
+### Regional MGIs
+
+You can create regional MIGs or zonal MIGs. Regional MIGs provide higher availability compared to zonal MIGs because the instances in a regional MIG are spread across multiple zones in a single region. This document provides information about creating either zonal or regional MIGs. However, regional MIGs have additional options and considerations.
+
+https://cloud.google.com/compute/docs/instance-groups/regional-migs
+
+
+### Instance Templates & Groups
 
 [https://cloud.google.com/compute/docs/instance-templates](https://cloud.google.com/compute/docs/instance-templates)
 
 
-##### Compute Engine AIM roles and permissions
+### Compute Engine AIM roles and permissions
 
 [https://cloud.google.com/compute/docs/access/iam](https://cloud.google.com/compute/docs/access/iam)
 
+## Operating System Details
 
-##### SSH connections to Linux VMs
-
-[https://cloud.google.com/compute/docs/instances/ssh](https://cloud.google.com/compute/docs/instances/ssh)
+[https://cloud.google.com/compute/docs/images/os-details](https://cloud.google.com/compute/docs/images/os-details)
 
 
 ## Securely connecting to VMs
@@ -94,12 +124,14 @@ https://github.com/schedmd/slurm-gcp/tree/intel-select
 [https://cloud.google.com/solutions/connecting-securely](https://cloud.google.com/solutions/connecting-securely)
 
 
-## Operating System Details
+### SSH connections to Linux VMs
 
-[https://cloud.google.com/compute/docs/images/os-details](https://cloud.google.com/compute/docs/images/os-details)
+[https://cloud.google.com/compute/docs/instances/ssh](https://cloud.google.com/compute/docs/instances/ssh)
 
 
-## Managing SSH keys
+
+
+### Managing SSH keys
 
 [https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys](https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys)
 
@@ -111,7 +143,8 @@ https://www.ssh.com/academy/ssh/public-key-authentication
 
 https://www.ssh.com/academy/pki
 
-### Creating snapshots
+
+## Creating snapshots
 
 [https://cloud.google.com/compute/docs/disks/create-snapshots](https://cloud.google.com/compute/docs/disks/create-snapshots)
 
@@ -140,7 +173,7 @@ Each [firewall](  https://cloud.google.com/vpc/docs/firewalls ) rule applies to 
 [https://cloud.google.com/vpc/docs/add-remove-network-tags](https://cloud.google.com/vpc/docs/add-remove-network-tags)
 
 
-#### Machine Types
+## Machine Types
 
 A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a set of virtualized hardware resources available to a virtual machine (VM) instance, including the system memory size, virtual CPU (vCPU) count, and persistent disk limits. In Compute Engine, machine types are grouped and curated by families for different workloads. You can choose from general-purpose, memory-optimized, and compute-optimized families. You must choose a machine type when you [create an instance](https://cloud.google.com/compute/docs/instances/creating-and-starting-an-instance?hl=tr). You can select from a number of predefined machine types in each machine type family. If the predefined machine types do not meet your needs, you can create your own [custom machine types](https://cloud.google.com/compute/docs/machine-types?hl=tr#custom_machine_types). To compare machine type performance, see [CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms?hl=tr).
 
