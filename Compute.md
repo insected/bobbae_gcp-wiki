@@ -167,8 +167,7 @@ The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general pur
 
 ### Where to run my code? Deciding between GCE, GKE, App Engine
 
-https://www.youtube.com/watch?v=XcHE5V82OxM
-
+https://www.youtube.com/watch?v=2tLXKCgqwLY
 
 
 ## Qwiklabs
