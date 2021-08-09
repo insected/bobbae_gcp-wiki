@@ -258,10 +258,13 @@ Network and security telemetry is fundamental to operate your deployments in pub
 
 [VPN](VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
+https://en.wikipedia.org/wiki/Virtual_private_network
+
 ## Network Security
 
 Network [Security](Security) consists of the policies, processes and practices adopted to prevent, detect and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources.
 
+https://en.wikipedia.org/wiki/Network_security
 
 ## Qwiklabs
 
