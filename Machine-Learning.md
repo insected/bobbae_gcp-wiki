@@ -367,6 +367,16 @@ Instance-based learning algorithms use the whole dataset as the model. One insta
 
 A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called deep neural networks. In deep neural network learning (or, simply, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
 
+## Characteristics of a machine learning model
+
+https://subscription.packtpub.com/book/data/9781838820299/1/ch01lvl1sec03/characteristics-of-a-machine-learning-model
+
+https://www.malicksarr.com/type-of-machine-learning-algorithms-the-complete-overview/
+
+https://serokell.io/blog/machine-learning-algorithm-classification-overview
+
+https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0a
+
 
 ## Natural Language Processing
 
