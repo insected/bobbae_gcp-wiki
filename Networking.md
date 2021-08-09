@@ -167,18 +167,91 @@ The CDN provider typically determines the optimal server selection based on the 
 
 [https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket](https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket)
 
+## VPN
+
+[VPN](VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+
+https://en.wikipedia.org/wiki/Virtual_private_network
+
+## VLAN
+
+A [virtual LAN](VLAN) (VLAN) is any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2).
+
+## BGP
+
+Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet. BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
+
+
+https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+
+## MPLS
+
+
+Multiprotocol Label Switching (MPLS) is a routing technique in telecommunications networks that directs data from one node to the next based on short path labels rather than long network addresses, thus avoiding complex lookups in a routing table and speeding traffic flows. The labels identify virtual links (paths) between distant nodes rather than endpoints. MPLS can encapsulate packets of various network protocols, hence the "multiprotocol" reference on its name. MPLS supports a range of access technologies, including [T1/E1](https://en.wikipedia.org/wiki/Digital_Signal_1), [ATM](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode), [Frame Relay](Frame Relay), and [DSL](https://en.wikipedia.org/wiki/Digital_subscriber_line).
+
+https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
+
 
 ## Hybrid Connectivity
 
 [https://cloud.google.com/hybrid-connectivity](https://cloud.google.com/hybrid-connectivity)
 
+### Cloud Interconnect
 
-## Cloud Interconnect
+Enterprise-grade connections to your Google VPC backed by industry-leading SLAs. Choose a 10 Gbps or 100 Gbps pipe and connect directly to a Google location with Dedicated Interconnect, or flexible bandwidth options (50 Mbps to 10 Gbps) with Partner Interconnect.
+
+
+https://cloud.google.com/network-connectivity/docs/interconnect
+
+### Cloud VPN
+
+Connect your on-premises or other public cloud networks to your Google VPC securely over the internet through IPsec VPN at a low cost for your data bandwidth needs up to 3.0 Gbps. High availability VPN offers the best SLA in the industry, with a guaranteed uptime of 99.99%.
+
+
+https://cloud.google.com/network-connectivity/docs/vpn
+
+
+### Cloud Interconnect
 
 [Interconnect](Interconnect) extends your on-premises network to Google's network through a highly available, low latency connection. 
 
+### Peering with Google
+
+Access Google and Google Cloud features over VPN or the internet, while cutting egress fees. If you can meet Google's requirements, connect directly with Direct Peering, or choose a partner with Carrier Peering.
+
+#### Direct Peering
+
+Direct Peering enables you to establish a direct peering connection between your business network and Google's edge network and exchange high-throughput cloud traffic.
+
+This capability is available at any of more than 100 locations in 33 countries around the world. For more information about Google's edge locations, see Google's peering site.
+
+https://cloud.google.com/network-connectivity/docs/direct-peering
+
+#### Carrier Peering 
+
+Carrier Peering enables you to access Google applications, such as Google Workspace, by using a service provider to obtain enterprise-grade network services that connect your infrastructure to Google.
+
+When connecting to Google through a service provider, you can get connections with higher availability and lower latency, using one or more links. Work with your service provider to get the connection that you need.
+
+https://cloud.google.com/network-connectivity/docs/carrier-peering
 
 
+#### Partner Interconnect
+
+Partner Interconnect provides connectivity between your on-premises network and your Virtual Private Cloud (VPC) network through a supported service provider. A Partner Interconnect connection is useful if your data center is in a physical location that can't reach a Dedicated Interconnect colocation facility, or your data needs don't warrant an entire 10-Gbps connection.
+
+
+
+https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview
+
+
+#### VLAN and Interconnect
+
+https://cloud.google.com/network-connectivity/docs/interconnect/support/faq#interconnect-attachments
+
+#### BGP and MPLS
+
+https://cloud.google.com/network-connectivity/docs/interconnect/support/faq#self-mpls-vpn
 
 
 ## Cloud Load Balancing
@@ -254,11 +327,8 @@ Network and security telemetry is fundamental to operate your deployments in pub
 
 [https://www.youtube.com/watch?v=H9UoE_cWIEY](https://www.youtube.com/watch?v=H9UoE_cWIEY)
 
-## VPN
 
-[VPN](VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
-https://en.wikipedia.org/wiki/Virtual_private_network
 
 ## Network Security
 
