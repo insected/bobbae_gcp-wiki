@@ -343,6 +343,45 @@ Network [Security](Security) consists of the policies, processes and practices a
 
 https://en.wikipedia.org/wiki/Network_security
 
+## LAN
+
+A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building. By contrast, a wide area network (WAN) not only covers a larger geographic distance, but also generally involves leased telecommunication circuits.
+
+Ethernet and Wi-Fi are the two most common technologies in use for local area networks. Historical network technologies include [ARCNET](https://en.wikipedia.org/wiki/ARCNET), [Token Ring](https://en.wikipedia.org/wiki/Token_Ring), and [AppleTalk](https://en.wikipedia.org/wiki/AppleTalk).
+
+
+https://en.wikipedia.org/wiki/Local_area_network
+
+
+## WAN
+
+A wide area network (WAN) is a telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits.
+
+Businesses, as well as schools and government entities, use wide area networks to relay data to staff, students, clients, buyers and suppliers from various locations across the world. In essence, this mode of telecommunication allows a business to effectively carry out its daily function regardless of location. The Internet may be considered a WAN.
+
+
+https://en.wikipedia.org/wiki/Wide_area_network
+
+## NAT
+
+Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. 
+
+The technique was originally used to avoid the need to assign a new address to every host when a network was moved, or when the upstream Internet service provider was replaced, but could not route the networks address space. It has become a popular and essential tool in conserving global address space in the face of IPv4 address exhaustion. One Internet-routable IP address of a NAT gateway can be used for an entire private network.
+
+https://en.wikipedia.org/wiki/Network_address_translation
+
+
+## Firewall
+
+A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+
+
+GCP Firewall rules are defined at the network level, and only apply to the network where they are created; however, the name you choose for each of them must be unique to the project.
+
+A firewall rule can contain either IPv4 or IPv6 ranges, but not both.
+
+https://cloud.google.com/vpc/docs/using-firewalls
+
 ## Underlay network
 
 Underlay network is closer to the physical layer. It includes switches, routers, VLANs and so on. It is the basis on which overlay networks are built. It tends to be less scalable due to technical limitations. However, since it’s closer to the actual hardware, it is slightly faster than an overlay.
