@@ -243,7 +243,7 @@ Try the [Data Loss Prevention Qwik Start lab](http://bit.ly/2QmSZsr).
 With [VPC Service Controls](https://cloud.google.com/vpc-service-controls/docs), administrators can define a security perimeter around resources of Google-managed services to control communication to and between those services.
 
 
-VPC Service Controls enables you to establish security perimeters around sensitive data in Google Cloud Platform services such as [Google Cloud Storage](https://cloud.google.com/storage) and [BigQuery](BigQuery). 
+[VPC](VPC) Service Controls enables you to establish security perimeters around sensitive data in Google Cloud Platform services such as [Google Cloud Storage](https://cloud.google.com/storage) and [BigQuery](BigQuery). 
 
 [https://www.youtube.com/watch?v=EXwJFL24QzY](https://www.youtube.com/watch?v=EXwJFL24QzY)
 
