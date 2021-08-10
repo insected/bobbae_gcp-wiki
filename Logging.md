@@ -35,6 +35,12 @@ Using sinks, you can route some or all of your logs to supported destinations or
 
 https://cloud.google.com/logging/docs/export
 
+
+[[https://cloud.google.com/logging/docs/images/logs-router-image.png]]
+
+https://cloud.google.com/logging/docs/routing/overview
+
+
 ### Supported destinations
 
 https://cloud.google.com/logging/docs/export#supported-destinations
