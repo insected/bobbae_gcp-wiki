@@ -13,6 +13,10 @@ https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
 
+## Architecture
+
+https://panoply.io/data-warehouse-guide/bigquery-architecture/
+
 ## No Index
 
 Each time BigQuery executes a query, it executes [a full-column scan](https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned. You can achieve this by using partition filters based on PARTITIONTIME or PARTITIONDATE.
