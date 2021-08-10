@@ -19,6 +19,14 @@ You may also [fill out a form](https://inthecloud.withgoogle.com/partner-trainin
 
 If you do not get Qwiklab's credit, do not worry. You can still learn using Qwiklabs content by using the real GCP account.  You can either use GCP free tier (https://cloud.google.com/free) or a normal GCP account billed separately.
 
+### Quickstarts
+
+https://cloud.google.com/s/results?q=quickstart
+
+### Tutorials
+
+https://cloud.google.com/s/results?q=tutorial
+
 ### Codelabs
 
 [Codelabs](https://codelabs.developers.google.com/) provide a guided, step-by-step learning experience on a wide range of topics on GCP.
