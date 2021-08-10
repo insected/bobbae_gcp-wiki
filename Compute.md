@@ -85,9 +85,13 @@ https://cloud.google.com/compute/docs/import/requirements-export-import-images
 
 ### Slurm-GCP
 
+[Slurm](https://slurm.schedmd.com/overview.html) is an open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters.
+
 https://cloud.google.com/compute/docs/instances/create-intel-select-solution-hpc-clusters#create_intel_select_solution_verified_clusters_using_slurm-gcp
 
-https://github.com/schedmd/slurm-gcp/tree/intel-select
+
+
+
 
 ## Public & Custom Images
 
