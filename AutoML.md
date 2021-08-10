@@ -115,7 +115,7 @@ You might want to work directly in the AutoML Tables interface if you have alrea
 
 ### Transparency and Logging
 
-You can view the structure of your AutoML Tables model using Cloud Logging. In Logging, you can see the final model hyperparameters as well as the hyperparameters and objective values used during model validation.
+You can view the structure of your AutoML Tables model using [Cloud Logging](Logging). In Logging, you can see the final model hyperparameters as well as the hyperparameters and objective values used during model validation.
 
 
 
