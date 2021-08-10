@@ -22,9 +22,12 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 ### Compute Engine
 
-[Compute Engine](  https://cloud.google.com/compute/docs  ) lets you create and run virtual machines on Google infrastructure. [Compute Engine offers scale](  https://cloud.google.com/compute/docs/tutorials  ), performance, and value that lets you easily launch large compute clusters on [Google's infrastructure](  https://en.wikipedia.org/wiki/Google_Compute_Engine ). 
+[Compute Engine](  https://cloud.google.com/compute/docs  ) lets you create and run virtual machines on Google infrastructure. Compute Engine offers scale, performance, and value that lets you easily launch large compute clusters on [Google's infrastructure](  https://en.wikipedia.org/wiki/Google_Compute_Engine ). 
+
+## GCE Tutorials
 
 
+https://cloud.google.com/compute/docs/tutorials
 
 ## Quickstart using a Linux VM
 
