@@ -7,6 +7,11 @@ To have your API managed by Cloud Endpoints, you have three options, depending o
 - Cloud Endpoints for [gRPC](GRPC)
 - Cloud Endpoints Frameworks for the App Engine standard environment
 
+## Choosing Endpoints options
+
+https://cloud.google.com/endpoints/docs/choose-endpoints-option
+
+
 ## OpenAPI
 
 Cloud Endpoints is an [API management system](https://cloud.google.com/endpoints/docs/openapi) that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. Endpoints works with the Extensible Service Proxy (ESP) and the Extensible Service Proxy V2 (ESPv2) to provide API management. You can find out more about Endpoints, ESP, and ESPv2 in About Endpoints.
