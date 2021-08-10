@@ -49,5 +49,14 @@ Google Cloud VPC Network Peering allows [internal IP address](https://cloud.goog
 
 [Shared VPC](https://cloud.google.com/vpc/docs/how-to#vpc-network-sharing-and-peering) allows you to export subnets from a [VPC network](https://cloud.google.com/vpc/docs/vpc) in a host project to other service projects in the same [organization](https://cloud.google.com/resource-manager/docs/creating-managing-organization). Instances in the service projects can have network connections in the shared subnets of the host project. 
 
+## VPC Service Controls
 
+
+VPC Service Controls improves your ability to mitigate the risk of data exfiltration from Google Cloud services such as Cloud Storage and BigQuery. You can use VPC Service Controls to create perimeters that protect the resources and data of services that you explicitly specify.
+
+
+VPC Service Controls provides an extra layer of security defense for Google Cloud services that is independent of Identity and Access Management (IAM). While IAM enables granular identity-based access control, VPC Service Controls enables broader context-based perimeter security, including controlling data egress across the perimeter. We recommend using both VPC Service Controls and IAM for defense in depth.
+
+
+https://cloud.google.com/vpc-service-controls/docs/overview
 
