@@ -1,4 +1,4 @@
-Structured Query Language (SQL) is the standard language for data manipulation in a DBMS. In in simple words its used to talk to the data in a DBMS. Following are types of SQL Statements:
+[Structured Query Language](   https://en.m.wikipedia.org/wiki/SQL ) (SQL) is the standard language for data manipulation in a DBMS. In in simple words its used to talk to the data in a DBMS. Following are types of SQL Statements:
 
 - [Data Definition Language](https://en.wikipedia.org/wiki/Data_definition_language) (DDL) allows you to create objects like Schemas, Tables in the database
 - [Data Control Language](https://en.wikipedia.org/wiki/Data_control_language) (DCL) allows you to manipulate and manage access rights on database objects
