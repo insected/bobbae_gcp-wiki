@@ -150,7 +150,7 @@ For example, if the normal range is [0, 1], then you can set the missing value e
 
 ## Training Datasets
 
-Once you have got your annotated dataset, the first thing you do is you shu e the examples and split the dataset into three subsets: training, validation, and test.
+Once you have got your annotated dataset, the first thing you do is you shue the examples and split the dataset into three subsets: training, validation, and test.
 
 The training set is usually the biggest one, and you use it to build the model. 
 
@@ -186,7 +186,7 @@ Even the simplest model, such as linear, can overfit the data. That usually happ
 
 Such a complex model will most likely predict poorly the labels of the hold-out examples. This is because by trying to perfectly predict labels of all training examples, the model will also learn the idiosyncrasies of the training set: the noise in the values of features of the training examples, the sampling imperfection due to the small dataset size, and other artifacts extrinsic to the decision problem in hand but present in the training set.
 
-Regularization is an umbrella-term that encompasses methods that force the learning algorithm to build a less complex model. In practice, that often leads to slightly higher bias but significantly reduces the variance. This problem is known in the literature as the bias-variance tradeoff .
+Regularization is an umbrella-term that encompasses methods that force the learning algorithm to build a less complex model. In practice, that often leads to slightly higher bias but significantly reduces the variance. This problem is known in the literature as the bias-variance tradeoff.
 
 The two most widely used types of regularization are called L1 regularization and L2 regularization. The idea is quite simple. To create a regularized model, we modify the objective function by adding a penalizing term whose value is higher when the model is more complex.
 
@@ -442,7 +442,7 @@ Because CNNs were invented with image processing in mind, I explain them on the 
 
 [Recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/) are good  for learning from sequential data.
 
-Recurrent neural networks (RNNs) are used to label, classify, or generate sequences. A sequence is a matrix, each row of which is a feature vector and the order of rows matters. Labeling a sequence means predicting a class to each feature vector in a sequence. Classifying a sequence means predicting a class for the entire sequence. Generating a sequence means to output another sequence (of a possibly di erent length) somehow relevant to the input sequence.
+Recurrent neural networks (RNNs) are used to label, classify, or generate sequences. A sequence is a matrix, each row of which is a feature vector and the order of rows matters. Labeling a sequence means predicting a class to each feature vector in a sequence. Classifying a sequence means predicting a class for the entire sequence. Generating a sequence means to output another sequence (of a possibly dierent length) somehow relevant to the input sequence.
 
 RNNs are often used in text processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. For the same reason, recurrent neural networks are also used in speech processing.
 
@@ -622,7 +622,7 @@ Video Intelligence includes several options that you can use to integrate machin
 
 ### Cloud Natural Language API
 
-The Cloud Natural Language API provides natural language understanding technologies to developers, including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis. This API is part of the larger Cloud Machine Learning API family.
+The [Cloud Natural Language API](https://cloud.google.com/natural-language) provides natural language understanding technologies to developers, including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis. This API is part of the larger Cloud Machine Learning API family.
 
 [https://cloud.google.com/natural-language/docs](https://cloud.google.com/natural-language/docs)
 
@@ -684,7 +684,7 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 ## Difference between AutoML and Cloud Natural language API
 
-Google AutoML Natural Language is much more powerful than the Natural Language API because it allows the user to train models that are customized for their specific dataset and domain.
+Google [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) is much more powerful than the [Natural Language API](https://cloud.google.com/natural-language) because it allows the user to train models that are customized for their specific dataset and domain.
 
 It is as easy to use and doesn’t require machine learning knowledge. The two downsides are the higher costs and the necessity of providing a high-quality dataset that needs to train models that perform well.
 
@@ -693,7 +693,7 @@ The AutoML beta supports only three NLP tasks for now (classification, sentiment
 
 ### Natural Language API 
 
-The Google Natural Language API is an easy to use interface to a set of powerful NLP models which have been pre-trained by Google to perform various tasks. As these models have been trained on enormously large document corpuses, their performance is usually quite good as long as they are used on datasets that do not make use of a very idiosyncratic language.
+The [Google Natural Language API](https://cloud.google.com/natural-language) is an easy to use interface to a set of powerful NLP models which have been pre-trained by Google to perform various tasks. As these models have been trained on enormously large document corpuses, their performance is usually quite good as long as they are used on datasets that do not make use of a very idiosyncratic language.
 
 The biggest advantage of using these pre-trained models via the API is, that no training dataset is needed. The API allows the user to immediately start making predictions, which can be very valuable in situations where little labeled data is available.
 
@@ -707,11 +707,11 @@ The Natural Language API comprises five different services:
 * Entity Sentiment Analysis
 * Text Classification
 
-The major advantage of the Google Natural Language API is its ease of use. No machine learning skills are required and almost no coding skills. On the Google Cloud website, you can find code snippets for calling the API for a lot of languages.
+The major advantage of the Google [Natural Language API](https://cloud.google.com/natural-language) is its ease of use. No machine learning skills are required and almost no coding skills. On the Google Cloud website, you can find code snippets for calling the API for a lot of languages.
 
 
 
-The Google Natural Language API is a very convenient option for quick, out-of-the-box solutions. Very little technical knowledge and no understanding of the underlying machine learning models is required.
+The Google [Natural Language API](https://cloud.google.com/natural-language) is a very convenient option for quick, out-of-the-box solutions. Very little technical knowledge and no understanding of the underlying machine learning models is required.
 
 The main disadvantage is its inflexibility and the lack of access to the models. The models cannot be tuned to a specific task or dataset.
 
@@ -719,7 +719,7 @@ In a real-world environment, most tasks will probably require a more tailored so
 
 ### AutoML Natural Language
 
-If the Natural Language API is not flexible enough for your business purposes, then AutoML Natural Language might be the right service. AutoML is a new Google Cloud Service (still in beta) that enables the user to create customized machine learning models. In contrast to the Natural Language API, the AutoML models will be trained on the user’s data and therefore fit a specific task.
+If the [Natural Language API](https://cloud.google.com/natural-language) is not flexible enough for your business purposes, then [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) might be the right service. AutoML is a new Google Cloud Service (still in beta) that enables the user to create customized machine learning models. In contrast to the Natural Language API, the AutoML models will be trained on the user’s data and therefore fit a specific task.
 
 Custom machine learning models for classifying content are useful when the predefined categories that are available from the Natural Language API are too generic or not applicable to your specific use case or knowledge domain.
 
