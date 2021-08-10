@@ -26,6 +26,28 @@ The way a client uses a gRPC API is by following these three steps:
 
 - Use a code-generated stub to make the call, passing the parameter values
 
+### Remote Procedure Call
+
+In distributed computing, a remote procedure call (RPC) is when a computer program causes a procedure (subroutine) to execute in a different address space (commonly on another computer on a shared network), which is coded as if it were a normal (local) procedure call, without the programmer explicitly coding the details for the remote interaction. That is, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote.
+
+https://en.wikipedia.org/wiki/Remote_procedure_call
+
+## Protocol Buffers
+
+
+Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read structured data to and from a variety of data streams and using a variety of languages.
+
+https://developers.google.com/protocol-buffers/
+
+### Thrift, XDR, Avro, MessagePack, BSON, etc.
+
+https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/
+
+https://en.wikipedia.org/wiki/External_Data_Representation
+
+https://stellar.stackexchange.com/questions/271/why-did-the-project-settle-on-xdr-for-external-data-serialisation
+
+
 ## When to use REST vs. gRPC
 
 https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
