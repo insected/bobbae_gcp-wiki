@@ -121,6 +121,12 @@ Normalization is the process of converting an actual range of values which a num
 feature can take, into a standard range of values, typically in the interval [≠1, 1] or [0, 1].
 For example, suppose the natural range of a particular feature is 350 to 1450. By subtracting 350 from every value of the feature, and dividing the result by 1100, one can normalize those values into the range [0, 1].
 
+
+
+
+By [normalizing](https://www.jeremyjordan.me/batch-normalization/) all of our inputs to a standard scale, we're allowing the network to more quickly learn the optimal parameters for each input node.
+
+
 ### Standardization
 
 Standardization (or z-score normalization) is the procedure during which the feature values are rescaled so that they have the properties of a standard normal distribution with μ = 0 and ‡ = 1, where μ is the mean (the average value of the feature, averaged over all examples in the dataset) and ‡ is the standard deviation from the mean.
@@ -142,6 +148,55 @@ For example, if the normal range is [0, 1], then you can set the missing value e
 
 
 
+## Training Datasets
+
+Once you have got your annotated dataset, the first thing you do is you shu e the examples and split the dataset into three subsets: training, validation, and test.
+
+The training set is usually the biggest one, and you use it to build the model. 
+
+The validation and test sets are roughly the same sizes, much smaller than the size of the training set. The learning algorithm cannot use examples from these two subsets to build a model. That is why those two sets are often called hold-out sets.
+
+There’s no optimal proportion to split the dataset into these three subsets. In the past, the rule of thumb was to use 70% of the dataset for training, 15% for validation and 15% for testing. However, in the age of big data, datasets often have millions of examples. In such cases, it could be reasonable to keep 95% for training and 2.5%/2.5% for validation/testing.
+
+You may wonder, what is the reason to have three sets and not one. The answer is simple: when we build a model, what we do not want is for the model to only do well at predicting labels of examples the learning algorithms has already seen. A trivial algorithm that simply memorizes all training examples and then uses the memory to “predict” their labels will make no mistakes when asked to predict the labels of the training examples, but such an algorithm would be useless in practice. What we really want is that our model predicts well examples that the learning algorithm didn’t see. So we want good performance on a hold-out set.
+
+
+## Underfitting and Overfitting
+
+If the model makes many mistakes on the training data, we say that the model has a high bias or that the model underfits. So, underfitting is the inability of the model to predict well the labels of the data it was trained on. There could be several reasons for underfitting, the most important of which are:
+
+- your model is too simple for the data (for example a linear model can often underfit)
+- the features you engineered are not informative enough
+
+Overfitting is another problem a model can exhibit. The model that overfits predicts very well the training data but poorly the data from at least one of the two hold-out sets. I already gave an illustration of overfitting in Chapter 3. Several reasons can lead to overfitting, the most important of which are:
+
+- your model is too complex for the data (for example a very tall decision tree or a very deep or wide neural network often overfit)
+- you have too many features but a small number of training examples
+
+
+Many of the modern advancements in neural networks have been a result of stacking many hidden layers.
+
+This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/) our data. 
+
+
+
+## Regularization
+
+Even the simplest model, such as linear, can overfit the data. That usually happens when the data is high-dimensional, but the number of training examples is relatively low. In fact, when feature vectors are very high-dimensional, the linear learning algorithm can build a model that assigns non-zero values to most dimensions w(j) in the parameter vector w, trying to find very complex relationships between all available features to predict labels of training examples perfectly.
+
+Such a complex model will most likely predict poorly the labels of the hold-out examples. This is because by trying to perfectly predict labels of all training examples, the model will also learn the idiosyncrasies of the training set: the noise in the values of features of the training examples, the sampling imperfection due to the small dataset size, and other artifacts extrinsic to the decision problem in hand but present in the training set.
+
+Regularization is an umbrella-term that encompasses methods that force the learning algorithm to build a less complex model. In practice, that often leads to slightly higher bias but significantly reduces the variance. This problem is known in the literature as the bias-variance tradeoff .
+
+The two most widely used types of regularization are called L1 regularization and L2 regularization. The idea is quite simple. To create a regularized model, we modify the objective function by adding a penalizing term whose value is higher when the model is more complex.
+
+In practice, L1 regularization produces a sparse model, a model that has most of its parameters (in case of linear models, most of w(j)) equal to zero. So L1 makes feature selection by deciding which features are essential for prediction and which are not. That can be useful in case you want to increase model explainability. 
+
+However, if your only goal is to maximize the performance of the model on the hold-out data, then L2 usually gives better results. L2 also has the advantage of being differentiable, so gradient descent can be used for optimizing the objective function.
+
+L1 and L2 regularization methods are also combined in what is called elastic net regularization with L1 and L2 regularizations being special cases. You can find in the literature the name ridge regularization for L2 and lasso for L1.
+
+
 
 ## Evaluation of Models
 
@@ -156,6 +211,8 @@ Accuracy is necessarily relevant or good way of evaluating a model. Accuracy is 
 Accuracy may be useful when errors in predicting all classes are equally important.  In case of spam/not spam this may not be the case. You would tolerate false positives less than false negatives.  A false positive may mean you don't get an important email.  False negative is no big deal, even though it is annoying to get a spam.
 
 Accuracy can be not useful when all classes not not equally important. Predicting click stream can be biased because of very few real positive clicks per rendered pages. In other words, almost no clicks can be the norm. In that case, a model that is 99.999% accurate can be created by simply returning "no click" as answer every time.
+
+Accuracy is a useful metric when errors in predicting all classes are equally important. In case of the spam/not spam, this may not be the case. For example, you would tolerate false positives less than false negatives. A false positive in spam detection is the situation in which your friend sends you an email, but the model labels it as spam and doesn’t show you. On the other hand, the false negative is less of a problem: if your model doesn’t detect a small percentage of spam messages, it’s not a big deal.
 
 ### Confusion Matrix
 
@@ -371,24 +428,23 @@ One of the key hyperparameters to set in order to train a neural network is the 
 
 If your learning rate is set too low, training will progress very slowly as you are making very tiny updates to the weights in your network. However, if your learning rate is set too high, it can cause undesirable divergent behavior in your loss function. 
 
-### Overfitting
-
-Many of the modern advancements in neural networks have been a result of stacking many hidden layers.
-This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/) our data. 
-
-
-### Normalization
-
-By [normalizing](https://www.jeremyjordan.me/batch-normalization/) all of our inputs to a standard scale, we're allowing the network to more quickly learn the optimal parameters for each input node.
-
 
 ### Convolutional Neural Networks
 
-[Convolutional neural networks](https://www.jeremyjordan.me/convolutional-neural-networks/) are used heavily in image recognition applications of machine learning. Convolutional neural networks provide an advantage over feed-forward networks because they are capable of considering locality of features.
+[CNN](https://www.jeremyjordan.me/convolutional-neural-networks/) are used heavily in image recognition applications of machine learning. Convolutional neural networks provide an advantage over feed-forward networks because they are capable of considering locality of features.
+
+A convolutional neural network (CNN) is a special kind of FFNN that significantly reduces the number of parameters in a deep neural network with many units without losing too much in the quality of the model. CNNs have found applications in image and text processing where they beat many previously established benchmarks.
+
+Because CNNs were invented with image processing in mind, I explain them on the image classification example.
+
 
 ### Recurrent Neural Networks
 
 [Recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/) are good  for learning from sequential data.
+
+Recurrent neural networks (RNNs) are used to label, classify, or generate sequences. A sequence is a matrix, each row of which is a feature vector and the order of rows matters. Labeling a sequence means predicting a class to each feature vector in a sequence. Classifying a sequence means predicting a class for the entire sequence. Generating a sequence means to output another sequence (of a possibly di erent length) somehow relevant to the input sequence.
+
+RNNs are often used in text processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. For the same reason, recurrent neural networks are also used in speech processing.
 
 
 ## Reinforcement Learning
@@ -397,6 +453,9 @@ By [normalizing](https://www.jeremyjordan.me/batch-normalization/) all of our in
 
 
 Reinforcement learning is a method of learning where we teach the computer to perform some task by providing it with feedback as it performs actions. This is different from supervised learning in that we don't explicitly provide correct and incorrect examples of how the task should be completed, we simply tell the computer when it is doing a good job along the way. Reinforcement learning is also distinct from unsupervised learning because we are providing the computer with some level of feedback, even if we aren't providing explicit examples.
+
+Reinforcement learning is a subfield of machine learning where the machine “lives” in an environment and is capable of perceiving the state of that environment as a vector of features. The machine can execute actions in every state. Different actions bring different rewards and could also move the machine to another state of the environment. The goal of a reinforcement learning algorithm is to learn a policy. A policy is a function f (similar to the model in supervised learning) that takes the feature vector of a state as input and outputs an optimal action to execute in that state. The action is optimal if it maximizes the expected average reward.
+
 
 ### Markov Decision Process
 
