@@ -46,7 +46,29 @@ Traffic Director supports more types of deployments than a typical service mesh.
 
 https://cloud.google.com/traffic-director/docs/overview#beyond_service_mesh
 
+
+With Traffic Director, you get application networking that works across Kubernetes clusters. In the following diagram, Traffic Director provides the control plane for Kubernetes clusters in us-central1 and europe-west1. Requests can be routed among the three services in us-central1, among the two services in europe-west1, and between services in the two clusters.
+
 [[https://cloud.google.com/traffic-director/images/multi-cluster-service-mesh.svg]]
+
+
+Kubernetes is becoming increasingly popular, but many workloads are deployed to virtual machine (VM) instances. Traffic Director solves application networking for these workloads, too; your VM-based workloads easily interoperate with your Kubernetes-based workloads.
+
+In the following diagram, traffic enters your deployment through External HTTP(S) Load Balancing. It is routed to Service A in the Kubernetes cluster in asia-southeast1 and to Service D on a VM in europe-west1.
+
+
+
+[[https://cloud.google.com/traffic-director/images/vms-kubernetes.svg]]
+
+
+gRPC is a feature-rich open source RPC framework that you can use to write high-performance microservices. With Traffic Director, you can easily bring application networking capabilities (such as service discovery, load balancing, and traffic management) to your gRPC applications. For more information, see [Traffic Director and gRPC—proxyless services for your service mesh](https://cloud.google.com/blog/products/networking/traffic-director-supports-proxyless-grpc).
+
+In the following diagram, gRPC applications route traffic to services based in Kubernetes clusters in one region and to services running on VMs in different regions. Two of the services include sidecar proxies, and the others are proxyless.
+
+
+[[https://cloud.google.com/traffic-director/images/proxyless-grpc.svg]]
+
+
 
 ## Apps supported
 
