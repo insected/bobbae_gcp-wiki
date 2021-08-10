@@ -1,3 +1,6 @@
+https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
+
+
 As most software developers no doubt know, there are two primary models for API design: RPC and REST. Regardless of model, most modern APIs are implemented by mapping them in one way or another to the same HTTP protocol. It has also become common for RPC API designs to adopt one or two ideas from HTTP while staying within the RPC model, which has increased the range of choices that an API designer faces. This post tries to explain the choices, and give guidance on how to choose between them.
 
 gRPC is a technology for implementing RPC APIs that uses HTTP 2.0 as its underlying transport protocol. You might expect that gRPC and HTTP would be mutually exclusive, since they are based on opposite conceptual models. gRPC is based on the Remote Procedure Call (RPC) model, in which the addressable entities are procedures, and the data is hidden behind the procedures. HTTP works the inverse way. In HTTP, the addressable entities are “data entities” (called “resources” in the HTTP specifications), and the behaviors are hidden behind the data—the behavior of the system results from creating, modifying, and deleting resources.
