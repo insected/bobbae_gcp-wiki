@@ -3,6 +3,11 @@
 Discuss different types of storage devices and methods.  What are block devices? What is a filesystem in the traditional sense, for example ext4 in Linux kernel?  What are networked file systems?  How do they compare to Google Cloud filesystem?  What is a SAN?  What are disk arrays, RAID, hard disk vs. SSD?
 
 
+## Google Storage Products
+
+
+https://cloud.google.com/products/storage
+
 ## Compute Engine Storage options
 
 Compute Engine offers several types of [storage options](https://cloud.google.com/products/storage) for your instances. Each of the following storage options has unique price and performance characteristics:
