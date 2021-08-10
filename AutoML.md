@@ -57,7 +57,11 @@ https://cloud.google.com/translate/automl/docs
 
 AutoML Tables helps to  build and deploy  machine learning models on structured data at speed and scale.
 
+AutoML Tables helps you create clean, effective training data by providing information about missing data, correlation, cardinality, and distribution for each of your features. And because there's no charge for importing your data and viewing information about it, you don't incur charges from AutoML Tables until you start training your model.
+
 https://cloud.google.com/automl-tables/docs
+
+
 
 <img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/e8d92904ce53ae0d52b13ef6dd9f2fcd0dc7eba15dbae833fc6ba69fb2cc9883.svg" width="800">
 
@@ -65,9 +69,30 @@ https://cloud.google.com/automl-tables/docs
 
 https://cloud.google.com/automl-tables/docs/beginners-guide
 
+https://cloud.google.com/automl-tables/docs/samples
+
+
 ### AutoML Tables Quickstart
 
 https://cloud.google.com/automl-tables/docs/quickstart
+
+
+### AutoML Feature Engineering
+
+When you kick off training, AutoML Tables automatically performs common feature engineering tasks for you, including:
+
+- Normalize and bucketize numeric features.
+- Create one-hot encoding and embeddings for categorical features.
+- Perform basic processing for text features.
+- Extract date- and time-related features from Timestamp columns.
+
+There is a list of common requirements for training data that AutoML Tables automatically does for you. You do not need to include these calculations in your training data. In fact, if you perform these transformations yourself and include them in your training data, you might decrease the quality of the resulting model.
+
+https://cloud.google.com/automl-tables/docs/data-best-practices#tables-does
+
+### Model training
+
+When you kick off training for your model, AutoML Tables takes your dataset and starts training for multiple model architectures at the same time. This approach enables AutoML Tables to determine the best model architecture for your data quickly, without having to serially iterate over the many possible model architectures.  Using your training and validation sets, AutoML determine the best model architecture for your data. 
 
 ### Using AutoML Tables from BigQuery
 
@@ -75,9 +100,69 @@ You can use AutoML Tables directly from [BigQuery](BigQuery) SQL.
 
 https://towardsdatascience.com/the-best-of-both-worlds-calling-auto-ml-from-bigquery-9dfd433a45d6
 
+#### Choosing between AutoML Tables and BigQueryML
+
+
+You might want to use BigQuery ML if you are more focused on rapid experimentation or iteration with what data to include in the model and want to use simpler model types for this purpose (such as logistic regression).
+
+You might want to work directly in the AutoML Tables interface if you have already finalized the data, and you:
+
+- Are optimizing for maximizing model quality (accuracy, low RMSE, and so on) without needing to manually do feature engineering, model selection, ensembling, and so on.
+
+- Are willing to wait longer to attain that model quality. AutoML Tables takes at least an hour to train a model, because it experiments with many modeling options. BigQuery ML potentially returns models in minutes because it sticks with the model architectures and parameter values and ranges you set.
+
+- Have a wide variety of feature inputs (beyond numbers and classes) that would benefit from the additional automated feature engineering that AutoML Tables provides.
+
+### Transparency and Logging
+
+You can view the structure of your AutoML Tables model using Cloud Logging. In Logging, you can see the final model hyperparameters as well as the hyperparameters and objective values used during model validation.
+
+
+
+
+
+### Using Cloud Logging to view AutoML Tables model
+
+Using [Cloud Logging](Logging), you can see the final model hyperparameters as well as the hyperparameters and object values used during model training and tuning.
+
+Activity logs are structured as described in the LogEntry type documentation.
+
+
+https://cloud.google.com/automl-tables/docs/logging
+
+AutoML Tables model logs have, among other fields:
+
+- automl_tables as the value of the log_type field
+- jsonPayload that contains the specific details of the log entry
+- timestamp that describes when the model was created
+
+#### Payload contents
+
+The contents of a log entry are provided in JSON object format and are stored in the jsonPayload field.
+
+- modelStructure
+- trainingObjectivePoint	
+
 ### List of Hyperparameters
 
+The hyperparameter data provided in the logs differ for each type of model. The following sections describe the hyperparameters for each model type.
+
 https://cloud.google.com/automl-tables/docs/logging#hps
+
+### Working with long-running operations
+
+
+When you make an API call that takes a long time to complete, the initial call returns right away, even though the operation is still running. There are some helper methods you can use to determine the status of a long-running operation.
+
+AutoML Tables sends project owners an email when long-running operations are complete.
+
+
+
+https://cloud.google.com/automl-tables/docs/long-operations
+
+### Explainability
+
+You can export your test set, along with the predictions your model made. This capability gives you insight into how your model is performing on individual rows of training data. Examining your test set and its results can help you understand what types of predictions your model performs poorly on, and might provide clues into how you can improve your data for a higher-quality model.
 
 ### AutoML Tables example
 
