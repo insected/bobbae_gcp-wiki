@@ -7,17 +7,6 @@ Cloud Endpoints is an [API management system](https://cloud.google.com/endpoints
 
 
 
-## GRPC
-
-[gRPC](https://grpc.io/) is a high performance, open-source universal RPC framework, developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and services.
-
-One of the primary benefits of using gRPC is for documentation; you can use your service configuration and API interface definition files to generate reference documentation for your API. 
-
-With Endpoints for gRPC, you can use the API management capabilities of Endpoints to add an API console, monitoring, hosting, tracing, authentication, and more to your gRPC services. In addition, once you specify special mapping rules, ESP and ESPv2 translate RESTful JSON over HTTP into gRPC requests. This means that you can deploy a gRPC server managed by Endpoints and call its API using a gRPC or JSON/HTTP client, giving you much more flexibility and ease of integration with other systems.
-
-[[https://cloud.google.com/endpoints/docs/images/grpc-endpoints.png]]
-
-https://cloud.google.com/endpoints/docs/grpc/about-grpc
 
 ## App Engine Standard
 
