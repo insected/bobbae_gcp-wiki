@@ -14,3 +14,12 @@ https://cloud.google.com/sql/docs/postgres
 Database Migration Service (DMS) makes it easy to migrate your production databases to Cloud SQL with minimal downtime. This serverless offering eliminates the manual hassle of provisioning, managing, and monitoring migration-specific resources. DMS leverages the native replication capabilities of MySQL and PostgreSQL to maximize the fidelity and reliability of your migration. And it’s available at no additional charge for native like-to-like migrations to Cloud SQL.
 
 https://cloud.google.com/database-migration
+
+
+## High Availability
+
+The purpose of an HA configuration is to reduce downtime when a zone or instance becomes unavailable. This might happen during a zonal outage, or when an instance becomes corrupted. With HA, your data continues to be available to client applications.
+
+
+https://cloud.google.com/sql/docs/mysql/high-availability
+
