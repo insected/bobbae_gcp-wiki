@@ -1,4 +1,4 @@
-[Cloud SQL](https://cloud.google.com/sql ) is a fully managed service that makes it easy to set up, manage, and administer relational databases: PostgreSQL, MySQL, and SQL Server.
+[Cloud SQL](https://cloud.google.com/sql ) is a fully managed service that makes it easy to set up, manage, and administer relational databases: [PostgreSQL](, MySQL, and SQL Server.
 
 
 ## CloudSQL for MySQL
