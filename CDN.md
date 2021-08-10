@@ -38,3 +38,4 @@ CDN is an umbrella term spanning different types of content delivery services: v
 
 https://cdncomparison.com/
 
+https://en.m.wikipedia.org/wiki/Content_delivery_network
