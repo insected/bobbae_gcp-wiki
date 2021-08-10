@@ -205,6 +205,31 @@ Available Zones:
 https://cloud.google.com/tpu/docs/types-zones
 
 
+## GPU
+
+Compute Engine provides graphics processing units (GPUs) that you can add to your virtual machine (VM) instances. You can use these GPUs to accelerate specific workloads on your instances such as machine learning and data processing.
+
+https://cloud.google.com/compute/docs/gpus
+
+Compute Engine provides NVIDIA® GPUs for your instances in passthrough mode so that your virtual machine instances have direct control over the GPUs and their associated memory.
+
+
+### GPU regions and zones
+
+
+https://cloud.google.com/compute/docs/gpus/gpu-regions-zones
+
+
+### Creating VMs with attached GPUs
+
+https://cloud.google.com/compute/docs/gpus/create-vm-with-gpus
+
+### Running TensorFlow inference workloads with TensorRT5 and NVIDIA T4 GPU
+
+
+https://cloud.google.com/compute/docs/tutorials/ml-inference-t4
+
+
 ## Windows VM Instances
 
 
