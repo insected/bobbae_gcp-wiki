@@ -11,6 +11,43 @@ In Istio environments, Traffic Director provides a GCP-managed Pilot for your se
 
 Traffic Director delivers traffic management and multi-region global load balancing for service meshes built using open proxies like Envoy and through the open xDSv2 APIs. It provides policy driven traffic routing, enabling you to control the flow of traffic between services. All of this makes load balancing, scaling, A/B testing, canary roll outs, and blue-green deployments easy  to set up. Traffic Director also provides centralized high fidelity health checking, and traffic driven autoscaling. Envoy-based Layer 7 Internal Load Balancing (L7 ILB), another flavor of Traffic Director, brings modern traffic management capabilities to traditional environments. With L7 ILB, Traffic Director controls a pool of GCP-managed Envoy proxies under the hood but presents this service as a traditional Layer 7 ILB middle proxy to front your legacy apps. 
 
+## Beyond Service Mesh
+
+A common pattern for solving application networking challenges is to use a service mesh. Traffic Director supports service mesh and many other deployment patterns that fit your needs.
+
+
+
+[[https://cloud.google.com/traffic-director/images/service-mesh.svg]]
+
+In a typical service mesh, the following is true:
+
+- You deploy your services to a Kubernetes cluster.
+- Each of the services' Pods has a dedicated proxy (usually Envoy) running as a sidecar proxy.
+- Each sidecar proxy talks to the networking infrastructure (a control plane) that is installed in your cluster. The control plane tells the sidecar proxies about services, endpoints, and policies in your service mesh.
+- When a Pod sends or receives a request, the request goes to the Pod's sidecar proxy. The sidecar proxy handles the request, for example, by sending it to its intended destination.
+- In the diagrams in this document, the six-sided pink icons represent proxies. The control plane is connected to each proxy and provides information that the proxies need to handle requests. Arrows between boxes show traffic flows. For example, application code in Service A sends a request. The proxy handles the request and forwards it to Service B.
+
+This model enables you to move networking logic out of your application code. You can focus on delivering business value while letting your infrastructure take care of application networking.
+
+
+
+Traffic Director works similarly to that model, but it's different in important ways. It all starts with the fact that Traffic Director is a Google Cloud-managed service. You don't install it, it doesn't run in your cluster, and you don't need to maintain it.
+
+In the following diagram, Traffic Director is the control plane. There are four services in this Kubernetes cluster, each with sidecar proxies that are connected to Traffic Director. Traffic Director provides the information that the proxies need to route requests. For example, application code on a Pod that belongs to Service A sends a request. The sidecar proxy running alongside this Pod handles the request and routes it to a Pod that belongs to Service B.
+
+
+[[https://cloud.google.com/traffic-director/images/service-mesh-td.svg]]
+
+https://cloud.google.com/traffic-director/docs/overview#how_is_different
+
+Traffic Director supports more types of deployments than a typical service mesh.
+
+
+
+https://cloud.google.com/traffic-director/docs/overview#beyond_service_mesh
+
+[[https://cloud.google.com/traffic-director/images/multi-cluster-service-mesh.svg]]
+
 ## Apps supported
 
 Traffic Director supports VM-based, Kubernetes and GKE apps.
