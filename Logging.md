@@ -1,5 +1,9 @@
 Cloud Logging is a fully managed service that allows you to store, search, analyze, monitor, and alert on logging data and events from Google Cloud and Amazon Web Services. You can collect logging data from over 150 common application components, on-premises systems, and hybrid cloud systems.
 
+## Concepts
+
+https://cloud.google.com/logging/docs/concepts
+
 ## Logs Explorer
 
 Cloud Logging has introduced a new version of its interface for analyzing logs data, the Logs Explorer. It is more responsive and introduces new features for letting you quickly and efficiently retrieve, view, and analyze logs from your queries.
@@ -9,6 +13,7 @@ While the Logs Explorer is being enhanced, the Legacy Logs Viewer will continue 
 
 
 https://cloud.google.com/logging/docs/view/logs-viewer-interface
+
 
 
 ### Dashboard
@@ -92,15 +97,34 @@ https://cloud.google.com/logging/docs/view/building-queries
 
 ## Log Router
 
+Cloud Logging receives log entries through the Cloud Logging API where they pass through the Log Router. The sinks in the Log Router check each log entry against existing inclusion and exclusion filters that determine if the log entry should be sent to storage destinations, including in Cloud Logging buckets, or excluded entirely from ingestion by Cloud Logging. You can use sinks to route logs to multiple destinations.
+
+To reliably route logs, the Log Router also stores the logs temporarily, which buffers against temporary disruptions on any sink. Note that the Log Router's temporary storage is distinct from the longer term storage provided by Logging buckets.
+
 https://cloud.google.com/logging/docs/routing/overview
 
 ## Ops Agent
+
+
+The Ops Agent is the primary agent for collecting telemetry from your Compute Engine instances. Combining logging and metrics into a single agent, the Ops Agent uses [Fluent Bit](https://fluentbit.io/) for logs, which supports high-throughput logging, and the [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/) for metrics.
 
 https://cloud.google.com/logging/docs/agent/ops-agent
 
 ## Logs based metrics
 
+Logs-based metrics are based on the content of log entries. For example, the metrics can record the number of log entries containing particular messages, or they can extract latency information reported in log entries. You can use logs-based metrics in Cloud Monitoring charts and alerting policies.
+
 https://cloud.google.com/logging/docs/logs-based-metrics
+
+## Logs based alerts
+
+You can use log-based alerts to notify you whenever a specific message appears in your included logs. This document describes how to do the following:
+
+- Create and test a log-based alert.
+- Edit a log-based alert.
+- Delete a log-based alert.
+
+https://cloud.google.com/logging/docs/alerting/log-based-alerts
 
 ## Routing logs
 
