@@ -32,7 +32,9 @@ Cloud CDN works with external HTTP(S) Load Balancing to deliver content to your 
 
 https://cloud.google.com/cdn/docs/using-cdn
 
-## CDN Comparison
+## Types of CDN
+
+CDN is an umbrella term spanning different types of content delivery services: video streaming, software downloads, web and mobile content acceleration, licensed/managed CDN, transparent caching, and services to measure CDN performance, load balancing, Multi CDN switching and analytics and cloud intelligence. CDN vendors may cross over into other industries like security, with DDoS protection and web application firewalls (WAF), and WAN optimization.
 
 https://cdncomparison.com/
 
