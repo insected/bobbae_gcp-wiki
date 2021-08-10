@@ -76,7 +76,20 @@ F2FS (Flash-Friendly File System) was added to the Linux kernel 3.8.[10] Instead
 
 https://en.wikipedia.org/wiki/Trim_(computing)
 
+### Filestore
 
+[Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud (GCP) for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters.
+
+
+
+You can create and manage [Filestore](https://cloud.google.com/filestore/docs) instances by using the Google Cloud Console or the gcloud command-line tool, and interact with the NFS file share on the instance by using standard operating system commands.
+
+
+
+
+#### Backups
+
+[Filestore Backups](https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups)  eases migration of file-based apps to cloud
 ## Block Storage
 
 Block storage chops data into blocks and stores them as separate pieces. Each block of data is given a unique identifier, which allows a storage system to place the smaller pieces of data wherever is most convenient. That means that some data can be stored in a Linux® environment and some can be stored in a Windows unit.
@@ -263,32 +276,6 @@ Companies have a [wide range of options to choose from when storing data and sel
 Discuss how traditional [storage models compare to the cloud](https://cloud.google.com/compute/docs/disks) counterparts. 
 
 
-## Cloud Storage
-
-[This video walks you through](https://www.youtube.com/watch?v=TfOO-fSzTNA) how to upload a file and share it on Google Cloud Storage. 
-
-
-
-How do  different [types of buckets impact](https://www.youtube.com/watch?v=nCTiVwnnEhQ) your performance? 
-
-### Basic gsutil examples
-
-https://cloud.google.com/storage/docs/working-with-big-data
-
-### Using buckets to host a static website
-
-https://cloud.google.com/storage/docs/hosting-static-website
-
-https://cloud.google.com/storage/docs/static-website
-
-### GCS Tutorials
-
-https://cloud.google.com/architecture#/?q=cloud_storage
-
-
-## Storage Classes
-
-The [storage class](https://cloud.google.com/storage/docs/storage-classes) you set for an object affects the object's availability and [pricing model](https://cloud.google.com/storage/pricing).
 
 
 
@@ -301,30 +288,10 @@ The [storage class](https://cloud.google.com/storage/docs/storage-classes) you s
 
 [Local SSDs](https://cloud.google.com/local-ssd) are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
 
-## Filestore
-
-[Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud (GCP) for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters.
-
-
-
-You can create and manage [Filestore](https://cloud.google.com/filestore/docs) instances by using the Google Cloud Console or the gcloud command-line tool, and interact with the NFS file share on the instance by using standard operating system commands.
 
 
 
 
-## Backups
-
-[Filestore Backups](https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups)  eases migration of file-based apps to cloud
-
-
-## Cloud Storage Connector
-
-The [Cloud Storage](https://cloud.google.com/storage) [connector](https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage) is an [open source Java library](https://github.com/GoogleCloudDataproc/hadoop-connectors/tree/master/gcs) that lets you run [Apache Hadoop](https://hadoop.apache.org/) or [Apache Spark](https://spark.apache.org/) jobs directly on data in Cloud Storage, and offers a number of benefits over choosing the Hadoop Distributed File System (HDFS).
-
-
-## Cloud Storage FUSE
-
-[Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) is an open source [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems. It also provides a way for applications to upload and download Cloud Storage objects using standard file system semantics. Cloud Storage FUSE can be run anywhere with connectivity to Cloud Storage, including Google Compute Engine VMs or on-premises systems.
 
 ## Encryption at Rest
 
