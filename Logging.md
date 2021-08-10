@@ -32,6 +32,10 @@ https://cloud.google.com/logging/docs/reference/api-overview
 
 ### Client libraries
 
+Cloud Logging client libraries are idiomatic interfaces around the API. Client libraries provide an integration option with Logging, in addition to the [Logging agent](https://cloud.google.com/logging/docs/agent) available by default in most Google Cloud services. To learn more about setting up Logging using a language runtime, see [Setting up Language Runtimes](https://cloud.google.com/logging/docs/setup).
+
+
+
 https://cloud.google.com/logging/docs/reference/libraries
 
 ### Exporting Logs in the API
@@ -54,9 +58,33 @@ Cloud Logging provides every Cloud project with the _Required and _Default log b
 
 https://cloud.google.com/logging/docs/buckets
 
-### Managing Log buckets
+### User defined Log buckets
 
-https://cloud.google.com/logging/docs/buckets
+By applying log sinks to your user-defined log buckets, you can route any subset of your logs to any log bucket, letting you choose which Cloud project your logs are stored in and which other logs are stored with them.
+
+For example, for any log generated in Project-A, you can configure a sink to route that log to user-defined buckets in Project-A or Project-B.
+
+https://cloud.google.com/logging/docs/storage#user-buckets
+
+## Policy
+
+https://cloud.google.com/resource-manager/docs/organization-policy/overview
+
+### Resource locations restriction
+
+https://cloud.google.com/resource-manager/docs/organization-policy/defining-locations
+
+#### Regionalization
+
+https://cloud.google.com/logging/docs/storage#regionalization
+
+#### Regionalized logs
+
+https://cloud.google.com/logging/docs/regionalized-logs
+
+### Custom retention for buckets
+
+https://cloud.google.com/logging/docs/buckets#custom-retention
 
 ## Queries
 
@@ -102,6 +130,8 @@ Cloud Logging provides two predefined log sinks for each Google Cloud project: _
 
 Log sinks act independently of each other. Regardless of how the predefined log sinks process your log entries, you can create your own log sinks to route some or all of your logs to various supported destinations or to exclude them entirely from being stored by Cloud Logging.
 
+https://cloud.google.com/logging/docs/api/tasks/exporting-logs#introduction_to_sinks
+
 ### How sinks work
 
 All log entries written to the Cloud Logging API pass through the Log Router. Every time a log entry arrives in a Cloud project, folder, billing account, or organization resource, Logging compares the log entry to the filters of the sinks associated with the resource.
@@ -134,3 +164,40 @@ https://cloud.google.com/logging/docs/how-to#code-samples
 ## How-to
 
 https://cloud.google.com/logging/docs/how-to
+
+
+## Aggregation
+
+A common way to manage your logs is to aggregate them from across your organization into a single log bucket. This guide walks through this process, using the example of aggregating all audit logs.
+
+This process involves the following steps:
+
+- Creating the log bucket for storing the aggregated logs.
+
+- Creating the sink at the organization level to route the logs to the new logs bucket.
+
+- Configuring read access to the new log bucket.
+
+- Searching logs from the Logs Explorer page.
+
+
+https://cloud.google.com/logging/docs/central-log-storage
+
+
+## GKE Multi-tenant logging
+
+https://cloud.google.com/stackdriver/docs/solutions/gke/multi-tenant-logging
+
+
+## Data Governance
+
+https://cloud.google.com/resources/data-governance-logs-best-practices-whitepaper
+
+
+## Compliance
+
+https://services.google.com/fh/files/misc/whitepaper_data_governance_logs_how_to.pdf
+
+#### Regionalized logs
+
+https://cloud.google.com/logging/docs/regionalized-logs
