@@ -98,7 +98,7 @@ A managed instance group (MIG) is a group of virtual machine (VM) instances that
 
 https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances
 
-### Regional MGIs
+### Regional MIGs
 
 You can create regional MIGs or zonal MIGs. Regional MIGs provide higher availability compared to zonal MIGs because the instances in a regional MIG are spread across multiple zones in a single region. This document provides information about creating either zonal or regional MIGs. However, regional MIGs have additional options and considerations.
 
