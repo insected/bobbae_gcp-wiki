@@ -61,7 +61,7 @@ In the following diagram, traffic enters your deployment through External HTTP(S
 [[https://cloud.google.com/traffic-director/images/vms-kubernetes.svg]]
 
 
-gRPC is a feature-rich open source RPC framework that you can use to write high-performance microservices. With Traffic Director, you can easily bring application networking capabilities (such as service discovery, load balancing, and traffic management) to your gRPC applications. For more information, see [Traffic Director and gRPC—proxyless services for your service mesh](https://cloud.google.com/blog/products/networking/traffic-director-supports-proxyless-grpc).
+[gRPC](GRPC) is a feature-rich open source RPC framework that you can use to write high-performance microservices. With Traffic Director, you can easily bring application networking capabilities (such as service discovery, load balancing, and traffic management) to your gRPC applications. For more information, see [Traffic Director and gRPC—proxyless services for your service mesh](https://cloud.google.com/blog/products/networking/traffic-director-supports-proxyless-grpc).
 
 In the following diagram, gRPC applications route traffic to services based in Kubernetes clusters in one region and to services running on VMs in different regions. Two of the services include sidecar proxies, and the others are proxyless.
 
