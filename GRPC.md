@@ -1,9 +1,9 @@
 
 
-gRPC is a technology for implementing RPC APIs that uses HTTP 2.0 as its underlying transport protocol. 
+[gRPC](https://grpc.io/) is a technology for implementing RPC APIs that uses HTTP 2.0 as its underlying transport protocol. 
 
 
-[gRPC](https://grpc.io/) is a high performance, open-source universal RPC framework, developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and services.
+GRPC is a high performance, open-source universal RPC framework, developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and services.
 
 One of the primary benefits of using gRPC is for documentation; you can use your service configuration and API interface definition files to generate reference documentation for your API. 
 
