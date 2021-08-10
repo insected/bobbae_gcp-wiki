@@ -6,6 +6,10 @@
 
 [Different ways to upload your data.](https://www.youtube.com/watch?v=nmZxfuFIP08)
 
+## Google Storage Products
+
+
+https://cloud.google.com/products/storage
 
 
 ## GFS, Colossus
