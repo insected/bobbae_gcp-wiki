@@ -62,6 +62,12 @@ The term GitOps was [first coined by Weaveworks](https://www.weave.works/blog/gi
 
 [https://github.com/weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 
+
+#### GitOps style continuous delivery with Cloud Build
+
+https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
+
+
 ### KubeStack
 
 Terraform [GitOps Framework](https://www.kubestack.com/).
@@ -89,6 +95,7 @@ Many tools available: Jenkins X, Tekton, Docker, Helm, Skaffold, ChartMuseum, Kn
 
 Building Kubernetes applications can require spending a lot of time on building containers, deploying them, and waiting to see changes. 
 
+
 ### Skaffold
 
 Skaffold handles the workflow for building, pushing and deploying your application.
@@ -103,6 +110,10 @@ https://skaffold.dev/
 Jenkins is one of the most popular CI systems in the world. 
 
 [https://www.youtube.com/watch?v=IDoRWieTcMc](https://www.youtube.com/watch?v=IDoRWieTcMc)
+
+Running Jenkins on Kubernetes.
+
+https://cloud.google.com/architecture/jenkins-on-kubernetes-engine-tutorial
 
 ### JenkinsX
 
@@ -120,6 +131,9 @@ Build a container based CI/CD pipeline leveraging Google Cloud Platform  tools a
 
 [https://www.youtube.com/watch?v=DQIu373gSKU](https://www.youtube.com/watch?v=DQIu373gSKU)
 
+#### Automating Canary Analysis on Google Kubernetes Engine with Spinnaker
+
+https://cloud.google.com/architecture/automated-canary-analysis-kubernetes-engine-spinnaker
 
 ### ArgoCD
 
