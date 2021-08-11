@@ -12,15 +12,6 @@ $['store']['book'][0]['title']
 
 for input pathes. Internal or output pathes will always be converted to the more general bracket–notation.
 
-JSONPath allows the wildcard symbol * for member names and array indices. It borrows the descendant operator '..' from E4X and the array slice syntax proposal [start:end:step] from ECMASCRIPT 4.
-
-Expressions of the underlying scripting language (<expr>) can be used as an alternative to explicit names or indices as in
-
-$.store.book[(@.length-1)].title
-
-using the symbol '@' for the current object. Filter expressions are supported via the syntax ?(<boolean expr>) as in
-
-$.store.book[?(@.price < 10)].title
 
 ## Example
 
