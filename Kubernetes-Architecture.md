@@ -451,6 +451,13 @@ https://kubernetes.io/docs/concepts/cluster-administration/addons/
 
 [JSONPath](JSONPath) is a query language for JSON, similar to XPath for XML. 
 
+[Kubectl](https://kubernetes.io/docs/reference/kubectl/) supports JSONPath template.
+
+JSONPath template is composed of JSONPath expressions enclosed by curly braces {}. Kubectl uses JSONPath expressions to filter on specific fields in the JSON object and format the output. 
+
+https://kubernetes.io/docs/reference/kubectl/jsonpath/
+
+
 ## Operator Sprawl
 
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
