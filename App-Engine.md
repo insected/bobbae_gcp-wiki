@@ -100,6 +100,10 @@ In contrast, the flexible environment runs your application in Docker containers
 [https://cloud.google.com/appengine/docs/flexible/go/flexible-for-standard-users](https://cloud.google.com/appengine/docs/flexible/go/flexible-for-standard-users)
 
 
+## Choosing an App Engine environment
+
+https://cloud.google.com/appengine/docs/the-appengine-environments
+
 ## Running App Engine Apps on GKE
 
 
