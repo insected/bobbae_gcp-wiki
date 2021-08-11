@@ -72,7 +72,7 @@ Cloudify is an open-source TOSCA-based orchestration framework based on YAML.
 
 https://cloudify.co/
 
-### NFV, VNF, SDN, TOSCA 
+### MANO, NFV, VNF, SDN, TOSCA 
 
 
 https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-automation/
