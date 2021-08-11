@@ -54,7 +54,7 @@ https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0c
 
 https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078
 
-## ClusterIP, [Ingress](https://www.youtube.com/watch?v=GhZi4DxaxxE), NodePort, Load Balancer
+## ClusterIP, Ingress, NodePort, Load Balancer
 
 It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer).
 
