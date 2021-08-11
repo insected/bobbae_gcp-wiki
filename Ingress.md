@@ -88,6 +88,16 @@ https://liejuntao001.medium.com/some-details-about-how-kubernetes-ingress-contro
 
 An Ingress controller is bootstrapped with some load balancing policy settings that it applies to all Ingress, such as the load balancing algorithm, backend weight scheme, and others. More advanced load balancing concepts (e.g. persistent sessions, dynamic weights) are not yet exposed through the Ingress. You can instead get these features through the load balancer used for a Service.
 
+## Ingress and Load balancer
+
+In GKE, an Ingress object defines rules for routing HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects, each of which is associated with a set of Pods. To learn more about how Ingress exposes applications using Services, see Service networking overview.
+
+When you create an Ingress object, the [GKE Ingress controller](https://github.com/kubernetes/ingress-gce) creates a [Google Cloud HTTP(S) Load Balancer](https://cloud.google.com/load-balancing/docs/https) and configures it according to the information in the Ingress and its associated Services.
+
+To use Ingress, you must have the HTTP [load balancing](Load-Balancer) add-on enabled. GKE clusters have HTTP load balancing enabled by default; you must not disable it.
+
+
+
 ## Alternatives
 
 
