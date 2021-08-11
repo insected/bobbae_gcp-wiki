@@ -71,6 +71,8 @@ IP routing is the field of routing methodologies of Internet Protocol (IP) packe
 
 https://en.wikipedia.org/wiki/IP_routing
 
+https://en.wikipedia.org/wiki/Routing_table
+
 ### DNS
 
 The [Domain Name System](DNS) (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
