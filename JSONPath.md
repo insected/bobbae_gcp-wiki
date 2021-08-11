@@ -75,7 +75,7 @@ Given JSON structure:
 |//*	|$..*	|all Elements in XML document. All members of JSON structure.|
 
 
-## jq
+# jq
 
 [jq](https://stedolan.github.io/jq/) is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 
@@ -106,4 +106,8 @@ In general, given a stream of JSON entities as input, jq will produce a stream o
 https://github.com/stedolan/jq/wiki/For-JSONPath-users
 
 
+
+# jp
+
+[jp](https://github.com/bobbae/jp) is a program that can be used to grok json at the command line via path expressions. 
 
