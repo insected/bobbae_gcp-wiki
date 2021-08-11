@@ -1,4 +1,18 @@
-Linux has rich virtual networking capabilities that are used as basis for hosting VMs and containers, as well as cloud environments. In this post, I will give a brief introduction to all commonly used virtual network interface types. 
+[VLANs](  https://en.m.wikipedia.org/wiki/Virtual_LAN ) allow network administrators to group hosts under the same switch or between different switches.
+
+The protocol most commonly used today to support VLANs is [IEEE 802.1Q]( https://en.m.wikipedia.org/wiki/IEEE_802.1Q   ).
+
+VLANs work by applying tags to network frames and handling these tags in networking systems – creating the appearance and functionality of network traffic that is physically on a single network but acts as if it is split between separate networks. In this way, VLANs can keep network applications separate despite being connected to the same physical network, and without requiring multiple sets of cabling and networking devices to be deployed.
+
+
+## Virtual Networking 
+
+
+]Network Virtualization](  https://www.vmware.com/topics/glossary/content/network-virtualization ) is a process of logically grouping physical networks and making them operate as single or multiple independent networks called Virtual Networks.
+
+For example, [VMware NSX Data Center](    https://docs.vmware.com/en/VMware-NSX-Data-Center-for-vSphere/index.html  ) is a network virtualization platform that delivers networking and security components like firewalling, switching, and routing that are defined and consumed in software.
+
+Linux also has rich virtual networking capabilities that are used as basis for hosting VMs and containers, as well as cloud environments.  
 
 
 
@@ -26,7 +40,7 @@ Similar a bonded interface, the purpose of a team device is to provide a mechani
 
 ## VLAN
 
-A VLAN, aka virtual LAN, separates broadcast domains by adding tags to network packets. VLANs allow network administrators to group hosts under the same switch or between different switches.
+A VLAN, aka virtual LAN, separates broadcast domains by adding tags to network packets. 
 
 [[https://developers.redhat.com/blog/wp-content/uploads/2018/10/vlan_01.png]]
 
