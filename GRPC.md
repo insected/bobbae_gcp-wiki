@@ -69,3 +69,6 @@ https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi
 
 https://cloud.google.com/endpoints/docs/grpc/tutorials
 
+## Python GRPC Microservices
+
+https://realpython.com/python-microservices-grpc/
