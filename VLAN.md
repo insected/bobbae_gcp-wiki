@@ -18,6 +18,11 @@ Linux also has rich virtual networking capabilities that are used as basis for h
 
 https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
 
+
+### NFV, VNF, SDN
+
+https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-automation/
+
 ## OVS
 
 [Open vSwitch](https://www.openvswitch.org/), sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
