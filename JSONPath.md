@@ -73,3 +73,37 @@ Given JSON structure:
 |//book[isbn]	|$..book[?(@.isbn)]|	filter all books with isbn number|
 |//book[price<10]	|$..book[?(@.price<10)]	|filter all books cheapier than 10|
 |//*	|$..*	|all Elements in XML document. All members of JSON structure.|
+
+
+## jq
+
+[jq](https://stedolan.github.io/jq/) is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+
+The syntax used by `jq` is not JSONPath.  It is a custom syntax.  https://stedolan.github.io/jq/manual/
+
+jq, while being more powerful than JSONPath, nevertheless enables one to write queries that are usually as simple as, and sometimes even simpler than, the corresponding JSONPath queries.  
+
+For example, the XPath expression:
+```
+/store/book[1]/title
+```
+would look like this in JSONPath:
+```
+$.store.book[0].title
+```
+and like this in [JSON Pointer](https://tools.ietf.org/html/rfc6901):
+```
+/store/book/0/title
+```
+and like this in jq:
+```
+.store.book[0].title
+```
+One important point about jq here is that jq is stream-oriented: the jq expression shown above can be run not just against a single object, but also against a stream of objects.  
+
+In general, given a stream of JSON entities as input, jq will produce a stream of outputs. The input entities may be any mix of any JSON types, not just objects or arrays.
+
+https://github.com/stedolan/jq/wiki/For-JSONPath-users
+
+
+
