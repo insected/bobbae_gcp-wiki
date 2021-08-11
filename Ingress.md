@@ -6,6 +6,29 @@
 
 <img src="https://vocon-it.com/wp-content/uploads/2019/10/2019-10-11-19_53_51-Kubernetes-Ingress-Google-Zeichnungen.png" width="600">
 
+
+## GCP Ingress
+
+### Ingress for GKE
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/ingress
+
+
+### Ingress for External HTTP(S) Load Balancing
+
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/ingress-xlb
+
+
+### Ingress for Internal HTTP(S) Load Balancing
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/ingress-ilb
+
+
+### Multi cluster ingress
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/multi-cluster-ingress
+
 ## GCP Network Endpoint Groups
 
 In GCP, a Network Endpoint Group (NEG) is a configuration object that specifies a group of backend endpoints or services. 
