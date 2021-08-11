@@ -11,7 +11,13 @@ Based on an IDC report prediction, the global data volume was predicted to grow 
 
 The term [Big Data may refer](https://towardsdatascience.com/how-big-is-big-data-3fb14d5351ba) to a dataset which is too large or too complex for ordinary computing devices to process. 
 
+## Origin
 
+Big data emerged along with three papers from Google, [Google File System(2003)](  http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf ), [MapReduce(2004)](  http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf ), and [BigTable(2006)](  http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf ).
+
+https://bowenli86.github.io/2016/10/23/distributed%20system/data/Big-Data-and-Google-s-Three-Papers-I-GFS-and-MapReduce/
+
+[Dataproc]( Dataproc  ) is a fully managed and highly scalable service for running Apache Spark, Apache Flink, Presto, and 30+ open source tools and frameworks.
 
 ## Ethics 
 
