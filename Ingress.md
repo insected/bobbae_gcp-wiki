@@ -2,7 +2,7 @@
 
 [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) may provide load balancing, SSL termination and name-based virtual hosting.
 
-Ingress exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
+[Ingress](https://cloud.google.com/kubernetes-engine/docs/concepts/ingress) exposes HTTP and HTTPS routes from outside the cluster to services within the cluster. Traffic routing is controlled by rules defined on the Ingress resource.
 
 <img src="https://vocon-it.com/wp-content/uploads/2019/10/2019-10-11-19_53_51-Kubernetes-Ingress-Google-Zeichnungen.png" width="600">
 
