@@ -238,6 +238,10 @@ Chaos Monkey is responsible for randomly terminating instances in production to 
 
 [https://netflix.github.io/chaosmonkey/](https://netflix.github.io/chaosmonkey/)
 
+### Distributed load testing using Google Kubernetes Engine
+
+
+https://cloud.google.com/architecture/distributed-load-testing-using-gke
 
 ## Building Containers without docker
 
