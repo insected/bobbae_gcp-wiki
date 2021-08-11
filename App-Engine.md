@@ -100,6 +100,13 @@ In contrast, the flexible environment runs your application in Docker containers
 [https://cloud.google.com/appengine/docs/flexible/go/flexible-for-standard-users](https://cloud.google.com/appengine/docs/flexible/go/flexible-for-standard-users)
 
 
+## Running App Engine Apps on GKE
+
+
+https://cloud.google.com/appengine/docs/flexible/python/run-flex-app-on-kubernetes
+
+
+
 ## Qwiklabs
 
 
