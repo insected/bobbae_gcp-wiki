@@ -11,7 +11,7 @@ GCS is a RESTful online file storage web service for storing and accessing data 
 
 [This video walks you through](https://www.youtube.com/watch?v=TfOO-fSzTNA) how to upload a file and share it on Google Cloud Storage. 
 
-
+https://cloud.google.com/storage/docs/storage-classes
 
 How do  different [types of buckets impact](https://www.youtube.com/watch?v=nCTiVwnnEhQ) your performance? 
 
