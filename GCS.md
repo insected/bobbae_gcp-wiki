@@ -66,3 +66,21 @@ In the [Big Data Chronicles](https://datafloq.com/read/big-data-history/239) and
 With Colossus, a single cluster is scalable to exabytes of storage and tens of thousands of machines. In the example above, for example, we have instances accessing Cloud Storage from Compute Engine VMs, YouTube serving nodes, and Ads MapReduce nodes—all of which are able to share the same underlying file system to complete requests. The key ingredient is having a shared storage pool that is managed by the Colossus control plane, providing the illusion that each has its own isolated file system. 
 
 Disaggregation of resources drives more efficient use of valuable resources and lowers costs across all workloads. For instance, it’s possible to provision for the peak demand of low latency workloads, like a YouTube video, and then run batch analytic workloads more cheaply by having them fill in the gaps of otherwise idle time.
+
+
+## Use cases
+
+### Hosting a static website
+
+https://cloud.google.com/storage/docs/hosting-static-website
+
+## Streaming data from Cloud Storage into BigQuery using Cloud Functions
+
+https://cloud.google.com/architecture/streaming-data-from-cloud-storage-into-bigquery-using-cloud-functions
+
+
+### Transferring data from Amazon S3 to Cloud Storage using VPC Service Controls and Storage Transfer Service
+
+
+https://cloud.google.com/architecture/transferring-data-from-amazon-s3-to-cloud-storage-using-vpc-service-controls-and-storage-transfer-service
+
