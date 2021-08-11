@@ -38,7 +38,7 @@ Built by codifying the best practices shared by successful real-world implementa
 
 - Pluggable: connect your own logging and monitoring platform
 
-## Eventing
+### Eventing
 
 - Universal subscription, delivery, and management of events
 
