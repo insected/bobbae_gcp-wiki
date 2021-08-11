@@ -446,6 +446,11 @@ Add-ons extend the functionality of Kubernetes.
 
 https://kubernetes.io/docs/concepts/cluster-administration/addons/
 
+
+## JSONPATH
+
+[JSONPath](JSONPath) is a query language for JSON, similar to XPath for XML. 
+
 ## Operator Sprawl
 
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
