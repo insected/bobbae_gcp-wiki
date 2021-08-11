@@ -8,7 +8,7 @@ VLANs work by applying tags to network frames and handling these tags in network
 ## Virtual Networking 
 
 
-]Network Virtualization](  https://www.vmware.com/topics/glossary/content/network-virtualization ) is a process of logically grouping physical networks and making them operate as single or multiple independent networks called Virtual Networks.
+[Network Virtualization](  https://www.vmware.com/topics/glossary/content/network-virtualization ) is a process of logically grouping physical networks and making them operate as single or multiple independent networks called Virtual Networks.
 
 For example, [VMware NSX Data Center](    https://docs.vmware.com/en/VMware-NSX-Data-Center-for-vSphere/index.html  ) is a network virtualization platform that delivers networking and security components like firewalling, switching, and routing that are defined and consumed in software.
 
