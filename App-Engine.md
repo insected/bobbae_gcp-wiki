@@ -9,6 +9,11 @@
 
 [App Engine](https://cloud.google.com/appengine)  is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
 
+## PaaS
+
+https://en.m.wikipedia.org/wiki/Platform_as_a_service
+
+
 
 
 [Google App Engine](https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s) makes it easy to focus on your code, not infrastructure.
@@ -27,10 +32,15 @@ The [Standard Environment](https://cloud.google.com/appengine/docs/about-the-sta
 
 https://cloud.google.com/about/locations#region
 
-## Comparison to other PaaS
+## Other PaaS
 
-* Compare to AWS Elastic Beanstalk 
+- https://github.com/mitja/awesome-paas
+
+- Compare to AWS Elastic Beanstalk 
 https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and-heroku-2129d9c827bc
+
+- https://foghornconsulting.com/2017/05/12/battle-of-the-paas-aws-vs-gcp/
+
 
 
 ## AppEngine Standard
