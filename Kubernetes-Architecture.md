@@ -99,7 +99,7 @@ https://kubernetes.io/docs/concepts/architecture/
 
 ## Networking
 
-[Kubernetes Networking](Kubernetes-Networking) is interesting to study.
+[Kubernetes Networking](Kubernetes-Networking)  model supports different types of open source implementations. Kubernetes provides an IP address to each pod so that there is no need to map host ports to container ports as in the Docker networking model. Pods behave much like VMs or physical hosts with respect to port allocation, naming, load balancing and application configuration. 
 
 
 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Pods.png" width="600">
