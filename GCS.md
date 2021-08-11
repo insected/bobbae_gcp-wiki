@@ -74,7 +74,7 @@ Disaggregation of resources drives more efficient use of valuable resources and 
 
 https://cloud.google.com/storage/docs/hosting-static-website
 
-## Streaming data from Cloud Storage into BigQuery using Cloud Functions
+### Streaming data from Cloud Storage into BigQuery using Cloud Functions
 
 https://cloud.google.com/architecture/streaming-data-from-cloud-storage-into-bigquery-using-cloud-functions
 
