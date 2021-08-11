@@ -39,6 +39,21 @@ The [Kubernetes networking model](https://kubernetes.io/docs/concepts/cluster-ad
 
 Kubernetes follows an “IP-per-pod” model where each pod get assigned an IP address and all containers in a single pod share the same network namespaces and IP address. Containers in the same pod can therefore reach each other’s ports via localhost:<port>. However, it is not recommended to communicate directly with a pod via its IP address due to pod’s volatility (a pod can be killed and replaced at any moment). Instead, use a Kubernetes service which represents a group of pods acting as a single entity to the outside. Services get allocated their own IP address in the cluster and provide a reliable entry point.
 
+
+## Kubernetes Networking Details
+
+### Pod Networking
+
+https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
+
+### Services
+
+https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
+
+### Ingress
+
+https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078
+
 ## ClusterIP, [Ingress](https://www.youtube.com/watch?v=GhZi4DxaxxE), NodePort, Load Balancer
 
 It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer).
