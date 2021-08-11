@@ -155,6 +155,10 @@ The Ops Agent is the primary agent for collecting telemetry from your Compute En
 https://cloud.google.com/logging/docs/agent/ops-agent
 
 
+#### Fluentbit
+
+https://github.com/fluent/fluent-bit
+
 ### Legacy Logging Agent
 
 Legacy Log Agents are based on [fluentd](https://www.fluentd.org/) that runs on your virtual machine (VM) instances.
