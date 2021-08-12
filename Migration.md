@@ -14,31 +14,7 @@ A video on Cloud Migration.
 
 [https://cloud.google.com/solutions/migration-to-gcp-getting-started](https://cloud.google.com/solutions/migration-to-gcp-getting-started)
 
-### Migrate for Compute Engine
 
-https://cloud.google.com/migrate/compute-engine
-
-### Getting Started with Velostrata
-
-https://cloud.google.com/migrate/compute-engine/docs/4.2/getting-started
-
-### Migration from AWS to GCP
-
-
-
-https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
-
-### Migration from VMWare to GCP
-
-https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/configure-manager/configuring-vms-vm
-
-
-
-### BigQuery Data Transfer Service
-
-The BigQuery Data Transfer Service automates data movement into BigQuery on a scheduled, managed basis. Your analytics team can lay the foundation for a BigQuery data warehouse without writing a single line of code.
-
-[https://cloud.google.com/bigquery-transfer/docs/transfer-service-overview](https://cloud.google.com/bigquery-transfer/docs/transfer-service-overview)
 
 
 ### Migrate for Compute Engine
@@ -72,6 +48,23 @@ Velostrata gets enterprise applications running in Google Cloud within minutes, 
 Storage Transfer Service allows you to quickly import online data into Cloud Storage. You can also set up a repeating schedule for transferring data, as well as transfer data within Cloud Storage, from one bucket to another.
 
 [https://cloud.google.com/storage-transfer/docs](https://cloud.google.com/storage-transfer/docs)
+### Migration from AWS to GCP
+
+
+
+https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
+
+### Migration from VMWare to GCP
+
+https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/configure-manager/configuring-vms-vm
+
+
+
+### BigQuery Data Transfer Service
+
+The BigQuery Data Transfer Service automates data movement into BigQuery on a scheduled, managed basis. Your analytics team can lay the foundation for a BigQuery data warehouse without writing a single line of code.
+
+[https://cloud.google.com/bigquery-transfer/docs/transfer-service-overview](https://cloud.google.com/bigquery-transfer/docs/transfer-service-overview)
 
 
 ### Migrate for Anthos
