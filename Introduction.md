@@ -93,6 +93,10 @@ A list of short tutorials on [getting started](https://cloud.google.com/gcp/gett
 
 https://cloud.google.com/architecture/
 
+### Compare AWS and Azure services to GCP
+
+https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
+
 ### Qwiklabs
 
 
