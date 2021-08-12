@@ -6,11 +6,32 @@
 
 ### Introduction
 
+https://cloud.google.com/migrate/compute-engine/docs/5.0/concepts/lifecycle
+
 A video on Cloud Migration.
 
 [https://www.youtube.com/watch?v=Bt_cWJrdfS8](https://www.youtube.com/watch?v=Bt_cWJrdfS8)
 
 [https://cloud.google.com/solutions/migration-to-gcp-getting-started](https://cloud.google.com/solutions/migration-to-gcp-getting-started)
+
+### Migrate for Compute Engine
+
+https://cloud.google.com/migrate/compute-engine
+
+### Getting Started with Velostrata
+
+https://cloud.google.com/migrate/compute-engine/docs/4.2/getting-started
+
+### Migration from AWS to GCP
+
+
+
+https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
+
+### Migration from VMWare to GCP
+
+https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/configure-manager/configuring-vms-vm
+
 
 
 ### BigQuery Data Transfer Service
