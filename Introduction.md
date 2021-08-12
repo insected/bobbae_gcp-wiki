@@ -27,6 +27,9 @@ This distribution also introduces some rules about how resources can be used tog
 
 Regional resources can be used anywhere within the same region, while zonal resources can be used anywhere within the same zone. 
 
+### What makes GCP Different?
+
+https://cloud.google.com/free/docs/what-makes-google-cloud-platform-different
 
 
 ### GCP Youtube Channel
