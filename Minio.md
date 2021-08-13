@@ -79,7 +79,7 @@ https://docs.min.io/docs/minio-gateway-for-gcs.html
 
 ## JuiceFS
 
-JuiceFS is a POSIX-compatible shared filesystem specifically designed to work in the cloud.
+JuiceFS is a POSIX-compatible shared filesystem layer that stores data in object stores in the cloud and meta-data in SQL databases.
 
 https://juicefs.com/?hl=en
 
