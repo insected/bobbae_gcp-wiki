@@ -8,7 +8,6 @@ There are many [encryption algorithms](https://en.wikipedia.org/wiki/Category:Cr
 
 A [public-key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption. The purpose of a [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure) is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. It is required for activities where simple passwords are an inadequate authentication method and more rigorous proof is required to confirm the identity of the parties involved in the communication and to validate the information being transferred.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Public-Key-Infrastructure.svg/600px-Public-Key-Infrastructure.svg.png" width="400">
 
 
 
@@ -16,7 +15,6 @@ A [public-key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastru
 
 The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows) (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. Typical applications include remote command-line, login, and remote command execution, but any network service can be secured with SSH.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ssh_binary_packet_alt.svg/500px-Ssh_binary_packet_alt.svg.png" width="400">
 
 [OpenSSH](https://en.wikipedia.org/wiki/OpenSSH) can be used as a kind of VPN in addition to normal login, tunneling use cases.
 
@@ -72,11 +70,9 @@ Cloud VPN supports  [some IKE ciphers](https://cloud.google.com/network-connecti
 
 [Diffie–Hellman key exchange](https://www.math.ucla.edu/~baker/40/handouts/rev_DH/node1.html) is a method of securely exchanging cryptographic keys over a public channel and was one of the first public-key protocols as conceived by Ralph Merkle and named after Whitfield Diffie and Martin Hellman. DH is one of the earliest practical examples of public key exchange implemented within the field of cryptography. Published in 1976 by Diffie and Hellman, this is the earliest publicly known work that proposed the idea of a private key and a corresponding public key.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Public_key_shared_secret.svg/500px-Public_key_shared_secret.svg.png" width="300">
 
 Traditionally, secure encrypted communication between two parties required that they first exchange keys by some secure physical means, such as paper key lists transported by a trusted courier. The Diffie–Hellman key exchange method allows two parties that have no prior knowledge of each other to jointly establish a shared secret key over an insecure channel. This key can then be used to encrypt subsequent communications using a [symmetric-key cipher](  https://brilliant.org/wiki/symmetric-ciphers/ ).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Diffie-Hellman_Key_Exchange.svg/1280px-Diffie-Hellman_Key_Exchange.svg.png" width="300">
 
 
 ## Cryptographic hash
