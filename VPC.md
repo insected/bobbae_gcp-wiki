@@ -8,7 +8,6 @@ VPC provides networking for your cloud-based services that is global, scalable, 
 
 
 
-<img src="https://cloud.google.com/vpc/images/vpc-overview-example.svg" width="600">
 
 ## Migrate from on-prem to cloud using VPC
 
