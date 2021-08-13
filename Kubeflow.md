@@ -9,7 +9,6 @@ Kubeflow offers several components that you can use to build your ML training, h
 
 [https://www.kubeflow.org/docs/about/kubeflow/](https://www.kubeflow.org/docs/about/kubeflow/)
 
-<img src="https://www.kubeflow.org/docs/images/kubeflow-overview-platform-diagram.svg" width="700">
 
 
 [https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x](https://www.youtube.com/watch?v=cTZArDgbIWw&list=PLIivdWyY5sqLS4lN75RPDEyBgTro_YX7x)
@@ -30,7 +29,6 @@ https://www.kubeflow.org/docs/distributions/gke/deploy/deploy-cli/
 
 https://www.kubeflow.org/docs/started/kubeflow-overview/#introducing-the-ml-workflow
 
-<img src ="https://www.kubeflow.org/docs/images/kubeflow-gcp-e2e-tutorial.svg" width="700">
 
 ## MNIST end to end on Kubeflow on GKE
 
