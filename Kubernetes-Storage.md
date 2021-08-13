@@ -15,6 +15,10 @@ https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/
 
 https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
 
+### Running Zookeeper
+
+https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/
+
 ## Kubernetes Storage Classes
 
 [https://www.youtube.com/watch?v=qktFhjJmFhg](https://www.youtube.com/watch?v=qktFhjJmFhg)
