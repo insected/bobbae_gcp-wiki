@@ -4,7 +4,6 @@ Google Cloud [AutoML](https://cloud.google.com/automl)  helps you easily build h
 
 https://cloud.google.com/automl
 
-<img src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/04/google-cloud-automl-updates.jpg" width="600">
 
 ## AI Platform with AutoML
 
@@ -63,7 +62,6 @@ https://cloud.google.com/automl-tables/docs
 
 
 
-<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/e8d92904ce53ae0d52b13ef6dd9f2fcd0dc7eba15dbae833fc6ba69fb2cc9883.svg" width="800">
 
 ### AutoML Tables Beginner's Guide
 
