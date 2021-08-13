@@ -2,9 +2,18 @@
 
 Kubernetes containers are stateless as a core principle, but data must still be managed, preserved, and made accessible to other services. 
 
+
+https://kubernetes.io/docs/tutorials/stateless-application/
+
 Stateless means that the container is running in isolation without any knowledge of past transactions, which makes it easy to replace, delete, or distribute the container. However, it also means that data will be lost for certain lifecycle events like restart or deletion.
 
+## StatefulSets
 
+https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/
+
+
+
+## 
 [https://www.youtube.com/watch?v=qktFhjJmFhg](https://www.youtube.com/watch?v=qktFhjJmFhg)
 
 
