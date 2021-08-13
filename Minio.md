@@ -58,8 +58,25 @@ https://docs.min.io/docs/disaggregated-spark-and-hadoop-hive-with-minio.html
 
 https://docs.min.io/docs/minio-client-quickstart-guide.html
 
+## Awesome list
+
+https://github.com/minio/awesome-minio
+
+## Other s3 compatible services
+
+https://www.coralnodes.com/amazon-s3-alternatives/
+
+## GCS and minio
+
+Minio [GCS](GCS) Gateway allows you acccess GCS with s3-compatible APIs.
+
+https://docs.min.io/docs/minio-gateway-for-gcs.html
+
+
 ## JuiceFS
 
 JuiceFS is a POSIX-compatible shared filesystem specifically designed to work in the cloud.
 
 https://juicefs.com/?hl=en
+
+
