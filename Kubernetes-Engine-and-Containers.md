@@ -14,7 +14,6 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 Kubernetes objects can quickly be created, updated, and deleted directly using imperative commands built into the kubectl command-line tool. 
 
-<img src="http://www.aquasec.com/wp-content/uploads/2020/11/Kubernetes-101-Architecture-Diagram.jpg" width="700">
 
 
 A Kubernetes cluster consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
@@ -45,7 +44,6 @@ A Kubernetes cluster consists of a set of worker machines, called nodes, that ru
 
 ## Kubernetes Control Plane
 
-<img src="https://d33wubrfki0l68.cloudfront.net/d35c2b375b43b4fa374ae834f95224975418e33f/6b47b/images/blog/2018-06-05-11-ways-not-to-get-hacked/kubernetes-control-plane.png" width="600">
 
 A [Kubernetes cluster](https://kubernetes.io/docs/concepts/overview/components/) consists of a set of worker machines, called nodes, that run containerized applications. [Every cluster](https://www.youtube.com/watch?v=Krpb44XR0bk) has at least one worker node.
 
@@ -79,7 +77,6 @@ The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference
 
 ### Kustomize
 
-<img src="https://miro.medium.com/max/1575/1*qZV6wiQr4yet746qAl-G7A.png" width="600">
 
 [Kustomize](https://kustomize.io/) introduces a [template-free way](https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e) to [customize application configuration]((https://www.youtube.com/watch?v=uvH84BviDS4)) that simplifies the use of off-the-shelf applications. Now, built into `kubectl as apply -k`.
 
@@ -129,7 +126,6 @@ Kubernetes [Service Mesh](Service-Mesh) is configurable infrastructure layer for
 
 There are many [Kubernetes Monitoring](Kubernetes-Monitoring) tools.
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/29.png" width="600">
 
 ## Configuration as Data
 
@@ -159,11 +155,9 @@ https://kubernetes.io/docs/tutorials/stateful-application/
 
 [Multiple Kubernetes clusters can be managed as a single cluster](https://github.com/kubernetes-sigs/kubefed) with the help of federated clusters. So, you can create multiple Kubernetes clusters within a data center/cloud and use federation to control/manage them all at one place.
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/30.png" width="600">
 
 
 
-<img src="https://github.com/kubernetes-sigs/kubefed/raw/master/docs/images/concepts.png" width="600">
 
 ## Kubernetes & AI
 
