@@ -58,6 +58,10 @@ https://docs.min.io/docs/disaggregated-spark-and-hadoop-hive-with-minio.html
 
 https://docs.min.io/docs/minio-client-quickstart-guide.html
 
+### Store PostgreSQL Backups in MinIO
+
+https://docs.min.io/docs/store-postgresql-backups-in-minio.html
+
 ## Awesome list
 
 https://github.com/minio/awesome-minio
