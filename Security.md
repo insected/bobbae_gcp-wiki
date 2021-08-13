@@ -203,6 +203,10 @@ An [attestor](https://cloud.google.com/binary-authorization/docs/creating-attest
 
 The Binary Authorization enforcer uses the attestor at deploy time to limit which container images are allowed to be deployed to those with an accompanying, verifiable attestation created prior to deployment.
 
+## DevSecOps
+
+Whether you call it [DevOps](DevOps) or DevSecOps, it has always been ideal to include security as an integral part of the entire app life cycle. DevSecOps is about built-in security, not security that functions as a perimeter around apps and data. If security remains at the end of the development pipeline, organizations adopting DevOps can find themselves back to the long development cycles they were trying to avoid in the first place.
+
 ## Cloud Asset Inventory
 
 [Cloud Asset Inventory](https://cloud.google.com/asset-inventory/docs/overview) provides inventory services based on a time series database. This database keeps a five-week history of Google Cloud [asset](https://cloud.google.com/asset-inventory/docs/overview#assets) metadata.
