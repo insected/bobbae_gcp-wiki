@@ -49,7 +49,6 @@ https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
 [https://aphyr.com/posts/333-serializability-linearizability-and-locality](https://aphyr.com/posts/333-serializability-linearizability-and-locality)
 
-<img src="https://accelazh.github.io/images/ddia-linearizability.png" width="700">
 
 https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy
 
@@ -61,7 +60,6 @@ https://www.sofastack.tech/en/projects/sofa-jraft/consistency-raft-jraft/
 
 https://www.hashicorp.com/resources/raft-consul-consensus-protocol-explained
 
-[[https://media.geeksforgeeks.org/wp-content/uploads/node-status-transitions.png]]
 
 https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
