@@ -6,7 +6,6 @@ With this service, you can migrate or extend your on-premises workloads to Googl
 By running your VMware workloads on Google Cloud, you reduce your operational burden while benefiting from scale and agility, and maintain continuity with your existing tools, policies, and processes. 
 
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/GCP_VMware_Engine_2.max-1300x1300.jpg" width="800">
 
 
 https://cloud.google.com/blog/topics/hybrid-cloud/google-cloud-vmware-engine-is-generally-available
