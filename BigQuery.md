@@ -1,5 +1,4 @@
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/BQ_Explained_2.max-900x900.jpg" width="600">
 
 
 [BigQuery](https://cloud.google.com/bigquery/docs)  is Google Cloud's [fully managed](https://www.youtube.com/watch?v=kKBnFsNWwYM), petabyte-scale, and  analytics [data warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)  that lets you run [analytics over vast amounts](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)  of data in near real time. 
@@ -39,7 +38,6 @@ BigQuery is a data warehouse that uses [dynamic query planning](https://cloud.go
 
 [This document](https://cloud.google.com/bigquery/docs/clustered-tables) provides an overview of table clustering capabilities in BigQuery which allow for [better partitioning and performance](https://www.youtube.com/watch?v=1gYUGv_omJA).
 
-<img src="https://s3.amazonaws.com/files.dezyre.com/images/blog/Impala+vs+Hive/Columnar+Storage+Technology+in+Impala.png" width="500">
 
 ## Loading Data
 
@@ -53,7 +51,6 @@ Learn [how to load](https://www.youtube.com/watch?v=Abzj-Vyhi74) CSV data in bat
 
 You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?skip_cache=true) files from local sources, Google Drive, or Cloud Storage buckets, take advantage of [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs/introduction?skip_cache=true) (DTS), [Data Fusion](https://cloud.google.com/data-fusion/plugins?skip_cache=true) plug-ins, or leverage Google's industry-leading [data integration partnerships](https://cloud.google.com/bigquery?skip_cache=true#section-12). You have ultimate flexibility in how you bring data into your data warehouse. 
 
-<img src="https://cloudx-bricks-prod-bucket.storage.googleapis.com/7347fa6a31d8e2242e6483befbdb6d3fdc617824352b5bf9f7b52de12a23d3ec.svg" width="600">
 
 
 
@@ -267,7 +264,6 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 
 
-<img src="https://panoply.io/uploads/bigquery-architecture-1.png" width="500">
 
 
 ## Denormalize whenever possible
