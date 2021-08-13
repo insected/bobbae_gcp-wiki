@@ -64,3 +64,27 @@ https://kubernetes.io/docs/concepts/storage/volumes/#csi
 https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 
 
+### Volume snapshots
+
+https://kubernetes.io/docs/concepts/storage/volume-snapshots/
+
+### CSI Volume cloning
+
+https://kubernetes.io/docs/concepts/storage/volume-pvc-datasource/
+
+### Dynamic Volume Provisioning
+
+https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
+
+### Ephemeral Volumes
+
+https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/
+
+### Volume Health Monitoring
+
+https://kubernetes.io/docs/concepts/storage/volume-health-monitoring/
+
+
+
+https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
+https://kubernetes.io/docs/concepts/storage/volume-pvc-datasource/
