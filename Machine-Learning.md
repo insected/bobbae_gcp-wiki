@@ -12,7 +12,6 @@ Google Machine Learning Platform Overview.
 
 [https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
 
-<img src="https://miro.medium.com/max/1575/1*i5HvoYNEBohHxS1MoQoQcQ.png" width="700">
 
 ## Machine Learning Crash Course
 
