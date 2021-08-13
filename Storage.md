@@ -1,4 +1,3 @@
-[[https://blog.cartridgemonkey.com/wp-content/uploads/2012/03/Google2.jpg]]
 
 Discuss different types of storage devices and methods.  What are block devices? What is a filesystem in the traditional sense, for example ext4 in Linux kernel?  What are networked file systems?  How do they compare to Google Cloud filesystem?  What is a SAN?  What are disk arrays, RAID, hard disk vs. SSD?
 
