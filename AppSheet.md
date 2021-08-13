@@ -2,11 +2,8 @@
 
 
 
-## Overview
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Dashboard_view.max-1000x1000.jpg" width="800">
 
-### Introduction
 
 [AppSheet](https://www.appsheet.com/)  Automation allows line-of-business employees to rapidly automate their critical business processes. The AI-powered solution anticipates your automation requirements, provides intelligent suggestions, and auto-constructs actions based on user intent.
 
