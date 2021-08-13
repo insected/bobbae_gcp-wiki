@@ -52,7 +52,7 @@ Summary of google cloud services in [4 words](https://github.com/gregsramblings/
 
 ### Compare Platforms
 
-[Here are some comparisons](https://cloud.google.com/docs/compare) to [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [Openstack](https://www.openstack.org/) and On-prem.
+[Here are some comparisons](https://cloud.google.com/docs/compare) to [AWS](AWS), [Azure](https://azure.microsoft.com/), [Openstack](https://www.openstack.org/) and On-prem.
 
 
 
