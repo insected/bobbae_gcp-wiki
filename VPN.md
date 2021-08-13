@@ -5,7 +5,6 @@
 [https://cloud.google.com/network-connectivity/docs/vpn]()
 
 
-<img src="https://cloud.google.com/network-connectivity/docs/vpn/images/ha-vpn-gcp-to-on-prem-2-a.svg" width="700">
 
 ## Types of Cloud VPN
 
