@@ -173,7 +173,6 @@ If you are running specialized logging workloads that require higher throughput 
 
 https://cloud.google.com/logging/docs/agent/logging
 
-[[https://cloud.google.com/logging/docs/images/logging-agent-operation.png]]
 
 ### Logging Agent Source Code
 
@@ -219,7 +218,6 @@ Using sinks, you can route some or all of your logs to supported destinations or
 https://cloud.google.com/logging/docs/export
 
 
-[[https://cloud.google.com/logging/docs/images/logs-router-image.png]]
 
 https://cloud.google.com/logging/docs/routing/overview
 
