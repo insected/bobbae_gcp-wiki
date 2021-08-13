@@ -25,7 +25,6 @@ https://cloud.google.com/docs/terraform
 
 https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terraform
 
-<img src="https://cloud.google.com/architecture/images/provisioning-anthos-clusters-with-terraform-architecture.svg" width="700">
 
 ## Terraform examples for GKE
 
@@ -63,7 +62,6 @@ Defining and managing your development, test, staging, and production environmen
 
 https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform
 
-<img src="https://storage.googleapis.com/gcp-community/tutorials/managing-gcp-projects-with-terraform/diagram.png" width="700">
 
 https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-gcp-projects-with-terraform
 
