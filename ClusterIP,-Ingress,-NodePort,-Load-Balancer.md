@@ -14,7 +14,6 @@ Using a LoadBalancer service type automatically deploys an external load balance
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/service
 
-<img src="https://i.stack.imgur.com/1owA5.jpg" width="400">
 
 When to use NodePort vs. LoadBalancer  can be confusing. 
 
@@ -28,7 +27,6 @@ https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-w
 
 ## Service Types
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/22-1.png" width="700">
 
 Services can be exposed in [different ways](https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps)
 
@@ -46,19 +44,16 @@ There are several types of proxies in Kubernetes, and among them is the node pro
 
 
 
-<img src="https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/host-to-clusterip-lb-ct.png" width="700">
 
 ### iptables
 
 In [iptables](https://en.wikipedia.org/wiki/Iptables)  proxy mode, kube-proxy watches  the Kubernetes control plane for the addition and removal of Service and Endpoint objects. For each Service, it installs iptables rules, which capture traffic to the Service's clusterIP and port, and redirect that traffic to one of the Service's backend sets. For each Endpoint object, it installs iptables rules which select a backend Pod.
 
-<img src="https://d33wubrfki0l68.cloudfront.net/27b2978647a8d7bdc2a96b213f0c0d3242ef9ce0/e8c9b/images/docs/services-iptables-overview.svg" width="400">
 
 By default, [kube-proxy](https://kubernetes.io/docs/concepts/overview/components/#kube-proxy) in iptables mode chooses a backend at random.
 
 https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-iptables
 
-<img src="https://arthurchiao.art/assets/img/cracking-k8s-node-proxy/hooks.png" width="500">
 
 https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture
 
@@ -86,7 +81,6 @@ A [LoadBalancer](  https://kubernetes.io/docs/concepts/services-networking/servi
 
 
 
-<img src="https://i.imgur.com/QCKwPHE.png" width="700">
 
 
 
@@ -111,7 +105,6 @@ Services of type [ExternalName](https://kubernetes.io/docs/concepts/services-net
 
 [Ingress](Ingress)  is not a Service type, but it acts as the entry point for your cluster. It lets you consolidate your routing rules into a single resource as it can expose multiple services under the same IP address.
 
-<img src="https://i.imgur.com/pO8Gp3d.png" width="700">
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
