@@ -1,13 +1,11 @@
 
 [Vertex AI]( https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform ) brings [AutoML](AutoML) and [AI Platform](https://cloud.google.com/ai-platform/docs) together into a unified API, client library, and user interface. 
 
-<img src="https://cloud.google.com/ai-platform/images/ml-workflow.svg" width="600">
 
 [AI Platform](https://cloud.google.com/ai-platform/docs) provides integrated tool chain  that helps you build and run your own machine learning applications.
 
 [https://cloud.google.com/ai-platform/docs]()
 
-<img src="https://miro.medium.com/max/1575/1*eF7n2JCVmwb1mRD49UMaYg.png" width="600">
 
 ## AI Platform Deep Learning VM Images
 
