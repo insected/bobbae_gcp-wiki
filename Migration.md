@@ -6,6 +6,12 @@
 
 ### Introduction
 
+
+
+Migrate for Compute Engine enables you to migrate (Lift and Shift) your virtual machines (VMs), with minor automatic modifications, from your source environment to Google Compute Engine. Migrate for Compute Engine uses data replication technology which continuously replicates disk data from the source VMs to Google Cloud without causing any downtime on the source. You then create VM clones from replicated data for testing and perform predictable VM cut-over to your final workloads running on Google Cloud.
+
+Data replication allows Migrate for Compute Engine to perform an initial replication of the data from the source VM so that you can quickly clone and test a migrated VM. However, because the source VM continues to run during the migration process, including during testing, Migrate for Compute Engine continues to replicate data until you perform the final cut over to your migrated VM.
+
 https://cloud.google.com/migrate/compute-engine/docs/5.0/concepts/lifecycle
 
 A video on Cloud Migration.
