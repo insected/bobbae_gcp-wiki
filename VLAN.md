@@ -29,7 +29,6 @@ https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-aut
 
 It is designed to enable massive network automation through programmatic extension, while still supporting standard management interfaces and protocols (e.g. NetFlow, sFlow, IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution across multiple physical servers similar to VMware's vNetwork distributed vswitch or Cisco's Nexus 1000V. 
 
-[[https://www.openvswitch.org/assets/featured-image.jpg]]
 
 ## Bridge
 
@@ -47,14 +46,12 @@ Similar a bonded interface, the purpose of a team device is to provide a mechani
 
 A VLAN, aka virtual LAN, separates broadcast domains by adding tags to network packets. 
 
-[[https://developers.redhat.com/blog/wp-content/uploads/2018/10/vlan_01.png]]
 
 ## VXLAN
 
 VXLAN (Virtual eXtensible Local Area Network) is a tunneling protocol designed to solve the problem of limited VLAN IDs (4,096) in IEEE 802.1q. It is described by [IETF RFC 7348](https://datatracker.ietf.org/doc/html/rfc7348).
 
 
-[[https://developers.redhat.com/blog/wp-content/uploads/2018/10/vxlan_01.png]]
 
 ## MACVLAN
 
@@ -77,13 +74,11 @@ MACVTAP/IPVTAP is a new device driver meant to simplify virtualized bridged netw
 
 MACsec (Media Access Control Security) is an IEEE standard for security in wired Ethernet LANs. Similar to IPsec, as a layer 2 specification, MACsec can protect not only IP traffic but also ARP, neighbor discovery, and DHCP. The MACsec headers look like this:
 
-[[https://developers.redhat.com/blog/wp-content/uploads/2018/10/macsec_01.png]]
 
 ## VETH
 
 The VETH (virtual Ethernet) device is a local Ethernet tunnel. Devices are created in pairs, as shown in the diagram below.
 
-[[https://developers.redhat.com/blog/wp-content/uploads/2018/10/veth.png]]
 
 ## VCAN
 
