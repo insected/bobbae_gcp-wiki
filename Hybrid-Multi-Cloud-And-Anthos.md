@@ -2,7 +2,6 @@
 
 ## Hybrid and Multi-cloud
 
-<img src="https://cloud.google.com/anthos/images/anthos-arch.svg" width="800">
 
 ### Anthos
 
@@ -25,7 +24,6 @@ https://www.youtube.com/watch?v=XB52jRLHeko&list=PLIivdWyY5sqL8p1URcr6h1OkeJ01My
 
 ### Anthos Technical Overview
 
-<img src="https://cloud.google.com/anthos/images/anthos-15-components.svg" width="800">
 
 
 https://cloud.google.com/anthos/docs/concepts/overview
