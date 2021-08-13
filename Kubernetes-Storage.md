@@ -1,9 +1,14 @@
 
 
-Kubernetes containers are stateless as a core principle, but data must still be managed, preserved, and made accessible to other services. Stateless means that the container is running in isolation without any knowledge of past transactions, which makes it easy to replace, delete, or distribute the container. However, it also means that data will be lost for certain lifecycle events like restart or deletion.
+Kubernetes containers are stateless as a core principle, but data must still be managed, preserved, and made accessible to other services. 
+
+Stateless means that the container is running in isolation without any knowledge of past transactions, which makes it easy to replace, delete, or distribute the container. However, it also means that data will be lost for certain lifecycle events like restart or deletion.
 
 
 [https://www.youtube.com/watch?v=qktFhjJmFhg](https://www.youtube.com/watch?v=qktFhjJmFhg)
+
+
+
 
 ### Storage Classes
 
@@ -85,6 +90,3 @@ https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/
 https://kubernetes.io/docs/concepts/storage/volume-health-monitoring/
 
 
-
-https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
-https://kubernetes.io/docs/concepts/storage/volume-pvc-datasource/
