@@ -1,4 +1,3 @@
-<img src="https://lh3.googleusercontent.com/j-Z_jAhCLu5qKpNogaXEiuIe_sTgm_D2-xYXjoWlVM-Cwdgw3Wsz-CMs6NPCfTwqcGlx6G4Lnb7t=e14-rw-lo-sc0xffffff-w3004" width="800">
 
 ### Cloud Healthcare API
 
