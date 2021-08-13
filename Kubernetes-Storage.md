@@ -61,5 +61,6 @@ https://kubernetes.io/docs/concepts/storage/volumes/#csi
 
 ### PVC Persistent Volume Claim
 
-[https://www.youtube.com/watch?v=0swOh5C3OVM](https://www.youtube.com/watch?v=0swOh5C3OVM)
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+
 
