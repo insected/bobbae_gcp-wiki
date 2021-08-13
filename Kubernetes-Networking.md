@@ -22,7 +22,6 @@ This also means that containers within a Pod must coordinate port usage, but thi
 
 https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
-<img src="https://d33wubrfki0l68.cloudfront.net/e351b830334b8622a700a8da6568cb081c464a9b/13020/images/docs/services-userspace-overview.svg" width="500">
 
 [Kubernetes Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/) is a central part of Kubernetes, but it can be challenging to understand exactly how it is expected to work. There are 4 distinct networking problems to address:
 
@@ -63,7 +62,6 @@ It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-L
 
 [Here](https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/) is an introduction into the complexities of Kubernetes networking by following the journey of an HTTP request to a service running on a basic Kubernetes cluster.
 
-<!--<img src="https://miro.medium.com/max/1575/1*UetnYP8uE05GAqQD0tbtBQ.png" width="600">-->
 
 You can use a pod IP address as an endpoint but there is no guarantee that the address won’t change the next time the pod is recreated, which might happen for any number of reasons.
 
@@ -71,7 +69,6 @@ The kubernetes designers [solved this problem](https://medium.com/google-cloud/u
 
 
 
-<!--<img src="https://miro.medium.com/max/1575/1*iezVQZMVEqzic_yfREO8Jw.png" width="400">-->
 
 
 ## Policies
@@ -88,7 +85,6 @@ https://kubernetes.io/docs/concepts/services-networking/service/
 
 By default, Docker uses host-private networking, so containers can talk to other containers only if they are on the same machine. In order for Docker containers to communicate across nodes, there must be allocated ports on the machine's own IP address, which are then forwarded or proxied to the containers. This obviously means that containers must either coordinate which ports they use very carefully or ports must be allocated dynamically.
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/22-1.png" width="600">
 
 Coordinating port allocations across multiple developers or teams that provide containers is very difficult to do at scale, and exposes users to cluster-level issues outside of their control. Kubernetes assumes that pods can communicate with other pods, regardless of which host they land on. Kubernetes gives every pod its own cluster-private IP address, so you do not need to explicitly create links between pods or map container ports to host ports. This means that containers within a Pod can all reach each other's ports on localhost, and all pods in a cluster can see each other without NAT. The rest of this document elaborates on how you can run reliable services on such a networking model.
 
@@ -106,7 +102,6 @@ https://kubernetes.io/docs/concepts/services-networking/service-topology/
 
 https://github.com/containernetworking/cni
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Pods.png" width="600">
 
 https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
