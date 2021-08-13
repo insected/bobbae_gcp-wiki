@@ -108,7 +108,6 @@ Google Cloud Platform offers a number of tools and services for orchestration:
 * Workflows for complex multi-service orchestration 
 * [Cloud Composer](Composer) for orchestration of your data workloads
 
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Screen_Shot_2021-04-21_at_9.45.28_AM.max-1000x1000.png" width="600">
 
 https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
 
@@ -119,6 +118,5 @@ https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orc
 
 ## Example to use GCP Workflows to load data from GCS to BigQuery
 
-[[https://cloud.google.com/architecture/images/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows-1-architecture.svg]]
 
 https://cloud.google.com/architecture/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows
