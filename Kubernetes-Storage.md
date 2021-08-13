@@ -11,7 +11,7 @@ Stateless means that the container is running in isolation without any knowledge
 
 https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/
 
-### Deploying Cassandra as StatefulSet
+### Deploying Cassandra as a StatefulSet
 
 https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
 
