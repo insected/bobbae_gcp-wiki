@@ -9,7 +9,6 @@ One of the primary benefits of using gRPC is for documentation; you can use your
 
 With [Endpoints for gRPC](https://cloud.google.com/endpoints/docs/grpc/about-grpc), you can use the API management capabilities of [Endpoints](Endpoints) to add an API console, monitoring, hosting, tracing, authentication, and more to your gRPC services. In addition, once you specify special mapping rules, ESP and ESPv2 translate [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) JSON over HTTP into gRPC requests. This means that you can deploy a gRPC server managed by Endpoints and call its API using a gRPC or JSON/HTTP client, giving you much more flexibility and ease of integration with other systems.
 
-[[https://cloud.google.com/endpoints/docs/images/grpc-endpoints.png]]
 
 https://cloud.google.com/endpoints/docs/grpc/about-grpc
 
