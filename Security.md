@@ -48,7 +48,6 @@ Service accounts are managed by IAM, and they represent non-human users. They ar
 
 
 
-[[https://storage.googleapis.com/gweb-cloudblog-publish/images/1_YvHxYeQ.max-600x600.png]]
 
 [https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
 
