@@ -11,14 +11,12 @@ Kubernetes objects are persistent entities in the Kubernetes system. Kubernetes 
 
 https://kubernetes.io/docs/concepts/architecture/
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/16-1.png" width="600">
 
 ## Networking
 
 [Kubernetes Networking](Kubernetes-Networking)  model supports different types of open source implementations. Kubernetes provides an IP address to each pod so that there is no need to map host ports to container ports as in the Docker networking model. Pods behave much like VMs or physical hosts with respect to port allocation, naming, load balancing and application configuration. 
 
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/Pods.png" width="600">
 
 
 ## Kubernetes features
@@ -44,7 +42,6 @@ Automatically mount the storage system of your choice, whether from local storag
 
 Add features to your Kubernetes cluster without changing upstream source code.
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/7.png" width="600">
 
 ## Cattle vs. Pets
 
@@ -52,14 +49,12 @@ http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/
 
 ## Nodes
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/15-1.png" width="500">
 
 
 Kubernetes runs your workload by placing containers into Pods to run on Nodes. A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods
 
 Typically you have several nodes in a cluster; in a learning or resource-limited environment, you might have only one node.
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/18-1.png" width="600">
 
 ## Pods
 
@@ -72,16 +67,13 @@ A Pod (as in a pod of whales or pea pod) is a group of one or more containers, w
 https://kubernetes.io/docs/concepts/workloads/pods/
 
 
-<!--<img src="https://miro.medium.com/max/1575/1*Ow5A6_zjjwdKkf2Yi1KgYw.png" width="600">-->
 
 ## Control Plane
 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/25-1.png" width="600">
 
 Kubernetes has a "hub-and-spoke" API pattern. All API usage from nodes (or the pods they run) terminates at the apiserver. None of the other control plane components are designed to expose remote services. The apiserver is configured to listen for remote connections on a secure HTTPS port (typically 443) with one or more forms of client authentication enabled. One or more forms of authorization should be enabled, especially if anonymous requests or service account tokens are allowed.
 
 
-<img src="https://miro.medium.com/max/5400/1*QWJijlj7kwd0hIYk8Wsnow.png" width="600">
 
 ## Controller 
 
@@ -103,7 +95,6 @@ By decoupling the interoperability logic between Kubernetes and the underlying c
 https://kubernetes.io/docs/concepts/architecture/
 
 
-<img src="https://miro.medium.com/proxy/1*ax_IkyNCNlNUYY8WKrawaA.png" width="600">
 
 
 ## Components
@@ -120,13 +111,11 @@ https://kubernetes.io/docs/concepts/overview/components/
 
 https://kubernetes.io/docs/concepts/overview/components/#etcd
 
-<img src="https://superuser.openstack.org/wp-content/uploads/2019/11/etcd-in-Kubernetes.png" width="600">
 
 Consistent and highly-available key value store used as Kubernetes' backing store for all cluster data.
 
 If your Kubernetes cluster uses etcd as its backing store, make sure you have a back up plan for those data.
 
-<img src="https://superuser.openstack.org/wp-content/uploads/2019/11/etcd-in-Kubernetes-2.png" width="600">
 
 ### kube-controller-manager
 
@@ -369,13 +358,11 @@ A resource is an endpoint in the [Kubernetes API](https://kubernetes.io/docs/ref
 
 https://itnext.io/building-your-own-kubernetes-crds-701de1c9a161
 
-<img src="https://miro.medium.com/max/1575/1*1HdQc8st8vYA33ZwwYA7fA.png" width="600">
 
 A custom resource is an extension of the Kubernetes API that is not necessarily available in a default Kubernetes installation. It represents a customization of a particular Kubernetes installation. However, many core Kubernetes functions are now built using custom resources, making Kubernetes more modular. Custom resources can appear and disappear in a running cluster through dynamic registration, and cluster admins can update custom resources independently of the cluster itself. Once a custom resource is installed, users can create and access its objects using [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/), just as they do for built-in resources like Pods.
 
 [https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 
-<!--<img src="https://miro.medium.com/max/5400/1*PTT5VXpyYHu1SQxXcULqhg.png" width="600">-->
 
 Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
 
@@ -386,11 +373,9 @@ https://github.com/kubernetes-sigs/kubebuilder
 
 ## Operator Pattern
 
-<img src="https://blog.container-solutions.com/hs-fs/hubfs/kubernetes_operators_diagram2.png?width=1875&name=kubernetes_operators_diagram2.png" width="600">
 
 In Kubernetes, objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with kubectl apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. 
 
-<img src="https://blog.container-solutions.com/hs-fs/hubfs/kubernetes_operators_diagram1.png?width=1875&name=kubernetes_operators_diagram1.png" width="600">
 
 With [Operators](https://www.youtube.com/watch?v=ha3LjlD6g7g), Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
 
@@ -420,13 +405,11 @@ Kubernetes Universal Declarative Operator (KUDO) provides a declarative approach
 
 https://d2iq.com/products/kudo
 
-<img src="https://miro.medium.com/max/5400/1*jrkpUKU9pX9og6NNdnsbIw.jpeg" width="600">
 
 ## Certificates
 
 https://cert-manager.io/docs/installation/kubernetes/
 
-<img src="https://vocon-it.com/wp-content/uploads/2019/01/2019-01-08-00_15_00-Minikube-and-Kubeadm-Google-Pr%C3%A4sentationen.jpg" width="600">
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
