@@ -352,11 +352,17 @@ From when the data is ingested to when it can be used for valuable insights and 
 
 https://cloud.google.com/bigquery/docs/data-governance-summary
 
-### BigQuery Column-level security
+## BigQuery Column-level security
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
-### Access Context Manager
+
+
+## BigQuery row level security
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
+
+## Access Context Manager
 
 [Access Context Manager](https://cloud.google.com/access-context-manager/docs/overview) allows Google Cloud organization administrators to define fine-grained, attribute based access control for projects and resources in Google Cloud.
 
@@ -401,9 +407,6 @@ https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
 https://internetofthingsagenda.techtarget.com/definition/IoT-security-Internet-of-Things-security
 
 
-## BigQuery row level security
-
-https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
 ## Using OAuth 2.0 to Access Google APIs
 
@@ -411,7 +414,7 @@ Google APIs use the [OAuth 2.0 protocol](https://datatracker.ietf.org/doc/html/r
 
 ## DNSSEC
 
-The Domain Name System Security Extensions (DNSSEC) is a feature of the Domain Name System (DNS) that authenticates responses to domain name lookups. It does not provide privacy protections for those lookups, but prevents attackers from manipulating or poisoning the responses to DNS requests.
+The [Domain Name System]( DNS  ) Security Extensions (DNSSEC) is a feature of the Domain Name System (DNS) that authenticates responses to domain name lookups. It does not provide privacy protections for those lookups, but prevents attackers from manipulating or poisoning the responses to DNS requests.
 
 https://cloud.google.com/dns/docs/dnssec
 
