@@ -38,7 +38,6 @@ You can use [Dataproc Hub](https://cloud.google.com/blog/products/data-analytics
 [https://www.youtube.com/watch?v=eEsfPL6SvJc](https://www.youtube.com/watch?v=eEsfPL6SvJc)
 
 
-[[https://cloud.google.com/architecture/images/spawning-notebook-servers-on-gke-tutorial-architecture.svg]]
 
 
 
