@@ -4,7 +4,6 @@
 
 [Cloud Spanner](https://www.youtube.com/watch?v=bUSU1e9j8wc)    optimizes performance by [automatically sharding the data based on request load and size](https://www.youtube.com/watch?v=amcf6W2Xv6M) of the data. As a result, you can spend less time worrying about [how to scale your database](https://www.youtube.com/watch?v=9PsSIVUbtWo) and instead focus on [scaling your business]().
 
-<img src="https://sdmj45.github.io/blog/2020/05/20/b05-Cloud-Spanner/spanner_architecture.png" width="500">
 
 
 [Cloud Spanner](https://www.youtube.com/watch?v=C75kpQszAjs) is a relational database service that offers transactional consistency at [global scale](https://techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
@@ -20,7 +19,6 @@ https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-spanner
 
 ## Architecture
 
-<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner1.jpg" width="600">
 
 A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
 Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of [Bigtable](Bigtable) servers.
@@ -29,7 +27,6 @@ which data can be replicated.
 Zones can be added to or removed from a running system as new datacenters are
 brought into service and old ones are turned off, respectively. 
 
-<img src="https://i.ytimg.com/vi/SB-z3GL9gVY/maxresdefault.jpg" width="700">
 
 
 Zones are also the unit of physical isolation: there
@@ -112,7 +109,6 @@ Intuitively, Cloud Spanner is semantically indistinguishable from a single-machi
 Even though it provides such strong guarantees, Cloud Spanner enables applications to achieve performance comparable to databases that provide weaker guarantees. 
 Cloud Spanner provides [external consistency](https://www.youtube.com/watch?v=QdkS6ZjeR7Q), which is a stronger property than linearizability, because linearizability does not say anything about the behavior of transactions.
 
-<img src="https://accelazh.github.io/images/ddia-linearizability.png" width="700">
 
 Linearizability is a property of concurrent objects that support atomic read and write operations. 
 In a database, an "object" would typically be a single row or even a single cell. 
@@ -134,14 +130,14 @@ If you take a look at the Server Hardware Rack, the Server is having 4 time serv
 2 Servers are connected with GPS and the remaining 2 are connect with Automic Oscillators. 
 There are 2 different brands of Oscillators for better failover processing. 
 The GPS time servers will sync with Oscillators to synchronize the time across the global datacenters with every 30sec interval.
-<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner3.jpg" width="600">
+
+
 TrueTime is a highly available, distributed clock that is provided to applications on all Google servers. 
 TrueTime enables applications to generate monotonically increasing timestamps: an application can compute a timestamp T that is guaranteed to be greater than any timestamp T' if T' finished being generated before T started being generated. 
 This guarantee holds across all servers and all timestamps.
 
 [https://cloud.google.com/spanner/docs/true-time-external-consistency](https://cloud.google.com/spanner/docs/true-time-external-consistency)
 
-<img src="https://thedataguy.in/assets/Internals%20of%20Google%20Cloud%20Spanner9.jpg" height="600">
 
 https://www.youtube.com/watch?v=iKQhPwbzzxU
 
