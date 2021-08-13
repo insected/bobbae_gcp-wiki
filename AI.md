@@ -1,4 +1,3 @@
-[[https://s.abcnews.com/images/Entertainment/abc_wnn_jeopardy_110114_wg.jpg]]
 
 [Artificial Intelligence](https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/)   systems demonstrate at least some of the following behaviors associated with human intelligence: planning, learning, reasoning, problem solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
 
