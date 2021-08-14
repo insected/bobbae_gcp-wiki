@@ -59,9 +59,7 @@ Looker development foundations.
 [https://training.looker.com/training-business-users](https://training.looker.com/training-business-users)
 
 
-## Looker vs Tableau
 
-[https://looker.com/compare/looker-vs-tableau](https://looker.com/compare/looker-vs-tableau)
 
 
 ## Looker, Building Explores:
@@ -89,6 +87,10 @@ Looker development foundations.
 
 https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef
 
+
+
+[https://looker.com/compare/looker-vs-tableau](https://looker.com/compare/looker-vs-tableau)
+
 ## Looker and Data Studio
 
 Google [Data Studio](Data-Studio) is a visualization and reporting tool, and an integral part of Google Marketing Platform. It enables an enhanced approach to decision-making, allowing your entire organization to readily access and use marketing insights.
@@ -98,6 +100,16 @@ https://infotrust.com/articles/google-data-studio-looker-comparison/
 ## The Data Modeling Layer
 
 [https://www.holistics.io/blog/the-data-modeling-layer/](https://www.holistics.io/blog/the-data-modeling-layer/)
+
+## dbt
+
+dbt is a transformation workflow and data pipeline tool that lets teams collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation.
+
+https://www.getdbt.com/docs/
+
+### dbt tutorial with BigQuery
+
+https://docs.getdbt.com/tutorial/setting-up
 
 ## How do you decide what to model in dbt vs LookML
 
