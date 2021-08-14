@@ -39,17 +39,6 @@ https://kubernetes.io/docs/concepts/storage/storage-classes/
 
 
 
-## CSI
-
-Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
-
-
-https://kubernetes.io/docs/concepts/storage/volumes/#csi
-
-### PVC Persistent Volume Claim
-
-https://kubernetes.io/docs/concepts/storage/persistent-volumes/
-
 
 ## Storage Provisioners
 
@@ -132,6 +121,17 @@ At its core, a volume is a directory, possibly with some data in it, which is ac
 
 https://kubernetes.io/docs/concepts/storage/volumes/
 
+
+### CSI
+
+Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
+
+
+https://kubernetes.io/docs/concepts/storage/volumes/#csi
+
+### PVC Persistent Volume Claim
+
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 
 ### Dynamic Volume Provisioning
 
