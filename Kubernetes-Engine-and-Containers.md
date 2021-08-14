@@ -25,7 +25,7 @@ As Kubernetes evolved the support for [Stateful Applications](https://blog.min.i
 [Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
 
 
-Kubernetes objects can quickly be created, updated, and deleted directly using imperative commands built into the kubectl command-line tool. 
+[Kubernetes objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/) can quickly be created, updated, and deleted directly using imperative commands built into the [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) command-line tool. 
 
 
 
