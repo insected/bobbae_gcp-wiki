@@ -21,7 +21,7 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 [Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
 
 
-As Kubernetes evolved the support for [Stateful Applications](https://blog.min.io/kubernetes-storage-patterns/) the
+[As Kubernetes evolved](https://medium.com/swlh/kubernetes-the-evolution-of-a-technology-revolution-805302172ea6) the support for [Stateful Applications](https://blog.min.io/kubernetes-storage-patterns/) the
 [Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
 
 
