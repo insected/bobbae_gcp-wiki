@@ -56,6 +56,13 @@ You may use Ceph Block Device images with Kubernetes v1.13 and later through cep
 
 https://docs.ceph.com/en/latest/rbd/rbd-kubernetes/
 
+### Longhorn
+
+Cloud native distributed block storage for Kubernetes.
+
+https://longhorn.io/
+
+
 ### Volumes
 
 On-disk files in a container are ephemeral, which presents some problems for non-trivial applications when running in containers. One problem is the loss of files when a container crashes. The kubelet restarts the container but with a clean state. A second problem occurs when sharing files between containers running together in a Pod. 
