@@ -13,9 +13,11 @@ https://youtu.be/fbgva493gb8
 
 Looker also allows you to send data to other platforms through an Application Programming Interface (API) and develop separate data services and products, proving there is much more you can do with the platform than just develop dashboards. 
 
+## Training
 
+https://training.looker.com/
 
-Database to Dashboard, technical demo.
+## Database to Dashboard
 
 [https://www.youtube.com/watch?v=HBgJWCBOOZg](https://www.youtube.com/watch?v=HBgJWCBOOZg)
 
