@@ -145,6 +145,21 @@ https://kubernetes.io/docs/concepts/storage/volumes/#csi
 
 https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 
+### Volume Mode
+
+Filesystem or Raw Block.
+
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/#volume-mode
+
+Discuss the block or filesystem providers mapped to Volume which uses filesystem volume mode. Volume is block level concept. What does it mean to have volume type of filesystem?  Some block providers can be used for raw block volumes.  
+
+
+
+### Raw Block Volume
+
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/#raw-block-volume-support
+
+
 ### Dynamic Volume Provisioning
 
 Dynamic volume provisioning allows storage volumes to be created on-demand. Without dynamic provisioning, cluster administrators have to manually make calls to their cloud or storage provider to create new storage volumes, and then create PersistentVolume objects to represent them in Kubernetes. The dynamic provisioning feature eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage when it is requested by users.
