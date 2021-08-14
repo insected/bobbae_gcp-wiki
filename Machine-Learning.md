@@ -237,6 +237,10 @@ F-measure is the harmonic mean of Precision and Recall and gives a better measur
 
 https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
 
+### Sensitivity and Specificity
+
+https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference
+
 ### ROC and AUC
 
 Receiver Operating Characteristic curve and Area Under the Curve use a combination of the true positive rate and false positive rate to build up a summary picture of the model performance.
