@@ -2,6 +2,10 @@
 
 https://en.wikipedia.org/wiki/Amazon_Web_Services
 
+## Overview of AWS
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html
+
 ## Getting started with AWS
 
 https://aws.amazon.com/getting-started/
