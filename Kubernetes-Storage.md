@@ -38,9 +38,25 @@ Administrators can specify a default StorageClass only for PVCs that don't reque
 https://kubernetes.io/docs/concepts/storage/storage-classes/
 
 
-### Storage Provisioners
+
+## CSI
+
+Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
+
+
+https://kubernetes.io/docs/concepts/storage/volumes/#csi
+
+### PVC Persistent Volume Claim
+
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+
+
+## Storage Provisioners
 
 https://kubernetes.io/docs/concepts/storage/storage-classes/#provisioner
+
+
+## Kubernetes Block Storage Solutions
 
 ### ceph and Rook
 
@@ -60,17 +76,30 @@ https://docs.ceph.com/en/latest/rbd/rbd-kubernetes/
 
 ### Longhorn
 
-Cloud native distributed block storage for Kubernetes.
+Cloud native distributed block storage for Kubernetes by [Rancher](https://rancher.com/).
 
 https://longhorn.io/
 
 ### Linstor
 
+LINSTOR® has a container storage interface (CSI) driver for Kubernetes and is compatible with OpenShift. LINSTOR can also be used independently of a cloud, virtualization, or container platform to manage large [DRBD](https://linbit.com/drbd/) clusters. 
+
+DRBD®– software is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts. 
+
+DRBD is traditionally used in high availability (HA) computer clusters, but beginning with DRBD version 9, it can also be used to create larger software defined storage pools with a focus on cloud integration.
+
 https://linbit.com/linstor/
 
 ### OpenEBS
 
+
+OpenEBS builds on Kubernetes to enable Stateful applications to easily access Dynamic Local PVs or Replicated PVs. By using the Container Attached Storage pattern users report lower costs, easier management, and more control for their teams.
+
 https://openebs.io/
+
+https://docs.openebs.io/
+
+https://docs.openebs.io/docs/next/k8s-storage.html
 
 ### Robin
 
@@ -84,11 +113,13 @@ https://portworx.com/
 
 https://storageos.com/
 
-### Comparisons
+## Kubernetes Storage Solutions Comparisons
 
 https://vitobotta.com/2019/08/06/kubernetes-storage-openebs-rook-longhorn-storageos-robin-portworx/
 
-### Volumes
+https://medium.com/volterra-io/kubernetes-storage-performance-comparison-v2-2020-updated-1c0b69f0dcf4
+
+## Volumes
 
 On-disk files in a container are ephemeral, which presents some problems for non-trivial applications when running in containers. One problem is the loss of files when a container crashes. The kubelet restarts the container but with a clean state. A second problem occurs when sharing files between containers running together in a Pod. 
 
@@ -101,12 +132,6 @@ At its core, a volume is a directory, possibly with some data in it, which is ac
 
 https://kubernetes.io/docs/concepts/storage/volumes/
 
-### Snapshots
-
-In Kubernetes, a VolumeSnapshot represents a snapshot of a volume on a storage system. This document assumes that you are already familiar with Kubernetes persistent volumes.
-
-
-https://kubernetes.io/docs/concepts/storage/volume-snapshots/
 
 ### Dynamic Volume Provisioning
 
@@ -115,16 +140,6 @@ Dynamic volume provisioning allows storage volumes to be created on-demand. With
 
 https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
 
-### CSI
-
-Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
-
-
-https://kubernetes.io/docs/concepts/storage/volumes/#csi
-
-### PVC Persistent Volume Claim
-
-https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 
 
 ### Volume snapshots
@@ -146,5 +161,4 @@ https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/
 ### Volume Health Monitoring
 
 https://kubernetes.io/docs/concepts/storage/volume-health-monitoring/
-
 
