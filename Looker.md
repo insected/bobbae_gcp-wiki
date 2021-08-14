@@ -92,6 +92,8 @@ https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Lo
 
 https://looker.com/certification#exam-guides
 
+https://cloud.google.com/certification/guides/lookml-developer
+
 
 ## Looker vs  Tableau
 
