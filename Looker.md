@@ -13,7 +13,7 @@ https://youtu.be/fbgva493gb8
 
 Looker also allows you to send data to other platforms through an Application Programming Interface (API) and develop separate data services and products, proving there is much more you can do with the platform than just develop dashboards. 
 
-
+https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
 
 ## Getting Started with Looker
 
