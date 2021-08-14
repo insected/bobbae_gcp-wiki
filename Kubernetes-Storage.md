@@ -200,6 +200,8 @@ https://github.com/kubernetes/community/blob/master/contributors/devel/sig-stora
 
 https://kubernetes.io/docs/concepts/storage/volumes/#flexvolume
 
+https://github.com/kubernetes/examples/tree/master/staging/volumes/flexvolume
+
 ### NetApp
 
 https://library.netapp.com/ecmdocs/ECMP1368017/html/GUID-4DF6A167-6C98-4E48-8F5C-41E73A506139.html
