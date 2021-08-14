@@ -13,6 +13,29 @@ https://youtu.be/fbgva493gb8
 
 Looker also allows you to send data to other platforms through an Application Programming Interface (API) and develop separate data services and products, proving there is much more you can do with the platform than just develop dashboards. 
 
+
+
+## Getting Started with Looker
+
+Looker for data consumers.
+
+[https://training.looker.com/looker-for-data-consumers](https://training.looker.com/looker-for-data-consumers)
+
+
+## LookML
+
+Defining the language of your business with LookML.
+
+[https://docs.looker.com/data-modeling/learning-lookml/lookml-intro](https://docs.looker.com/data-modeling/learning-lookml/lookml-intro)
+
+
+[https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
+
+Looker development foundations.
+
+[https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
+
+
 ## Training
 
 https://training.looker.com/
@@ -26,12 +49,6 @@ https://connect.looker.com/
 
 
 
-## Getting Started with Looker
-
-Looker for data consumers.
-
-[https://training.looker.com/looker-for-data-consumers](https://training.looker.com/looker-for-data-consumers)
-
 
 ## Building Reports in Looker
 
@@ -40,19 +57,6 @@ Looker for data explorers.
 [https://training.looker.com/looker-for-data-explorers](https://training.looker.com/looker-for-data-explorers)
 
 
-## LookML
-
-Defining the language of your business with LookML.
-
-[https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
-
-Looker development foundations.
-
-[https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
-
-## Introduction to LookML
-
-[https://docs.looker.com/data-modeling/learning-lookml/lookml-intro](https://docs.looker.com/data-modeling/learning-lookml/lookml-intro)
 
 ## Training business users
 
