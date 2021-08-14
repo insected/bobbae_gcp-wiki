@@ -19,17 +19,7 @@ Database to Dashboard, technical demo.
 
 [https://www.youtube.com/watch?v=HBgJWCBOOZg](https://www.youtube.com/watch?v=HBgJWCBOOZg)
 
-The Data Modeling Layer.
 
-[https://www.holistics.io/blog/the-data-modeling-layer/](https://www.holistics.io/blog/the-data-modeling-layer/)
-
-How do you decide what to model in dbt vs LookML.
-
-[https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/](https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/)
-
-Dbt vs. Matillion vs. LookML.
-
-[https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/](https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/)
 
 
 ## Getting Started with Looker
@@ -56,11 +46,11 @@ Looker development foundations.
 
 [https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
 
-Introduction to LookML.
+## Introduction to LookML
 
 [https://docs.looker.com/data-modeling/learning-lookml/lookml-intro](https://docs.looker.com/data-modeling/learning-lookml/lookml-intro)
 
-Training business users.
+## Training business users
 
 [https://training.looker.com/training-business-users](https://training.looker.com/training-business-users)
 
@@ -80,7 +70,7 @@ Training business users.
 [https://training.looker.com/designing-great-dashboards](https://training.looker.com/designing-great-dashboards)
 
 
-## Looker API Examples:
+## Looker API Examples
 
 [https://training.looker.com/series/recorded-webinars/the-looker-api](https://training.looker.com/series/recorded-webinars/the-looker-api)
 
@@ -99,5 +89,19 @@ https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tool
 
 Google [Data Studio](Data-Studio) is a visualization and reporting tool, and an integral part of Google Marketing Platform. It enables an enhanced approach to decision-making, allowing your entire organization to readily access and use marketing insights.
 
-
 https://infotrust.com/articles/google-data-studio-looker-comparison/
+
+## The Data Modeling Layer
+
+[https://www.holistics.io/blog/the-data-modeling-layer/](https://www.holistics.io/blog/the-data-modeling-layer/)
+
+## How do you decide what to model in dbt vs LookML
+
+[https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/](https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/)
+
+## Dbt vs. Matillion vs. LookML
+
+[https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/](https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/)
+
+
+
