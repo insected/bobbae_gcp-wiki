@@ -6,7 +6,12 @@ Looker gives you the tools to power a multitude of data experiences, from modern
 
 [https://cloud.google.com/looker](https://cloud.google.com/looker)
 
-Looker is a data aggregation tool in addition to dashboarding. It was built from the ground up to integrate a variety of data sources and allow for the flexibility to aggregate and transform data with LookML. Looker also allows you to send data to other platforms through an Application Programming Interface (API) and develop separate data services and products, proving there is much more you can do with the platform than just develop dashboards. 
+Looker is a data aggregation tool in addition to dashboarding. It was built from the ground up to integrate a variety of data sources and allow for the flexibility to aggregate and transform data with LookML. 
+
+https://youtu.be/fbgva493gb8
+
+
+Looker also allows you to send data to other platforms through an Application Programming Interface (API) and develop separate data services and products, proving there is much more you can do with the platform than just develop dashboards. 
 
 [https://www.youtube.com/watch?v=krXaBEi3f1s](https://www.youtube.com/watch?v=krXaBEi3f1s)
 
