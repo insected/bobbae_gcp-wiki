@@ -189,3 +189,17 @@ https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/
 
 https://kubernetes.io/docs/concepts/storage/volume-health-monitoring/
 
+## FlexVolume
+
+### Kubernetes Definition
+
+FlexVolume is an out-of-tree plugin interface that has existed in Kubernetes since version 1.2 (before CSI). It uses an exec-based model to interface with drivers. The FlexVolume driver binaries must be installed in a pre-defined volume plugin path on each node and in some cases the control plane nodes as well.
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-storage/flexvolume.md
+
+
+https://kubernetes.io/docs/concepts/storage/volumes/#flexvolume
+
+### NetApp
+
+https://library.netapp.com/ecmdocs/ECMP1368017/html/GUID-4DF6A167-6C98-4E48-8F5C-41E73A506139.html
