@@ -21,7 +21,7 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 [Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
 
 
-As Kubernetes evolved the support for [Stateful Applications](https://thenewstack.io/the-evolution-of-stateful-applications-on-kubernetes/) the
+As Kubernetes evolved the support for [Stateful Applications](https://blog.min.io/kubernetes-storage-patterns/) the
 [Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
 
 
@@ -29,19 +29,14 @@ Kubernetes objects can quickly be created, updated, and deleted directly using i
 
 
 
-A Kubernetes cluster consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node.
-
-
-
-[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is an open source container orchestration engine for automating deployment, scaling, and management of containerized applications. 
-
-
-[Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do) is a portable, extensible, open-source platform for managing [containerized workloads and services](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx), that facilitates both [declarative configuration](https://www.youtube.com/watch?v=qmDzcu5uY1I) and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+A [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) cluster consists of a set of worker machines, called nodes, that run containerized applications. Every cluster has at least one worker node. 
 
 
 
 
-[Kubernetes](https://cloud.google.com/learn/what-is-kubernetes) API lets you query and manipulate the state of objects in Kubernetes. The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
+[Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do) is a portable, extensible, open-source platform for managing [containerized workloads and services](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx), that facilitates both [declarative configuration](https://www.youtube.com/watch?v=qmDzcu5uY1I) and automation. 
+
+
 
 
 
