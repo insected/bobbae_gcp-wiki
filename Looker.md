@@ -83,6 +83,16 @@ Looker development foundations.
 
 [https://training.looker.com/series/recorded-webinars](https://training.looker.com/series/recorded-webinars)
 
+
+## Performance Best Practice
+
+https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
+
+## Certification
+
+https://looker.com/certification#exam-guides
+
+
 ## Looker vs  Tableau
 
 https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef
