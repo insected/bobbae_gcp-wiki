@@ -12,6 +12,19 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 
 
 
+[Kubernetes is influenced](Kubernetes-Origin)  by Borg, Omega and other systems.  You should check out various
+[Kubernetes Examples](Kubernetes-Examples) to learn more about [Kubernetes Architecture](Kubernetes-Architecture).
+
+
+
+
+[Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
+
+
+As Kubernetes evolved the support for [Stateful Applications](https://thenewstack.io/the-evolution-of-stateful-applications-on-kubernetes/) the
+[Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
+
+
 Kubernetes objects can quickly be created, updated, and deleted directly using imperative commands built into the kubectl command-line tool. 
 
 
@@ -84,20 +97,6 @@ The Kubernetes command-line tool, [kubectl](https://kubernetes.io/docs/reference
 
 
 
-
-## Kubernetes Details
-
-[Kubernetes is influenced](Kubernetes-Origin)  by Borg, Omega and other systems.  You should check out various
-[Kubernetes Examples](Kubernetes-Examples) to learn more about [Kubernetes Architecture](Kubernetes-Architecture).
-
-
-
-
-[Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
-
-
-As Kubernetes evolved the support for [Stateful Applications](https://thenewstack.io/the-evolution-of-stateful-applications-on-kubernetes/) the
-[Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
 
 ## Authentication and Authorization in Kubernetes
 
