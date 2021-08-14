@@ -21,3 +21,10 @@ https://aws.amazon.com/getting-started/
 https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
 
 
+## Compute Services
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html
+
+### Amazon EC2
+
+[Amazon Elastic Compute Cloud](https://aws.amazon.com/ec2/) (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. 
