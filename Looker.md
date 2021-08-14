@@ -17,6 +17,8 @@ Looker also allows you to send data to other platforms through an Application Pr
 
 https://training.looker.com/
 
+https://connect.looker.com/
+
 ## Database to Dashboard
 
 [https://www.youtube.com/watch?v=HBgJWCBOOZg](https://www.youtube.com/watch?v=HBgJWCBOOZg)
