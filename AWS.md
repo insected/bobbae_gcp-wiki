@@ -12,9 +12,7 @@ https://aws.amazon.com/getting-started/
 
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html
 
-## Getting started with AWS
 
-https://aws.amazon.com/getting-started/
 
 ## Comparison of AWS, GCP and Azure
 
