@@ -137,6 +137,77 @@ http://aws.amazon.com/rosa
 ## Database
 
 
+### Amazon Aurora
+
+Amazon Aurora is a MySQL and PostgreSQL compatible relational database engine that combines the speed and availability of high-end commercial databases with the simplicity and cost-eﬀectiveness of open source databases.
+
+
+https://aws.amazon.com/rds/aurora/
+
+### Amazon DynamoDB
+
+Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multiregion, multimaster database with built-in security, backup and restore, and in-memory caching for internet-scale applications. DynamoDB can handle more than 10 trillion requests per day and support peaks of more than 20 million requests per second.
+
+https://aws.amazon.com/dynamodb/
+
+
+### Amazon ElastiCache
+
+Amazon ElastiCache is a web service that makes it easy to deploy, operate, and scale an in-memory cache in the cloud. The service improves the performance of web applications by allowing you to retrieve information from fast, managed, in-memory caches, instead of relying entirely on slower disk-based databases. It supports Redis and Memcached.
+
+https://aws.amazon.com/elasticache/
+
+
+### Amazon Keyspaces (for Apache Cassandra)
+
+Amazon Keyspaces (for Apache Cassandra) is a scalable, highly available, and managed Apache Cassandra–compatible database service. 
+
+http://aws.amazon.com/keyspaces
+
+
+### Amazon Neptune 
+
+Amazon Neptune is a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets. The core of Amazon Neptune is a purpose-built, high-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency. 
+
+Amazon Neptune supports popular graph models Property Graph and W3C's RDF, and their respective query languages Apache TinkerPop Gremlin and SPARQL, allowing you to easily build queries that efficiently navigate highly connected datasets. Neptune powers graph use cases such as recommendation engines, fraud detection, knowledge graphs, drug discovery, and network security.
+
+
+https://aws.amazon.com/neptune/
+
+
+### Amazon Relational Database Service
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.
+
+Amazon RDS is available on several database instance types - optimized for memory, performance or I/O - and provides you with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server. You can use the AWS Database Migration Service to easily migrate or replicate your existing databases to Amazon RDS.
+
+https://aws.amazon.com/rds/
+
+#### AWS RDS or Aurora
+
+https://aws.amazon.com/blogs/database/is-amazon-rds-for-postgresql-or-amazon-aurora-postgresql-a-better-choice-for-me/
+
+### Amazon Quantum Ledger Database (QLDB)
+
+Amazon QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log ‎owned by a central trusted authority. Amazon QLDB tracks each and every application data change and maintains a complete and verifiable history of changes over time.
+
+https://aws.amazon.com/qldb/
+
+
+### Amazon Timestream
+
+Amazon Timestream is a fast, scalable, fully managed time series database service for IoT and operational applications that makes it easy to store and analyze trillions of events per day at 1/10th the cost of relational databases. 
+
+
+https://aws.amazon.com/timestream/
+
+
+Amazon DocumentDB (with MongoDB compatibility)
+
+Amazon DocumentDB (with MongoDB compatibility)  is a fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads.
+
+https://aws.amazon.com/documentdb/
+
 
 
 
