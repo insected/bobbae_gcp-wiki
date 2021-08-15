@@ -99,7 +99,7 @@ VMware Cloud on AWS is an integrated cloud offering jointly developed by AWS and
 https://aws.amazon.com/vmware/
 
 
-### Container
+### Container Services
 
 #### Amazon Elastic Container Service
 
@@ -134,7 +134,7 @@ Red Hat OpenShift Service on AWS (ROSA) provides an integrated experience to use
 http://aws.amazon.com/rosa
 
 
-## Database
+## Databases
 
 
 ### Amazon Aurora
@@ -212,6 +212,21 @@ https://aws.amazon.com/documentdb/
 
 
 ## Networking and Content Delivery
+
+### AWS VPN
+AWS Virtual Private Network solutions establish secure connections between your on-premises networks, remote offices, client devices, and the AWS global network. AWS VPN is comprised of two services: AWS Site-to-Site VPN and AWS Client VPN. Each service provides a highly-available, managed, and elastic cloud VPN solution to protect your network traffic.
+
+http://aws.amazon.com/vpn
+
+
+
+### Elastic Load Balancing
+
+Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, and IP addresses. It can handle the varying load of your application traffic in a single Availability Zone or across multiple Availability Zones. Elastic Load Balancing offers four types of load balancers that all feature the high availability, automatic scaling, and robust security necessary to make your applications fault tolerant.
+
+
+https://aws.amazon.com/elasticloadbalancing/
+
 
 
 ## Storage
