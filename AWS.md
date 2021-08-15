@@ -79,6 +79,10 @@ AWS Outposts bring native AWS services, infrastructure, and operating models to 
 
 https://aws.amazon.com/outposts/
 
+#### Comparison to GCP Anthos
+
+https://www.qwinix.io/blog/aws-outposts-vs-google-cloud-anthos-forging-the-hybrid-cloud-future/
+
 
 ### AWS Wavelength
 
