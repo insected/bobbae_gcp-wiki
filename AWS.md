@@ -363,7 +363,70 @@ https://aws.amazon.com/storagegateway/
 
 
 
+### Amazon SageMaker
 
+Amazon SageMaker is a fully-managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. SageMaker removes all the barriers that typically slow down developers who want to use machine learning.
+
+
+https://aws.amazon.com/sagemaker
+
+
+### Amazon SageMaker Ground Truth
+
+Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning quickly. SageMaker Ground Truth offers easy access to public and private human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, SageMaker Ground Truth can lower your labeling costs by up to 70% using automatic labeling, which works by training Ground Truth from data labeled by humans so that the service learns to label data independently.
+
+https://aws.amazon.com/sagemaker/groundtruth
+
+
+### TensorFlow on AWS
+
+TensorFlow enables developers to quickly and easily get started with deep learning in the cloud. The framework has broad support in the industry and has become a popular choice for deep learning research and application development, particularly in areas such as computer vision, natural language understanding and speech translation.
+
+https://aws.amazon.com/tensorflow
+
+### Apache MXNet on AWS
+
+Apache MXNet on AWS is a fast and scalable training and inference framework with an easy-to-use, concise API for machine learning.
+
+https://aws.amazon.com/mxnet
+
+### Amazon Elastic Inference
+
+Amazon Elastic Inference allows you to attach low-cost GPU-powered acceleration to Amazon EC2 and Amazon SageMaker instances to reduce the cost of running deep learning inference by up to 75%. Amazon Elastic Inference supports TensorFlow, Apache MXNet, PyTorch, and ONNX models.
+
+https://aws.amazon.com/machine-learning/elastic-inference/
+
+### AWS Inferentia
+
+AWS Inferentia is a machine learning inference chip designed to deliver high performance at low cost. AWS Inferentia will support the TensorFlow, Apache MXNet, and PyTorch deep learning frameworks, as well as models that use the ONNX format.
+
+https://aws.amazon.com/machine-learning/inferentia
+
+### Amazon Forecast
+
+Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts.
+
+https://aws.amazon.com/forecast/
+
+### Amazon Fraud Detector
+
+Amazon Fraud Detector is a fully managed service that uses machine learning (ML) and more than 20 years of fraud detection expertise from Amazon, to identify potentially fraudulent activity so customers can catch more online fraud faster.
+
+http://aws.amazon.com/fraud-detector
+
+### Amazon Personalize
+
+Amazon Personalize is a machine learning service that makes it easy for developers to create individualized recommendations for customers using their applications.
+
+https://aws.amazon.com/personalize/
+
+### Amazon Rekognition
+
+Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use. 
+
+https://aws.amazon.com/rekognition
+
+### 
 
 
 
