@@ -110,6 +110,8 @@ https://gcppodcast.com/
 
 https://kubernetespodcast.com/
 
+https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
+
 ### Qwiklabs
 
 
