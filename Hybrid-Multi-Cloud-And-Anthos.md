@@ -107,7 +107,7 @@ You remain in control of what data is sent through Connect.
 
 https://www.bizety.com/2020/06/28/aws-outposts-google-anthos-gke-and-azure-on-prem-overview/
 
-
+https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-compared-aws-outposts-vs-azure-stack-vs-google-anthos.html
 
 
 ## Qwiklabs
