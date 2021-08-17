@@ -69,3 +69,9 @@ https://knative.dev/docs/eventing/getting-started/
 ### Code Samples
 
 https://knative.dev/docs/samples/
+
+## Knative and Cloud Run portability
+
+
+https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
+
