@@ -37,6 +37,12 @@ Google built a superior [cloud network](https://cloud.google.com/docs/compare/da
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/infrastructure-1.max-1000x1000.png" width="500">
 
 
+## IP Addresses
+
+https://cloud.google.com/compute/docs/ip-addresses
+
+
+
 ## Networking 101
 
 [https://www.youtube.com/watch?v=0hN-dyOV10c](https://www.youtube.com/watch?v=0hN-dyOV10c)
