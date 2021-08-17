@@ -161,10 +161,6 @@ https://ai.google/responsibilities/responsible-ai-practices/
 
 https://thebestschools.org/magazine/limits-of-modern-ai/
 
-https://hackernoon.com/the-missing-pieces-6-limitations-of-ai-s85r3upr
-
-https://mindmatters.ai/2020/08/six-limitations-of-artificial-intelligence-as-we-know-it/
-
 ### Limits of Data Science
 
 https://towardsdatascience.com/the-limits-of-data-science-b4e5faad20f4
