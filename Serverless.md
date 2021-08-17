@@ -1,6 +1,10 @@
 
 
-Google Cloud’s [serverless platform](https://www.youtube.com/watch?v=PBw9vD_BO5A) lets you write code your way without worrying about the underlying infrastructure. Deploy functions or apps as source code or as containers. Build full stack serverless applications with Google Cloud’s storage, databases, machine learning, and more. Easily extend applications with event-driven computing from Google or third-party service integrations. You can even choose to move your serverless workloads to on-premises environments or to the cloud.
+Google Cloud’s [serverless platform](https://www.youtube.com/watch?v=PBw9vD_BO5A) lets you write code your way without worrying about the underlying infrastructure. Deploy functions or apps as source code or as containers. 
+
+Build full stack serverless applications with Google Cloud’s storage, databases, machine learning, and more. 
+
+Easily extend applications with event-driven computing from Google or third-party service integrations. You can even choose to move your serverless workloads to on-premises environments or to the cloud.
 
 
 
@@ -13,7 +17,7 @@ Google Cloud’s [serverless platform](https://www.youtube.com/watch?v=PBw9vD_BO
 
 Cloud Run is serverless: it abstracts away all infrastructure management, so you can focus on what matters most — building great applications. 
 
-It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with Cloud Run for Anthos.
+It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with [Cloud Run for Anthos](https://cloud.google.com/anthos/run).
 
 
 
@@ -36,6 +40,17 @@ Learn how to deploy serverless containers in 3 environments using Cloud Run and 
 A video on migrating kubernetes apps to serverless with Cloud Run on Anthos.
 
 [https://www.youtube.com/watch?v=0T5UliS9j8A](https://www.youtube.com/watch?v=0T5UliS9j8A)
+
+### Stateless
+
+Cloud Run is for stateless applications. To store state you can use external cloud based storage.
+
+https://medium.com/google-cloud/3-great-options-for-persistent-storage-with-cloud-run-f1581ee05164
+
+### Mounting a file as volume in Cloud Run
+
+https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02cc6
+
 
 
 ## App Engine
