@@ -93,6 +93,13 @@ https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Lo
 
 ## Extension Framework
 
+The Looker extension framework is a development framework that significantly reduces the effort and complexity of building custom JavaScript data applications and tools.
+
+https://developers.looker.com/extensions/getting-started
+
+### Python examples
+
+Python Looker source code example that use SDKs to communicate with the Looker API. 
 
 https://cloud.google.com/blog/topics/developers-practitioners/building-looker-made-easier-extension-framework
 
