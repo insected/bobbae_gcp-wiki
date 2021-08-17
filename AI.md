@@ -160,12 +160,12 @@ https://ai.google/responsibilities/responsible-ai-practices/
 https://towardsdatascience.com/the-limits-of-data-science-b4e5faad20f4
 
 
-## Limits of Machine Learning
+### Limits of Machine Learning
 
 https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
 
 
-## Computational limits
+### Computational limits
 
 https://arxiv.org/pdf/2007.05558.pdf
 
@@ -174,11 +174,11 @@ https://arxiv.org/pdf/2007.05558.pdf
 
 https://chrislovejoy.me/correlation-causation/
 
-## Counterfactual
+### Counterfactual
 
 https://www.inference.vc/causal-inference-3-counterfactuals/
 
-## Causality
+### Causality
 
 https://www.youtube.com/watch?v=78EmmdfOcI8
 
