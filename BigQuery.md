@@ -24,6 +24,9 @@ Each time BigQuery executes a query, it executes [a full-column scan](https://cl
 
 To understand the performance characteristics after a query executes, take a look at the detailed query plan explanation. The explanation breaks down the stages that the query went through, the number of input/output rows handled at each stage, and the timing profile within each stage. Using the results from the explanation can help you understand and optimize your queries.
 
+
+https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing
+
 ## Managed
 
 With BigQuery, there's no infrastructure to set up or manage, letting you [focus on finding insights](https://cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/) using standard SQL and taking advantage of flexible pricing models across on-demand and flat-rate options.
@@ -31,6 +34,9 @@ With BigQuery, there's no infrastructure to set up or manage, letting you [focus
 ## Wide Column Storage
 
 [BigQuery](https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1)  is designed to [ingest and store](https://www.youtube.com/watch?v=d3MDxC_iuaw) large amounts of data, and make that data accessible for fast, [large-scale analytics](https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g) - to help analysts and developers alike. BigQuery [stores data in wide columns](https://www.youtube.com/watch?v=1gYUGv_omJA) which are in separate files that are compressed and work well with distributed systems like [Colossus](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system). 
+
+
+https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-storage
 
 ## In-Memory Shuffling
 
@@ -243,17 +249,24 @@ https://cloud.google.com/bigquery/docs/materialized-views-intro
 
 BigQuery Reservations enables you to switch between on-demand pricing and flat-rate pricing. With flat-rate pricing, you purchase dedicated query processing capacity. You can allocate this capacity across your organization, by reserving pools of capacity for different projects or different parts of your organization. You can also combine the two billing models, taking advantage of both on-demand and flat-rate pricing.
 
+https://cloud.google.com/bigquery/docs/reservations-intro
+
+
+https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model
 
 ### Controlling costs
 
 https://cloud.google.com/bigquery/docs/controlling-costs
 
-### Reservations
+https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker
 
-https://cloud.google.com/bigquery/docs/reservations-intro
+
+
 
 
 ### Organizing BigQuery resources
+
+Resource Hierarchy.
 
 https://cloud.google.com/bigquery/docs/resource-hierarchy
 
