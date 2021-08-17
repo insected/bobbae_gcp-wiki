@@ -109,6 +109,9 @@ https://www.bizety.com/2020/06/28/aws-outposts-google-anthos-gke-and-azure-on-pr
 
 https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-compared-aws-outposts-vs-azure-stack-vs-google-anthos.html
 
+## Collie
+
+https://github.com/meshcloud/collie-cli
 
 ## Qwiklabs
 
