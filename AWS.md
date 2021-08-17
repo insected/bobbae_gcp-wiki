@@ -260,6 +260,10 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 https://aws.amazon.com/emr
 
+#### EMR vs Dataproc
+
+https://www.oreilly.com/content/spark-comparison-aws-vs-gcp/
+
 ### Amazon Kinesis
 
 Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
