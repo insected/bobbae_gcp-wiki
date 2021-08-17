@@ -23,3 +23,4 @@ https://cloud.google.com/agent-assist
 Uses natural language processing to identify call drivers and sentiment that helps contact center managers learn about customer interactions to improve call outcomes.
 
 
+https://cloud.google.com/contact-center/insights/docs
