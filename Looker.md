@@ -97,6 +97,35 @@ The Looker extension framework is a development framework that significantly red
 
 https://developers.looker.com/extensions/getting-started
 
+### Looker Extension SDK
+
+https://www.npmjs.com/package/@looker/extension-sdk
+
+### Public API
+
+https://docs.looker.com/reference/api-and-integration/api-getting-started
+
+### React UI Components
+
+A library of pre-built React UI components you can use in your extensions.
+
+
+https://developers.looker.com/components/develop
+
+### Embed SDK
+
+
+A   library you can use to embed dashboards, Looks, and Explores in your extension. 
+
+https://developers.looker.com/embed/embed-sdk
+
+
+### create-looker-extension Tool
+
+This utility helps you rapidly create new Looker Extension Framework extensions.
+
+https://github.com/looker-open-source/create-looker-extension
+
 ### Python examples
 
 Python Looker source code example that use SDKs to communicate with the Looker API. 
