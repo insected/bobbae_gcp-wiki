@@ -59,7 +59,9 @@ You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-
 [https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30](https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30)
 
 
+## Creating Dataproc cluster
 
+https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotchas-resources-930294ddb7f3
 
 ## Spark by Example
 
