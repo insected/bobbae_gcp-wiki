@@ -7,12 +7,12 @@
 
 GCP has benefitted from [fundamental research ](https://research.google/) that continue to influence the  product development.
 
-### Getting Started
+## Getting Started
 
 https://console.cloud.google.com/getting-started
 
 
-### Regions and Zones
+## Regions and Zones
 
 
 
@@ -25,17 +25,17 @@ This distribution also introduces some rules about how resources can be used tog
 
 Regional resources can be used anywhere within the same region, while zonal resources can be used anywhere within the same zone. 
 
-### What makes GCP Different?
+## What makes GCP Different?
 
 https://cloud.google.com/free/docs/what-makes-google-cloud-platform-different
 
 
-### GCP Youtube Channel
+## GCP Youtube Channel
 
 [Google produced videos](https://www.youtube.com/googlecloudplatform/) that help you learn about GCP are collected in this channel.
 
 
-### GCP Useful Links
+## GCP Useful Links
 
 
 Review this [awesome](https://github.com/GoogleCloudPlatform/awesome-google-cloud) list of [ resources](GCP-Learning-Links) related to GCP.
@@ -43,29 +43,29 @@ Review this [awesome](https://github.com/GoogleCloudPlatform/awesome-google-clou
 Review the lists of [industry specific solutions](https://cloud.google.com/solutions) and GCP [Architecture reference solutions](https://gcp.solutions/) and  [samples](https://cloud.google.com/docs/samples).
 
 
-#### Summary of GCP Services
+### Summary of GCP Services
 
 Summary of google cloud services in [4 words](https://github.com/gregsramblings/google-cloud-4-words).
 
 
 
 
-### Compare Platforms
+## Compare Platforms
 
 [Here are some comparisons](https://cloud.google.com/docs/compare) to [AWS](AWS), [Azure](https://azure.microsoft.com/), [Openstack](https://www.openstack.org/) and On-prem.
 
 
 
-### Google Cloud setup checklist
+## Google Cloud setup checklist
 
 This [checklist](https://cloud.google.com/docs/enterprise/onboarding-checklist) helps you set up Google Cloud for scalable, production-ready enterprise workloads. The checklist is designed for administrators who are trusted with complete control over the company's Google Cloud resources.
 
 
 
-### Basic Tools
+## Basic Tools
 
 
-#### Cloud SDK
+### Cloud SDK
 
 Google [Cloud SDK](https://cloud.google.com/sdk/docs) is a set of tools that you can use to manage resources and applications hosted on Google Cloud. These include the [gcloud](https://cloud.google.com/sdk/gcloud/reference), [gsutil](https://cloud.google.com/storage/docs/gsutil), and [bq](https://cloud.google.com/bigquery/bq-command-line-tool) command line tools. The [gcloud command-line tool](https://dominicusin.github.io/2019/07/25/gcloud-cheat-sheet.html) is downloaded along with the Cloud SDK; a comprehensive guide to the gcloud CLI can be found in [gcloud command-line tool overview](https://cloud.google.com/sdk/gcloud).
 
@@ -75,27 +75,40 @@ Learn more about the integrated [command line tools](https://www.youtube.com/wat
 
 
 
-#### Cloud Shell
+### Cloud Shell
 
 Google [Cloud Shell](https://cloud.google.com/shell/docs) is an [interactive shell](   https://www.youtube.com/watch?v=d7bXH_2X760 ) environment for Google Cloud Platform that makes it easy for you to learn and experiment with GCP and manage your projects and resources from your web browser.
 
 
-### Tutorials
+## Tutorials
 
 A list of short tutorials on [getting started](https://cloud.google.com/gcp/getting-started) with [GCP](  https://cloud.google.com/docs/tutorials ).
 
 
-### Whitepapers
+## Whitepapers
 
 [Google Cloud whitepapers](https://cloud.google.com/whitepapers/) explain the technology underlying gcp products and services or examine topics such as security, architecture, and total cost of ownership. 
 
-### Cloud Architecture Center
+## Cloud Architecture Center
 
 https://cloud.google.com/architecture/
 
-### Compare AWS and Azure services to GCP
+## Compare AWS and Azure services to GCP
 
 https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
+
+
+## Videos
+
+https://www.youtube.com/googlecloud
+
+https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
+
+## Podcasts
+
+https://gcppodcast.com/
+
+https://kubernetespodcast.com/
 
 ### Qwiklabs
 
