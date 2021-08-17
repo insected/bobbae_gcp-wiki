@@ -181,25 +181,29 @@ https://cloud.google.com/compute/docs/instance-groups/regional-migs
 [https://cloud.google.com/solutions/connecting-securely](https://cloud.google.com/solutions/connecting-securely)
 
 
-## SSH connections to Linux VMs
+### SSH connections to Linux VMs
 
 [https://cloud.google.com/compute/docs/instances/ssh](https://cloud.google.com/compute/docs/instances/ssh)
 
 
 
 
-## Managing SSH keys
+### Managing SSH keys
 
 [https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys](https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys)
 
-## SSH protocol and public key authentication method
+### SSH protocol and public key authentication method
 
 https://www.ssh.com/academy/ssh/public-key-authentication
 
-## PKI
+### PKI
 
 https://www.ssh.com/academy/pki
 
+
+### VPC firewall rules for VMs
+
+https://cloud.google.com/vpc/docs/special-configurations
 
 ## Creating snapshots
 
