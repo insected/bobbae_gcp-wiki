@@ -1,4 +1,4 @@
-Kubernetes-based platform to deploy and manage modern serverless workloads.
+Kubernetes-based platform to deploy and manage modern [serverless](Serverless) workloads.
 
 https://knative.dev/docs/
 
