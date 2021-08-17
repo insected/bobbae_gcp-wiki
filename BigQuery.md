@@ -349,6 +349,7 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
 [https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql](https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql)
 
+https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendly-sql-bigquery
 
 ## BigQuery ML 
 
@@ -370,6 +371,12 @@ https://amygdala.github.io/gcp_blog/ml/automl/bigquery/2020/07/14/bqml_tables.ht
 To train an AutoML Tables model inside of BigQuery, use the BigQuery ML CREATE MODEL statement with one of the AutoML Tables model types.
 
 https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-create-automl
+
+
+### Unsupervised anomaly detection for time series and non-time series data
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-ml-unsupervised-anomaly-detection
+
 
 ## BigQuery Omni
 
