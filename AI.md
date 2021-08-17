@@ -104,6 +104,11 @@ https://cloud.google.com/vertex-ai/docs/tutorials
 
 https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf
 
+### XAI
+
+Explainable AI relates to the ways to explain or to present in understandable terms to a human. 
+
+https://pair.withgoogle.com/
 
 ## AutoML
 
@@ -165,9 +170,5 @@ https://www.inference.vc/causal-inference-3-counterfactuals/
 
 https://www.youtube.com/watch?v=78EmmdfOcI8
 
-## XAI
 
-Explainable AI relates to the ways to explain or to present in understandable terms to a human. 
-
-https://pair.withgoogle.com/
 
