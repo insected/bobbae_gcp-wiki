@@ -5,7 +5,7 @@ Google Cloud’s [serverless platform](https://www.youtube.com/watch?v=PBw9vD_BO
 
 
 
-### Cloud Run
+## Cloud Run
 
 [Cloud Run](http://cloud.run/) is a managed compute platform that enables you to run stateless containers that can be invoked via web requests or Pub/Sub events. 
 
@@ -18,14 +18,14 @@ It is built from [Knative](https://cloud.google.com/knative/), letting you choos
 
 
 
-#### Quickstart: Build and Deploy
+### Quickstart: Build and Deploy
 
 This [interactive tutorial](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) can be opened in Cloud Shell editor (theia) and followed step by step.
 
 
 
 
-#### Use Cases
+### Use Cases
 
 
 
@@ -38,7 +38,7 @@ A video on migrating kubernetes apps to serverless with Cloud Run on Anthos.
 [https://www.youtube.com/watch?v=0T5UliS9j8A](https://www.youtube.com/watch?v=0T5UliS9j8A)
 
 
-### App Engine
+## App Engine
 
 [App Engine](App-Engine) is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
 
@@ -48,7 +48,7 @@ Google App Engine makes it easy to focus on your code, while letting us manage y
 [https://www.youtube.com/watch?v=2PRciDpqpko](https://www.youtube.com/watch?v=2PRciDpqpko)
 
 
-### Cloud Functions
+## Cloud Functions
 
 [Google Cloud Functions](https://cloud.google.com/functions/docs/concepts/overview) is a lightweight compute solution for developers to create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment.
 
@@ -59,12 +59,12 @@ A video tutorial of Cloud Functions that  will show you how to deploy a Cloud Fu
 [https://www.youtube.com/watch?v=vM-2O-uKBNQ](https://www.youtube.com/watch?v=vM-2O-uKBNQ)
 
 
-#### Cloud Functions for .NET
+### Cloud Functions for .NET
 
 [https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions](https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions)
 
 
-### Knative
+## Knative
 
 [Knative](https://knative.dev/) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
 
@@ -92,14 +92,14 @@ Run managed serverless containers with Knative.
 
 Knative installation is done on top of Kubernetes and uses optional extensions such as [Ambassador](https://www.getambassador.io/), [Contour](https://projectcontour.io/), [Kong](https://konghq.com/kong/) and [Gloo](https://docs.solo.io/gloo-edge/latest/).
 
-#### Cloud Run
+### Knative based Cloud Run
 
 [https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga](https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga)
 
 
-### Workflows
+## Cloud Workflows and serverless tasks
 
-You can use [Workflows](Workflows) to create serverless workflows that link a series of serverless tasks together in an order you define. Combine the power of Google Cloud's APIs, serverless products like Cloud Functions and Cloud Run, and calls to external APIs to create flexible serverless applications. Workflows require no infrastructure management and scales seamlessly with demand, including scaling down to zero.
+You can use [Cloud Workflows](Workflows) to create serverless workflows that link a series of serverless tasks together in an order you define. Combine the power of Google Cloud's APIs, serverless products like Cloud Functions and Cloud Run, and calls to external APIs to create flexible serverless applications. Workflows require no infrastructure management and scales seamlessly with demand, including scaling down to zero.
 
 
 
@@ -108,14 +108,19 @@ Build serverless workflows orchestrating various products and API calls within G
 [https://www.youtube.com/watch?v=Uz8G8fTwwXs](https://www.youtube.com/watch?v=Uz8G8fTwwXs)
 
 
-### Serverless Predictions at Scale
+## Serverless Tensorflow Predictions at Scale
 
 Cloud Machine Learning Engine Prediction Service can serve TensorFlow models and scale.
 
 [https://www.youtube.com/watch?v=_JCMN8-yhBM](https://www.youtube.com/watch?v=_JCMN8-yhBM)
 
 
-### Qwiklabs
+## CloudRun Continous Deployment and Domain Mapping
+
+https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
+
+
+## Qwiklabs
 
 
 
