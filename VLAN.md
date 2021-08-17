@@ -46,13 +46,13 @@ Similar a bonded interface, the purpose of a team device is to provide a mechani
 
 A VLAN, aka virtual LAN, separates broadcast domains by adding tags to network packets. 
 
-[IEEE 802.1Q]( https://en.m.wikipedia.org/wiki/IEEE_802.1Q   ).
+https://techhub.hpe.com/eginfolib/networking/docs/switches/5820x-5800/5998-7387r_l2-lan_cg/content/441756596.htm
 
 ## VXLAN
 
 VXLAN (Virtual eXtensible Local Area Network) is a tunneling protocol designed to solve the problem of limited VLAN IDs (4,096) in IEEE 802.1q. It is described by [IETF RFC 7348](https://datatracker.ietf.org/doc/html/rfc7348).
 
-
+https://networkdirection.net/articles/routingandswitching/vxlanoverview/vxlanframes/
 
 ## MACVLAN
 
@@ -61,10 +61,13 @@ With VLAN, you can create multiple interfaces on top of a single one and filter 
 
 Before MACVLAN, if you wanted to connect to physical network from a VM or namespace, you would have needed to create TAP/VETH devices and attach one side to a bridge and attach a physical interface to the bridge on the host at the same time, as shown below.
 
+https://hicu.be/bridge-vs-macvlan
 
 ## IPVLAN
 
 IPVLAN is similar to MACVLAN with the difference being that the endpoints have the same MAC address.
+
+https://hicu.be/macvlan-vs-ipvlan
 
 
 ## MACVTAP/IPVTAP
@@ -73,13 +76,16 @@ MACVTAP/IPVTAP is a new device driver meant to simplify virtualized bridged netw
 
 ## MACSec
 
-MACsec (Media Access Control Security) is an IEEE standard for security in wired Ethernet LANs. Similar to IPsec, as a layer 2 specification, MACsec can protect not only IP traffic but also ARP, neighbor discovery, and DHCP. The MACsec headers look like this:
+MACsec (Media Access Control Security) is an IEEE standard for security in wired Ethernet LANs. Similar to IPsec, as a layer 2 specification, MACsec can protect not only IP traffic but also ARP, neighbor discovery, and DHCP. 
+
+https://developers.redhat.com/blog/2016/10/14/macsec-a-different-solution-to-encrypt-network-traffic
 
 
 ## VETH
 
-The VETH (virtual Ethernet) device is a local Ethernet tunnel. Devices are created in pairs, as shown in the diagram below.
+The VETH (virtual Ethernet) device is a local Ethernet tunnel. 
 
+https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
 
 ## VCAN
 
