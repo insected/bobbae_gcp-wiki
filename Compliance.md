@@ -10,7 +10,7 @@ https://cloud.google.com/security/
 
 ## Compliance Engineering
 
-Risk Management and Compliance is as important in the cloud as it is in conventional on-premises environments. To help organizations in regulated industries meet their compliance requirements, Google Cloud offers automated capabilities that ensure the effectiveness of productionalization processes. 
+Risk Management and Compliance is as important in the cloud as it is in conventional on-premises environments. To help organizations in regulated industries meet their compliance requirements, Google Cloud offers automated capabilities that ensure the effectiveness of products and  processes. 
 
 https://cloud.google.com/blog/products/identity-security/how-banks-can-engineer-compliance-into-their-cloud-systems
 
