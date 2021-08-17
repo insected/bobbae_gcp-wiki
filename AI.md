@@ -63,9 +63,13 @@ https://cloud.google.com/vertex-ai/docs/start/migrating-applications
 
 ## Vertex AI for AutoML users
 
+List comparisons between the AutoML products and Vertex AI to help AutoML users understand how to use Vertex AI.
+
 https://cloud.google.com/vertex-ai/docs/start/automl-users
 
 ## Vertex AI for AI Platform users
+
+From AI Platform users' point of view.
 
 https://cloud.google.com/vertex-ai/docs/start/ai-platform-users
 
