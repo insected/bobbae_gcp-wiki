@@ -9,9 +9,7 @@ A virtual machine (VM) is an [emulation](https://en.wikipedia.org/wiki/Emulator)
 The [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) may be categorized as both Type-1 and Type-2.
 
 
-## VM Manager
 
-VM Manager is a suite of tools that can be used to manage operating systems for large virtual machine (VM) fleets running Windows and Linux on Compute Engine.
 ## Nested VM
 
 It is possible to run [nested VM](https://cloud.google.com/compute/docs/instances/enable-nested-virtualization-vm-instances) instances in GCP.
