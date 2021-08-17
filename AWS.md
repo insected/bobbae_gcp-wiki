@@ -562,4 +562,40 @@ https://aws.amazon.com/freertos
 ## Migration
 
 
+### AWS Transfer Family
 
+AWS Transfer Family provides fully managed support for file transfers directly into and out of Amazon S3 or Amazon EFS. With support for Secure File Transfer Protocol (SFTP), File Transfer Protocol over SSL (FTPS), and File Transfer Protocol (FTP), the AWS Transfer Family helps you seamlessly migrate your file transfer workflows to AWS by integrating with existing authentication systems, and providing DNS routing with Amazon Route 53 so nothing changes for your customers and partners, or their applications. 
+
+http://aws.amazon.com/aws-transfer-family
+
+### AWS Snow Family
+The AWS Snow Family helps customers that need to run operations in austere, non-data center environments, and in locations where there's lack of consistent network connectivity.
+
+
+http://aws.amazon.com/snow
+
+http://aws.amazon.com/snowcone
+
+https://aws.amazon.com/snowball
+
+https://aws.amazon.com/snowmobile
+
+### AWS DataSync
+
+AWS DataSync is a data transfer service that makes it easy for you to automate moving data between on-premises storage and Amazon S3 or Amazon Elastic File System (Amazon EFS). 
+
+https://aws.amazon.com/datasync
+
+### AWS Application Migration Service
+
+AWS Application Migration Service (AWS MGN) allows you to quickly realize the benefits of migrating applications to the cloud without changes and with minimal downtime.
+
+http://aws.amazon.com/application-migration-service
+
+
+
+### AWS Database Migration Service
+
+AWS Database Migration Service helps you migrate databases to AWS easily and securely. The source database remains fully operational during the migration, minimizing downtime to applications that rely on the database. 
+
+https://aws.amazon.com/dms
