@@ -94,3 +94,9 @@ Dataflow Flex templates use docker containers.
 ## Dataflow Mobile Gaming Example
 
 [https://beam.apache.org/get-started/mobile-gaming-example/](https://beam.apache.org/get-started/mobile-gaming-example/)
+
+## Stopping
+
+You cannot delete a Dataflow job; you can only stop it.
+
+https://cloud.google.com/dataflow/docs/guides/stopping-a-pipeline
