@@ -40,7 +40,9 @@ In the future, all existing Datastore databases will be [automatically upgraded 
 
 While the [Datastore](https://cloud.google.com/datastore/docs) mode interface has many of the same features as traditional databases, as a NoSQL database it differs from them in the way it describes relationships between data objects.
 
+### Migrate App Engine Apps from Datastore to Firestore
 
+https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-6-firestore#0
 
 ## More explanations
 
