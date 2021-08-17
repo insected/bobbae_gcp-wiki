@@ -78,7 +78,7 @@ Terraform [GitOps Framework](https://www.kubestack.com/).
 
 This tutorial explains how to manage infrastructure as code with [Terraform](https://cloud.google.com/docs/terraform) and [Cloud Build](https://cloud.google.com/cloud-build) using the popular [GitOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/) methodology. 
 
-Use [Cloud Build](https://cloud.google.com/cloud-build), a Google Cloud [continuous integration service, to automatically apply Terraform manifests to your environment](https://cloud.google.com/solutions/managing-infrastructure-as-code).
+The tutorial uses [Cloud Build](https://cloud.google.com/cloud-build) to automatically apply Terraform manifests to your environment.
 
 https://cloud.google.com/architecture/managing-infrastructure-as-code
 
