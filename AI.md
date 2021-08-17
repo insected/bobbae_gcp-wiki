@@ -150,7 +150,7 @@ The ways in which artificial intelligence is built and deployed will significant
 
 We are living in times when it is paramount that the [possibility of harm](https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business ) in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms), [privacy](Privacy) and [security](Security) issues caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
 
-## Responsible AI Practices
+### Responsible AI Practices
 
 https://ai.google/responsibilities/responsible-ai-practices/
 
