@@ -187,6 +187,14 @@ Amazon Aurora is a MySQL and PostgreSQL compatible relational database engine th
 
 https://aws.amazon.com/rds/aurora/
 
+### Amazon SimpleDB
+
+Amazon SimpleDB is a highly available NoSQL data store that offloads the work of database administration. Developers simply store and query data items via web services requests and Amazon SimpleDB does the rest.
+
+https://aws.amazon.com/simpledb/
+
+### Amazon 
+
 ### Amazon DynamoDB
 
 Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multiregion, multimaster database with built-in security, backup and restore, and in-memory caching for internet-scale applications. DynamoDB can handle more than 10 trillion requests per day and support peaks of more than 20 million requests per second.
