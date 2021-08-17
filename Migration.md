@@ -47,7 +47,9 @@ https://inthecloud.withgoogle.com/building-a-large-scale-migration-20/dl-cd.html
 
 https://cloud.google.com/adoption-framework
 
+#### Active Assist
 
+https://cloud.google.com/solutions/active-assist
 
 ### Velostrata
 
