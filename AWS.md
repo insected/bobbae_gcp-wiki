@@ -426,9 +426,43 @@ Amazon Rekognition makes it easy to add image and video analysis to your applica
 
 https://aws.amazon.com/rekognition
 
-### 
+### Amazon Comprehend
 
 
+Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. 
+
+https://aws.amazon.com/comprehend
+
+### Amazon Lex
+
+Amazon Lex is a service for building conversational interfaces into any application using voice and text. Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, enabling you to quickly and easily build sophisticated, natural language, conversational bots (“chatbots”).
+
+https://aws.amazon.com/lex
+
+### Amazon Polly
+
+Amazon Polly is a service that turns text into lifelike speech. Polly lets you create applications that talk, enabling you to build entirely new categories of speech-enabled products. Polly is an Amazon artificial intelligence (AI) service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. 
+
+https://aws.amazon.com/polly
+
+### Amazon Textract
+
+Amazon Textract is a service that automatically extracts text and data from scanned documents. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify the contents of fields in forms and information stored in tables.
+
+https://aws.amazon.com/textract/
+
+### Amazon Transcribe
+
+Amazon Transcribe is an automatic speech recognition (ASR) service that makes it easy for developers to add speech-to-text capability to their applications. Using the Amazon Transcribe API, you can analyze audio files stored in Amazon S3 and have the service return a text file of the transcribed speech. You can also send a live audio stream to Amazon Transcribe and receive a stream of transcripts in real time.
+
+
+https://aws.amazon.com/transcribe
+
+### Amazon Translate
+
+Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation. 
+
+https://aws.amazon.com/translate
 
 
 
