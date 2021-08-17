@@ -319,6 +319,14 @@ Google Cloud [Identity](https://cloud.google.com/identity)  achieves [confidenti
 Cloud Audit Logs](https://cloud.google.com/logging/docs/audit)  helps security, auditing, and compliance entities maintain audit trails in Google Cloud. With Cloud Audit Logs, your enterprise can attain the same level of transparency over administrative activities and accesses to data in Google Cloud as in on-premises environments. Audit logs help the Google Cloud Support team troubleshoot issues with your account.
 
 
+## Cloud IDS
+
+Cloud IDS delivers cloud-native, managed, network-based threat detection, built with Palo Alto Networks’ industry-leading threat detection technologies to provide high levels of security efficacy.
+
+https://cloud.google.com/intrusion-detection-system
+
+https://cloud.google.com/blog/products/identity-security/how-google-cloud-ids-helps-detect-advanced-network-threats
+
 
 
 ## PKI
