@@ -40,7 +40,9 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 [Compute Engine](   https://youtu.be/KBeyQHoAcrQ ) uses this model as well, combining server virtualization and related management tools into an integrated suite. On Compute Engine, virtual machines are called [virtual machine](  VM ) (VM) instances.
 
 
+## Machine Images
 
+https://cloud.google.com/compute/docs/machine-images
 
 
 ## Quickstart using a Linux VM
