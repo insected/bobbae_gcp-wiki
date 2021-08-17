@@ -1,6 +1,5 @@
 
 
-## Introduction
 
 Looker gives you the tools to power a multitude of data experiences, from modern business intelligence and embedded analytics to workflow integrations and custom data apps. Regardless of where your data resides, Looker offers a unified surface to access the truest, most up-to-date version of your company’s data. And with data integrated into users’ daily workflows, organizations can extract value from their data at web scales.
 
@@ -87,10 +86,17 @@ Looker for data explorers.
 
 [https://training.looker.com/series/recorded-webinars](https://training.looker.com/series/recorded-webinars)
 
-
 ## Performance Best Practice
 
 https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
+
+
+## Extension Framework
+
+
+https://cloud.google.com/blog/topics/developers-practitioners/building-looker-made-easier-extension-framework
+
+
 
 ## Certification
 
@@ -112,6 +118,7 @@ https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tool
 Google [Data Studio](Data-Studio) is a visualization and reporting tool, and an integral part of Google Marketing Platform. It enables an enhanced approach to decision-making, allowing your entire organization to readily access and use marketing insights.
 
 https://infotrust.com/articles/google-data-studio-looker-comparison/
+
 
 ## The Data Modeling Layer
 
