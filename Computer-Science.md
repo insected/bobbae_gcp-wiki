@@ -1,3 +1,4 @@
+http://web.stanford.edu/class/cs101/
 
 If you want to get a well-rounded education in  Computer Science  there are many  [resources available](https://github.com/Developer-Y/cs-video-courses
 ).
