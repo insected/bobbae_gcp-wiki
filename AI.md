@@ -103,6 +103,15 @@ https://cloud.google.com/vertex-ai/docs/explainable-ai
 
 https://cloud.google.com/vertex-ai/docs/tutorials
 
+#### Image Recognition
+
+https://cloud.google.com/vertex-ai/docs/tutorials/image-recognition-automl
+
+#### Video Classification
+
+
+https://cloud.google.com/vertex-ai/docs/tutorials/video-classification-automl
+
 
 ### AI Explanations
 
