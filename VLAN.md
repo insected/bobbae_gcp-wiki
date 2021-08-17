@@ -34,13 +34,19 @@ It is designed to enable massive network automation through programmatic extensi
 
 A Linux bridge behaves like a network switch. It forwards packets between interfaces that are connected to it. It's usually used for forwarding packets on routers, on gateways, or between VMs and network namespaces on a host. It also supports STP, VLAN filter, and multicast snooping.
 
+https://wiki.linuxfoundation.org/networking/bridge
+
 ## Bonding
 
 The Linux bonding driver provides a method for aggregating multiple network interfaces into a single logical "bonded" interface. The behavior of the bonded interface depends on the mode; generally speaking, modes provide either hot standby or load balancing services.
 
+https://wiki.linuxfoundation.org/networking/bridge
+
 ## Team device
 
 Similar a bonded interface, the purpose of a team device is to provide a mechanism to group multiple NICs (ports) into one logical one (teamdev) at the L2 layer.
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-comparison_of_network_teaming_to_bonding
 
 ## VLAN
 
