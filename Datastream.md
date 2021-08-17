@@ -2,6 +2,12 @@
 
 Datastream supports streaming from Oracle and MySQL databases into Cloud Storage. The service offers streamlined integration with Dataflow templates to power up-to-date materialized views in BigQuery for analytics, replicate your databases into Cloud SQL or Cloud Spanner for database synchronization, or leverage the event stream directly from Cloud Storage to realize event-driven architectures.
 
+
+## Concepts
+
+https://cloud.google.com/datastream/docs/concepts
+
+
 ## Use cases
 
 - For analytics use Datastream with a pre-built Dataflow template to create up-to-date replicated tables in BigQuery in a fully-managed way.
@@ -19,4 +25,18 @@ https://cloud.google.com/blog/products/databases/get-real-time-analytics-data-wi
 ## Datastream How-to Guides
 
 https://cloud.google.com/datastream/docs/how-to
+
+## Quickstart
+
+https://cloud.google.com/datastream/docs/quickstart
+
+## Tutorials
+
+https://cloud.google.com/datastream/docs/tutorials
+
+
+## Datastream APIs
+
+https://cloud.google.com/datastream/docs/using-datastream-apis
+
 
