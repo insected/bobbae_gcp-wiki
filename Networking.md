@@ -41,7 +41,9 @@ Google built a superior [cloud network](https://cloud.google.com/docs/compare/da
 
 https://cloud.google.com/compute/docs/ip-addresses
 
+## Internal DNS
 
+https://cloud.google.com/compute/docs/internal-dns
 
 ## Networking 101
 
