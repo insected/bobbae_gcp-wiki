@@ -22,6 +22,15 @@ https://cloud.google.com/security/compliance/offerings/#/
 
 https://cloud.google.com/security/compliance/compliance-reports-manager
 
+## GDPR Resource Center
+
+https://cloud.google.com/security/gdpr/resource-center
+
+## GDPR and Google
+
+https://cloud.google.com/security/gdpr
+
+
 ## PCI Responsibility Matrix
 
 https://cloud.google.com/files/PCI_DSS_Shared_Responsibility_GCP_v32.pdf
