@@ -96,6 +96,7 @@ Knative installation is done on top of Kubernetes and uses optional extensions s
 
 [https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga](https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga)
 
+https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
 
 ## Cloud Workflows and serverless tasks
 
