@@ -106,6 +106,9 @@ https://github.com/GoogleCloudPlatform/terraform-validator
 
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 
+## Integrate GCP with Datadog using terraform
+
+https://medium.com/sardineai/integrating-gcp-with-datadog-with-terraform-d88c5c65dc0a
 
 ## Qwiklabs
 
