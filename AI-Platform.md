@@ -1,9 +1,12 @@
 
-[Vertex AI]( https://cloud.google.com/vertex-ai ) is a unified [AI](AI) platform that brings [AutoML](AutoML) and [AI Platform](https://cloud.google.com/ai-platform/docs) together into a unified API, client library, and user interface. 
+Google's [Vertex AI]( https://cloud.google.com/vertex-ai ) is a unified [AI](AI) platform that brings [Google AutoML](AutoML) and [Google AI Platform](https://cloud.google.com/ai-platform/docs) together into a unified API, client library, and user interface. 
 
 
-[AI Platform](https://cloud.google.com/ai-platform/docs) provides integrated tool chain  that helps you build and run your own [machine learning](Machine-Learning) applications.
+The [Google AI Platform](https://cloud.google.com/ai-platform/docs) provides integrated tool chain  that helps you build and run your own [machine learning](Machine-Learning) applications.
 
+[Google Document AI](Document-AI) platform uses machine learning  to automatically classify, extract, and enrich data within your documents to unlock insights. 
+
+[Google Contact Center AI](Contact-Center-AI)  helps users detect and visualize patterns in their contact center data. Understanding conversational data drives business value, improves operational efficiency, and provides a voice for customer feedback.
 
 
 ## Google AI and ML Products
