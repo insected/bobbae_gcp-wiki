@@ -473,7 +473,11 @@ Cross Origin Resource Sharing (CORS) allows interactions between resources from 
 
 https://cloud.google.com/storage/docs/configuring-cors
 
+## Examine Google Cloud Platform security vulnerabilities using Cloud Functions
 
+Monitor security threats in IAM and Firewall via Cloud Functions.
+
+https://blog.searce.com/examine-google-cloud-platform-security-vulnerabilities-using-cloud-functions-40f1d96d69a4
 
 ## Encryption at Rest
 
