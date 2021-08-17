@@ -10,35 +10,30 @@ The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is wh
 
 https://github.com/amusi/awesome-ai-awesomeness
 
-# GCP AI Products
+## Google AI Products and Solutions
 
 https://cloud.google.com/products/ai
 
-# GCP AI Solutions
 
 
 https://cloud.google.com/solutions/ai
 
-## Contact Center AI
 
 https://cloud.google.com/solutions/contact-center
 
-## Document AI
 
 https://cloud.google.com/document-ai
 
-## GCP AI Infrastructure
 
 https://cloud.google.com/ai-infrastructure
 
 
-## Conversational AI
 
 https://cloud.google.com/dialogflow
 
 
 
-# Vertex AI
+## Vertex AI
 
 [Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With Vertex AI, both AutoML training and custom training are available options. 
 
@@ -132,7 +127,7 @@ https://cloud.google.com/ai-hub/docs/learn
 
 https://cloud.google.com/ai-hub/docs/quickstarts
 
-# AI Ethics 
+## AI Ethics 
 
 The ways in which artificial intelligence is built and deployed will significantly affect society. 
 
@@ -143,7 +138,7 @@ We are living in times when it is paramount that the [possibility of harm](https
 https://ai.google/responsibilities/responsible-ai-practices/
 
 
-# Limits
+## Limits
 
 https://towardsdatascience.com/the-limits-of-data-science-b4e5faad20f4
 
