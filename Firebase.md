@@ -1,26 +1,25 @@
 
 
-## Introduction
 
 [Firebase](https://firebase.google.com/) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs. Firebase provides tools to develop high-quality apps, grow the  user base, and monetize the business while focusing on the users.
 
 [https://firebase.google.com/docs/](https://firebase.google.com/docs/)
 
-### Youtube channel for firebase
+## Youtube channel for firebase
 
 [https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv)
 
-### GCP & Firebase 
+## GCP & Firebase 
 
 Firebase projects are GCP Projects.
 
 [https://www.youtube.com/watch?v=xbmYmgBEj4o](https://www.youtube.com/watch?v=xbmYmgBEj4o)
 
-### Cloud Functions and Cloud Firestore
+## Cloud Functions and Cloud Firestore
 
 [https://www.youtube.com/watch?v=zR6CsTLTPsk](https://www.youtube.com/watch?v=zR6CsTLTPsk)
 
-### A list of URLs related to firebase.
+## A list of URLs related to firebase.
 
 [https://github.com/jthegedus/awesome-firebase](https://github.com/jthegedus/awesome-firebase)
 
@@ -81,6 +80,15 @@ Firebase Test Lab is a cloud-based app-testing infrastructure. With one operatio
 ## Firebase vs Firestore
 
 https://blog.back4app.com/firebase-vs-firestore/
+
+## Firebase Crashlytics
+
+Firebase Crashlytics is a lightweight, realtime crash reporter that helps you track, prioritize, and fix stability issues that erode your app quality. Crashlytics saves you troubleshooting time by intelligently grouping crashes and highlighting the circumstances that lead up to them.
+
+https://firebase.google.com/docs/crashlytics
+
+
+https://firebase.googleblog.com/2021/07/unlocking-next-level-of-app-stability-with-firebase-crashlytics.html
 
 ## Qwiklabs
 
