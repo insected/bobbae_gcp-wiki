@@ -2,6 +2,9 @@
 
 [Machine learning](https://developers.google.com/machine-learning/glossary) is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
 
+
+https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
+
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)  focuses on the development of computer programs that can access data and use it to learn for themselves.
 
 What is [Machine Learning](https://www.mygreatlearning.com/blog/machine-learning-tutorial/)?
@@ -791,6 +794,23 @@ https://www.guru99.com/pytorch-tutorial.html
 
 
 [MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
+
+## Monitor models for training-serving skew with Vertex AI
+
+https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
+
+
+## The Making of an AI Storyteller
+
+https://towardsdatascience.com/the-making-of-an-ai-storyteller-c3b8d5a983f5
+
+## Demo of Video Intelligence API
+
+https://medium.com/@zackakil/see-what-video-intelligence-api-can-do-with-this-visualisation-tool-4303e371505
+
+## Anomaly detection using River
+
+https://medium.com/spikelab/anomalies-detection-using-river-398544d3536
 
 ## Metascience and p-value
 
