@@ -64,12 +64,12 @@ You can use [Cloud SQL](https://www.youtube.com/watch?v=OvR2KX8GVtU) with [MySQL
 
 
 
-[Cloud Data Fusion](https://cloud.google.com/data-fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. 
+[Cloud Data Fusion](Data-Fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. 
 
 
 ### CDAP
 
-Cloud Data Fusion is powered by the open source project [CDAP](https://cdap.io/).
+[Cloud Data Fusion](Data-Fusion) is powered by the open source project [CDAP](https://cdap.io/).
 
 [https://cloud.google.com/data-fusion/docs](https://cloud.google.com/data-fusion/docs)
 
