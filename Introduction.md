@@ -116,7 +116,18 @@ https://kubernetespodcast.com/
 
 https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
 
-### Qwiklabs
+## Blogs
+
+https://cloud.google.com/blog/products/gcp
+
+https://cloud.google.com/blog/products/data-analytics
+
+https://firebase.googleblog.com/
+
+https://medium.com/google-cloud
+
+
+## Qwiklabs
 
 
 [Google Cloud Essentials](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467715)
