@@ -93,6 +93,19 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 
 Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
 
+## Apache Flink vs Spark
+
+
+https://data-flair.training/blogs/comparison-apache-flink-vs-apache-spark/
+
+## Presto vs Spark
+
+https://ahana.io/learn/comparisons/spark-sql-vs-presto/
+
+## Apache Hudi vs Apache Kudu
+
+https://hudi.apache.org/docs/comparison/
+
 ## Hadoop Pig 
 
 [Apache Pig](http://pig.apache.org/) is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs.
