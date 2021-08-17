@@ -15,9 +15,14 @@ For example, [VMware NSX Data Center](    https://docs.vmware.com/en/VMware-NSX-
 Linux also has rich virtual networking capabilities that are used as basis for hosting VMs and containers, as well as cloud environments.  
 
 
+https://man7.org/linux/man-pages/man8/ip-link.8.html
+
 
 https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
 
+https://liuhangbin.netlify.app/post/virtual-ifaces
+
+https://lloydrochester.com/post/unix/virtual_networking_device_types/
 
 ### NFV, VNF, SDN
 
@@ -79,6 +84,10 @@ https://hicu.be/macvlan-vs-ipvlan
 ## MACVTAP/IPVTAP
 
 MACVTAP/IPVTAP is a new device driver meant to simplify virtualized bridged networking. When a MACVTAP/IPVTAP instance is created on top of a physical interface, the kernel also creates a character device/dev/tapX to be used just like a TUN/TAP device, which can be directly used by KVM/QEMU.
+
+https://linuxnatives.net/2012/virtualized-bridged-networking-with-macvtap
+
+https://liuhangbin.netlify.app/post/virtual-ifaces/#macvtapipvtap
 
 ## MACSec
 
