@@ -326,6 +326,10 @@ Getting started with topology in network intelligence center.
 
 [https://www.youtube.com/watch?v=ID7szIL9eew](https://www.youtube.com/watch?v=ID7szIL9eew)
 
+### Firewall Insights
+
+https://cloud.google.com/network-intelligence-center/docs/firewall-insights/concepts/overview
+
 
 ## Network Service Tiers
 
