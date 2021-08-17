@@ -9,9 +9,12 @@ The [Google AI Platform](https://cloud.google.com/ai-platform/docs) provides int
 [Google Contact Center AI](Contact-Center-AI)  helps users detect and visualize patterns in their contact center data. Understanding conversational data drives business value, improves operational efficiency, and provides a voice for customer feedback.
 
 
-## Google AI and ML Products
+## Google AI and ML Products & Solutions
 
 https://cloud.google.com/products/ai
+
+https://cloud.google.com/solutions/ai
+
 
 ## AI Platform Deep Learning VM Images
 
