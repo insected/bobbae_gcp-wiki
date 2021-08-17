@@ -135,6 +135,47 @@ Red Hat OpenShift Service on AWS (ROSA) provides an integrated experience to use
 
 http://aws.amazon.com/rosa
 
+## Application Integration
+
+### Amazon Simple Queue Service
+
+Amazon Simple Queue Service (Amazon SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.
+
+https://aws.amazon.com/sqs/
+
+
+### Amazon MQ
+
+Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ that makes it easy to set up and operate message brokers in the cloud. 
+
+https://aws.amazon.com/amazon-mq/
+
+### Amazon Simple Workflow Service
+
+Amazon Simple Workflow Service (Amazon SWF) helps developers build, run, and scale background jobs that have parallel or sequential steps. 
+
+https://aws.amazon.com/swf/
+
+### Amazon Simple Notification Service
+
+Amazon Simple Notification Service (Amazon SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications.
+
+
+https://aws.amazon.com/sns/
+
+### Amazon Managed Workflows for Apache Airflow (MWAA)
+
+Amazon Managed Workflows for Apache Airflow (MWAA) is a managed orchestration service for Apache Airflow that makes it easier to set up and operate end-to-end data pipelines in the cloud at scale. 
+
+
+http://aws.amazon.com/managed-workflows-for-apache-airflow
+
+
+### AWS Step Functions
+
+AWS Step Functions is a fully managed service that makes it easy to coordinate the components of distributed applications and microservices using visual workflows.
+
+https://aws.amazon.com/step-functions
 
 ## Databases
 
