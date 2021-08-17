@@ -205,6 +205,13 @@ https://www.ssh.com/academy/pki
 
 [https://cloud.google.com/compute/docs/disks/create-snapshots](https://cloud.google.com/compute/docs/disks/create-snapshots)
 
+## VM Manager
+
+VM Manager is a suite of tools that can be used to manage operating systems for large virtual machine (VM) fleets running Windows and Linux on Compute Engine.
+
+
+https://cloud.google.com/compute/docs/vm-manager
+
 
 ## Best Practices
 
