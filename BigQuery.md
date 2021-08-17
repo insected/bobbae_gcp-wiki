@@ -352,6 +352,8 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
 [BigQuery ML](https://cloud.google.com/bigquery-ml/docs/) enables users to create and execute machine learning models in BigQuery by using SQL queries.
 
+https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
+
 ###  BigQuery ML  Tutorials
 
 https://cloud.google.com/bigquery-ml/docs/tutorials
@@ -436,6 +438,11 @@ https://cloud.google.com/bigquery/docs/visualize-jupyter
 
 
 https://cloud.google.com/bigquery/docs/looker
+
+## Sync data from MySQL to BigQuery
+
+https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef602c
+
 
 
 ## Qwiklabs
