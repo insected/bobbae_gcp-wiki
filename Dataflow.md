@@ -95,6 +95,11 @@ Dataflow Flex templates use docker containers.
 
 [https://beam.apache.org/get-started/mobile-gaming-example/](https://beam.apache.org/get-started/mobile-gaming-example/)
 
+
+## Streaming into BigQuery using dataflow
+
+https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-second-into-bigquery-part-i-google-cloud-dataflow-9465fdcd436d
+
 ## Stopping
 
 You cannot delete a Dataflow job; you can only stop it.
