@@ -18,7 +18,16 @@ https://cloud.google.com/blog/products/identity-security/how-banks-can-engineer-
 
 https://cloud.google.com/security/compliance/offerings/#/
 
-[PCI Responsibility Matrix ](https://cloud.google.com/files/PCI_DSS_Shared_Responsibility_GCP_v32.pdf)
+## Compliance Reports Manager
 
+https://cloud.google.com/security/compliance/compliance-reports-manager
 
-[Vault EaaS - Encryption As a Service](https://learn.hashicorp.com/tutorials/vault/eaas-transit)
+## PCI Responsibility Matrix
+
+https://cloud.google.com/files/PCI_DSS_Shared_Responsibility_GCP_v32.pdf
+
+## Vault EaaS
+
+Encryption As a Service
+
+https://learn.hashicorp.com/tutorials/vault/eaas-transit
