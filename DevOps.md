@@ -46,6 +46,7 @@ https://cloud.google.com/binary-authorization
 Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. Anthos helps you manage both an on-premises Kubernetes cluster and a cluster running on Google Cloud.
 Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration system for containers and Kubernetes clusters that run within Google's public cloud services.
 Anthos clusters on VMware runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
+
 ## GitOps 
 
 
@@ -62,7 +63,7 @@ The term GitOps was [first coined by Weaveworks](https://www.weave.works/blog/gi
 [https://github.com/weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 
 
-#### GitOps style continuous delivery with Cloud Build
+### GitOps style continuous delivery with Cloud Build
 
 https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
 
@@ -79,7 +80,11 @@ This tutorial explains how to manage infrastructure as code with [Terraform](htt
 
 Use [Cloud Build](https://cloud.google.com/cloud-build), a Google Cloud [continuous integration service, to automatically apply Terraform manifests to your environment](https://cloud.google.com/solutions/managing-infrastructure-as-code).
 
+https://cloud.google.com/architecture/managing-infrastructure-as-code
 
+### Building docker images with github actions
+
+https://medium.com/@flowsquad/building-docker-images-with-github-actions-and-google-cloud-b8894e0edff0
 
 ### Gitlab Gitops with Anthos
 
