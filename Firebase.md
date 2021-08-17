@@ -78,6 +78,9 @@ Firebase Test Lab is a cloud-based app-testing infrastructure. With one operatio
 
 [https://firebase.google.com/docs/test-lab/](https://firebase.google.com/docs/test-lab/)
 
+## Firebase vs Firestore
+
+https://blog.back4app.com/firebase-vs-firestore/
 
 ## Qwiklabs
 
