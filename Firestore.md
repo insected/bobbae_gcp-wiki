@@ -42,6 +42,10 @@ https://cloud.google.com/datastore/docs
 
 https://github.com/Abszissex/medium-golang-firestore-emulator
 
+## Firebase vs Firestore
+
+https://blog.back4app.com/firebase-vs-firestore/
+
 ## Deleting Firestore database
 
 There's no way option to delete Firestore in Firebase UI, neither in Google Cloud. You can remove the whole project or let it be. You won't be billed for it if you don't use it.
