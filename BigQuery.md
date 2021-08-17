@@ -258,6 +258,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-ref
 
 https://cloud.google.com/bigquery/docs/controlling-costs
 
+#### Optimizing BigQuery Cost with Looker
+
 https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker
 
 
