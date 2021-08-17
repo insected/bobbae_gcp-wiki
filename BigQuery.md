@@ -278,7 +278,9 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 [Dremel](https://research.google/pubs/pub36632/) is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
 
 
+## INFORMATIN_SCHEMA
 
+https://cloud.google.com/bigquery/docs/information-schema-intro
 
 
 ## Denormalize whenever possible
