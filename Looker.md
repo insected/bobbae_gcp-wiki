@@ -132,6 +132,27 @@ Python Looker source code example that use SDKs to communicate with the Looker A
 
 https://cloud.google.com/blog/topics/developers-practitioners/building-looker-made-easier-extension-framework
 
+## Using the Looker Marketplace
+
+The Looker Marketplace is a central location for finding, deploying, and managing many types of Looker content, such as Looker Blocks, applications, visualizations, and plug-ins.
+
+
+
+
+https://docs.looker.com/data-modeling/marketplace
+
+### Customizing Looker Marketplace Blocks
+
+https://docs.looker.com/data-modeling/marketplace/customize-blocks
+
+
+### Available Blocks
+
+https://docs.looker.com/data-modeling/looker-blocks#available_blocks
+
+#### Directory
+
+https://looker.com/platform/directory/home
 
 
 ## Certification
