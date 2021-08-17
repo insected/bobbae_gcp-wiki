@@ -14,3 +14,18 @@ Optimizing your cloud for price, performance, and security is key to maximizing 
 
 Identifying ways to keep your cloud optimized is just half of the equation. The other half is making it easy without squandering your staff’s time and energy. With these intelligent recommendations, you’re able to make important changes with just a few clicks, ensuring that your team can keep your cloud optimized while maintaining their focus on other goals, like innovation.
 
+## Insights
+
+
+Recommender uses machine learning to provide detailed and high quality insights. Insights are findings that you can use to proactively focus on important patterns in resource usage. You can use insights independently from recommendations. Some insights link to recommendations and provide evidence for the associated recommendations.
+
+
+https://cloud.google.com/recommender/docs/insights/using-insights
+
+
+## Recommendations
+
+https://cloud.google.com/recommender/docs/key-concepts#recommendations
+
+
+
