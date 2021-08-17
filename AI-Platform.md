@@ -4,8 +4,11 @@
 
 [AI Platform](https://cloud.google.com/ai-platform/docs) provides integrated tool chain  that helps you build and run your own machine learning applications.
 
-[https://cloud.google.com/ai-platform/docs]()
 
+
+## Google AI and ML Products
+
+https://cloud.google.com/products/ai
 
 ## AI Platform Deep Learning VM Images
 
