@@ -34,6 +34,9 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 
 [https://www.youtube.com/watch?v=YK_-yS9y_0k](https://www.youtube.com/watch?v=YK_-yS9y_0k)
 
+### AWS EMR vs Dataproc
+
+https://hackernoon.com/why-dataproc-googles-managed-hadoop-and-spark-offering-is-a-game-changer-9f0ed183fda3
 
 ## Basic introduction to Apache Hadoop
 
