@@ -193,7 +193,7 @@ Amazon SimpleDB is a highly available NoSQL data store that offloads the work of
 
 https://aws.amazon.com/simpledb/
 
-### Amazon 
+There has been some talk of SimpleDB being superseded by DynamoDB (it is no longer being "iterated on", though Amazon does not plan to remove it). DynamoDB appears to be its successor.
 
 ### Amazon DynamoDB
 
