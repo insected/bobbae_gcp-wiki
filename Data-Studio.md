@@ -13,6 +13,12 @@ https://support.google.com/datastudio/answer/6283323?hl=en
 
 https://datastudio.google.com/data
 
+https://support.google.com/datastudio/topic/9275519?hl=en&ref_topic=7441382
+
+### Example to connect to YouTube Analytics
+
+https://support.google.com/datastudio/answer/7020432#zippy=%2Cin-this-article
+
 ## Gallery
 
 https://datastudio.google.com/gallery
