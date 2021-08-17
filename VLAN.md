@@ -46,6 +46,7 @@ Similar a bonded interface, the purpose of a team device is to provide a mechani
 
 A VLAN, aka virtual LAN, separates broadcast domains by adding tags to network packets. 
 
+[IEEE 802.1Q]( https://en.m.wikipedia.org/wiki/IEEE_802.1Q   ).
 
 ## VXLAN
 
