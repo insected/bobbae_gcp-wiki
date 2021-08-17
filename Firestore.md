@@ -6,6 +6,8 @@
 
 [https://cloud.google.com/firestore/docs](https://cloud.google.com/firestore/docs)
 
+## Document Store
+
 https://cloud.google.com/blog/topics/developers-practitioners/cloud-firestore-explained-users-who-never-used-firestore
 
 ## Scaling
