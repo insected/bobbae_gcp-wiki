@@ -7,6 +7,7 @@ GCP products regularly undergo [independent verification](https://cloud.google.c
 
 https://cloud.google.com/security/
 
+https://cloud.google.com/security/compliance
 
 ## Compliance Engineering
 
