@@ -479,6 +479,12 @@ Monitor security threats in IAM and Firewall via Cloud Functions.
 
 https://blog.searce.com/examine-google-cloud-platform-security-vulnerabilities-using-cloud-functions-40f1d96d69a4
 
+
+## Confidential Computing
+
+Encrypt data in-use with Confidential VMs and Confidential GKE Nodes.
+
+https://cloud.google.com/confidential-computing
 ## Encryption at Rest
 
 
