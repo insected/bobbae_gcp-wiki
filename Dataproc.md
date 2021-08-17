@@ -93,6 +93,10 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 
 Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
 
+## Apache Beam vs Spark
+
+https://blog.allegro.tech/2021/06/1-task-2-solutions-spark-or-beam.html
+
 ## Apache Flink vs Spark
 
 
