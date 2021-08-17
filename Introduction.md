@@ -104,6 +104,10 @@ https://www.youtube.com/googlecloud
 
 https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 
+## Newsletter
+
+https://www.gcpweekly.com/
+
 ## Podcasts
 
 https://gcppodcast.com/
