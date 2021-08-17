@@ -27,5 +27,7 @@ https://cloud.google.com/recommender/docs/insights/using-insights
 
 https://cloud.google.com/recommender/docs/key-concepts#recommendations
 
+## Retrieve recommendation details across all GCP Projects
 
+https://rajathithanrajasekar.medium.com/retrieve-recommendation-details-across-all-gcp-projects-ce4461c08180
 
