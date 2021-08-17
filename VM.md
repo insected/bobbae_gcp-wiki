@@ -5,7 +5,7 @@ A virtual machine (VM) is an [emulation](https://en.wikipedia.org/wiki/Emulator)
 
 ## Google Compute Engine and KVM
 
-Google Compute Engine uses KVM as the hypervisor.
+[Google Compute Engine](Compute) uses KVM as the hypervisor.
 The [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) may be categorized as both Type-1 and Type-2.
 
 
