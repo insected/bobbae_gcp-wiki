@@ -211,6 +211,66 @@ Amazon DocumentDB (with MongoDB compatibility)  is a fast, scalable, highly avai
 https://aws.amazon.com/documentdb/
 
 
+## Analytics
+
+### Amazon EMR
+
+Amazon EMR is the industry-leading cloud big data platform for processing vast amounts of data using open source tools such as [Apache Spark](http://aws.amazon.com/emr/features/spark/), [Apache Hive](http://aws.amazon.com/emr/features/hive/), [Apache HBase](http://aws.amazon.com/emr/features/hbase/), [Apache Flink](http://aws.amazon.com/blogs/big-data/use-apache-flink-on-amazon-emr/), [Apache Hudi](http://aws.amazon.com/emr/features/hudi/), and [Presto](http://aws.amazon.com/emr/features/presto/).
+
+https://aws.amazon.com/emr
+
+### Amazon Kinesis
+
+Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
+
+https://aws.amazon.com/kinesis/
+
+### Amazon Kinesis Data Firehose
+
+Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data into data stores and analytics tools. It can capture, transform, and load streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and Splunk, enabling near real-time analytics with existing business intelligence tools and dashboards.
+
+https://aws.amazon.com/kinesis/firehose/
+
+### Amazon Elasticsearch Service
+
+Amazon Elasticsearch Service makes it easy to deploy, secure, operate, and scale Elasticsearch to search, analyze, and visualize data in real-time. 
+
+https://aws.amazon.com/elasticsearch-service/
+
+### Amazon Redshift
+
+Amazon Redshift is the most widely used cloud data warehouse.
+
+https://aws.amazon.com/redshift/
+
+### Amazon QuickSight
+
+Amazon QuickSight is a fast, cloud-powered business intelligence (BI) service that makes it easy for you to deliver insights to everyone in your organization. QuickSight lets you create and publish interactive dashboards that can be accessed from browsers or mobile devices. 
+
+https://quicksight.aws/
+
+### AWS Lake Formation
+
+AWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is a centralized, curated, and secured repository that stores all your data, both in its original form and prepared for analysis. A data lake enables you to break down data silos and combine different types of analytics to gain insights and guide better business decisions.
+
+https://aws.amazon.com/lake-formation
+
+
+### Amazon Athena
+
+Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.
+
+https://aws.amazon.com/athena
+
+
+
+### AWS Data Pipeline
+
+AWS Data Pipeline is a web service that helps you reliably process and move data between diﬀerent AWS compute and storage services, as well as on-premises data sources, at speciﬁed intervals. 
+
+
+https://aws.amazon.com/datapipeline
+
 
 
 ## Networking and Content Delivery
@@ -359,19 +419,6 @@ The AWS Storage Gateway is a hybrid storage service that enables your on-premise
 https://aws.amazon.com/storagegateway/
 
 
-## Analytics
-
-### Amazon EMR
-
-Amazon EMR is the industry-leading cloud big data platform for processing vast amounts of data using open source tools such as [Apache Spark](http://aws.amazon.com/emr/features/spark/), [Apache Hive](http://aws.amazon.com/emr/features/hive/), [Apache HBase](http://aws.amazon.com/emr/features/hbase/), [Apache Flink](http://aws.amazon.com/blogs/big-data/use-apache-flink-on-amazon-emr/), [Apache Hudi](http://aws.amazon.com/emr/features/hudi/), and [Presto](http://aws.amazon.com/emr/features/presto/).
-
-https://aws.amazon.com/emr
-
-### Amazon Kinesis
-
-Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
-
-https://aws.amazon.com/kinesis/
 
 
 
