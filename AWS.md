@@ -359,6 +359,23 @@ The AWS Storage Gateway is a hybrid storage service that enables your on-premise
 https://aws.amazon.com/storagegateway/
 
 
+## Analytics
+
+### Amazon EMR
+
+Amazon EMR is the industry-leading cloud big data platform for processing vast amounts of data using open source tools such as [Apache Spark](http://aws.amazon.com/emr/features/spark/), [Apache Hive](http://aws.amazon.com/emr/features/hive/), [Apache HBase](http://aws.amazon.com/emr/features/hbase/), [Apache Flink](http://aws.amazon.com/blogs/big-data/use-apache-flink-on-amazon-emr/), [Apache Hudi](http://aws.amazon.com/emr/features/hudi/), and [Presto](http://aws.amazon.com/emr/features/presto/).
+
+https://aws.amazon.com/emr
+
+### Amazon Kinesis
+
+Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
+
+https://aws.amazon.com/kinesis/
+
+
+
+
 ## Machine Learning
 
 
@@ -469,8 +486,30 @@ https://aws.amazon.com/translate
 ## Internet of Things
 
 
+### AWS IoT Greengrass
+
+AWS IoT Greengrass seamlessly extends AWS to devices so they can act locally on the data they generate, while still using the cloud for management, analytics, and durable storage. 
+
+https://aws.amazon.com/greengrass/
+
+### AWS IoT Core
+
+AWS IoT Core is a managed cloud service that lets connected devices easily and securely interact with cloud applications and other devices. AWS IoT Core can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely. 
+
+https://aws.amazon.com/iot-core
 
 
+### AWS IoT Analytics
+
+AWS IoT Analytics is a fully-managed service that makes it easy to run and operationalize sophisticated analytics on massive volumes of IoT data without having to worry about the cost and complexity typically required to build an IoT analytics platform. 
+
+https://aws.amazon.com/iot-analytics/
+
+### FreeRTOS
+
+FreeRTOS is an operating system for microcontrollers that makes small, low-power edge devices easy to program, deploy, secure, connect, and manage. 
+
+https://aws.amazon.com/freertos
 
 
 ## Migration
