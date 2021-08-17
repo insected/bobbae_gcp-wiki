@@ -6,7 +6,7 @@
 
 [https://cloud.google.com/firestore/docs](https://cloud.google.com/firestore/docs)
 
-## Document Store
+## NoSQL Document Store
 
 https://cloud.google.com/blog/topics/developers-practitioners/cloud-firestore-explained-users-who-never-used-firestore
 
@@ -55,3 +55,7 @@ https://firebase.google.com/docs/database/rtdb-vs-firestore
 ## Deleting Firestore database
 
 There's no way option to delete Firestore in Firebase UI, neither in Google Cloud. You can remove the whole project or let it be. You won't be billed for it if you don't use it.
+
+## Import CSV into Firebase Firestore without Code
+
+https://medium.com/@xathis/import-csv-firebase-firestore-without-code-gui-tool-3987923947b6
