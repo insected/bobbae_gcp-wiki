@@ -10,37 +10,51 @@ https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 
 To forecast numerical values with a linear model
 
+https://machinelearningmastery.com/linear-regression-for-machine-learning/
+
+
 ### Binary logistic regression
 
 For classification use cases when the choice is between only two different options (Yes or No, 1 or 0, True or False)
+
+https://towardsdatascience.com/implementing-binary-logistic-regression-in-r-7d802a9d98fe
 
 ### Multiclass logistic regression
 
 For classification scenarios when the choice is between multiple options
 
+https://gluon.mxnet.io/chapter02_supervised-learning/softmax-regression-scratch.html
+
 ### Matrix factorization
 
 For developing recommendation engines based on past information
 
+https://developers.google.com/machine-learning/recommendation/collaborative/matrix
 
 ### Time series
 
 To forecast business KPIs leveraging timeseries data from the past
 
-
+https://otexts.com/fpp2/arima.html
 
 ### Boosted tree
 
 For classification and regression use cases with XGBoost
 
-### AutoML table
+https://xgboost.readthedocs.io/en/latest/tutorials/model.html
+
+### AutoML Tables
 
 To leverage AutoML capabilities from the BigQuery SQL interface
+
+https://cloud.google.com/automl-tables/docs
+
 
 ### Deep Neural Network (DNN)
 
 For developing TensorFlow models for classification or regression scenarios, avoiding any lines of code
 
+https://machinelearningmastery.com/what-is-deep-learning/
 
 ##  BigQuery ML  Tutorials
 
