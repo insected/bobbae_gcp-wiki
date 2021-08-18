@@ -423,6 +423,31 @@ You can also do the following:
 
 https://cloud.google.com/bigquery/docs/connected-sheets
 
+## Pricing
+
+BigQuery is a [serverless](Serverless) data analytics platform. You don't need to provision individual instances or virtual machines to use BigQuery. Instead, BigQuery automatically allocates computing resources as you need them. You can also reserve compute capacity ahead of time in the form of slots, which represent virtual CPUs. The pricing structure of BigQuery reflects this design.
+
+BigQuery pricing has two main components:
+
+- Analysis pricing is the cost to process queries, including SQL queries, user-defined functions, scripts, and certain data manipulation language (DML) and data definition language (DDL) statements that scan tables.
+
+- Storage pricing is the cost to store data that you load into BigQuery.
+
+
+https://cloud.google.com/bigquery/pricing
+
+### BigQuery Flex Slots
+
+https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-slots
+
+### Flat rate
+
+https://cloud.google.com/bigquery/pricing#flat_rate_pricing
+
+## Sandbox
+
+https://cloud.google.com/bigquery/docs/sandbox
+
 ## Tutorials
 
 https://cloud.google.com/bigquery/docs/tutorials
