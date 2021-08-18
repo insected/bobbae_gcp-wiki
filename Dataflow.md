@@ -45,11 +45,10 @@ In [this notebook]( https://colab.research.google.com/github/apache/beam/blob/ma
 [https://beam.apache.org/get-started/wordcount-example/](https://beam.apache.org/get-started/wordcount-example/)
 
 
-## Dataflow Templates 
 
-The [Dataflow templates]( https://github.com/GoogleCloudPlatform/DataflowTemplates  ) are an effort to solve simple, but large, in-Cloud data tasks, including data import/export/backup/restore and bulk API operations, without a development environment. The technology under the hood which makes these operations possible is the [Google Cloud Dataflow](https://cloud.google.com/dataflow/) service combined with a set of [Apache Beam](https://beam.apache.org/) SDK templated pipelines.
+## Dataflow pipeline example: PubSub to GCS
 
-
+https://jtaras.medium.com/building-a-simple-google-cloud-dataflow-pipeline-pubsub-to-google-cloud-storage-9bbf170e8bad
 
 
 ## Creating a pipeline
@@ -57,6 +56,9 @@ The [Dataflow templates]( https://github.com/GoogleCloudPlatform/DataflowTemplat
 Using the Apache Beam interactive runner with JupyterLab notebooks lets you [iteratively develop pipelines]( https://cloud.google.com/dataflow/docs/guides/interactive-pipeline-development ), inspect your pipeline graph, and parse individual PCollections in a read-eval-print-loop (REPL) workflow. These Apache Beam notebooks are made available through [AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs), a managed service that hosts notebook virtual machines pre-installed with the latest data science and machine learning frameworks.
 
 
+## Dataflow Templates 
+
+The [Dataflow templates]( https://github.com/GoogleCloudPlatform/DataflowTemplates  ) are an effort to solve simple, but large, in-Cloud data tasks, including data import/export/backup/restore and bulk API operations, without a development environment. The technology under the hood which makes these operations possible is the [Google Cloud Dataflow](https://cloud.google.com/dataflow/) service combined with a set of [Apache Beam](https://beam.apache.org/) SDK templated pipelines.
 
 
 ## Using provided Dataflow templates
@@ -99,6 +101,8 @@ Dataflow Flex templates use docker containers.
 ## Streaming into BigQuery using dataflow
 
 https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-second-into-bigquery-part-i-google-cloud-dataflow-9465fdcd436d
+
+
 
 ## Stopping
 
