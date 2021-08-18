@@ -452,7 +452,9 @@ https://cloud.google.com/bigquery/docs/looker
 
 https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef602c
 
+## Three ways to query in Python
 
+https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
 
 ## Qwiklabs
 
