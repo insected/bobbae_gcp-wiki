@@ -1,6 +1,6 @@
 
 
-[BigQuery ML](https://cloud.google.com/bigquery-ml/docs/) enables users to create and execute machine learning models in BigQuery by using SQL queries.
+[BigQuery ML](https://cloud.google.com/bigquery-ml/docs/) enables users to create and execute machine learning models in [BigQuery](BigQuery) by using SQL queries.
 
 https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 
