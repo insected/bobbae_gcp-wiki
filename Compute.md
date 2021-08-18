@@ -147,13 +147,17 @@ https://cloud.google.com/compute/docs/instances/create-intel-select-solution-hpc
 
 [https://cloud.google.com/compute/docs/images/](https://cloud.google.com/compute/docs/images/)
 
-
+https://cloud.google.com/compute/docs/autoscaler/predictive-autoscaling
 
 ## Instance Groups
 
 A managed instance group (MIG) is a group of virtual machine (VM) instances that you control as a single entity. MIGs support features such as autohealing, load balancing, autoscaling, auto-updating, and stateful workloads.
 
 https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances
+
+## Predictive Autoscaling
+
+https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
 
 ## Regional MIGs
 
