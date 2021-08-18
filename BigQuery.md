@@ -97,7 +97,7 @@ You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?
 
 ## Anatomy of a BigQuery query
 
-Google [BigQuery](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood) is a lightning-fast analytics database. Customers find BigQuery performance liberating, allowing them to experiment with enormous datasets without compromise. But how fast is BigQuery really? And what does it take to achieve BigQuery speeds? Let’s check out the publically-available bigquery-samples:wikipedia_benchmark, specifically the Wiki100B table. This table contains 100 billion rows and is about 7 Terabytes in size.
+Google [BigQuery](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood) is a lightning-fast analytics database. Customers find BigQuery performance liberating, allowing them to experiment with enormous datasets without compromise. But how fast is BigQuery really? And what does it take to achieve BigQuery speeds? Let’s check out the [publically-available bigquery-samples:wikipedia_benchmark](https://console.cloud.google.com/bigquery?project=publicdata&page=table&t=wikipedia&d=samples&p=publicdata), specifically the Wiki100B table. This table contains 100 billion rows and is about 7 Terabytes in size.
 
 You can see that this query runs in under 30 seconds, but let’s round up to 30. It’s quite impressive, since to churn through this much data, BigQuery has had to:
 
