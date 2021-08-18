@@ -17,7 +17,7 @@ https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 
 
-BigQuery has a [distributed architecture[(https://cloud.google.com/blog/products/data-analytics/new-blog-series-bigquery-explained-overview) running on thousands of nodes across Google's data centers. Your datasets are not stored in a unique server but are chunked and replicated across different regions.
+BigQuery has a [distributed architecture](https://cloud.google.com/blog/products/data-analytics/new-blog-series-bigquery-explained-overview) running on thousands of nodes across Google's data centers. Your datasets are not stored in a unique server but are chunked and replicated across different regions.
 
 The [storage and compute layers are fully decoupled](https://cloud.google.com/blog/products/bigquery/separation-of-storage-and-compute-in-bigquery) in BigQuery. This means that the query engine runs on different servers from the servers where the data is stored. This feature enables BigQuery to provide great scalability both in terms of data volume and query execution. This decoupled paradigm is only possible thanks to [Google's Petabit network](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-how-andromeda-2-2-enables-high-throughput-vms), which moves data very quickly from one server to another, leveraging Google's proprietary fiber cables across the globe.
 
