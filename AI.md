@@ -87,6 +87,10 @@ Vertex Pipelines helps you to automate, monitor, and govern your ML systems by o
 
 https://cloud.google.com/vertex-ai/docs/pipelines/introduction
 
+### Use Vertex Pipelines to build AutoML Classification Workflow
+
+https://cloud.google.com/blog/topics/developers-practitioners/use-vertex-pipelines-build-automl-classification-end-end-workflow
+
 ## Vertex Explainable AI
 
 
