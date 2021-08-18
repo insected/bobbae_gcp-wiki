@@ -30,6 +30,13 @@ https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terrafor
 
 https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
 
+
+### Terraform, GKE, and network policy add-on
+
+Problems that occur when there are too many layers of abstraction happening without considering affects that permeate through the layers and assumptions made in each layer.
+
+https://blog.ml6.eu/how-proper-default-settings-can-save-money-and-trees-99783752d81c
+
 ## Cloud Foundation terraform templates
 
 https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
@@ -69,10 +76,6 @@ https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-
 
 [https://github.com/terraform-google-modules/docs-examples](https://github.com/terraform-google-modules/docs-examples)
 
-
-## Terraform and GKE
-
-https://blog.ml6.eu/how-proper-default-settings-can-save-money-and-trees-99783752d81c
 
 ## CDK
 
