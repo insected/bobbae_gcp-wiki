@@ -12,6 +12,11 @@ https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
 
+
+### Basics
+
+https://blog.coupler.io/bigquery-tutorial/
+
 ## Architecture
 
 
