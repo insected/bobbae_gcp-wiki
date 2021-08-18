@@ -353,7 +353,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendl
 
 ## BigQuery ML 
 
-[BigQuery ML](BigQuery ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
+[BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
 
 
 ## BigQuery Omni
