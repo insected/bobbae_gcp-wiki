@@ -72,6 +72,10 @@ https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types
 
+## Query Syntax
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
+
 ## Query Plan
 
 To understand the performance characteristics after a query executes, take a look at the detailed query plan explanation. The explanation breaks down the stages that the query went through, the number of input/output rows handled at each stage, and the timing profile within each stage. Using the results from the explanation can help you understand and optimize your queries.
@@ -208,6 +212,8 @@ https://cloud.google.com/bigquery/docs/managing-partitioned-tables
 ### Using datasets
 
 A dataset is contained within a specific project. Datasets are top-level containers that are used to organize and control access to your tables and views. A table or view must belong to a dataset, so you need to create at least one dataset before loading data into BigQuery.
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
 
 BigQuery datasets are subject to the following limitations:
 
