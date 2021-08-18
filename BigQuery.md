@@ -382,7 +382,18 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
 ## BigQuery Standard SQL
 
+BigQuery supports two different SQL dialects: standard SQL and legacy SQL. Legacy SQL may be useful if you want to test queries coming from legacy applications.
+
+https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-querying-your-data
+
+BigQuery was developed as an internal product within Google and was initially realized to process log records. The query engine Dremel was able to support a limited set of SQL operations that are now defined as Legacy SQL.
+
 [https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql](https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql)
+
+
+### Newer features in BigQuery SQL
+
+https://cloud.google.com/blog/topics/developers-practitioners/spring-forward-bigquery-user-friendly-sql
 
 https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendly-sql-bigquery
 
@@ -477,6 +488,10 @@ https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef6
 ## Three ways to query in Python
 
 https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
+
+## Genomics Analytics with BigQuery
+
+https://cloud.google.com/blog/products/data-analytics/genomics-data-analytics-with-cloud-pt2
 
 ## BigQuery GIS 
 
