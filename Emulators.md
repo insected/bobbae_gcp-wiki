@@ -1,5 +1,10 @@
 https://cloud.google.com/sdk/gcloud/reference/beta/emulators
 
+
+## Firebase
+
+https://firebase.googleblog.com/2021/07/the-cloud-storage-for-firebase-emulator.html
+
 ## Pub/Sub emulator
 
 https://cloud.google.com/pubsub/docs/emulator
