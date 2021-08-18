@@ -60,6 +60,8 @@ https://panoply.io/data-warehouse-guide/bigquery-architecture/
 
 Each time BigQuery executes a query, it executes [a full-column scan](https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned. You can achieve this by using partition filters based on PARTITIONTIME or PARTITIONDATE.
 
+https://cloud.google.com/bigquery/docs/querying-partitioned-tables
+
 ## Query Plan
 
 To understand the performance characteristics after a query executes, take a look at the detailed query plan explanation. The explanation breaks down the stages that the query went through, the number of input/output rows handled at each stage, and the timing profile within each stage. Using the results from the explanation can help you understand and optimize your queries.
