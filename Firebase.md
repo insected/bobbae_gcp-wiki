@@ -64,6 +64,10 @@ Cloud Functions for Firebase is a serverless framework that lets you automatical
 [https://firebase.google.com/docs/functions/](https://firebase.google.com/docs/functions/)
 
 
+### Firebase Cloud Function with static outbound IP
+
+https://medium.com/@scorpion.nimit/how-to-create-a-firebase-cloud-function-with-static-outbound-ip-8086bbbdbbfe
+
 ## Cloud Storage for Firebase
 
 Cloud Storage for Firebase is a powerful, simple, and cost-effective object storage service built for Google scale. The Firebase SDKs for Cloud Storage add Google security to file uploads and downloads for your Firebase apps, regardless of network quality. You can use our SDKs to store images, audio, video, or other user-generated content. On the server, you can use [Google Cloud Storage](https://cloud.google.com/storage), to access the same files.
