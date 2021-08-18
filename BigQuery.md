@@ -58,9 +58,15 @@ https://panoply.io/data-warehouse-guide/bigquery-architecture/
 
 ## No Index
 
-Each time BigQuery executes a query, it executes [a full-column scan](https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned. You can achieve this by using partition filters based on PARTITIONTIME or PARTITIONDATE.
+Each time BigQuery executes a query, it executes [a full-column scan](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned. You can achieve this by using partition filters based on PARTITIONTIME or PARTITIONDATE.
+
+https://cloud.google.com/files/BigQueryTechnicalWP.pdf
 
 https://cloud.google.com/bigquery/docs/querying-partitioned-tables
+
+https://github.com/jorwalk/data-engineering-gcp/blob/master/know/bigquery/best-practices-performance-input.md
+
+https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization
 
 ## Query Plan
 
@@ -319,6 +325,11 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 [Dremel](https://research.google/pubs/pub36632/) is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
 
+https://www.wired.com/2012/08/googles-dremel-makes-big-data-look-small/
+
+https://titanwolf.org/Network/Articles/Article?AID=ae877f35-2dd6-49f7-9679-47d465de1f7f#gsc.tab=0
+
+http://www.goldsborough.me/distributed-systems/2019/05/18/21-09-00-a_look_at_dremel/
 
 ## INFORMATIN_SCHEMA
 
