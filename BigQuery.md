@@ -386,10 +386,6 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
 https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendly-sql-bigquery
 
-## BigQuery ML 
-
-[BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
-
 
 ## BigQuery Omni
 
@@ -493,6 +489,14 @@ https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef6
 ## Three ways to query in Python
 
 https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
+
+
+
+## BigQuery ML 
+
+[BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
+
+
 
 ## Qwiklabs
 
