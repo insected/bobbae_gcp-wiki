@@ -510,6 +510,10 @@ https://en.wikipedia.org/wiki/GSM
 
 https://en.wikipedia.org/wiki/5G
 
+### O-RAN
+
+https://cloud.google.com/blog/topics/telecommunications/google-cloud-joins-o-ran-alliance
+
 ### Cellular IoT Overview
 
 https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
