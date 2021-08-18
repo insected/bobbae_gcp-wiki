@@ -387,25 +387,13 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendly-sql-bigquery
 
 
-## BigQuery Omni
-
-[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
-
-
 
 ## BigQuery BI Engine 
 
 [BigQuery BI Engine](https://cloud.google.com/bi-engine/docs) is a fast, in-memory analysis service that allows you to analyze data stored in BigQuery. 
 
 
-## BigQuery GIS 
 
-[BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
-
-
-### BigQuery GIS tutorial
-
-https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
 
 ## Data Security and Governance
 
@@ -489,6 +477,20 @@ https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef6
 ## Three ways to query in Python
 
 https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
+
+## BigQuery GIS 
+
+[BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
+
+
+### BigQuery GIS tutorial
+
+https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
+
+
+## BigQuery Omni
+
+[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
 
 
 
