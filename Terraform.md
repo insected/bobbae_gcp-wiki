@@ -69,6 +69,11 @@ https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-
 
 [https://github.com/terraform-google-modules/docs-examples](https://github.com/terraform-google-modules/docs-examples)
 
+
+## Terraform and GKE
+
+https://blog.ml6.eu/how-proper-default-settings-can-save-money-and-trees-99783752d81c
+
 ## CDK
 
 [CDK](https://github.com/hashicorp/terraform-cdk) (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
@@ -113,7 +118,7 @@ https://medium.com/sardineai/integrating-gcp-with-datadog-with-terraform-d88c5c6
 ## Qwiklabs
 
 
-## Terraform Quest
+### Terraform Quest
 
 In this Quest, the experienced user of Google Cloud will learn how to describe and launch cloud resources with Terraform, an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. In these nine hands-on labs, you will work with example templates and understand how to launch a range of configurations, from simple servers, through full load-balanced applications.
 
