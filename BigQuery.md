@@ -130,7 +130,7 @@ The variety of BigQuery query characteristics and requirements called for rethin
 ## Query plan and timeline
 
 
-When BigQuery executes a query job, it converts the declarative SQL statement into a graph of execution, broken up into a series of query stages, which themselves are composed of more granular sets of execution steps. BigQuery leverages a heavily distributed parallel architecture to run these queries. Stages model the units of work that many potential workers may execute in parallel. Stages communicate with one another by using a fast distributed shuffle architecture, which you can read about at In-memory query execution in BigQuery.
+When BigQuery executes a query job, it converts the declarative SQL statement into a graph of execution, broken up into a [series of query stages](https://cloud.google.com/bigquery/query-plan-explanation), which themselves are composed of more granular sets of execution steps. BigQuery leverages a heavily distributed parallel architecture to run these queries. Stages model the units of work that many potential workers may execute in parallel. Stages communicate with one another by using a fast distributed shuffle architecture, which you can read about at In-memory query execution in BigQuery.
 
 Within the [query plan](https://cloud.google.com/bigquery/query-plan-explanation), the terms work units and workers are used to convey information specifically about parallelism. Elsewhere within BigQuery, you may encounter the term slot", which is an abstracted representation of multiple facets of query execution, including compute, memory, and I/O resources. Top level job statistics provide the estimate of individual query cost using the totalSlotMs estimate of the query using this abstracted accounting.
 
