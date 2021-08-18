@@ -68,6 +68,10 @@ https://github.com/jorwalk/data-engineering-gcp/blob/master/know/bigquery/best-p
 
 https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization
 
+## Data Types
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types
+
 ## Query Plan
 
 To understand the performance characteristics after a query executes, take a look at the detailed query plan explanation. The explanation breaks down the stages that the query went through, the number of input/output rows handled at each stage, and the timing profile within each stage. Using the results from the explanation can help you understand and optimize your queries.
