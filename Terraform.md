@@ -1,5 +1,11 @@
 [Terraform](https://terraform.io) is a tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 
+## Cloud Foundation Toolkit
+
+Google Cloud Foundation Toolkit supports Terraform as well as Google Cloud Deployment manager.
+
+[Cloud Foundation Toolkit](Cloud-Foundation-Toolkit)
+
 
 ## Infrastructure as Code
 
@@ -7,24 +13,37 @@
 
 Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
+### HCL
 
+https://www.terraform.io/docs/language/index.html
+
+## Introduction to terraform
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
-## Cloud Foundation Toolkit
-
-Google Cloud Foundation Toolkit supports Terraform as well as Google Cloud Deployment manager.
-
-[Cloud Foundation Toolkit](Cloud-Foundation-Toolkit)
 
 ## Using terraform with Google Cloud
 
 https://cloud.google.com/docs/terraform
 
+## Extending terraform 
+
+### Plugins
+
+https://www.terraform.io/docs/extend/how-terraform-works.html
+
+### Custom Providers
+
+https://www.terraform.io/docs/extend/hashicorp-provider-design-principles.html
+
+
 ## Provisioning Anthos clusters with Terraform
 
 https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terraform
 
+## Using terraform
+
+https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastructure-with-terraform
 
 ## Terraform examples for GKE
 
@@ -49,6 +68,13 @@ Defining and managing your development, test, staging, and production environmen
 
 [https://www.youtube.com/watch?v=3vfXQxWJazM](https://www.youtube.com/watch?v=3vfXQxWJazM)
 
+## Debugging terraform
+
+https://www.terraform.io/docs/internals/debugging.html
+
+### Debug a Terraform Provider
+
+https://learn.hashicorp.com/tutorials/terraform/provider-debug
 
 ## Managing infrastructure as code with Terraform, Cloud Build, and GitOps
 
