@@ -4,7 +4,43 @@
 
 https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 
-## 
+## BigQuery ML Algorithms supported
+
+### Linear regression
+
+To forecast numerical values with a linear model
+
+### Binary logistic regression
+
+For classification use cases when the choice is between only two different options (Yes or No, 1 or 0, True or False)
+
+### Multiclass logistic regression
+
+For classification scenarios when the choice is between multiple options
+
+### Matrix factorization
+
+For developing recommendation engines based on past information
+
+
+### Time series
+
+To forecast business KPIs leveraging timeseries data from the past
+
+
+
+### Boosted tree
+
+For classification and regression use cases with XGBoost
+
+### AutoML table
+
+To leverage AutoML capabilities from the BigQuery SQL interface
+
+### Deep Neural Network (DNN)
+
+For developing TensorFlow models for classification or regression scenarios, avoiding any lines of code
+
 
 ##  BigQuery ML  Tutorials
 
