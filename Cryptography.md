@@ -47,6 +47,14 @@ To enable HTTPS on your website, you need to get a certificate (a type of file) 
 
 See also: https://github.com/acmesh-official/acme.sh
 
+## Google managed certificates
+
+https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
+
+## Google Certificate Authority Service
+
+https://cloud.google.com/certificate-authority-service
+
 
 ## IPSec
 
