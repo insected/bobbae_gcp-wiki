@@ -800,6 +800,10 @@ https://www.guru99.com/pytorch-tutorial.html
 https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
 
 
+## Fairness
+
+https://en.m.wikipedia.org/wiki/Fairness_(machine_learning)
+
 ## The Making of an AI Storyteller
 
 https://towardsdatascience.com/the-making-of-an-ai-storyteller-c3b8d5a983f5
