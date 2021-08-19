@@ -37,3 +37,13 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 ## Spanner
 
 [Cloud Spanner](Spanner) is a  [managed relational database](https://www.youtube.com/watch?v=IFbydfGV2lQ) with [unlimited scale, strong consistency, and up to 99.999% availability](https://www.youtube.com/watch?v=5bjYk6Hhd10). 
+
+## Not quite exactly SQL
+
+### Various SQL on Hadoop type tools
+
+https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
+
+https://jethro.io/hadoop-hive
+
+
