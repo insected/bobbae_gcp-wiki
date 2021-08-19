@@ -69,11 +69,11 @@ Storage Transfer Service allows you to quickly import online data into Cloud Sto
 [https://cloud.google.com/storage-transfer/docs](https://cloud.google.com/storage-transfer/docs)
 
 
-## Migration from AWS to GCP
 
 
 
-https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
+
+
 
 ## Migration from VMWare to GCP
 
