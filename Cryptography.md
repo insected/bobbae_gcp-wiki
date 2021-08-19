@@ -72,7 +72,7 @@ Cloud VPN supports  [some IKE ciphers](https://cloud.google.com/network-connecti
 
 ## X.509
 
-[X.509](  https://en.m.wikipedia.org/wiki/X.509  ) is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of IDL for defining data structures that can be serialized and de-serialized.  
+[X.509](  https://en.m.wikipedia.org/wiki/X.509  ) is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of [IDL](  https://en.m.wikipedia.org/wiki/Interface_description_language ) for defining data structures that can be serialized and de-serialized.  
 
 ## Diffie-Hellman 
 
