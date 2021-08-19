@@ -10,6 +10,9 @@ A relational [database](Databases) is a digital database based on the relational
 
 https://en.wikipedia.org/wiki/Relational_database
 
+## SQL Examples
+
+https://sqlzoo.net/
 
 ## SQL Tutorials
 
@@ -22,9 +25,6 @@ https://www.tutorialspoint.com/sql/index.htm
 
 https://www.youtube.com/watch?v=HXV3zeQKqGY
 
-## SQL Examples
-
-https://sqlzoo.net/
 
 ## CloudSQL
 
