@@ -42,7 +42,7 @@ https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and
 
 
 
-## AppEngine Standard
+## App Engine Standard
 
 The App Engine standard environment makes it easy to build and deploy an application that runs reliably even under heavy load and with large amounts of data. It includes the following features:
 
