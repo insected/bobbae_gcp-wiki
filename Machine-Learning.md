@@ -107,15 +107,31 @@ Feature engineering is the process of transforming raw data into features that b
 
 https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 
+
+
+https://www.kdnuggets.com/2018/12/feature-engineering-explained.html
+
+https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+
+https://towardsdatascience.com/feature-engineering-in-machine-learning-23b338ea48f4
+
+
+
 ### One-Hot Encoding
 
 Some learning algorithms only work with numerical feature vectors. When some feature in your dataset is categorical, like “colors” or “days of the week,” you can transform such a categorical feature into several binary ones.
 
 If your example has a categorical feature “colors” and this feature has three possible values: “red,” “yellow,” “green,” you can transform this feature into a vector of three numerical values. By doing so, you increase the dimensionality of your feature vectors. You should not transform red into 1, yellow into 2, and green into 3 to avoid increasing the dimensionality because that would imply that there’s an order among the values in this category and this specific order is important for the decision making. If the order of a feature’s values is not important, using ordered numbers as values is likely to confuse the learning algorithm, because the algorithm will try to find a regularity where there’s no one, which may potentially lead to overfitting.
 
+
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
+
+
 ### Binning
 
 Binning (also called bucketing) is the process of converting a continuous feature into multiple binary features called bins or buckets, typically based on value range. For example, instead of representing age as a single real-valued feature, the analyst could chop ranges of age into discrete bins: all ages between 0 and 5 years-old could be put into one bin, 6 to 10 years-old could be in the second bin, 11 to 15 years-old could be in the third bin, and so on.
+
+https://towardsdatascience.com/binning-for-feature-engineering-in-machine-learning-d3b3d76f364a
 
 ### Normalization
 
@@ -124,7 +140,7 @@ feature can take, into a standard range of values, typically in the interval [�
 For example, suppose the natural range of a particular feature is 350 to 1450. By subtracting 350 from every value of the feature, and dividing the result by 1100, one can normalize those values into the range [0, 1].
 
 
-
+https://developers.google.com/machine-learning/data-prep/transform/normalization
 
 By [normalizing](https://www.jeremyjordan.me/batch-normalization/) all of our inputs to a standard scale, we're allowing the network to more quickly learn the optimal parameters for each input node.
 
@@ -134,9 +150,14 @@ By [normalizing](https://www.jeremyjordan.me/batch-normalization/) all of our in
 Standardization (or z-score normalization) is the procedure during which the feature values are rescaled so that they have the properties of a standard normal distribution with μ = 0 and ‡ = 1, where μ is the mean (the average value of the feature, averaged over all examples in the dataset) and ‡ is the standard deviation from the mean.
 
 
+https://medium.com/analytics-vidhya/feature-scaling-normalization-standardization-and-scaling-c920ed3637e7
+
+
 ### Dealing with Missing Features
 
 In some cases, the data comes to the analyst in the form of a dataset with features already defined. In some examples, values of some features can be missing. That often happens when the dataset was handcrafted, and the person working on it forgot to fill some values or didn’t get them measured at all.
+
+https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
 
 
 ### Data Imputation Techniques
@@ -149,6 +170,7 @@ Another technique is to replace the missing value by the same value outside the 
 For example, if the normal range is [0, 1], then you can set the missing value equal to 2 or ≠1. The idea is that the learning algorithm will learn what is it better to do when the feature has a value significantly different from other values. Alternatively, you can replace the missing value by a value in the middle of the range. For example, if the range for a feature is [≠1, 1], you can set the missing value to be equal to 0. Here, the idea is that if we use the value in the middle of the range to replace missing features, such value will not significantly affect the prediction.
 
 
+https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
 
 ## Training Datasets
 
@@ -162,6 +184,7 @@ There’s no optimal proportion to split the dataset into these three subsets. I
 
 You may wonder, what is the reason to have three sets and not one. The answer is simple: when we build a model, what we do not want is for the model to only do well at predicting labels of examples the learning algorithms has already seen. A trivial algorithm that simply memorizes all training examples and then uses the memory to “predict” their labels will make no mistakes when asked to predict the labels of the training examples, but such an algorithm would be useless in practice. What we really want is that our model predicts well examples that the learning algorithm didn’t see. So we want good performance on a hold-out set.
 
+https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets
 
 ## Underfitting and Overfitting
 
@@ -180,7 +203,7 @@ Many of the modern advancements in neural networks have been a result of stackin
 
 This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/) our data. 
 
-
+https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/
 
 ## Regularization
 
@@ -199,11 +222,23 @@ However, if your only goal is to maximize the performance of the model on the ho
 L1 and L2 regularization methods are also combined in what is called elastic net regularization with L1 and L2 regularizations being special cases. You can find in the literature the name ridge regularization for L2 and lasso for L1.
 
 
+https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning
+
+https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+
+https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261
+
 
 ## Evaluation of Models
 
 
 Once you have a model built using the training set, how can you say how good the model is? You use test set to assess the model. The test set contains the examples that the learning algorithm has never seen before. If our model performs well on predicting the labels of the examples from the test set, we say that our model generalizes well.
+
+https://heartbeat.fritz.ai/introduction-to-machine-learning-model-evaluation-fa859e1b2d7f
+
+https://www.jeremyjordan.me/evaluating-a-machine-learning-model/
+
+https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
 
 
 ### Accuracy
@@ -215,6 +250,9 @@ Accuracy may be useful when errors in predicting all classes are equally importa
 Accuracy can be not useful when all classes not not equally important. Predicting click stream can be biased because of very few real positive clicks per rendered pages. In other words, almost no clicks can be the norm. In that case, a model that is 99.999% accurate can be created by simply returning "no click" as answer every time.
 
 Accuracy is a useful metric when errors in predicting all classes are equally important. In case of the spam/not spam, this may not be the case. For example, you would tolerate false positives less than false negatives. A false positive in spam detection is the situation in which your friend sends you an email, but the model labels it as spam and doesn’t show you. On the other hand, the false negative is less of a problem: if your model doesn’t detect a small percentage of spam messages, it’s not a big deal.
+
+
+https://developers.google.com/machine-learning/crash-course/classification/accuracy
 
 ### Confusion Matrix
 
@@ -249,6 +287,9 @@ https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference
 Receiver Operating Characteristic curve and Area Under the Curve use a combination of the true positive rate and false positive rate to build up a summary picture of the model performance.
 
 https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+
 
 ## Classification
 
