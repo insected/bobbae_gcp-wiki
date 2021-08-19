@@ -47,3 +47,11 @@ https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
 https://jethro.io/hadoop-hive
 
 
+## NoSQL
+
+https://en.wikipedia.org/wiki/NoSQL
+
+
+## NewSQL
+
+https://en.wikipedia.org/wiki/NewSQL
