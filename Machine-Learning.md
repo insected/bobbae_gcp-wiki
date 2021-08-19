@@ -217,6 +217,8 @@ The two most widely used types of regularization are called L1 regularization an
 
 In practice, L1 regularization produces a sparse model, a model that has most of its parameters (in case of linear models, most of w(j)) equal to zero. So L1 makes feature selection by deciding which features are essential for prediction and which are not. That can be useful in case you want to increase model explainability. 
 
+https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/l1-regularization
+
 However, if your only goal is to maximize the performance of the model on the hold-out data, then L2 usually gives better results. L2 also has the advantage of being differentiable, so gradient descent can be used for optimizing the objective function.
 
 L1 and L2 regularization methods are also combined in what is called elastic net regularization with L1 and L2 regularizations being special cases. You can find in the literature the name ridge regularization for L2 and lasso for L1.
@@ -442,6 +444,12 @@ Dimensionality reduction is also very convenient for visualizing higher-dimensio
 
 Neural networks are one of the most popular approaches to machine learning today, achieving impressive performance on a large variety of tasks. Often referred to as the "universal function approximator", this approach is very flexible to learning a variety of tasks.
 
+
+### Structure
+
+https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy
+
+
 ### Neural Networks Representation
 
 Neural networks are a [biologically-inspired algorithm](https://www.jeremyjordan.me/intro-to-neural-networks/) that attempt to mimic the functions of neurons in the brain. Each neuron acts as a computational unit, accepting input from the dendrites and outputting signal through the axon terminals. Actions are triggered when a specific combination of neurons are activated.
@@ -505,6 +513,24 @@ LSTMs enable RNNs to remember inputs over a long period of time. This is because
 This memory can be seen as a gated cell, with gated meaning the cell decides whether or not to store or delete information (i.e., if it opens the gates or not), based on the importance it assigns to the information. The assigning of importance happens through weights, which are also learned by the algorithm. This simply means that it learns over time what information is important and what is not.
 
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+### Multi-class Neural Networks
+
+#### One vs. All
+
+https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/one-vs-all
+
+
+#### Softmax
+
+https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/softmax
+
+
+### Best Practices
+
+
+https://developers.google.com/machine-learning/crash-course/training-neural-networks/best-practices
+
 
 ## Reinforcement Learning
 
@@ -606,6 +632,27 @@ http://jalammar.github.io/illustrated-bert/
 ### trends
 
 https://www.elderresearch.com/blog/trends-in-natural-language-processing/
+
+## Embeddings
+
+
+An embedding is a relatively low-dimensional space into which you can translate high-dimensional vectors. Embeddings make it easier to do machine learning on large inputs like sparse vectors representing words. Ideally, an embedding captures some of the semantics of the input by placing semantically similar inputs close together in the embedding space. An embedding can be learned and reused across models.
+
+### Collaborative Filtering
+
+https://developers.google.com/machine-learning/crash-course/embeddings/motivation-from-collaborative-filtering
+
+### Categorical Input Data
+
+https://developers.google.com/machine-learning/crash-course/embeddings/categorical-input-data
+
+### Translating to a Lower Dimensional Space
+
+https://developers.google.com/machine-learning/crash-course/embeddings/translating-to-a-lower-dimensional-space
+
+### Obtaining Embeddings
+
+https://developers.google.com/machine-learning/crash-course/embeddings/obtaining-embeddings
 
 ## GCP ML Solutions
 
