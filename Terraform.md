@@ -21,6 +21,9 @@ https://www.terraform.io/docs/language/index.html
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
+## Module
+
+A Terraform module is a set of Terraform configuration files in a single directory. Even a simple configuration consisting of a single directory with one or more .tf files is a module. When you run Terraform commands directly from such a directory, it is considered the root module. So in this sense, every Terraform configuration is part of a module. 
 
 ## Using terraform with Google Cloud
 
@@ -140,6 +143,20 @@ https://www.runatlantis.io/
 
 https://github.com/GoogleCloudPlatform/terraform-validator
 
+## Terraform module generator
+
+
+Scaffolding / Boilerplate generator for new Terraform module projects
+
+https://github.com/sudokar/generator-tf-module
+
+## Chekov
+
+Terraform static analysis tool.
+
+https://github.com/bridgecrewio/checkov/
+
+
 ## A list of URLs related to terraform
 
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
@@ -147,6 +164,7 @@ https://github.com/GoogleCloudPlatform/terraform-validator
 ## Integrate GCP with Datadog using terraform
 
 https://medium.com/sardineai/integrating-gcp-with-datadog-with-terraform-d88c5c65dc0a
+
 
 ## Qwiklabs
 
