@@ -52,3 +52,8 @@ https://cloud.google.com/solutions/ai
 
 
 [https://www.youtube.com/watch?v=MUtsIaQuiRw](https://www.youtube.com/watch?v=MUtsIaQuiRw)
+
+
+## Build a reinforcement learning recommendation application using Vertex AI
+
+https://cloud.google.com/blog/topics/developers-practitioners/build-reinforcement-learning-recommendation-application-using-vertex-ai
