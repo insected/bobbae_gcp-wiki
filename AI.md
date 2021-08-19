@@ -192,5 +192,16 @@ https://www.inference.vc/causal-inference-3-counterfactuals/
 
 https://www.youtube.com/watch?v=78EmmdfOcI8
 
+##  Causal Inference
+
+Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. 
+
+https://en.m.wikipedia.org/wiki/Causal_inference
+
+
+### The Brexit vote: A case study in causal inference using machine learning
+
+
+https://cloud.google.com/blog/topics/developers-practitioners/brexit-vote-case-study-causal-inference-using-machine-learning
 
 
