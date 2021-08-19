@@ -558,10 +558,13 @@ Most supervised learning algorithms are model-based, e.g. SVM. Model-based learn
 
 Instance-based learning algorithms use the whole dataset as the model. One instance-based algorithm frequently used in practice is k-Nearest Neighbors (kNN). In classification, to predict a label for an input example the kNN algorithm looks at the close neighborhood of the input example in the space of feature vectors and outputs the label that it saw the most often in this close neighborhood.
 
+https://www.kaggle.com/getting-started/179177
 
 ## Shallow vs. Deep learning
 
 A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called deep neural networks. In deep neural network learning (or, simply, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
+
+https://www.mathworks.com/discovery/deep-learning.html
 
 ## Characteristics of a machine learning model
 
