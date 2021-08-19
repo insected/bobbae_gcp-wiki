@@ -16,6 +16,8 @@ There is an [example repo showing how the CFT Terraform modules can be composed 
 
 Read the [overview of how security is designed](https://cloud.google.com/security/infrastructure/design/) into Google's technical infrastructure. 
 
+https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-practices-securing-your-cloud-deployment
+
 ## Cryptography
 
 [Cryptography](Cryptography)  is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.
