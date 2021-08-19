@@ -2,9 +2,13 @@
 
 
 
+https://cloud.google.com/migrate/compute-engine/docs
 
+## Velostrata
 
+Google Cloud Migrate for Compute Engine (formerly Velostrata) migrates VMs from your on-premises data center, AWS, or Azure into Compute Engine.
 
+https://cloud.google.com/blog/products/velostrata
 
 Migrate for Compute Engine enables you to migrate (Lift and Shift) your virtual machines (VMs), with minor automatic modifications, from your source environment to Google Compute Engine. Migrate for Compute Engine uses data replication technology which continuously replicates disk data from the source VMs to Google Cloud without causing any downtime on the source. You then create VM clones from replicated data for testing and perform predictable VM cut-over to your final workloads running on Google Cloud.
 
@@ -21,13 +25,10 @@ A video on Cloud Migration.
 
 
 
-## Migrate for Compute Engine
 
-Google Cloud Migrate for Compute Engine (formerly Velostrata) migrates VMs from your on-premises data center, AWS, or Azure into Compute Engine.
-
-[https://cloud.google.com/migrate/compute-engine/docs](https://cloud.google.com/migrate/compute-engine/docs)
 
 ### General VM Migration issues
+
 Compute Engine enables [Live Migration](https://cloudplatform.googleblog.com/2015/03/Google-Compute-Engine-uses-Live-Migration-technology-to-service-infrastructure-without-application-downtime.html) which can allow your instances migrated automatically when the physical hardware requires maintenance.
 
 As with standard hypervisor suites, Compute Engine also allows you to take live snapshots of VM instances. You can use these snapshots to create new instances within a zone or move an instance to a different zone.
@@ -51,11 +52,9 @@ https://cloud.google.com/adoption-framework
 
 https://cloud.google.com/solutions/active-assist
 
-### Velostrata
 
-Velostrata gets enterprise applications running in Google Cloud within minutes, while data migrates transparently in the background. With Velostrata, enterprises can validate, run, and migrate applications into Google Cloud without rewriting them, modifying the image, or changing management processes.
 
-[https://cloud.google.com/blog/products/velostrata](https://cloud.google.com/blog/products/velostrata)
+
 
 
 ### How to move thousands of VMs to GCP
@@ -168,3 +167,6 @@ This overview outlines the general steps required for migrating VMs from AWS EC2
 
 https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-gcp/overview
 
+## Up or Out
+
+https://cloud.google.com/blog/products/cloud-migration/new-cloud-migration-whitepaper-asks-up-or-out
