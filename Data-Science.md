@@ -6,6 +6,8 @@
 [Data Science](https://github.com/ossu/data-science)   is also about finding patterns in data, to make future predictions.
 There are [awesome](https://github.com/academic/awesome-datascience) and [freely available](https://github.com/ossu/data-science) Data Science [curriculum](https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum) that are [online](https://github.com/rowanv/data-science-curriculum).
 
+https://towardsdatascience.com/is-data-science-really-a-science-9c2249ee2ce4
+
 ## Data Engineering
 
 [Data engineers](Data-Engineering) build and maintain the systems that allow data scientists to access and interpret data. The role generally involves creating data models, building data pipelines and overseeing ETL (extract, transform, load).  Some believe that Data scientists build and train predictive models using data after it's been cleaned.  This separation is not always valid and there are overlapping areas in practice.
