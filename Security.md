@@ -26,6 +26,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 
 [Identity and Access Management](IAM)  lets administrators authorize who can take action on specific resources, giving you full control and visibility. 
 
+
+
 ## Security and Identity
 
 Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
@@ -75,6 +77,7 @@ A role contains a set of permissions that allows you to perform specific actions
 ## Cloud Identity API
 
 [Cloud Identity](https://cloud.google.com/identity/docs) API is an API for provisioning and managing identity resources.
+It helps you achieve [confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
 
 Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manages users and groups. You can configure Cloud Identity to federate identities between Google and other identity providers, such as [Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-introduction) and [Azure Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-azure-active-directory).
 
@@ -306,14 +309,7 @@ reCAPTCHA Enterprise is an extension of that effort to help enterprises detect o
 
 
 
-## Google Cloud Identity 
 
-Google Cloud [Identity](https://cloud.google.com/identity)  achieves [confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
-
-
-## IAM
-
-[Identity and Access Management](https://cloud.google.com/iam/docs) is also known as [IAM](IAM).  IAM lets you create and manage permissions for Google Cloud resources. IAM unifies access control for Google Cloud services into a single system and presents a consistent set of operations.
 
 
 ## Cloud Audit Logs
