@@ -1,13 +1,10 @@
-[Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) is the study of computer algorithms that improve automatically through experience and by the use of data.
+What is [Machine Learning](https://www.mygreatlearning.com/blog/machine-learning-tutorial/)?
 
-[Machine learning](https://developers.google.com/machine-learning/glossary) is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
-
+[Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) is the study of computer algorithms that improve automatically through experience and by the use of data. [Machine learning](https://developers.google.com/machine-learning/glossary) is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
 
 https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
 
-[Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)  focuses on the development of computer programs that can access data and use it to learn for themselves.
-
-What is [Machine Learning](https://www.mygreatlearning.com/blog/machine-learning-tutorial/)?
+[Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) focuses on the development of computer programs that can access data and use it to learn for themselves.
 
 [https://www.youtube.com/watch?v=HcqpanDadyQ](https://www.youtube.com/watch?v=HcqpanDadyQ)
 
@@ -15,7 +12,17 @@ Google Machine Learning Platform Overview.
 
 [https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
 
+## Vertex AI
+
+
+Vertex [AI](AI) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. 
+
+https://cloud.google.com/vertex-ai
+
+
+
 ## AutoML
+
 [AutoML](AutoML) lets you train high-quality custom machine learning models with minimal effort and machine learning expertise.
 
 ## BigQuery ML
