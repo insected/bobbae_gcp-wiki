@@ -33,3 +33,8 @@ https://cloud.google.com/data-fusion#section-10
 ## Example: End-to-end automated Analytics workload using Cloud Functions — Data Fusion — BigQuery and Data Studio
 
 https://medium.com/google-cloud/from-zero-to-hero-end-to-end-automated-analytics-workload-using-cloud-functions-data-fusion-28670e5e7c74
+
+## Tutorials
+
+
+https://cloud.google.com/data-fusion/docs/tutorials
