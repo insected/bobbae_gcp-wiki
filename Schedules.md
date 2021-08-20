@@ -56,3 +56,16 @@
 |    6    | [Kubernetes](Kubernetes-Engine-and-Containers)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
+
+## Schedule 5
+
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
+|   1  | [Introduction to GCP](Introduction) |
+|    2   |[Data Engineering](Data-Engineering) | 
+|    3    |[Data Science](Data-Science)      |
+|    4    |[AI](AI)      |
+|    5   | [Machine Leaerning](Machine-Learning) |
+|    6    | [Kubernetes](Kubernetes-Engine-and-Containers)       |
+|    7   |Group Project   |
+|    8   |Reviews    | 
