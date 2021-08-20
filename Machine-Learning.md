@@ -1,8 +1,7 @@
-What is [Machine Learning](https://www.mygreatlearning.com/blog/machine-learning-tutorial/)?
+What is [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ?
 
-[Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) is the study of computer algorithms that improve automatically through experience and by the use of data. [Machine learning](https://developers.google.com/machine-learning/glossary) is an [awesome](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
+[Machine learning](https://developers.google.com/machine-learning/crash-course/)(ML) is the study of computer algorithms that improve automatically through experience and by the use of data. [Machine learning](https://developers.google.com/machine-learning/glossary) is an   application of [artificial intelligence](AI) (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. 
 
-https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) focuses on the development of computer programs that can access data and use it to learn for themselves.
 
@@ -924,6 +923,14 @@ https://medium.com/spikelab/anomalies-detection-using-river-398544d3536
 ## Metascience and p-value
 
 https://en.wikipedia.org/wiki/P-value
+
+# Tutorials
+
+- https://developers.google.com/machine-learning/crash-course/
+- https://www.mygreatlearning.com/blog/machine-learning-tutorial/
+- https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+- https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
+
 
 # Links
 
