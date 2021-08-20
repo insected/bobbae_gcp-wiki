@@ -33,19 +33,13 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 
 ## File Storage
 
-
-File storage, also called file-level or file-based storage, is exactly what you think it might be: Data is stored as a single piece of information inside a folder, just like you’d organize pieces of paper inside a manila folder. When you need to access that piece of data, your computer needs to know the path to find it.  Data stored in files is organized and retrieved using a limited amount of metadata that tells the computer exactly where the file itself is kept. It’s like a library card catalog for data files.
-
-Think of a closet full of file cabinets. Every document is arranged in some type of logical hierarchy—by cabinet, by drawer, by folder, then by piece of paper. This is where the term hierarchical storage comes from, and this is file storage. It is the oldest and most widely used data storage system for direct and network-attached storage systems, and it’s one that you’ve probably been using for decades. Any time you access documents saved in files on your personal computer, you use file storage. File storage has broad capabilities and can store just about anything. It’s great for storing an array of complex files and is fairly fast for users to navigate.
+Discuss filesystems you have on computers.  Windows NTFS. MacOS APFS. Linux ext4.
 
 https://www.redhat.com/en/topics/data-storage/file-block-object-storage
 
 ## Storage Protocols
 
 https://www.sciencedirect.com/topics/computer-science/storage-protocol
-
-
-
 
 
 ## NAS
@@ -95,7 +89,7 @@ https://en.m.wikipedia.org/wiki/Elevator_algorithm
 ### Flash file systems
 
 Because of the [particular characteristics of flash memory](https://en.wikipedia.org/wiki/Flash_memory_controller), it is best used with either a controller to perform wear leveling and error correction or specifically designed flash file systems, which spread writes over the media and deal with the long erase times of NAND flash blocks. 
-The basic concept behind flash file systems is: when the flash store is to be updated, the file system will write a new copy of the changed data over to a fresh block, remap the file pointers, then erase the old block later when it has time.
+
 
 https://en.wikipedia.org/wiki/Flash_file_system
 
@@ -145,13 +139,7 @@ You can create and manage [Filestore](https://cloud.google.com/filestore/docs) i
 
 ## Block Storage
 
-Block storage chops data into blocks and stores them as separate pieces. Each block of data is given a unique identifier, which allows a storage system to place the smaller pieces of data wherever is most convenient. 
-
-Block storage is often configured to decouple the data from the user’s environment and spread it across multiple environments that can better serve the data. And then, when data is requested, the underlying storage software reassembles the blocks of data from these environments and presents them back to the user. It is usually deployed in storage-area network (SAN) environments and must be tied to a functioning server.
-
-
-
-
+Discuss block storage devices you have in your computers.
 
 
 https://www.ibm.com/cloud/learn/block-storage
@@ -172,9 +160,13 @@ https://www.lifewire.com/small-computer-system-interface-scsi-2626002
 
 ### RAID
 
-RAID (/reɪd/; "Redundant Array of Inexpensive Disks" or "Redundant Array of Independent Disks") is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. 
+Redundant Array of Inexpensive Disks is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. 
 
 https://searchstorage.techtarget.com/definition/RAID
+
+Discuss RAID-5 parity.
+
+https://www.open-e.com/blog/how-does-raid-5-work/
 
 #### Linux software RAID
 
@@ -183,14 +175,14 @@ https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information
 
 ### SSD
 
-A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage. It is also sometimes called a solid-state device or a solid-state disk even though SSDs lack the physical spinning disks and movable read–write heads used in hard disk drives (HDDs) and floppy disks.
+A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage. SSDs lack the physical spinning disks and movable read–write heads used in hard disk drives (HDDs) and floppy disks.
 
 
 https://www.pcmag.com/news/ssd-vs-hdd-whats-the-difference
 
 ### SAN
 
-A storage area network (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access data storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage. A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
+A storage area network (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage.  A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
 
 https://www.snia.org/education/storage_networking_primer/san/what_san
 
@@ -220,14 +212,23 @@ Finally, the number after that signifies the partition on the device. Note that 
 
 #### Linux Logical Volume Manager (LVM)
 
-LVM makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard Drive to the system. LVM does not have redundancy built in. This means in a multi disk system if one disk fails you will have problems. LVM is only working using the automated scheme now.
-
+LVM makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard Drive to the system. LVM does not have redundancy built in. 
 
 https://opensource.com/business/16/9/linux-users-guide-lvm
 
 ### GCP Persistent Disk
 
-[Persistent Disks](https://cloud.google.com/persistent-disk) are reliable &  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. Persistent Disk is designed for high durability. It stores data redundantly to ensure data integrity. Persistent disk performance scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage space requirements.
+[Persistent Disks](https://cloud.google.com/persistent-disk) are reliable &  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. 
+
+https://cloud.google.com/compute/docs/disks/working-with-persistent-disks
+
+Persistent Disk is designed for high durability. 
+
+https://medium.com/google-cloud/persistent-disks-and-replication-9b9412fd9565
+
+It stores data redundantly to ensure data integrity. Persistent disk performance scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage space requirements.
+
+https://cloud.google.com/compute/docs/disks/optimizing-pd-performance
 
 
 ### GCP Local SSD
