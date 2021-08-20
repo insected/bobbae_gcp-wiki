@@ -26,6 +26,7 @@ The [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) is designed specificall
 
 [Terraform](Terraform) is supported in the [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
 
+https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
 
 #### Managing infrastructure as code with Terraform, Cloud Build, and GitOps
 
