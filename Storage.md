@@ -19,18 +19,18 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 *   [Cloud Storage buckets](https://cloud.google.com/compute/docs/disks#gcsbuckets): Affordable object storage.
 *   [Filestore](https://cloud.google.com/filestore/docs/mounting-fileshares): High performance file storage for Google Cloud users.
 
-## GCP Data and File Storage APIs
+## Types of Storage
 
-### App Engine
+- Databases
+- Object storage
+- File Storage
+- Block Storage
+- Network Attached Storage
+- Storage Area Network
 
-https://cloud.google.com/appengine/docs/standard/go/storage-options
 
-### Google Cloud
+## File Storage
 
-https://cloud.google.com/appengine/docs/flexible/go/using-third-party-databases
-
-
-##  File Storage
 
 File storage, also called file-level or file-based storage, is exactly what you think it might be: Data is stored as a single piece of information inside a folder, just like you’d organize pieces of paper inside a manila folder. When you need to access that piece of data, your computer needs to know the path to find it.  Data stored in files is organized and retrieved using a limited amount of metadata that tells the computer exactly where the file itself is kept. It’s like a library card catalog for data files.
 
