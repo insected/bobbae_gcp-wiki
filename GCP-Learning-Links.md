@@ -70,7 +70,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Cloud Code Samples](https://github.com/GoogleCloudPlatform/cloud-code-samples)
 - [Cloud Monitoring Code Samples](https://cloud.google.com/monitoring/docs/samples)
 - [Cloud Storage Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/storage/docs/samples)
-
+- [GCP Labs](https://github.com/pydevops/gcp-labs)
 
 
 
