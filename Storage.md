@@ -7,7 +7,7 @@ Discuss different types of storage devices and methods.  What are block devices?
 
 https://cloud.google.com/products/storage
 
-## Compute Engine Storage options
+## Google Compute Engine Storage options
 
 Compute Engine offers several types of [storage options](https://cloud.google.com/products/storage) for your instances. Each of the following storage options has unique price and performance characteristics:
 
@@ -25,7 +25,7 @@ File storage, also called file-level or file-based storage, is exactly what you 
 
 Think of a closet full of file cabinets. Every document is arranged in some type of logical hierarchy—by cabinet, by drawer, by folder, then by piece of paper. This is where the term hierarchical storage comes from, and this is file storage. It is the oldest and most widely used data storage system for direct and network-attached storage systems, and it’s one that you’ve probably been using for decades. Any time you access documents saved in files on your personal computer, you use file storage. File storage has broad capabilities and can store just about anything. It’s great for storing an array of complex files and is fairly fast for users to navigate.
 
-### NAS
+## NAS
 
 Network-attached storage (NAS) is a file-level (as opposed to block-level storage) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration. It is often manufactured as a computer appliance – a purpose-built specialized computer.
 
@@ -35,16 +35,16 @@ Network File System (NFS) is a distributed file system protocol originally devel
 There are many versions: https://en.wikipedia.org/wiki/Network_File_System
 
 
-#### NFS Appliance
+### NFS Appliance
 
 https://www.netapp.com/atg/publications/publications-file-system-design-for-an-nfs-file-server-appliance-20000024/
 
-### Many types of filesystems
+## Many types of filesystems
 
 
 https://en.wikipedia.org/wiki/List_of_file_systems
 
-#### Linux Filesystems
+### Linux Filesystems
 
 The majority of modern Linux distributions default to the ext4 filesystem, just as previous Linux distributions defaulted to ext3, ext2, and—if you go back far enough—ext.
 
@@ -52,7 +52,7 @@ If you're new to Linux—or to filesystems—you might wonder what ext4 brings t
 
 https://opensource.com/article/18/4/ext4-filesystem
 
-#### Flash file systems
+### Flash file systems
 
 Because of the [particular characteristics of flash memory](https://en.wikipedia.org/wiki/Flash_memory_controller), it is best used with either a controller to perform wear leveling and error correction or specifically designed flash file systems, which spread writes over the media and deal with the long erase times of NAND flash blocks. The basic concept behind flash file systems is: when the flash store is to be updated, the file system will write a new copy of the changed data over to a fresh block, remap the file pointers, then erase the old block later when it has time.
 
@@ -71,11 +71,11 @@ LogFS, another Linux flash-specific file system, is currently being developed to
 
 F2FS (Flash-Friendly File System) was added to the Linux kernel 3.8.[10] Instead of being targeted at speaking directly to raw flash devices, F2FS is designed to be used on flash-based storage devices that already include a flash translation layer, such as SD cards.
 
-##### TRIM
+#### TRIM
 
 https://en.wikipedia.org/wiki/Trim_(computing)
 
-### Filestore
+## GCP Filestore
 
 [Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud (GCP) for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters.
 
@@ -86,9 +86,10 @@ You can create and manage [Filestore](https://cloud.google.com/filestore/docs) i
 
 
 
-#### Backups
+### Backups
 
 [Filestore Backups](https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups)  eases migration of file-based apps to cloud
+
 ## Block Storage
 
 Block storage chops data into blocks and stores them as separate pieces. Each block of data is given a unique identifier, which allows a storage system to place the smaller pieces of data wherever is most convenient. That means that some data can be stored in a Linux® environment and some can be stored in a Windows unit.
@@ -171,12 +172,12 @@ LVM makes it easy to manage disk space. Especially when it comes to resizing par
 
 https://opensource.com/business/16/9/linux-users-guide-lvm
 
-### Persistent Disk
+### GCP Persistent Disk
 
 [Persistent Disks](https://cloud.google.com/persistent-disk) are reliable &  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. Persistent Disk is designed for high durability. It stores data redundantly to ensure data integrity. Persistent disk performance scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage space requirements.
 
 
-### Local SSD
+### GCP Local SSD
 
 [Local SSDs](https://cloud.google.com/local-ssd) are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
 
@@ -198,7 +199,7 @@ https://www.netapp.com/data-storage/storagegrid/what-is-object-storage/
 
 https://cloud.google.com/storage
 
-### s3
+### AWS s3
 
 
 
@@ -264,7 +265,7 @@ https://docs.ceph.com/en/latest/architecture/#ceph-file-system
 
 
 
-## Compute Engine Disk Options
+## Google Compute Engine Disk Options
 
 
 By default, each Compute Engine instance has a single boot persistent disk (PD) that contains the operating system. When your apps require additional storage space, you can add one or more additional storage options to your instance.
@@ -274,7 +275,7 @@ https://cloud.google.com/compute/disks-image-pricing#disk
 
 https://cloud.google.com/compute/docs/disks
 
-## Compute Engine Storage products
+## Google Compute Engine Storage products
 
 Overview and comparison of [various Storage services and products](https://cloud.google.com/products/storage)  on GCP.
 
@@ -286,9 +287,11 @@ Discuss how traditional [storage models compare to the cloud](https://cloud.goog
 
 
 
+## Cloud Volume
 
 
 
+https://cloud.google.com/architecture/partners/netapp-cloud-volumes/
 
 
 
