@@ -11,9 +11,17 @@ CDAP is an integrated, open source application development platform for the Hado
 https://github.com/cdapio/cdap
 
 
+### CDAP Example Apps
+
+https://github.com/cdapio/cdap-apps
+
 ## Modern, more secure data lakes on Google Cloud
 
-Cloud Data Fusion helps users build scalable, distributed data lakes on Google Cloud by integrating data from siloed on-premises platforms. Customers can leverage the scale of the cloud to centralize data and drive more value out of their data as a result. The self-service capabilities of Cloud Data Fusion increase process visibility and lower the overall cost of operational support.
+Cloud Data Fusion helps users build scalable, distributed data lakes on Google Cloud by integrating data from siloed on-premises platforms. Customers can leverage the scale of the cloud to centralize data and drive more value out of their data as a result. 
+
+https://towardsdatascience.com/building-a-data-lake-on-gcp-with-cdap-6271c264f22e
+
+The self-service capabilities of Cloud Data Fusion increase process visibility and lower the overall cost of operational support.
 
 https://cloud.google.com/data-fusion/plugins
 
