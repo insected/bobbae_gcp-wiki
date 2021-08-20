@@ -949,5 +949,10 @@ https://en.wikipedia.org/wiki/P-value
 
 # Qwiklabs
 
+- https://www.qwiklabs.com/quests/50
+- https://www.qwiklabs.com/quests/32
+- https://www.qwiklabs.com/focuses/3389?parent=catalog
+- https://www.qwiklabs.com/focuses/3393?parent=catalog
 - https://google.qwiklabs.com/quests/82
+- https://www.qwiklabs.com/focuses/3391?parent=catalog
 
