@@ -15,6 +15,8 @@ https://github.com/cdapio/cdap
 
 Cloud Data Fusion helps users build scalable, distributed data lakes on Google Cloud by integrating data from siloed on-premises platforms. Customers can leverage the scale of the cloud to centralize data and drive more value out of their data as a result. The self-service capabilities of Cloud Data Fusion increase process visibility and lower the overall cost of operational support.
 
+https://cloud.google.com/data-fusion/plugins
+
 ## Agile data warehouses with BigQuery
 
 Cloud Data Fusion can help organizations better understand their customers by breaking down data silos and enabling development of agile, cloud-based data warehouse solutions in [BigQuery](BigQuery). A trusted, unified view of customer engagement and behavior unlocks the ability to drive a better customer experience, which leads to higher retention and higher revenue per customer.
