@@ -51,9 +51,9 @@
 |   1  | [Introduction to GCP](Introduction) |
 |    2   |[Dataproc](Dataproc) | 
 |    3    |[BigQuery](BigQuery)      |
-|    4    |[DevOps](DevOps)      |
+|    4    |[Data Engineering](Data-Engineering)      |
 |    5   | [Spanner](Spanner) |
-|    6    | [Kubernetes](Kubernetes-Engine-and-Containers)       |
+|    6    | [Looker](Looker)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
 
