@@ -21,6 +21,8 @@ https://cloud.google.com/data-fusion/plugins
 
 Cloud Data Fusion can help organizations better understand their customers by breaking down data silos and enabling development of agile, cloud-based data warehouse solutions in [BigQuery](BigQuery). A trusted, unified view of customer engagement and behavior unlocks the ability to drive a better customer experience, which leads to higher retention and higher revenue per customer.
 
+https://cloud.google.com/data-fusion/docs/tutorials/replicating-data/mysql-to-bigquery
+
 ## Unified analytics environment
 
 Many users today want to establish a unified analytics environment across a myriad of expensive, on-premises data marts. Employing a wide range of disconnected tools and stop-gap measures creates data quality and security challenges. Cloud Data Fusion’s vast variety of connectors, visual interfaces, and abstractions centered around business logic helps in lowering TCO, promoting self-service and standardization, and reducing repetitive work.
