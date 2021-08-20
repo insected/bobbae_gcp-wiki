@@ -38,6 +38,8 @@ File storage, also called file-level or file-based storage, is exactly what you 
 
 Think of a closet full of file cabinets. Every document is arranged in some type of logical hierarchy—by cabinet, by drawer, by folder, then by piece of paper. This is where the term hierarchical storage comes from, and this is file storage. It is the oldest and most widely used data storage system for direct and network-attached storage systems, and it’s one that you’ve probably been using for decades. Any time you access documents saved in files on your personal computer, you use file storage. File storage has broad capabilities and can store just about anything. It’s great for storing an array of complex files and is fairly fast for users to navigate.
 
+https://www.redhat.com/en/topics/data-storage/file-block-object-storage
+
 ## Storage Protocols
 
 https://www.sciencedirect.com/topics/computer-science/storage-protocol
