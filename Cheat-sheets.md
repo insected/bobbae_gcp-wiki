@@ -41,5 +41,16 @@ https://www.testpreptraining.com/blog/gcp-data-engineer-certification-cheat-shee
 
 ## AI 
 
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
+
+https://towardsdatascience.com/5-minutes-cheat-sheet-explaining-all-machine-learning-models-3fea1cf96f05
+
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463?gi=a4aec431da2c
 
+https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html
+
+https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
+
+https://www.r-bloggers.com/2019/07/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/
+
+https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
