@@ -930,13 +930,14 @@ https://en.wikipedia.org/wiki/P-value
 - https://www.mygreatlearning.com/blog/machine-learning-tutorial/
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
+- [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
+- [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 
 
 # Links
 
 - [StatQuest videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Google AI Fun Projects](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
-- [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - [Guide to bring code to ML GCP](https://github.com/GoogleCloudPlatform/ml-on-gcp)
 - [Labs and demos for courses for GCP ML and Bigdata Training](https://github.com/GoogleCloudPlatform/training-data-analyst)
@@ -945,7 +946,6 @@ https://en.wikipedia.org/wiki/P-value
 - [Hands-On Machine Learning on GCP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-on-Google-Cloud-Platform)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
 
 # Qwiklabs
 
