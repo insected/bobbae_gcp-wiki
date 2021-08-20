@@ -112,6 +112,12 @@ LogFS, another Linux flash-specific file system, is currently being developed to
 
 F2FS (Flash-Friendly File System) was added to the Linux kernel 3.8.[10] Instead of being targeted at speaking directly to raw flash devices, F2FS is designed to be used on flash-based storage devices that already include a flash translation layer, such as SD cards.
 
+
+
+Are these flash filesystems used on common SSD drives?
+
+https://www.addictivetips.com/ubuntu-linux-tips/best-ssd-friendly-file-systems-on-linux/
+
 #### TRIM
 
 https://en.wikipedia.org/wiki/Trim_(computing)
@@ -153,7 +159,7 @@ Block storage resources have different performance characteristics. Consider you
 
 ### SCSI
 
-Small Computer System Interface (SCSI, /ˈskʌzi/ SKUZ-ee)[1] is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types; the presence of "unknown" as one of these types means that in theory it can be used as an interface to almost any device, but the standard is highly pragmatic and addressed toward commercial requirements. 
+Small Computer System Interface is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types.
 
 
 https://www.lifewire.com/small-computer-system-interface-scsi-2626002
@@ -179,6 +185,8 @@ A solid-state drive (SSD) is a solid-state storage device that uses integrated c
 
 
 https://www.pcmag.com/news/ssd-vs-hdd-whats-the-difference
+
+https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/
 
 ### SAN
 
