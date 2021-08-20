@@ -163,6 +163,18 @@ https://www.guru99.com/data-science-tutorial.html
 
 ## Data Science related Math
 
+### Scalar and Tensor
+
+https://medium.datadriveninvestor.com/from-scalar-to-tensor-fundamental-mathematics-for-machine-learning-with-intuitive-examples-part-163727dfea8d
+
+### Norm and Orthogonality
+
+https://towardsdatascience.com/from-norm-to-orthogonality-fundamental-mathematics-for-machine-learning-with-intuitive-examples-57bb898e69f2
+
+### Eigendecomposition to Determinant
+
+https://towardsdatascience.com/from-eigendecomposition-to-determinant-fundamental-mathematics-for-machine-learning-with-1b6b449a82c6
+
 ### Single Variable Calculus
 
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
