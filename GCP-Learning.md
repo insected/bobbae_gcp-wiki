@@ -32,5 +32,7 @@
 - [API Management and Apigee](API-Management-and-Apigee)
 - [Accounts and Billing](Accounts-and-Billing)
 - [Monitoring](Monitoring)
+- [Looker](Looker)
+- [AWS](AWS)
 - [Compliance](Compliance)
 - [Links](GCP-Learning-Links)
