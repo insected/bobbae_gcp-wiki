@@ -17,6 +17,8 @@ https://rbirkby.github.io/google-cloud-4-words/
 
 https://cloud.google.com/sdk/docs/cheatsheet
 
+https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97
+
 https://cheatsheet.dennyzhang.com/cheatsheet-gcp-a4
 
 https://dominicusin.github.io/2019/07/25/gcloud-cheat-sheet.html
