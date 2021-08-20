@@ -15,6 +15,13 @@ Google Machine Learning Platform Overview.
 
 [https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
 
+## AutoML
+[AutoML](AutoML) lets you train high-quality custom machine learning models with minimal effort and machine learning expertise.
+
+## BigQuery ML
+
+[BigQuery ML](BigQuery-ML) lets you create and execute machine learning models in BigQuery using standard SQL queries.
+
 
 ## Machine Learning Crash Course
 
