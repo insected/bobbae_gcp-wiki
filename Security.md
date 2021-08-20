@@ -493,7 +493,21 @@ https://blog.searce.com/examine-google-cloud-platform-security-vulnerabilities-u
 Encrypt data in-use with Confidential VMs and Confidential GKE Nodes.
 
 https://cloud.google.com/confidential-computing
+
+
+## Google Cloud Vault Secrets Engine
+
+
+The Google Cloud Vault secrets engine dynamically generates Google Cloud service account keys and OAuth tokens based on IAM policies. This enables users to gain access to Google Cloud resources without needing to create or manage a dedicated service account.
+
+
+https://www.vaultproject.io/docs/secrets/gcp
+
+https://registry.terraform.io/providers/hashicorp/vault/latest/docs
+
 ## Encryption at Rest
+
+
 
 
 Google uses several layers of encryption to protect customer data at rest in Google Cloud products.
