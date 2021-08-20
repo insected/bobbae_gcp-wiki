@@ -11,7 +11,7 @@ Here is a basic [overview of GCP data storage features](https://www.youtube.com/
 
 ## Data Analytics 
 
-What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? 
+What is [the difference]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist ) between  [Data Science](Data-Science) vs Data  Engineering? 
 
 What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  
 
