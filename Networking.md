@@ -59,6 +59,7 @@ The recommendation X.200 describes seven layers, labelled 1 to 7.
 https://en.wikipedia.org/wiki/OSI_model
 
 
+
 ### TCP/IP
 
 The Internet protocol suite, commonly known as TCP/IP, is the set of communications protocols used in the Internet and similar computer networks. The current foundational protocols in the suite are the Transmission Control Protocol (TCP) and the Internet Protocol (IP).
@@ -66,10 +67,13 @@ The Internet protocol suite, commonly known as TCP/IP, is the set of communicati
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 
+### Protocol Wars
+
+https://en.m.wikipedia.org/wiki/Protocol_Wars
 
 ### CIDR
 
-Classless Inter-Domain Routing (CIDR /ˈsaɪdər, ˈsɪ-/) is a method for allocating IP addresses and for IP routing. The Internet Engineering Task Force introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. Its goal was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.
+Classless Inter-Domain Routing is a method for allocating IP addresses and for IP routing. The Internet Engineering Task Force introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. Its goal was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.
 
 https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
 
