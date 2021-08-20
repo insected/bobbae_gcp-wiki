@@ -31,5 +31,6 @@
 - [Development API and SDK](Development-API-and-SDK)
 - [API Management and Apigee](API-Management-and-Apigee)
 - [Accounts and Billing](Accounts-and-Billing)
+- [Monitoring](Monitoring)
 - [Compliance](Compliance)
 - [Links](GCP-Learning-Links)
