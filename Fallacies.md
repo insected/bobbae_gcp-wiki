@@ -59,6 +59,9 @@ https://en.wikipedia.org/wiki/Bayesian_inference
 
 http://inverseprobability.com/talks/notes/the-great-ai-fallacy.html
 
+## Machine Learning
+
+https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html
 
 ## Church Turing Thesis
 
