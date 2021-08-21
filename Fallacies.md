@@ -35,33 +35,33 @@ https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
 
 https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
-## Illustrated Proof of CAP Theorem
+## CAP
 
 https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
 
-## Byzantine Generals Problem
+### Byzantine Generals Problem
 
 https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
 
-## Sybil Attack
+### Sybil Attack
 
 https://en.wikipedia.org/wiki/Sybil_attack
 
-## Consensus
+### Consensus
 
 https://www.alibabacloud.com/blog/a-brief-analysis-of-consensus-protocol-from-logical-clock-to-raft_594675
 
-## Leader and Followers
+### Leader and Followers
 
 https://martinfowler.com/articles/patterns-of-distributed-systems/leader-follower.html
 
 
-## Consistency
+### Consistency
 
 https://aphyr.com/posts/313-strong-consistency-models
 
 
-## CRDT 
+### CRDT 
 
 https://cluster.ipfs.io/documentation/guides/consensus/
 
@@ -85,11 +85,11 @@ https://hackernoon.com/blockchain-technology-explained-introduction-meaning-and-
 
 https://www.kdnuggets.com/2019/12/accuracy-fallacy-media-coverage-ai-bogus.html
 
-## P Value
+### P Value
 
 https://en.wikipedia.org/wiki/P-value
 
-## Bayesian
+### Bayesian
 
 https://en.wikipedia.org/wiki/Bayesian_inference
 
@@ -97,7 +97,7 @@ https://en.wikipedia.org/wiki/Bayesian_inference
 
 http://inverseprobability.com/talks/notes/the-great-ai-fallacy.html
 
-## Machine Learning
+### Machine Learning
 
 https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html
 
@@ -106,11 +106,11 @@ https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html
 https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
 
 
-## Incompleteness
+### Incompleteness
 
 https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/
 
-## Halting Problem
+### Halting Problem
 
 https://en.wikipedia.org/wiki/Halting_problem
 
