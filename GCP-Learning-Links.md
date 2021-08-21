@@ -52,7 +52,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Awesome Pipeline tools](https://github.com/pditommaso/awesome-pipeline)
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Awesome Sys admin](https://github.com/kahun/awesome-sysadmin)
-
+- https://jimmysong.io/awesome-cloud-native/
 
 
 
