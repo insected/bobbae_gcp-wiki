@@ -43,14 +43,22 @@ https://cluster.ipfs.io/documentation/guides/consensus/
 
 https://hackernoon.com/blockchain-technology-explained-introduction-meaning-and-applications-edbd6759a2b2
 
+## Accuracy
+
+https://www.kdnuggets.com/2019/12/accuracy-fallacy-media-coverage-ai-bogus.html
+
+## P Value
+
+https://en.wikipedia.org/wiki/P-value
+
+## Bayesian
+
+https://en.wikipedia.org/wiki/Bayesian_inference
 
 ## AI
 
 http://inverseprobability.com/talks/notes/the-great-ai-fallacy.html
 
-## Accuracy
-
-https://www.kdnuggets.com/2019/12/accuracy-fallacy-media-coverage-ai-bogus.html
 
 ## Church Turing Thesis
 
