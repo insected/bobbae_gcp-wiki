@@ -21,7 +21,7 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 
 ## Types of Storage
 
-- Databases
+- [Databases](Database)
 - Object storage
 - File Storage
 - Block Storage
@@ -36,6 +36,10 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 Discuss filesystems you have on computers.  Windows NTFS. MacOS APFS. Linux ext4.
 
 https://www.redhat.com/en/topics/data-storage/file-block-object-storage
+
+### Databases vs filesystems
+
+https://www.guru99.com/difference-between-file-system-and-dbms.html
 
 ## Storage Protocols
 
