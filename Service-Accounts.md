@@ -54,11 +54,20 @@ Not every application interacts with human users—instead, an application might
 
 Whenever an unattended application needs to access a resource, like a Cloud Storage bucket, it must act on its own behalf, not on behalf of any end user. To act on its own behalf, an application needs its own identity that's unrelated to any end-user identity.
 
+https://cloud.google.com/iam/docs/granting-changing-revoking-access
+
 To equip an application with its own identity, create a service account for the application, and grant the service account access to the resources that the application needs to access. By letting an application use its own service account, you help ensure that the application can work without user interaction. In addition, you also ensure that any resource accesses initiated by the application can be attributed back to the same application.
 
 
 
 https://cloud.google.com/iam/docs/best-practices-for-using-and-managing-service-accounts
+
+## terraform support for SA
+
+https://github.com/terraform-google-modules/terraform-google-service-accounts
+
+
+
 
 ## Example
 
