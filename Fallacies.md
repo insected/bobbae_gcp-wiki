@@ -3,6 +3,11 @@
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
 
+## Microservices 
+
+
+https://martinfowler.com/articles/microservice-trade-offs.html
+
 
 ## Illustrated Proof of CAP Theorem
 
@@ -34,10 +39,6 @@ https://cluster.ipfs.io/documentation/guides/consensus/
 
 https://hackernoon.com/blockchain-technology-explained-introduction-meaning-and-applications-edbd6759a2b2
 
-## Microservices 
-
-
-https://martinfowler.com/articles/microservice-trade-offs.html
 
 ## AI
 
