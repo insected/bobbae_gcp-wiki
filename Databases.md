@@ -53,7 +53,13 @@ https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
 
 ### ACID, BASE, CAP
 
+A database transaction can be either a single operation or a sequence of operations, but is treated as a single logical operation on the data by the database. The properties of these transactions provide certain guarantees to the application developer. The acronym ACID was coined by Andreas Reuter and Theo Härder in 1983 to describe them.
+
 [https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c](https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c)
+
+The CAP theorem dictates that the three desirable properties, consistency, availability and partition tolerance cannot be offered simultaneously. Let’s study if its possible to achieve two of these three properties.
+
+
 
 http://dist-prog-book.com/chapter/6/acidic-to-basic-how-the-database-ph-has-changed.html
 
@@ -61,8 +67,16 @@ http://dist-prog-book.com/chapter/6/acidic-to-basic-how-the-database-ph-has-chan
 
 [https://aphyr.com/posts/333-serializability-linearizability-and-locality](https://aphyr.com/posts/333-serializability-linearizability-and-locality)
 
+Linearizability (also known as atomic consistency, strong consistency, immediate consistency) describes reads and writes on a single object (stores a single value). it doesn’t involve multiple objects. It doesn’t involve “transaction”, which groups multiple objects. It treats each operation as an atom, i.e. to take effect in a single time point, rather than a timespan.
 
 https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy
+
+
+Serializability is an isolation level for database transactions. It comes from database community area, where is a different area that Linearizability originates.
+
+Serializability describes multiple transactions, where a transaction is usually composed of multiple operations on multiple objects.
+
+
 
 ### Distributed Consensus Protocols
 
@@ -82,12 +96,30 @@ Currently, the improved Paxos protocol has been used in many distributed product
 
 https://www.hashicorp.com/resources/raft-consul-consensus-protocol-explained
 
+Raft works by electing a leader in the cluster. The leader is responsible for accepting client requests and managing the replication of the log to other servers. The data flows only in one direction: from leader to other servers.
+
+
+https://www.freecodecamp.org/news/in-search-of-an-understandable-consensus-algorithm-a-summary-4bc294c97e0d/
+
+Raft uses randomized election timeouts to ensure that split votes are rare and that they are resolved quickly. To prevent split votes in the first place, election timeouts are chosen randomly from a fixed interval (e.g., 150–300ms). This spreads out the servers so that in most cases only a single server will time out; it wins the election and sends heartbeats before any other servers time out. The same mechanism is used to handle split votes. Each candidate restarts its randomized election timeout at the start of an election, and it waits for that timeout to elapse before starting the next election; this reduces the likelihood of another split vote in the new election.
 
 https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
+In Raft, the leader handles inconsistencies by forcing the followers’ logs to duplicate its own. This means that conflicting entries in follower logs will be overwritten with entries from the leader’s log.
+
 ### DHT, CRDT and Models for relaxed Consistency
 
+Many real-world systems, even global financial networks, choose availability over consistency, so that people can get on with business. There are different ways to go about this. Some of them, based on ‘coordination protocols’ are complicated to get right; they involve all sorts of special roles and rules.
+
+A [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table) (DHT) is a distributed system that provides a lookup service similar to a hash table: key-value pairs are stored in a DHT, and any participating node can efficiently retrieve the value associated with a given key. 
+
+A [conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (CRDT) is a data structure which can be replicated across multiple computers in a network, where the replicas can be updated independently and concurrently without coordination between the replicas, and where it is always mathematically possible to resolve inconsistencies that might come up.
+
+CRDTs let you avoid conflict by defining rules about how changes are applied to a single data point.
+
 http://dist-prog-book.com/chapter/7/langs-consistency.html
+
+https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/S1KpBgA0V
 
 
 ### Distributed Systems
