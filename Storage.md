@@ -21,12 +21,13 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 
 ## Types of Storage
 
+- [Data storage](https://en.wikipedia.org/wiki/Data_storage)
 - [Databases](Databases)
-- Object storage
-- File Storage
-- Block Storage
-- Network Attached Storage
-- Storage Area Network
+- [Object storage](https://en.wikipedia.org/wiki/Object_storage)
+- [File Storage](https://en.wikipedia.org/wiki/File_system)
+- [Block Storage](https://en.wikipedia.org/wiki/Block-level_storage)
+- [Network Attached Storage](https://en.wikipedia.org/wiki/Network-attached_storage)
+- [Storage Area Network](https://en.wikipedia.org/wiki/Storage_area_network)
 
 
 
