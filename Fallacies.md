@@ -69,6 +69,19 @@ https://cluster.ipfs.io/documentation/guides/consensus/
 
 https://en.wikipedia.org/wiki/Problem_of_time
 
+### Synchronization
+
+https://en.wikipedia.org/wiki/Clock_synchronization
+
+### Wireless
+
+https://www.cse.wustl.edu/~jain/cse574-06/ftp/time_sync/index.html
+
+### TrueTime
+
+https://cloud.google.com/spanner/docs/true-time-external-consistency
+
+
 ### Vector Clock
 
 https://en.wikipedia.org/wiki/Vector_clock
