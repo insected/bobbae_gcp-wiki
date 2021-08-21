@@ -44,6 +44,7 @@ https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
 [https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c](https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c)
 
+http://dist-prog-book.com/chapter/6/acidic-to-basic-how-the-database-ph-has-changed.html
 
 ### Serializability, linearizability, and locality
 
