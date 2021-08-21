@@ -22,9 +22,9 @@ It is built from [Knative](https://cloud.google.com/knative/), letting you choos
 
 
 
-### Quickstart: Build and Deploy
+### Quickstarts
 
-This [interactive tutorial](https://cloud.google.com/run/docs/quickstarts/build-and-deploy) can be opened in Cloud Shell editor (theia) and followed step by step.
+https://cloud.google.com/run/docs/quickstarts
 
 
 
