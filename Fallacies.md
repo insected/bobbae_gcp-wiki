@@ -65,6 +65,18 @@ https://aphyr.com/posts/313-strong-consistency-models
 
 https://cluster.ipfs.io/documentation/guides/consensus/
 
+## Time
+
+https://en.wikipedia.org/wiki/Problem_of_time
+
+### Vector Clock
+
+https://en.wikipedia.org/wiki/Vector_clock
+
+### Time Warp
+
+https://learnyousomeerlang.com/time
+
 ## Blockchain
 
 https://hackernoon.com/blockchain-technology-explained-introduction-meaning-and-applications-edbd6759a2b2
