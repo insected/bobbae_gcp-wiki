@@ -77,6 +77,9 @@ https://en.wikipedia.org/wiki/Clock_synchronization
 
 https://www.cse.wustl.edu/~jain/cse574-06/ftp/time_sync/index.html
 
+### 5G
+
+https://www.viavisolutions.com/en-us/literature/timing-and-synchronization-vital-5g-nr-tdd-network-success-posters-en.pdf
 
 ### Time Dilation
 
