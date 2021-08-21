@@ -93,6 +93,6 @@ https://en.wikipedia.org/wiki/Fallacy
 
 https://norvig.com/21-days.html
 
-## Complexity
+## Edsger W. Dijkstra
 
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
