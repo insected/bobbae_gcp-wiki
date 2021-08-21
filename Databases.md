@@ -43,6 +43,10 @@ https://www.guru99.com/difference-between-file-system-and-dbms.html
 
 https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
+### ELT vs ETL
+
+https://www.informatica.com/blogs/etl-vs-elt-whats-the-difference.html
+
 ### ACID, BASE, CAP
 
 [https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c](https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c)
