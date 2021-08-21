@@ -25,7 +25,7 @@ The key abstraction of information in REST is a resource. Any information that c
 
 https://en.wikipedia.org/wiki/Representational_state_transfer
 
-It provides operations (HTTP methods) such as GET, POST, PUT, and DELETE. By using a stateless protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components that can be managed and updated without affecting the system as a whole, even while it is running.
+It provides operations (HTTP methods) such as GET, POST, PUT, and DELETE. By using a [stateless](https://restfulapi.net/statelessness/) protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components that can be managed and updated without affecting the system as a whole, even while it is running.
 
 
 ## gRPC
