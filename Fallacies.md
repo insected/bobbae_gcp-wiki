@@ -81,7 +81,9 @@ https://en.wikipedia.org/wiki/Halting_problem
 
 https://en.wikipedia.org/wiki/Mathematical_fallacy
 
+## Programming
 
+https://norvig.com/21-days.html
 
 ## Physics
 
