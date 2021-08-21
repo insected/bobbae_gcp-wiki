@@ -25,6 +25,9 @@ The key abstraction of information in REST is a resource. Any information that c
 
 https://en.wikipedia.org/wiki/Representational_state_transfer
 
+It provides operations (HTTP methods) such as GET, POST, PUT, and DELETE.[2] By using a stateless protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components that can be managed and updated without affecting the system as a whole, even while it is running.
+
+
 ## gRPC
 
 A second model for using HTTP for APIs is illustrated by gRPC. gRPC uses HTTP/2 under the covers, but HTTP is not exposed to the API designer. gRPC-generated stubs and skeletons hide HTTP from the client and server too, so nobody has to worry how the RPC concepts are mapped to HTTP—they just have to learn gRPC. 
