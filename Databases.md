@@ -66,10 +66,12 @@ https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
 ### DHT, CRDT and Models for relaxed Consistency
 
-http://dist-prog-book.com/chapter/7/langs-consistency.html#lasp
+http://dist-prog-book.com/chapter/7/langs-consistency.html
 
 
+### Distributed Systems
 
+https://github.com/bobbae/gcp/wiki/Fallacies#8-fallacies-of-distributed-computing
 
 ### Database of Databases
 
