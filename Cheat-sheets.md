@@ -31,7 +31,6 @@ http://www.itcheerup.net/2020/07/last-minute-cheat-sheet-for-gcp-professional-cl
 
 https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet
 
-https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf
 
 https://www.testpreptraining.com/blog/google-professional-data-engineer-gcp-cheat-sheet/
 
