@@ -47,6 +47,10 @@ https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
 https://www.informatica.com/blogs/etl-vs-elt-whats-the-difference.html
 
+### Data lakes vs Data warehouses
+
+https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
+
 ### ACID, BASE, CAP
 
 [https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c](https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c)
