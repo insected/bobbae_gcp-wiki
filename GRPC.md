@@ -1,13 +1,13 @@
 
 
-[gRPC](https://grpc.io/) is a technology for implementing RPC APIs that uses HTTP 2.0 as its underlying transport protocol. 
+[gRPC](https://grpc.io/) is a technology for implementing [RPC](http://dist-prog-book.com/chapter/1/rpc.html) APIs that uses HTTP 2.0 as its underlying transport protocol. 
 
 
-GRPC is a high performance, open-source universal RPC framework, developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and services.
+GRPC is a high performance, open-source [universal RPC framework](https://github.com/grpc-ecosystem/awesome-grpc), developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and [micro services](https://github.com/mfornos/awesome-microservices).
 
 One of the primary benefits of using gRPC is for documentation; you can use your service configuration and API interface definition files to generate reference documentation for your API. 
 
-With [Endpoints for gRPC](https://cloud.google.com/endpoints/docs/grpc/about-grpc), you can use the API management capabilities of [Endpoints](Endpoints) to add an API console, monitoring, hosting, tracing, authentication, and more to your gRPC services. In addition, once you specify special mapping rules, ESP and ESPv2 translate [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) JSON over HTTP into gRPC requests. This means that you can deploy a gRPC server managed by Endpoints and call its API using a gRPC or JSON/HTTP client, giving you much more flexibility and ease of integration with other systems.
+With [Google Endpoints for gRPC](https://cloud.google.com/endpoints/docs/grpc/about-grpc), you can use the API management capabilities of [Google Endpoints](Endpoints) to add an API console, monitoring, hosting, tracing, authentication, and more to your gRPC services. In addition, once you specify special mapping rules, ESP and ESPv2 translate [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) JSON over HTTP into gRPC requests. This means that you can deploy a gRPC server managed by Endpoints and call its API using a gRPC or JSON/HTTP client, giving you much more flexibility and ease of integration with other systems.
 
 
 https://cloud.google.com/endpoints/docs/grpc/about-grpc
@@ -76,3 +76,6 @@ https://cloud.google.com/endpoints/docs/grpc/tutorials
 
 https://realpython.com/python-microservices-grpc/
 
+## RPC, REST and HTTP
+
+https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
