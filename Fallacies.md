@@ -69,9 +69,13 @@ https://cluster.ipfs.io/documentation/guides/consensus/
 
 https://en.wikipedia.org/wiki/Problem_of_time
 
-### Synchronization
+### Clock Synchronization
 
 https://en.wikipedia.org/wiki/Clock_synchronization
+
+### Time Synchronization in distributed systems
+
+https://medium.com/distributed-knowledge/time-synchronization-in-distributed-systems-a21808928bc8
 
 ### Wireless
 
