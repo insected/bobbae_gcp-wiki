@@ -77,9 +77,6 @@ https://en.wikipedia.org/wiki/Clock_synchronization
 
 https://www.cse.wustl.edu/~jain/cse574-06/ftp/time_sync/index.html
 
-### TrueTime
-
-https://cloud.google.com/spanner/docs/true-time-external-consistency
 
 ### Time Dilation
 
@@ -88,6 +85,14 @@ https://en.wikipedia.org/wiki/Time_dilation
 ### Time Zone
 
 https://en.wikipedia.org/wiki/Time_zone
+
+### TrueTime
+
+https://cloud.google.com/spanner/docs/true-time-external-consistency
+
+### Atomic Clocks
+
+https://www.cockroachlabs.com/blog/living-without-atomic-clocks/
 
 ### Vector Clock
 
