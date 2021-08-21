@@ -260,7 +260,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Hands-On Machine Learning on GCP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-on-Google-Cloud-Platform)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-
+- https://awesomeopensource.com/categories/machine-learning
 
 ## Google Workspace
 - [Introduction](https://www.youtube.com/watch?v=bE31y5HbukA)
