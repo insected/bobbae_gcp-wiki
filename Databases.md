@@ -66,9 +66,19 @@ https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distri
 
 ### Distributed Consensus Protocols
 
+A logical clock is an idea put forward by Lamport in 1987 to solve possible problems caused by clock inconsistency between different machines in a distributed system. 
+
 [https://www.alibabacloud.com/blog/a-brief-analysis-of-consensus-protocol-from-logical-clock-to-raft_594675](https://www.alibabacloud.com/blog/a-brief-analysis-of-consensus-protocol-from-logical-clock-to-raft_594675)
 
+Many distributed systems use state machine replication to synchronize data between copies, such as HDFS, Chubby, and Zookeeper.
+Paxos is a consensus protocol algorithm developed by Lamport in the 1990s. ZAB (ZooKeeper Atomic BoardCast) is a consensus protocol used in ZooKeeper. Raft is a new consensus protocol developed by developers at Stanford University in 2014. The developers developed this new consensus protocol because they considered Paxos difficult to understand.
+
 https://www.sofastack.tech/en/projects/sofa-jraft/consistency-raft-jraft/
+
+
+Currently, the improved Paxos protocol has been used in many distributed products, such as Chubby, PaxosStore, Alibaba Cloud X-DB, and Ant Financial OceanBase. It is generally believed that the Raft protocol has lower performance than Paxos because it only allows committing entries in sequence. However, TiKV that uses Raft officially declares that it has made many optimizations on Raft and has significantly improved the performance of Raft. POLARDB is another Alibaba Cloud database that also uses Parallel-Raft (the improved version of Raft) to implement the parallel commit capability in Raft. I believe that more Paxos/Raft-based products will be available in the future and that more improvements will be made to Raft/Paxos.
+
+
 
 https://www.hashicorp.com/resources/raft-consul-consensus-protocol-explained
 
