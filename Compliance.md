@@ -41,3 +41,8 @@ https://cloud.google.com/files/PCI_DSS_Shared_Responsibility_GCP_v32.pdf
 Encryption As a Service
 
 https://learn.hashicorp.com/tutorials/vault/eaas-transit
+
+
+## Time
+
+https://www.masterclock.com/support/library/gps-network-time-synchronization
