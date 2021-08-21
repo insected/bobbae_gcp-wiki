@@ -81,6 +81,13 @@ https://www.cse.wustl.edu/~jain/cse574-06/ftp/time_sync/index.html
 
 https://cloud.google.com/spanner/docs/true-time-external-consistency
 
+### Time Dilation
+
+https://en.wikipedia.org/wiki/Time_dilation
+
+### Time Zone
+
+https://en.wikipedia.org/wiki/Time_zone
 
 ### Vector Clock
 
