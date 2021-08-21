@@ -81,10 +81,6 @@ https://en.wikipedia.org/wiki/Halting_problem
 
 https://en.wikipedia.org/wiki/Mathematical_fallacy
 
-## Programming
-
-https://norvig.com/21-days.html
-
 ## Physics
 
 https://www.journals.uchicago.edu/doi/full/10.1086/678174#d3794364e1
@@ -92,3 +88,11 @@ https://www.journals.uchicago.edu/doi/full/10.1086/678174#d3794364e1
 ## Reasoning
 
 https://en.wikipedia.org/wiki/Fallacy
+
+## Programming
+
+https://norvig.com/21-days.html
+
+## Complexity
+
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
