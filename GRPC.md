@@ -40,6 +40,10 @@ The way a client uses a gRPC API is by following these three steps:
 
 - Use a code-generated stub to make the call, passing the parameter values
 
+### gRPC vs REST
+
+https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/
+
 ### Quickstart in Go
 
 https://grpc.io/docs/languages/go/quickstart/
