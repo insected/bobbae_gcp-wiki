@@ -64,6 +64,13 @@ https://www.hashicorp.com/resources/raft-consul-consensus-protocol-explained
 
 https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
+### DHT, CRDT and Models for relaxed Consistency
+
+http://dist-prog-book.com/chapter/7/langs-consistency.html#lasp
+
+
+
+
 ### Database of Databases
 
 [https://dbdb.io/browse](https://dbdb.io/browse)
