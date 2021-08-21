@@ -8,6 +8,32 @@ https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-
 
 https://martinfowler.com/articles/microservice-trade-offs.html
 
+## Planning
+
+https://en.wikipedia.org/wiki/Planning_fallacy
+
+### Sunk Cost
+
+
+https://en.wikipedia.org/wiki/Sunk_cost
+
+### Estimating time
+
+https://zapier.com/blog/how-to-estimate-time/
+
+
+### Bias
+
+
+https://thedecisionlab.com/biases/planning-fallacy/
+
+### Thinking, Fast and Slow
+
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+
+### Cognitive Reflection Test
+
+https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
 ## Illustrated Proof of CAP Theorem
 
