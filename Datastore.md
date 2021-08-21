@@ -58,9 +58,11 @@ https://azure.microsoft.com/en-us/services/cosmos-db/
 
 ### Amazon DynamoDB
 
-Amazon DynamoDB is a fully managed proprietary NoSQL database service that supports key–value and document data structures.  DynamoDB exposes a similar data model to and derives its name from Dynamo, but has a different underlying implementation. Dynamo had a multi-leader design requiring the client to resolve version conflicts and DynamoDB uses synchronous replication across multiple data centers for high durability and availability.  It is presented as a evolution of Amazon SimpleDB.
+[AWS](AWS) DynamoDB is a fully managed proprietary NoSQL database service that supports key–value and document data structures.  DynamoDB exposes a similar data model to and derives its name from Dynamo, but has a different underlying implementation. Dynamo had a multi-leader design requiring the client to resolve version conflicts and DynamoDB uses synchronous replication across multiple data centers for high durability and availability.  It is presented as a evolution of Amazon SimpleDB.
 
 https://aws.amazon.com/dynamodb/
+
+http://dist-prog-book.com/chapter/7/langs-consistency.html
 
 ### Amazon SimpleDB
 
