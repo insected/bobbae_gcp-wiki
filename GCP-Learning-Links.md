@@ -72,7 +72,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Cloud Storage Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/storage/docs/samples)
 - [GCP Labs](https://github.com/pydevops/gcp-labs)
 - [GCloud Cheat Sheets](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
-
+- https://gist.github.com/pydevops
 
 ## Docs
 - [Google cloud docs](https://cloud.google.com/docs)
