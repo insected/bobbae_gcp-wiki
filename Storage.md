@@ -21,7 +21,7 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 
 ## Types of Storage
 
-- [Databases](Database)
+- [Databases](Databases)
 - Object storage
 - File Storage
 - Block Storage
