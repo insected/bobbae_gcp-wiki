@@ -17,6 +17,10 @@ https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
 
 https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
 
+## Sybil Attack
+
+https://en.wikipedia.org/wiki/Sybil_attack
+
 ## Consensus
 
 https://www.alibabacloud.com/blog/a-brief-analysis-of-consensus-protocol-from-logical-clock-to-raft_594675
