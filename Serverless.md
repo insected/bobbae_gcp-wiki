@@ -58,7 +58,7 @@ https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02c
 [App Engine](App-Engine) is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
 
 
-Google App Engine makes it easy to focus on your code, while letting us manage your infrastructure.
+
 
 [https://www.youtube.com/watch?v=2PRciDpqpko](https://www.youtube.com/watch?v=2PRciDpqpko)
 
