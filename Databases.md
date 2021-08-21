@@ -35,6 +35,9 @@ Many enterprise systems that handle high-profile data (e.g., financial and order
 
 A [distributed SQL](https://en.wikipedia.org/wiki/Distributed_SQL) database is a single relational database which [replicates data across multiple servers](https://www.infoworld.com/article/3564543/beyond-nosql-the-case-for-distributed-sql.html). [Distributed SQL](https://www.cockroachlabs.com/blog/what-is-distributed-sql/) databases are strongly consistent and most [support consistency](https://www.nextplatform.com/2021/01/25/after-three-decades-you-can-finally-have-a-distributed-sql-database/) across racks, data centers, and wide area networks including cloud availability zones and cloud geographic zones.
 
+### Databases vs file systems
+
+https://www.guru99.com/difference-between-file-system-and-dbms.html
 
 ### OLTP vs. OLAP
 
