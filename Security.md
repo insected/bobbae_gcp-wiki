@@ -12,6 +12,7 @@ users to adopt or adapt them and then automatically deploy them for their estate
 
 There is an [example repo showing how the CFT Terraform modules can be composed to build a secure GCP foundation](https://github.com/terraform-google-modules/terraform-example-foundation).
 
+https://cloud.google.com/blog/products/devops-sre/using-the-cloud-foundation-toolkit-with-terraform
 
 ## Risk Manager
 
