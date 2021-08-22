@@ -132,6 +132,10 @@ https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/S1KpBgA0V
 
 https://redis.com/redis-enterprise/technology/active-active-geo-distribution/
 
+### Braid
+
+https://braid.org/
+
 ## Distributed Systems
 
 https://github.com/bobbae/gcp/wiki/Fallacies#8-fallacies-of-distributed-computing
