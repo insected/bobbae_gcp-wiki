@@ -21,6 +21,9 @@ https://en.wikipedia.org/wiki/Sunk_cost
 
 https://zapier.com/blog/how-to-estimate-time/
 
+### The Mythical Man-Month
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 ### Bias
 
