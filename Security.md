@@ -41,6 +41,8 @@ Computer security, cybersecurity or information technology security (IT security
 
 [Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
 
+https://cloud.google.com/identity/docs/overview
+
 Account management, authentication and password management can be tricky. Often, account management is a dark corner that isn't a top priority for developers or product managers. The resulting experience often falls short of what some of your users would expect for data security and user experience.  Use  [the best practices](https://cloud.google.com/blog/products/identity-security/account-authentication-and-password-management-best-practices) to  ensure you have a safe, scalable, usable account authentication system.
 
 ## Operational security
@@ -88,6 +90,8 @@ It helps you achieve [confidentiality, data integrity, availability, non-repudia
 
 Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manages users and groups. You can configure Cloud Identity to federate identities between Google and other identity providers, such as [Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-introduction) and [Azure Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-azure-active-directory).
 
+
+
 ### Identity-Aware Proxy
 
 [Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) lets you manage access to applications running in the App Engine standard environment, App Engine flexible environment, Compute Engine, and GKE. IAP establishes a central authorization layer for applications accessed by HTTPS, so you can adopt an application-level access control model instead of using network-level firewalls. When you turn on IAP, you must also use [signed headers](https://cloud.google.com/iap/docs/signed-headers-howto) or the App Engine standard environment [Users API](https://cloud.google.com/appengine/docs/standard#users) to secure your app.
@@ -96,6 +100,21 @@ Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manag
 Identity Aware Proxy enables you to configure secure controlled access to your applications so you can enforce "who can see what" access control at the application layer.  You don't need client software, remote access VPNs, firewalls, network configurations. 
 
 [https://www.youtube.com/watch?v=XqMY-rPk3MY](https://www.youtube.com/watch?v=XqMY-rPk3MY)
+
+
+### Device Identity
+
+The Cloud Identity Groups API allows you to create and manage different types of devices within your organization.
+
+
+https://cloud.google.com/identity/docs/concepts/overview-devices
+
+### Groups Identity
+
+A group is a collection of entities, where each entity can be either another group or a user. 
+
+https://cloud.google.com/identity/docs/groups
+
 
 
 ## Context-Aware Access
