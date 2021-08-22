@@ -186,6 +186,11 @@ https://en.wikipedia.org/wiki/Halting_problem
 
 https://en.wikipedia.org/wiki/Mathematical_fallacy
 
+### Lies, damned lies, and Statistics
+
+https://www.statisticsdonewrong.com/
+
+
 ## Physics
 
 https://www.journals.uchicago.edu/doi/full/10.1086/678174#d3794364e1
