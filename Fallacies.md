@@ -8,50 +8,7 @@ https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-
 
 https://martinfowler.com/articles/microservice-trade-offs.html
 
-## Planning
 
-https://en.wikipedia.org/wiki/Planning_fallacy
-
-https://towardsdatascience.com/man-plans-god-laughs-the-planning-fallacy-ea9bcacc16f4
-
-### Sunk Cost
-
-
-https://en.wikipedia.org/wiki/Sunk_cost
-
-### Estimating time
-
-https://zapier.com/blog/how-to-estimate-time/
-
-### The Mythical Man-Month
-
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month
-
-### No Silver Bullet
-
-https://en.wikipedia.org/wiki/No_Silver_Bullet
-
-### Conway's Law
-
-https://en.wikipedia.org/wiki/Conway%27s_law
-
-
-### Deutsch Limit
-
-https://en.wikipedia.org/wiki/Deutsch_limit
-
-### Bias
-
-
-https://en.wikipedia.org/wiki/List_of_cognitive_biases
-
-### Thinking, Fast and Slow
-
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
-
-### Cognitive Reflection Test
-
-https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
 ## CAP
 
@@ -153,6 +110,51 @@ https://en.wikipedia.org/wiki/Bayesian_inference
 
 https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
 
+### Planning
+
+https://en.wikipedia.org/wiki/Planning_fallacy
+
+https://towardsdatascience.com/man-plans-god-laughs-the-planning-fallacy-ea9bcacc16f4
+
+### Sunk Cost
+
+
+https://en.wikipedia.org/wiki/Sunk_cost
+
+### Estimating time
+
+https://zapier.com/blog/how-to-estimate-time/
+
+### The Mythical Man-Month
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+
+### No Silver Bullet
+
+https://en.wikipedia.org/wiki/No_Silver_Bullet
+
+### Conway's Law
+
+https://en.wikipedia.org/wiki/Conway%27s_law
+
+
+### Deutsch Limit
+
+https://en.wikipedia.org/wiki/Deutsch_limit
+
+### Bias
+
+
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+### Thinking, Fast and Slow
+
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+
+### Cognitive Reflection Test
+
+https://en.wikipedia.org/wiki/Cognitive_reflection_test
+
 
 ### A Flaw in Judgement
 
@@ -237,6 +239,7 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 https://en.wikipedia.org/wiki/Anti-pattern
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Anti-Patterns
-## Edsger W. Dijkstra
+
+### Edsger W. Dijkstra
 
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
