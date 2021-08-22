@@ -63,7 +63,7 @@ https://aphyr.com/posts/313-strong-consistency-models
 
 ### CRDT 
 
-https://cluster.ipfs.io/documentation/guides/consensus/
+https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc8459d26
 
 ## Time
 
