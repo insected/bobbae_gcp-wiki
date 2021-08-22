@@ -121,6 +121,10 @@ http://dist-prog-book.com/chapter/7/langs-consistency.html
 
 https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/S1KpBgA0V
 
+### Redis CRDT
+
+
+https://redis.com/redis-enterprise/technology/active-active-geo-distribution/
 
 ### Distributed Systems
 
