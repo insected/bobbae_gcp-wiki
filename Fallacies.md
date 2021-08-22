@@ -12,6 +12,8 @@ https://martinfowler.com/articles/microservice-trade-offs.html
 
 https://en.wikipedia.org/wiki/Planning_fallacy
 
+https://towardsdatascience.com/man-plans-god-laughs-the-planning-fallacy-ea9bcacc16f4
+
 ### Sunk Cost
 
 
