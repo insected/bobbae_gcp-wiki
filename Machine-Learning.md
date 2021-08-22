@@ -638,7 +638,15 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 https://jalammar.github.io/illustrated-transformer/
 
+### GPT-3
 
+https://en.wikipedia.org/wiki/GPT-3
+
+https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
+
+https://github.com/elyase/awesome-gpt3
+
+https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
 
 ### BERT and ELMo
 
