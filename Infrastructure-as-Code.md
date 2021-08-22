@@ -59,6 +59,10 @@ AWS CloudFormation lets users model a collection of related AWS and third-party 
 
 https://aws.amazon.com/cloudformation/
 
+### Azure Resource Manager
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
 ### Openstack Heat
 
 The OpenStack Foundation has also defined a similar standard for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
