@@ -98,6 +98,15 @@ https://cloud.google.com/architecture/
 https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
 
 
+### AWS
+
+[AWS](AWS)
+
+### Survey of other cloud providers
+
+
+https://geekflare.com/cloud-hosting-platform/
+
 ## Videos
 
 https://www.youtube.com/googlecloud
