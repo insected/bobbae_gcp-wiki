@@ -19,17 +19,21 @@ Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://clou
 
 https://www.terraform.io/docs/language/index.html
 
-## Introduction to terraform
+
+
+Defining and managing your development, test, staging, and production environments using infra-as-code tools such as [Deployment Manager](https://cloud.google.com/deployment-manager) or [Terraform](https://www.terraform.io/) is a common practice. 
+
+[https://www.youtube.com/watch?v=3vfXQxWJazM](https://www.youtube.com/watch?v=3vfXQxWJazM)
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
-## Module
+### Module
 
 A Terraform module is a set of Terraform configuration files in a single directory. Even a simple configuration consisting of a single directory with one or more .tf files is a module. When you run Terraform commands directly from such a directory, it is considered the root module. So in this sense, every Terraform configuration is part of a module. 
 
 https://registry.terraform.io/browse/modules
 
-## Using terraform with Google Cloud
+### Using terraform with Google Cloud
 
 https://cloud.google.com/docs/terraform
 
@@ -44,64 +48,81 @@ https://www.terraform.io/docs/extend/how-terraform-works.html
 https://www.terraform.io/docs/extend/hashicorp-provider-design-principles.html
 
 
-## Provisioning Anthos clusters with Terraform
 
-https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terraform
 
 ## Using terraform
 
 https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastructure-with-terraform
 
 
+### Best Practices
 
 
-## Terraform examples for GKE
-
-https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
+https://geekflare.com/terraform-best-practices/
 
 
-### Terraform, GKE, and network policy add-on
+### Loops and conditions
 
-Problems that occur when there are too many layers of abstraction happening without considering affects that permeate through the layers and assumptions made in each layer.
+https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
 
-https://blog.ml6.eu/how-proper-default-settings-can-save-money-and-trees-99783752d81c
 
-## Cloud Foundation terraform templates
+### Troubleshooting
 
-https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
+https://learn.hashicorp.com/tutorials/terraform/troubleshooting-workflow
 
-## Getting Started on GCP with terraform
 
-[https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform)
+### Mistakes
 
-Defining and managing your development, test, staging, and production environments using infra-as-code tools such as [Deployment Manager](https://cloud.google.com/deployment-manager) or [Terraform](https://www.terraform.io/) is a common practice. Ensuring that any changes you make to your environment config definitions are “safe” remains challenging, though.
 
-[https://www.youtube.com/watch?v=3vfXQxWJazM](https://www.youtube.com/watch?v=3vfXQxWJazM)
+https://blog.pipetail.io/posts/2020-10-29-most-common-mistakes-terraform/
 
-## Debugging terraform
+
+### Pain points
+
+
+
+https://adambrodziak.pl/terraform-is-terrible
+
+### Issues
+
+https://www.schibsted.pl/blog/9-reasons-why-terraform-is-a-pain-and-1-why-you-should-still-care/
+
+### Debugging terraform
 
 https://www.terraform.io/docs/internals/debugging.html
 
-### Debug a Terraform Provider
+#### Debug a Terraform Provider
 
 https://learn.hashicorp.com/tutorials/terraform/provider-debug
 
-## Managing infrastructure as code with Terraform, Cloud Build, and GitOps
+
+
+
+
+
+## Tutorials
+
+### Getting Started on GCP with terraform
+
+[https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform)
+
+
+### Managing infrastructure as code with Terraform, Cloud Build, and GitOps
 
 [https://cloud.google.com/solutions/managing-infrastructure-as-code](https://cloud.google.com/solutions/managing-infrastructure-as-code)
 
 
-## Hashicorp  terraform on GCP tutorials
+### Hashicorp  terraform on GCP tutorials
 
 [https://learn.hashicorp.com/collections/terraform/gcp-get-started#gcp](https://learn.hashicorp.com/collections/terraform/gcp-get-started#gcp)
 
+### Provisioning Anthos clusters with Terraform
 
-## Terraform Modules for GCP
-
-[https://github.com/terraform-google-modules](https://github.com/terraform-google-modules)
+https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terraform
 
 
-## Manage GCP projects with terraform
+
+### Manage GCP projects with terraform
 
 https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform
 
@@ -112,22 +133,41 @@ Are there any resources that can only be removed when project is removed?  (Hint
 
 https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-gcp-projects-with-terraform
 
-## Terraform Google modules Examples
+### Terraform Google modules Examples
 
 [https://github.com/terraform-google-modules/docs-examples](https://github.com/terraform-google-modules/docs-examples)
 
 
-## CDK
 
-[CDK](https://github.com/hashicorp/terraform-cdk) (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
+### Terraform examples for GKE
 
-## Terraformer
+https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
+
+
+### Terraform, GKE, and network policy add-on
+
+Problems that occur when there are too many layers of abstraction happening without considering affects that permeate through the layers and assumptions made in each layer.
+
+https://blog.ml6.eu/how-proper-default-settings-can-save-money-and-trees-99783752d81c
+
+### Cloud Foundation terraform templates
+
+https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
+
+### Integrate GCP with Datadog using terraform
+
+https://medium.com/sardineai/integrating-gcp-with-datadog-with-terraform-d88c5c65dc0a
+
+## Tools
+
+
+### Terraformer
 
 Reverse of terraform.  
 
 [https://github.com/GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 
-## Terragrunt
+### Terragrunt
 
 
 
@@ -137,64 +177,87 @@ https://terragrunt.gruntwork.io/
 
 https://github.com/gruntwork-io/terragrunt
 
-## Terratest
+https://medium.com/bestmile/migrating-from-terraform-to-terragrunt-cf91f5d7a301
+
+### Terratest
 
 https://github.com/gruntwork-io/terratest
 
-## Terraspace
+### Terraspace
 
 
 
 https://terraspace.cloud/
 
-## Atlantis
+### Atlantis
 
 Terraform pull request automation
 
 https://www.runatlantis.io/
 
-## Terraform validator
+### Spacelift
+
+https://spacelift.io/
+
+### Terraform validator
 
 https://github.com/GoogleCloudPlatform/terraform-validator
 
-## Terraform module generator
+### Terraform module generator
 
 
 Scaffolding / Boilerplate generator for new Terraform module projects
 
 https://github.com/sudokar/generator-tf-module
 
-## Chekov
+### Chekov
 
 Terraform static analysis tool.
 
 https://github.com/bridgecrewio/checkov/
 
-## GitHub pre commit
+### GitHub pre commit
 
 
 https://github.com/antonbabenko/pre-commit-terraform
 
-## Bridegecrew  
+### Bridegecrew  
 
 https://bridgecrew.io/
 
 
-## Snyk
+### Snyk
 
 https://support.snyk.io/hc/en-us/articles/360010916577-Scan-and-fix-security-issues-in-your-Terraform-files
 
-## Geodesic
+### Geodesic
 
 
 https://github.com/cloudposse/geodesic
 
+### Deep source
 
-## Atmos
+https://deepsource.io/static-analysis/terraform/
+
+### Atmos
 
 https://github.com/cloudposse/atmos
 
-## Terrible
+
+### Pulumi
+
+https://www.pulumi.com/docs/intro/vs/terraform/
+
+
+### CDK
+
+[CDK](https://github.com/hashicorp/terraform-cdk) (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
+
+### Troposphere
+
+https://github.com/cloudtools/troposphere
+
+### Terrible
 
 https://github.com/89luca89/terrible
 
@@ -206,9 +269,7 @@ https://registry.terraform.io/modules/cloudboss/terrible/cloudinit/latest
 
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 
-## Integrate GCP with Datadog using terraform
 
-https://medium.com/sardineai/integrating-gcp-with-datadog-with-terraform-d88c5c65dc0a
 
 
 ## Qwiklabs
