@@ -32,6 +32,15 @@ https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs
 
 https://cloud.google.com/architecture/managing-infrastructure-as-code
 
+
+#### terragrunt
+
+https://github.com/gruntwork-io/terragrunt
+
+#### terratest
+
+https://github.com/gruntwork-io/terratest
+
 ### Cloud Deployment Manager
 
 
