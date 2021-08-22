@@ -27,6 +27,8 @@ https://www.terraform.io/docs/language/index.html
 
 A Terraform module is a set of Terraform configuration files in a single directory. Even a simple configuration consisting of a single directory with one or more .tf files is a module. When you run Terraform commands directly from such a directory, it is considered the root module. So in this sense, every Terraform configuration is part of a module. 
 
+https://registry.terraform.io/browse/modules
+
 ## Using terraform with Google Cloud
 
 https://cloud.google.com/docs/terraform
@@ -49,6 +51,9 @@ https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terrafor
 ## Using terraform
 
 https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastructure-with-terraform
+
+
+
 
 ## Terraform examples for GKE
 
@@ -165,6 +170,37 @@ Terraform static analysis tool.
 
 https://github.com/bridgecrewio/checkov/
 
+## GitHub pre commit
+
+
+https://github.com/antonbabenko/pre-commit-terraform
+
+## Bridegecrew  
+
+https://bridgecrew.io/
+
+
+## Snyk
+
+https://support.snyk.io/hc/en-us/articles/360010916577-Scan-and-fix-security-issues-in-your-Terraform-files
+
+## Geodesic
+
+
+https://github.com/cloudposse/geodesic
+
+
+## Atmos
+
+https://github.com/cloudposse/atmos
+
+## Terrible
+
+https://github.com/89luca89/terrible
+
+https://github.com/antonbabenko/terrible
+
+https://registry.terraform.io/modules/cloudboss/terrible/cloudinit/latest
 
 ## A list of URLs related to terraform
 
