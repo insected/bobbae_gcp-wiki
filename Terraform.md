@@ -132,7 +132,7 @@ https://terragrunt.gruntwork.io/
 
 https://github.com/gruntwork-io/terragrunt
 
-## terratest
+## Terratest
 
 https://github.com/gruntwork-io/terratest
 
