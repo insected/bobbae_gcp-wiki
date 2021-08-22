@@ -83,6 +83,8 @@ https://aphyr.com/posts/313-strong-consistency-models
 
 https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc8459d26
 
+https://josephg.com/blog/crdts-go-brrr/
+
 ## Time
 
 https://en.wikipedia.org/wiki/Problem_of_time
