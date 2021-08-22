@@ -81,9 +81,9 @@ So the write directly goes to the Zone where it has the Leader Split.
 Each Split has its own leader zone.
 
 
+## CAP
 
-
-
+https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-cap-theorem
 
 ## Strong Consistency
 
