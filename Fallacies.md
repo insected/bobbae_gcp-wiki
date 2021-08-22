@@ -212,6 +212,10 @@ https://plato.stanford.edu/entries/category-mistakes/
 
 https://en.wikipedia.org/wiki/Causality
 
+### Simpson's Berkeley Paradox
+
+https://www.refsmmat.com/posts/2016-05-08-simpsons-paradox-berkeley.html
+
 ### Awesome Falsehood
 
 https://github.com/kdeldycke/awesome-falsehood
