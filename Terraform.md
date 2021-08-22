@@ -11,6 +11,8 @@ Google Cloud Foundation Toolkit supports Terraform as well as Google Cloud Deplo
 
 [Infrastructure as Code](Infrastructure-as-Code)  is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
+https://www.mineiros.io/blog/the-ultimate-guide-on-how-to-write-terraform-modules-part-1
+
 Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
 ### HCL
