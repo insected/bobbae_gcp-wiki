@@ -208,6 +208,10 @@ https://en.wikipedia.org/wiki/Fallacy
 
 https://plato.stanford.edu/entries/category-mistakes/
 
+### Causality
+
+https://en.wikipedia.org/wiki/Causality
+
 ### Awesome Falsehood
 
 https://github.com/kdeldycke/awesome-falsehood
