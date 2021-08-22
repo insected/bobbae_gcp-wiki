@@ -119,7 +119,7 @@ Cloud Spanner also guarantees that the serial order is consistent with the order
 In a system that provides serializability but not external consistency, even though the customer executed T1 and then T2 sequentially, the system would be permitted to reorder them, which could cause the debit to incur a penalty due to insufficient funds.
 
 
-
+https://jepsen.io/consistency
 
 
 ## TrueTime
