@@ -34,6 +34,10 @@ https://en.wikipedia.org/wiki/No_Silver_Bullet
 https://en.wikipedia.org/wiki/Conway%27s_law
 
 
+### Deutsch Limit
+
+https://en.wikipedia.org/wiki/Deutsch_limit
+
 ### Bias
 
 
@@ -137,9 +141,24 @@ https://en.wikipedia.org/wiki/P-value
 
 https://en.wikipedia.org/wiki/Bayesian_inference
 
+
+## Noise
+
+### Noisy-channel coding theorem
+
+
+https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
+
+
+### A Flaw in Judgement
+
+https://theconversation.com/daniel-kahneman-on-noise-the-flaw-in-human-judgement-harder-to-detect-than-cognitive-bias-160525
+
+
 ## AI
 
 http://inverseprobability.com/talks/notes/the-great-ai-fallacy.html
+
 
 ### Machine Learning
 
@@ -167,14 +186,40 @@ https://en.wikipedia.org/wiki/Mathematical_fallacy
 
 https://www.journals.uchicago.edu/doi/full/10.1086/678174#d3794364e1
 
+
+### Quantum Probability Theory
+
+https://www.technologyreview.com/2009/09/17/209905/how-quantum-probability-theory-could-explain-human-logical-fallacies/
+
 ## Reasoning
 
 https://en.wikipedia.org/wiki/Fallacy
+
+### Category Mistakes
+
+https://plato.stanford.edu/entries/category-mistakes/
+
+### Awesome Falsehood
+
+https://github.com/kdeldycke/awesome-falsehood
 
 ## Programming
 
 https://norvig.com/21-days.html
 
+### Logical Fallacies in Programming
+
+https://artur-martsinkovskyi.github.io/2018/logical-fallacies-in-programming/
+
+### DRY
+
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+
+### Anti Pattern
+
+https://en.wikipedia.org/wiki/Anti-pattern
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Anti-Patterns
 ## Edsger W. Dijkstra
 
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
