@@ -175,7 +175,7 @@ https://www.weave.works/docs/net/latest/concepts/how-it-works/
 
 ### kilo
 
-Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes.
+Kilo is a multi-cloud network overlay built on [WireGuard](  https://www.wireguard.com/ ) and designed for Kubernetes.
 
 Kilo connects nodes in a cluster by providing an encrypted layer 3 network that can span across data centers and public clouds. The Pod network created by Kilo is always fully connected, even when the nodes are in different networks or behind NAT. By allowing pools of nodes in different locations to communicate securely, Kilo enables the operation of multi-cloud clusters. 
 
