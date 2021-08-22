@@ -1,11 +1,11 @@
 
+## GCP Databases
 
-## Database Related topics
 
 There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud SQL](  Cloud-SQL 
  ), [Datastore](Datastore), [Firebase](Firebase), [Firestore](Firestore), [Spanner](Spanner), and [Memorystore](Memorystore).
 
-### Cloud Databases
+## Cloud Databases
 
 * [GCP Database Products](https://cloud.google.com/products/databases)
 * [AWS Database products](https://aws.amazon.com/products/databases/) 
@@ -14,7 +14,7 @@ There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud
 * [IBM  DB2 database](https://www.ibm.com/cloud/db2-on-cloud)
 * [SAP HANA Cloud](   https://www.sap.com/products/hana/cloud.html )
 
-### SQL, NoSQL, NewSQL, distributed SQL
+## SQL, NoSQL, NewSQL
 
 [Structured Query Language](SQL) (SQL) is the standard language for data manipulation in a DBMS.
 
@@ -35,23 +35,23 @@ Many enterprise systems that handle high-profile data (e.g., financial and order
 
 A [distributed SQL](https://en.wikipedia.org/wiki/Distributed_SQL) database is a single relational database which [replicates data across multiple servers](https://www.infoworld.com/article/3564543/beyond-nosql-the-case-for-distributed-sql.html). [Distributed SQL](https://www.cockroachlabs.com/blog/what-is-distributed-sql/) databases are strongly consistent and most [support consistency](https://www.nextplatform.com/2021/01/25/after-three-decades-you-can-finally-have-a-distributed-sql-database/) across racks, data centers, and wide area networks including cloud availability zones and cloud geographic zones.
 
-### Databases vs file systems
+## Databases vs file systems
 
 https://www.guru99.com/difference-between-file-system-and-dbms.html
 
-### OLTP vs. OLAP
+## OLTP vs. OLAP
 
 https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
-### ELT vs ETL
+## ELT vs ETL
 
 https://www.informatica.com/blogs/etl-vs-elt-whats-the-difference.html
 
-### Data lakes vs Data warehouses
+## Data lakes vs Data warehouses
 
 https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
 
-### ACID, BASE, CAP
+## ACID, BASE, CAP
 
 A database transaction can be either a single operation or a sequence of operations, but is treated as a single logical operation on the data by the database. The properties of these transactions provide certain guarantees to the application developer. The acronym ACID was coined by Andreas Reuter and Theo Härder in 1983 to describe them.
 
@@ -63,7 +63,7 @@ The CAP theorem dictates that the three desirable properties, consistency, avail
 
 http://dist-prog-book.com/chapter/6/acidic-to-basic-how-the-database-ph-has-changed.html
 
-### Serializability, linearizability, and locality
+## Serializability, linearizability, and locality
 
 [https://aphyr.com/posts/333-serializability-linearizability-and-locality](https://aphyr.com/posts/333-serializability-linearizability-and-locality)
 
@@ -78,7 +78,7 @@ Serializability describes multiple transactions, where a transaction is usually 
 
 
 
-### Distributed Consensus Protocols
+## Distributed Consensus Protocols
 
 A logical clock is an idea put forward by Lamport in 1987 to solve possible problems caused by clock inconsistency between different machines in a distributed system. 
 
@@ -107,7 +107,7 @@ https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
 In Raft, the leader handles inconsistencies by forcing the followers’ logs to duplicate its own. This means that conflicting entries in follower logs will be overwritten with entries from the leader’s log.
 
-### DHT, CRDT and Models for relaxed Consistency
+## DHT, CRDT and Models for Consistency
 
 Many real-world systems, even global financial networks, choose availability over consistency, so that people can get on with business. There are different ways to go about this. Some of them, based on ‘coordination protocols’ are complicated to get right; they involve all sorts of special roles and rules.
 
@@ -126,11 +126,11 @@ https://hackmd.io/@XYOAnQcjRD-lWNVnC2p2GA/S1KpBgA0V
 
 https://redis.com/redis-enterprise/technology/active-active-geo-distribution/
 
-### Distributed Systems
+## Distributed Systems
 
 https://github.com/bobbae/gcp/wiki/Fallacies#8-fallacies-of-distributed-computing
 
-### Database of Databases
+## Database of Databases
 
 [https://dbdb.io/browse](https://dbdb.io/browse)
 
