@@ -83,7 +83,7 @@ https://www.cse.wustl.edu/~jain/cse574-06/ftp/time_sync/index.html
 
 ### 5G
 
-https://www.viavisolutions.com/en-us/literature/timing-and-synchronization-vital-5g-nr-tdd-network-success-posters-en.pdf
+https://www.ericsson.com/en/blog/2019/8/what-you-need-to-know-about-timing-and-sync-in-5g-transport-networks
 
 ### Time Dilation
 
