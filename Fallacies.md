@@ -25,10 +25,15 @@ https://zapier.com/blog/how-to-estimate-time/
 
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
+### No Silver Bullet
+
+https://en.wikipedia.org/wiki/No_Silver_Bullet
+
+
 ### Bias
 
 
-https://thedecisionlab.com/biases/planning-fallacy/
+https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 ### Thinking, Fast and Slow
 
