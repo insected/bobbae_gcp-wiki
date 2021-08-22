@@ -115,7 +115,7 @@ Private Google Access for on-premises hosts provides a way for on-premises syste
 
 [https://cloud.google.com/vpc/docs/configure-private-google-access-hybrid](https://cloud.google.com/vpc/docs/configure-private-google-access-hybrid)
 
-Before migrating a portion of your environment to the Cloud, it is important to plan ahead for IP address changes that could affect your workloads. Learn about private and public IPs on Google Cloud and how you can achieve remappable IP addresses for your Cloud resources. 
+Before migrating a portion of your environment to the Cloud, it is important to plan ahead for [IP address](https://cloud.google.com/compute/docs/ip-addresses) changes that could affect your workloads. Learn about private and public IPs on Google Cloud and how you can achieve remappable IP addresses for your Cloud resources. 
 
 [https://www.youtube.com/watch?v=QUb86NiMZ8k](https://www.youtube.com/watch?v=QUb86NiMZ8k)
 
