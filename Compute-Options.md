@@ -61,6 +61,9 @@ A video about using GPUs to accelerate and scale as needed.
 
 [https://www.youtube.com/watch?v=l3_uE4gdAWc](https://www.youtube.com/watch?v=l3_uE4gdAWc)
 
+### Cloud TPUs
+
+https://cloud.google.com/tpu/docs/tpus
 
 ### Preemptible VM Instances
 
