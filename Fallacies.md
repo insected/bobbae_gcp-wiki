@@ -29,6 +29,10 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 https://en.wikipedia.org/wiki/No_Silver_Bullet
 
+### Conway's Law
+
+https://en.wikipedia.org/wiki/Conway%27s_law
+
 
 ### Bias
 
