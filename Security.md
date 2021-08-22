@@ -553,3 +553,92 @@ https://cloud.google.com/security/encryption/default-encryption
 
 https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest
 
+
+
+
+## Vulnerability scanning
+
+
+https://cloud.google.com/security-command-center/docs/concepts-web-security-scanner-overview
+
+
+### SCC
+
+https://cloud.google.com/security-command-center/
+
+
+
+
+### Forseti
+
+https://forsetisecurity.org/
+
+
+### OWASP
+
+https://owasp.org/www-community/Vulnerability_Scanning_Tools
+
+
+
+### Aqua
+
+https://www.aquasec.com/products/cspm/
+
+### Cloud guard
+
+
+https://www.checkpoint.com/solutions/cloud-security/#
+
+### Cloud Security Suite
+
+https://github.com/SecurityFTW/cs-suite
+
+### Cloudspoilt
+
+https://cloudsploit.com/google
+
+
+### Cloud Custodian
+
+https://github.com/cloud-custodian/cloud-custodian
+
+
+### GCP bucket brute
+
+https://github.com/RhinoSecurityLabs/GCPBucketBrute
+
+### Prisma
+
+https://www.paloaltonetworks.com/prisma/environments/gcp
+
+
+### Snyk
+
+https://snyk.io/
+
+### McAfee MVision
+
+
+https://www.mcafee.com/enterprise/en-us/solutions/mvision.html
+
+
+
+### Netskope
+
+https://www.netskope.com/products/google-cloud-platform
+
+
+### Tripwire
+
+https://www.tripwire.com/solutions/cloud-cybersecurity
+
+
+
+### ScoutSuite
+
+
+https://github.com/nccgroup/ScoutSuite
+
+## Cyber attack
+
+https://geekflare.com/cyberattack-simulation-tools/
