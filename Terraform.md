@@ -167,6 +167,10 @@ Reverse of terraform.
 
 [https://github.com/GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 
+### Terracognita
+
+https://github.com/cycloidio/terracognita
+
 ### Terragrunt
 
 
