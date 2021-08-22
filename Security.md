@@ -1,8 +1,8 @@
 
 The Internet has transformed our lives in many good ways. Unfortunately, this vast network and its associated technologies also have brought in their wake, [the increasing number of security threats](https://en.wikipedia.org/wiki/Computer_security
-). When it comes to [privacy](Privacy) and security, [it’s a good idea to have both](https://us.norton.com/internetsecurity-privacy-privacy-vs-security-whats-the-difference.html).
+). 
 
-GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP builds security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug). [Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA). 
+GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP [delivers](   https://cloud.google.com/blog/products/identity-security/delivering-the-industrys-most-trusted-cloud ) security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug). [Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA). 
 
 ## Security Foundations Blueprint
 
@@ -11,6 +11,13 @@ users to adopt or adapt them and then automatically deploy them for their estate
 
 
 There is an [example repo showing how the CFT Terraform modules can be composed to build a secure GCP foundation](https://github.com/terraform-google-modules/terraform-example-foundation).
+
+
+## Risk Manager
+
+Google Cloud security diagnostic tool called Risk Manager enables customers to measure and manage their risk on Google Cloud and obtain a report on their security posture. 
+
+https://cloud.google.com/risk-protection-program
 
 ## Security Infrastructure Design
 
