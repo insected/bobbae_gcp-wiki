@@ -45,18 +45,23 @@ materials](https://cloud.google.com/certification/sample-questions/cloud-archite
 Being certified by Google does not necessarily mean that you know everything [you need to know](https://github.com/ddneves/awesome-gcp-certifications). But it does have a value in letting others
 know that you have the [necessary amount of GCP knowledge](https://www.examtopics.com/exams/google/) to pass the exams.
 
-https://m.youtube.com/watch?v=UGRDM86MBIQ
+
 
 [Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or [other GCP exams](https://www.youtube.com/watch?v=Kub0oH6TFKw) . During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, some of the questions may refer you to a case study that describes a fictitious business and solution concept. These case studies are intended to provide additional context to help you choose your answer
 
 https://medium.com/@meghabedi13/gcp-professional-cloud-architect-certification-guide-bc5ea00f8c6a
+
+
+### Google Cloud Digital Leader Certification 
+
+https://m.youtube.com/watch?v=UGRDM86MBIQ
 
 ## External Learning Resources
 
 External [list](https://www.guru99.com/best-google-course.html) and [resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb) can be used along with this document. 
 
 There seem to be a lot of Google sourced training materials at [Coursera](https://www.coursera.org/).
-The [LinuxAcademy has been integrated into A Cloud Guru](https://acloudguru.com/) and many people like their increasing GCP content.
+The [LinuxAcademy has been integrated into A Cloud Guru](https://acloudguru.com/) and many people like their increasing GCP content. [PluralSight](https://www.pluralsight.com/search?q=Gcp) recently acquired [A Cloud Guru](https://acloudguru.com/).
 Another resource is [Cloud Academy](https://cloudacademy.com/) which has their own GCP related materials.
 
 ## Syllabus
