@@ -1,4 +1,9 @@
 
+[Looker](  https://looker.com/ ) lets data experts at each organization describe their data using a lightweight modeling language called LookML. 
+
+[LookML](  https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml ) tells Looker how to query data, so everyone in the organization can create easy-to-read reports and dashboards to explore patterns of data. Looker offers additional features for creating custom data applications and experiences.
+
+Looker's platform works with transactional databases like Oracle and MySQL as well as analytical datastores like BigQuery, Snowflake, Redshift, and more. Looker lets you create consistent data models on top of all your data with speed and accuracy. Looker offers a unified surface to access all of an organization's data.
 
 
 Looker gives you the tools to power a multitude of data experiences, from modern business intelligence and embedded analytics to workflow integrations and custom data apps. Regardless of where your data resides, Looker offers a unified surface to access the truest, most up-to-date version of your company’s data. And with data integrated into users’ daily workflows, organizations can extract value from their data at web scales.
