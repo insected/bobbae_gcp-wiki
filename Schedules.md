@@ -7,7 +7,7 @@
 |    1    |[Compute](Compute)      |
 |    2    |[Storage](Storage)      |
 |    3    |[Networking](Networking)      |
-|    4   |[Kubernetes](Kubernetes-Engine-and-Containers)  |
+|    4   |[Kubernetes](Kubernetes)  |
 |    5    |[Security](Security)      |
 |    6    |[Infrastructure as Code](Infrastructure-as-Code)   |
 |    7    |Group Project   |
@@ -66,6 +66,6 @@
 |    3    |[Data Science](Data-Science)      |
 |    4    |[AI](AI)      |
 |    5   | [Machine Leaerning](Machine-Learning) |
-|    6    | [Kubernetes](Kubernetes-Engine-and-Containers)       |
+|    6    | [Kubernetes](Kubernetes)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
