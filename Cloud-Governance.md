@@ -8,15 +8,33 @@ Cloud computing delivers faster, more agile responses to changing business deman
 https://searchcloudcomputing.techtarget.com/tip/How-to-design-and-implement-a-cloud-governance-framework
 
 
+
+## Data Governance
+
+[Data governance](Data-Governance) is a principled approach to managing data during its life cycle, from acquisition to use to disposal.
+
+
+## Governance and compliance
+
+### Compliance
+
+Information about Google Cloud certifications and the [compliance](Compliance).
+
+https://cloud.google.com/security/compliance
+
+### Google Cloud Adoption Framework
+
+
+https://cloud.google.com/adoption-framework
+
+### GCP Policies
+
+https://cloud.google.com/architecture/designing-gcp-policies-enterprise
+
+
 ## Cloud Custodian
 
 
 [Cloud Custodian]( https://github.com/cloud-custodian/cloud-custodian)  is a rules engine for managing public cloud accounts and resources. It allows users to define policies to enable a well managed cloud infrastructure, that's both secure and cost optimized. It consolidates many of the adhoc scripts organizations have into a lightweight and flexible tool, with unified metrics and reporting.
 
 https://medium.com/manomano-tech/cloud-custodian-overview-and-deployment-of-cloud-governance-d8e468fb4ab4
-
-
-## Data Governance
-
-[Data governance](Data-Governance) is a principled approach to managing data during its life cycle, from acquisition to use to disposal.
-
