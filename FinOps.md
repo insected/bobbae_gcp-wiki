@@ -21,7 +21,47 @@ https://cloud.google.com/billing/docs/how-to/visualize-data
 
 https://data.finops.org/
 
+## Cloud Management Platform
 
-## GCS Location
+The Cloud Management Platform helps the developers and system administrators at digital-native companies improve cloud operations, maintain security, control cost, and ensure governance of its cloud estate. It has five strategic pillars: Analytics, Optimization, Enablement, Productivity, and Governance.
+
+https://github.com/doitintl/cmp-docs
+
+## Cloud Governance
+
+[Cloud governance](Cloud-Governance) is a list of precepts you define and verify that is applied in your cloud environment to achieve several objectives.
+
+### Google Cloud Adoption Framework
+
+
+https://cloud.google.com/adoption-framework
+
+### GCP Policies
+
+https://cloud.google.com/architecture/designing-gcp-policies-enterprise
+
+## GCP FinOps
+
+
+### BigQuery Slots
+
+https://deploy.live/blog/gcp-finops-003-boring-predictability-with-bigquery-slots/
+
+
+### BigQuery and Actionable Recommendations
+
+https://blog.doit-intl.com/google-bigquery-finops-276a210e7fe7
+
+### Chaos Engineering
+
+https://deploy.live/blog/gcp-finops-002-chaos-engineer-your-way-to-a-lower-cost/
+
+
+### GCS Location
 
 https://deploy.live/blog/gcp-finops-001-google-cloud-storage-location-location-location/
+
+### Compression and Cold Storage tiers
+
+
+https://deploy.live/blog/serverless-compression-of-gcs-data-with-streaming-golang-google-cloud-function/
