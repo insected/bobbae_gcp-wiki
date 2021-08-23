@@ -376,7 +376,7 @@ A [public key infrastructure](https://www.ssh.com/pki/) (PKI) is a set of roles,
 ## Machine Learning for Cybersecurity
 
 There have been attempts to aid Cybersecurity concerns using [Machine Learning](Machine-Learning).
-[ML in network security](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b) implies new solutions called Network Traffic Analytics (NTA) aimed at in-depth analysis of all the traffic at each layer and detect attacks and anomalies.
+[ML in network security](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b) implies new solutions called [Network Traffic Analytics]( https://www.cisco.com/c/en/us/products/security/what-is-network-traffic-analysis.html  ) (NTA) aimed at in-depth analysis of all the traffic at each layer and detect attacks and anomalies.
 
 ## Data Governance 
 
