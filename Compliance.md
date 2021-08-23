@@ -9,6 +9,14 @@ https://cloud.google.com/security/
 
 https://cloud.google.com/security/compliance
 
+## Governance
+
+
+[Cloud governance](cloud-governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but simply the application of existing governance practices to cloud operations.
+
+
+
+
 ## Compliance Engineering
 
 Risk Management and Compliance is as important in the cloud as it is in conventional on-premises environments. To help organizations in regulated industries meet their compliance requirements, Google Cloud offers automated capabilities that ensure the effectiveness of products and  processes. 
