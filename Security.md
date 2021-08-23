@@ -459,6 +459,13 @@ The [Domain Name System]( DNS  ) Security Extensions (DNSSEC) is a feature of th
 
 https://cloud.google.com/dns/docs/dnssec
 
+### DNS over TLS
+
+https://developers.google.com/speed/public-dns/docs/dns-over-tls
+
+### DNS over HTTPS
+
+https://en.m.wikipedia.org/wiki/DNS_over_HTTPS
 
 ## Cloud Storage Security
 
