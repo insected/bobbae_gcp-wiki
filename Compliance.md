@@ -11,10 +11,15 @@ https://cloud.google.com/security/compliance
 
 ## Governance
 
+## Cloud Governance
 
 [Cloud governance](cloud-governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but simply the application of existing governance practices to cloud operations.
 
 
+## Data Governance 
+
+
+[Data governance](data-governance) is a principled approach to manage data during its lifecycle — from acquisition, to use, to disposal.
 
 
 ## Compliance Engineering
