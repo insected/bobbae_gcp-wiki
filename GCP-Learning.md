@@ -15,7 +15,7 @@
 - [Data Engineering](Data-Engineering)
 - [Data Science](Data-Science)
 - [Networking](Networking)
-- [Security](Security)
+- [Security and Privacy](Security)
 - [CFT, Terraform, Infrastructure as Code](Infrastructure-as-Code)
 - [Cloud Run, Knative, Cloud Function, Serverless](Serverless)
 - [Anthos and Hybrid Multicloud](Hybrid-Multi-Cloud-And-Anthos)
