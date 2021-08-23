@@ -10,6 +10,13 @@ A [recommender](Recommender) is a service on Google Cloud that provides usage re
 
 https://cloud.google.com/blog/topics/developers-practitioners/how-sky-saved-millions-with-google-cloud
 
+
+## Using BigQuery and Data Studio to visualize Cloud billing
+
+You can get up-to-date Cloud Billing graphs throughout the day, and use labels to slice and dice your Google Cloud bill the way you want by combining Cloud Billing data export to BigQuery functionality with Google Data Studio.
+
+https://cloud.google.com/billing/docs/how-to/visualize-data
+
 ## FinOps Data
 
 https://data.finops.org/
