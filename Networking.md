@@ -601,7 +601,22 @@ https://en.m.wikipedia.org/wiki/Precision_Time_Protocol
 
 
 
+### Clock synchronization in distributed systems
 
+https://www.grin.com/document/69617
+
+
+### Vector clock
+
+https://en.m.wikipedia.org/wiki/Vector_clock
+
+### True time
+
+https://cloud.google.com/spanner/docs/true-time-external-consistency
+
+### Timewarp
+
+https://learnyousomeerlang.com/time
 
 ## Qwiklabs
 
