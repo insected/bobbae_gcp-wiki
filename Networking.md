@@ -586,6 +586,23 @@ A Controller Area Network (CAN bus) is a robust vehicle bus standard designed to
 https://en.wikipedia.org/wiki/CAN_bus
 
 
+## Time
+
+https://www.masterclock.com/support/library/gps-network-time-synchronization
+
+### NTP
+
+https://en.m.wikipedia.org/wiki/Network_Time_Protocol
+
+
+### PTP
+
+https://en.m.wikipedia.org/wiki/Precision_Time_Protocol
+
+
+
+
+
 ## Qwiklabs
 
 
