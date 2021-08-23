@@ -31,3 +31,6 @@ https://cloud.google.com/recommender/docs/key-concepts#recommendations
 
 https://rajathithanrajasekar.medium.com/retrieve-recommendation-details-across-all-gcp-projects-ce4461c08180
 
+## FinOps
+
+[FinOps](  FinOps) is shorthand for “Cloud Financial Operations” or “Cloud Financial Management” or “Cloud Cost Management”. It is the practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality.
