@@ -1,3 +1,5 @@
+[Information Security](https://en.m.wikipedia.org/wiki/Information_security   ), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks.
+
 
 The Internet has transformed our lives in many good ways. Unfortunately, this vast network and its associated technologies also have brought in their wake, [the increasing number of security threats](https://en.wikipedia.org/wiki/Computer_security
 ). 
