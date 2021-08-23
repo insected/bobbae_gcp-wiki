@@ -56,6 +56,4 @@ Encryption As a Service
 https://learn.hashicorp.com/tutorials/vault/eaas-transit
 
 
-## Time
 
-https://www.masterclock.com/support/library/gps-network-time-synchronization
