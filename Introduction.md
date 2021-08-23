@@ -3,7 +3,7 @@
 [Google Cloud Platform](https://cloud.google.com/) offers four main kinds of [products](https://cloud.google.com/products) and [services](  https://gcp.solutions/ ): [Compute](Compute), [Storage](Storage), [Big Data](Big-Data), and [Machine Learning](Machine-Learning). 
 
 
-[GCP](https://www.youtube.com/watch?v=vmOMataJZWw) also [includes](  https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg/playlists  ) Google [App Engine](App-Engine), Google [Compute Engine](Compute), Google [Kubernetes Engine](GKE), Google [Cloud Storage](Storage), Google [Cloud SQL]( https://cloud.google.com/sql  ), and [BigQuery](BigQuery). You will learn about important resource and policy management tools, such as the Google [Cloud Resource Manager](  https://cloud.google.com/resource-manager ) hierarchy and Google Cloud [Identity and Access Management](  IAM). 
+[GCP](https://www.youtube.com/watch?v=vmOMataJZWw) also [includes](  https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg/playlists  ) Google [App Engine](App-Engine), Google [Compute Engine](Compute), Google [Kubernetes Engine](GKE), Google [Cloud Storage](Storage), Google [Cloud SQL]( CloudSQL  ), and [BigQuery](BigQuery). You will learn about important resource and policy management tools, such as the Google [Cloud Resource Manager](  https://cloud.google.com/resource-manager ) hierarchy and Google Cloud [Identity and Access Management](  IAM). 
 
 GCP has benefitted from [fundamental research ](https://research.google/) that continue to influence the  product development.
 
