@@ -649,6 +649,9 @@ https://github.com/nccgroup/ScoutSuite
 
 https://geekflare.com/cyberattack-simulation-tools/
 
+### CrowdSec
+
+[CrowdSec](  https://github.com/crowdsecurity/crowdsec ) - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
 
 ## Qwiklabs
 
