@@ -16,7 +16,7 @@
 - [Data Science](Data-Science)
 - [Networking](Networking)
 - [Security](Security)
-- [Infrastructure as Code](Infrastructure-as-Code)
+- [CFT, Terraform, Infrastructure as Code](Infrastructure-as-Code)
 - [Serverless](Serverless)
 - [Anthos and Hybrid Multicloud](Hybrid-Multi-Cloud-And-Anthos)
 - [Operations and Stackdriver](Operations-and-Stackdriver)
