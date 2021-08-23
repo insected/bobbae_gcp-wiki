@@ -8,7 +8,8 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 - A comprehensive set of production-ready resource templates that follow
   Google's best practices, which can be used with the CFT or the gcloud
   utility 
-- A command-line interface (henceforth, CLI) that deploys resources defined in
+- A [command-line interface]( https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/cli
+ ) (henceforth, CLI) that deploys resources defined in
   single or multiple CFT-compliant config files.
 - A growing set of sample [Config
   Connector](https://cloud.google.com/config-connector/docs/overview)
@@ -20,9 +21,14 @@ The [Cloud Foundation toolkit](https://github.com/GoogleCloudPlatform/cloud-foun
 
 [Cloud Deployment Manager](Cloud-Deployment-Manager) is supported in CFT.
 
+
+
 ### Terraform
 
 [Terraform](Terraform) is supported in CFT.
+
+https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs/terraform.md
+
 
 ### Cloud Foundation Toolkit templates
 
