@@ -5,7 +5,7 @@
 
 [https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
 
-Looker's platform works with transactional databases like Oracle and MySQL as well as analytical datastores like BigQuery, Snowflake, Redshift, and more. Looker lets you create consistent data models on top of all your data with speed and accuracy. Looker offers a unified surface to access all of an organization's data.
+Looker's platform works with transactional databases like Oracle and MySQL as well as analytical datastores like [BigQuery](BigQuery), [Snowflake](https://snowflake.com), [Redshift](  https://aws.amazon.com/redshift/   ), and more. Looker lets you create consistent data models on top of all your data with speed and accuracy. Looker offers a unified surface to access all of an organization's data.
 
 https://looker.com/solutions/google-bigquery
 
