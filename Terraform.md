@@ -247,6 +247,9 @@ https://deepsource.io/static-analysis/terraform/
 
 https://github.com/cloudposse/atmos
 
+### Cloud Custodian
+
+https://github.com/cloud-custodian/cloud-custodian
 
 ### Pulumi
 
