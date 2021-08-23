@@ -158,6 +158,13 @@ https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs
 
 https://medium.com/sardineai/integrating-gcp-with-datadog-with-terraform-d88c5c65dc0a
 
+### Google Cloud security foundations guide
+
+CFT Terraform modules can be composed to build a secure GCP foundation, following the [Google Cloud security foundations guide](  https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf
+ ) .
+
+https://github.com/terraform-google-modules/terraform-example-foundation
+
 ## Tools
 
 
