@@ -1,3 +1,5 @@
+Google Cloud provides services globally, and our [privacy capabilities](https://cloud.google.com/privacy) are available to all customers regardless of region. 
+
 When the rush to the cloud began, the value proposition was a prime attraction. Gradually, the [attitude of businesses toward data is evolving]( https://cloud.google.com/security/privacy  ). The cloud industry realizing that protecting data at different technology layers is not enough. 
 
 We [need a holistic approach to security and privacy](https://content.microfocus.com/cloud-security-data-privacy-tb/cloud-security-data-privacy) and must protect information through its entire lifecycle, from the moment it's captured to the day it's destroyed.
@@ -12,3 +14,17 @@ GCP compliance offerings attempt to  meet the specific regional regulatory and p
 GCP  provides resources on privacy regulations such as the [LGPD](https://cloud.google.com/security/compliance/lgpd), [GDPR](https://cloud.google.com/security/gdpr), [HIPPA](https://cloud.google.com/security/compliance/hipaa), [CCPA](https://cloud.google.com/security/compliance/ccpa), the [Australian Privacy Act](https://cloud.google.com/security/compliance/australian-privacy-principles), [My Number Act](https://cloud.google.com/security/compliance/my-number-act), and [PIPEDA](https://cloud.google.com/security/compliance/pipeda), among others.
 
 [Doing the right thing with data](https://rgp.com/human-insight/digital-ethics-privacy-doing-the-right-thing-with-data/) means  you’ll need to weigh your organization’s [moral compass](https://en.m.wikipedia.org/wiki/Big_data_ethics) against the benefits of using the [information you choose to collect](https://en.m.wikipedia.org/wiki/Information_privacy).
+
+
+## Google Cloud and Common Privacy Principles
+
+https://cloud.google.com/privacy/common-privacy-principles
+
+## Privacy Resource Center
+
+https://cloud.google.com/privacy
+
+
+## Google Cloud Privacy Notice
+
+https://cloud.google.com/terms/cloud-privacy-notice
