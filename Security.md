@@ -32,6 +32,29 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 
 [Cryptography](Cryptography)  is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.
 
+### Encryption at Rest
+
+
+
+
+Google uses several layers of encryption to protect customer data at rest in Google Cloud products.
+
+Google Cloud encrypts all customer content stored at rest, without any action required from the customer, using one or more encryption mechanisms.
+
+Data for storage is split into chunks, and each chunk is encrypted with a unique data encryption key. These data encryption keys are stored with the data, encrypted with ("wrapped" by) key encryption keys that are exclusively stored and used inside Google's central Key Management Service. Google's Key Management Service is redundant and globally distributed.
+
+All data stored in Google Cloud is encrypted at the storage level using [AES256]( https://en.m.wikipedia.org/wiki/Advanced_Encryption_Standard  ), with the exception of a small number of Persistent Disks created before 2015 that use AES128.
+
+Google uses a common cryptographic library, [Tink]( https://github.com/google/tink  ), which incorporates our [FIPS 140-2](https://en.m.wikipedia.org/wiki/FIPS_140-2   ) validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. 
+
+https://cloud.google.com/security/encryption/default-encryption
+
+Consistent use of a common library means that only a small team of cryptographers needs to implement and maintain this tightly controlled and reviewed code.
+
+https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest
+
+
+
 ## IAM
 
 [Identity and Access Management](IAM)  lets administrators authorize who can take action on specific resources, giving you full control and visibility. 
@@ -539,26 +562,6 @@ https://www.vaultproject.io/docs/secrets/gcp
 
 https://registry.terraform.io/providers/hashicorp/vault/latest/docs
 
-## Encryption at Rest
-
-
-
-
-Google uses several layers of encryption to protect customer data at rest in Google Cloud products.
-
-Google Cloud encrypts all customer content stored at rest, without any action required from the customer, using one or more encryption mechanisms.
-
-Data for storage is split into chunks, and each chunk is encrypted with a unique data encryption key. These data encryption keys are stored with the data, encrypted with ("wrapped" by) key encryption keys that are exclusively stored and used inside Google's central Key Management Service. Google's Key Management Service is redundant and globally distributed.
-
-All data stored in Google Cloud is encrypted at the storage level using AES256, with the exception of a small number of Persistent Disks created before 2015 that use AES128.
-
-Google uses a common cryptographic library, Tink, which incorporates our FIPS 140-2 validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. Consistent use of a common library means that only a small team of cryptographers needs to implement and maintain this tightly controlled and reviewed code.
-
-https://cloud.google.com/security/encryption/default-encryption
-
-
-
-https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest
 
 
 
