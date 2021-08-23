@@ -17,6 +17,10 @@ You can get up-to-date Cloud Billing graphs throughout the day, and use labels t
 
 https://cloud.google.com/billing/docs/how-to/visualize-data
 
+## Looker and Cloud Cost Management
+
+https://looker.com/blog/cloud-cost-management
+
 ## FinOps Data
 
 https://data.finops.org/
