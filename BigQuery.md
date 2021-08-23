@@ -312,6 +312,12 @@ https://cloud.google.com/bigquery/docs/reservations-intro
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-jobs-reservation-model
 
+
+### Scheduling queries
+
+https://cloud.google.com/bigquery/docs/scheduling-queries
+
+
 ### Controlling costs
 
 https://cloud.google.com/bigquery/docs/controlling-costs
