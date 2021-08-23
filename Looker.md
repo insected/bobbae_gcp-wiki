@@ -1,7 +1,7 @@
 
 [Looker](  https://looker.com/ ) lets data experts at each organization describe their data using a lightweight modeling language called LookML. 
 
-[LookML](  https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml ) tells Looker how to query data, so everyone in the organization can create easy-to-read reports and dashboards to explore patterns of data. Looker offers additional features for creating custom data applications and experiences.
+[LookML](  https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml ) tells Looker how to query data, so everyone in the organization can create easy-to-read [reports]( https://docs.looker.com/dashboards/dashboards-reports-intro   ) and [dashboards](   https://docs.looker.com/dashboards  ) to explore patterns of data. Looker offers additional features for creating custom data applications and experiences.
 
 [https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
 
