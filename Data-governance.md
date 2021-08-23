@@ -8,6 +8,11 @@ From when the data is ingested to when it can be used for valuable insights and 
 
 https://cloud.google.com/bigquery/docs/data-governance-summary
 
+## BigQuery Admin reference guide: Data governance
+
+Data governance is everything you do to ensure your data is secure, private, accurate, available, and usable inside of [BigQuery](BigQuery). With good governance, everyone in your organization can easily find - and leverage - the data they need to make effective decisions. All while minimizing the overall risk of data leakage or misuse, and ensuring regulatory compliance. 
+
+https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-data-governance
 
 ## Data governance for data privacy
 
