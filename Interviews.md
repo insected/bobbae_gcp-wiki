@@ -334,6 +334,10 @@ https://www.lsac.org/lsat/taking-lsat/test-format/logical-reasoning/logical-reas
 
 https://www.javatpoint.com/reasoning
 
+## Machine Learning
+
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+
 ## Links
 
 
