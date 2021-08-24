@@ -338,6 +338,9 @@ https://www.javatpoint.com/reasoning
 
 https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
 
+https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html
+
+
 ## Links
 
 
