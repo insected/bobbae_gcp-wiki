@@ -36,6 +36,9 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Nodejs App example to learn GCP](https://github.com/thinhkhang97/learn-gcp)
 - [GCP Certification prep materials](https://wilsonmar.github.io/gcp/)
 - [Learn DevOps online](https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d)
+- https://medium.com/@meghabedi13/gcp-professional-cloud-architect-certification-guide-bc5ea00f8c6a
+- https://sathishvj.medium.com/frequently-asked-follow-up-questions-on-google-cloud-gcp-certifications-438e1addb91d
+- https://m.youtube.com/watch?v=UGRDM86MBIQ
 
 
 ## Awesome Lists
