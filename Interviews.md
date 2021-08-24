@@ -258,6 +258,8 @@ https://www.digitalvidya.com/blog/bayesian-statistics-interview-questions-answer
 https://intellipaat.com/blog/interview-question/statistics-interview-questions/
 
 
+https://www.analyticsvidhya.com/blog/2021/04/25-probability-and-statistics-questions-to-ace-your-data-science-interviews/
+
 ## Math
 
 https://www.testdome.com/d/math-interview-questions/941
