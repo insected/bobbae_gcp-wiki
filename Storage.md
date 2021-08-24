@@ -386,3 +386,7 @@ Similar to `gsutil rsync` [Rclone](https://github.com/rclone/rclone) ("rsync for
 
 https://rclone.org/googlecloudstorage/
 
+## Data governance
+
+From when the data is ingested to when it can be used for valuable insights and information, management and [data governance](Data-governance) should be considered with the utmost importance for any organization.
+
