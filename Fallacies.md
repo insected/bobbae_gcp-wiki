@@ -105,6 +105,8 @@ https://en.wikipedia.org/wiki/Bayesian_inference
 
 ## Noise
 
+https://www.washingtonpost.com/outlook/how-to-turn-down-the-noise-that-mars-our-decision-making/2021/05/19/758be210-b370-11eb-9059-d8176b9e3798_story.html
+
 ### Noisy-channel coding theorem
 
 
