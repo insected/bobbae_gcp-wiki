@@ -108,6 +108,9 @@ https://www.howtogeek.com/68563/htg-explains-what-are-the-differences-between-li
 
 ## Data Science
 
+http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
+
+
 https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
 
 https://ds-interviews.org/
