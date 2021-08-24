@@ -65,7 +65,7 @@
 |    2   |[Data Engineering](Data-Engineering) | 
 |    3    |[Data Science](Data-Science)      |
 |    4    |[AI](AI)      |
-|    5   | [Machine Leaerning](Machine-Learning) |
+|    5   | [Machine Learning](Machine-Learning) |
 |    6    | [Kubernetes](Kubernetes)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
