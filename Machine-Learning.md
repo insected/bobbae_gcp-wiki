@@ -314,7 +314,7 @@ Classification algorithms are used when you have a dataset of observations where
 
 ### Basic Bayes Theorem
 
-[Bayes' theorem](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/), named after 18th-century British mathematician Thomas Bayes, is a mathematical formula for determining conditional probability. Conditional probability is the likelihood of an outcome occurring, based on a previous outcome occurring.
+[Bayes' theorem](https://www.digitalvidya.com/blog/bayesian-statistics-interview-questions-answers/), named after 18th-century British mathematician Thomas Bayes, is a mathematical formula for determining conditional probability. Conditional probability is the likelihood of an outcome occurring, based on a previous outcome occurring.
 
 [https://www.youtube.com/watch?v=HZGCoVF3YvM](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 
