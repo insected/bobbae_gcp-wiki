@@ -67,7 +67,7 @@ https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02c
 
 [Google Cloud Functions](https://cloud.google.com/functions/docs/concepts/overview) is a lightweight compute solution for developers to create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment.
 
-
+https://cloud.google.com/functions/docs/tutorials/ocr
 
 A video tutorial of Cloud Functions that  will show you how to deploy a Cloud Function from a Google Cloud project.  You will learn how to test your function and see your log entries. 
 
