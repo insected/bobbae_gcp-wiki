@@ -3,21 +3,23 @@
 
 ## General
 
+http://deliberate-software.com/compassionate-interviewing/
+
+https://review.firstround.com/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP
+
+https://builtin.com/software-engineering-perspectives/how-conduct-technical-interview
+
+https://learningforward.org/wp-content/uploads/2020/10/tool-empathy-interviews.pdf
+
+https://triplebyte.com/blog/how-to-interview-engineers
+
+
+https://www.educative.io/blog/enterprise/tips-conduct-technical-interview
+
 https://github.com/yangshun/tech-interview-handbook
 
 https://github.com/DopplerHQ/awesome-interview-questions
 
-
-
-## Coding
-
-https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/
-
-https://www.testdome.com/tests
-
-http://eng-web1.eng.famu.fsu.edu/~dommelen/courses/cpp/2_inout/activity/test/index.html
-
-[Interview Coding](Interview-Coding)
 
 
 
@@ -26,6 +28,20 @@ http://eng-web1.eng.famu.fsu.edu/~dommelen/courses/cpp/2_inout/activity/test/ind
 https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/amp/
 
 https://www.guru99.com/computer-science-interview-questions.html
+
+
+
+## Coding
+
+https://www.educative.io/blog/google-coding-interview-questions
+
+https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/
+
+https://www.testdome.com/tests
+
+http://eng-web1.eng.famu.fsu.edu/~dommelen/courses/cpp/2_inout/activity/test/index.html
+
+[Interview Coding](Interview-Coding)
 
 
 
