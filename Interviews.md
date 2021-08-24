@@ -288,6 +288,8 @@ http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Ans
 
 https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
+https://en.m.wikipedia.org/wiki/Look-and-say_sequence
+
 https://www.firstnaukri.com/career-guidance/65-logical-reasoning-questions-and-answers-for-freshers
 
 https://www.123test.com/logical-reasoning-test/
