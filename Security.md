@@ -10,6 +10,8 @@ GCP doesn't rely on any single technology to make its [infrastructure secure](ht
 
 We need a holistic approach to security and [privacy](Privacy) and must protect information through its entire lifecycle, from the moment it's captured to the day it's destroyed.
 
+
+
 ## Security Foundations Blueprint
 
 The [Security Foundations Blueprint](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf) presents [an opinionated view](https://cloud.google.com/blog/products/identity-security/google-cloud-security-foundations-guide) of Google Cloud security best practices, organized to allow
@@ -57,7 +59,9 @@ Consistent use of a common library means that only a small team of cryptographer
 
 https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest
 
+## GCP Infrastructure Security
 
+https://cloud.google.com/security/infrastructure/design
 
 ## IAM
 
