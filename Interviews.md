@@ -325,6 +325,8 @@ http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Ans
 
 ## Reasoning
 
+https://blog.neuronation.com/en/how-fast-do-you-think-find-out-with-these-5-questions-2/
+
 https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
 https://en.m.wikipedia.org/wiki/Look-and-say_sequence
