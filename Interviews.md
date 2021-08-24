@@ -66,9 +66,12 @@ https://www.javatpoint.com/operating-system-interview-questions
 
 ## Google Cloud Platform
 
+
 https://www.qfles.com/interview-question/google-cloud-platform-interview-questions
 
-Explain step by step in as much detail as possible what happens when you use Google search from your browser. 
+
+https://www.onlineinterviewquestions.com/google-cloud-interview-questions/
+
 
 ## General Infrastructure
 
