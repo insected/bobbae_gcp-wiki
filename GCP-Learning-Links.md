@@ -1,7 +1,8 @@
 
-To be used with [GCP Learning main document](GCP-Learning)
+Links for the [GCP Learning main document](GCP-Learning)
 
 ## GCP Basics
+
 - [Google Cloud Platform](https://cloud.google.com/) 
 - [GCP github](https://github.com/GoogleCloudPlatform)
 - [Google Cloud Overview](https://cloud-dot-devsite-v2-prod.appspot.com/docs/overview)
@@ -18,7 +19,6 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Tutorial for PHP on GCP](https://github.com/GoogleCloudPlatform/getting-started-php)
 - [Tutorial for Nodejs on GCP](https://github.com/GoogleCloudPlatform/nodejs-getting-started)
 - [Healthcare API tutorials](https://cloud.google.com/healthcare/docs/tutorials/github)
-- [GCP learning for PCA certification](https://github.com/methylcloud/learn-gcp)
 - [GCP Coursera ML and Data related learning](https://github.com/kanchantewary/learn-gcp)
 - [Labs and Demos from GCP Data analyst training](https://github.com/GoogleCloudPlatform/training-data-analyst)
 - [Curated list of GCP educational resources](https://github.com/GoogleCloudPlatform/edu-resources)
@@ -31,14 +31,20 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Notes on ML with Tensorflow Coursera course](https://github.com/aakankasha028/machine-learning-on-GCP)
 - [Notes on GCP Big Data and ML fundamentals](https://github.com/nadya1/Google_cloud)
 - [ML with Tensorflow on GCP intro](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
-- [Cloud Data Engineer Cert study guide](https://github.com/Ulminator/gcp-certification-notes)
-- [Professional ML engineer cert materials](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md)
 - [Nodejs App example to learn GCP](https://github.com/thinhkhang97/learn-gcp)
-- [GCP Certification prep materials](https://wilsonmar.github.io/gcp/)
 - [Learn DevOps online](https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d)
+
+## Certification
+
+- [Free GCP learning resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb)
+- [Awesome  GCP certifications](https://github.com/sathishvj/awesome-gcp-certifications)
 - https://medium.com/@meghabedi13/gcp-professional-cloud-architect-certification-guide-bc5ea00f8c6a
 - https://sathishvj.medium.com/frequently-asked-follow-up-questions-on-google-cloud-gcp-certifications-438e1addb91d
 - https://m.youtube.com/watch?v=UGRDM86MBIQ
+- [GCP learning for PCA certification](https://github.com/methylcloud/learn-gcp)
+- [GCP Certification prep materials](https://wilsonmar.github.io/gcp/)
+- [Cloud Data Engineer Cert study guide](https://github.com/Ulminator/gcp-certification-notes)
+- [Professional ML engineer cert materials](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-machine-learning-engineer.md)
 
 
 ## Awesome Lists
@@ -47,8 +53,6 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Awesome Google cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
-- [Free GCP learning resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb)
-- [Awesome  GCP certifications](https://github.com/sathishvj/awesome-gcp-certifications)
 - [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun)
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
 - [Awesome Workflow engines](https://github.com/meirwah/awesome-workflow-engines)
@@ -78,6 +82,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - https://gist.github.com/pydevops
 
 ## Docs
+
 - [Google cloud docs](https://cloud.google.com/docs)
 - [Cloud SQL Docs](https://cloud-dot-devsite-v2-prod.appspot.com/sql/docs)
 - [GKE docs](https://cloud-dot-devsite-v2-prod.appspot.com/kubernetes-engine/docs)
@@ -88,24 +93,29 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Life Sciences Docs](https://cloud-dot-devsite-v2-prod.appspot.com/life-sciences/docs)
 
 ## Cloud Shell
+
 - [Cloud Shell Quick Starts](https://cloud.google.com/shell/docs/quickstart)
 - [Open in Cloud Shell](https://cloud.google.com/shell/docs/open-in-cloud-shell)
 - [Writing Tutorials in Cloud Shell](https://cloud.google.com/shell/docs/cloud-shell-tutorials/tutorials)
 
 ## Cloud Run
+
 - [Cloud Run](https://cloud.google.com/run) is a fully managed serverless platform offered in GCP for scalable containerized applications. It uses Knative, Kubernetes and service mesh and works with [Cloud Build](https://cloud.google.com/cloud-build), [Cloud Code](https://cloud.google.com/code) and [Artifact Registry](https://cloud.google.com/artifact-registry).
 - [Cloud Run samples](https://github.com/GoogleCloudPlatform/cloud-run-samples)
 - [Google github actions deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun)
 
 ## Codelabs
+
 - [Codelabs](https://codelabs.developers.google.com/)
 - [Codelabs Tools](https://github.com/googlecodelabs/tools)
 - [Publishing Tutorials in Codelab format](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd)
 
 ## PubSub
+
 - [Cloud Pub/sub messaging one-to-many tutorial](https://cloud.google.com/pubsub/docs/building-pubsub-messaging-system)
 
 ## Gists
+
 - [Gist to list projects that have owner IAM role](https://gist.github.com/bobbae/fc095ff95d45df43c355960b6c800be7)
 - [Gist to create dataset and table in BigQuery](https://gist.github.com/bobbae/7b77bf317f42595ef7fcbe2e43bf10a6)
 - [Unscientific Gsutil vs. gcsfuse benchmark](https://gist.github.com/bobbae/1f1f2dcd3f9a2288fca56c9089d6ea37)
@@ -113,6 +123,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 
 
 ## Terraform
+
 - [Using Terraform with Google Cloud](https://cloud.google.com/docs/terraform)
 - [Terraform Google Modules](https://github.com/terraform-google-modules)
 - [Terragrunt](https://terragrunt.gruntwork.io/)
@@ -122,12 +133,15 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Cloud Foundation Toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit)
 
 ## No Code
+
 - [AppSheet](https://www.youtube.com/channel/UC7xYEO2O_VZWyvctU0LQp8g)
 
 ## Data Studio
+
 - [Data Studio docs](https://support.google.com/datastudio)
 
 ## Jupyter Notebook
+
 - [Codelabs](https://codelabs.developers.google.com/) can be used to learn GCP interactively.
 - [Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) can be used to run [jupyter notebooks](https://jupyter.org/) containing code to run on GCP.
 - [AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) can host jupyter notebooks as well.
@@ -135,6 +149,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Datalab](https://cloud.google.com/datalab/docs) also can be used to host jupyter notebooks. This is done by installing datalab and serving it on a VM.
 
 ## Dataproc
+
 - [Dataproc Hadoop Spark](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
 - [Dataproc python examples](https://cloud.google.com/dataproc/docs/tutorials/python-library-example)
 - [Dataproc Hub and AI Platform Notebooks](https://cloud.google.com/blog/products/data-analytics/administering-jupyter-notebooks-for-spark-workloads-on-dataproc)
@@ -202,6 +217,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 
 
 ## KF
+
 - [KF for cloud foundry migration](https://cloud.google.com/migrate/kf/docs/2.2/getting-started?hl=en)
 
 ## Security
@@ -216,9 +232,11 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Agent fleet installation](https://cloud.google.com/monitoring/agent/fleet-installation)
 
 ## Logging
+
 - [Logging quickstart](https://cloud.google.com/logging/docs/quickstart-sdk)
 
 ## AutoML
+
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
 - [AutoML Cloud Natural Language Samples](https://cloud.google.com/natural-language/automl/docs/samples)
 - [AutoML Tables Quickstart](https://cloud.google.com/automl-tables/docs/quickstart)
@@ -235,6 +253,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 - [Cloud Inference API](https://cloud.google.com/inference/docs)
 
 ## TensorFlow
+
 - [TensorFlow Enterprise](https://cloud.google.com/tensorflow-enterprise/docs)
 - [Using TensorFlow Enterprise with AI Platform Notebooks](https://cloud.google.com/tensorflow-enterprise/docs/use-with-notebooks)
 - [AI Platform Pipelines](https://cloud.google.com/ai-platform/pipelines/docs)
@@ -253,6 +272,7 @@ To be used with [GCP Learning main document](GCP-Learning)
 
 
 ## Machine Learning
+
 - [Machine Learning Online Comic](https://cloud.google.com/products/ai/ml-comic-1)
 - [Machine Learning crash course](https://developers.google.com/machine-learning/crash-course/)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
@@ -266,11 +286,13 @@ To be used with [GCP Learning main document](GCP-Learning)
 - https://awesomeopensource.com/categories/machine-learning
 
 ## Google Workspace
+
 - [Introduction](https://www.youtube.com/watch?v=bE31y5HbukA)
 - [Getting Started](https://www.youtube.com/watch?v=jZjJ54ehgrM)
 - [AppSheet](https://www.youtube.com/watch?v=X7CZ4261aDQ)
 
 ## Qwiklabs
+
 - [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
 - [Open source](https://cloud.google.com/community#home-oss)
 - [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
