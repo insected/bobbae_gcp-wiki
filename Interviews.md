@@ -11,6 +11,12 @@ https://github.com/DopplerHQ/awesome-interview-questions
 
 ## Coding
 
+https://www.geeksforgeeks.org/quizzes-on-programming-languages-gq/
+
+https://www.testdome.com/tests
+
+http://eng-web1.eng.famu.fsu.edu/~dommelen/courses/cpp/2_inout/activity/test/index.html
+
 [Interview Coding](Interview-Coding)
 
 
@@ -266,7 +272,12 @@ https://www.analyticsvidhya.com/blog/2021/04/25-probability-and-statistics-quest
 
 ## Math
 
+
 https://www.testdome.com/d/math-interview-questions/941
+
+https://www.careerride.com/permutations-and-combinations.aspx
+
+https://career.guru99.com/top-20-mathematics-interview-question/
 
 ## What is lambda calculus
 
