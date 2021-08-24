@@ -255,6 +255,9 @@ https://towardsdatascience.com/12-probability-practice-questions-for-data-scienc
 
 https://www.digitalvidya.com/blog/bayesian-statistics-interview-questions-answers/
 
+https://intellipaat.com/blog/interview-question/statistics-interview-questions/
+
+
 ## Math
 
 https://www.testdome.com/d/math-interview-questions/941
