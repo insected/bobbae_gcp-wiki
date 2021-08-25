@@ -64,6 +64,9 @@ Cloud Source Repositories are fully featured, private [Git](https://git-scm.com/
 
 Google Cloud Deployment Manager is an infrastructure deployment service that automates the creation and management of Google Cloud resources. Write flexible template and configuration files and use them to create deployments that have a variety of Google Cloud services, such as Cloud Storage, Compute Engine, and Cloud SQL, configured to work together.
 
+
+Google Cloud Deployment Manager is supported along with Terraform in the Cloud  Foundation Toolkit as part of the framework for the [Infrastructure as Code](Infrastructure-as-code).
+
 [https://cloud.google.com/deployment-manager/docs](https://cloud.google.com/deployment-manager/docs)
 
 
