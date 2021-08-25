@@ -293,11 +293,11 @@ https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#alternativ
 
 ## Configmaps & Secrets
 
-A ConfigMap is an API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
+A [ConfigMap]( https://kubernetes.io/docs/concepts/configuration/configmap/   ) is an API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
 
 A ConfigMap allows you to decouple environment-specific configuration from your container images, so that your applications are easily portable.
 
-Kubernetes Secrets let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Storing confidential information in a Secret is safer and more flexible than putting it verbatim in a Pod definition or in a container image. See Secrets design document for more information.
+Kubernetes [Secrets](   https://kubernetes.io/docs/concepts/configuration/secret/  ) let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Storing confidential information in a Secret is safer and more flexible than putting it verbatim in a Pod definition or in a container image. See Secrets design document for more information.
 
 A Secret is an object that contains a small amount of sensitive data such as a password, a token, or a key. Such information might otherwise be put in a Pod specification or in an image. Users can create Secrets and the system also creates some Secrets.
 
