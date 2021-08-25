@@ -12,6 +12,10 @@ https://cloud.google.com/sdk/docs/install
 https://github.com/GoogleCloudPlatform/cloud-sdk-docker
 
 
+#### Gcloud CLI scripting
+
+
+https://cloud.google.com/sdk/docs/scripting-gcloud
 
 
 ### Cloud Endpoints
