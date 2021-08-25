@@ -16,6 +16,11 @@ https://www.stevenguyenphd.net/failure-is-a-better-teacher-than-success
 
 https://fi.co/insight/elon-musk-explains-the-fallacy-of-learning-from-failure
 
+
+### Everything's broken
+
+https://www.hanselman.com/blog/everythings-broken-and-nobodys-upset
+
 ## Software Complexity
 
 ### Fundamental theorem of software engineering
@@ -67,6 +72,14 @@ https://martinfowler.com/articles/microservice-trade-offs.html
 
 http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
 
+### Top 10
+
+https://www.joelonsoftware.com/category/reading-lists/top-10/
+
+
+### A Quora question
+
+https://www.quora.com/Why-is-most-modern-software-so-mindbogglingly-complex-with-multiple-layers-of-abstraction-stacked-on-each-other-Why-do-they-not-make-simple-efficient-software-like-they-used-to-earlier
 
 ### Chaos monkey
 
@@ -182,10 +195,18 @@ https://wikipedia.org/wiki/Peter_principle
 
 https://wikipedia.org/wiki/Software_Peter_principle
 
+### Performancer Fallacy
+
+https://uberty.org/wp-content/uploads/2015/04/Paul-Cilliers-Complexity-and-Postmodernism-Understanding-Complex-Systems-1998.pdf
 
 ### Simplicity is complicated
 
 https://www.programmingtalks.org/talk/dotgo-2015-rob-pike-simplicity-is-complicated
+
+
+### Computational Complexity
+
+https://uberty.org/wp-content/uploads/2016/01/aaronson-philosophy_complexity.pdf
 
 ### Edsger W. Dijkstra
 
