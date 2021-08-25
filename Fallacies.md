@@ -59,14 +59,7 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 https://en.wikipedia.org/wiki/No_Silver_Bullet
 
-### Conway's Law
 
-https://en.wikipedia.org/wiki/Conway%27s_law
-
-
-### Deutsch Limit
-
-https://en.wikipedia.org/wiki/Deutsch_limit
 
 
 ### Worse is better
@@ -255,6 +248,16 @@ https://en.m.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
 
 https://en.wikipedia.org/wiki/List_of_cognitive_biases
+
+### Conway's Law
+
+https://en.wikipedia.org/wiki/Conway%27s_law
+
+
+### Deutsch Limit
+
+https://en.wikipedia.org/wiki/Deutsch_limit
+
 
 ### Thinking, Fast and Slow
 
