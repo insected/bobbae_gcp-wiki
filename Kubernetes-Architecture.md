@@ -3,11 +3,13 @@
 
 ## Kubernetes Cluster Architecture
 
-A Kubernetes cluster consists of the components that represent the control plane and a set of machines called nodes.
+A [Kubernetes cluster](  https://kubernetes.io/docs/tasks/administer-cluster/   ) consists of the components that represent the control plane and a set of machines called nodes.
 
-The Kubernetes API lets you query and manipulate the state of [objects in Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/). The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
+The [Kubernetes API]( https://kubernetes.io/docs/concepts/overview/kubernetes-api/   ) lets you query and manipulate the state of [objects in Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/). 
 
-Kubernetes objects are persistent entities in the Kubernetes system. Kubernetes uses these entities to represent the state of your cluster. Learn about the Kubernetes object model and how to work with these objects.
+The core of Kubernetes' control plane is the API server and the HTTP API that it exposes. Users, the different parts of your cluster, and external components all communicate with one another through the API server.
+
+Kubernetes [objects](  https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/  ) are persistent entities in the Kubernetes system. Kubernetes uses these entities to represent the state of your cluster. Learn about the Kubernetes object model and how to work with these objects.
 
 https://kubernetes.io/docs/concepts/architecture/
 
@@ -56,6 +58,9 @@ Kubernetes runs your workload by placing containers into Pods to run on Nodes. A
 Typically you have several nodes in a cluster; in a learning or resource-limited environment, you might have only one node.
 
 
+
+https://kubernetes.io/docs/concepts/architecture/nodes/
+
 ## Pods
 
 Pods are the smallest deployable units of computing that you can create and manage in Kubernetes.
@@ -73,7 +78,7 @@ https://kubernetes.io/docs/concepts/workloads/pods/
 
 Kubernetes has a "hub-and-spoke" API pattern. All API usage from nodes (or the pods they run) terminates at the apiserver. None of the other control plane components are designed to expose remote services. The apiserver is configured to listen for remote connections on a secure HTTPS port (typically 443) with one or more forms of client authentication enabled. One or more forms of authorization should be enabled, especially if anonymous requests or service account tokens are allowed.
 
-
+https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/
 
 ## Controller 
 
@@ -85,6 +90,7 @@ When you set the temperature, that's telling the thermostat about your desired s
 
 In Kubernetes, controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
 
+https://kubernetes.io/docs/concepts/architecture/controller/
 
 ## Cloud Controller Manager
 
