@@ -43,6 +43,11 @@ A [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) cluster consists of a s
 
 [KubeVirt]( https://kubevirt.io/   ) technology addresses the needs of development teams that have adopted or want to adopt Kubernetes but possess existing Virtual Machine-based workloads that cannot be easily containerized. 
 
+
+## Minikube
+
+https://github.com/bobbae/gcp/wiki/Minikube,-Kind,-K3S
+
 ## GKE
 
 [GKE](GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines (specifically, Compute Engine instances) grouped together to form a cluster.
