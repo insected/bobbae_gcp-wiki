@@ -49,6 +49,9 @@ https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 
 https://www.mgasch.com/2019/03/crash/
 
+### Greenspun's tenth rule
+
+https://en.m.wikipedia.org/wiki/Greenspun%27s_tenth_rule
 
 
 ### The Mythical Man-Month
@@ -293,6 +296,9 @@ https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html
 
 https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
 
+### Turing tarpit
+
+https://en.m.wikipedia.org/wiki/Turing_tarpit
 
 ### Incompleteness
 
