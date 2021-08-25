@@ -18,6 +18,33 @@ https://fi.co/insight/elon-musk-explains-the-fallacy-of-learning-from-failure
 
 ## Software Complexity
 
+### Fundamental theorem of software engineering
+
+https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering
+
+### Essential Complexity
+
+https://en.wikipedia.org/wiki/Essential_complexity
+
+### Leaky Abstraction
+
+https://en.wikipedia.org/wiki/Leaky_abstraction
+
+### Abstraction Inversion
+
+https://en.wikipedia.org/wiki/Abstraction_inversion
+
+### Dependency Inversion
+
+https://en.wikipedia.org/wiki/Dependency_inversion_principle
+
+### Priority Inversion
+
+https://en.wikipedia.org/wiki/Priority_inversion
+
+#### Mars
+
+https://www.cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_version.html
 
 ### List of Software Development Philosophies
 
@@ -470,3 +497,4 @@ https://www.media.mit.edu/publications/practice-of-change/
 ### Towards a hermeneutic definition of software
 
 https://www.nature.com/articles/s41599-020-00565-0
+
