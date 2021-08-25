@@ -354,7 +354,7 @@ Further, there are two ways to use Dremel outside of Google. The first is Google
 
 http://www.goldsborough.me/distributed-systems/2019/05/18/21-09-00-a_look_at_dremel/
 
-## INFORMATIN_SCHEMA
+## INFORMATION_SCHEMA
 
 https://cloud.google.com/bigquery/docs/information-schema-intro
 
