@@ -45,7 +45,6 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
 
-https://jethro.io/hadoop-hive
 
 ### KQL
 
