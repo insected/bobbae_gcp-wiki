@@ -206,6 +206,12 @@ https://www.washingtonpost.com/outlook/how-to-turn-down-the-noise-that-mars-our-
 
 https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
 
+### Shannon–Hartley theorem
+
+
+https://en.m.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem
+
+
 ### Planning
 
 https://en.wikipedia.org/wiki/Planning_fallacy
