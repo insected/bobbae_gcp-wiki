@@ -40,8 +40,9 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 ## Not quite exactly SQL
 
-### Various SQL on Hadoop type tools
+### SQL on Hadoop
 
+Apache Hive, Sqoop, Impala, Drill, Phoenix, Spark SQL. Presto, CitusData, Jethro, HAWQ, Big SQL, PolyBase, 
 
 https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
 
