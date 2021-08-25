@@ -441,7 +441,31 @@ https://www.refsmmat.com/posts/2016-05-08-simpsons-paradox-berkeley.html
 
 https://github.com/kdeldycke/awesome-falsehood
 
-## Programming
+## Computers and Programming
+
+### History
+
+https://www.g2.com/articles/history-of-computers
+
+
+### Internet
+
+https://policyreview.info/articles/analysis/instability-and-internet-design
+
+### Trust
+
+http://www.csl.sri.com/users/neumann/chats4.html
+
+### Body of Knowledge
+
+https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf
+
+### Hardware Dog's tail
+
+https://meson.press/wp-content/uploads/2015/06/9783957960566-No-Software-just-Services.pdf
+
+
+### 21 days
 
 https://norvig.com/21-days.html
 
@@ -453,6 +477,10 @@ https://artur-martsinkovskyi.github.io/2018/logical-fallacies-in-programming/
 ### DRY
 
 https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+
+### A Personalized View of Computer History
+
+https://link.springer.com/article/10.1007/s10270-019-00768-3#Abs1
 
 ### Anti Pattern
 
