@@ -40,7 +40,7 @@ https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs
 ## Immutable infrastructure
 
 
-Immutable infrastructure is a philosophy that builds on the benefits of infrastructure as code. 
+[Immutable infrastructure]( https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure    ) is a philosophy that builds on the benefits of infrastructure as code. 
 
 Immutable infrastructure mandates that resources never be modified after they're deployed. If a virtual machine, Kubernetes cluster, or firewall rule needs to be updated, you can update the configuration for the resource in the source repository. After you've tested and validated the changes, you fully redeploy the resource using the new configuration. In other words, rather than tweaking resources, you re-create them.
 
