@@ -94,10 +94,7 @@ https://en.m.wikipedia.org/wiki/Death_march_(project_management)
 
 https://en.m.wikipedia.org/wiki/Shturmovshchina
 
-### Yak shaving
 
-
-https://americanexpress.io/yak-shaving/
 
 ### Peter Principle
 
@@ -230,6 +227,12 @@ https://en.m.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem
 https://en.wikipedia.org/wiki/Planning_fallacy
 
 https://towardsdatascience.com/man-plans-god-laughs-the-planning-fallacy-ea9bcacc16f4
+
+
+### Yak shaving
+
+
+https://americanexpress.io/yak-shaving/
 
 ### Sunk Cost
 
