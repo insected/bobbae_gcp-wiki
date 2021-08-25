@@ -86,11 +86,11 @@ https://en.m.wikipedia.org/wiki/Stovepipe_system
 
 ### Less is more
 
-https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html?m=1
+https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
 
 ### Premature optimization is the root of all evil
 
-https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good
+https://wikipedia.org/wiki/Perfect_is_the_enemy_of_good
 
 
 
