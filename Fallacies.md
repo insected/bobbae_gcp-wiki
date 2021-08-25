@@ -1,4 +1,7 @@
-## 8 Fallacies of Distributed Computing
+## Software Complexity
+
+
+### 8 Fallacies of Distributed Computing
 
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
@@ -8,6 +11,82 @@ https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-
 
 https://martinfowler.com/articles/microservice-trade-offs.html
 
+### No free lunch
+
+
+http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
+
+### The Mythical Man-Month
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+
+### No Silver Bullet
+
+https://en.wikipedia.org/wiki/No_Silver_Bullet
+
+### Conway's Law
+
+https://en.wikipedia.org/wiki/Conway%27s_law
+
+
+### Deutsch Limit
+
+https://en.wikipedia.org/wiki/Deutsch_limit
+
+
+### Worse is better
+
+https://en.m.wikipedia.org/wiki/Worse_is_better
+
+### Unix Philosophy
+
+https://en.m.wikipedia.org/wiki/Unix_philosophy
+
+
+### Less is more
+
+https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html?m=1
+
+### Premature optimization is the root of all evil
+
+https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good
+
+
+
+### Gold plating
+
+
+https://en.m.wikipedia.org/wiki/Gold_plating_(project_management)
+
+### Death march
+
+https://en.m.wikipedia.org/wiki/Death_march_(project_management)
+
+### Shturmovshchina
+
+https://en.m.wikipedia.org/wiki/Shturmovshchina
+
+### Yak shaving
+
+
+https://americanexpress.io/yak-shaving/
+
+### Peter Principle
+
+https://en.m.wikipedia.org/wiki/Peter_principle
+
+### Software Peter Principle
+
+https://en.m.wikipedia.org/wiki/Software_Peter_principle
+
+
+### Simplicity is complicated
+
+https://www.programmingtalks.org/talk/dotgo-2015-rob-pike-simplicity-is-complicated
+
+### Edsger W. Dijkstra
+
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
 
 
 ## CAP
@@ -127,22 +206,9 @@ https://en.wikipedia.org/wiki/Sunk_cost
 
 https://zapier.com/blog/how-to-estimate-time/
 
-### The Mythical Man-Month
+### Dunning–Kruger effect
 
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month
-
-### No Silver Bullet
-
-https://en.wikipedia.org/wiki/No_Silver_Bullet
-
-### Conway's Law
-
-https://en.wikipedia.org/wiki/Conway%27s_law
-
-
-### Deutsch Limit
-
-https://en.wikipedia.org/wiki/Deutsch_limit
+https://en.m.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
 ### Bias
 
@@ -242,6 +308,3 @@ https://en.wikipedia.org/wiki/Anti-pattern
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Anti-Patterns
 
-### Edsger W. Dijkstra
-
-https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
