@@ -11,6 +11,16 @@ https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-
 
 https://martinfowler.com/articles/microservice-trade-offs.html
 
+### Chaos monkey
+
+https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
+
+
+### Let it crash
+
+
+https://www.mgasch.com/2019/03/crash/
+
 ### No free lunch
 
 
@@ -228,6 +238,10 @@ https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
 https://theconversation.com/daniel-kahneman-on-noise-the-flaw-in-human-judgement-harder-to-detect-than-cognitive-bias-160525
 
+
+### Monkey See, Monkey Do
+
+https://www.smartdraw.com/management/corporate-culture.htm
 
 ## AI
 
