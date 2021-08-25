@@ -343,7 +343,14 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 https://www.wired.com/2012/08/googles-dremel-makes-big-data-look-small/
 
-https://titanwolf.org/Network/Articles/Article?AID=ae877f35-2dd6-49f7-9679-47d465de1f7f#gsc.tab=0
+Dremel has been in production at Google since 2006. A selection of use cases for Dremel at Google include analysis of:
+
+- Crawled web documents
+- Spam
+- Build system results
+- Crash reports
+
+Further, there are two ways to use Dremel outside of Google. The first is Google’s BigQuery service, which Google provides as part of its cloud offering. The second is [Apache Drill](  https://drill.apache.org/  ), effectively an open source re-implementation of Dremel. [Cloudera Impala](  https://en.m.wikipedia.org/wiki/Apache_Impala  ) is also influenced by Dremel. As is [Presto](  https://prestodb.io/  ) and [Dremio](   https://www.dremio.com/architectural-analysis-why-dremio-is-faster-than-any-presto ).  All these are addressing SQL over Hadoop issues.
 
 http://www.goldsborough.me/distributed-systems/2019/05/18/21-09-00-a_look_at_dremel/
 
