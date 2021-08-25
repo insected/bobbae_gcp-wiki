@@ -1,4 +1,24 @@
+## Failure
+
+### The Fallacy of Failing Fast
+
+https://manuelstagars.com/the-fallacy-of-failing-fast/
+
+### Failure is better
+
+
+https://www.stevenguyenphd.net/failure-is-a-better-teacher-than-success
+
+
+### Success is better
+
+
+
+https://fi.co/insight/elon-musk-explains-the-fallacy-of-learning-from-failure
+
 ## Software Complexity
+
+
 
 
 ### 8 Fallacies of Distributed Computing
