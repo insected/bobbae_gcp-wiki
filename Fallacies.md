@@ -11,6 +11,14 @@ https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-
 
 https://martinfowler.com/articles/microservice-trade-offs.html
 
+
+
+### No free lunch
+
+
+http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
+
+
 ### Chaos monkey
 
 https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
@@ -21,10 +29,7 @@ https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 
 https://www.mgasch.com/2019/03/crash/
 
-### No free lunch
 
-
-http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
 
 ### The Mythical Man-Month
 
