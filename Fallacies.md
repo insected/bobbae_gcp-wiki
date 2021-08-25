@@ -51,6 +51,10 @@ https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 
 https://www.mgasch.com/2019/03/crash/
 
+### Redundancy
+
+https://en.wikipedia.org/wiki/Redundancy_(engineering)
+
 ### Greenspun's tenth rule
 
 https://wikipedia.org/wiki/Greenspun%27s_tenth_rule
@@ -63,7 +67,6 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 ### No Silver Bullet
 
 https://en.wikipedia.org/wiki/No_Silver_Bullet
-
 
 
 
@@ -83,6 +86,41 @@ https://wikipedia.org/wiki/Inner-platform_effect
 
 https://wikipedia.org/wiki/Stovepipe_system
 
+
+### Not invented here
+
+https://en.wikipedia.org/wiki/Not_invented_here
+
+
+### Reinventing the wheel
+
+https://en.wikipedia.org/wiki/Reinventing_the_wheel
+
+
+### Standing on the shoulders of giants
+
+https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants
+
+### IKEA effect
+
+https://en.wikipedia.org/wiki/IKEA_effect
+
+### Galapagos Syndrome
+
+https://en.wikipedia.org/wiki/Gal%C3%A1pagos_syndrome
+
+
+### Planned Obsolescence
+
+https://en.wikipedia.org/wiki/Planned_obsolescence
+
+### Software Bloat
+
+https://en.wikipedia.org/wiki/Software_bloat
+
+### Downs Thompson paradox
+
+https://en.wikipedia.org/wiki/Downs%E2%80%93Thomson_paradox
 
 ### Less is more
 
@@ -224,6 +262,11 @@ https://en.wikipedia.org/wiki/Bayesian_inference
 
 https://www.washingtonpost.com/outlook/how-to-turn-down-the-noise-that-mars-our-decision-making/2021/05/19/758be210-b370-11eb-9059-d8176b9e3798_story.html
 
+
+### Bounded rationality
+
+https://en.wikipedia.org/wiki/Bounded_rationality
+
 ### Noisy-channel coding theorem
 
 
@@ -234,6 +277,9 @@ https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
 
 https://wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem
 
+### Analysis Paralysis
+
+https://en.wikipedia.org/wiki/Analysis_paralysis
 
 ### Planning
 
@@ -241,6 +287,13 @@ https://en.wikipedia.org/wiki/Planning_fallacy
 
 https://towardsdatascience.com/man-plans-god-laughs-the-planning-fallacy-ea9bcacc16f4
 
+### Secretary Problem
+
+https://en.wikipedia.org/wiki/Secretary_problem
+
+### Assignment Problem
+
+https://en.wikipedia.org/wiki/Assignment_problem
 
 ### Yak shaving
 
@@ -361,6 +414,7 @@ https://github.com/kdeldycke/awesome-falsehood
 
 https://norvig.com/21-days.html
 
+
 ### Logical Fallacies in Programming
 
 https://artur-martsinkovskyi.github.io/2018/logical-fallacies-in-programming/
@@ -373,5 +427,26 @@ https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 https://en.wikipedia.org/wiki/Anti-pattern
 
+
+
+## Anti Anti Pattern
+
+### Software Anti Patterns
+
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Anti-Patterns
 
+### Change Management
+
+https://blog.remesh.ai/7-organizational-change-management-frameworks
+
+### Creative Thinking
+
+https://interactions.acm.org/archive/view/september-october-2014/stupidity-ignorance-and-nonsense-as-tools-for-creative-thinking
+
+### Learning Ecosystem
+
+https://soonersaferhappier.com/pop-the-bubbles-create-a-learning-ecosystem/
+
+### Resisting Reduction
+
+https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17
