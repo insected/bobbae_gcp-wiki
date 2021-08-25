@@ -21,7 +21,7 @@ https://fi.co/insight/elon-musk-explains-the-fallacy-of-learning-from-failure
 
 ### List of Software Development Philosophies
 
-https://en.m.wikipedia.org/wiki/List_of_software_development_philosophies
+https://wikipedia.org/wiki/List_of_software_development_philosophies
 
 ### 8 Fallacies of Distributed Computing
 
@@ -69,19 +69,19 @@ https://en.wikipedia.org/wiki/No_Silver_Bullet
 
 ### Worse is better
 
-https://en.m.wikipedia.org/wiki/Worse_is_better
+https://wikipedia.org/wiki/Worse_is_better
 
 ### Unix Philosophy
 
-https://en.m.wikipedia.org/wiki/Unix_philosophy
+https://wikipedia.org/wiki/Unix_philosophy
 
 ### Inner platform effect
 
-https://en.m.wikipedia.org/wiki/Inner-platform_effect
+https://wikipedia.org/wiki/Inner-platform_effect
 
 ### Stovepipe system
 
-https://en.m.wikipedia.org/wiki/Stovepipe_system
+https://wikipedia.org/wiki/Stovepipe_system
 
 
 ### Less is more
@@ -97,25 +97,25 @@ https://wikipedia.org/wiki/Perfect_is_the_enemy_of_good
 ### Gold plating
 
 
-https://en.m.wikipedia.org/wiki/Gold_plating_(project_management)
+https://wikipedia.org/wiki/Gold_plating_(project_management)
 
 ### Death march
 
-https://en.m.wikipedia.org/wiki/Death_march_(project_management)
+https://wikipedia.org/wiki/Death_march_(project_management)
 
 ### Shturmovshchina
 
-https://en.m.wikipedia.org/wiki/Shturmovshchina
+https://wikipedia.org/wiki/Shturmovshchina
 
 
 
 ### Peter Principle
 
-https://en.m.wikipedia.org/wiki/Peter_principle
+https://wikipedia.org/wiki/Peter_principle
 
 ### Software Peter Principle
 
-https://en.m.wikipedia.org/wiki/Software_Peter_principle
+https://wikipedia.org/wiki/Software_Peter_principle
 
 
 ### Simplicity is complicated
@@ -232,7 +232,7 @@ https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem
 ### Shannon–Hartley theorem
 
 
-https://en.m.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem
+https://wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem
 
 
 ### Planning
@@ -258,7 +258,7 @@ https://zapier.com/blog/how-to-estimate-time/
 
 ### Dunning–Kruger effect
 
-https://en.m.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+https://wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
 ### Bias
 
@@ -308,7 +308,7 @@ https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
 
 ### Turing tarpit
 
-https://en.m.wikipedia.org/wiki/Turing_tarpit
+https://wikipedia.org/wiki/Turing_tarpit
 
 ### Incompleteness
 
