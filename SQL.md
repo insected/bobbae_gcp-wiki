@@ -46,6 +46,9 @@ https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
 
 https://jethro.io/hadoop-hive
 
+### KQL
+
+https://squaredup.com/blog/kusto-101-a-jumpstart-guide-to-kql/
 
 ## NoSQL
 
