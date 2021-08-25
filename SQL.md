@@ -42,6 +42,7 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 ### Various SQL on Hadoop type tools
 
+
 https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
 
 https://jethro.io/hadoop-hive
@@ -58,3 +59,7 @@ https://en.wikipedia.org/wiki/NoSQL
 ## NewSQL
 
 https://en.wikipedia.org/wiki/NewSQL
+
+## Distributed SQL
+
+https://www.cockroachlabs.com/blog/what-is-distributed-sql/
