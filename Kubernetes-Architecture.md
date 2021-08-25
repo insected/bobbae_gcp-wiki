@@ -21,26 +21,26 @@ https://kubernetes.io/docs/concepts/architecture/
 
 ## Kubernetes features
 
-Kubernetes progressively rolls out changes to your application or its configuration, while monitoring application health to ensure it doesn't kill all your instances at the same time. If something goes wrong, Kubernetes will rollback the change for you. 
+- Kubernetes progressively rolls out changes to your application or its configuration, while monitoring application health to ensure it doesn't kill all your instances at the same time. If something goes wrong, Kubernetes will rollback the change for you. 
 
-Restarts containers that fail, replaces and reschedules containers when nodes die, kills containers that don't respond to your user-defined health check, and doesn't advertise them to clients until they are ready to serve.
+- Restarts containers that fail, replaces and reschedules containers when nodes die, kills containers that don't respond to your user-defined health check, and doesn't advertise them to clients until they are ready to serve.
 
-Deploy and update secrets and application configuration without rebuilding your image and without exposing secrets in your stack configuration.
+- Deploy and update secrets and application configuration without rebuilding your image and without exposing secrets in your stack configuration.
 
-Scale your application up and down with a simple command, with a UI, or automatically based on CPU usage.
+- Scale your application up and down with a simple command, with a UI, or automatically based on CPU usage.
 
-In addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.
+- In addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.
 
-Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
+- Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
 
-Automatically places containers based on their resource requirements and other constraints, while not sacrificing availability. Mix critical and best-effort workloads in order to drive up utilization and save even more resources.
+- Automatically places containers based on their resource requirements and other constraints, while not sacrificing availability. Mix critical and best-effort workloads in order to drive up utilization and save even more resources.
 
-Allocation of IPv4 and IPv6 addresses to Pods and Services.
+- Allocation of IPv4 and IPv6 addresses to Pods and Services.
 
-Automatically mount the storage system of your choice, whether from local storage, a public cloud provider such as GCP or AWS, or a network storage system such as NFS, iSCSI, Gluster, Ceph, Cinder, or Flocker.
+- Automatically mount the storage system of your choice, whether from local storage, a public cloud provider such as GCP or AWS, or a network storage system such as NFS, iSCSI, Gluster, Ceph, Cinder, or Flocker.
 
 
-Add features to your Kubernetes cluster without changing upstream source code.
+- Add features to your Kubernetes cluster without changing upstream source code.
 
 
 ## Cattle vs. Pets
@@ -409,10 +409,15 @@ https://d2iq.com/products/kudo
 
 https://cert-manager.io/docs/installation/kubernetes/
 
+## Krew
+
+[Krew](  https://krew.sigs.k8s.io/  ) is the plugin manager for kubectl command-line tool.
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
 ## Operator Hub
+
+OperatorHub.io is a home for the Kubernetes community to share Operators.
 
 [https://operatorhub.io/](https://operatorhub.io/)
 
