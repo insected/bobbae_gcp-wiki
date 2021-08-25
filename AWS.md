@@ -2,6 +2,9 @@
 
 https://en.wikipedia.org/wiki/Amazon_Web_Services
 
+## GCP Fundamentals for AWS Professionals
+
+https://google.qwiklabs.com/courses/1601
 
 ## Getting started with AWS
 
