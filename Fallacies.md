@@ -53,7 +53,7 @@ https://www.mgasch.com/2019/03/crash/
 
 ### Greenspun's tenth rule
 
-https://en.m.wikipedia.org/wiki/Greenspun%27s_tenth_rule
+https://wikipedia.org/wiki/Greenspun%27s_tenth_rule
 
 
 ### The Mythical Man-Month
