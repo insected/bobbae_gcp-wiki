@@ -195,7 +195,7 @@ https://wikipedia.org/wiki/Peter_principle
 
 https://wikipedia.org/wiki/Software_Peter_principle
 
-### Performancer Fallacy
+### Performance Fallacy
 
 https://uberty.org/wp-content/uploads/2015/04/Paul-Cilliers-Complexity-and-Postmodernism-Understanding-Complex-Systems-1998.pdf
 
