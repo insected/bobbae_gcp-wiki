@@ -209,3 +209,41 @@ https://github.com/kubernetes/examples/tree/master/staging/volumes/flexvolume
 ### NetApp
 
 https://library.netapp.com/ecmdocs/ECMP1368017/html/GUID-4DF6A167-6C98-4E48-8F5C-41E73A506139.html
+
+
+## Databases
+
+
+https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider
+
+
+### k8ssandra
+
+https://k8ssandra.io/
+
+
+### PostgreSQL
+
+
+
+
+https://github.com/CrunchyData/postgres-operator
+
+
+### Mongodb Atlas
+
+https://github.com/mongodb/mongodb-atlas-kubernetes
+
+
+### redis
+
+https://github.com/ot-container-kit/redis-operator
+
+
+### CockroachDB
+
+
+https://www.cockroachlabs.com/product/kubernetes/
+
+
+
