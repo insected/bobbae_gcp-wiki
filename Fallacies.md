@@ -19,7 +19,9 @@ https://fi.co/insight/elon-musk-explains-the-fallacy-of-learning-from-failure
 ## Software Complexity
 
 
+### List of Software Development Philosophies
 
+https://en.m.wikipedia.org/wiki/List_of_software_development_philosophies
 
 ### 8 Fallacies of Distributed Computing
 
@@ -72,6 +74,14 @@ https://en.m.wikipedia.org/wiki/Worse_is_better
 ### Unix Philosophy
 
 https://en.m.wikipedia.org/wiki/Unix_philosophy
+
+### Inner platform effect
+
+https://en.m.wikipedia.org/wiki/Inner-platform_effect
+
+### Stovepipe system
+
+https://en.m.wikipedia.org/wiki/Stovepipe_system
 
 
 ### Less is more
