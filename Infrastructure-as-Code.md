@@ -36,6 +36,17 @@ https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/blob/master/docs
 
 [Cloud Deployment Manager](Cloud-Deployment-Manager) is Google's own IAC tool supported in the  [Cloud Foundation Toolkit](Cloud-Foundation-Toolkit).
 
+
+## Immutable infrastructure
+
+
+Immutable infrastructure is a philosophy that builds on the benefits of infrastructure as code. 
+
+Immutable infrastructure mandates that resources never be modified after they're deployed. If a virtual machine, Kubernetes cluster, or firewall rule needs to be updated, you can update the configuration for the resource in the source repository. After you've tested and validated the changes, you fully redeploy the resource using the new configuration. In other words, rather than tweaking resources, you re-create them.
+
+Creating immutable infrastructure leads to more predictable deployments and rollbacks. It also mitigates issues that are common in mutable infrastructures, like configuration drift and [snowflake servers](  https://martinfowler.com/bliki/SnowflakeServer.html   ). In this way, adopting immutable infrastructure further improves the consistency and reliability of your environments.
+
+
 ## Other IAC Tools
 
 ### Pulumi
