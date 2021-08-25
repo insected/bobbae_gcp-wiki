@@ -18,13 +18,13 @@ https://sqlzoo.net/
 
 https://www.w3schools.com/sql/
 
-
+<!--
 https://www.guru99.com/sql.html
 
 https://www.tutorialspoint.com/sql/index.htm
 
 https://www.youtube.com/watch?v=HXV3zeQKqGY
-
+-->
 
 ## CloudSQL
 
