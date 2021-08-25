@@ -213,6 +213,10 @@ https://medium.com/distributed-knowledge/time-synchronization-in-distributed-sys
 
 https://www.cse.wustl.edu/~jain/cse574-06/ftp/time_sync/index.html
 
+### Routers with Infinite Buffers
+
+https://en.wikipedia.org/wiki/Bufferbloat
+
 ### 5G
 
 https://www.ericsson.com/en/blog/2019/8/what-you-need-to-know-about-timing-and-sync-in-5g-transport-networks
@@ -431,6 +435,14 @@ https://en.wikipedia.org/wiki/Anti-pattern
 
 ## Anti Anti Pattern
 
+### Recognize Over-Engineering
+
+https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8
+
+### Avoid Over-Engineering
+
+https://softwarebrothers.co/blog/how-to-avoid-over-engineering/
+
 ### Software Anti Patterns
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Anti-Patterns
@@ -454,3 +466,7 @@ https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17
 ### Practice of Change
 
 https://www.media.mit.edu/publications/practice-of-change/
+
+### Towards a hermeneutic definition of software
+
+https://www.nature.com/articles/s41599-020-00565-0
