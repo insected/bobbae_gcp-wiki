@@ -539,6 +539,9 @@ https://soonersaferhappier.com/pop-the-bubbles-create-a-learning-ecosystem/
 
 https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17
 
+
+## Conclusions
+
 ### Practice of Change
 
 https://www.media.mit.edu/publications/practice-of-change/
