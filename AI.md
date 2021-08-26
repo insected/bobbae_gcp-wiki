@@ -95,6 +95,8 @@ https://cloud.google.com/vertex-ai/docs/pipelines/introduction
 
 ### Use Vertex Pipelines to build AutoML Classification Workflow
 
+The example workflow trains a custom model using AutoML; evaluates the accuracy of the trained model; and if the model is sufficiently accurate, deploys it to Vertex AI for serving.
+
 https://cloud.google.com/blog/topics/developers-practitioners/use-vertex-pipelines-build-automl-classification-end-end-workflow
 
 ## Vertex Explainable AI
@@ -123,6 +125,12 @@ https://cloud.google.com/vertex-ai/docs/tutorials/video-classification-automl
 
 
 ### AI Explanations
+
+Systems built around AI will affect and, in many cases, redefine medical interventions, autonomous
+transportation, criminal justice, financial risk management and many other areas of society.
+
+However, considering the challenges highlighted in the previous section, the usefulness and
+fairness of these AI systems will be gated by our ability to understand, explain and control them.
 
 https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf
 
