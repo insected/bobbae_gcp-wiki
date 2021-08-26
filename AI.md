@@ -11,22 +11,28 @@ https://github.com/amusi/awesome-ai-awesomeness
 
 ## Google AI Products and Solutions
 
+### Products
+
 https://cloud.google.com/products/ai
 
 
+### Solutions
 
 https://cloud.google.com/solutions/ai
 
+### Contact Center
 
 https://cloud.google.com/solutions/contact-center
 
+### Document AI
 
 https://cloud.google.com/document-ai
 
+### AI Infrastructure
 
 https://cloud.google.com/ai-infrastructure
 
-
+### DialogFlow
 
 https://cloud.google.com/dialogflow
 
