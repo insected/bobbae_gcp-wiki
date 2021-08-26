@@ -1,4 +1,10 @@
-## Failure
+### 8 Fallacies of Distributed Computing
+
+
+https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
+
+
+<!-- ## Failure
 
 ### The Fallacy of Failing Fast
 
@@ -62,10 +68,6 @@ https://www.cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_versi
 
 https://wikipedia.org/wiki/List_of_software_development_philosophies
 
-### 8 Fallacies of Distributed Computing
-
-
-https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
 
 ### Microservices 
 
@@ -565,3 +567,4 @@ https://www.media.mit.edu/publications/practice-of-change/
 
 https://www.nature.com/articles/s41599-020-00565-0
 
+-->
