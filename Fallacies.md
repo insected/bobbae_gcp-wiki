@@ -23,6 +23,8 @@ https://www.hanselman.com/blog/everythings-broken-and-nobodys-upset
 
 ## Software Complexity
 
+https://www.netmeister.org/blog/software-engineering-laws.html
+
 ### Fundamental theorem of software engineering
 
 https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering
