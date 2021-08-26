@@ -1,4 +1,4 @@
-Recommendations AI enables you to build an end to end personalized recommendation system based on state-of-the-art deep learning ML models, without a need for expertise in ML or recommendation systems. 
+[Recommendations AI]( https://cloud.google.com/retail/recommendations-ai/docs  ) enables you to build an end to end personalized recommendation system based on state-of-the-art deep learning ML models, without a need for expertise in ML or recommendation systems. 
 
 ## Overview
 
