@@ -95,9 +95,7 @@ https://www.mgasch.com/2019/03/crash/
 
 https://en.wikipedia.org/wiki/Redundancy_(engineering)
 
-### Greenspun's tenth rule
 
-https://wikipedia.org/wiki/Greenspun%27s_tenth_rule
 
 
 ### The Mythical Man-Month
@@ -194,6 +192,11 @@ https://wikipedia.org/wiki/Peter_principle
 ### Software Peter Principle
 
 https://wikipedia.org/wiki/Software_Peter_principle
+
+
+### Greenspun's tenth rule
+
+https://wikipedia.org/wiki/Greenspun%27s_tenth_rule
 
 ### Performance Fallacy
 
