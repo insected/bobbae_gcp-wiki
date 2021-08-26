@@ -1,0 +1,1 @@
+https://cloud.google.com/learn/what-is-a-data-lake
