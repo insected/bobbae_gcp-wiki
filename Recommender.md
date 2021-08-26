@@ -17,8 +17,9 @@ Identifying ways to keep your cloud optimized is just half of the equation. The 
 ## Insights
 
 
-Recommender uses machine learning to provide detailed and high quality insights. Insights are findings that you can use to proactively focus on important patterns in resource usage. You can use insights independently from recommendations. Some insights link to recommendations and provide evidence for the associated recommendations.
+[Insights](https://cloud.google.com/recommender/docs/insights/using-insights) are findings that you can use to proactively focus on important patterns in resource usage. You can use insights independently from recommendations. Some insights link to recommendations and provide evidence for the associated recommendations.
 
+Recommender uses machine learning to provide detailed and high quality insights.
 
 https://cloud.google.com/recommender/docs/insights/using-insights
 
