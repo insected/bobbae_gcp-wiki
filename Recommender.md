@@ -1,4 +1,4 @@
-Recommender helps admins optimize Google Cloud resources by making proactive, actionable recommendations with a data-driven machine learning approach. This empowers teams to automatically detect issues like overly permissive access or wrongly sized VM instances or idle resources.
+[Recommender](https://cloud.google.com/recommender) helps admins optimize Google Cloud resources by making proactive, actionable recommendations with a data-driven machine learning approach. This empowers teams to automatically detect issues like overly permissive access or wrongly sized VM instances or idle resources.
 
 https://cloud.google.com/recommender
 
