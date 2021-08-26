@@ -552,6 +552,11 @@ https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17
 
 ## Conclusions
 
+
+### Trusting Trust
+
+https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+
 ### Practice of Change
 
 https://www.media.mit.edu/publications/practice-of-change/
