@@ -5,5 +5,5 @@ https://cloud.google.com/learn/what-is-a-data-warehouse
 
 ## BigQuery
 
-Learn about [BigQuery](BigQuery), Google Cloud’s modern and serverless data warehousing solution.
+Learn about [BigQuery](BigQuery), Google Cloud’s modern and [serverless](serverless) data warehousing solution.
 
