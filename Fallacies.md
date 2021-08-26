@@ -41,6 +41,11 @@ https://en.wikipedia.org/wiki/Leaky_abstraction
 
 https://en.wikipedia.org/wiki/Abstraction_inversion
 
+
+### Inversion of control
+
+https://en.m.wikipedia.org/wiki/Inversion_of_control
+
 ### Dependency Inversion
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle
