@@ -210,7 +210,7 @@ https://www.youtube.com/watch?v=78EmmdfOcI8
 
 Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. 
 
-https://en.m.wikipedia.org/wiki/Causal_inference
+https://wikipedia.org/wiki/Causal_inference
 
 
 ### The Brexit vote: A case study in causal inference using machine learning
