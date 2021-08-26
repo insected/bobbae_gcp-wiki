@@ -3,7 +3,7 @@
 ## Overview
 
 
-You can use Recommendations AI to get personalized recommendations for your website whether or not you are using Google marketing tools. However, if you are using [Google Tag Manager](  https://tagmanager.google.com/   ) or Google Merchant Center, some steps to implement Recommendations AI are simplified.
+You can use Recommendations AI to get personalized recommendations for your website whether or not you are using Google marketing tools. However, if you are using [Google Tag Manager](  https://tagmanager.google.com/   ) or [Google Merchant Center](https://www.google.com/retail/solutions/merchant-center/), some steps to implement Recommendations AI are simplified.
 
 
 
