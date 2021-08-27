@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 ### Protocol Wars
 
-https://en.m.wikipedia.org/wiki/Protocol_Wars
+https://wikipedia.org/wiki/Protocol_Wars
 
 ### CIDR
 
@@ -592,12 +592,12 @@ https://www.masterclock.com/support/library/gps-network-time-synchronization
 
 ### NTP
 
-https://en.m.wikipedia.org/wiki/Network_Time_Protocol
+https://wikipedia.org/wiki/Network_Time_Protocol
 
 
 ### PTP
 
-https://en.m.wikipedia.org/wiki/Precision_Time_Protocol
+https://wikipedia.org/wiki/Precision_Time_Protocol
 
 
 
@@ -608,7 +608,7 @@ https://www.grin.com/document/69617
 
 ### Vector clock
 
-https://en.m.wikipedia.org/wiki/Vector_clock
+https://wikipedia.org/wiki/Vector_clock
 
 ### True time
 
