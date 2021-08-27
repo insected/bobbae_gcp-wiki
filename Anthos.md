@@ -16,6 +16,9 @@ VM instances can exist on premises, managed by products such as VMWare vSphere, 
 
 https://www.youtube.com/watch?v=XB52jRLHeko&list=PLIivdWyY5sqL8p1URcr6h1OkeJ01Myz57
 
+## Multi Cloud
+
+https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-cloud-platform
 
 ## Anthos Technical Overview
 
