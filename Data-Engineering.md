@@ -8,6 +8,9 @@ There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and
 
 Here is a basic [overview of GCP data storage features](https://www.youtube.com/watch?v=tc2940Zwvyk).
 
+## Data Engineering Courses
+
+https://google.qwiklabs.com/courses/1530
 
 ## Data Analytics 
 
