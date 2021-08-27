@@ -51,7 +51,7 @@ Many users today want to establish a unified analytics environment across a myri
 
 https://cloud.google.com/data-fusion#section-10
 
-## Example: End-to-end automated Analytics workload using Cloud Functions — Data Fusion — BigQuery and Data Studio
+## Example: End-to-end automated Analytics 
 
 https://medium.com/google-cloud/from-zero-to-hero-end-to-end-automated-analytics-workload-using-cloud-functions-data-fusion-28670e5e7c74
 
