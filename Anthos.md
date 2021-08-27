@@ -95,13 +95,6 @@ Anthos is Google's managed platform for application modernization and delivery, 
 
 [Connect](https://cloud.google.com/anthos/multicluster-management/connect) allows you to connect any of your Kubernetes clusters to Google Cloud. This enables access to cluster and to workload management features, including a unified user interface, [Cloud Console](https://cloud.google.com/cloud-console), to interact with your cluster.
 
-If your network is configured to allow outbound requests, you can configure the Connect Agent to traverse NATs, egress proxies, and firewalls to establish a long-lived, encrypted connection between your cluster's Kubernetes API server and your Google Cloud project. Once this connection is enabled, you can use your own credentials to log back into your clusters and access details about their Kubernetes resources. This effectively replicates the UI experience that is otherwise only available to GKE clusters.
-
-After the connection is established, the Connect Agent software can exchange account credentials, technical details, and metadata about connected infrastructure and workloads necessary to manage them with Google Cloud, including the details of resources, applications, and hardware.
-
-This cluster service data is associated with your Google Cloud project and/or account. Google uses this data to maintain a control plane between your cluster and Google Cloud, to provide you with any Google Cloud services and features you request, including facilitating support, billing, providing updates, and to measure and improve the reliability, quality, capacity, and functionality of Connect and Google Cloud services available through Connect.
-
-You remain in control of what data is sent through Connect.
 
 [https://cloud.google.com/anthos/multicluster-management/connect](https://cloud.google.com/anthos/multicluster-management/connect)
 
