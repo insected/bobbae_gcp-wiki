@@ -4,7 +4,7 @@
 
 ## Google Kubernetes Engine (GKE)
 
-[GKE](https://cloud.google.com/kubernetes-engine) is Secured and fully managed Kubernetes service with revolutionary autopilot mode of operation.
+[GKE](https://cloud.google.com/kubernetes-engine) is Secured and fully managed [Kubernetes](Kubernetes) service with revolutionary [autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview) mode of operation.
 
 
 
