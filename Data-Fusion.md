@@ -31,6 +31,11 @@ The self-service capabilities of Cloud Data Fusion increase process visibility a
 
 https://cloud.google.com/data-fusion/plugins
 
+
+## Choosing Datafow, Dataprep, Dataproc or Data Fusion
+
+[[https://storage.googleapis.com/gweb-cloudblog-publish/images/9.19.41_AM.max-800x800.png]]
+
 ## Agile data warehouses with BigQuery
 
 Cloud Data Fusion can help organizations better understand their customers by breaking down data silos and enabling development of agile, cloud-based data warehouse solutions in [BigQuery](BigQuery). A trusted, unified view of customer engagement and behavior unlocks the ability to drive a better customer experience, which leads to higher retention and higher revenue per customer.
