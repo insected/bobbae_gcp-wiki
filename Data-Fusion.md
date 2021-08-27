@@ -1,4 +1,8 @@
-Data Fusion is a fully managed, cloud-native, scalable data integration platform.
+[Data Fusion]( https://cloud.google.com/data-fusion  ) is a fully managed, cloud-native, scalable data integration platform. It is a
+GUI based data integration service for building and managing data pipelines
+
+
+https://medium.com/google-cloud/designing-a-data-lake-on-gcp-with-data-fusion-and-composer-e2ea0a753525
 
 Data Fusion is built using open source project CDAP, and this open core ensures data pipeline portability for users. CDAP’s broad integration with on-premises and public cloud platforms gives Cloud Data Fusion users the ability to break down silos and deliver insights that were previously inaccessible.
 
@@ -9,6 +13,8 @@ https://cloud.google.com/data-fusion
 CDAP is an integrated, open source application development platform for the Hadoop ecosystem that provides developers with data and application abstractions to simplify and accelerate application development, address a broader range of real-time and batch use cases, and deploy applications into production while satisfying enterprise requirements.
 
 https://github.com/cdapio/cdap
+
+Under the hood, Data Fusion executes pipelines on a Dataproc cluster. Data Fusion automatically converts GUI based pipelines into Dataproc jobs for execution whenever a pipeline is executed. It supports two execution engine options: MapReduce and Apache Spark.
 
 
 ### CDAP Example Apps
