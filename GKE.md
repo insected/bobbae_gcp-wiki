@@ -47,7 +47,7 @@ Here are some tutorials for using Terraform to manage Kubernetes on GCP.
 [HashCorp Terraform Kubernetes Tutorials](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes)
 
 
-## Quotas
+## Quotas and Limits
 
 https://cloud.google.com/kubernetes-engine/quotas
 
