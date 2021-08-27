@@ -89,7 +89,7 @@ https://www.salvagedata.com/btrfs-zfs-xfs-ext4-how-are-they-different/
 
 ### Elevator Algorithm
 
-https://en.m.wikipedia.org/wiki/Elevator_algorithm
+https://wikipedia.org/wiki/Elevator_algorithm
 
 ### Flash file systems
 
@@ -130,7 +130,7 @@ https://en.wikipedia.org/wiki/Trim_(computing)
 #### NVMe
 
 
-https://en.m.wikipedia.org/wiki/NVM_Express
+https://wikipedia.org/wiki/NVM_Express
 
 
 ## GCP Filestore

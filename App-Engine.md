@@ -10,7 +10,7 @@
 
 ## PaaS
 
-https://en.m.wikipedia.org/wiki/Platform_as_a_service
+https://wikipedia.org/wiki/Platform_as_a_service
 
 
 

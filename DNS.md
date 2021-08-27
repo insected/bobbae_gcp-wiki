@@ -96,7 +96,7 @@ https://developers.google.com/speed/public-dns/docs/dns-over-tls
 
 DNS over HTTPS (DoH) is a protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol. A goal of the method is to increase user privacy and security by preventing eavesdropping and manipulation of DNS data by man-in-the-middle attacks.
 
-https://en.m.wikipedia.org/wiki/DNS_over_HTTPS
+https://wikipedia.org/wiki/DNS_over_HTTPS
 
 ## DNSSEC
 

@@ -1,6 +1,6 @@
 
 
-In a microservice architecture, services communicate with each other through [Layer 7](  https://en.m.wikipedia.org/wiki/Application_layer  ) protocols such as [gRPC](GRPC) and HTTP. Since the network is not reliable (and services can go down!), managing L7 communications is critical for reliability and scale.
+In a microservice architecture, services communicate with each other through [Layer 7](  https://wikipedia.org/wiki/Application_layer  ) protocols such as [gRPC](GRPC) and HTTP. Since the network is not reliable (and services can go down!), managing L7 communications is critical for reliability and scale.
 
 ## L7 Proxies and API Gateways
 

@@ -1,4 +1,4 @@
-[Cryptography](https://en.m.wikipedia.org/wiki/Cryptography) is the practice and study of techniques for secure communication in the presence of adversaries.  
+[Cryptography](https://wikipedia.org/wiki/Cryptography) is the practice and study of techniques for secure communication in the presence of adversaries.  
 
 A [security protocol](   https://wikipedia.org/wiki/Cryptographic_protocol)  performs a security-related function and applies cryptographic methods, often as sequences of cryptographic primitives. 
 
@@ -24,7 +24,7 @@ The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-s
 
 ## HTTPS
 
-[Hypertext Transfer Protocol]( https://en.m.wikipedia.org/wiki/HTTPS   ) Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
+[Hypertext Transfer Protocol]( https://wikipedia.org/wiki/HTTPS   ) Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
 
 ## cert manager 
 
@@ -69,14 +69,14 @@ https://www.schneier.com/academic/archives/2003/12/a_cryptographic_eval.html
 
 ## IKE
 
-[Internet Key Exchange](https://en.wikipedia.org/wiki/Internet_Key_Exchange) is the protocol used to set up a security association (SA) in the IPsec protocol suite. IKE builds upon the Oakley protocol and [ISAKMP](  https://en.m.wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol ). IKE uses [X.509](  https://en.m.wikipedia.org/wiki/X.509  ) certificates for authentication ‒ either pre-shared or distributed using DNS (preferably with DNSSEC) ‒ and a Diffie–Hellman key exchange to set up a shared session secret from which cryptographic keys are derived. 
+[Internet Key Exchange](https://en.wikipedia.org/wiki/Internet_Key_Exchange) is the protocol used to set up a security association (SA) in the IPsec protocol suite. IKE builds upon the Oakley protocol and [ISAKMP](  https://wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol ). IKE uses [X.509](  https://en.m.wikipedia.org/wiki/X.509  ) certificates for authentication ‒ either pre-shared or distributed using DNS (preferably with DNSSEC) ‒ and a Diffie–Hellman key exchange to set up a shared session secret from which cryptographic keys are derived. 
 
 Cloud VPN supports  [some IKE ciphers](https://cloud.google.com/network-connectivity/docs/vpn/concepts/supported-ike-ciphers).
 
 
 ## X.509
 
-[X.509](  https://en.m.wikipedia.org/wiki/X.509  ) is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of [IDL](  https://en.m.wikipedia.org/wiki/Interface_description_language ) for defining data structures that can be serialized and de-serialized.  
+[X.509](  https://wikipedia.org/wiki/X.509  ) is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of [IDL](  https://en.m.wikipedia.org/wiki/Interface_description_language ) for defining data structures that can be serialized and de-serialized.  
 
 ## Diffie-Hellman 
 
@@ -89,7 +89,7 @@ Traditionally, secure encrypted communication between two parties required that 
 
 ## Cryptographic hash
 
-A [cryptographic hash]( https://en.m.wikipedia.org/wiki/Cryptographic_hash_function  ) function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
+A [cryptographic hash]( https://wikipedia.org/wiki/Cryptographic_hash_function  ) function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
 
 https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/
 

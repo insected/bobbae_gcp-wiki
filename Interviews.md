@@ -307,12 +307,12 @@ https://en.wikipedia.org/wiki/Lambda_calculus
 
 
 
-https://en.m.wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_in_lambda_calculus
+https://wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_in_lambda_calculus
 
 
 ## What is Euler's number e?
 
-https://en.m.wikipedia.org/wiki/E_(mathematical_constant)
+https://wikipedia.org/wiki/E_(mathematical_constant)
 
 ## DevOps
 
@@ -330,7 +330,7 @@ https://blog.neuronation.com/en/how-fast-do-you-think-find-out-with-these-5-ques
 
 https://en.wikipedia.org/wiki/Cognitive_reflection_test
 
-https://en.m.wikipedia.org/wiki/Look-and-say_sequence
+https://wikipedia.org/wiki/Look-and-say_sequence
 
 https://www.firstnaukri.com/career-guidance/65-logical-reasoning-questions-and-answers-for-freshers
 

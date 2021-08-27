@@ -11,7 +11,7 @@
 [Cloud Spanner](https://www.youtube.com/watch?v=IfsTINNCooY) can [help you create time-sensitive, mission critical applications](https://www.youtube.com/watch?v=5bjYk6Hhd10) at scale.  In terms of [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) the consensus is that  [Spanner is CP with good A](https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-cap-theorem).
 
 [Cloud Spanner](https://www.youtube.com/watch?v=sOtlaH-QlxM) is one of the [Distributed SQL Databases](https://www.infoworld.com/article/3406458/the-best-distributed-relational-databases.amp.html).
-In general, a [Distributed SQL Database](https://en.m.wikipedia.org/wiki/Distributed_SQL) is [a single logical database](https://www.youtube.com/watch?v=9PsSIVUbtWo) deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
+In general, a [Distributed SQL Database](https://wikipedia.org/wiki/Distributed_SQL) is [a single logical database](https://www.youtube.com/watch?v=9PsSIVUbtWo) deployed across multiple physical nodes in a single data center or across many data centers if need be; all of which allow it to deliver elastic scale and bulletproof resilience.
 [Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its [design](https://www.youtube.com/watch?v=nvlt0dA7rsQ). 
 
 
@@ -53,7 +53,7 @@ A tablet is similar to Bigtable’s tablet abstraction, in that it implements a 
 ```
 
 Unlike [Bigtable](Bigtable), Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  
-A tablet’s state is stored in set of [B-tree-like](https://en.m.wikipedia.org/wiki/B-tree) files and a write-ahead log, all on a distributed file system called
+A tablet’s state is stored in set of [B-tree-like](https://wikipedia.org/wiki/B-tree) files and a write-ahead log, all on a distributed file system called
 [Colossus](https://cloudblog.withgoogle.com/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)  (the successor to the Google File System).  
 To support replication, each spanserver implements a single [Paxos](https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html)   state machine on top of each tablet.
 The [Paxos](https://medium.com/distributed-knowledge/paxos-consensus-for-beginners-1b8519d3360f)    state machines are used to implement a consistently replicated bag of mappings. 
@@ -87,7 +87,7 @@ https://cloud.google.com/blog/products/databases/inside-cloud-spanner-and-the-ca
 
 ## Strong Consistency
 
-Spanner, as most [ACID](https://en.m.wikipedia.org/wiki/ACID) databases, it uses the [2PC](https://en.m.wikipedia.org/wiki/Two-phase_commit_protocol) (Two phase commit), and it uses Paxos groups to mitigate the "anti-availability" shortcoming. 
+Spanner, as most [ACID](https://wikipedia.org/wiki/ACID) databases, it uses the [2PC](https://en.m.wikipedia.org/wiki/Two-phase_commit_protocol) (Two phase commit), and it uses Paxos groups to mitigate the "anti-availability" shortcoming. 
 At the highest level of abstraction, Spanner is a database that shards data across many sets of Paxos state machines in datacenters spread all over the world.
 Spanner provides synchronous cross-datacenter replication and strong consistency and usability of traditional SQL databases. 
 

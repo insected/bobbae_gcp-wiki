@@ -914,7 +914,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-tra
 
 ## Fairness
 
-https://en.m.wikipedia.org/wiki/Fairness_(machine_learning)
+https://wikipedia.org/wiki/Fairness_(machine_learning)
 
 ## The Making of an AI Storyteller
 

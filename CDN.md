@@ -40,7 +40,7 @@ https://blog.cdnsun.com/how-to-compare-cdn-networks-a-pro-guide/
 
 https://cdncomparison.com/
 
-https://en.m.wikipedia.org/wiki/Content_delivery_network
+https://wikipedia.org/wiki/Content_delivery_network
 
 
 ## CDN, DNS and Anycast

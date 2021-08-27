@@ -50,7 +50,7 @@ https://en.wikipedia.org/wiki/Abstraction_inversion
 
 ### Inversion of control
 
-https://en.m.wikipedia.org/wiki/Inversion_of_control
+https://wikipedia.org/wiki/Inversion_of_control
 
 ### Dependency Inversion
 

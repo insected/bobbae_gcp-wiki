@@ -1,7 +1,7 @@
-[Information Security](https://en.m.wikipedia.org/wiki/Information_security   ), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks.
+[Information Security](https://wikipedia.org/wiki/Information_security   ), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks.
 
 
-The Internet has transformed our lives in many good ways. Unfortunately, this vast network and its associated technologies also have brought in their wake, [the increasing number of security threats](https://en.m.wikipedia.org/wiki/Internet_security
+The Internet has transformed our lives in many good ways. Unfortunately, this vast network and its associated technologies also have brought in their wake, [the increasing number of security threats](https://wikipedia.org/wiki/Internet_security
 ). 
 
 GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP [delivers](   https://cloud.google.com/blog/products/identity-security/delivering-the-industrys-most-trusted-cloud ) security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug). [Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA). 
@@ -49,9 +49,9 @@ Google Cloud encrypts all customer content stored at rest, without any action re
 
 Data for storage is split into chunks, and each chunk is encrypted with a unique data encryption key. These data encryption keys are stored with the data, encrypted with ("wrapped" by) key encryption keys that are exclusively stored and used inside Google's central Key Management Service. [Google's Key Management Service](  https://cloud.google.com/security-key-management  ) is redundant and globally distributed.
 
-All data stored in Google Cloud is encrypted at the storage level using [AES256]( https://en.m.wikipedia.org/wiki/Advanced_Encryption_Standard  ), with the exception of a small number of Persistent Disks created before 2015 that use AES128.
+All data stored in Google Cloud is encrypted at the storage level using [AES256]( https://wikipedia.org/wiki/Advanced_Encryption_Standard  ), with the exception of a small number of Persistent Disks created before 2015 that use AES128.
 
-Google uses a common cryptographic library, [Tink]( https://github.com/google/tink  ), which incorporates our [FIPS 140-2](https://en.m.wikipedia.org/wiki/FIPS_140-2   ) validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. 
+Google uses a common cryptographic library, [Tink]( https://github.com/google/tink  ), which incorporates our [FIPS 140-2](https://wikipedia.org/wiki/FIPS_140-2   ) validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. 
 
 https://cloud.google.com/security/encryption/default-encryption
 
@@ -499,7 +499,7 @@ https://developers.google.com/speed/public-dns/docs/dns-over-tls
 
 ### DNS over HTTPS
 
-https://en.m.wikipedia.org/wiki/DNS_over_HTTPS
+https://wikipedia.org/wiki/DNS_over_HTTPS
 
 ## Cloud Storage Security
 

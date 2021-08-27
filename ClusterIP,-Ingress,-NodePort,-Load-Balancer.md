@@ -32,7 +32,7 @@ Services can be exposed in [different ways](https://cloud.google.com/kubernetes-
 
 ## ClusterIP
 
-A [ClusterIP](https://en.m.wikipedia.org/wiki/Cluster_IP) service is the default Kubernetes service. It gives you a service inside your cluster that other apps inside your cluster can access. There is no external access. It exposes the Service on a cluster-internal IP. Choosing this value makes the Service only reachable from within the cluster. This is the default ServiceType.
+A [ClusterIP](https://wikipedia.org/wiki/Cluster_IP) service is the default Kubernetes service. It gives you a service inside your cluster that other apps inside your cluster can access. There is no external access. It exposes the Service on a cluster-internal IP. Choosing this value makes the Service only reachable from within the cluster. This is the default ServiceType.
 
 The ClusterIP in kubernetes is a service type which has its origins in the iptables CLUSTERIP.  
 
@@ -110,7 +110,7 @@ https://kubernetes.io/docs/concepts/services-networking/ingress/
 
 ## ECMP
 
-[ECMP](  https://en.m.wikipedia.org/wiki/Equal-cost_multi-path_routing ) stands for “equal-cost multi-path”; it’s a routing strategy where packets are forwarded to one of any “best paths” in a network. How the best paths are determined depends on a lot of factors, but typically, the best path is likely the shortest path (the path with the least amount of hops). The most common example of using [anycast](  https://en.m.wikipedia.org/wiki/Anycast  ) is with global DNS services where we want one IP (think 1.1.1.1 or 8.8.8.8) to be routed to the closest site that is running a globally distributed DNS service. [BGP](  https://en.m.wikipedia.org/wiki/Border_Gateway_Protocol  ) is one of many routing protocols that allows us to implement ECMP routing.
+[ECMP](  https://wikipedia.org/wiki/Equal-cost_multi-path_routing ) stands for “equal-cost multi-path”; it’s a routing strategy where packets are forwarded to one of any “best paths” in a network. How the best paths are determined depends on a lot of factors, but typically, the best path is likely the shortest path (the path with the least amount of hops). The most common example of using [anycast](  https://en.m.wikipedia.org/wiki/Anycast  ) is with global DNS services where we want one IP (think 1.1.1.1 or 8.8.8.8) to be routed to the closest site that is running a globally distributed DNS service. [BGP](  https://en.m.wikipedia.org/wiki/Border_Gateway_Protocol  ) is one of many routing protocols that allows us to implement ECMP routing.
  
 
 If you’ve already configured your network to handle ECMP routing, then all that’s left to implement anycast is to advertise your anycast IP over multiple BGP peers. With Kubernetes, we can advertise service IPs to accomplish anycast routing for any of our services.

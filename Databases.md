@@ -81,7 +81,7 @@ Serializability describes multiple transactions, where a transaction is usually 
 
 Multiversion concurrency control (MCC or MVCC), is a concurrency control method commonly used by database management systems to provide concurrent access to the database and in programming languages to implement transactional memory.
 
-https://en.m.wikipedia.org/wiki/Multiversion_concurrency_control
+https://wikipedia.org/wiki/Multiversion_concurrency_control
 
 
 ## Distributed Consensus Protocols
