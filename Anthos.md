@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=XB52jRLHeko&list=PLIivdWyY5sqL8p1URcr6h1OkeJ01My
 
 ## Multi Cloud
 
+Anthos is Google’s new managed applications platform, which lets you run Kubernetes and other workloads consistently, across on-premises data centers and [multiple public clouds](Hybrid-Multi-Cloud-And-Anthos).
+
 https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-cloud-platform
 
 ## Anthos Technical Overview
