@@ -1,8 +1,7 @@
 
 
 
-[Anthos](https://cloud.google.com/anthos/docs) is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments. This page provides an overview of each layer of the Anthos infrastructure and shows how you can leverage its features.
-
+[Anthos](https://cloud.google.com/anthos/docs) is a modern application management platform that provides a consistent development and operations experience for [cloud and on-premises environments](Hybrid-Multi-Cloud-And-Anthos). 
 
 
 Getting started with Anthos.
