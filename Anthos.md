@@ -3,6 +3,7 @@
 
 [Anthos](https://cloud.google.com/anthos/docs) is a modern application management platform that provides a consistent development and operations experience for [cloud and on-premises environments](Hybrid-Multi-Cloud-And-Anthos). 
 
+At the heart of Anthos is Google’s Kubernetes Engine (GKE). [GKE](GKE)
 
 Getting started with Anthos.
 
