@@ -6,8 +6,6 @@
 
 [GKE](https://cloud.google.com/kubernetes-engine) is Secured and fully managed [Kubernetes](Kubernetes) service with revolutionary [autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview) mode of operation.
 
-Kubernetes is the most popular container orchestration system, and Google Kubernetes Engine was designed specifically to support managed Kubernetes deployments in Google Cloud. 
-
 ## Examples
 
 ### GKE HA and Stateful Application, PVC
