@@ -1,8 +1,14 @@
 
 
-[Anthos](Anthos) is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments. This page provides an overview of each layer of the Anthos infrastructure and shows how you can leverage its features.
+[Anthos](Anthos) is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments. 
 
 
+
+## Multi Cloud
+
+Enterprises require multi-cloud solutions for their critical workloads. This strategy requires them to build workloads that are portable across architectures.
+
+https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-cloud-platform
 
 ## Anthos vs AWS Outpost vs Azure Stack
 
