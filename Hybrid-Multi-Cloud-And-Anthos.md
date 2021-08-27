@@ -4,7 +4,7 @@
 
 
 
-## AWS Outpost vs Anthos vs Azure Stack
+## Anthos vs AWS Outpost vs Azure Stack
 
 The [AWS Outpost](https://aws.amazon.com/outposts/), Anthos and [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) have different goals and characteristics. Each has a unique approach to solving
 the hybrid multi cloud issues.
