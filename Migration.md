@@ -34,9 +34,10 @@ A video on Cloud Migration.
 
 Compute Engine enables [Live Migration](https://cloudplatform.googleblog.com/2015/03/Google-Compute-Engine-uses-Live-Migration-technology-to-service-infrastructure-without-application-downtime.html) which can allow your instances migrated automatically when the physical hardware requires maintenance.
 
-As with standard hypervisor suites, Compute Engine also allows you to take live snapshots of VM instances. You can use these snapshots to create new instances within a zone or move an instance to a different zone.
+As with standard hypervisor suites, Compute Engine also allows you to [take live snapshots of VM](https://cloud.google.com/compute/docs/disks/create-snapshots) instances. You can use these snapshots to create new instances within a zone or move an instance to a different zone.
 
-If your Compute Engine VM instance is terminated due to issues with the underlying physical host, the instance will recover automatically on a different host within the same zone. You can also elect to have your machines stay down by turning off automatic restart.
+
+If your Compute Engine VM instance is terminated due to issues with the underlying physical host, the instance will recover automatically on a different host within the same zone. You can also elect to have your machines stay down by turning off [automatic restart](https://cloud.google.com/compute/docs/instances/setting-instance-scheduling-options#autorestart).
 
 
 ### Lift and Shift
