@@ -82,7 +82,7 @@ Quickly view your GCP costs, forecast your month-end bill, and provide an overvi
 
 ## Channel Services
 
-The Channel Services console is designed for resellers of Google Cloud products. Use the console to add customers, manage accounts, create orders, and other key tasks for reselling. 
+The [Channel Services](https://cloud.google.com/channel/docs/overview) console is designed for resellers of Google Cloud products. Use the console to add customers, manage accounts, create orders, and other key tasks for reselling. 
 
  
 
