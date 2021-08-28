@@ -76,7 +76,7 @@ Google Cloud customers can be assisted in setting up their various Google Cloud 
 
 [https://cloud.google.com/products/calculator](https://cloud.google.com/products/calculator)
 
-Managing GCP usage and cost trends is easier than you think. In this session, we'll show you how to quickly view your GCP costs, forecast your month-end bill, and provide an overview of some of the controls you can put in place to prevent budget overruns.
+Quickly view your GCP costs, forecast your month-end bill, and provide an overview of some of the controls you can put in place to prevent budget overruns.
 
 [https://www.youtube.com/watch?v=UocD6uY2-js](https://www.youtube.com/watch?v=UocD6uY2-js)
 
@@ -97,7 +97,7 @@ https://support.google.com/channelservices/answer/9400042
 
 ## Sub Accounts
 
-Subaccounts are intended for resellers. If you are a reseller, you can use subaccounts to represent your customers' charges for the purpose of chargebacks.
+[Subaccounts](https://cloud.google.com/billing/docs/concepts#subaccounts) are intended for resellers. If you are a reseller, you can use subaccounts to represent your customers' charges for the purpose of chargebacks.
 
 Cloud Billing subaccounts allow you to group charges from projects together on a separate section of your invoice. A billing subaccount is a Cloud Billing account that is owned by a reseller's parent Cloud Billing account. The usage charges for all billing subacccounts are paid for by the reseller's parent Cloud Billing account. Note that the parent Cloud Billing account must be on invoiced billing.
 
