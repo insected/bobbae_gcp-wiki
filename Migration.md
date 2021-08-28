@@ -9,7 +9,7 @@ https://cloud.google.com/migrate/compute-engine/docs
 
 ## Velostrata
 
-Google Cloud Migrate for Compute Engine (formerly Velostrata) migrates VMs from your on-premises data center, AWS, or Azure into Compute Engine.
+[Google Cloud Migrate for Compute Engine](https://cloud.google.com/migrate/compute-engine) (formerly Velostrata) migrates VMs from your on-premises data center, AWS, or Azure into Compute Engine.
 
 https://cloud.google.com/blog/products/velostrata
 
