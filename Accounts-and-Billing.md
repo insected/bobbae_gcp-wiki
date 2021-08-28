@@ -51,7 +51,7 @@ A [Cloud Billing account](https://cloud.google.com/billing/docs/how-to/manage-bi
 
 ### Folders
 
-[Folders are nodes]((https://cloud.google.com/resource-manager/docs/creating-managing-folders)) in the Cloud Platform Resource Hierarchy. A folder can contain projects, other folders, or a combination of both. Organizations can use folders to group projects under the organization node in a hierarchy. For example, your organization might contain multiple departments, each with its own set of Google Cloud resources. Folders allow you to group these resources on a per-department basis. Folders are used to group resources that share common IAM policies. While a folder can contain multiple folders or resources, a given folder or resource can have exactly one parent.
+[Folders are nodes](https://cloud.google.com/resource-manager/docs/creating-managing-folders) in the Cloud Platform Resource Hierarchy. A folder can contain projects, other folders, or a combination of both. Organizations can use folders to group projects under the organization node in a hierarchy. For example, your organization might contain multiple departments, each with its own set of Google Cloud resources. Folders allow you to group these resources on a per-department basis. Folders are used to group resources that share common IAM policies. While a folder can contain multiple folders or resources, a given folder or resource can have exactly one parent.
 
 
 ## Billing Account & Payment Profile
