@@ -446,10 +446,6 @@ Administrators first define an access policy, which is an organization-wide cont
 Access levels describe the necessary requirements for requests to be honored. 
 
 
-## StackRox
-
-[StackRox](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/) provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. Alternatively, use StackRox to enforce security policies for GKE with Cloud Run. 
-
 
 ## BGP
 
@@ -458,6 +454,72 @@ Internet routing depends on continuous  correct configuration and operation of i
 ## Kubernetes security
 
 https://kubernetes.io/docs/concepts/security/overview/
+
+### SigStore
+
+https://www.sigstore.dev/
+
+### Distroless
+
+"Distroless" images contain only your application and its runtime dependencies. They do not contain package managers, shells or any other programs you would expect to find in a standard Linux distribution.
+
+https://github.com/GoogleContainerTools/distroless
+
+### CoSign
+
+Container Signing, Verification and Storage in an [OCI](https://opencontainers.org/) registry.
+
+
+https://github.com/sigstore/cosign
+
+
+#### Cloud Build
+
+https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.html
+
+#### Example
+
+https://www.infracloud.io/blogs/secure-containers-cosign-distroless-images
+
+
+### Admission Controllers
+
+https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/
+
+#### Validating Webhooks
+
+https://kmitevski.com/writing-a-kubernetes-validating-webhook-using-python/
+
+
+### StackRox
+
+https://www.stackrox.io/blog/kubernetes-security-101/
+
+
+
+[StackRox](https://www.stackrox.com/post/2020/11/stackrox-integrates-with-google-artifact-registry/) provides full life cycle security across build, deploy, and runtime phases for your Google Kubernetes Engine (GKE), Google Compute Engine (GCE), or Anthos environments. 
+
+StackRox can be used to enforce security policies for [GKE](GKE) with [Cloud Run](Cloud-Run). 
+
+
+
+
+
+### Encrypt Secrets at rest
+
+https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/#encrypt-secrets-at-rest
+
+
+### Aqua 
+
+https://www.aquasec.com/products/kubernetes-security/
+
+
+### Kubescape
+
+https://github.com/armosec/kubescape
+
+
 
 ## IPSec
 
@@ -487,9 +549,9 @@ https://internetofthingsagenda.techtarget.com/definition/IoT-security-Internet-o
 
 Google APIs use the [OAuth 2.0 protocol](https://datatracker.ietf.org/doc/html/rfc6749) for authentication and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, client-side, installed, and limited-input device applications.
 
-## DNSSEC
+## DNS Security
 
-The [Domain Name System]( DNS  ) Security Extensions (DNSSEC) is a feature of the Domain Name System (DNS) that authenticates responses to domain name lookups. It does not provide privacy protections for those lookups, but prevents attackers from manipulating or poisoning the responses to DNS requests.
+The [Domain Name System]( DNS  ) Security Extensions (DNSSEC) is a feature of the Domain Name System (DNS) that authenticates responses to domain name lookups. [DNSSEC](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) does not provide privacy protections for those lookups, but prevents attackers from manipulating or poisoning the responses to DNS requests.
 
 https://cloud.google.com/dns/docs/dnssec
 
@@ -503,7 +565,19 @@ https://wikipedia.org/wiki/DNS_over_HTTPS
 
 ## Cloud Storage Security
 
-https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations
+https://www.researchgate.net/publication/300003200_Security_Techniques_for_Data_Protection_in_Cloud_Computing
+
+### Enhance Security in cloud storage
+
+https://cloud.google.com/blog/products/storage-data-transfer/5-ways-to-enhance-your-cloud-storage-security-and-data-protection
+
+### Cloud Storage security issues
+
+https://phoenixnap.com/blog/cloud-storage-security
+
+### GDPR
+
+https://gdpr-info.eu/
 
 ### Credential Types Supporting Various Use Cases
 
@@ -590,11 +664,9 @@ https://forsetisecurity.org/
 
 ### OWASP
 
-https://owasp.org/www-community/Vulnerability_Scanning_Tools
+https://owasp.org/
 
-
-
-### Aqua
+### Aqua CSPM
 
 https://www.aquasec.com/products/cspm/
 
