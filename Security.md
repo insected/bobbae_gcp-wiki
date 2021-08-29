@@ -10,7 +10,9 @@ GCP doesn't rely on any single technology to make its [infrastructure secure](ht
 
 We need a holistic approach to security and [privacy](Privacy) and must protect information through its entire lifecycle, from the moment it's captured to the day it's destroyed.
 
+## Security issues in cloud computing
 
+https://jisajournal.springeropen.com/articles/10.1186/1869-0238-4-5
 
 ## Security Foundations Blueprint
 
@@ -573,7 +575,7 @@ https://cloud.google.com/blog/products/storage-data-transfer/5-ways-to-enhance-y
 
 ### Cloud Storage security issues
 
-https://phoenixnap.com/blog/cloud-storage-security
+https://www.researchgate.net/publication/306071422_A_Study_on_Data_Storage_Security_Issues_in_Cloud_Computing
 
 ### GDPR
 
