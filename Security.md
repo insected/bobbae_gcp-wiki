@@ -457,6 +457,30 @@ Internet routing depends on continuous  correct configuration and operation of i
 
 https://kubernetes.io/docs/concepts/security/overview/
 
+
+### Issues
+
+https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments
+
+
+### OPA
+
+https://github.com/open-policy-agent/opa
+
+### TerraScan
+
+https://github.com/accurics/terrascan
+
+### Falco
+
+https://github.com/falcosecurity/falco
+
+### Kube Linter
+
+https://github.com/stackrox/kube-linter
+
+
+
 ### SigStore
 
 https://www.sigstore.dev/
@@ -482,6 +506,14 @@ https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.h
 #### Example
 
 https://www.infracloud.io/blogs/secure-containers-cosign-distroless-images
+
+### Clair
+
+https://github.com/quay/clair
+
+### Checkov
+
+https://github.com/bridgecrewio/checkov
 
 
 ### Admission Controllers
@@ -521,7 +553,37 @@ https://www.aquasec.com/products/kubernetes-security/
 
 https://github.com/armosec/kubescape
 
+### Kube bench
 
+https://github.com/aquasecurity/kube-bench
+
+### Kube hunter
+
+https://github.com/aquasecurity/kube-hunter
+
+### Kube audit
+
+https://github.com/Shopify/kubeaudit
+
+### NeuVector
+
+https://neuvector.com/
+
+### Audit2RBAC
+
+https://github.com/liggitt/audit2rbac
+
+### Illuminatio
+
+https://github.com/inovex/illuminatio
+
+### Prisma
+
+https://www.paloaltonetworks.com/prisma/cloud/cloud-workload-protection-platform/container-security
+
+### KubeSec
+
+https://kubesec.io/
 
 ## IPSec
 
@@ -588,7 +650,7 @@ https://cloud.google.com/storage/docs/gsutil/addlhelp/CredentialTypesSupportingV
 ### ACL
 
 
-An access control list (ACL) is a mechanism you can use to define who has access to your buckets and objects, as well as what level of access they have. In Cloud Storage, you apply ACLs to individual buckets and objects. Each ACL consists of one or more entries. An entry gives a specific user (or group) the ability to perform specific actions. Each entry consists of two pieces of information:
+An [access control list](https://en.wikipedia.org/wiki/Access-control_list) (ACL) is a mechanism you can use to define who has access to your buckets and objects, as well as what level of access they have. In Cloud Storage, you apply ACLs to individual buckets and objects. Each ACL consists of one or more entries. An entry gives a specific user (or group) the ability to perform specific actions. Each entry consists of two pieces of information:
 
 A permission, which defines what actions can be performed (for example, read or write).
 
