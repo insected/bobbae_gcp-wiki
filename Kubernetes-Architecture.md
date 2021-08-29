@@ -233,13 +233,11 @@ https://kubernetes.io/docs/concepts/services-networking/connect-applications-ser
 
 [StatefulSet](https://www.youtube.com/watch?v=pPQKAR1pA9U) is the workload API object used to manage stateful applications.
 
-Manages the deployment and scaling of a set of Pods, and provides guarantees about the ordering and uniqueness of these Pods.
+
 
 [https://www.youtube.com/watch?v=pPQKAR1pA9U](https://www.youtube.com/watch?v=pPQKAR1pA9U)
 
-Like a Deployment, a StatefulSet manages Pods that are based on an identical container spec. Unlike a Deployment, a StatefulSet maintains a sticky identity for each of their Pods. These pods are created from the same spec, but are not interchangeable: each has a persistent identifier that it maintains across any rescheduling.
 
-If you want to use storage volumes to provide persistence for your workload, you can use a StatefulSet as part of the solution. Although individual Pods in a StatefulSet are susceptible to failure, the persistent Pod identifiers make it easier to match existing volumes to the new Pods that replace any that have failed.
 
 
 StatefulSets are valuable for applications that require one or more of the following.
@@ -250,17 +248,6 @@ StatefulSets are valuable for applications that require one or more of the follo
 - Ordered, automated rolling updates.
 
 
-In the above, stable is synonymous with persistence across Pod (re)scheduling. If an application doesn't require any stable identifiers or ordered deployment, deletion, or scaling, you should deploy your application using a workload object that provides a set of stateless replicas. Deployment or ReplicaSet may be better suited to your stateless needs.
-
-The storage for a given Pod must either be provisioned by a PersistentVolume Provisioner based on the requested storage class, or pre-provisioned by an admin.
-
-Deleting and/or scaling a StatefulSet down will not delete the volumes associated with the StatefulSet. This is done to ensure data safety, which is generally more valuable than an automatic purge of all related StatefulSet resources.
-
-StatefulSets currently require a Headless Service to be responsible for the network identity of the Pods. You are responsible for creating this Service.
-
-StatefulSets do not provide any guarantees on the termination of pods when a StatefulSet is deleted. To achieve ordered and graceful termination of the pods in the StatefulSet, it is possible to scale the StatefulSet down to 0 prior to deletion.
-
-When using Rolling Updates with the default Pod Management Policy (OrderedReady), it's possible to get into a broken state that requires manual intervention to repair.
 
 https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
 
@@ -277,9 +264,7 @@ Some typical uses of a DaemonSet are:
 * running a logs collection daemon on every node
 * running a node monitoring daemon on every node
 
-In a simple case, one DaemonSet, covering all nodes, would be used for each type of daemon. 
 
-A more complex setup might use multiple DaemonSets for a single type of daemon, but with different flags and/or different memory and cpu requests for different hardware types.
 
 
 https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
@@ -288,7 +273,7 @@ https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
 
 A ReplicaSet's purpose is to maintain a stable set of replica Pods running at any given time. As such, it is often used to guarantee the availability of a specified number of identical Pods.
 
-A ReplicaSet ensures that a specified number of pod replicas are running at any given time. However, a Deployment is a higher-level concept that manages ReplicaSets and provides declarative updates to Pods along with a lot of other useful features. Therefore, use Deployments instead of directly using ReplicaSets, unless you require custom update orchestration or don't require updates at all.
+
 
 https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
 
@@ -301,11 +286,11 @@ https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/#alternativ
 
 A [ConfigMap]( https://kubernetes.io/docs/concepts/configuration/configmap/   ) is an API object used to store non-confidential data in key-value pairs. Pods can consume ConfigMaps as environment variables, command-line arguments, or as configuration files in a volume.
 
-A ConfigMap allows you to decouple environment-specific configuration from your container images, so that your applications are easily portable.
 
-Kubernetes [Secrets](   https://kubernetes.io/docs/concepts/configuration/secret/  ) let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Storing confidential information in a Secret is safer and more flexible than putting it verbatim in a Pod definition or in a container image. See Secrets design document for more information.
 
-A Secret is an object that contains a small amount of sensitive data such as a password, a token, or a key. Such information might otherwise be put in a Pod specification or in an image. Users can create Secrets and the system also creates some Secrets.
+Kubernetes [Secrets](   https://kubernetes.io/docs/concepts/configuration/secret/  ) let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys.
+
+
 
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
