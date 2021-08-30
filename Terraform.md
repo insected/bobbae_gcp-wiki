@@ -60,6 +60,9 @@ https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastruct
 
 https://geekflare.com/terraform-best-practices/
 
+### terraform docker image
+
+https://hub.docker.com/r/hashicorp/terraform/
 
 ### Loops and conditions
 
