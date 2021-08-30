@@ -455,7 +455,7 @@ Internet routing depends on continuous  correct configuration and operation of i
 
 ## Kubernetes security
 
-[Kubernetes Security](Kubernetes-Security) 
+[Kubernetes Security](Kubernetes-Security)  is important throughout the container lifecycle due to the distributed, dynamic nature of a Kubernetes cluster. Different security approaches are required for each of the three phases of an application lifecycle: build, deploy, and runtime. 
 
 ## IPSec
 
