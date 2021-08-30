@@ -294,7 +294,9 @@ https://etcnotes.com/posts/sstable-and-lsm/
 
 https://cloud.google.com/bigquery/external-data-bigtable
 
+## Comparison to DynamoDB, CosmosDB, Datastore
 
+https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb-vs-cosmos-db-vs-cloud-datastore-and-bigtable
 
 ## Qwiklabs
 
