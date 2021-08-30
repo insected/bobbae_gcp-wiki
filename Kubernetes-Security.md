@@ -12,14 +12,21 @@ Kubernetes security is based on the 4C’s of cloud native security: Cloud, Clus
 https://kubernetes.io/docs/concepts/security/overview/
 
 
-### Issues
+## Issues
+
+https://www.vmware.com/topics/glossary/content/kubernetes-security
+
+Kubernetes security is important throughout the container lifecycle due to the distributed, dynamic nature of a Kubernetes cluster. Different security approaches are required for each of the three phases of an application lifecycle: build, deploy, and runtime. Kubernetes provides innate security advantages. For example, application containers are typically not patched or updated — instead, container images are replaced entirely with new versions. This enables strict version control and permits rapid rollbacks if a vulnerability is uncovered in new code.
 
 https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments
 
 
-### RBAC
+## RBAC
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control
+
+
+## Tools
 
 ### OPA
 
