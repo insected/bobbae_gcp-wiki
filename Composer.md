@@ -113,5 +113,6 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 Cloud Composer: Copying BigQuery Tables Across Different Locations
 
+https://cloud.google.com/blog/products/data-analytics/how-to-transfer-bigquery-tables-between-locations-with-cloud-composer
 
 https://www.qwiklabs.com/focuses/3528?parent=catalog
