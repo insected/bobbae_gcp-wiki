@@ -107,6 +107,11 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 [https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
 
+## Qwiklabs
+
+### GSP283
+
+Cloud Composer: Copying BigQuery Tables Across Different Locations
 
 
-
+https://www.qwiklabs.com/focuses/3528?parent=catalog
