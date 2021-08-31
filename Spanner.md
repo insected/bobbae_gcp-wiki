@@ -189,6 +189,16 @@ The emulator is also available as an open source project in [GitHub](https://git
 
 
 
+## BigQuery Spanner federation 
+
+BigQuery Spanner federation  enables BigQuery to query data residing in Spanner in real-time, without copying or moving data.
+https://cloud.google.com/bigquery/docs/cloud-spanner-federated-queries
+
+
+## Point in time recovery
+
+https://cloud.google.com/spanner/docs/pitr
+
 
 
 
