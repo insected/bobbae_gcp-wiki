@@ -2,7 +2,6 @@
 
 [BigQuery ML](https://cloud.google.com/bigquery-ml/docs/) enables users to create and execute machine learning models in [BigQuery](BigQuery) by using SQL queries.
 
-https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 
 
 
@@ -114,6 +113,12 @@ https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-synt
 ### Unsupervised anomaly detection for time series and non-time series data
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-ml-unsupervised-anomaly-detection
+
+
+### Explaining BigQuery ML Model
+
+https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
+
 
 ### BigQuery ML Book
 
