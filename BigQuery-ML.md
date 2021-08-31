@@ -5,10 +5,8 @@
 https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 
 
-https://towardsdatascience.com/super-fast-machine-learning-to-production-with-bigquery-ml-53c43b3825a3
 
 
-https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML
 
 https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
 
@@ -18,27 +16,32 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
 
 ### Linear regression
 
+https://cloud.google.com/bigquery-ml/docs/linear-regression-tutorial
+
 To forecast numerical values with a linear model
 
 https://machinelearningmastery.com/linear-regression-for-machine-learning/
 
-https://cloud.google.com/bigquery-ml/docs/linear-regression-tutorial
 
 ### Binary logistic regression
+
+https://cloud.google.com/bigquery-ml/docs/logistic-regression-prediction
 
 For classification use cases when the choice is between only two different options (Yes or No, 1 or 0, True or False)
 
 https://towardsdatascience.com/implementing-binary-logistic-regression-in-r-7d802a9d98fe
 
-https://cloud.google.com/bigquery-ml/docs/logistic-regression-prediction
+https://towardsdatascience.com/super-fast-machine-learning-to-production-with-bigquery-ml-53c43b3825a3
+
 
 ### K-means clustering
+
+https://cloud.google.com/bigquery-ml/docs/kmeans-tutorial
 
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid).
 
 https://en.wikipedia.org/wiki/K-means_clustering
 
-https://cloud.google.com/bigquery-ml/docs/kmeans-tutorial
 
 ### Multiclass logistic regression
 
@@ -48,25 +51,30 @@ https://gluon.mxnet.io/chapter02_supervised-learning/softmax-regression-scratch.
 
 ### Matrix factorization
 
+https://cloud.google.com/bigquery-ml/docs/bigqueryml-mf-explicit-tutorial
+
+
 For developing recommendation engines based on past information
 
 https://developers.google.com/machine-learning/recommendation/collaborative/matrix
 
-https://cloud.google.com/bigquery-ml/docs/bigqueryml-mf-explicit-tutorial
 
 ### Time series
+
+https://cloud.google.com/bigquery-ml/docs/arima-single-time-series-forecasting-tutorial
 
 To forecast business KPIs leveraging timeseries data from the past
 
 https://otexts.com/fpp2/arima.html
 
-https://cloud.google.com/bigquery-ml/docs/arima-single-time-series-forecasting-tutorial
 
 ### Boosted tree
 
+https://xgboost.readthedocs.io/en/latest/tutorials/model.html
+
+
 For classification and regression use cases with XGBoost
 
-https://xgboost.readthedocs.io/en/latest/tutorials/model.html
 
 https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML/blob/master/Chapter10/classifying_trees_xgboost.sql
 
@@ -106,3 +114,7 @@ https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-synt
 ### Unsupervised anomaly detection for time series and non-time series data
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-ml-unsupervised-anomaly-detection
+
+### BigQuery ML Book
+
+https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML
