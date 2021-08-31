@@ -155,23 +155,31 @@ When BigQuery executes a query job, it converts the declarative SQL statement in
 
 Within the [query plan](https://cloud.google.com/bigquery/query-plan-explanation), the terms work units and workers are used to convey information specifically about parallelism. Elsewhere within BigQuery, you may encounter the term slot", which is an abstracted representation of multiple facets of query execution, including compute, memory, and I/O resources. Top level job statistics provide the estimate of individual query cost using the totalSlotMs estimate of the query using this abstracted accounting.
 
-## Point in time recovery
-
-https://cloud.google.com/spanner/docs/pitr
-
-
 ## Managing input data and data sources
 
 When [evaluating](https://cloud.google.com/bigquery/docs/best-practices-performance-input) your input data, consider the required I/O. How many bytes does your query read? Are you properly limiting the amount of input data? Is your data in native BigQuery storage or an external data source? The amount of data read by a query and the source of the data impact query performance and cost.
 
 
 
+## BigQuery Spanner federation 
+
+BigQuery Spanner federation  enables BigQuery to query data residing in Spanner in real-time, without copying or moving data.
+https://cloud.google.com/bigquery/docs/cloud-spanner-federated-queries
+
+### Replicating from Cloud Spanner to BigQuery at scale
+
+https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-spanner-bigquery-scale
 
 ## Optimizing communication between slots
 
 When evaluating your [communication](https://cloud.google.com/bigquery/docs/best-practices-performance-communication) throughput, consider the amount of shuffling that is required by your query. How many bytes are passed between stages? How many bytes are passed to each slot? For example, a GROUP BY clause passes like values to the same slot for processing. The amount of data that is shuffled directly impacts communication throughput and as a result, query performance.
 
 
+## Time Travel
+
+BigQuery lets you use time travel to access data stored in BigQuery that has been changed or deleted. You can access the data from any point within the last seven days. You can use time travel to query data that was updated or deleted, restore a table that was deleted, or restore a table that expired.
+
+https://cloud.google.com/bigquery/docs/time-travel
 
 
 ## Optimizing query computation
