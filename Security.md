@@ -384,9 +384,9 @@ reCAPTCHA Enterprise is an extension of that effort to help enterprises detect o
 [Web Risk](https://cloud.google.com/web-risk/docs) is a new enterprise security product that lets your client applications check URLs against Google's constantly updated lists of unsafe web resources.
 
 
+### Best practices using Web Risk API to help stop phishing 
 
-
-
+https://cloud.google.com/blog/products/identity-security/follow-web-risk-apis-best-practices-to-stop-attacks
 
 ## Cloud Audit Logs
 
