@@ -73,6 +73,19 @@ A video tutorial of Cloud Functions that  will show you how to deploy a Cloud Fu
 
 [https://www.youtube.com/watch?v=vM-2O-uKBNQ](https://www.youtube.com/watch?v=vM-2O-uKBNQ)
 
+### Min instances
+
+
+You can avoid cold starts for your application and reduce application latency by setting a minimum number of instances.
+
+https://cloud.google.com/run/docs/configuring/min-instances
+
+### Using maximum instances
+
+You can control the scaling behavior of your function by setting a maximum number of Cloud Functions instances.
+
+https://cloud.google.com/functions/docs/configuring/max-instances
+
 
 ### Cloud Functions for .NET
 
