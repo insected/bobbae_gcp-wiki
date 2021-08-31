@@ -195,6 +195,12 @@ BigQuery Spanner federation  enables BigQuery to query data residing in Spanner 
 https://cloud.google.com/bigquery/docs/cloud-spanner-federated-queries
 
 
+### Replicating from Cloud Spanner to BigQuery at scale
+
+https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-spanner-bigquery-scale
+
+
+
 ## Point in time recovery
 
 https://cloud.google.com/spanner/docs/pitr
