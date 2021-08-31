@@ -111,8 +111,10 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 ### GSP283
 
-Cloud Composer: Copying BigQuery Tables Across Different Locations
+Cloud Composer: [Copying BigQuery Tables Across Different Locations](https://cloud.google.com/blog/products/data-analytics/how-to-transfer-bigquery-tables-between-locations-with-cloud-composer
+)
 
-https://cloud.google.com/blog/products/data-analytics/how-to-transfer-bigquery-tables-between-locations-with-cloud-composer
 
 https://www.qwiklabs.com/focuses/3528?parent=catalog
+
+Note that creating Composer Environment will allocate VMs, create Kubernetes cluster on them, create Cloud Storage bucket (named in a pattern as in region-composer-env-name-number) where the DAGs and code are stored. Creation of Composer environment can take a while and deleting the Environment afterwards will clean up most of the resources, including the VMs and Kubernetes clusters. But they will not delete the BigQuery data created as a result. Deleting Composer Environment also does not delete the auto-created GCS bucket. It has do be deleted manually.
