@@ -62,6 +62,9 @@ Ansible is a way to automate apps and IT infrastructure. Application Deployment 
 
 [Here](https://www.youtube.com/watch?v=utztQWTewWU)  is an opinionated look at how ansible and terraform complement one another in a provisioner/configuration management separated view. A key takeaway is a simplified workflow for sysadmins/operators in cloud management that can be applied in multi-cloud/hybrid cloud scenarios.
 
+#### Using ansible to deploy Nomad and Consul
+
+https://medium.com/google-cloud/deploy-nomad-and-consul-using-ansible-on-gcp-478b39e7818b
 
 ### AWS Cloud formation
 
