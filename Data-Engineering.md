@@ -164,4 +164,4 @@ https://cloud.google.com/datastore/docs
 
 ## Data Transfer
 
-There are various [Data Transfer](Data Transfer) options in GCP.
+There are various [Data Transfer](Data-Transfer) options in GCP.
