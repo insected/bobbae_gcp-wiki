@@ -210,3 +210,7 @@ https://docs.getdbt.com/tutorial/setting-up
 ## Spectacles
 
 https://github.com/spectacles-ci/spectacles
+
+## Qwiklabs
+
+https://www.qwiklabs.com/quests/170
