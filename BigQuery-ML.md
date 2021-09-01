@@ -4,10 +4,9 @@
 
 
 
+### Predict Visitor Purchases with a Classification Model in BQML
 
-
-
-https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
+https://google.qwiklabs.com/focuses/1794?parent=catalog
 
 
 
@@ -123,3 +122,7 @@ https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 ### BigQuery ML Book
 
 https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML
+
+### Videos
+
+https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
