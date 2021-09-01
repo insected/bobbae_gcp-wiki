@@ -162,3 +162,6 @@ https://cloud.google.com/datastore/docs
 
 [Firebase](Firebase) is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
 
+## Data Transfer
+
+There are various [Data Transfer](Data Transfer) options in GCP.
