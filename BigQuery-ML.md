@@ -6,6 +6,8 @@
 
 ### Predict Visitor Purchases with a Classification Model in BQML
 
+GSP229
+
 https://google.qwiklabs.com/focuses/1794?parent=catalog
 
 
@@ -126,3 +128,11 @@ https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML
 ### Videos
 
 https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
+
+
+### Quest
+
+
+Applying BQML's Classification, Regression, and Demand Forecasting for Retail Applications
+
+https://google.qwiklabs.com/quests/162
