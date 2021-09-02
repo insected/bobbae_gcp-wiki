@@ -36,3 +36,5 @@ https://keras.io/why_keras/
 ### Notebook
 
 [https://github.com/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/Tensorflow/getting-started-keras.ipynb](https://github.com/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/tensorflow/getting-started-keras.ipynb)
+
+https://github.com/GoogleCloudPlatform/cloudml-samples/blob/master/notebooks/keras/TextClassificationUsingKerasAndCMLE.ipynb
