@@ -14,6 +14,7 @@ You may also [fill out a form](https://inthecloud.withgoogle.com/partner-trainin
 
 [Here is another place](  https://inthecloud.withgoogle.com/training-discount/register.html ) to sign up for Qwiklabs credit if the above links do not work.
 
+Also try: https://edu.google.com/programs/credits/training/?modal_active=none
 
 ### Using GCP Account
 
