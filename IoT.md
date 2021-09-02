@@ -38,4 +38,5 @@ https://github.com/bobbae/gcp/wiki/Networking#industrial-networking
 
 
 GSP088
+Building an IoT Analytics Pipeline on Google Cloud
 https://google.qwiklabs.com/focuses/605?parent=catalog
