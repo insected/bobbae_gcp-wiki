@@ -106,5 +106,5 @@ https://www.guru99.com/tensorflow-tutorial.html
 ## Qwiklabs
 
 GSP418
-Predict Housing Prices with Tensorflow and AI Platform
-https://google.qwiklabs.com/focuses/3644?parent=catalog
+[Predict Housing Prices with Tensorflow and AI Platform](
+https://google.qwiklabs.com/focuses/3644?parent=catalog)
