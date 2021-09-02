@@ -1,14 +1,14 @@
 
 
-[TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk)    is an [awesome](https://github.com/jtoy/awesome-tensorflow)   open source, powerful, portable [machine learning](Machine-Learning) library developed by Google that can work with very large datasets.
+[Tensorflow](https://www.youtube.com/watch?v=tPYj3fFJGjk)    is an [awesome](https://github.com/jtoy/awesome-tensorflow)   open source, powerful, portable [machine learning](Machine-Learning) library developed by Google that can work with very large datasets.
 
-[Keras](Keras) is the high-level API of TensorFlow.
+[Keras](Keras) is the high-level API of Tensorflow.
 
-[Kubeflow](Kubeflow) is a [MLOps](MLOps) tool that can manage pipelines including [TensorFlow](https://www.tensorflow.org/learn).
+[Kubeflow](Kubeflow) is a [MLOps](MLOps) tool that can manage pipelines including [Tensorflow](https://www.tensorflow.org/learn).
 
-### TensorFlow.js
+### Tensorflow.js
 
-TensorFlow.js is a library for machine learning in JavaScript.
+Tensorflow.js is a library for machine learning in JavaScript.
 
 Develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
 
@@ -41,37 +41,37 @@ TensorBoard provides the visualization and tooling needed for machine learning e
 - Viewing histograms of weights, biases, or other tensors as they change over time
 - Projecting embeddings to a lower dimensional space
 - Displaying images, text, and audio data
-- Profiling TensorFlow programs
+- Profiling Tensorflow programs
 
 [https://www.youtube.com/watch?v=qEQ-_EId-D0](https://www.youtube.com/watch?v=qEQ-_EId-D0)
 
 
-### TensorFlow Graph
+### Tensorflow Graph
 
 Graphs are data structures that contain a set of [tf.Operation](https://www.tensorflow.org/api_docs/python/tf/Operation) objects, which represent units of computation; and [tf.Tensor](https://www.tensorflow.org/api_docs/python/tf/Tensor) objects, which represent the units of data that flow between operations. They are defined in a [tf.Graph](https://www.tensorflow.org/api_docs/python/tf/Graph) context. Since these graphs are data structures, they can be saved, run, and restored all without the original Python code.
 
 [https://www.youtube.com/watch?v=qTYQEXsBb_E](https://www.youtube.com/watch?v=qTYQEXsBb_E)
 
 
-### TensorFlow Enterprise
+### Tensorflow Enterprise
 
-TensorFlow Enterprise makes it easier to develop and deploy TensorFlow models on Google Cloud, by providing users with a set of products and services, which provide enterprise-grade support and cloud scale performance. Users can get the benefits of TensorFlow Enterprise by using the TensorFlow Enterprise Distribution on AI Platform Notebooks, AI Platform Deep Learning Containers and AI Platform Deep Learning VM Image.
+Tensorflow Enterprise makes it easier to develop and deploy Tensorflow models on Google Cloud, by providing users with a set of products and services, which provide enterprise-grade support and cloud scale performance. Users can get the benefits of Tensorflow Enterprise by using the Tensorflow Enterprise Distribution on AI Platform Notebooks, AI Platform Deep Learning Containers and AI Platform Deep Learning VM Image.
 
-[https://cloud.google.com/TensorFlow-enterprise/docs](https://cloud.google.com/tensorflow-enterprise/docs)
-
-
+[https://cloud.google.com/Tensorflow-enterprise/docs](https://cloud.google.com/tensorflow-enterprise/docs)
 
 
-### TensorFlow Examples
+
+
+### Tensorflow Examples
 
 https://github.com/tensorflow/examples
 
 
-### TensorFlow Tutorials
+### Tensorflow Tutorials
 
 https://www.tensorflow.org/tutorials
 
-### Running Distributed TensorFlow on Compute Engine
+### Running Distributed Tensorflow on Compute Engine
 
 https://cloud.google.com/architecture/running-distributed-tensorflow-on-compute-engine
 
@@ -87,7 +87,7 @@ https://cloud.google.com/ai-platform/docs/getting-started-keras
 https://blog.tensorflow.org/2020/08/train-your-tensorflow-model-on-google.html
 
 
-### Distributed TensorFlow on GCP
+### Distributed Tensorflow on GCP
 
 https://blog.tensorflow.org/2020/12/getting-started-with-distributed-tensorflow-on-gcp.html
 
@@ -95,11 +95,11 @@ https://blog.tensorflow.org/2020/12/getting-started-with-distributed-tensorflow-
 
 https://cloud.google.com/bigquery-ml/docs/making-predictions-with-imported-tensorflow-models
 
-### TensorFlow Resources
+### Tensorflow Resources
 
-A list of URLs related to TensorFlow.
+A list of URLs related to Tensorflow.
 
-[https://github.com/jtoy/awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+[https://github.com/jtoy/awesome-Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
 https://www.guru99.com/tensorflow-tutorial.html
 
