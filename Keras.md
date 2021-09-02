@@ -9,8 +9,6 @@ https://cloud.google.com/ai-platform/docs/getting-started-keras
 
 
 
-### Getting started
-
 https://keras.io/getting_started/
 
 #### Video
