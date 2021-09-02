@@ -37,5 +37,5 @@ https://github.com/bobbae/gcp/wiki/Networking#industrial-networking
 [IoT in the Google Cloud](https://www.qwiklabs.com/quests/49?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467733)
 
 
-[Using Cloud Logging with IoT Core Devices](https://www.qwiklabs.com/focuses/2768?catalog_rank=%7B%22rank%22%3A18%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
-
+GSP088
+https://google.qwiklabs.com/focuses/605?parent=catalog
