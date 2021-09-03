@@ -227,7 +227,7 @@ A [virtual LAN](VLAN) (VLAN) is any broadcast domain that is partitioned and iso
 
 ## BGP
 
-Border Gateway Protocol (BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet. BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
+[Border Gateway Protocol](BGP) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet. BGP is classified as a path-vector routing protocol, and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator.
 
 
 https://en.wikipedia.org/wiki/Border_Gateway_Protocol
