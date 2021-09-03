@@ -26,3 +26,7 @@ https://hackcontrol.org/blog/what-is-dtls-and-how-is-it-used/
 ## Vulnerabilities
 
 https://www.csoonline.com/article/3212965/why-ssl-tls-attacks-are-on-the-rise.html
+
+### CA's and Certificates Issued
+
+https://www.csoonline.com/article/3187338/know-the-limits-of-ssl-certificates.html
