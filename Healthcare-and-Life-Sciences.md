@@ -1,3 +1,4 @@
+## Healthcare
 
 ### Cloud Healthcare API
 
@@ -29,13 +30,6 @@ There is no shortage of [opportunities](https://www.youtube.com/watch?v=P54bm_TN
 
 Google Cloud infrastructure provides reliable information security designed to meet or exceed the requirements of HIPAA and protected health information. Covered by our HIPAA Business Associates Agreement and available via FedRAMP ATO for the National Cancer Institute Cancer Cloud Pilots.
 
-### Cloud Life Sciences
-
-[Cloud Life Sciences](https://cloud.google.com/life-sciences) is [a suite of services](https://www.youtube.com/watch?v=n0dhKfuhbVM) and tools for [managing, processing, and transforming life sciences](https://www.youtube.com/watch?v=Uz93mfqQvYA) data. 
-
-Cloud Life Sciences (formerly Google Genomics) enables the life sciences community to process biomedical data at scale. Cost effective and supported by a growing partner ecosystem, Cloud Life Sciences lets you focus on analyzing data and reproducing results while Google Cloud takes care of the rest.
-
-It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E) and operational workflows using highly scalable and compliant infrastructure. [Cloud Life Sciences](https://www.youtube.com/watch?v=M_G_1SWVHgw) includes features such as the [Cloud Life Sciences API](https://www.youtube.com/watch?v=vQeh0l9lnfk) and extract-transform-load (ETL) [tools](https://www.youtube.com/watch?v=B8RABR19n8Y), and [more](https://www.youtube.com/watch?v=BAAZNH-Wa6A).
 
 ### FHIR
 
@@ -61,11 +55,42 @@ Digital Imaging and Communications in Medicine (DICOM) is an international stand
 
 https://cloud.google.com/healthcare/docs/concepts/dicom
 
+## Life Sciences
+
+### Cloud Life Sciences
+
+[Cloud Life Sciences](https://cloud.google.com/life-sciences) is [a suite of services](https://www.youtube.com/watch?v=n0dhKfuhbVM) and tools for [managing, processing, and transforming life sciences](https://www.youtube.com/watch?v=Uz93mfqQvYA) data. 
+
+Cloud Life Sciences (formerly Google Genomics) enables the life sciences community to process biomedical data at scale. Cost effective and supported by a growing partner ecosystem, Cloud Life Sciences lets you focus on analyzing data and reproducing results while Google Cloud takes care of the rest.
+
+It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E) and operational workflows using highly scalable and compliant infrastructure. [Cloud Life Sciences](https://www.youtube.com/watch?v=M_G_1SWVHgw) includes features such as the [Cloud Life Sciences API](https://www.youtube.com/watch?v=vQeh0l9lnfk) and extract-transform-load (ETL) [tools](https://www.youtube.com/watch?v=B8RABR19n8Y), and [more](https://www.youtube.com/watch?v=BAAZNH-Wa6A).
+
+
 ### Deep Learning in Life Sciences
 
 There are useful [courses](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) on Deep Learning in Sciences and [general bioinformatics](https://github.com/ossu/bioinformatics).
 
+### Variant Transforms tool 
+
+https://cloud.google.com/life-sciences/docs/how-tos/variant-transforms
+
+
+### Store raw VCF files in Cloud Storage
+
+
+https://cloud.google.com/life-sciences/docs/how-tos/store-variants
+
+### Managing long-running operations 
+
+
+https://cloud.google.com/life-sciences/docs/how-tos/long-running-operations
+
+### Public datasets
+
+https://cloud.google.com/life-sciences/docs/resources/public-datasets
+
 ### Examples
+
 #### Storing and loading genomic variants
 
 [This page describes](https://cloud.google.com/life-sciences/docs/how-tos/load-variants) how to use the Variant Transforms tool to transform and load VCF files directly into [BigQuery](BigQuery) for large-scale analysis.
