@@ -31,3 +31,13 @@ Open Shortest Path First (OSPF) is a routing protocol for Internet Protocol (IP)
 https://en.wikipedia.org/wiki/Open_Shortest_Path_First
 
 OSPF works on [Dijkstra algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
+
+## RIP
+
+RIP (Routing Information Protocol), is an example of distance vector routing for local networks. RIP works to deliver the whole routing table to all active interfaces every 30 seconds. In RIP protocol, hop count is the only metrics to decide the best path to a remote network. 
+
+https://en.wikipedia.org/wiki/Routing_Information_Protocol
+
+## Router firmware
+
+https://en.wikipedia.org/wiki/List_of_router_firmware_projects
