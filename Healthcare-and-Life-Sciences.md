@@ -37,6 +37,30 @@ Cloud Life Sciences (formerly Google Genomics) enables the life sciences communi
 
 It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E) and operational workflows using highly scalable and compliant infrastructure. [Cloud Life Sciences](https://www.youtube.com/watch?v=M_G_1SWVHgw) includes features such as the [Cloud Life Sciences API](https://www.youtube.com/watch?v=vQeh0l9lnfk) and extract-transform-load (ETL) [tools](https://www.youtube.com/watch?v=B8RABR19n8Y), and [more](https://www.youtube.com/watch?v=BAAZNH-Wa6A).
 
+### FHIR
+
+Fast Healthcare Interoperability Resources (FHIR) is a healthcare standard for representing and exchanging electronic medical information.
+
+https://cloud.google.com/healthcare/docs/concepts/fhir
+
+#### Stream and synchronize FHIR resources with BigQuery 
+
+https://cloud.google.com/healthcare/docs/tutorials/fhir-bigquery-streaming-tutorial
+
+### HL7v2
+
+Health Level Seven International Version 2 (HL7v2) is a clinical messaging format that provides data about events that occur inside an organization.
+
+https://cloud.google.com/healthcare/docs/concepts/hl7v2
+
+### DICOM
+
+Digital Imaging and Communications in Medicine (DICOM) is an international standard used for medical images such as X-rays, MRIs, ultrasounds, and other medical imaging modalities.
+
+
+
+https://cloud.google.com/healthcare/docs/concepts/dicom
+
 ### Deep Learning in Life Sciences
 
 There are useful [courses](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) on Deep Learning in Sciences and [general bioinformatics](https://github.com/ossu/bioinformatics).
@@ -59,6 +83,9 @@ This [github repository](https://github.com/isb-cgc/RunningWorkflows-on-the-Goog
 
 This [Google genomics github account](https://github.com/googlegenomics) contains code samples and information about Google Life Sciences.
 
+### Github tutorials
+
+https://cloud.google.com/healthcare/docs/tutorials/github
 
 ### Qwiklabs
 
