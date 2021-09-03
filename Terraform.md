@@ -1,4 +1,4 @@
-[Terraform](https://terraform.io) is a tool from Hashicorp for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+[Terraform](https://terraform.io) is a tool  for building, changing, and versioning infrastructure. Terraform can manage existing a service providers as well as custom in-house solutions.
 
 ## Cloud Foundation Toolkit
 
