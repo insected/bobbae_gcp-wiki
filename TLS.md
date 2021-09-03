@@ -4,6 +4,24 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 https://www.csoonline.com/article/3246212/what-is-ssl-tls-and-how-this-encryption-protocol-works.html
 
+## Google Certificate Authority service
+
+https://cloud.google.com/certificate-authority-service
+
+
+### Using Google-managed SSL certificates 
+
+https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
+
+### Cloud LB SSL certificates overview
+
+https://cloud.google.com/load-balancing/docs/ssl-certificates
+
+## Google Trust services
+
+https://pki.goog/
+
+
 ## mTLS
 
 https://www.f5.com/labs/articles/education/what-is-mtls
