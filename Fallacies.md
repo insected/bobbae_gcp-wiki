@@ -125,6 +125,10 @@ https://wikipedia.org/wiki/Worse_is_better
 
 https://wikipedia.org/wiki/Unix_philosophy
 
+### Go
+
+https://www.fredrikholmqvist.com/posts/brooks-wirth-go
+
 ### Inner platform effect
 
 https://wikipedia.org/wiki/Inner-platform_effect
