@@ -29,3 +29,5 @@ https://datatracker.ietf.org/doc/html/rfc5798
 Open Shortest Path First (OSPF) is a routing protocol for Internet Protocol (IP) networks. It uses a link state routing (LSR) algorithm and falls into the group of interior gateway protocols (IGPs), operating within a single autonomous system (AS). 
 
 https://en.wikipedia.org/wiki/Open_Shortest_Path_First
+
+OSPF works on [Dijkstra algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
