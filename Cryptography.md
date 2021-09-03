@@ -20,7 +20,8 @@ The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-s
 
 ## TLS
 
-[Transport Layer Security](https://www.csoonline.com/article/3246212/what-is-ssl-tls-and-how-this-encryption-protocol-works.html) (TLS), and its now-deprecated predecessor, Secure Sockets Layer (SSL), are cryptographic protocols designed to provide communications security over a computer network. 
+[Transport Layer Security](TLS), and its now-deprecated predecessor, Secure Sockets Layer (SSL), are cryptographic protocols designed to provide communications security over a computer network. 
+
 
 ## HTTPS
 
