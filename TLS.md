@@ -48,3 +48,8 @@ https://www.csoonline.com/article/3212965/why-ssl-tls-attacks-are-on-the-rise.ht
 ### CA's and Certificates Issued
 
 https://www.csoonline.com/article/3187338/know-the-limits-of-ssl-certificates.html
+
+### Chrome's Root CA Policy
+
+http://www.chromium.org/Home/chromium-security/root-ca-policy
+
