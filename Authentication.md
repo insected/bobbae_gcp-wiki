@@ -13,6 +13,14 @@ https://cloud.google.com/docs/authentication#principals
 
 https://cloud.google.com/docs/authentication#applications
 
+### Best practices
+
+Best practices to securely authenticate applications in Google Cloud.
+
+https://cloud.google.com/docs/authentication/best-practices-applications
+
+
+
 ## Authentication Strategies
 
 Google Cloud APIs support multiple authentication flows for different runtime environments. 
