@@ -89,7 +89,6 @@ Looker for data explorers.
 
 ## Recorded Training
 
-[https://training.looker.com/series/recorded-webinars/custom-visualizations](https://training.looker.com/series/recorded-webinars/custom-visualizations)
 
 [https://training.looker.com/series/recorded-webinars](https://training.looker.com/series/recorded-webinars)
 
