@@ -223,3 +223,25 @@ https://wikipedia.org/wiki/Causal_inference
 https://cloud.google.com/blog/topics/developers-practitioners/brexit-vote-case-study-causal-inference-using-machine-learning
 
 
+## Qwiklabs
+
+### Baseline: Data, ML, AI
+
+
+
+https://www.qwiklabs.com/quests/34
+
+
+### Kubeflow Pipelines with AI Platform
+
+https://www.qwiklabs.com/focuses/10948?parent=catalog
+
+### Predict Housing Prices with Tensorflow and AI Platform
+
+https://www.qwiklabs.com/focuses/3644?parent=catalog
+
+
+### Exploratory Data Analysis Using AI Platform
+
+
+https://www.qwiklabs.com/focuses/1162?parent=catalog
