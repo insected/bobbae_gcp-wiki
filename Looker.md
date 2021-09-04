@@ -163,7 +163,6 @@ https://looker.com/platform/directory/home
 
 ## Certification
 
-https://looker.com/certification#exam-guides
 
 https://cloud.google.com/certification/guides/lookml-developer
 
