@@ -1,5 +1,5 @@
 
-[Artificial Intelligence](https://www.zdnet.com/article/what-is-ai-everything-you-need-to-know-about-artificial-intelligence/)   systems demonstrate at least some of the following behaviors associated with human intelligence: planning, learning, reasoning, problem solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)   systems demonstrate at least some of the following behaviors associated with human intelligence: planning, learning, reasoning, problem solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
 
 
 The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is what we see all around us in computers today: intelligent systems that have been taught or have learned how to carry out specific tasks without being explicitly programmed how to do so.
