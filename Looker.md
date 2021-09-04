@@ -169,7 +169,6 @@ https://cloud.google.com/certification/guides/lookml-developer
 
 ## Looker vs  Tableau
 
-https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef
 
 
 
