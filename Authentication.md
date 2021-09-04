@@ -3,13 +3,19 @@
 
 ## Principals
 
+A principal is an entity, also known as an identity, that can be granted access to a resource. Google Cloud APIs support two types of principals: user accounts and service accounts.
+
 https://cloud.google.com/docs/authentication#principals
 
 ## Applications
 
+[Application credentials](https://console.cloud.google.com/apis/credentials/) provide the required information about the caller making a request to a Google Cloud API. 
+
 https://cloud.google.com/docs/authentication#applications
 
 ## Authentication Strategies
+
+Google Cloud APIs support multiple authentication flows for different runtime environments. 
 
 https://cloud.google.com/docs/authentication#strategies
 
