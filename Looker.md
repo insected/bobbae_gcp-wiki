@@ -45,7 +45,6 @@ Looker development foundations.
 
 ## Training
 
-https://training.looker.com/
 
 https://connect.looker.com/
 
