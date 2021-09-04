@@ -6,6 +6,11 @@ The Internet has transformed our lives in many good ways. Unfortunately, this va
 
 GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP [delivers](   https://cloud.google.com/blog/products/identity-security/delivering-the-industrys-most-trusted-cloud ) security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug). [Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA). 
 
+
+## GCP Infrastructure Security
+
+https://cloud.google.com/security/infrastructure/design
+
 ## Privacy
 
 We need a holistic approach to security and [privacy](Privacy) and must protect information through its entire lifecycle, from the moment it's captured to the day it's destroyed.
@@ -45,7 +50,6 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 
 
 
-Google uses several layers of encryption to protect customer data at rest in Google Cloud products.
 
 Google Cloud encrypts all customer content stored at rest, without any action required from the customer, using one or more encryption mechanisms.
 
@@ -61,9 +65,6 @@ Consistent use of a common library means that only a small team of cryptographer
 
 https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest
 
-## GCP Infrastructure Security
-
-https://cloud.google.com/security/infrastructure/design
 
 ## IAM
 
