@@ -19,7 +19,10 @@ Best practices to securely authenticate applications in Google Cloud.
 
 https://cloud.google.com/docs/authentication/best-practices-applications
 
+### Authenticating as a service account 
 
+
+https://cloud.google.com/docs/authentication/production
 
 ## Authentication Strategies
 
@@ -48,6 +51,13 @@ https://cloud.google.com/endpoints/docs/openapi/authenticating-users-firebase
 #### Using Google ID tokens to authenticate users
 
 https://cloud.google.com/endpoints/docs/openapi/authenticating-users-google-id
+
+## Active Directory
+
+
+Managed Service for Microsoft Active Directory (AD) is a highly available, hardened Google Cloud service running actual [Microsoft AD](Active Directory) that enables you to manage authentication and authorization for your AD-dependent workloads, automate AD server maintenance and security configuration, and connect your on-premises AD domain to the cloud.
+
+https://cloud.google.com/managed-microsoft-ad
 
 
 ## Examples
