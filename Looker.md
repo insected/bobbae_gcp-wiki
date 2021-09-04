@@ -212,4 +212,12 @@ https://github.com/spectacles-ci/spectacles
 
 ## Qwiklabs
 
+https://www.qwiklabs.com/catalog?keywords=looker
+
+### Exploring Data with Looker
+
+https://www.qwiklabs.com/quests/165
+
+### Understanding LookML in Looker
+
 https://www.qwiklabs.com/quests/170
