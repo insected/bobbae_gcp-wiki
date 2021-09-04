@@ -4,6 +4,11 @@ A [security protocol](   https://wikipedia.org/wiki/Cryptographic_protocol)  per
 
 There are many [encryption algorithms](https://en.wikipedia.org/wiki/Category:Cryptographic_algorithms).
 
+
+## GCP Encryption
+
+https://cloud.google.com/security/encryption/default-encryption#googles_default_encryption
+
 ## PKI
 
 A [public-key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption. The purpose of a [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure) is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. 
