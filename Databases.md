@@ -14,6 +14,12 @@ There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud
 * [IBM  DB2 database](https://www.ibm.com/cloud/db2-on-cloud)
 * [SAP HANA Cloud](   https://www.sap.com/products/hana/cloud.html )
 
+
+## Database paradigms
+
+https://www.youtube.com/watch?v=W2Z7fbCLSTw
+
+
 ## SQL, NoSQL, NewSQL
 
 [Structured Query Language](SQL) (SQL) is the standard language for data manipulation in a DBMS.
