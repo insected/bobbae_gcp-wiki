@@ -57,6 +57,9 @@ https://squaredup.com/blog/kusto-101-a-jumpstart-guide-to-kql/
 
 https://en.wikipedia.org/wiki/NoSQL
 
+## CQL
+
+https://cassandra.apache.org/doc/latest/cassandra/cql/
 
 ## NewSQL
 
