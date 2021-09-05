@@ -53,13 +53,43 @@ https://www.xplenty.com/blog/12-sql-on-hadoop-tools/
 
 https://squaredup.com/blog/kusto-101-a-jumpstart-guide-to-kql/
 
-## NoSQL
 
-https://en.wikipedia.org/wiki/NoSQL
-
-## CQL
+### CQL
 
 https://cassandra.apache.org/doc/latest/cassandra/cql/
+
+### HiveQL
+
+https://www.tutorialspoint.com/hive/hiveql_select_where.htm
+
+
+### Spark SQL
+
+https://spark.apache.org/sql/
+
+### Apache Drill
+
+https://drill.apache.org/
+
+### Presto
+
+https://prestodb.io/
+
+### Apache Impala
+
+https://impala.apache.org/
+
+### Apache Phoenix
+
+https://phoenix.apache.org/
+
+### Apache Kudu
+
+https://kudu.apache.org/
+
+### Apache Hue
+
+https://github.com/cloudera/hue
 
 ## NewSQL
 
@@ -68,3 +98,8 @@ https://en.wikipedia.org/wiki/NewSQL
 ## Distributed SQL
 
 https://www.cockroachlabs.com/blog/what-is-distributed-sql/
+
+
+### NoSQL
+
+https://en.wikipedia.org/wiki/NoSQL
