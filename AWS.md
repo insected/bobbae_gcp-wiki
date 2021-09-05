@@ -1,6 +1,10 @@
-[AWS](https://aws.amazon.com) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. 
+[AWS](https://aws.amazon.com) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs on a metered pay-as-you-go basis. 
 
 https://en.wikipedia.org/wiki/Amazon_Web_Services
+
+## AWS services
+
+https://www.youtube.com/watch?v=JIbIYCM48to
 
 ## GCP Fundamentals for AWS Professionals
 
