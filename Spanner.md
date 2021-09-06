@@ -147,7 +147,9 @@ Some databases support similar timestamp capabilities [without TrueTime](https:/
 
 
 
+## JSON data type
 
+https://cloud.google.com/blog/products/databases/manage-semi-structured-data-in-cloud-spanner-with-json
 
 
 
