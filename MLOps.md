@@ -25,6 +25,24 @@ Using the Kubeflow configuration interfaces you can specify the ML tools require
 
 [MLflow](https://mlflow.org/)  is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry.
 
+### MLflow Tracking
+
+MLflow Tracking is an API and UI for logging parameters, code versions, metrics and output files when running your machine learning code to later visualize them. 
+
+### MLflow Projects
+
+MLflow Projects provide a standard format for packaging reusable data science code. Each project is simply a directory with code or a Git repository.
+
+### MLflow Models
+
+MLflow Models is a convention for packaging machine learning models in multiple formats called “flavors”. MLflow offers a variety of tools to help you deploy different flavors of models. 
+
+
+### MLflow Model Registry
+
+The MLflow Model Registry component is a centralized model store, set of APIs, and UI, to collaboratively manage the full lifecycle of an MLflow Model. It provides model lineage (which MLflow experiment and run produced the model), model versioning, stage transitions (for example from staging to production), and annotations.
+
+
 
 
 ## Neptune
