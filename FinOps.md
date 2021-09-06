@@ -71,6 +71,14 @@ https://deploy.live/blog/gcp-finops-001-google-cloud-storage-location-location-l
 
 https://deploy.live/blog/serverless-compression-of-gcs-data-with-streaming-golang-google-cloud-function/
 
-### Tutorial: Cost Spike Alerting
+### Tutorials
+
+####  Cost Spike Alerting
 
 https://engineering.premise.com/tutorial-cost-spike-alerting-for-google-cloud-platform-gcp-46fd26ae3f6a
+
+#### Estimate your GKE costs early in the development cycle using GitLab 
+
+
+https://cloud.google.com/architecture/estimate-gke-costs-early-using-gitlab
+
