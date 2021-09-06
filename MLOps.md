@@ -23,14 +23,15 @@ Using the Kubeflow configuration interfaces you can specify the ML tools require
 
 ## MLflow
 
-[MLflow](https://mlflow.org/) is a MLOps platform that was born from learning the standards of Big Tech with the focus on creating transferable knowledge, ease of use, modularity and compatibility with popular ML libraries and frameworks. It was designed for a 1 or 1000+ person organisation. 
+[MLflow](https://mlflow.org/)  is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry.
+
 
 
 ## Neptune
 
 [Neptune](https://neptune.ai/) is a metadata store for MLOps, built for research and production teams that run a lot of experiments. 
 
-It gives you a central place to log, store, display, organize, compare, and query all metadata generated during the machine learning lifecycle
+It gives you a central place to log, store, display, organize, compare, and query all metadata generated during the machine learning lifecycle.
 
 https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 
