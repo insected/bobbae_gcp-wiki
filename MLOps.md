@@ -83,3 +83,7 @@ https://cloud.google.com/vertex-ai/docs/pipelines/introduction
 [TFX](https://www.tensorflow.org/tfx) is an open source project that you can use to define your ML workflow as a pipeline. Currently, TFX components can only train TensorFlow based models. TFX provides components that you can use to ingest and transform data, train and evaluate a model, deploy a trained model for inference, etc. By using the TFX SDK, you can compose a pipeline for your ML process from TFX components.
 
 
+## Spark ML pipeline using Vertex AI Pipelines
+
+https://ivannardini.medium.com/sparkling-vertex-ai-pipeline-cfe6e19334f7
+
