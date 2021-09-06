@@ -44,6 +44,21 @@ The MLflow Model Registry component is a centralized model store, set of APIs, a
 
 
 
+## Vertex Pipelines
+
+https://cloud.google.com/vertex-ai/docs/pipelines/introduction
+
+### Spark ML pipeline using Vertex AI Pipelines
+
+https://ivannardini.medium.com/sparkling-vertex-ai-pipeline-cfe6e19334f7
+
+
+## TFX
+
+[TFX](https://www.tensorflow.org/tfx) is an open source project that you can use to define your ML workflow as a pipeline. Currently, TFX components can only train TensorFlow based models. TFX provides components that you can use to ingest and transform data, train and evaluate a model, deploy a trained model for inference, etc. By using the TFX SDK, you can compose a pipeline for your ML process from TFX components.
+
+https://medium.com/@robertf99/mlops-with-tensorflow-extended-tfx-and-tensorflow-decision-forest-tf-df-part-1-bfa2f61580dc
+
 
 ## Neptune
 
@@ -67,23 +82,9 @@ https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 [MLRun](https://github.com/mlrun/mlrun) is an open-source MLOps framework that offers an integrative approach to managing your machine-learning pipelines from early development through model development to full pipeline deployment in production. MLRun offers a convenient abstraction layer to a wide variety of technology stacks while empowering data engineers and data scientists to define the feature and models.
 
 
-## Vertex Pipelines
-
-https://cloud.google.com/vertex-ai/docs/pipelines/introduction
-
 
 ## ML CICD
 
 [Automating](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) continuous integration (CI), continuous delivery (CD), and continuous training (CT) for machine learning (ML) systems.
 
-
-
-## TFX
-
-[TFX](https://www.tensorflow.org/tfx) is an open source project that you can use to define your ML workflow as a pipeline. Currently, TFX components can only train TensorFlow based models. TFX provides components that you can use to ingest and transform data, train and evaluate a model, deploy a trained model for inference, etc. By using the TFX SDK, you can compose a pipeline for your ML process from TFX components.
-
-
-## Spark ML pipeline using Vertex AI Pipelines
-
-https://ivannardini.medium.com/sparkling-vertex-ai-pipeline-cfe6e19334f7
 
