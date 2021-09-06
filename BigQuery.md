@@ -17,6 +17,11 @@ https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 https://blog.coupler.io/bigquery-tutorial/
 
+
+## Comparisons
+
+https://dzone.com/articles/cloud-data-warehouse-comparison-redshift-vs-bigque
+
 ## Architecture
 
 
