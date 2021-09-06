@@ -35,3 +35,9 @@ https://cloud.google.com/terms/cloud-privacy-notice
 To ensure data privacy [compliance](Compliance), you need to know everything about your data. You need to know where it is, why you have it, and how it’s used. And that’s [data governance](Data Governance) in a nutshell. 
 
 https://www.collibra.com/blog/data-governance-for-data-privacy
+
+## Examples
+
+### Protecting Healthcare data with DLP
+
+https://cloud.google.com/blog/products/identity-security/getting-started-with-dlp-for-healthcare-data
