@@ -227,38 +227,41 @@ https://cloud.google.com/spanner/docs/sql-best-practices
 
 https://cloud.google.com/blog/topics/developers-practitioners/deploying-cloud-spanner-based-nodejs-application
 
+###  Reduce latency with Cloud Spanner multi-region leader placement
+
+https://cloud.google.com/blog/topics/developers-practitioners/reduce-latency-with-cloud-spanner-multi-region-leader-placement
 
 ## Qwiklabs
 
 
 ### Quick Start
 
-[Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1774?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467628)
+[Cloud Spanner: Qwik Start](https://www.qwiklabs.com/focuses/1774)
 
 
 ### Java Client
 
 In this lab, you will set up a Cloud Spanner instance, create a database and schema, then run sample queries on a dataset. Helpful Cloud Spanner information is provided along the way to help you get the most out of this powerful database service.
 
-[Querying Cloud Spanner With a Java Client](https://www.qwiklabs.com/focuses/2189?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467628)
+[Querying Cloud Spanner With a Java Client](https://www.qwiklabs.com/focuses/2189)
 
 
 ### Leaderboard
 
 In this lab, you will learn how to set up a Cloud Spanner instance. You will go through the steps of creating a database and schema that can be used for a gaming leaderboard. You'll start by creating a Players table for storing player information and a Scores table to store player scores.
 
-[Cloud Spanner: Create a Gaming Leaderboard with C#](https://www.qwiklabs.com/focuses/1815?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467628)
+[Cloud Spanner: Create a Gaming Leaderboard with C#](https://www.qwiklabs.com/focuses/1815)
 
 
 ### Backend
 
 In this lab, you develop a backend service for an online Quiz application to process user feedback and save scores.
 
-[App Dev: Developing a Backend Service - Java](https://www.qwiklabs.com/focuses/1128?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467628)
+[App Dev: Developing a Backend Service - Java](https://www.qwiklabs.com/focuses/1128)
 
 
 ### Python
 
 This lab concentrates on the backend service, putting together Pub/Sub, Natural Language, and Spanner services and APIs to collect and analyze feedback and scores from an online Quiz application.
 
-[App Dev: Developing a Backend Service - Python](https://www.qwiklabs.com/focuses/1107?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467628)
+[App Dev: Developing a Backend Service - Python](https://www.qwiklabs.com/focuses/1107)
