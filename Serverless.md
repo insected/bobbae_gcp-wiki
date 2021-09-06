@@ -6,7 +6,9 @@ Build full stack serverless applications with Google Cloud’s storage, database
 
 Easily extend applications with event-driven computing from Google or third-party service integrations. You can even choose to move your serverless workloads to on-premises environments or to the cloud.
 
+## Choosing Serverless Option
 
+https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
 
 
 ## Cloud Run
