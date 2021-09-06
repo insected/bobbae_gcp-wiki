@@ -221,6 +221,11 @@ https://cloud.google.com/spanner/docs/pitr
 
 https://cloud.google.com/spanner/docs/sql-best-practices
 
+## Examples
+
+### Spanner Node.js example with Cloud Run
+
+https://cloud.google.com/blog/topics/developers-practitioners/deploying-cloud-spanner-based-nodejs-application
 
 
 ## Qwiklabs
