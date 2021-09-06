@@ -70,3 +70,7 @@ https://deploy.live/blog/gcp-finops-001-google-cloud-storage-location-location-l
 
 
 https://deploy.live/blog/serverless-compression-of-gcs-data-with-streaming-golang-google-cloud-function/
+
+### Tutorial: Cost Spike Alerting
+
+https://engineering.premise.com/tutorial-cost-spike-alerting-for-google-cloud-platform-gcp-46fd26ae3f6a
