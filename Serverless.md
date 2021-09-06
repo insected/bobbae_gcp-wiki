@@ -53,6 +53,9 @@ https://medium.com/google-cloud/3-great-options-for-persistent-storage-with-clou
 
 https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02cc6
 
+### Django on Cloud Run
+
+https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
 
 
 ## App Engine
