@@ -598,11 +598,11 @@ https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0
 [Term frequency-inverse document frequency](https://www.jeremyjordan.me/identifying-related-bodies-of-text-using-tf-idf-vectorization/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
 
 
-#### Build Text Classification Model using  TF-IDF and NLTK
+### Build Text Classification Model using  TF-IDF and NLTK
 
 https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
 
-#### NLTK
+### NLTK
 
 https://www.nltk.org/book/
 
@@ -612,6 +612,27 @@ https://www.nltk.org/book/
 Bidirectional Encoder Representations from Transformers is described in this [paper](https://arxiv.org/pdf/1810.04805.pdf).
 
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+
+
+### GPT-3 
+
+
+Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. 
+
+https://en.wikipedia.org/wiki/GPT-3
+
+### BERT and GPT-3
+
+https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/
+
+#### Code Editors
+
+https://copilot.github.com/
+
+https://github.com/salesforce/CodeT5
+
+https://github.com/codota/TabNine
+
 
 ### ELMo
 
