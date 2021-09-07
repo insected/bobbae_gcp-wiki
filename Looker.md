@@ -231,6 +231,12 @@ https://looker.qwiklabs.com/focuses/18347?parent=catalog
 
 https://looker.qwiklabs.com/focuses/18348?parent=catalog
 
+
+### Modifying Explorers
+
+https://looker.qwiklabs.com/focuses/18349?parent=catalog
+
+
 ### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
