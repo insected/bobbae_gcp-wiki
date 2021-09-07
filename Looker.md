@@ -28,6 +28,9 @@ Looker for data consumers.
 
 [https://training.looker.com/looker-for-data-consumers](https://training.looker.com/looker-for-data-consumers)
 
+### How Looker generates SQL
+
+https://docs.looker.com/data-modeling/learning-lookml/how-looker-generates-sql
 
 ## LookML
 
