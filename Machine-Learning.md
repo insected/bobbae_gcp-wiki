@@ -619,9 +619,17 @@ https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-fo
 
 Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. 
 
+
 https://en.wikipedia.org/wiki/GPT-3
 
-### BERT and GPT-3
+https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
+
+https://github.com/elyase/awesome-gpt3
+
+https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
+
+
+#### BERT and GPT-3
 
 https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/
 
@@ -641,6 +649,13 @@ ELMo is a deep contextualized word representation that models both (1) complex c
 
 https://allennlp.org/elmo
 
+
+#### BERT and ELMo
+
+
+http://jalammar.github.io/illustrated-bert/
+
+
 ### Transfer Learning
 
 The process of training a model on a large-scale dataset and then using that pre-trained model to process learning for another target task. 
@@ -659,20 +674,6 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 https://jalammar.github.io/illustrated-transformer/
 
-### GPT-3
-
-https://en.wikipedia.org/wiki/GPT-3
-
-https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
-
-https://github.com/elyase/awesome-gpt3
-
-https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
-
-### BERT and ELMo
-
-
-http://jalammar.github.io/illustrated-bert/
 
 ### trends
 
