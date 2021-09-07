@@ -47,6 +47,9 @@ Looker development foundations.
 [https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
 
 
+### Symmetric Aggregation
+
+https://connect.looker.com/lesson/symmetric-aggregation/play
 
 
 ## Training
