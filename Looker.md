@@ -51,6 +51,9 @@ Looker development foundations.
 
 [Symmetric aggregates](https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-) prevent analysts — and anyone else using Looker — from accidentally miscalculating these types of aggregates.
 
+### Maintainable LookML Authoring
+
+https://help.looker.com/hc/en-us/articles/360001784587-Best-Practice-Writing-Sustainable-Maintainable-LookML
 
 ## Training
 
