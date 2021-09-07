@@ -32,6 +32,7 @@ Looker for data consumers.
 
 https://docs.looker.com/data-modeling/learning-lookml/how-looker-generates-sql
 
+
 ## LookML
 
 Defining the language of your business with LookML.
@@ -46,6 +47,8 @@ Looker development foundations.
 [https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
 
 
+
+
 ## Training
 
 
@@ -57,7 +60,9 @@ https://connect.looker.com/
 
 
 
+## Dimension, filter, and parameter types
 
+https://docs.looker.com/reference/field-reference/dimension-type-reference
 
 ## Building Reports in Looker
 
@@ -236,6 +241,9 @@ https://looker.qwiklabs.com/focuses/18348?parent=catalog
 
 https://looker.qwiklabs.com/focuses/18349?parent=catalog
 
+### Filtering Explorers
+
+https://looker.qwiklabs.com/focuses/18350?parent=catalog
 
 ### Exploring Data with Looker
 
