@@ -222,6 +222,10 @@ https://looker.qwiklabs.com/focuses/18346?parent=catalog
 
 https://looker.qwiklabs.com/focuses/18345?parent=catalog
 
+### Creating measures
+
+https://looker.qwiklabs.com/focuses/18347?parent=catalog
+
 ### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
