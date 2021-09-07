@@ -211,6 +211,10 @@ https://github.com/spectacles-ci/spectacles
 
 https://www.qwiklabs.com/catalog?keywords=looker
 
+### Working with Looker content
+
+https://looker.qwiklabs.com/focuses/18346?parent=catalog
+
 ### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
