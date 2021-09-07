@@ -49,7 +49,8 @@ Looker development foundations.
 
 ### Symmetric Aggregation
 
-https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-
+[Symmetric aggregates](https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-) prevent analysts — and anyone else using Looker — from accidentally miscalculating these types of aggregates.
+
 
 ## Training
 
