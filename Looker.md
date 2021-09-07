@@ -49,8 +49,7 @@ Looker development foundations.
 
 ### Symmetric Aggregation
 
-https://connect.looker.com/lesson/symmetric-aggregation/play
-
+https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-
 
 ## Training
 
