@@ -218,6 +218,10 @@ https://www.qwiklabs.com/catalog?keywords=looker
 
 https://looker.qwiklabs.com/focuses/18346?parent=catalog
 
+### Creating dimensions
+
+https://looker.qwiklabs.com/focuses/18345?parent=catalog
+
 ### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
