@@ -215,7 +215,9 @@ https://cloud.google.com/spanner/docs/pitr
 
 [https://cube.dev/blog/category/data-stack/](https://cube.dev/blog/category/data-stack/)
 
+## Using Spanner to store game states
 
+https://cloud.google.com/architecture/best-practices-cloud-spanner-gaming-database
 
 ## Spanner SQL Best practices
 
