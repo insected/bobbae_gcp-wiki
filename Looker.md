@@ -248,6 +248,11 @@ https://looker.qwiklabs.com/focuses/18349?parent=catalog
 
 https://looker.qwiklabs.com/focuses/18350?parent=catalog
 
+
+### Creating LookML Dashboards
+
+https://looker.qwiklabs.com/focuses/18351?parent=catalog
+
 ### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
