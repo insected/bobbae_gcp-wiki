@@ -32,6 +32,13 @@ Looker for data consumers.
 
 https://docs.looker.com/data-modeling/learning-lookml/how-looker-generates-sql
 
+### Explorers
+
+https://docs.looker.com/exploring-data/exploring-data
+
+### Dimensions and Measures
+
+https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/creating-dimensions-and-measures
 
 ## LookML
 
