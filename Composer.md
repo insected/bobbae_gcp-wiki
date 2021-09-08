@@ -107,6 +107,10 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 [https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
 
+## Airflow Executors and Issues
+
+https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660
+
 ## Qwiklabs
 
 ### GSP283
