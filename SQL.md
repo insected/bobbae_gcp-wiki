@@ -93,13 +93,28 @@ https://github.com/cloudera/hue
 
 ## NewSQL
 
-https://en.wikipedia.org/wiki/NewSQL
+[NewSQL](https://en.wikipedia.org/wiki/NewSQL) started from the premise that SQL and the relational model is well known and accepted.  The relational model itself is not a limitation on scale.  The physical implementation of the model has limitations.  NewSQL databases retained all the aspects of the relational model, the predefined schema and the use of SQL, and sought to solve the problem of scale either in-memory or  clever distributed architecture.  In the latter case it may be referred to as [Distributed SQL](https://www.cockroachlabs.com/blog/what-is-distributed-sql/
+).
+
+
 
 ## Distributed SQL
+
+Distributed SQL is a single logical database deployed across multiple physical nodes in a single data center or across many data centers to deliver elastic scale and resilience.
 
 https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 
 
 ### NoSQL
 
-https://en.wikipedia.org/wiki/NoSQL
+[NoSQL](https://en.wikipedia.org/wiki/NoSQL) databases  are non tabular, and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads.
+
+#### Types of NoSQL databases
+
+* Document databases store data in documents similar to JSON (JavaScript Object Notation) objects. Each document contains pairs of fields and values. The values can typically be a variety of types including things like strings, numbers, booleans, arrays, or objects.
+
+* Key-value databases are a simpler type of database where each item contains keys and values. A value can typically only be retrieved by referencing its key, so learning how to query for a specific key-value pair is typically simple. Key-value databases are great for use cases where you need to store large amounts of data.
+
+* Wide-column stores store data in tables, rows, and dynamic columns. Wide-column stores provide a lot of flexibility over relational databases because each row is not required to have the same columns. Many consider wide-column stores to be two-dimensional key-value databases. Wide-column stores are great for when you need to store large amounts of data and you can predict what your query patterns will be.
+
+* Graph databases store data in nodes and edges. Nodes typically store information about people, places, and things while edges store information about the relationships between the nodes. Graph databases excel in use cases where you need to traverse relationships to look for patterns such as social networks, fraud detection, and recommendation engines. 
