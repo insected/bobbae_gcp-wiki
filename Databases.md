@@ -119,7 +119,7 @@ https://www.geeksforgeeks.org/raft-consensus-algorithm/
 
 In Raft, the leader handles inconsistencies by forcing the followers’ logs to duplicate its own. This means that conflicting entries in follower logs will be overwritten with entries from the leader’s log.
 
-## DHT, CRDT and Models for Consistency
+### DHT, CRDT and Models for Consistency
 
 Many real-world systems, even global financial networks, choose availability over consistency, so that people can get on with business. There are different ways to go about this. Some of them, based on ‘coordination protocols’ are complicated to get right; they involve all sorts of special roles and rules.
 
@@ -146,7 +146,7 @@ https://braid.org/
 
 https://jepsen.io/analyses/faunadb-2.5.4
 
-## 8 Fallacies of Distributed Systems
+### 8 Fallacies of Distributed Systems
 
 https://github.com/bobbae/gcp/wiki/Fallacies#8-fallacies-of-distributed-computing
 
