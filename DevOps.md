@@ -31,10 +31,10 @@ https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-p
 
 ### Binary Authorization
 
-Binary Authorization is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE) or Cloud Run. With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
+[Binary Authorization](https://cloud.google.com/binary-authorization) is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE) or Cloud Run. With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
 
 
-https://cloud.google.com/binary-authorization
+
 
 ## DevOps Research and Assessment
 
@@ -66,16 +66,16 @@ Building Kubernetes applications can require spending a lot of time on building 
 
 ### Skaffold
 
-Skaffold handles the workflow for building, pushing and deploying your application.
+[Skaffold](https://skaffold.dev/) handles the workflow for building, pushing and deploying your application.
 
-https://skaffold.dev/
+
 
 [https://www.youtube.com/watch?v=TYx0BTyFtmc](https://www.youtube.com/watch?v=TYx0BTyFtmc)
 
 
 ### Jenkins 
 
-Jenkins is one of the most popular CI systems in the world. 
+[Jenkins](https://www.jenkins.io/) is one of the most popular CI systems in the world. 
 
 [https://www.youtube.com/watch?v=IDoRWieTcMc](https://www.youtube.com/watch?v=IDoRWieTcMc)
 
@@ -85,23 +85,29 @@ https://cloud.google.com/architecture/jenkins-on-kubernetes-engine-tutorial
 
 ### JenkinsX
 
-Jenkins X provides pipeline automation, built-in GitOps.
+[Jenkins X](https://jenkins-x.io/) provides pipeline automation, built-in GitOps.
 
 
-https://jenkins-x.io/
+
 
 Try [this tutorial installing and deploying](https://itnext.io/deploy-a-basic-python-application-using-jenkins-x-kubernetes-4adace2fe345) a python app to kubernetes via jenkins X.
 
 
 ### Spinnaker
 
-Build a container based CI/CD pipeline leveraging Google Cloud Platform  tools along with open source tool Spinnaker for deployment. 
+Use [Spinnaker](https://spinnaker.io/) to build a container based CI/CD pipeline leveraging Google Cloud Platform  tools.
 
 [https://www.youtube.com/watch?v=DQIu373gSKU](https://www.youtube.com/watch?v=DQIu373gSKU)
 
 #### Automating Canary Analysis on Google Kubernetes Engine with Spinnaker
 
 https://cloud.google.com/architecture/automated-canary-analysis-kubernetes-engine-spinnaker
+
+#### Spinnaker vs Jenkins
+
+
+https://www.opsmx.com/blog/jenkins-vs-spinnaker/
+
 
 ### ArgoCD
 
