@@ -270,7 +270,7 @@ https://www.pulumi.com/docs/intro/vs/terraform/
 
 [CDK](https://github.com/hashicorp/terraform-cdk) (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through Terraform.
 
-https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support
+https://cdk.dev/
 
 ### Troposphere
 
