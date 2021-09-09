@@ -142,9 +142,15 @@ https://redis.com/redis-enterprise/technology/active-active-geo-distribution/
 
 https://braid.org/
 
-## Distributed Systems
+### Calvin transaction protocol
+
+https://jepsen.io/analyses/faunadb-2.5.4
+
+## 8 Fallacies of Distributed Systems
 
 https://github.com/bobbae/gcp/wiki/Fallacies#8-fallacies-of-distributed-computing
+
+
 
 ## Database of Databases
 
