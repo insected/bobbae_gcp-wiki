@@ -4,6 +4,13 @@ https://cloud.google.com/managed-microsoft-ad
 
 Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services.
 
+
+https://cloud.google.com/blog/products/identity-security/managed-service-for-microsoft-active-directory-is-ga
+
+Managed Microsoft AD runs actual Microsoft Active Directory domain controllers on Windows virtual machines to ensure application compatibility. The service creates and maintains the domain controllers for you, reducing the maintenance tasks you need to manage.
+
+
+
 ## Domain Services
 
 Active Directory Domain Services (AD DS) is the foundation stone of every Windows domain network. 
