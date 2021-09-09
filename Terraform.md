@@ -32,6 +32,10 @@ Defining and managing your development, test, staging, and production environmen
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
+### Terraform JSON support
+
+https://www.terraform.io/docs/language/syntax/json.html
+
 ### Module
 
 A Terraform module is a set of Terraform configuration files in a single directory. Even a simple configuration consisting of a single directory with one or more .tf files is a module. When you run Terraform commands directly from such a directory, it is considered the root module. So in this sense, every Terraform configuration is part of a module. 
