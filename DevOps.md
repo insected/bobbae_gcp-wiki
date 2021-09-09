@@ -111,7 +111,7 @@ https://www.opsmx.com/blog/jenkins-vs-spinnaker/
 
 ### ArgoCD
 
-Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+[Argo CD](https://argoproj.github.io/argo-cd/) is a declarative, [GitOps](GitOps) continuous delivery tool for Kubernetes.
 
 
 [https://www.youtube.com/watch?v=35Qimb_AZ8U](https://www.youtube.com/watch?v=35Qimb_AZ8U)
