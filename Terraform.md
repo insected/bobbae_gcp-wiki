@@ -15,6 +15,11 @@ https://www.mineiros.io/blog/the-ultimate-guide-on-how-to-write-terraform-module
 
 Terraform's infrastructure-as-code (IAC) approach supports [DevOps](https://cloud.google.com/devops) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
+### Immutable infrastructure
+
+The benefits of an [immutable infrastructure](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure) include more consistency and reliability in your infrastructure and a simpler, more predictable deployment process. 
+
+
 ### HCL
 
 https://www.terraform.io/docs/language/index.html
