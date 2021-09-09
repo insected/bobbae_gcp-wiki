@@ -8,10 +8,13 @@ Active Directory (AD) is a directory service developed by Microsoft for Windows 
 
 Active Directory Domain Services (AD DS) is the foundation stone of every Windows domain network. 
 
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview
 
 ## Directory Services
 
 Active Directory Lightweight Directory Services (AD LDS), formerly known as Active Directory Application Mode (ADAM), is an implementation of LDAP protocol for AD DS.
+
+https://docs.microsoft.com/en-us/previous-versions/windows/desktop/adam/what-is-active-directory-lightweight-directory-services
 
 ### LDAP
 
@@ -23,15 +26,26 @@ https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
 
 Active Directory Certificate Services (AD CS) establishes an on-premises [public key infrastructure](PKI). 
 
+
+https://www.securew2.com/blog/active-directory-certificate-services-ad-cs-explained
+
 ## Federation Services
 
 Active Directory Federation Services (AD FS) is a single sign-on service. 
+
+https://docs.microsoft.com/en-us/windows-server/identity/active-directory-federation-services
 
 ## Rights Management
 
 Active Directory Rights Management Services (AD RMS, known as Rights Management Services or RMS before Windows Server 2008) is a server software for information rights management shipped with Windows Server. 
 
+
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831364(v=ws.11)
+
 ## SIDs
+
+
+Security Identifier (commonly abbreviated SID) is a unique, immutable identifier of a user, user group, or other security principal. A security principal has a single SID for life (in a given domain), and all properties of the principal, including its name, are associated with the SID.
 
 https://en.wikipedia.org/wiki/Security_Identifier
 
