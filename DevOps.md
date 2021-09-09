@@ -85,7 +85,7 @@ https://cloud.google.com/architecture/jenkins-on-kubernetes-engine-tutorial
 
 ### JenkinsX
 
-[Jenkins X](https://jenkins-x.io/) provides pipeline automation, built-in GitOps.
+[Jenkins X](https://jenkins-x.io/) provides pipeline automation, built-in [GitOps](GitOps).
 
 
 
