@@ -44,6 +44,12 @@ https://cloud.google.com/datastore/docs
 
 https://github.com/Abszissex/medium-golang-firestore-emulator
 
+### Emulator Suite
+
+The [Firebase Local Emulator Suite](https://firebase.google.com/docs/emulator-suite) is a set of advanced tools for developers looking to build and test apps locally using Cloud Firestore, Realtime Database, Cloud Storage, Authentication, Cloud Functions, Pub/Sub, and Firebase Hosting. 
+
+
+
 ## Firebase vs Firestore
 
 https://blog.back4app.com/firebase-vs-firestore/
