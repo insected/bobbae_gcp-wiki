@@ -160,6 +160,9 @@ https://www.keboola.com/blog/data-lineage-tools
 
 https://www.guru99.com/data-science-tutorial.html
 
+## JavaScript for Data Science
+
+https://js4ds.org/
 
 ## Data Science related Math
 
