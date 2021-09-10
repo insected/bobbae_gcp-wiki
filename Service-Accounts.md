@@ -22,7 +22,7 @@ If your application runs inside a Google Cloud environment, and you have attache
 
 ## ADC Application Default Credentials
 
-Google Cloud Client Libraries use a library called Application Default Credentials (ADC) to automatically find your service account credentials. ADC looks for service account credentials in the following order
+Google Cloud Client Libraries use a library called [Application Default Credentials](https://cloud.google.com/docs/authentication/production) (ADC) to automatically find your service account credentials. ADC looks for service account credentials in the following order
 
 1. If the environment variable GOOGLE_APPLICATION_CREDENTIALS is set, ADC uses the service account key or configuration file that the variable points to.
 2. If the environment variable GOOGLE_APPLICATION_CREDENTIALS isn't set, ADC uses the service account that is attached to the resource that is running your code.
