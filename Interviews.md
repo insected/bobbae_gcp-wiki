@@ -21,6 +21,44 @@ https://github.com/yangshun/tech-interview-handbook
 https://github.com/DopplerHQ/awesome-interview-questions
 
 
+## Reasoning
+
+https://en.wikipedia.org/wiki/Formative_assessment
+
+https://blog.neuronation.com/en/how-fast-do-you-think-find-out-with-these-5-questions-2/
+
+https://en.wikipedia.org/wiki/Cognitive_reflection_test
+
+https://wikipedia.org/wiki/Look-and-say_sequence
+
+https://www.firstnaukri.com/career-guidance/65-logical-reasoning-questions-and-answers-for-freshers
+
+https://www.123test.com/logical-reasoning-test/
+
+https://www.lsac.org/lsat/taking-lsat/test-format/logical-reasoning/logical-reasoning-sample-questions
+
+https://www.javatpoint.com/reasoning
+
+## Machine Learning
+
+https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+
+https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html
+
+
+## Links
+
+
+
+
+https://github.com/Olshansk/interview
+
+https://www.geeksforgeeks.org/interview-preparation-for-software-developer
+
+https://www.qfles.com/interview-question/
+
+https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
+
 
 
 ## General Computer Science
@@ -33,7 +71,7 @@ https://www.guru99.com/computer-science-interview-questions.html
 
 ## Coding
 
-[Interview Coding](Interview-Coding)
+[Interview questions for Coding](Interview-Coding)
 
 https://www.educative.io/blog/google-coding-interview-questions
 
@@ -76,7 +114,7 @@ https://www.onlineinterviewquestions.com/google-cloud-interview-questions/
 
 ## General Infrastructure
 
-[Interview Infrastructure](Interview-Infrastructure)
+[Interview questions for Infrastructure](Interview-Infrastructure)
 
 
 ## BASICs
@@ -143,12 +181,12 @@ https://ds-interviews.org/
 
 https://www.whizlabs.com/blog/top-machine-learning-interview-questions/
 
-[Data Science](Data-Science)
+[Data Science topics](Data-Science)
 
 ## Data Engineering
 
 
-[Interview Data Engineering](Interview-Data-Engineering)
+[Interview questions for Data Engineering](Interview-Data-Engineering)
 
 ## Cloud
 
@@ -169,7 +207,7 @@ https://www.javatpoint.com/cloud-service-models
 
 ## Security
 
-[Interview Security](Interview-Security)
+[Interview questions for Security](Interview-Security)
 
 ## Frontend
 
@@ -182,12 +220,12 @@ https://www.fullstack.cafe/blog/backend-developer-interview-questions
 ## Networking
 
 
-[Interview Networking](Interview-Networking)
+[Interview questions for Networking](Interview-Networking)
 
 
 ## Storage
 
-[Interview Storage](Interview-Storage)
+[Interview questions for Storage](Interview-Storage)
 
 ## Hardware
 
@@ -201,7 +239,7 @@ https://www.slajobs.com/hardware-and-networking-interview-questions/
 
 Describe what is big endian vs little endian
 
-Examples of CPUs that are big endian
+Examples of CPUs that are big endian: SPARC, MIPS, 68k, DEC Alpha, PA-RISC, IA-64, SuperH
 
 How can you tell whether a computer is big endian or not programmatically?
 
@@ -230,6 +268,7 @@ int main()
 If this prints `67 45 23 01` then little endian.  If you get `01 23 45 67` then big endian.
 
 ### Why does the endianness matter?
+
 What happens when you write a binary file on big endian machine and
 read it back in little endian machine?
 
@@ -237,11 +276,21 @@ what happens when you write non-binary data, e.g. ASCII, or UTF-8 data, into the
 
 What needs to be done for binary data in the IP header read from network?
 
+https://eli.thegreenplace.net/2005/11/22/when-bit-endianness-matters
+
 ## why do modern computers use two's compliment representation
 
 https://en.wikipedia.org/wiki/Two%27s_complement
 
+https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
+
 https://stackoverflow.com/questions/1125304/why-prefer-twos-complement-over-sign-and-magnitude-for-signed-numbers
+
+https://www.geeksforgeeks.org/difference-between-1s-complement-representation-and-2s-complement-representation-technique/?ref=rp
+
+## IEEE 754 floating point standard
+
+https://www.cs.cornell.edu/~tomf/notes/cps104/floating.html
 
 ## what is "Turing complete"
 
@@ -253,15 +302,20 @@ https://en.wikipedia.org/wiki/Turing_completeness
 https://www.thecrazyprogrammer.com/2019/02/difference-between-von-neumann-and-harvard-architecture.html
 
 ## RISC vs CISC
+
 https://www.microcontrollertips.com/risc-vs-cisc-architectures-one-better/
 
 ## example of RISC
 
 https://binaryterms.com/risc-processor.html
 
+https://www.cs.cornell.edu/~tomf/notes/cps104/rmi.html
+
+https://www.cs.cornell.edu/~tomf/notes/cps104/mips.html
+
 ### Classic RISC  pipeline
 
-Why?
+Why RISC?
 
 https://en.wikipedia.org/wiki/Classic_RISC_pipeline
 
@@ -271,6 +325,7 @@ https://en.wikipedia.org/wiki/Classic_RISC_pipeline
 https://quizizz.com/admin/quiz/5ab28f10ba09bf0019b2b33a/cpu-cores
 
 ## What is SIMD?
+
 http://ftp.cvut.cz/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html
 
 
@@ -289,6 +344,16 @@ https://intellipaat.com/blog/interview-question/statistics-interview-questions/
 https://www.kdnuggets.com/2020/01/data-science-interview-study-guide.html
 
 https://www.analyticsvidhya.com/blog/2021/04/25-probability-and-statistics-questions-to-ace-your-data-science-interviews/
+
+https://www.statisticsdonewrong.com/
+
+### p-value
+
+https://www.statisticsdonewrong.com/data-analysis.html#the-power-of-p-values
+
+https://www.statisticsdonewrong.com/p-value.html
+
+
 
 ## Math
 
@@ -316,7 +381,7 @@ https://wikipedia.org/wiki/E_(mathematical_constant)
 
 ## DevOps
 
-[Interview DevOps](Interview-DevOps)
+[Interview questions for DevOps](Interview-DevOps)
 
 https://github.com/bregman-arie/devops-exercises
 
@@ -324,39 +389,18 @@ https://github.com/bregman-arie/devops-exercises
 
 http://biotech.fyicenter.com/resource/Bioinformatics_Interview_Questions_and_Answers.html
 
-## Reasoning
+### What Technique Is Used To Measure The Number Of Copies Of A Gene Or An Rna Molecule In Human Tissues?
 
-https://blog.neuronation.com/en/how-fast-do-you-think-find-out-with-these-5-questions-2/
+Answer :
 
-https://en.wikipedia.org/wiki/Cognitive_reflection_test
+PCR or polymerase chain reaction in real time, as opposed to the conventional method, because the number of copies of the target molecule can be monitored for each PCR cycle.
 
-https://wikipedia.org/wiki/Look-and-say_sequence
+### How Much Template Do You Need For Sequencing?
 
-https://www.firstnaukri.com/career-guidance/65-logical-reasoning-questions-and-answers-for-freshers
+Answer :
 
-https://www.123test.com/logical-reasoning-test/
+For PCR product size of product(bp)/50 = ng DNA. For plasmid up to 10.0 kb 250-300 ng. For genomic DNA 2.0 microgram.
 
-https://www.lsac.org/lsat/taking-lsat/test-format/logical-reasoning/logical-reasoning-sample-questions
+### What is PCR Covid test?
 
-https://www.javatpoint.com/reasoning
-
-## Machine Learning
-
-https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
-
-https://www.kdnuggets.com/2021/01/popular-machine-learning-interview-questions.html
-
-
-## Links
-
-
-
-
-https://github.com/Olshansk/interview
-
-https://www.geeksforgeeks.org/interview-preparation-for-software-developer
-
-https://www.qfles.com/interview-question/
-
-https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
-
+https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900
