@@ -64,5 +64,8 @@ Another resource is [Cloud Academy](https://cloudacademy.com/) which has their o
 
 You can review the [Syllabus](Syllabus) and [Schedules](Schedules).
 
+## Code of Conduct
+
+In the interest of fostering an open and safe environment, participants pledge to follow the [Code of Conduct](Code-of-Conduct).
 
 <!--- https://www.gratisexam.com/google-certification/ -->
