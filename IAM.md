@@ -7,13 +7,9 @@ Limiting the use of service accounts and service account keys to situations in w
 
 ## Access Control 
 
-Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer roles to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the Owner, Editor, and Viewer roles. 
+Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer [roles](https://cloud.google.com/iam/docs/understanding-roles) to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the [Owner, Editor, and Viewer roles](https://cloud.google.com/iam/docs/understanding-roles#basic-definitions). 
 
-## Identity and Access
 
-In general, the term IAM as in Identity and access management (IAM or IdAM for short) is a way to tell who a user is and what they are allowed to do. IAM is like the bouncer at the door of a nightclub with a list of who is allowed in, who isn't allowed in, and who is able to access the VIP area. IAM is also called identity management (IdM).
-
-You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
 
 ## How IAM works
 
