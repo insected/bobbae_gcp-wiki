@@ -115,14 +115,14 @@ Usenet  is a worldwide distributed discussion system available on computers. It 
 
 IAM uses Recommender to compare role grants with the permissions that each member used during the past 90 days. If you grant a role to a member, and the member does not use all of that role's permissions, then the IAM recommender is likely to recommend that you revoke the role. If necessary, the IAM recommender also recommends less permissive roles as a replacement. This suggested replacement could be a new custom role, an existing custom role, or one or more predefined roles. Except in the case of recommendations for Google-managed service accounts, the IAM recommender never suggests a change that increases a member's level of access.
 
-
+https://cloud.google.com/iam/docs/recommender-overview
 
 ### Managing insights
 
 In addition to providing recommendations, Recommender uses machine learning (ML) to provide detailed insights. [Insights](https://cloud.google.com/iam/docs/managing-insights) are findings that highlight notable patterns in resource usage. For example, you can collect additional information about permission usage in your project, or identify unused service accounts. Some insights also link to recommendations, because the insights provide evidence for the recommendations.
 
 
-
+https://cloud.google.com/iam/docs/manage-service-account-insights
 
 
 ## Audit
