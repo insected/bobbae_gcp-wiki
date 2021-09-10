@@ -144,6 +144,14 @@ Google Cloud services [write audit logs](https://cloud.google.com/iam/docs/audit
 
 https://cloud.google.com/iam/docs/managing-conditional-role-bindings
 
+## Searching policies
+
+https://cloud.google.com/asset-inventory/docs/searching-iam-policies
+
+## Linting policies
+
+https://cloud.google.com/iam/docs/linting-policies
+
 
 ## Troubleshooting policy and access problems on Google Cloud
 
