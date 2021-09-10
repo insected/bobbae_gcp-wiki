@@ -42,7 +42,22 @@ The [IAM policy](https://cloud.google.com/iam/docs/overview#cloud-iam-policy) bi
 
 Large organizations often have complicated Identity and Access Management (IAM) policies. [Policy Intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)  help you understand and manage your policies to proactively improve your security configuration.
 
+## Service Accounts
 
+
+A service account is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
+
+
+
+https://cloud.google.com/iam/docs/service-accounts
+
+
+
+## Service agents
+
+Some Google Cloud services have Google-managed service accounts that allow the services to access your resources. These service accounts are sometimes known as service agents.
+
+https://cloud.google.com/iam/docs/service-agents
 
 
 ## Granular Access
