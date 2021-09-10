@@ -140,6 +140,11 @@ Google Cloud services [write audit logs](https://cloud.google.com/iam/docs/audit
 
 [A tag is a key-value pair](https://cloud.google.com/iam/docs/tags-access-control) that is attached to an organization, folder, or project. You can [conditionally grant IAM roles](https://cloud.google.com/iam/docs/conditions-overview) based on whether a resource has a specific tag.
 
+## Conditional access
+
+https://cloud.google.com/iam/docs/managing-conditional-role-bindings
+
+
 ## Troubleshooting policy and access problems on Google Cloud
 
 https://cloud.google.com/architecture/troubleshooting-policy-and-access-problems
