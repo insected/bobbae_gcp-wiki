@@ -19,7 +19,7 @@ In IAM, permission to access a resource isn't granted directly to the end user. 
 
 #### Member
 
-A member can be a Google Account (for end users), a service account (for apps and virtual machines), a Google group, or a Google Workspace or Cloud Identity domain that can access a resource. The identity of a member is an email address associated with a user, service account, or Google group; or a domain name associated with Google Workspace or Cloud Identity domains.
+A member can be a Google Account (for end users), a [service account](Service-Accounts) (for apps and virtual machines), a Google group, or a Google Workspace or Cloud Identity domain that can access a resource. The identity of a member is an email address associated with a user, service account, or Google group; or a domain name associated with Google Workspace or Cloud Identity domains.
 
 
 #### Role
@@ -45,7 +45,7 @@ Large organizations often have complicated Identity and Access Management (IAM) 
 ## Service Accounts
 
 
-A service account is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
+A [service account](Service-Accounts) is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
 
 
 
