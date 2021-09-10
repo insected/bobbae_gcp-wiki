@@ -595,6 +595,14 @@ https://carpentries.github.io/instructor-training/
 
 https://b-ok.cc/book/996254/b90af3
 
+### Patrick Winston - How to speak
 
+The success in life will be determined largely by your ability to speak, your ability to write, and the quality of your ideas, in that order.
+
+https://www.youtube.com/watch?v=Unzc731iCUY
+
+### Eschatological Laundry List
+
+https://edgestudio.com/script/an-eschatological-laundry-list/
 
 -->
