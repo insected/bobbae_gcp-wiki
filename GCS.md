@@ -135,6 +135,10 @@ While an object has a hold placed on it, the object cannot be deleted or replace
 
 https://cloud.google.com/storage/docs/object-holds
 
+## CORS
+
+https://cloud.google.com/storage/docs/cross-origin
+
 ## Use cases
 
 ### Hosting a static website
