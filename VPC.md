@@ -8,14 +8,6 @@ VPC provides networking for your cloud-based services that is global, scalable, 
 
 
 
-
-## Migrate from on-prem to cloud using VPC
-
-[https://www.youtube.com/watch?v=cNb7xKyya5c](https://www.youtube.com/watch?v=cNb7xKyya5c)
-
-
-## VPC Deep Dive
-
 [https://www.youtube.com/watch?v=wmP6SQe5J7g](https://www.youtube.com/watch?v=wmP6SQe5J7g)
 
 Google Cloud Virtual Private Cloud (VPC) Network Peering allows private connectivity across two VPC networks regardless of whether or not they belong to the same project or the same organization.
@@ -25,6 +17,13 @@ Google Cloud Virtual Private Cloud (VPC) Network Peering allows private connecti
 A Virtual Private Cloud (VPC) network is a virtual version of a physical network, [implemented inside of Google's production network, using Andromeda](https://cloud.google.com/vpc/docs/vpc).
 
 Cloud Platform firewalls, routing, and forwarding rules all leverage the underlying internal [Andromeda]( https://cloud.google.com/blog/products/gcp/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack) APIs and infrastructure.
+
+
+
+## Migrate from on-prem to cloud using VPC
+
+[https://www.youtube.com/watch?v=cNb7xKyya5c](https://www.youtube.com/watch?v=cNb7xKyya5c)
+
 
 
 ## Shared VPC and VPC Peering
