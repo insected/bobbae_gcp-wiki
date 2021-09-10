@@ -38,6 +38,9 @@ Static web pages can contain client-side technologies such as HTML, CSS, and Jav
 
 https://cloud.google.com/storage/docs/hosting-static-website
 
+## Composite objects
+
+https://cloud.google.com/storage/docs/composite-objects
 
 ## Metadata
 
