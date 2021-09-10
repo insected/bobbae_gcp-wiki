@@ -579,6 +579,22 @@ https://www.media.mit.edu/publications/practice-of-change/
 
 ### Towards a hermeneutic definition of software
 
+
 https://www.nature.com/articles/s41599-020-00565-0
+
+
+### Teaching Tech Together
+
+https://teachtogether.tech/en/index.html
+
+### Carpentries Instructor Training
+
+https://carpentries.github.io/instructor-training/
+
+### Teaching what you don't know
+
+https://b-ok.cc/book/996254/b90af3
+
+
 
 -->
