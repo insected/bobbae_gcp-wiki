@@ -5,6 +5,16 @@
 
 Limiting the use of service accounts and service account keys to situations in which [they're absolutely necessary](https://cloud.google.com/blog/products/identity-security/how-to-authenticate-service-accounts-to-help-keep-applications-secure) keeps user data more secure, reduces the chance of unauthorized activity, and makes it easier to use audit logs to determine which users performed certain operations.
 
+## Access Control 
+
+Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer roles to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the Owner, Editor, and Viewer roles. 
+
+## Identity and Access
+
+In general, the term IAM as in Identity and access management (IAM or IdAM for short) is a way to tell who a user is and what they are allowed to do. IAM is like the bouncer at the door of a nightclub with a list of who is allowed in, who isn't allowed in, and who is able to access the VIP area. IAM is also called identity management (IdM).
+
+You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
+
 ## How IAM works
 
 With [IAM](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works), you manage access control by defining who (identity) has what access (role) for which resource. For example, Compute Engine virtual machine instances, Google Kubernetes Engine (GKE) clusters, and Cloud Storage buckets are all Google Cloud resources. The organizations, folders, and projects that you use to organize your resources are also resources.
@@ -78,15 +88,7 @@ Cloud Identity and Access Management (IAM) lets administrators authorize who can
 
 https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
 
-## Access Control 
 
-Cloud IAM provides a simple and consistent access control interface for all Google Cloud services. Learn one access control interface and apply that knowledge to all Google Cloud resources. Prior to Cloud IAM, you could only grant Owner, Editor, or Viewer roles to users. A wide range of services and resources now surface additional Cloud IAM roles out of the box. For example, the Pub/Sub service exposes Publisher and Subscriber roles in addition to the Owner, Editor, and Viewer roles. Create and manage Cloud IAM policies using the Google Cloud Console, the Cloud IAM methods, and the `gcloud` command line tool.
-
-## Identity and Access
-
-In general, the term IAM as in Identity and access management (IAM or IdAM for short) is a way to tell who a user is and what they are allowed to do. IAM is like the bouncer at the door of a nightclub with a list of who is allowed in, who isn't allowed in, and who is able to access the VIP area. IAM is also called identity management (IdM).
-
-You can set an IAM policy (roles) at the organization level, the folder level, the project level, or (in some cases) on the service-level resource.
 
 ## Concepts related to identity
 
