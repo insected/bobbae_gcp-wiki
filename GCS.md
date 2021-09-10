@@ -51,6 +51,10 @@ https://cloud.google.com/storage/docs/viewing-editing-metadata
 
 https://cloud.google.com/storage/docs/pubsub-notifications
 
+## Access control
+
+https://cloud.google.com/storage/docs/access-control
+
 ## Access logs
 
 https://cloud.google.com/storage/docs/access-logs
