@@ -1,5 +1,12 @@
+Local development with Local Emulator Suite can be a good fit for your prototyping, development and continuous integration workflows.
+
+
 https://cloud.google.com/sdk/gcloud/reference/beta/emulators
 
+
+## Emulator Suite
+
+https://firebase.google.com/docs/emulator-suite/connect_and_prototype
 
 ## Firebase
 
