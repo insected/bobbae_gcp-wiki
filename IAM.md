@@ -21,7 +21,7 @@ With [IAM](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works), you 
 
 ### IAM Model
 
-In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into roles, and roles are granted to authenticated members. An IAM policy defines and enforces what roles are granted to which members, and this policy is attached to a resource. When an authenticated member attempts to access a resource, IAM checks the resource's policy to determine whether the action is permitted.
+In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into [roles](https://cloud.google.com/iam/docs/understanding-roles), and roles are granted to authenticated members. An IAM [policy](https://cloud.google.com/iam/docs/policies) defines and enforces what roles are granted to which members, and this policy is attached to a resource. When an authenticated member attempts to access a resource, IAM checks the resource's policy to determine whether the action is permitted.
 
 
 
@@ -40,7 +40,9 @@ A [role](https://cloud.google.com/iam/docs/understanding-roles) is a collection 
 https://cloud.google.com/iam/docs/understanding-roles
 
 
+#### Custom roles
 
+https://cloud.google.com/iam/docs/understanding-custom-roles
 
 #### Policy
 
@@ -84,7 +86,7 @@ https://cloud.google.com/resource-manager/docs/access-control-proj
 ## Resources
 
 
-Cloud Identity and Access Management (IAM) lets administrators authorize who can take action on specific resources, giving you full control and visibility to manage Google Cloud resources centrally. For enterprises with complex organizational structures, hundreds of workgroups, and many projects, Cloud IAM provides a unified view into security policy across your entire organization, with built-in auditing to ease compliance processes. 
+Cloud Identity and Access Management (IAM) lets administrators authorize who can take action on specific resources, giving you full control and visibility to manage Google Cloud resources centrally. For enterprises with complex organizational structures, hundreds of workgroups, and many projects, Cloud IAM provides a unified view into security policy across your entire organization, with built-in [auditing](https://cloud.google.com/iam/docs/audit-logging)  to ease compliance processes. 
 
 [https://www.youtube.com/watch?v=96HlT4f2AUU](https://www.youtube.com/watch?v=96HlT4f2AUU)
 
@@ -134,7 +136,7 @@ https://cloud.google.com/iam/docs/manage-service-account-insights
 
 ## Audit
 
-Google Cloud services [write audit logs](https://cloud.google.com/iam/docs/audit-logging) to help you answer the questions, "Who did what, where, and when?" Your Cloud projects contain only the audit logs for resources that are directly within the project. Other entities, such as folders, organizations, and Cloud Billing accounts, contain the audit logs for the entity itself.
+Google Cloud services write [audit logs](https://cloud.google.com/iam/docs/audit-logging) to help you answer the questions, "Who did what, where, and when?" Your Cloud projects contain only the audit logs for resources that are directly within the project. Other entities, such as folders, organizations, and Cloud Billing accounts, contain the audit logs for the entity itself.
 
 
 ## IAM Conditions
