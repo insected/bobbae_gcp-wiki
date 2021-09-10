@@ -559,7 +559,19 @@ https://www.vaultproject.io/docs/secrets/gcp
 
 https://registry.terraform.io/providers/hashicorp/vault/latest/docs
 
+## BYOD
 
+### Managed Devices
+
+https://cloud.google.com/identity/docs/concepts/managed-devices
+
+### G Suite and BYOD
+
+https://cloud.google.com/blog/products/g-suite/use-byod-safely-in-g-suite-with-these-6-controls-
+
+### Endpoint verification
+
+https://cloud.google.com/blog/products/gcp/introducing-endpoint-verification-visibility-into-the-desktops-accessing-your-enterprise-applications
 
 
 ## ACL
@@ -692,6 +704,8 @@ https://geekflare.com/cyberattack-simulation-tools/
 ### CrowdSec
 
 [CrowdSec](  https://github.com/crowdsecurity/crowdsec ) - an open-source massively multiplayer firewall able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global IP reputation database to protect the user network.
+
+
 
 ## Qwiklabs
 
