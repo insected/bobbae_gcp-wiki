@@ -35,14 +35,19 @@ A member can be a Google Account (for end users), a [service account](Service-Ac
 #### Role
 
 
-A role is a collection of permissions. Permissions determine what operations are allowed on a resource. When you grant a role to a member, you grant all the permissions that the role contains.
+A [role](https://cloud.google.com/iam/docs/understanding-roles) is a collection of permissions. Permissions determine what operations are allowed on a resource. When you grant a role to a member, you grant all the permissions that the role contains.
 
 https://cloud.google.com/iam/docs/understanding-roles
+
+
+
 
 #### Policy
 
 
-The [IAM policy](https://cloud.google.com/iam/docs/overview#cloud-iam-policy) binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a [policy](https://cloud.google.com/iam/docs/policies) and attach it to the resource.
+The [IAM policy](https://cloud.google.com/iam/docs/policies) binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a [policy](https://cloud.google.com/iam/docs/policies) and attach it to the resource.
+
+Access control for Google Cloud resources is managed by Identity and Access Management (IAM) policies, which are attached to resources. You can attach only one IAM policy to each resource. The IAM policy controls access to the resource itself, as well as any descendants of that resource that inherit the policy.
 
 
 
