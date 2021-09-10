@@ -46,6 +46,14 @@ https://cloud.google.com/iam/docs/workload-identity-federation#impersonation
 
 https://cloud.google.com/iam/docs/best-practices-for-securing-service-accounts
 
+
+
+## Service agents
+
+Some Google Cloud services have Google-managed service accounts that allow the services to access your resources. These service accounts are sometimes known as service agents.
+
+https://cloud.google.com/iam/docs/service-agents
+
 ## Best Practices
 
 Service accounts represent non-human users. They're intended for scenarios where a workload, such as a custom application, needs to access resources or perform actions without end-user involvement. Service accounts can be used for many different purposes, but they aren't always the best choice.
