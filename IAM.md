@@ -101,7 +101,7 @@ In [IAM you grant access](https://cloud.google.com/iam/docs/overview#concepts_re
 
 Google Groups became operational in February 2001, following Google's acquisition of Deja's Usenet archive. Deja News had been operational since March 1995.
 
-Usenet  is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980.
+[Usenet](https://en.wikipedia.org/wiki/Usenet)  is a worldwide distributed discussion system available on computers. It was developed from the general-purpose Unix-to-Unix Copy (UUCP) dial-up network architecture. Tom Truscott and Jim Ellis conceived the idea in 1979, and it was established in 1980.
 
 
 
