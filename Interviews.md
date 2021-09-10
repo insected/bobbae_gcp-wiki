@@ -404,3 +404,19 @@ For PCR product size of product(bp)/50 = ng DNA. For plasmid up to 10.0 kb 250-3
 ### What is PCR Covid test?
 
 https://www.mayoclinic.org/tests-procedures/covid-19-diagnostic-test/about/pac-20488900
+
+### What is PCR?
+
+https://en.wikipedia.org/wiki/Polymerase_chain_reaction
+
+### What is CRISPR?
+
+https://en.wikipedia.org/wiki/CRISPR
+
+### What is DNA Sequencing?
+
+https://en.wikipedia.org/wiki/DNA_sequencing
+
+### What is DNA Synthesis?
+
+https://en.wikipedia.org/wiki/DNA_synthesis
