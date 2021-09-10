@@ -16,6 +16,21 @@ Service accounts are associated with private/public RSA key-pairs that are used 
 
 If your application runs in a Google Cloud environment that has a default service account, your application can use the credentials for the default service account to call Google Cloud APIs. Alternatively, you can create your own user-managed service account and use it to authenticate. 
 
+https://cloud.google.com/iam/docs/service-accounts#default
+
+## Google managed service accounts
+
+https://cloud.google.com/iam/docs/service-accounts#google-managed
+
+## Service account locations
+
+https://cloud.google.com/iam/docs/service-accounts#locations
+
+## Short lived service account credentials
+
+https://cloud.google.com/iam/docs/service-accounts#short-lived_service_account_credentials
+
+
 ## Finding credentials automatically
 
 If your application runs inside a Google Cloud environment, and you have attached a service account to that environment, your application can retrieve credentials for the service account. The application can then use the credentials to call Google Cloud APIs.
@@ -41,6 +56,15 @@ The token exchange flow returns a [federated access token](https://cloud.google.
 
 
 https://cloud.google.com/iam/docs/workload-identity-federation#impersonation
+
+
+## Workload identity federation
+
+You can use identity federation with Amazon Web Services (AWS), or with any identity provider that supports OpenID Connect (OIDC), such as Microsoft Azure.
+
+
+https://cloud.google.com/iam/docs/workload-identity-federation
+
 
 ## Securing Service Accounts
 
