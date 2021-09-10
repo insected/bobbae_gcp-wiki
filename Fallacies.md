@@ -6,6 +6,10 @@ https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-
 
 <!-- ## Failure
 
+### Tyranny of Structurelessness
+
+https://www.wired.com/story/silicon-valley-tyranny-of-structurelessness/
+
 ### The Fallacy of Failing Fast
 
 https://manuelstagars.com/the-fallacy-of-failing-fast/
