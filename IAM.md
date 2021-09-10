@@ -143,3 +143,7 @@ Google Cloud services [write audit logs](https://cloud.google.com/iam/docs/audit
 https://cloud.google.com/architecture/troubleshooting-policy-and-access-problems
 
 https://cloud.google.com/architecture/troubleshooting-policy-and-access-problems-use-cases
+
+## Securing the pipeline from your data lake to your data warehouse
+
+https://cloud.google.com/architecture/help-secure-the-pipeline-from-your-data-lake-to-your-data-warehouse
