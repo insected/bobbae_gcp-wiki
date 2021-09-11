@@ -23,3 +23,11 @@ https://public.tableau.com/app/profile/momentive/viz/DEIatWork/DEIatWork
 https://en.m.wikipedia.org/wiki/Diversity_training
 
 
+### Illusory truth effect
+
+
+https://heterodoxacademy.org/blog/diversity-related-training-what-is-it-good-for/
+
+### Cognitive dissonance
+
+https://ethics.harvard.edu/blog/why-diversity-management-backfires-and-how-firms-can-make-it-work
