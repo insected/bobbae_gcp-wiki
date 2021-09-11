@@ -31,3 +31,5 @@ https://heterodoxacademy.org/blog/diversity-related-training-what-is-it-good-for
 ### Cognitive dissonance
 
 https://ethics.harvard.edu/blog/why-diversity-management-backfires-and-how-firms-can-make-it-work
+
+https://hbr.org/2016/07/why-diversity-programs-fail
