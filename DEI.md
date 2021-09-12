@@ -32,3 +32,11 @@ https://heterodoxacademy.org/blog/diversity-related-training-what-is-it-good-for
 
 https://ethics.harvard.edu/blog/why-diversity-management-backfires-and-how-firms-can-make-it-work
 
+### Multiculturalism Increases Race Essentialism
+
+https://journals.sagepub.com/doi/10.1177/1948550618780728
+
+
+### Why diversity programs fail
+
+https://hbr.org/2016/07/why-diversity-programs-fail
