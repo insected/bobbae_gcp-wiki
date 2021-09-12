@@ -119,6 +119,10 @@ to build and deploy ML powered applications.
 
 [https://www.youtube.com/watch?v=2kSo7Az4ZOs](https://www.youtube.com/watch?v=2kSo7Az4ZOs)
 
+## R
+
+https://www.tidyverse.org/
+
 
 ## Keras
 
@@ -149,6 +153,9 @@ to build and deploy ML powered applications.
 ## Data Science at Command Line
 
 You may become a more efficient and productive data scientist by teaching you how to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
+
+
+https://www.datascienceatthecommandline.com/
 
 ## Data Lineage
 
