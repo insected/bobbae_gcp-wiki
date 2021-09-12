@@ -116,7 +116,41 @@ https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orc
 
 [Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
-## Example to use GCP Workflows to load data from GCS to BigQuery
+
+
+### Bioinformatics workflow tools
+
+https://github.com/danielecook/Awesome-Bioinformatics#workflow-managers
+
+
+
+#### Pipelines
+
+
+https://github.com/danielecook/Awesome-Bioinformatics#pipelines
+
+### Using Makefile for workflows
+
+https://blog.sellorm.com/2018/06/02/first-steps-with-data-pipelines/
+
+#### Reproducibility with Make
+
+https://the-turing-way.netlify.app/reproducible-research/make.html
+
+#### Make tutorial
+
+https://github.com/kyclark/make-tutorial
+
+
+## Examples
+
+### Use GCP Workflows to load data from GCS to BigQuery
 
 
 https://cloud.google.com/architecture/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows
+
+
+
+### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
+
+Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
