@@ -51,6 +51,8 @@ AutoML Translation  lets you to create your own, custom translation models so th
 
 https://cloud.google.com/translate/automl/docs
 
+[Cloud Translation - Advanced](https://cloud.google.com/translate/docs/intro-to-v3) is part of the [Cloud Translation service](https://cloud.google.com/translate) that provides support for glossaries, batch requests, and AutoML models.
+
 
 ## AutoML Tables
 
