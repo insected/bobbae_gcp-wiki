@@ -20,31 +20,32 @@ https://cloud.google.com/blog/topics/research/6-tips-on-how-to-build-dei-into-yo
 
 https://diversity.google/annual-report/representation/
 
+### Risk
 
-### The Workplace DEI Disconnect
+#### The Workplace DEI Disconnect
 
 https://public.tableau.com/app/profile/momentive/viz/DEIatWork/DEIatWork
 
 
-### Diversity training
+#### Diversity training
 
 https://en.m.wikipedia.org/wiki/Diversity_training
 
 
-### Illusory truth effect
+#### Illusory truth effect
 
 
 https://heterodoxacademy.org/blog/diversity-related-training-what-is-it-good-for/
 
-### Cognitive dissonance
+#### Cognitive dissonance
 
 https://ethics.harvard.edu/blog/why-diversity-management-backfires-and-how-firms-can-make-it-work
 
-### Multiculturalism Increases Race Essentialism
+#### Multiculturalism Increases Race Essentialism
 
 https://journals.sagepub.com/doi/10.1177/1948550618780728
 
 
-### Why diversity programs fail
+#### Why diversity programs fail
 
 https://hbr.org/2016/07/why-diversity-programs-fail
