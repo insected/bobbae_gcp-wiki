@@ -89,7 +89,7 @@ https://github.com/GoogleCloudPlatform/vertex-ai-samples
 ## Vertex Pipelines
 
 
-[MLOps](MLOps) is the practice of applying DevOps strategies to [Machine Learning](Machine-Learning) systems. DevOps strategies let you efficiently build and release code changes, and monitor systems to ensure you meet your reliability goals. MLOps extends this practice to help you reduce the amount of time that it takes to reliably go from data ingestion to deploying your model in production, in a way that lets you monitor and understand your ML system.
+[MLOps](MLOps) is the practice of applying [DevOps](DevOps) strategies to [Machine Learning](Machine-Learning) systems. DevOps strategies let you efficiently build and release code changes, and monitor systems to ensure you meet your reliability goals. MLOps extends this practice to help you reduce the amount of time that it takes to reliably go from data ingestion to deploying your model in production, in a way that lets you monitor and understand your ML system.
 
 [Vertex Pipelines](https://cloud.google.com/vertex-ai/docs/pipelines) helps you to automate, monitor, and govern your ML systems by orchestrating your ML workflow in a serverless manner, and storing your workflow's artifacts using Vertex ML Metadata. By storing the artifacts of your ML workflow in Vertex ML Metadata, you can analyze the lineage of your workflow's artifacts — for example, an ML model's lineage may include the training data, hyperparameters, and code that were used to create the model.
 
