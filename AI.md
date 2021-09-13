@@ -197,6 +197,10 @@ https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
 
 https://arxiv.org/pdf/2007.05558.pdf
 
+### Bias
+
+https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out
+
 ### War
 
 https://amp.theatlantic.com/amp/article/620013/
