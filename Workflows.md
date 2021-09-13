@@ -117,7 +117,6 @@ Google Cloud Platform offers a number of tools and services for orchestration:
 
 https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
 
-https://cloud.google.com/blog/products/data-analytics/cloud-composer-is-now-in-beta-build-and-run-practical-workflows-with-minimal-effort
 
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
