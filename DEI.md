@@ -1,5 +1,5 @@
 When people feel connected and proud, they feel empowered to
-innovate and do their best work. By comparison, when people don’t feel
+innovate and do their best work. If people don’t feel
 like they belong, it takes a massive toll at every level of an organization.
 When we don’t feel free to be ourselves, we waste energy on trying to
 fit in instead of sharing and contributing value.
