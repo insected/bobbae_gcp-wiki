@@ -181,3 +181,5 @@ https://www.guru99.com/bigdata-tutorials.html
 ### Hadoop dissent
 
 https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+
+https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
