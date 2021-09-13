@@ -103,7 +103,7 @@ https://towardsdatascience.com/the-best-of-both-worlds-calling-auto-ml-from-bigq
 #### Choosing between AutoML Tables and BigQueryML
 
 
-You might want to use [BigQuery ML](https://cloud.google.com/bigquery-ml/docs) if you are more focused on rapid experimentation or iteration with what data to include in the model and want to use simpler model types for this purpose (such as logistic regression).
+You might want to use [BigQuery ML](BigQuery-ML) if you are more focused on rapid experimentation or iteration with what data to include in the model and want to use simpler model types for this purpose (such as logistic regression).
 
 You might want to work directly in the AutoML Tables interface if you have already finalized the data, and you:
 
@@ -177,7 +177,7 @@ https://github.com/GoogleCloudPlatform/ai-platform-samples/blob/master/notebooks
 
 ### When to use AutoML vs others
 
-Use [BigQuery ML](https://cloud.google.com/bigquery-ml/docs) for easy, low-cost machine learning and quick experimentation to see if ML is viable on your data. Sometimes, the accuracy you get with BQML is sufficient, and you will simply stop here.
+Use [BigQuery ML](bigquery-ml) for easy, low-cost machine learning and quick experimentation to see if ML is viable on your data. Sometimes, the accuracy you get with BQML is sufficient, and you will simply stop here.
 
 Once you identify a viable ML problem using BQML, use Auto ML for code-free, state-of-the-art models. Text classification, for example, is a very specialized field with high-dimensional inputs. So, you can do better with a customized solution (i.e., Auto ML Natural Language) than with a structured data approach that just uses bag-of-words.
 
