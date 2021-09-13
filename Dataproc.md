@@ -177,3 +177,7 @@ And finally a perspective on replacing Sawzell within Google.
 ## Big Data Hadoop Tutorial
 
 https://www.guru99.com/bigdata-tutorials.html
+
+### Hadoop dissent
+
+https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
