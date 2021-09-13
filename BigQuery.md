@@ -179,6 +179,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-
 
 When evaluating your [communication](https://cloud.google.com/bigquery/docs/best-practices-performance-communication) throughput, consider the amount of shuffling that is required by your query. How many bytes are passed between stages? How many bytes are passed to each slot? For example, a GROUP BY clause passes like values to the same slot for processing. The amount of data that is shuffled directly impacts communication throughput and as a result, query performance.
 
+### Optimizing against multiple reads
+
+https://boonepeter.github.io/posts/unnecessary_bigquery_optimization
 
 ## Time Travel
 
