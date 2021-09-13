@@ -1,4 +1,4 @@
-[AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning) is a general term describing automated AI driven methods to enhance ML application and processes.  AutoML is also name used by multiple projects and companies in different contexts and cloud based services.
+[AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning) is a general term describing automated AI driven methods to enhance [ML](Machine-Learning) application and processes.  AutoML is also name used by multiple projects and companies in different contexts and cloud based services.
 
 Google Cloud [AutoML](https://cloud.google.com/automl)  helps you easily build high quality custom machine learning models with limited machine learning expertise needed.
 
