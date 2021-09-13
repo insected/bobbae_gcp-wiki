@@ -76,7 +76,13 @@ https://cloud.google.com/solutions/application-migration
 
 https://cloud.google.com/solutions/migration-center
 
+### RAMP
+
+https://cloud.google.com/solutions/cloud-migration-program
+
 ### Checklist
+
+https://cloud.google.com/resources/cloud-migration-checklist
 
 ## Cloud Storage Transfer Service
 
