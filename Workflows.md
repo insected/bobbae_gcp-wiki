@@ -38,13 +38,15 @@ You can orchestrate and automate Google Cloud and HTTP-based API services with [
 
 ## Orchestration vs Choreography
 
+Google Cloud provides services supporting both [Orchestration and Choreography approaches](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). [Pub/Sub](https://cloud.google.com/pubsub) and [Eventarc](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)  are both suited for choreography of event-driven services, whereas Workflows is suited for [centrally orchestrated services](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). 
+
 Should there be a central orchestrator controlling all interactions between services or should each service work independently and only interact through events? This is the central question in Orchestration vs Choreography debate. 
 
 In Orchestration, a central service defines and controls the flow of communication between services. With centralization, it becomes easier to change and monitor the flow and apply consistent timeout and error policies. 
 
 In Choreography, each service registers for and emits events as they need. There’s usually a central event broker to pass messages around, but it does not define or direct the flow of communication. This allows services that are truly independent at the expense of less traceable and manageable flow and policies. 
 
-Google Cloud provides services supporting both Orchestration and Choreography approaches. [Pub/Sub](https://cloud.google.com/pubsub) and [Eventarc](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)  are both suited for choreography of event-driven services, whereas Workflows is suited for [centrally orchestrated services](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). 
+
 
 
 ## Connectors
