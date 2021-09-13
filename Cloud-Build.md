@@ -12,13 +12,43 @@ Using [Cloud Code](https://cloud.google.com/code)  with Kubernetes.
 
 <img src="https://i.redd.it/uscxzz8hwmc41.png" width="500">
 
+### Overview
 
+https://cloud.google.com/build/docs/overview
 
 [https://www.youtube.com/watch?v=w7dMHiEyGAs](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 
 Cloud Build executes your build as a series of build steps, where each build step is run in a Docker container. A build step can do anything that can be done from a container irrespective of the environment. To perform your tasks, you can either [use the supported build steps](https://cloud.google.com/cloud-build/docs/configuring-builds/build-test-deploy-artifacts) provided by Cloud Build or [write your own build steps](https://cloud.google.com/cloud-build/docs/create-custom-build-steps).
 
 [https://cloud.google.com/cloud-build/docs](https://cloud.google.com/cloud-build/docs)
+
+### Starting a build from command line and API
+
+https://cloud.google.com/build/docs/running-builds/start-build-command-line-api
+
+
+
+### Creating and managing build triggers
+
+https://cloud.google.com/build/docs/automating-builds/create-manage-triggers#gcloud_2
+
+
+
+### Configuring the order of build steps
+
+https://cloud.google.com/build/docs/configuring-builds/configure-build-step-order
+
+
+### Speeding up builds
+
+https://cloud.google.com/build/docs/speeding-up-builds
+
+### Audit logging
+
+https://cloud.google.com/build/docs/securing-builds/audit-logs
+### Deploying to GKE
+
+https://cloud.google.com/build/docs/deploying-builds/deploy-gke
 
 
 ## Container Registry
