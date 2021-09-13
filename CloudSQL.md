@@ -82,6 +82,10 @@ https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 
 https://cloud.google.com/architecture/intro-to-cloud-sql-disaster-recovery
 
+## CloudSQL Insights
+
+https://cloud.google.com/blog/products/databases/get-ahead-of-database-performance-issues-with-cloud-sql-insights
+
 ## Tutorials
 
 https://cloud.google.com/sql/docs/media
