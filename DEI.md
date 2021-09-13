@@ -7,6 +7,9 @@ https://dei.extension.org/
 
 https://diversity.google/annual-report/
 
+#### 6 tips to build DEI into business
+
+https://cloud.google.com/blog/topics/research/6-tips-on-how-to-build-dei-into-your-business
 
 #### Representation
 
