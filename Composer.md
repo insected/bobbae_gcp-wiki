@@ -17,9 +17,9 @@ This cluster manages the Airflow workers, and opens up a host of integration opp
 
 
 
-Environments are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. 
+[Environments](https://cloud.google.com/composer/docs/concepts/architecture) are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. 
 
-Environments are self-contained Airflow deployments based on Google Kubernetes Engine. 
+Environments are self-contained Airflow deployments based on Google Kubernetes Engine which can [scale](https://cloud.google.com/composer/docs/environment-scaling).  You can scale composer environments by adjusting [number of nodes or schedulers](https://cloud.google.com/composer/docs/scale-environments).
 
 These environments work with Google Cloud services through connectors that are built into Airflow. You create Cloud Composer environments in [supported regions](https://cloud.google.com/about/locations), and the environments run within a Compute Engine zone. 
 
@@ -115,6 +115,30 @@ https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f5
 ## Composer vs Astronomer
 
 https://itsvit.com/blog/google-cloud-composer-vs-astronomer-what-to-choose/
+
+## Examples
+
+### Automating infrastructure with Cloud Composer
+
+
+https://cloud.google.com/architecture/automating-infrastructure-using-cloud-composer
+
+### Launching Dataflow pipelines with Cloud Composer
+
+https://cloud.google.com/composer/docs/how-to/using/using-dataflow-template-operator
+
+### Health checking your Cloud Composer environment
+
+https://cloud.google.com/composer/docs/tutorials/health-check
+
+### Setting up a CI/CD for your data processing workflow
+
+https://cloud.google.com/architecture/cicd-pipeline-for-data-processing
+
+### Dataproc workflow using Cloud Composer
+
+https://cloud.google.com/dataproc/docs/tutorials/workflow-composer
+
 
 ## Qwiklabs
 
