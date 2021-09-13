@@ -154,6 +154,19 @@ The Ops Agent is the primary agent for collecting telemetry from your Compute En
 
 https://cloud.google.com/logging/docs/agent/ops-agent
 
+#### OpenTelemetry
+
+https://opentelemetry.io/
+
+OpenTelemetry is a collection of tools, APIs, and SDKs. You can use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces).
+
+#### sqlcommenter
+
+https://cloud.google.com/blog/topics/developers-practitioners/introducing-sqlcommenter-open-source-orm-auto-instrumentation-library
+
+
+
+
 
 #### Fluentbit
 
