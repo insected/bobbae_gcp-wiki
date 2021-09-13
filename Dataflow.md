@@ -61,14 +61,14 @@ Using the Apache Beam interactive runner with JupyterLab notebooks lets you [ite
 The [Dataflow templates]( https://github.com/GoogleCloudPlatform/DataflowTemplates  ) are an effort to solve simple, but large, in-Cloud data tasks, including data import/export/backup/restore and bulk API operations, without a development environment. The technology under the hood which makes these operations possible is the [Google Cloud Dataflow](https://cloud.google.com/dataflow/) service combined with a set of [Apache Beam](https://beam.apache.org/) SDK templated pipelines.
 
 
-## Using provided Dataflow templates
+### Using provided Dataflow templates
 
 Google [provides](  https://cloud.google.com/dataflow/docs/guides/templates/provided-templates ) a set of [open-source](https://github.com/GoogleCloudPlatform/DataflowTemplates) Dataflow templates. 
 
 
 
 
-## Creating Dataflow templates
+### Creating Dataflow templates
 
 Dataflow [templates](https://cloud.google.com/dataflow/docs/templates/overview) use runtime parameters to accept values that are only available during pipeline execution. To customize the execution of a templated pipeline, you can pass these parameters to functions that run within the pipeline (such as a DoFn).
 
@@ -76,8 +76,14 @@ To create a template from your Apache Beam pipeline, you must modify your pipeli
 
 [https://cloud.google.com/dataflow/docs/guides/templates/creating-templates](https://cloud.google.com/dataflow/docs/guides/templates/creating-templates)
 
+### Running Dataflow templates
+
 [https://cloud.google.com/dataflow/docs/guides/templates/running-templates](https://cloud.google.com/dataflow/docs/guides/templates/running-templates)
 
+
+### UDF
+
+A [UDF](https://cloud.google.com/blog/topics/developers-practitioners/extend-your-dataflow-template-with-udfs) is a JavaScript snippet that implements a simple element processing logic, and is provided as an input parameter to the Dataflow pipeline. The UDF JavaScript code runs on [Nashorn JavaScript engine](https://developer.oracle.com/databases/nashorn-javascript-part1.html) included in the Dataflow worker’s Java runtime (applicable for Java pipelines such as Google-provided Dataflow templates). The code is invoked locally by a Dataflow worker for each element separately. Element payloads are serialized and passed as JSON strings back and forth.
 
 ## Using Dataflow Flex templates
 
