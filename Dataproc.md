@@ -146,7 +146,6 @@ And finally a perspective on replacing Sawzell within Google.
 ## Tutorials
 
 
-### Tutorials
 
 [https://cloud.google.com/dataproc/docs/tutorials](https://cloud.google.com/dataproc/docs/tutorials)
 
