@@ -166,7 +166,7 @@ https://cloud.google.com/ai-hub/docs/learn
 
 https://cloud.google.com/ai-hub/docs/quickstarts
 
-## Risk
+## Risks
 
 ### Limits of AI
 
