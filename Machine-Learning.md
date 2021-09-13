@@ -921,7 +921,13 @@ That means while using AutoML might be very convenient, for performance critical
 https://www.guru99.com/pytorch-tutorial.html
 
 
+#### PyTorch on Kubeflow and Vertex Pipelines
 
+https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines
+
+#### PyTorch on Google Cloud
+
+https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai
 
 ### Kubeflow
 
