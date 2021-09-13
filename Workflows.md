@@ -3,7 +3,7 @@
 There are [many kinds of tools](https://github.com/pditommaso/awesome-pipeline) to implement different [types of workflows](https://github.com/meirwah/awesome-workflow-engines).
 
 
-Google Cloud’s first general purpose workflow orchestration tool was [Cloud Composer](https://cloud.google.com/composer).
+Google Cloud’s first general purpose workflow orchestration tool was [Cloud Composer](composer).
 
 Based on [Apache Airflow](https://airflow.apache.org/), Cloud Composer is great for data engineering pipelines like ETL orchestration, big data processing or machine learning workflows, and integrates well with data products like BigQuery or Dataflow. 
 
