@@ -25,10 +25,6 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 [Component Gateway](https://cloud.google.com/dataproc/docs/concepts/accessing/dataproc-gateways ) provides secure access to web endpoints for Dataproc default and [optional components](https://cloud.google.com/dataproc/docs/concepts/components/overview#available_optional_components ).
 
 
-### Tutorials
-
-[https://cloud.google.com/dataproc/docs/tutorials](https://cloud.google.com/dataproc/docs/tutorials)
-
 
 ## Big Data analytics with Dataproc
 
@@ -149,6 +145,10 @@ And finally a perspective on replacing Sawzell within Google.
 
 ## Tutorials
 
+
+### Tutorials
+
+[https://cloud.google.com/dataproc/docs/tutorials](https://cloud.google.com/dataproc/docs/tutorials)
 
 
 
