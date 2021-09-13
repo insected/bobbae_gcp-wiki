@@ -1,4 +1,4 @@
-Google Cloud provides services globally, and our [privacy capabilities](https://cloud.google.com/privacy) are available to all customers regardless of region. 
+Google Cloud  [privacy capabilities](https://cloud.google.com/privacy) are available to all customers regardless of region. 
 
 When the rush to the cloud began, the value proposition was a prime attraction. Gradually, the [attitude of businesses toward data is evolving]( https://cloud.google.com/security/privacy  ). The cloud industry realizing that protecting data at different technology layers is not enough. 
 
