@@ -177,7 +177,7 @@ We are living in times when it is paramount that the [possibility of harm](https
 https://ai.google/responsibilities/responsible-ai-practices/
 
 
-## Limits
+## Risk
 
 ### Limits of AI
 
@@ -197,6 +197,9 @@ https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
 
 https://arxiv.org/pdf/2007.05558.pdf
 
+### War
+
+https://amp.theatlantic.com/amp/article/620013/
 
 ## Causation & correlation
 
