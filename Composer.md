@@ -15,9 +15,11 @@ Google runs this open source orchestration platform on top of a Google Kubernete
 This cluster manages the Airflow workers, and opens up a host of integration opportunities with other Google Cloud products.
 
 
+## Environment
 
+[Environment](https://cloud.google.com/composer/docs/concepts/architecture) is a core concept in Cloud Composer. 
 
-[Environments](https://cloud.google.com/composer/docs/concepts/architecture) are a core concept in Cloud Composer. You can create one or more Cloud Composer environments inside of a project. 
+You can create one or more Cloud Composer environments inside of a project. 
 
 Environments are self-contained Airflow deployments based on Google Kubernetes Engine which can [scale](https://cloud.google.com/composer/docs/environment-scaling).  You can scale composer environments by adjusting [number of nodes or schedulers](https://cloud.google.com/composer/docs/scale-environments).
 
@@ -27,6 +29,11 @@ For simple use cases, you can create one environment in one region. For complex 
 
 Airflow communicates with other Google Cloud products through the products' public APIs.
 
+
+### Composer 2 GKE Autopilot Environment
+
+
+https://cloud.google.com/composer/docs/composer-2/environment-architecture
 
 ## Integration with Other GCP Services 
 
