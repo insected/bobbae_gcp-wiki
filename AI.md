@@ -166,17 +166,6 @@ https://cloud.google.com/ai-hub/docs/learn
 
 https://cloud.google.com/ai-hub/docs/quickstarts
 
-## AI Ethics 
-
-The ways in which artificial intelligence is built and deployed will significantly affect society. 
-
-We are living in times when it is paramount that the [possibility of harm](https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business ) in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms), [privacy](Privacy) and [security](Security) issues caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
-
-### Responsible AI Practices
-
-https://ai.google/responsibilities/responsible-ai-practices/
-
-
 ## Risk
 
 ### Limits of AI
@@ -200,6 +189,19 @@ https://arxiv.org/pdf/2007.05558.pdf
 ### Bias
 
 https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out
+
+
+### AI Ethics 
+
+The ways in which artificial intelligence is built and deployed will significantly affect society. 
+
+We are living in times when it is paramount that the [possibility of harm](https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business ) in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms), [privacy](Privacy) and [security](Security) issues caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
+
+### Responsible AI Practices
+
+https://ai.google/responsibilities/responsible-ai-practices/
+
+
 
 ### War
 
