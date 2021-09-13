@@ -49,6 +49,9 @@ https://cloud.google.com/compute/docs/machine-images
 
 https://cloud.google.com/compute/docs/quickstart-linux
 
+## VM Metadata
+
+https://cloud.google.com/compute/docs/metadata/overview
 
 ## How to create a VM on GCP
 
@@ -90,6 +93,11 @@ https://cloud.google.com/compute/docs/access/managing-access-to-resources
 
 https://cloud.google.com/compute/docs/tutorials/robustsystems
 
+### Auto shutdown
+
+https://cloud.google.com/compute/docs/shutdownscript
+
+https://medium.com/geekculture/stop-burning-money-by-leaving-your-vms-on-add-an-auto-shutdown-script-4b3e801fd249
 
 ## Sole tenant nodes
 
