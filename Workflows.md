@@ -38,7 +38,11 @@ You can orchestrate and automate Google Cloud and HTTP-based API services with [
 
 ## Orchestration vs Choreography
 
-Google Cloud provides services supporting both [Orchestration and Choreography approaches](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). [Pub/Sub](https://cloud.google.com/pubsub) and [Eventarc](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)  are both suited for choreography of event-driven services, whereas Workflows is suited for [centrally orchestrated services](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). 
+Google Cloud provides services supporting both [Orchestration and Choreography approaches](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). 
+
+[Pub/Sub](https://cloud.google.com/pubsub) and [Eventarc](https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-eventing-experience-google-cloud)  are both suited for choreography of event-driven services, whereas Workflows is suited for [centrally orchestrated services](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). 
+
+[Workflows](http://cloud.google.com/workflows) is a service to orchestrate not only Google Cloud services, such as Cloud Functions and Cloud Run, but also external services. 
 
 Should there be a central orchestrator controlling all interactions between services or should each service work independently and only interact through events? This is the central question in Orchestration vs Choreography debate. 
 
@@ -113,6 +117,7 @@ Google Cloud Platform offers a number of tools and services for orchestration:
 
 https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
 
+https://cloud.google.com/blog/products/data-analytics/cloud-composer-is-now-in-beta-build-and-run-practical-workflows-with-minimal-effort
 
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
