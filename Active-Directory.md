@@ -1,4 +1,4 @@
-Google Managed Service for Microsoft Active Directory (AD) is a highly available, hardened Google Cloud service running actual [Microsoft AD](https://en.wikipedia.org/wiki/Active_Directory) that enables you to manage authentication and authorization for your AD-dependent workloads, automate AD server maintenance and security configuration, and connect your on-premises AD domain to the cloud.
+[Google Managed Service for Microsoft Active Directory](https://cloud.google.com/managed-microsoft-ad) (AD) is a highly available, hardened Google Cloud service running actual [Microsoft AD](https://en.wikipedia.org/wiki/Active_Directory) that enables you to manage authentication and authorization for your AD-dependent workloads, automate AD server maintenance and security configuration, and connect your on-premises AD domain to the cloud.
 
 https://cloud.google.com/managed-microsoft-ad
 
