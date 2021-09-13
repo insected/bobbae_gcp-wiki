@@ -50,6 +50,10 @@ https://cloud.google.com/build/docs/securing-builds/audit-logs
 
 https://cloud.google.com/build/docs/deploying-builds/deploy-gke
 
+### Git deploy
+
+https://github.com/glasnt/git-deploy
+
 
 ## Container Registry
 
