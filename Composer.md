@@ -111,6 +111,10 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f58a660
 
+## Composer vs Astronomer
+
+https://itsvit.com/blog/google-cloud-composer-vs-astronomer-what-to-choose/
+
 ## Qwiklabs
 
 ### GSP283
