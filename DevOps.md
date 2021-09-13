@@ -242,6 +242,16 @@ https://blog.alexellis.io/building-containers-without-docker/
 
 https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
 
+## Terms of SRE
+
+https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla
+
+### Cloud Ops Sandbox
+
+https://github.com/GoogleCloudPlatform/cloud-ops-sandbox
+
+https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f
+
 ## Qwiklabs
 
 [DevOps Essentials](https://www.qwiklabs.com/quests/96?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
@@ -249,6 +259,9 @@ https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
 
 https://www.qwiklabs.com/quests/141
 
+
+
 ### SRE, SLI, SLA, SLO
+
 
 https://www.qwiklabs.com/focuses/4186?parent=catalog
