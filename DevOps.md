@@ -242,15 +242,10 @@ https://blog.alexellis.io/building-containers-without-docker/
 
 https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
 
-## Terms of SRE
+## SRE
 
-https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-sli-vs-slo-vs-sla
+[SRE](SRE) is what you get when you treat operations as if it's a software problem.
 
-### Cloud Ops Sandbox
-
-https://github.com/GoogleCloudPlatform/cloud-ops-sandbox
-
-https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f
 
 ## Qwiklabs
 
