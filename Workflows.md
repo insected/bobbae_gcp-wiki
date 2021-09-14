@@ -141,6 +141,7 @@ https://github.com/danielecook/Awesome-Bioinformatics#pipelines
 
 https://blog.sellorm.com/2018/06/02/first-steps-with-data-pipelines/
 
+### Make map reduce pipeline
 
 https://www.benevolent.com/engineering-blog/make-reduce-how-to-use-makefiles-to-run-a-simple-map-reduce-data-pipeline
 
