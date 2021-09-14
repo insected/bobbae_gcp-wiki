@@ -32,7 +32,7 @@ The self-service capabilities of Cloud Data Fusion increase process visibility a
 https://cloud.google.com/data-fusion/plugins
 
 
-## Choosing Datafow, Dataprep, Dataproc or Data Fusion
+## Choosing Dataflow, Dataprep, Dataproc or Data Fusion
 
 [[https://storage.googleapis.com/gweb-cloudblog-publish/images/9.19.41_AM.max-800x800.png]]
 
