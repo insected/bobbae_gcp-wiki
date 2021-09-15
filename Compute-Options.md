@@ -48,6 +48,9 @@ https://cloud.google.com/tasks/docs/tutorial-gcf
 
 https://cloud.google.com/tasks
 
+#### Cloud Task queues with HTTP targets
+
+https://cloud.google.com/tasks/docs/dual-overview#http
 
 ### Cloud Run
 
