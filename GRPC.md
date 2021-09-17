@@ -3,7 +3,7 @@
 [gRPC](https://grpc.io/) is a technology for implementing [RPC](http://dist-prog-book.com/chapter/1/rpc.html) APIs that uses HTTP 2.0 as its underlying transport protocol. 
 
 
-GRPC is a high performance, open-source [universal RPC framework](https://github.com/grpc-ecosystem/awesome-grpc), developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and [micro services](https://github.com/mfornos/awesome-microservices).
+gRPC is a high performance, open-source [universal RPC framework](https://github.com/grpc-ecosystem/awesome-grpc), developed by Google. In gRPC, a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier to create distributed applications and [micro services](https://github.com/mfornos/awesome-microservices).
 
 One of the primary benefits of using gRPC is for documentation; you can use your service configuration and API interface definition files to generate reference documentation for your API. 
 
@@ -111,11 +111,11 @@ https://luca.ntop.org/Teaching/Appunti/asn1.html
 https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 
 
-## GRPC Endpoints Tutorials
+## gRPC Endpoints Tutorials
 
 https://cloud.google.com/endpoints/docs/grpc/tutorials
 
-## Python GRPC Microservices
+## Python gRPC Microservices
 
 https://realpython.com/python-microservices-grpc/
 
