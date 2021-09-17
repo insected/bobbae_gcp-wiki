@@ -20,6 +20,12 @@ https://cloud.google.com/blog/topics/research/6-tips-on-how-to-build-dei-into-yo
 
 https://diversity.google/annual-report/representation/
 
+### DEI projects
+
+
+https://praxie.com/inclusive-workplace-culture-diversity-equity-inclusion-dei-software-templates-dashboards/
+
+
 ### Risks
 
 #### The Workplace DEI Disconnect
