@@ -1,3 +1,5 @@
+Be kind: all else is details.
+
 Examples of behavior that contributes to creating a positive environment include:
 
 - using welcoming and inclusive language
@@ -5,7 +7,7 @@ Examples of behavior that contributes to creating a positive environment include
 - gracefully accepting constructive criticism
 - focusing on what is best for the community
 - showing empathy towards other community members
-- be kind: all else is details
+
 
 Examples of unacceptable behavior by participants include:
 
