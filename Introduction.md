@@ -5,7 +5,8 @@
 
 [GCP](https://www.youtube.com/watch?v=vmOMataJZWw) also [includes](  https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg/playlists  ) Google [App Engine](App-Engine), Google [Compute Engine](Compute), Google [Kubernetes Engine](GKE), Google [Cloud Storage](Storage), Google [Cloud SQL]( CloudSQL  ), and [BigQuery](BigQuery). You will learn about important resource and policy management tools, such as the Google [Cloud Resource Manager](  https://cloud.google.com/resource-manager ) hierarchy and Google Cloud [Identity and Access Management](  IAM). 
 
-GCP has benefitted from [fundamental research ](https://research.google/) that continue to influence the  product development.
+GCP has been around since [2008]( https://medium.com/@retomeier/an-annotated-history-of-googles-cloud-platform-90b90f948920
+   ) and benefitted from [fundamental research ](https://research.google/) that continue to influence the  product development.
 
 ## Getting Started
 
