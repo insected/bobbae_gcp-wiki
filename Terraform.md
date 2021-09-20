@@ -307,7 +307,19 @@ https://registry.terraform.io/modules/cloudboss/terrible/cloudinit/latest
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 
 
+## Examples
 
+
+### Provisioning Spanner with terraform
+
+### Provisioning Spanner with Terraform
+
+https://cloud.google.com/blog/topics/developers-practitioners/provisioning-cloud-spanner-using-terraform
+
+### Triggering Cloud functions using Cloud Schedulers with Terraform
+
+
+https://medium.com/geekculture/setup-gcp-cloud-functions-triggering-by-cloud-schedulers-with-terraform-1433fbf1abbe
 
 ## Qwiklabs
 
