@@ -221,9 +221,8 @@ A video to show you how security keys prevent phishing attacks by recognizing a 
 ## reCAPTCHA Enterprise
 
 Google has been defending millions of sites with [reCAPTCHA](https://cloud.google.com/recaptcha-enterprise/docs) for almost a decade. 
-reCAPTCHA Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. reCAPTCHA Enterprise offers enhanced detection with more granular scores, reason codes for risky events, and the ability to tune your site-specific model.  reCAPTCHA Enterprise is a service that protects your site from spam and abuse. reCAPTCHA Enterprise builds on the existing reCAPTCHA API which uses advanced risk analysis techniques to tell humans and bots apart.  reCAPTCHA Enterprise adds enhancements specifically designed to protect enterprise businesses, such as more granular scoring and returning reason codes with low scores to aid in analysis.
+[reCAPTCHA]((https://www.youtube.com/watch?v=ic3Fj2B1LR4) Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. 
 
-[See](https://www.youtube.com/watch?v=ic3Fj2B1LR4) how reCAPTCHA Enterprise can help protect your websites from fraud and abuse.
 
 
 ## Web Risk
