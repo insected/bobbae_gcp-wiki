@@ -20,3 +20,7 @@ It is possible to run [nested VM](https://cloud.google.com/compute/docs/instance
 
 
 https://www.anandtech.com/show/2480/9
+
+## Cloud native vs VM
+
+https://cloud.google.com/blog/topics/developers-practitioners/vms-and-their-relevance-cloud-native-future-conversation
