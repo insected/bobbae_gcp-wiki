@@ -169,12 +169,6 @@ https://cloud.google.com/automl-tables/docs/features#ai-explanations
 https://cloud.google.com/automl-tables/docs/features#export
 
 
-### AutoML Tables example
-
-Music recommendations
-
-https://github.com/GoogleCloudPlatform/ai-platform-samples/blob/master/notebooks/samples/tables/music_recommendation/music_recommendation.ipynb
-
 ### When to use AutoML vs others
 
 Use [BigQuery ML](bigquery-ml) for easy, low-cost machine learning and quick experimentation to see if ML is viable on your data. Sometimes, the accuracy you get with BQML is sufficient, and you will simply stop here.
@@ -185,8 +179,21 @@ Hand-roll your own custom models only for problems where you have lots of data a
 
 https://towardsdatascience.com/choosing-between-tensorflow-keras-bigquery-ml-and-automl-natural-language-for-text-classification-6b1c9fc21013
 
+## Examples
+
+
+### AutoML Tables example
+
+Music recommendations
+
+https://github.com/GoogleCloudPlatform/ai-platform-samples/blob/master/notebooks/samples/tables/music_recommendation/music_recommendation.ipynb
+
+### Handwritten recipes using AutoML and Vision API 
+
+https://cloud.google.com/blog/products/ai-machine-learning/chefkoch-digitizes-handwritten-recipes-with-automl-and-vision-api
 
 ## Links
+
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
 - [AutoML Cloud Natural Language Samples](https://cloud.google.com/natural-language/automl/docs/samples)
 - [AutoML Tables Quickstart](https://cloud.google.com/automl-tables/docs/quickstart)
