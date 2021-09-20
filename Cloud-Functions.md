@@ -32,4 +32,7 @@ https://cloud.google.com/functions/docs/configuring/max-instances
 
 https://medium.com/geekculture/google-cloud-functions-a-brief-tutorial-de07d8945b01
 
+### API Gateway with Cloud Functions
+
+https://medium.com/@sdptd20/exploring-google-cloud-api-gateway-with-google-cloud-functions-ff56c1c96cc9
 
