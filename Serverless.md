@@ -55,10 +55,6 @@ Cloud Machine Learning Engine Prediction Service can serve TensorFlow models and
 [https://www.youtube.com/watch?v=_JCMN8-yhBM](https://www.youtube.com/watch?v=_JCMN8-yhBM)
 
 
-## CloudRun Continous Deployment and Domain Mapping
-
-https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
-
 
 ## Qwiklabs
 
