@@ -5,7 +5,7 @@
 
 ### Gcloud SDK
 
-https://cloud.google.com/sdk/docs/install
+https://cloud.google.com/sdk
 
 #### Gcloud SDK Docker image
 
