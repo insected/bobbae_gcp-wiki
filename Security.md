@@ -241,7 +241,7 @@ https://cloud.google.com/blog/products/networking/open-source-solutions-and-how-
 
 ## PKI
 
-GCP Certificate Authority Service implements [PKI](PKI) and private CAs.
+GCP [Certificate Authority Service](https://cloud.google.com/certificate-authority-service) implements [PKI](PKI) and private [CAs](https://en.wikipedia.org/wiki/Certificate_authority).
 
 
 ## OAuth, OpenID Connect, SAML
