@@ -3,9 +3,9 @@ A [public key infrastructure](https://www.ssh.com/pki/) (PKI) is a set of roles,
 
 ## X.509
 
-X.509 is a standardized machine-readable certificate format for the certificate documents. Originally, it was an ISO standard, but these days it is maintained by the Internet Engineering Task Force as RFC 3280.
+[X.509](https://www.ssh.com/academy/pki#x.509-standard
+) is a standardized machine-readable certificate format for the certificate documents. Originally, it was an ISO standard, but these days it is maintained by the Internet Engineering Task Force as RFC 3280.
 
-https://www.ssh.com/academy/pki#x.509-standard
 
 ## CA
 
