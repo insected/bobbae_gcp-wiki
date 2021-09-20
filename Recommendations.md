@@ -92,13 +92,24 @@ https://cloud.google.com/retail/recommendations-ai/docs/apis
 
 https://cloud.google.com/retail/recommendations-ai/docs#videos
 
+## Tutorials
 
-## Tutorial: Creating Personalized Movie recommendations
+### Creating Personalized Movie recommendations
 
 
 https://cloud.google.com/retail/recommendations-ai/docs/movie-rec-tutorial
 
 
-## Case study
+### IKEA Case study
 
 https://cloud.google.com/blog/products/ai-machine-learning/ikea-uses-google-cloud-recommendations-ai
+
+
+### Retail recommendations 
+
+https://cloud.google.com/blog/topics/developers-practitioners/how-get-better-retail-recommendations-recommendations-ai
+
+### Data Ingestion from different sources
+
+https://cloud.google.com/blog/topics/developers-practitioners/recommendations-ai-data-ingestion
+
