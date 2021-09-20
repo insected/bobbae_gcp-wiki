@@ -608,10 +608,12 @@ https://medium.com/google-cloud/streaming-data-into-bigquery-using-google-cloud-
 
 ### Migrating from AWS Glue to BigQuery
 
-
-
 https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac12980f2036
 
+### Bqfetch
+
+
+https://towardsdatascience.com/the-fastest-way-to-fetch-bigquery-tables-352e2e26c9e1
 
 ## Qwiklabs
 
