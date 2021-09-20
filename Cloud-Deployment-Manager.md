@@ -7,6 +7,11 @@ Google Cloud Deployment Manager is supported along with Terraform in the [Cloud 
 
 [https://www.youtube.com/watch?v=z-caqPtEw58](https://www.youtube.com/watch?v=z-caqPtEw58)
 
+## Cloud Deployment Manager vs Terraform
+
+https://www.huy.dev/terraform-vs-google-deployment-manager-2021-01/
+
+
 ## Examples and Tutorials
 
 * [Cloud Deployment Manager Quickstart](https://cloud.google.com/deployment-manager/docs/quickstart)
