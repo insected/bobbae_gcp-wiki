@@ -57,20 +57,7 @@ Google Cloud encrypts all customer content stored [at rest](Encryption-at-Rest),
 ## Security and Identity
 
 
-[Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated [identity](Identity Management) of an individual.  
-
-https://cloud.google.com/identity/docs/overview
-
-[Account management](Accounts-and-Billing), [authentication](Authentication) and password management can be tricky. Often, account management is a dark corner that isn't a top priority for developers or product managers. The resulting experience often falls short of what some of your users would expect for data security and user experience.  Use  [the best practices](https://cloud.google.com/blog/products/identity-security/account-authentication-and-password-management-best-practices) to  ensure you have a safe, scalable, usable account authentication system.
-
-### Some articles on Identity and Security
-
-https://cloud.google.com/blog/products/identity-security
-
-## Operational security
-
-Google [administrates a vulnerability management process that actively scans](https://cloud.google.com/security/overview/whitepaper#operational_security) for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
-
+[Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated [identity](Identity-Management) of an individual.  
 
 
 ## Roles
@@ -112,30 +99,6 @@ Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manag
 
 Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [Context-Aware Access](Context-Aware-Access) is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
 
-
-
-
-### Device Identity
-
-The Cloud Identity Groups API allows you to create and manage different types of devices within your organization.
-
-
-https://cloud.google.com/identity/docs/concepts/overview-devices
-
-### Groups Identity
-
-A group is a collection of entities, where each entity can be either another group or a user. 
-
-https://cloud.google.com/identity/docs/groups
-
-
-
-
-### SASE
-
-[Secure access service edge](https://www.cloudflare.com/learning/access-management/what-is-sase/), or SASE, is a cloud-based security model which bundles software-defined networking with network security functions and delivers them from a single service provider. 
-
-SASE brings network security services and access control closer to the end user by shifting those key processes to the cloud, and operates on a global network in order to minimize latency while doing so.
 
 
 
@@ -334,23 +297,7 @@ A [public key infrastructure](https://www.ssh.com/pki/) (PKI) is a set of roles,
 
 ## OAuth, OpenID Connect, SAML
 
-### OAuth
-
-[OAuth](https://en.wikipedia.org/wiki/OAuth) is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords. f you’ve ever signed up to a new application and agreed to let it automatically source new contacts via Facebook or your phone contacts, then you’ve likely used OAuth 2.0. This standard provides secure delegated access. 
-
-### SAML
-
-[Security Assertion Markup Language](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) (SAML) is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. You’ve more likely experienced SAML authentication in action in the work environment. For example, it enables you to log into your corporate intranet or IdP and then access numerous additional services, such as Salesforce, Box, or Workday, without having to re-enter your credentials.
-
-### OpenID
-
-[OpenID](https://en.wikipedia.org/wiki/OpenID) Connect allows clients of all types, including Web-based, mobile, and JavaScript clients, to request and receive information about authenticated sessions and end-users. The specification suite is extensible, allowing participants to use optional features such as encryption of identity data, discovery of OpenID Providers, and session management, when it makes sense for them.  If you’ve used your Google to sign in to applications like YouTube, or Facebook to log into an online shopping cart, then you’re familiar with this authentication option. OpenID Connect is an open standard that organizations use to authenticate users.
-
-
-### Comparisons
-
-[https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/)
-
+[Federated Identity Management](Identity-Management) methods include OAuth, OpenID and SAML.
 
 
 ## Machine Learning for Cybersecurity
@@ -372,25 +319,11 @@ There have been attempts to aid Cybersecurity concerns using [Machine Learning](
 ## Cloud Governance
 
 [Cloud governance](Cloud-Governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but simply the application of existing governance practices to cloud operations.
+
 ## BigQuery Security
 
-### BigQuery Column-level security
+[BigQuery](BigQuery) Security topics include Column-level security and row-level security.
 
-[https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
-
-
-
-### BigQuery row level security
-
-https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
-
-## Access Context Manager
-
-[Access Context Manager](https://cloud.google.com/access-context-manager/docs/overview) allows Google Cloud organization administrators to define fine-grained, attribute based access control for projects and resources in Google Cloud.
-
-Administrators first define an access policy, which is an organization-wide container for access levels and service perimeters.
-
-Access levels describe the necessary requirements for requests to be honored. 
 
 
 
