@@ -190,6 +190,7 @@ The [emulator](https://cloud.google.com/spanner/docs/emulator) supports all lang
 The emulator is also available as an open source project in [GitHub](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator).
 
 
+https://cloud.google.com/blog/topics/developers-practitioners/deployment-models-cloud-spanner-emulator
 
 ## BigQuery Spanner federation 
 
