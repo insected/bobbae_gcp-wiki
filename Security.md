@@ -34,7 +34,7 @@ https://cloud.google.com/blog/products/devops-sre/using-the-cloud-foundation-too
 
 ## Risk Manager
 
-Google Cloud security diagnostic tool called Risk Manager enables customers to measure and manage their risk on Google Cloud and obtain a report on their security posture. 
+Google Cloud security diagnostic tool called [Risk Manager](https://cloud.google.com/risk-manager/docs) enables customers to measure and manage their risk on Google Cloud and obtain a report on their security posture. 
 
 https://cloud.google.com/risk-protection-program
 
