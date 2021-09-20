@@ -972,6 +972,7 @@ https://en.wikipedia.org/wiki/P-value
 - https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
 - [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
 - [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
+- https://medium.com/sarus/distributed-ml-with-dask-and-kubernetes-on-gcp-97fdd6533736
 
 
 # Links
