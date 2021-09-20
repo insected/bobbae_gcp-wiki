@@ -53,37 +53,25 @@ https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a65
 ### Build
 
 - Configurable and flexible approach to building source code into containers
-
 - Pluggable approach leveraging Dockerfiles or built templates
-
 - No cross-compiling or need for local build tools
-
 - Support for cached artifacts for faster builds
-
 - Allow your organization to utilize spare capacity for better resource usage
 
 ### Serving
 
 - Higher level abstraction, easy to reason about the object model
-
 - Seamless autoscaling based on HTTP requests
-
 - Gradual rollouts for new revisions
-
 - Integrates networking and service mesh automatically
-
 - Pluggable: connect your own logging and monitoring platform
 
 ### Eventing
 
 - Universal subscription, delivery, and management of events
-
 - Build loosely coupled, event-driven systems with high-level objects
-
 - Declarative binding between event producers and event consuming services
-
 - Scalable from just a few events to live streams
-
 - Custom event pipelines to connect with your own existing systems
  
 ## Knative and Cloud Run portability
