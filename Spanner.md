@@ -115,7 +115,7 @@ In a database, an "object" would typically be a single row or even a single cell
 External consistency is a property of transaction-processing systems, where clients dynamically synthesize transactions that contain multiple read and write operations on arbitrary objects. 
 Cloud Spanner provides external [consistency](https://aphyr.com/posts/313-strong-consistency-models), which is a stricter property than serializability. 
 A transaction-processing system is serializable if it executes transactions in a manner that is indistinguishable from a system in which the transactions are executed serially. 
-Cloud Spanner also guarantees that the serial order is consistent with the order in which the transactions can be observed to commit.
+[Cloud Spanner](https://blog.searce.com/internals-of-google-cloud-spanner-5927e4b83b36) also guarantees that the serial order is consistent with the order in which the transactions can be observed to commit.
 In a system that provides serializability but not external consistency, even though the customer executed T1 and then T2 sequentially, the system would be permitted to reorder them, which could cause the debit to incur a penalty due to insufficient funds.
 
 
@@ -124,8 +124,8 @@ https://jepsen.io/consistency
 
 ## TrueTime
 
-Spanner is very keen in [syncronizing](https://medium.com/google-cloud/google-cloud-spanner-technical-overview-e3e37d81ea60) and maintains the same time across all the nodes over the global datacenters. 
-Their hardwares are built with Atomic Clocks to maintain the time. 
+Spanner is very keen in [synchronizing](https://medium.com/google-cloud/google-cloud-spanner-technical-overview-e3e37d81ea60) and maintains the same time across all the nodes over the global datacenters. 
+The hardware components are built with Atomic Clocks to maintain the time. 
 If you take a look at the Server Hardware Rack, the Server is having 4 time servers. 
 2 Servers are connected with GPS and the remaining 2 are connect with Automic Oscillators. 
 There are 2 different brands of Oscillators for better failover processing. 
