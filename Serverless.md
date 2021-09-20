@@ -34,43 +34,8 @@ https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
 
 ## Knative
 
-[Knative](Knative) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
+[Knative](Knative) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components.
 
-
-
-*   [Deploying a container](https://knative.dev/docs/serving/getting-started-knative-app)
-*   [Routing and managing traffic with blue/green deployment](https://knative.dev/docs/serving/samples/blue-green-deployment)
-*   [Scaling automatically and sizing workloads based on demand](https://knative.dev/docs/serving/autoscaling)
-*   [Binding running services to eventing ecosystems](https://knative.dev/docs/eventing/getting-started)
-
-Developers on Knative can use familiar idioms, languages, and frameworks to deploy functions, applications, or containers workloads.
-
-Knative consists of the Serving and Eventing components:
-
-
-
-*   [Eventing](https://knative.dev/docs/eventing) - Management and delivery of events
-*   [Serving](https://knative.dev/docs/serving) - Request-driven compute that can scale to zero
-
-
-
-Run managed serverless containers with Knative.
-
-[https://www.youtube.com/watch?v=wPLjUF1hFCw](https://www.youtube.com/watch?v=wPLjUF1hFCw)
-
-Knative installation is done on top of Kubernetes and uses optional extensions such as [Ambassador](https://www.getambassador.io/), [Contour](https://projectcontour.io/), [Kong](https://konghq.com/kong/) and [Gloo](https://docs.solo.io/gloo-edge/latest/).
-
-### Knative based Cloud Run
-
-[https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga](https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga)
-
-Cloud Run is the service name fully compliant with Knative and it exists in 2 flavors: Managed and on GKE.
-
-https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
-
-#### Quickstart
-
-https://cloud.google.com/anthos/run/docs/quickstarts/prebuilt-deploy-gke
 
 ## Cloud Workflows and serverless tasks
 
