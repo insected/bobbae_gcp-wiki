@@ -32,32 +32,6 @@ https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
 [Google Cloud Functions](Cloud-Functions) is a [lightweight compute solution](https://www.youtube.com/watch?v=vM-2O-uKBNQ) for developers to create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment.
 
 
-https://cloud.google.com/functions/docs/quickstart
-
-
-### Cloud Functions Tutorial
-
-https://cloud.google.com/functions/docs/tutorials/ocr
-
-### Min instances
-
-
-You can avoid cold starts for your application and reduce application latency by setting a minimum number of instances.
-
-https://cloud.google.com/run/docs/configuring/min-instances
-
-### Using maximum instances
-
-You can control the scaling behavior of your function by setting a maximum number of Cloud Functions instances.
-
-https://cloud.google.com/functions/docs/configuring/max-instances
-
-
-### Cloud Functions for .NET
-
-[https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions](https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions)
-
-
 ## Knative
 
 [Knative](https://knative.dev/) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
