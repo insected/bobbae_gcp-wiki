@@ -12,10 +12,6 @@ It is built from [Knative](https://cloud.google.com/knative/), letting you choos
 https://cloud.google.com/anthos/run/docs/architecture-overview
 
 
-### CloudRun Continous Deployment and Domain Mapping
-
-https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
-
 
 ### Quickstarts
 
@@ -49,3 +45,8 @@ https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02c
 ### Django on Cloud Run
 
 https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
+
+
+### CloudRun Continous Deployment and Domain Mapping
+
+https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
