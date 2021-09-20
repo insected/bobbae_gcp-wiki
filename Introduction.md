@@ -111,15 +111,6 @@ https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
 
 https://geekflare.com/cloud-hosting-platform/
 
-## Videos
-
-https://www.youtube.com/googlecloud
-
-https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
-
-## Newsletter
-
-https://www.gcpweekly.com/
 
 ## Links
 
