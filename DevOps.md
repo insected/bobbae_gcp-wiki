@@ -1,6 +1,5 @@
 
 
-## Introduction
 
 [DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. 
 
@@ -8,6 +7,10 @@ The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, f
 
 
 This will allow your organization to respond in a more agile manner to changing business requirements. The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
+
+## Cloud Build
+
+[Cloud Build](Cloud-Build) is a service that executes your builds on Google Cloud Platform's infrastructure.
 
 
 
