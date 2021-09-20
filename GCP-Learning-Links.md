@@ -77,24 +77,6 @@ Links for the [GCP Learning main document](GCP-Learning)
 - https://medium.com/google-cloud
 
 
-## Samples
-
-- [Compute Engine Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/compute/docs#code-samples)
-- [GKE Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/kubernetes-engine/docs/samples)
-- [BigQuery Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/bigquery/docs/samples/)
-- [Bigtable Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/bigtable/docs/samples)
-- [Dataproc Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/dataproc/docs/samples)
-- [Cloud Composer Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/composer/docs/samples)
-- [Dataflow Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/dataflow/docs/samples)
-- [Pub/Sub Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/pubsub/docs/samples)
-- [Spanner Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/spanner/docs/samples)
-- [Cloud Code Samples](https://github.com/GoogleCloudPlatform/cloud-code-samples)
-- [Cloud Monitoring Code Samples](https://cloud.google.com/monitoring/docs/samples)
-- [Cloud Storage Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/storage/docs/samples)
-- [GCP Labs](https://github.com/pydevops/gcp-labs)
-- [GCloud Cheat Sheets](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
-- https://gist.github.com/pydevops
-
 ## Docs
 
 - [Google cloud docs](https://cloud.google.com/docs)
@@ -305,8 +287,24 @@ Links for the [GCP Learning main document](GCP-Learning)
 - [Getting Started](https://www.youtube.com/watch?v=jZjJ54ehgrM)
 - [AppSheet](https://www.youtube.com/watch?v=X7CZ4261aDQ)
 
-## Qwiklabs
+## Labs and Samples
 
 - [Qwiklabs](https://www.qwiklabs.com/) can be used to practice hands-on learning on GCP.
 - [Open source](https://cloud.google.com/community#home-oss)
 - [Golang Samples](https://github.com/GoogleCloudPlatform/golang-samples)
+- [Compute Engine Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/compute/docs#code-samples)
+- [GKE Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/kubernetes-engine/docs/samples)
+- [BigQuery Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/bigquery/docs/samples/)
+- [Bigtable Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/bigtable/docs/samples)
+- [Dataproc Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/dataproc/docs/samples)
+- [Cloud Composer Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/composer/docs/samples)
+- [Dataflow Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/dataflow/docs/samples)
+- [Pub/Sub Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/pubsub/docs/samples)
+- [Spanner Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/spanner/docs/samples)
+- [Cloud Code Samples](https://github.com/GoogleCloudPlatform/cloud-code-samples)
+- [Cloud Monitoring Code Samples](https://cloud.google.com/monitoring/docs/samples)
+- [Cloud Storage Code Samples](https://cloud-dot-devsite-v2-prod.appspot.com/storage/docs/samples)
+- [GCP Labs](https://github.com/pydevops/gcp-labs)
+- [GCloud Cheat Sheets](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
+- https://gist.github.com/pydevops
+
