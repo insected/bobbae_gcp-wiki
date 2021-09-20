@@ -53,11 +53,6 @@ Google Cloud encrypts all customer content stored [at rest](Encryption-at-Rest),
 
 
 
-## IAM
-
-[Identity and Access Management](IAM)  lets administrators authorize who can take action on specific resources, giving you full control and visibility. 
-
-
 
 ## Security and Identity
 
@@ -104,6 +99,12 @@ Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manag
 [Access Control](Access-Control) is a mechanism you can use to define who has access to resources.
 
 
+
+### IAM
+
+[Identity and Access Management](IAM)  lets administrators authorize who can take action on specific resources, giving you full control and visibility. 
+
+
 ### Identity-Aware Proxy
 
 [Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) lets you manage access to applications running in the App Engine standard environment, App Engine flexible environment, Compute Engine, and GKE. 
@@ -131,7 +132,7 @@ https://cloud.google.com/identity/docs/groups
 
 
 
-## SASE
+### SASE
 
 [Secure access service edge](https://www.cloudflare.com/learning/access-management/what-is-sase/), or SASE, is a cloud-based security model which bundles software-defined networking with network security functions and delivers them from a single service provider. 
 
@@ -158,7 +159,7 @@ Manage the identities of customers, partners, and Things through Identity Platfo
 
 ## Resource Manager
 
-Google Cloud provides container resources such as organizations and projects that allow you to group and hierarchically organize other Google Cloud resources. This hierarchical organization helps you manage common aspects of your resources, such as access control and configuration settings. The [Resource Manager](https://cloud.google.com/ntresource-manager/docs) API enables you to programmatically manage these container resources.
+Google Cloud provides container resources such as organizations and projects that allow you to group and hierarchically organize other Google Cloud resources. This hierarchical organization helps you manage common aspects of your resources, such as [access control](Access-Control) and configuration settings. The [Resource Manager](https://cloud.google.com/ntresource-manager/docs) API enables you to programmatically manage these container resources.
 
 
 Setting up your Google Cloud Platform resources correctly can save you a lot of trouble down the road. 
