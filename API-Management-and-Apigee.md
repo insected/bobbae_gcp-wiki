@@ -1,10 +1,8 @@
-Many organizations deal with cloud applications to meet their business needs and deliver innovative services to their customers. 
 
-Managing all of this data, connecting sources, integrating applications, and surfacing them as easy-to-use APIs for development is challenging.
 
-To accelerate the speed of development, enterprise IT teams need to take an API-first approach to integration, starting with the consumers' use cases rather than the structure of the data in their systems. 
+To accelerate the speed of development, enterprise IT teams need to take an [API-first approach](https://cloud.google.com/blog/products/api-management/api-management-for-integration
+) to integration, starting with the consumers' use cases rather than the structure of the data in their systems. 
 
-https://cloud.google.com/blog/products/api-management/api-management-for-integration
 
 ## API Gateway
 
