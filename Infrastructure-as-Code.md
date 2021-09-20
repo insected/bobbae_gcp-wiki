@@ -73,7 +73,7 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overvie
 
 ### Openstack Heat
 
-The OpenStack Foundation has a tool called [Heat](https://wiki.openstack.org/wiki/Heat) for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
+The [OpenStack](https://www.openstack.org/) Foundation has a tool called [Heat](https://wiki.openstack.org/wiki/Heat) for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
 
 
 ### TOSCA
