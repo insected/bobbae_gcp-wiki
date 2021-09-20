@@ -1,6 +1,5 @@
 
 
-## Introduction
 
 [Firestore](https://firebase.google.com/docs/firestore) is a NoSQL document database built for automatic scaling, high performance, and ease of application development. While the Firestore interface has many of the same features as traditional databases, as a NoSQL database it differs from them in the way it describes relationships between data objects.
 
@@ -59,15 +58,23 @@ https://blog.back4app.com/firebase-vs-firestore/
 https://firebase.google.com/docs/database/rtdb-vs-firestore
 
 
-## Example Bookshelf
-
-https://cloud.google.com/nodejs/getting-started
-
 
 ## Deleting Firestore database
 
 There's no way option to delete Firestore in Firebase UI, neither in Google Cloud. You can remove the whole project or let it be. You won't be billed for it if you don't use it.
 
-## Import CSV into Firebase Firestore without Code
+## Examples
+
+### Example Bookshelf
+
+https://cloud.google.com/nodejs/getting-started
+
+### Import CSV into Firebase Firestore without Code
 
 https://medium.com/@xathis/import-csv-firebase-firestore-without-code-gui-tool-3987923947b6
+
+
+
+### Reading configuration data from Firestore using REST API
+
+https://soumendra-mishra.medium.com/how-to-read-google-firestore-data-using-rest-api-1386df45c420
