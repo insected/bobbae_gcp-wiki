@@ -105,12 +105,9 @@ Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [
 
 ## Identity Platform
 
-[Google Identity Platform](https://cloud.google.com/identity-platform/docs) provides back-end services, SDKs, and UI libraries that make it easier to authenticate users to your apps and services.
+[Google Identity Platform](https://cloud.google.com/identity-platform/docs) provides back-end services, SDKs, and UI libraries that make it easier to [authenticate users to your apps and services](https://www.youtube.com/watch?v=O_O5Hb1bJyw).
 
 
-Manage the identities of customers, partners, and Things through Identity Platform.
-
-[https://www.youtube.com/watch?v=O_O5Hb1bJyw](https://www.youtube.com/watch?v=O_O5Hb1bJyw)
 
 
 ## Managed Services for Microsoft Active Directory
@@ -126,16 +123,14 @@ The [Resource Manager](Resource-Manager) API enables you to programmatically man
 
 ## Security Key management
 
-[Cloud KMS](Cloud-KMS), together with Cloud HSM and Cloud EKM, supports a wide range of compliance mandates that call for specific key management procedures and technologies.  You can manage encryption keys via [secure hardware](Hardware-Key-devices).
+[Cloud KMS](Cloud-KMS), together with [Cloud HSM](https://cloud.google.com/kms/docs/hsm) and [Cloud EKM](https://cloud.google.com/kms/docs/ekm), supports a wide range of compliance mandates that call for specific key management procedures and technologies.  You can manage encryption keys via [secure hardware](Hardware-Key-devices).
 
 
 ## Access Transparency
 
-[Access Transparency](https://cloud.google.com/logging/docs/audit/access-transparency-overview) provides you with logs that capture the actions Google personnel take when accessing your content. You might be familiar with [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit), which can help you answer questions about "who did what, where, and when?" in your Google Cloud projects. While Cloud Audit Logs provides these logs about the actions taken by members within your own organization, Access Transparency provides logs of the actions taken by Google personnel.
+[Access Transparency](https://cloud.google.com/logging/docs/audit/access-transparency-overview) provides you with logs that capture the actions Google personnel take when accessing your content. You might be familiar with [Cloud Audit Logs](https://cloud.google.com/logging/docs/audit), which can help you answer questions about "who did what, where, and when?" in your Google Cloud projects. While Cloud Audit Logs provides these logs about the actions taken by members within your own organization, [Access Transparency](https://www.youtube.com/watch?v=6BCuIBO0Mhg) provides logs of the actions taken by Google personnel.
 
 
-
-[https://www.youtube.com/watch?v=6BCuIBO0Mhg](https://www.youtube.com/watch?v=6BCuIBO0Mhg)
 
 
 ## Binary Authorization
@@ -151,41 +146,29 @@ The [Resource Manager](Resource-Manager) API enables you to programmatically man
 
 ## Cloud Data Loss Prevention
 
-[Cloud Data Loss Prevention (DLP)](https://cloud.google.com/dlp/docs) provides access to a powerful sensitive data inspection, classification, and de-identification platform.
+[Cloud Data Loss Prevention (DLP)](https://cloud.google.com/dlp/docs) provides [access](http://bit.ly/2QmSZsr) to a powerful [sensitive data inspection](https://www.youtube.com/watch?v=GArEb2e9jGk), classification, and de-identification platform.
 
 
-Learn how to automatically discover and redact sensitive data everywhere. 
-
-Try the [Data Loss Prevention Qwik Start lab](http://bit.ly/2QmSZsr).
-
-[https://www.youtube.com/watch?v=GArEb2e9jGk](https://www.youtube.com/watch?v=GArEb2e9jGk)
 
 
 ## Cloud HSM
 
-[Cloud HSM](https://cloud.google.com/kms/docs/hsm) is a cloud-hosted Hardware Security Module (HSM) service that allows you to host encryption keys and perform cryptographic operations in a cluster of [FIPS 140-2 Level 3](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified HSMs. Google manages the HSM cluster for you, so you don't need to worry about clustering, scaling, or patching. Because Cloud HSM uses Cloud KMS as its front end, you can leverage all the conveniences and features that Cloud KMS provides.
-
-
-[https://www.youtube.com/watch?v=DB6UfKFo3ds](https://www.youtube.com/watch?v=DB6UfKFo3ds)
+[Cloud HSM](https://cloud.google.com/kms/docs/hsm) is a cloud-hosted Hardware Security Module (HSM) service that allows you to host encryption keys and perform cryptographic operations in a cluster of [FIPS 140-2 Level 3](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified HSMs. Google manages [the HSM cluster](https://www.youtube.com/watch?v=DB6UfKFo3ds) for you, so you don't need to worry about clustering, scaling, or patching. Because Cloud HSM uses Cloud KMS as its front end, you can leverage all the conveniences and features that Cloud KMS provides.
 
 
 ## Security Command Center
 
-[Security Command Center](https://cloud.google.com/security-command-center/docs) is the canonical security and data risk database for Google Cloud. Security Command Center enables you to understand your security and data attack surface by providing asset inventory, discovery, search, and management.
+[Security Command Center](https://cloud.google.com/security-command-center/docs) is the canonical security and data risk database for Google Cloud. [Security Command Center](https://www.youtube.com/watch?v=k7ZEfAocMq4) enables you to understand your security and data attack surface by providing asset inventory, discovery, search, and management.
 
-
-
-[https://www.youtube.com/watch?v=k7ZEfAocMq4](https://www.youtube.com/watch?v=k7ZEfAocMq4)
 
 
 ## VPC Service Controls
 
-With [VPC Service Controls](https://cloud.google.com/vpc-service-controls/docs), administrators can define a security perimeter around resources of Google-managed services to control communication to and between those services.
+With [VPC Service Controls](https://cloud.google.com/vpc-service-controls/docs), administrators can define a security perimeter around resources of Google-managed services to [control communication to and between those services](https://www.youtube.com/watch?v=EXwJFL24QzY).
 
 
 [VPC](VPC) Service Controls enables you to establish security perimeters around sensitive data in Google Cloud Platform services such as [Google Cloud Storage](https://cloud.google.com/storage) and [BigQuery](BigQuery). 
 
-[https://www.youtube.com/watch?v=EXwJFL24QzY](https://www.youtube.com/watch?v=EXwJFL24QzY)
 
 
 ## Incident Response and Management
@@ -194,9 +177,8 @@ The [incident](https://cloud.google.com/monitoring/alerts/incidents-events) resp
 
 Users have long had access to solid people-management solutions (on-call rotation schedulers, etc.) and Google’s [SRE book](https://sre.google/sre-book/table-of-contents/) outlines their [Incident Management](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles) at Google (IMAG) process. 
 
-The  [Stackdriver](https://cloud.google.com/monitoring) supports Incident Response and Management (IRM)  Insights and the supporting GCP technology that makes the innovation possible.
+The  [Stackdriver](https://cloud.google.com/monitoring) supports [Incident Response and Management](https://www.youtube.com/watch?v=VXqfbp_zE0c) (IRM)  Insights and the supporting GCP technology that makes the innovation possible.
 
-[https://www.youtube.com/watch?v=VXqfbp_zE0c](https://www.youtube.com/watch?v=VXqfbp_zE0c)
 
 
 ## Phishing Protection
@@ -207,10 +189,8 @@ The Phishing Protection Submission API also enables you to submit URLs suspected
 
 Any URLs that are confirmed to match the Safe Browsing Policies will be added to the Safe Browsing list, which is used by over three billion devices to show warnings when a user visits a known unsafe web resource. Common sources of these URLs are customer reports or internal phishing detection results.
 
+[Security keys prevent phishing attacks](https://www.youtube.com/watch?v=c9EOETFnB74) by recognizing a domain name and using its hidden private key. 
 
-A video to show you how security keys prevent phishing attacks by recognizing a domain name and using its hidden private key. 
-
-[https://www.youtube.com/watch?v=c9EOETFnB74](https://www.youtube.com/watch?v=c9EOETFnB74)
 
 
 ## Cloud KMS
@@ -221,7 +201,7 @@ A video to show you how security keys prevent phishing attacks by recognizing a 
 ## reCAPTCHA Enterprise
 
 Google has been defending millions of sites with [reCAPTCHA](https://cloud.google.com/recaptcha-enterprise/docs) for almost a decade. 
-[reCAPTCHA]((https://www.youtube.com/watch?v=ic3Fj2B1LR4) Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. 
+[reCAPTCHA](https://www.youtube.com/watch?v=ic3Fj2B1LR4) Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. 
 
 
 
