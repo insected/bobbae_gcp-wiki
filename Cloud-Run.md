@@ -12,6 +12,10 @@ It is built from [Knative](https://cloud.google.com/knative/), letting you choos
 https://cloud.google.com/anthos/run/docs/architecture-overview
 
 
+### CloudRun Continous Deployment and Domain Mapping
+
+https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
+
 
 ### Quickstarts
 
