@@ -18,7 +18,9 @@ https://cloud.google.com/anthos/run/docs/architecture-overview
 https://cloud.google.com/run/docs/quickstarts
 
 
+### CPU Allocation controls
 
+https://cloud.google.com/blog/products/serverless/cloud-run-gets-always-on-cpu-allocation
 
 ### Use Cases
 
