@@ -36,7 +36,7 @@ https://tools.ietf.org/html/rfc6749
 
 ### OpenAPI
 
-Cloud Endpoints supports APIs that are described using version 2.0 of the OpenAPI specification.
+[Cloud Endpoints](Endpoints) supports APIs that are described using version 2.0 of the OpenAPI specification.
 
 https://cloud.google.com/endpoints/docs/openapi/openapi-overview
 
