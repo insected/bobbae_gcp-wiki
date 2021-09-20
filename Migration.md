@@ -194,3 +194,7 @@ https://cloud.google.com/migrate/compute-engine/docs/4.2/how-to/migrate-aws-to-g
 ## Up or Out
 
 https://cloud.google.com/blog/products/cloud-migration/new-cloud-migration-whitepaper-asks-up-or-out
+
+## Migrate for Anthos and GKE
+
+https://cloud.google.com/blog/topics/developers-practitioners/automate-application-migration-gke-autopilot-and-migrate-gke
