@@ -41,3 +41,6 @@ https://cloud.google.com/functions/docs/tutorials/ocr
 ### Going beyond Cloud Functions limits using BigQuery
 
 https://medium.com/google-cloud/google-cloud-function-beyond-the-limits-ea1f16c577b
+
+### Using Cloud Functions to implement a Slack Slash command
+
