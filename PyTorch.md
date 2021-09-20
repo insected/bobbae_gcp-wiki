@@ -20,7 +20,9 @@ PyTorch is a cousin of lua-based Torch framework which was developed and used at
 https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b
 
 
+## PyTorch on GCP
 
+https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-deploy-pytorch-models-vertex-ai
 
 ## PyTorch examples
 
