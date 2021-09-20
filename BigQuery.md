@@ -606,6 +606,13 @@ https://medium.com/google-cloud/simplifying-data-quality-analysis-808e9fb8667f
 
 https://medium.com/google-cloud/streaming-data-into-bigquery-using-google-cloud-run-469365a731b9
 
+### Migrating from AWS Glue to BigQuery
+
+
+
+https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac12980f2036
+
+
 ## Qwiklabs
 
 
