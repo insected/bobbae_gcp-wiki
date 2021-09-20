@@ -2,7 +2,7 @@
 
 [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IAC) refers to the process of managing and provisioning computer data centers. It’s a strategy for managing data center servers, networking infrastructure, and storage. Its purpose is to simplify large-scale management and configuration dramatically.
 
-Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? You can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google [Cloud Deployment Manager](Cloud-Deployment-Manager).
+Provisioning compute resources has traditionally been hard to manage, not scalable, and prone to error, so what other techniques can you use to make sure you’re ready to meet demand? You can automate the creation of your cloud resources, create templates, and store config files with the help of tools like Google [Cloud Deployment Manager](Cloud-Deployment-Manager) and [Terraform](Terraform).
 
 
 
