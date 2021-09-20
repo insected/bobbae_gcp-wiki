@@ -591,6 +591,10 @@ https://soumendra-mishra.medium.com/bigquery-dynamic-sql-using-jinja-template-5c
 
 https://medium.com/google-cloud/simplifying-data-quality-analysis-808e9fb8667f
 
+### Streaming data into BigQuery using Cloud Run
+
+https://medium.com/google-cloud/streaming-data-into-bigquery-using-google-cloud-run-469365a731b9
+
 ## Qwiklabs
 
 
