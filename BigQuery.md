@@ -343,6 +343,17 @@ Resource Hierarchy.
 
 https://cloud.google.com/bigquery/docs/resource-hierarchy
 
+## BigQuery Security
+
+### BigQuery Column-level security
+
+[https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
+
+
+
+### BigQuery row level security
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
 ## Dremel
 
