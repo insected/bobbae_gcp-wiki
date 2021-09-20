@@ -9,32 +9,8 @@ The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is wh
 
 https://github.com/amusi/awesome-ai-awesomeness
 
-## Google AI Products and Solutions
-
-### Products
-
-https://cloud.google.com/products/ai
 
 
-### Solutions
-
-https://cloud.google.com/solutions/ai
-
-### Contact Center
-
-https://cloud.google.com/solutions/contact-center
-
-### Document AI
-
-https://cloud.google.com/document-ai
-
-### AI Infrastructure
-
-https://cloud.google.com/ai-infrastructure
-
-### DialogFlow
-
-https://cloud.google.com/dialogflow
 
 
 
@@ -114,6 +90,7 @@ Vertex Explainable AI integrates feature attributions into Vertex AI. This page 
 https://cloud.google.com/vertex-ai/docs/explainable-ai
 
 
+
 ### Vertex AI Tutorials
 
 https://cloud.google.com/vertex-ai/docs/tutorials
@@ -165,6 +142,30 @@ https://cloud.google.com/ai-hub/docs/learn
 ### AI Hub Quickstarts
 
 https://cloud.google.com/ai-hub/docs/quickstarts
+
+## Additional Products and Solutions
+
+https://cloud.google.com/products/ai
+
+https://cloud.google.com/solutions/ai
+
+### Contact Center
+
+https://cloud.google.com/solutions/contact-center
+
+### Document AI
+
+https://cloud.google.com/document-ai
+
+### AI Infrastructure
+
+https://cloud.google.com/ai-infrastructure
+
+### DialogFlow
+
+https://cloud.google.com/dialogflow
+
+
 
 ## Risks
 
