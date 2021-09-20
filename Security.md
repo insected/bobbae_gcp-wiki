@@ -6,6 +6,9 @@ The Internet has transformed our lives in many good ways. Unfortunately, this va
 
 GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP [delivers](   https://cloud.google.com/blog/products/identity-security/delivering-the-industrys-most-trusted-cloud ) security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug). [Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA). 
 
+## Security Command Center
+
+[Security Command Center](https://cloud.google.com/security-command-center) is Google Cloud's centralized vulnerability and threat reporting service.
 
 ## GCP Infrastructure Security
 
