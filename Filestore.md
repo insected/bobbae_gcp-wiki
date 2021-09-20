@@ -22,3 +22,6 @@ Filestore offers low latency for file operations. For workloads that are latency
 
 https://cloud.google.com/filestore/docs/quickstart-console
 
+## Types of Filestore
+
+https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announces-filestore-enterprise-for-business-critical-apps
