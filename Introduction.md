@@ -121,24 +121,9 @@ https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 
 https://www.gcpweekly.com/
 
-## Podcasts
+## Links
 
-https://gcppodcast.com/
-
-https://kubernetespodcast.com/
-
-https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
-
-## Blogs
-
-https://cloud.google.com/blog/products/gcp
-
-https://cloud.google.com/blog/products/data-analytics
-
-https://firebase.googleblog.com/
-
-https://medium.com/google-cloud
-
+https://github.com/bobbae/gcp/wiki/GCP-Learning-Links
 
 ## Qwiklabs
 
