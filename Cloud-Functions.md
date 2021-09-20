@@ -5,9 +5,6 @@
 https://cloud.google.com/functions/docs/quickstart
 
 
-### Cloud Functions Tutorial
-
-https://cloud.google.com/functions/docs/tutorials/ocr
 
 ### Min instances
 
@@ -36,3 +33,11 @@ https://medium.com/geekculture/google-cloud-functions-a-brief-tutorial-de07d8945
 
 https://medium.com/@sdptd20/exploring-google-cloud-api-gateway-with-google-cloud-functions-ff56c1c96cc9
 
+
+### OCR tutorial with Cloud Functions
+
+https://cloud.google.com/functions/docs/tutorials/ocr
+
+### Going beyond Cloud Functions limits using BigQuery
+
+https://medium.com/google-cloud/google-cloud-function-beyond-the-limits-ea1f16c577b
