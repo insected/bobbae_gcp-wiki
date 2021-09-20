@@ -96,11 +96,8 @@ Cloud Code provides an end-to-end workflow for developing, debugging, and deploy
 
 ### Cloud Build
 
-[Cloud Build](https://cloud.google.com/cloud-build/docs) is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket, execute a build to your specifications, and produce artifacts such as Docker containers or Java archives.
+[Cloud Build](Cloud-Build) is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket, execute a build to your specifications, and produce artifacts such as Docker containers or Java archives.
 
-Google Cloud Build helps you create fast, consistent, and reliable workflows. 
-
-[https://www.youtube.com/watch?v=w7dMHiEyGAs](https://www.youtube.com/watch?v=w7dMHiEyGAs)
 
 A list of URLs related to Cloud Build.
 
