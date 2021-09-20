@@ -246,6 +246,15 @@ https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
 
 [SRE](SRE) is what you get when you treat operations as if it's a software problem.
 
+## Examples
+
+
+
+### Testing Cloud Functions using Cloud Build and Terraform
+
+https://cloud.google.com/architecture/system-testing-cloud-functions-using-cloud-build-and-terraform
+
+
 
 ## Qwiklabs
 
