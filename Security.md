@@ -92,26 +92,6 @@ Google [administrates a vulnerability management process that actively scans](ht
 
 
 
-## Authentication Options
-
-Access control for Google Cloud APIs encompasses authentication, authorization, and auditing. [Authentication](https://cloud.google.com/docs/authentication) determines who you are, authorization determines what you can do, and auditing logs what you did.
-
-User accounts are managed as Google Accounts, and they represent a developer, administrator, or any other person who interacts with Google Cloud. They are intended for scenarios where your application needs to access resources on behalf of a human user. See Authenticating as an end user for more information.
-
-Service accounts are managed by IAM, and they represent non-human users. They are intended for scenarios where your application needs to access resources or perform actions on its own, such as running App Engine apps or interacting with Compute Engine instances. See Authenticating as a service account for more information.
-
-
-
-
-[https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
-
-
-### Authentication Examples
-
-Examples that use different authentication strategies using Go language version of the Pub/Sub client library. 
-
-https://cloud.google.com/docs/authentication#examples
-
 ## Roles
 
 A role contains a set of permissions that allows you to perform specific actions on Google Cloud resources. To make permissions available to members, including users, groups, and service accounts, you grant roles to the members.
