@@ -45,6 +45,16 @@ https://registry.terraform.io/browse/modules
 
 https://cloud.google.com/docs/terraform
 
+### Importing resources from gcloud to Terraform
+
+How to import manually created resources using gcloud into terraform?
+
+https://teracloud.medium.com/google-cloud-importing-resources-from-the-gcloud-to-iaac-in-terraform-b25a05787144
+
+### Encoring Policy as Code using Atlantis
+
+https://tech.loveholidays.com/enforcing-best-practice-on-self-serve-infrastructure-with-terraform-atlantis-and-policy-as-code-911f4f8c3e00
+
 ## Extending terraform 
 
 ### Plugins
