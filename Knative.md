@@ -2,16 +2,15 @@ Kubernetes-based platform to deploy and manage modern [serverless](Serverless) w
 
 https://knative.dev/docs/
 
+## Quickstart
 
-Knative components build on top of Kubernetes, abstracting away the complex details and enabling developers to focus on what matters. 
 
-Knative offers features like scale-to-zero, autoscaling, in-cluster builds, and eventing framework for cloud-native applications on Kubernetes.
+https://cloud.google.com/anthos/run/docs/quickstarts/prebuilt-deploy-gke
 
-Built by codifying the best practices shared by successful real-world implementations, Knative solves the "boring but difficult" parts of deploying and managing cloud native services so you don't have to.
+## Features
+
 
 [Knative](https://knative.dev/) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
-
-
 
 *   [Deploying a container](https://knative.dev/docs/serving/getting-started-knative-app)
 *   [Routing and managing traffic with blue/green deployment](https://knative.dev/docs/serving/samples/blue-green-deployment)
@@ -20,8 +19,9 @@ Built by codifying the best practices shared by successful real-world implementa
 
 Developers on Knative can use familiar idioms, languages, and frameworks to deploy functions, applications, or containers workloads.
 
-Knative consists of the Serving and Eventing components:
+## Serving and Eventing
 
+Knative consists of the Serving and Eventing components:
 
 
 *   [Eventing](https://knative.dev/docs/eventing) - Management and delivery of events
@@ -86,6 +86,10 @@ https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a65
 
 - Custom event pipelines to connect with your own existing systems
  
+## Knative and Cloud Run portability
+
+https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
+
 ## Samples
 
 ### Getting Started
@@ -106,8 +110,5 @@ https://knative.dev/docs/eventing/getting-started/
 
 https://knative.dev/docs/samples/
 
-## Knative and Cloud Run portability
 
-
-https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
 
