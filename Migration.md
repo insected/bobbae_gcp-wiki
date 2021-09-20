@@ -44,6 +44,8 @@ If your Compute Engine VM instance is terminated due to issues with the underlyi
 
 https://cloud.google.com/blog/products/cloud-migration/lets-migrate-why-lifting-and-shifting-simply-too-easy-ignore
 
+The cloud’s scale and flexibility enables an organization to build services that just wouldn’t have been possible in an on-premises data center. 
+
 https://cloud.google.com/files/Lift-and-Shift-onto-Google-Cloud.pdf
 
 
