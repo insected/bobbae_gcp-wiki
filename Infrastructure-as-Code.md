@@ -64,9 +64,9 @@ https://medium.com/google-cloud/deploy-nomad-and-consul-using-ansible-on-gcp-478
 
 ### AWS Cloud formation
 
-AWS CloudFormation lets users model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycles, by treating infrastructure as code. A CloudFormation template describes your desired resources and their dependencies so you can launch and configure them together as a stack. 
+[AWS Cloud Formation](https://aws.amazon.com/cloudformation/
+) lets users model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycles, by treating infrastructure as code. A CloudFormation template describes your desired resources and their dependencies so you can launch and configure them together as a stack. 
 
-https://aws.amazon.com/cloudformation/
 
 ### Azure Resource Manager
 
