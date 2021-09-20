@@ -20,8 +20,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-spanner
 ## Architecture
 
 
-A Spanner deployment is called a universe. Given that Spanner manages data globally, there will be only a handful of running universes.
-Spanner is organized as a set of zones, where each zone is the rough analog of a deployment of [Bigtable](Bigtable) servers.
+A [Spanner](http://disa.fi.muni.cz/wp-content/uploads/Spanner.pdf) deployment is called a [universe](https://www.datasciencecentral.com/profiles/blogs/google-spanner-the-future-of-nosql). Given that Spanner manages data globally, there will be only a handful of running universes.
+Spanner is organized as a set of [zones](https://jayendrapatil.com/google-cloud-spanner/), where each zone is the rough analog of a deployment of [Bigtable](Bigtable) servers.
 Zones are the unit of administrative deployment. The set of zones is also the set of locations across
 which data can be replicated. 
 Zones can be added to or removed from a running system as new datacenters are
@@ -29,12 +29,12 @@ brought into service and old ones are turned off, respectively.
 
 
 
-Zones are also the unit of physical isolation: there
+Zones are also the unit of [physical isolation](https://anantja.in/spanner/): there
 may be one or more zones in a datacenter, for example, if different applications’ data must be partitioned across
 different sets of servers in the same datacenter.
 
 
-A zone has one zonemaster and between one hundred and several thousand spanservers. The former assigns
+A zone has [one zonemaster and between one hundred and several thousand spanservers](https://www.researchgate.net/figure/Spanner-server-organization_fig5_289881173). The former assigns
 data to spanservers; the latter serve data to clients. 
 The per-zone location proxies are used by clients to locate
 the spanservers assigned to serve their data. The universe master and the placement driver are currently singletons. 
@@ -44,7 +44,7 @@ The placement driver periodically communicates with the spanservers to find data
 
 ### Spanserver
 
-At the bottom, each spanserver is responsible for between 100 and 1000 instances of a data structure called a tablet. 
+At the bottom, [each spanserver is responsible for between 100 and 1000 instances of a data structure called a tablet](https://anantja.in/static/35879ee8585f94ae399c30384ef02599/748b0/2.png). 
 A tablet is similar to Bigtable’s tablet abstraction, in that it implements a bag of the following mappings:
 
 ```
@@ -124,7 +124,7 @@ https://jepsen.io/consistency
 
 ## TrueTime
 
-Spanner is very keen in syncronizing and maintains the same time across all the nodes over the global datacenters. 
+Spanner is very keen in [syncronizing](https://medium.com/google-cloud/google-cloud-spanner-technical-overview-e3e37d81ea60) and maintains the same time across all the nodes over the global datacenters. 
 Their hardwares are built with Atomic Clocks to maintain the time. 
 If you take a look at the Server Hardware Rack, the Server is having 4 time servers. 
 2 Servers are connected with GPS and the remaining 2 are connect with Automic Oscillators. 
