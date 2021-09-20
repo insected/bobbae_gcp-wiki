@@ -56,9 +56,8 @@ Google Cloud encrypts all customer content stored [at rest](Encryption-at-Rest),
 
 ## Security and Identity
 
-Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.
 
-[Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
+[Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated [identity](Identity Management) of an individual.  
 
 https://cloud.google.com/identity/docs/overview
 
