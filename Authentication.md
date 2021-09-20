@@ -36,19 +36,23 @@ https://tools.ietf.org/html/rfc6749
 
 ### OpenAPI
 
-#### Using Okta to authenticate users.
+Cloud Endpoints supports APIs that are described using version 2.0 of the OpenAPI specification.
+
+https://cloud.google.com/endpoints/docs/openapi/openapi-overview
+
+### Using Okta to authenticate users.
 
 https://cloud.google.com/endpoints/docs/openapi/authenticating-users-okta
 
-#### Using Auth0 to authenticate users
+### Using Auth0 to authenticate users
 
 https://cloud.google.com/endpoints/docs/openapi/authenticating-users-auth0
 
-#### Using Firebase to authenticate users
+### Using Firebase to authenticate users
 
 https://cloud.google.com/endpoints/docs/openapi/authenticating-users-firebase
 
-#### Using Google ID tokens to authenticate users
+### Using Google ID tokens to authenticate users
 
 https://cloud.google.com/endpoints/docs/openapi/authenticating-users-google-id
 
@@ -58,6 +62,21 @@ https://cloud.google.com/endpoints/docs/openapi/authenticating-users-google-id
 Managed Service for Microsoft Active Directory (AD) is a highly available, hardened Google Cloud service running actual [Microsoft AD](Active-Directory) that enables you to manage authentication and authorization for your AD-dependent workloads, automate AD server maintenance and security configuration, and connect your on-premises AD domain to the cloud.
 
 https://cloud.google.com/managed-microsoft-ad
+
+
+
+## Access control and Authentication Options
+
+[Access control for Google Cloud APIs](https://cloud.google.com/storage/docs/access-control) encompasses authentication, authorization, and auditing. [Authentication](https://cloud.google.com/docs/authentication) determines who you are, authorization determines what you can do, and auditing logs what you did.
+
+User accounts are managed as Google Accounts, and they represent a developer, administrator, or any other person who interacts with Google Cloud. They are intended for scenarios where your application needs to access resources on behalf of a human user. See Authenticating as an end user for more information.
+
+Service accounts are managed by IAM, and they represent non-human users. They are intended for scenarios where your application needs to access resources or perform actions on its own, such as running App Engine apps or interacting with Compute Engine instances. See Authenticating as a service account for more information.
+
+
+
+
+[https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
 
 
 ## Examples
