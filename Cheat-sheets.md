@@ -40,6 +40,10 @@ https://www.testpreptraining.com/blog/google-professional-data-engineer-gcp-chea
 
 https://www.testpreptraining.com/blog/gcp-data-engineer-certification-cheat-sheet/
 
+## BigQuery
+
+https://medium.com/geekculture/my-bigquery-query-cheat-sheet-dd8bc7b5a69b
+
 ## AI 
 
 https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
