@@ -586,6 +586,11 @@ https://cloud.google.com/blog/products/data-analytics/genomics-data-analytics-wi
 
 https://soumendra-mishra.medium.com/bigquery-dynamic-sql-using-jinja-template-5c1332317960
 
+### Data Quality Analysis using BigQuery
+
+
+https://medium.com/google-cloud/simplifying-data-quality-analysis-808e9fb8667f
+
 ## Qwiklabs
 
 
