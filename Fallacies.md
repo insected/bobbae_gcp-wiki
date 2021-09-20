@@ -565,6 +565,9 @@ https://soonersaferhappier.com/pop-the-bubbles-create-a-learning-ecosystem/
 
 https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17
 
+### Bin packing
+
+https://en.wikipedia.org/wiki/Bin_packing_problem
 
 ## Conclusions
 
