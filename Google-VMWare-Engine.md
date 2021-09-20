@@ -9,3 +9,8 @@ By running your VMware workloads on Google Cloud, you reduce your operational bu
 
 
 https://cloud.google.com/blog/topics/hybrid-cloud/google-cloud-vmware-engine-is-generally-available
+
+
+## Migrating VMware  based systems to GCP
+
+https://cloud.google.com/blog/products/vmware-engine/catalyst-program-lowers-your-vmware-migration-tco
