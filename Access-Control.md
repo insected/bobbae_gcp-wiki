@@ -2,6 +2,19 @@
 [Access Control](Access-Control) is a mechanism you can use to define who has access to resources.
 
 
+### IAM
+
+[Identity and Access Management](IAM)  lets administrators authorize who can take action on specific resources, giving you full control and visibility. 
+
+
+
+### Context-Aware Access
+
+Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [Context-Aware Access](Context-Aware-Access) is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
+
+
+
+
 ### Identity-Aware Proxy
 
 [Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) lets you manage access to applications running in the App Engine standard environment, App Engine flexible environment, Compute Engine, and GKE.
@@ -12,6 +25,38 @@ IAP establishes a central authorization layer for applications accessed by HTTPS
 Identity Aware Proxy enables you to configure secure controlled access to your applications so you can enforce "who can see what" access control at the application layer.  You don't need client software, remote access VPNs, firewalls, network configurations. 
 
 [https://www.youtube.com/watch?v=XqMY-rPk3MY](https://www.youtube.com/watch?v=XqMY-rPk3MY)
+
+### Device Identity
+
+The Cloud Identity Groups API allows you to create and manage different types of devices within your organization.
+
+
+https://cloud.google.com/identity/docs/concepts/overview-devices
+
+### Groups Identity
+
+A group is a collection of entities, where each entity can be either another group or a user. 
+
+https://cloud.google.com/identity/docs/groups
+
+
+### Access Context Manager
+
+[Access Context Manager](https://cloud.google.com/access-context-manager/docs/overview) allows Google Cloud organization administrators to define fine-grained, attribute based access control for projects and resources in Google Cloud.
+
+Administrators first define an access policy, which is an organization-wide container for access levels and service perimeters.
+
+Access levels describe the necessary requirements for requests to be honored. 
+
+
+
+### SASE
+
+[Secure access service edge](https://www.cloudflare.com/learning/access-management/what-is-sase/), or SASE, is a cloud-based security model which bundles software-defined networking with network security functions and delivers them from a single service provider. 
+
+SASE brings network security services and access control closer to the end user by shifting those key processes to the cloud, and operates on a global network in order to minimize latency while doing so.
+
+
 
 
 
