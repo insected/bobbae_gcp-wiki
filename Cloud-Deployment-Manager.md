@@ -1,5 +1,5 @@
 
-[Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/docs) is an infrastructure deployment service that automates the creation and management of Google Cloud resources. Write flexible template and configuration files and use them to create deployments that have a variety of Google Cloud services, such as Cloud Storage, Compute Engine, and Cloud SQL, configured to work together.
+[Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/docs) is an [Infrastructure as Code](Infrastructure-as-Code) tool that automates the creation and management of Google Cloud resources. Write flexible template and configuration files and use them to create deployments that have a variety of Google Cloud services, such as Cloud Storage, Compute Engine, and Cloud SQL, configured to work together.
 
 Google Cloud Deployment Manager is supported along with Terraform in the [Cloud Foundation Toolkit](https://cloud.google.com/foundation-toolkit) as part of the framework for the [Infrastructure as Code](Infrastructure-as-code).
 
