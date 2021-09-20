@@ -404,6 +404,12 @@ Cloud IDS delivers cloud-native, managed, network-based threat detection, built 
 
 https://cloud.google.com/intrusion-detection-system
 
+
+### Network security threat detection - Comparison of analytics methods
+
+
+https://cloud.google.com/blog/products/networking/when-to-use-5-telemetry-types-in-security-threat-monitoring
+
 ### Identity and Security
 
 https://cloud.google.com/blog/products/identity-security/how-google-cloud-ids-helps-detect-advanced-network-threats
