@@ -1,5 +1,5 @@
 
-[Access Control](https://cloud.google.com/security-command-center/docs/access-control) is a mechanism you can use to define who has access to resources.
+[Access Control](https://cloud.google.com/s/results/?q=access%20control) is a mechanism you can use to define who has access to resources.
 
 
 ### IAM
