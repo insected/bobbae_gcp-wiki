@@ -20,9 +20,8 @@ https://cloud.google.com/sdk/docs/scripting-gcloud
 
 ### Cloud Endpoints
 
-Endpoints is an API management system that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. After you deploy your API to Endpoints, you can use the [Cloud Endpoints Portal](https://cloud.google.com/endpoints/docs/dev-portal-overview) to create a developer portal, a website that users of your API can access to view documentation and interact with your API.
+[Endpoints](Endpoints) is an API management system that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. After you deploy your API to Endpoints, you can use the [Cloud Endpoints Portal](https://cloud.google.com/endpoints/docs/dev-portal-overview) to create a developer portal, a website that users of your API can access to view documentation and interact with your API.
 
-[https://cloud.google.com/endpoints/docs](https://cloud.google.com/endpoints/docs)
 
 Use Cloud Endpoints to deploy, test and  manage your API’s.
 
@@ -31,27 +30,24 @@ Use Cloud Endpoints to deploy, test and  manage your API’s.
 
 ### Cloud API
 
-Google Cloud APIs are a key part of Google Cloud Platform, allowing you to easily add the power of everything from storage access to machine-learning-based image analysis to your Cloud Platform applications.
+[Google Cloud APIs](https://cloud.google.com/apis) are a key part of Google Cloud Platform, allowing you to easily add the power of everything from storage access to machine-learning-based image analysis to your Cloud Platform applications.
 
-[https://cloud.google.com/apis/docs/overview](https://cloud.google.com/apis/docs/overview)
 
 
 ### Artifact Registry
 
-A universal package manager for all your build artifacts and dependencies. Fast, scalable, reliable and secure.
+[Artifcat registry](https://cloud.google.com/artifacts/docs) is a universal package manager for all your build artifacts and dependencies. Fast, scalable, reliable and secure.
 
-[https://cloud.google.com/artifacts/docs](https://cloud.google.com/artifacts/docs)
 
-Container Registry has evolved into Artifact Registry - a platform that allows you to seamlessly manage container images, integrate with Cloud Build and third-party CI/CD systems. 
+[Container Registry](https://cloud.google.com/container-registry/docs) has evolved into [Artifact Registry](https://cloud.google.com/artifacts/docs)  - a platform that allows you to seamlessly manage container images, integrate with Cloud Build and third-party CI/CD systems. 
 
 [https://www.youtube.com/watch?v=712Y0KpeHok](https://www.youtube.com/watch?v=712Y0KpeHok)
 
 
 ### Container Registry
 
-Container Registry provides secure, private Docker image storage on Google Cloud Platform.
+[Container Registry](https://cloud.google.com/container-registry/docs) provides secure, private Docker image storage on Google Cloud Platform.
 
-[https://cloud.google.com/container-registry/docs](https://cloud.google.com/container-registry/docs)
 
 
 ### Cloud Source Repositories
