@@ -99,15 +99,20 @@ It helps you achieve [confidentiality, data integrity, availability, non-repudia
 Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manages users and groups. You can configure Cloud Identity to federate identities between Google and other identity providers, such as [Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-introduction) and [Azure Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-azure-active-directory).
 
 
+## Access Control
+
+[Access Control](Access-Control) is a mechanism you can use to define who has access to resources.
+
 
 ### Identity-Aware Proxy
 
-[Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) lets you manage access to applications running in the App Engine standard environment, App Engine flexible environment, Compute Engine, and GKE. IAP establishes a central authorization layer for applications accessed by HTTPS, so you can adopt an application-level access control model instead of using network-level firewalls. When you turn on IAP, you must also use [signed headers](https://cloud.google.com/iap/docs/signed-headers-howto) or the App Engine standard environment [Users API](https://cloud.google.com/appengine/docs/standard#users) to secure your app.
+[Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) lets you manage access to applications running in the App Engine standard environment, App Engine flexible environment, Compute Engine, and GKE. 
+
+### Context-Aware Access
+
+Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [Context-Aware Access](Context-Aware-Access) is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
 
 
-Identity Aware Proxy enables you to configure secure controlled access to your applications so you can enforce "who can see what" access control at the application layer.  You don't need client software, remote access VPNs, firewalls, network configurations. 
-
-[https://www.youtube.com/watch?v=XqMY-rPk3MY](https://www.youtube.com/watch?v=XqMY-rPk3MY)
 
 
 ### Device Identity
@@ -124,30 +129,6 @@ A group is a collection of entities, where each entity can be either another gro
 https://cloud.google.com/identity/docs/groups
 
 
-
-## Context-Aware Access
-
-Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, Context-Aware Access is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
-
-
-
-[https://cloud.google.com/context-aware-access/docs/overview](https://cloud.google.com/context-aware-access/docs/overview)
-
-Envisioned in 2011, the [BeyondCorp](https://www.beyondcorp.com/) security model leverages identity and context to evaluate trust for access decisions rather than using the corporate network as the perimeter. 
-
-[https://www.youtube.com/watch?v=Sq9gp8KBsY0](https://www.youtube.com/watch?v=Sq9gp8KBsY0)
-
-In the same way that BeyondCorp helped us to evolve beyond a perimeter based security model, [BeyondProd](https://cloud.google.com/security/beyondprod) represents a similar leap forward in our approach to production security. The BeyondProd approach describes a cloud-native security architecture that assumes no trust between services, provides isolation between workloads, verifies that only centrally built applications are deployed, automates vulnerability management, and enforces strong access controls to critical data. The BeyondProd architecture led Google to innovate several new systems in order to meet these requirements.
-
-### BeyondCorp and BeyondProd
-
-https://cloud.google.com/blog/products/identity-security/applying-zero-trust-to-user-access-and-production-services
-
-### Zero Trust
-
-[Zero Trust](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/) is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access.
-
-The philosophy behind a zero trust network assumes that there are attackers both within and outside of the network, so no users or machines should be automatically trusted.
 
 
 ## SASE
@@ -523,7 +504,6 @@ https://cloud.google.com/blog/products/g-suite/use-byod-safely-in-g-suite-with-t
 https://cloud.google.com/blog/products/gcp/introducing-endpoint-verification-visibility-into-the-desktops-accessing-your-enterprise-applications
 
 
-## Access Control
 
 ## Vulnerability scanning
 
