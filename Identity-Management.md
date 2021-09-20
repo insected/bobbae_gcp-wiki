@@ -1,4 +1,8 @@
 
+
+[Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
+
+
 https://cloud.google.com/identity/docs/overview
 
 [Account management](Accounts-and-Billing), [authentication](Authentication) and password management can be tricky. Often, account management is a dark corner that isn't a top priority for developers or product managers. The resulting experience often falls short of what some of your users would expect for data security and user experience.  Use  [the best practices](https://cloud.google.com/blog/products/identity-security/account-authentication-and-password-management-best-practices) to  ensure you have a safe, scalable, usable account authentication system.
