@@ -414,7 +414,9 @@ https://cloud.google.com/blog/products/networking/when-to-use-5-telemetry-types-
 
 https://cloud.google.com/blog/products/identity-security/how-google-cloud-ids-helps-detect-advanced-network-threats
 
+## Leveraging Network Telemetry for Forensics in Google Cloud
 
+https://cloud.google.com/blog/products/networking/open-source-solutions-and-how-tos
 
 ## PKI
 
