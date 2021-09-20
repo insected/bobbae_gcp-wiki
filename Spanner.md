@@ -153,11 +153,17 @@ https://cloud.google.com/blog/products/databases/manage-semi-structured-data-in-
 
 
 
-## Example: Build realtime inventory management systems with Cloud Spanner
+## Examples
+
+### Build realtime inventory management systems with Cloud Spanner
 
 Build  an inventory ledger solution that streamlines the order-to-shipping process using Cloud Spanner, a scalable, globally consistent database service. The single source of truth enables seamless customer experiences across channels and real-time decisioning at scale. 
 
 [https://www.youtube.com/watch?v=8kj_uA5vJfo](https://www.youtube.com/watch?v=8kj_uA5vJfo)
+
+### Provisioning Spanner with terraform
+
+https://cloud.google.com/blog/topics/developers-practitioners/provisioning-cloud-spanner-using-terraform
 
 ## Migrating to Spanner
 
