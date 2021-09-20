@@ -17,6 +17,8 @@ https://rbirkby.github.io/google-cloud-4-words/
 
 https://cloud.google.com/sdk/docs/cheatsheet
 
+https://arilaverty.medium.com/quick-cloud-cost-hygiene-in-gcp-b6cce6e49929
+
 https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97
 
 https://cheatsheet.dennyzhang.com/cheatsheet-gcp-a4
