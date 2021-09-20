@@ -1,6 +1,31 @@
 
 Links for the [GCP Learning main document](GCP-Learning)
 
+
+## Videos
+
+- https://www.youtube.com/googlecloud
+- https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
+
+## Newsletter
+
+- https://www.gcpweekly.com/
+
+## Podcasts
+
+- https://gcppodcast.com/
+- https://kubernetespodcast.com/
+- https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
+
+## Blogs
+
+- https://cloud.google.com/blog/products/gcp
+- https://cloud.google.com/blog/products/data-analytics
+- https://firebase.googleblog.com/
+- https://medium.com/google-cloud
+
+
+
 ## GCP Basics
 
 - [Google Cloud Platform](https://cloud.google.com/) 
@@ -35,6 +60,7 @@ Links for the [GCP Learning main document](GCP-Learning)
 - [Nodejs App example to learn GCP](https://github.com/thinhkhang97/learn-gcp)
 - [Learn DevOps online](https://medium.com/diary-of-an-sre/learn-devops-online-a-comprehensive-directory-of-free-and-cheap-resources-90656b8986d)
 
+
 ## Certification
 
 - [Free GCP learning resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb)
@@ -62,19 +88,6 @@ Links for the [GCP Learning main document](GCP-Learning)
 - [Awesome Sys admin](https://github.com/kahun/awesome-sysadmin)
 - https://jimmysong.io/awesome-cloud-native/
 
-
-## Podcasts
-
-- https://gcppodcast.com/
-- https://kubernetespodcast.com/
-- https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
-
-## Blogs
-
-- https://cloud.google.com/blog/products/gcp
-- https://cloud.google.com/blog/products/data-analytics
-- https://firebase.googleblog.com/
-- https://medium.com/google-cloud
 
 
 ## Docs
