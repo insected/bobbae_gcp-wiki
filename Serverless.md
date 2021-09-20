@@ -34,7 +34,7 @@ https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
 
 ## Knative
 
-[Knative](https://knative.dev/) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
+[Knative](Knative) extends [Kubernetes](Kubernetes-Engine-and-Containers) to provide a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful, real-world, Kubernetes-based frameworks and applications. Knative components focus on solving mundane but difficult tasks such as:
 
 
 
