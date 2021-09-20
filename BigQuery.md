@@ -562,7 +562,9 @@ https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
 
 https://cloud.google.com/bigquery/docs/visualize-jupyter
 
+### External data sources into BigQuery
 
+https://medium.com/google-cloud/how-to-integrate-external-data-sources-with-bigquery-9e126d5751ea
 
 ### BigQuery GIS tutorial
 
