@@ -82,3 +82,8 @@ https://engineering.premise.com/tutorial-cost-spike-alerting-for-google-cloud-pl
 
 https://cloud.google.com/architecture/estimate-gke-costs-early-using-gitlab
 
+#### Cloud Cost Hygiene
+
+Gcloud commands to find things to delete.
+
+https://arilaverty.medium.com/quick-cloud-cost-hygiene-in-gcp-b6cce6e49929
