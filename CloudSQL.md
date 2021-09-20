@@ -92,3 +92,7 @@ https://cloud.google.com/blog/products/databases/get-ahead-of-database-performan
 ## Tutorials
 
 https://cloud.google.com/sql/docs/media
+
+### Migrating Postgres 
+
+https://cloud.google.com/blog/topics/developers-practitioners/upgrade-postgres-pglogical-and-database-migration-service
