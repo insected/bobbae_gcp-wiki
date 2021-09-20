@@ -44,3 +44,25 @@ https://medium.com/google-cloud/google-cloud-function-beyond-the-limits-ea1f16c5
 
 ### Using Cloud Functions to implement a Slack Slash command
 
+https://cloud.google.com/functions/docs/tutorials/slack
+
+### Blurring images using ImageMagick 
+
+https://cloud.google.com/functions/docs/tutorials/imagemagick
+
+### Serverless performance monitoring
+
+https://cloud.google.com/architecture/serverless-web-performance-monitoring-using-cloud-functions
+
+### Streaming data from Cloud storage to BigQuery
+
+https://cloud.google.com/architecture/streaming-data-from-cloud-storage-into-bigquery-using-cloud-functions
+
+### Connecting to Cloud Memorystore Redis instance
+
+https://cloud.google.com/memorystore/docs/redis/connect-redis-instance-functions
+
+### Testing Cloud Functions using Cloud Build and Terraform
+
+https://cloud.google.com/architecture/system-testing-cloud-functions-using-cloud-build-and-terraform
+
