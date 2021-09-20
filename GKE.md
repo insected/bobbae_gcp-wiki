@@ -11,6 +11,11 @@
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 
+## Backup for GKE
+
+
+https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-launches-backups-for-gke
+
 
 ## Examples
 
