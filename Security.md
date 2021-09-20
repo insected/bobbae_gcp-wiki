@@ -49,7 +49,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 
 
 
-
+Google Cloud encrypts all customer content stored [at rest](Encryption-at-Rest), without any action required from the customer, using one or more encryption mechanisms.
 
 
 
