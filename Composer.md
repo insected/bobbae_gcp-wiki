@@ -29,6 +29,13 @@ For simple use cases, you can create one environment in one region. For complex 
 
 Airflow communicates with other Google Cloud products through the products' public APIs.
 
+### Airflow 2 vs 1
+
+https://dsstream.com/differences-between-airflow-1-10-x-and-2-0/
+
+### Airflow 2 development environment on GCP Cloud Shell
+
+https://medium.com/badal-io/airflow-2-development-environment-on-gcp-cloud-shell-5534b829e19a
 
 ### Composer 2 GKE Autopilot Environment
 
