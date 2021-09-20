@@ -27,3 +27,9 @@ https://cloud.google.com/functions/docs/configuring/max-instances
 
 [https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions](https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions)
 
+
+## Tutorial
+
+https://medium.com/geekculture/google-cloud-functions-a-brief-tutorial-de07d8945b01
+
+
