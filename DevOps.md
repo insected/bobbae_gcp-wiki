@@ -254,6 +254,22 @@ https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
 
 https://cloud.google.com/architecture/system-testing-cloud-functions-using-cloud-build-and-terraform
 
+### GitOps-style continuous delivery with Cloud Build
+
+https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
+
+### Creating and managing build triggers
+
+https://cloud.google.com/build/docs/automating-builds/create-manage-triggers
+
+### Building from github repository
+
+https://cloud.google.com/build/docs/automating-builds/build-repos-from-github
+
+
+### Mirroring a repository
+
+https://cloud.google.com/source-repositories/docs/mirroring-repositories
 
 
 ## Qwiklabs
