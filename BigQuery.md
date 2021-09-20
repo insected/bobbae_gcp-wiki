@@ -8,15 +8,6 @@
 https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 
-## BigQuery tutorials
-
-[https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
-
-
-### Basics
-
-https://blog.coupler.io/bigquery-tutorial/
-
 
 ## Comparisons
 
@@ -391,15 +382,7 @@ https://cloud.google.com/bigquery/docs/best-practices-performance-input#denormal
 [https://www.youtube.com/watch?v=STo98QUKDS8](https://www.youtube.com/watch?v=STo98QUKDS8)
 
 
-## Learn writing java code to connect Dataproc map/reduce to BigQuery
 
-[https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example)
-
-
-
-## BigQuery connector to Spark
-
-[https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example)
 
 
 ## Data Warehouse Topics
@@ -513,7 +496,57 @@ https://cloud.google.com/bigquery/pricing#flat_rate_pricing
 
 https://cloud.google.com/bigquery/docs/sandbox
 
-## Tutorials
+
+
+## Looker and BigQuery
+
+[Looker](Looker) is an enterprise platform for business intelligence, data applications, and embedded analytics. Looker helps you explore, share, and visualize your company's data so that you can make better business decisions.
+
+
+https://cloud.google.com/bigquery/docs/looker
+
+
+
+
+## BigQuery GIS 
+
+[BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
+
+
+
+## BigQuery Omni
+
+[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
+
+
+
+## BigQuery ML 
+
+[BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
+
+
+
+
+
+## BigQuery tutorials
+
+[https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
+
+
+### Basics
+
+https://blog.coupler.io/bigquery-tutorial/
+
+### Learn writing java code to connect Dataproc map/reduce to BigQuery
+
+[https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example)
+
+
+### BigQuery connector to Spark
+
+[https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example)
+
+
 
 https://cloud.google.com/bigquery/docs/tutorials
 
@@ -531,46 +564,25 @@ https://cloud.google.com/bigquery/docs/visualize-jupyter
 
 
 
-## Looker and BigQuery
-
-[Looker](Looker) is an enterprise platform for business intelligence, data applications, and embedded analytics. Looker helps you explore, share, and visualize your company's data so that you can make better business decisions.
-
-
-https://cloud.google.com/bigquery/docs/looker
-
-## Sync data from MySQL to BigQuery
-
-https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef602c
-
-## Three ways to query in Python
-
-https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
-
-## Genomics Analytics with BigQuery
-
-https://cloud.google.com/blog/products/data-analytics/genomics-data-analytics-with-cloud-pt2
-
-## BigQuery GIS 
-
-[BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
-
-
 ### BigQuery GIS tutorial
 
 https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane
 
+### Sync data from MySQL to BigQuery
 
-## BigQuery Omni
+https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef602c
 
-[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
+### Three ways to query in Python
 
+https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
 
+### Genomics Analytics with BigQuery
 
-## BigQuery ML 
+https://cloud.google.com/blog/products/data-analytics/genomics-data-analytics-with-cloud-pt2
 
-[BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
+### Dynamic SQL using Jinja Template
 
-
+https://soumendra-mishra.medium.com/bigquery-dynamic-sql-using-jinja-template-5c1332317960
 
 ## Qwiklabs
 
