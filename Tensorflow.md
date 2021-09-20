@@ -92,7 +92,7 @@ https://blog.tensorflow.org/2020/08/train-your-tensorflow-model-on-google.html
 
 #### Using Tensorflow on Vertex AI to maximize display probability of Waze
  
-https://cloud.google.com/blog/products/ai-machine-learning/optimizing-waze-ad-delivery-with-google-clouds-vertex-ai?
+https://cloud.google.com/blog/products/ai-machine-learning/optimizing-waze-ad-delivery-with-google-clouds-vertex-ai
 
 #### Distributed Tensorflow on GCP
 
