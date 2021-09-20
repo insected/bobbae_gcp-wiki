@@ -72,6 +72,9 @@ https://cloud.google.com/sql/docs/mysql/replication#cross-region-read-replicas
 
 https://cloud.google.com/sql/docs/mysql/replication#read-replicas
 
+## Maintenance
+
+https://cloud.google.com/blog/products/databases/how-cloud-sql-maintenance-works-to-keep-instances-updated
 
 ## Backups
 
