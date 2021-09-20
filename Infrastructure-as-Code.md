@@ -47,16 +47,15 @@ Creating immutable infrastructure leads to more predictable deployments and roll
 
 ### Pulumi
 
-Pulumi is open source infrastructure as code SDK that enables you to create, deploy, and manage infrastructure on different clouds in various programming languages.
+[Pulumi](https://www.pulumi.com/docs/get-started/gcp/) is open source infrastructure as code SDK that enables you to create, deploy, and manage infrastructure on different clouds in various programming languages.
 
-[https://www.pulumi.com/docs/get-started/gcp/](https://www.pulumi.com/docs/get-started/gcp/)
 
 
 ### Ansible
 
-Ansible is a way to automate apps and IT infrastructure. Application Deployment + Configuration Management + Continuous Delivery.
+[Ansible](https://www.ansible.com/) is a way to automate apps and IT infrastructure. Application Deployment + Configuration Management + Continuous Delivery.
 
-[Here](https://www.youtube.com/watch?v=utztQWTewWU)  is an opinionated look at how ansible and terraform complement one another in a provisioner/configuration management separated view. A key takeaway is a simplified workflow for sysadmins/operators in cloud management that can be applied in multi-cloud/hybrid cloud scenarios.
+[Ansible and terraform can complement](https://www.youtube.com/watch?v=utztQWTewWU) one another.
 
 #### Using ansible to deploy Nomad and Consul
 
@@ -74,21 +73,18 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overvie
 
 ### Openstack Heat
 
-The OpenStack Foundation has also defined a similar standard for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
+The OpenStack Foundation has a tool called [Heat](https://wiki.openstack.org/wiki/Heat) for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
 
-https://wiki.openstack.org/wiki/Heat
 
 ### TOSCA
 
-Topology and Orchestration Specification for Cloud Applications (TOSCA), is an OASIS standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
-
-https://en.wikipedia.org/wiki/OASIS_TOSCA
+[Topology and Orchestration Specification for Cloud Applications](https://en.wikipedia.org/wiki/OASIS_TOSCA) (TOSCA), is an OASIS standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
 
 ### Cloudify
 
-Cloudify is an open-source TOSCA-based orchestration framework based on YAML.
+[Cloudify](https://cloudify.co/) is an open-source TOSCA-based orchestration framework based on YAML.
 
-https://cloudify.co/
+
 
 ### MANO, NFV, VNF, SDN, TOSCA 
 
@@ -101,16 +97,10 @@ https://www.terraform.io/intro/vs/cloudformation.html
 
 ### Kubernetes
 
-
-
-https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes
+[Kubernetes](Kubernetes) allows for [declarative infrastructure configuration](https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes).
 
 ##  Qwiklabs
 
-
-
-
 [VM Migration](https://www.qwiklabs.com/quests/87?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467726)
-
 
 [Terraform Qwiklabs](https://www.qwiklabs.com/quests/44)
