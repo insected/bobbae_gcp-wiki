@@ -110,7 +110,6 @@ https://cloud.google.com/compute/docs/tutorials/ml-inference-t4
 
 [https://github.com/jtoy/awesome-Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
-https://www.guru99.com/tensorflow-tutorial.html
 
 ## Qwiklabs
 
