@@ -1,14 +1,7 @@
 
-
-
 [GCP compute stack](  https://cloud.google.com/products/compute )  contains, Google [Compute Engine](https://cloud.google.com/compute) (GCE), [Google Kubernetes Engine](   GKE) (formerly Container Engine) (GKE), [Google App Engine](App-Engine) (GAE) and [Google Cloud Functions](  https://cloud.google.com/functions) (GCF). 
 
-
 There are  many [hosting options](  https://cloud.google.com/hosting-options ) that address different requirements. 
-
-
-
-
 
 ## Concepts
 
@@ -28,9 +21,7 @@ https://cloud.google.com/compute/docs/instances/reservations-overview
 
 ## Machine Types
 
-A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a set of virtualized hardware resources available to a virtual machine (VM) instance, including the system memory size, virtual CPU (vCPU) count, and persistent disk limits. In Compute Engine, machine types are grouped and curated by families for different workloads. You can choose from general-purpose, memory-optimized, and compute-optimized families. You must choose a machine type when you [create an instance](https://cloud.google.com/compute/docs/instances/creating-and-starting-an-instance?hl=tr). You can select from a number of predefined machine types in each machine type family. If the predefined machine types do not meet your needs, you can create your own [custom machine types](https://cloud.google.com/compute/docs/machine-types?hl=tr#custom_machine_types). To compare machine type performance, see [CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms?hl=tr).
-
-
+A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a set of virtualized hardware resources available to a virtual machine (VM) instance, including the system memory size, virtual CPU (vCPU) count, and persistent disk limits.  You must choose a machine type when you [create an instance](https://cloud.google.com/compute/docs/instances/creating-and-starting-an-instance?hl=tr). You can select from a number of predefined machine types in each machine type family. If the predefined machine types do not meet your needs, you can create your own [custom machine types](https://cloud.google.com/compute/docs/machine-types?hl=tr#custom_machine_types). To compare machine type performance, see [CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms?hl=tr).
 
 The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general purpose but balanced price / performance, M2, M1 are memory optimized and C2 are compute optimized.
 ## From Data Center Professional Point of view
@@ -39,11 +30,9 @@ Typically, [data centers use server virtualization](  https://cloud.google.com/d
 
 [Compute Engine](   https://youtu.be/KBeyQHoAcrQ ) uses this model as well, combining server virtualization and related management tools into an integrated suite. On Compute Engine, virtual machines are called [virtual machine](  VM ) (VM) instances.
 
-
 ## Machine Images
 
 https://cloud.google.com/compute/docs/machine-images
-
 
 ## Quickstart using a Linux VM
 
@@ -58,8 +47,6 @@ https://cloud.google.com/compute/docs/metadata/overview
 [https://www.youtube.com/watch?v=1FpMe8na64A](https://www.youtube.com/watch?v=1FpMe8na64A)
 
 https://cloud.google.com/compute/docs/instances/create-start-instance
-
-
 
 ## Backing up persistent disks using snapshots
 
@@ -141,15 +128,28 @@ You can share virtual machine (VM) instances, virtual disk files, and machine im
 
 https://cloud.google.com/compute/docs/import/requirements-export-import-images
 
+
+## Dynamic Resource Management
+
+https://cloud.google.com/compute/docs/dynamic-resource-management
+
+## VM Instance life cycle
+
+
+https://cloud.google.com/compute/docs/instances/instance-life-cycle
+## Load balancing and scaling
+
+https://cloud.google.com/compute/docs/load-balancing-and-autoscaling
+
+## Containers on compute engine
+
+https://cloud.google.com/compute/docs/containers
+
 ## Slurm-GCP
 
 [Slurm](https://slurm.schedmd.com/overview.html) is an open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters.
 
 https://cloud.google.com/compute/docs/instances/create-intel-select-solution-hpc-clusters#create_intel_select_solution_verified_clusters_using_slurm-gcp
-
-
-
-
 
 ## Public & Custom Images
 
@@ -208,9 +208,6 @@ https://cloud.google.com/compute/docs/instance-groups/regional-migs
 
 https://www.ssh.com/academy/ssh/public-key-authentication
 
-### PKI
-
-https://www.ssh.com/academy/pki
 
 
 ### VPC firewall rules for VMs
@@ -364,6 +361,25 @@ https://www.opencompute.org/products
 
 https://cloud.google.com/compute/docs/tutorials
 
+### Globally autoscaling a web service on Compute Engine
+
+https://cloud.google.com/compute/docs/tutorials/globally-autoscaling-a-web-service-on-compute-engine
+
+### Building scalable and resilient web applications
+
+https://cloud.google.com/architecture/scalable-and-resilient-apps
+
+### Using autohealing for highly available apps
+
+https://cloud.google.com/compute/docs/tutorials/high-availability-autohealing
+
+### Using load balancing for highly available apps
+
+https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
+
+### Using autoscaling for highly available apps
+
+https://cloud.google.com/compute/docs/tutorials/high-scalability-autoscaling
 
 ## Qwiklabs
 
