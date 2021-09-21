@@ -102,6 +102,10 @@ https://blog.tensorflow.org/2020/12/getting-started-with-distributed-tensorflow-
 
 https://cloud.google.com/bigquery-ml/docs/making-predictions-with-imported-tensorflow-models
 
+#### Running Tensorflow inference workloads with TensorRT5 and NVIDIA T4 GPU
+
+https://cloud.google.com/compute/docs/tutorials/ml-inference-t4
+
 #### Additional Tensorflow Tutorials and Links
 
 [https://github.com/jtoy/awesome-Tensorflow](https://github.com/jtoy/awesome-tensorflow)
