@@ -55,21 +55,21 @@ How is Anthos approach different than AWS Output or Azure Stack.
 https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-compared-aws-outposts-vs-azure-stack-vs-google-anthos.html
 
 
-### Azure Stack approach
+#### Azure Stack approach
 
 Azure Stack is Microsoft's Azure cloud brought into an organization's own data center.  Azure Stack is running Microsoft Hyper-V, Windows and Microsoft networking and storage.   Azure Stack can run on qualified hardware from HPE, DELL, Cisco, Huawei and Lenovo. You can license Azure Stack and purchase your own hardware to install onto it.
 
 
-### AWS Outpost approach
+#### AWS Outpost approach
 
 AWS delivers pre-configured hardware and software to the customer data center or co-location space.  You can run VMware Cloud on AWS or run compute and storage on-premises using native AWS APIs used in the AWS cloud. Users can configure outpost with EC2 instances and EBS. It supports EKS, EMR, RDS, SageMaker and AWS MSK.
 
-### Oracle Cloud at Customer approach
+#### Oracle Cloud at Customer approach
 
 In Oracle's approach, SaaS, CRM, ERP and HCM products are brought into customer's own data centers. Oracle provides converged Oracle hardware, software and management services to run applications using customer's data center, networking and power.
 
 
-### Anthos approach
+#### Anthos approach
 
 Anthos is a combination of GKE on-prem and Anthos Config Management console.  It is hardware agnostic and can be run on existing servers or with VMWare, Dell, HPE, Intel and Lenovo racks.  This approach relies on Kubernetes as a kind of portability layer over multiple clouds, as Anthos can run on AWS and Azure.
 
