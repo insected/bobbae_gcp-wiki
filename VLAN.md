@@ -115,22 +115,22 @@ https://liuhangbin.netlify.app/post/virtual-ifaces/#macvtapipvtap
 
 ## MACSec
 
-MACsec (Media Access Control Security) is an IEEE standard for security in wired Ethernet LANs. Similar to IPsec, as a layer 2 specification, MACsec can protect not only IP traffic but also ARP, neighbor discovery, and DHCP. 
+[MACsec](https://developers.redhat.com/blog/2016/10/14/macsec-a-different-solution-to-encrypt-network-traffic
+) (Media Access Control Security) is an IEEE standard for security in wired Ethernet LANs. Similar to IPsec, as a layer 2 specification, MACsec can protect not only IP traffic but also ARP, neighbor discovery, and DHCP. 
 
-https://developers.redhat.com/blog/2016/10/14/macsec-a-different-solution-to-encrypt-network-traffic
 
 
 ## VETH
 
-The VETH (virtual Ethernet) device is a local Ethernet tunnel. 
+The [VETH](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
+) (virtual Ethernet) device is a local Ethernet tunnel. 
 
-https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
 
 ## VCAN
 
-Similar to the network loopback devices, the VCAN (virtual CAN) driver offers a virtual local [CAN (Controller Area Network)](https://en.wikipedia.org/wiki/CAN_bus) interface, so users can send/receive CAN messages via a VCAN interface. CAN is mostly used in the automotive field nowadays.
+The VCAN (virtual CAN) driver offers a virtual local [CAN (Controller Area Network)](https://en.wikipedia.org/wiki/CAN_bus) interface, so users can send/receive CAN messages via a [VCAN interface](https://en.wikipedia.org/wiki/SocketCAN). [CAN bus](https://en.wikipedia.org/wiki/CAN_bus) is a vehicle bus standard to allow microcontrollers to communicate, mostly used in the automotive field.
 
 ## VXCAN
 
-Similar to the VETH driver, a VXCAN (Virtual CAN tunnel) implements a local CAN traffic tunnel between two VCAN network devices. When you create a VXCAN instance, two VXCAN devices are created as a pair. When one end receives the packet, the packet appears on the device's pair and vice versa. VXCAN can be used for cross-namespace communication.
+Similar to the VETH driver, a [VXCAN](https://cateee.net/lkddb/web-lkddb/CAN_VXCAN.html) (Virtual CAN tunnel) implements a [local CAN traffic tunnel between two VCAN network devices](https://www.lagerdata.com/articles/forwarding-can-bus-traffic-to-a-docker-container-using-vxcan-on-raspberry-pi). When you create a VXCAN instance, two VXCAN devices are created as a pair. When one end receives the packet, the packet appears on the device's pair and vice versa. VXCAN can be used for cross-namespace communication.
 
