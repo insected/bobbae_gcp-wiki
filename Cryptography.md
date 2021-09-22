@@ -102,3 +102,7 @@ https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/
 ### Git object model
 
 http://shafiul.github.io/gitbook/1_the_git_object_model.html
+
+## Vulnerability in Cryptography libraries
+
+https://kerkour.com/blog/rust-cryptography-ecosystem/
