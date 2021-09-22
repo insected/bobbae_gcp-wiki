@@ -12,17 +12,18 @@ VLANs work by [applying tags](https://www.firewall.cx/networking-topics/vlan-net
 
 For example, [VMware NSX Data Center](    https://docs.vmware.com/en/VMware-NSX-Data-Center-for-vSphere/index.html  ) is a network virtualization platform that delivers networking and security components like firewalling, switching, and routing that are defined and consumed in software.
 
-Linux also has rich virtual networking capabilities that are used as basis for hosting VMs and containers, as well as cloud environments.  
+Linux also has [network utilities](https://man7.org/linux/man-pages/man8/ip-link.8.html
+) and  [rich virtual networking capabilities](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
+) that are used as [basis](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
+) for [hosting VMs and containers](https://liuhangbin.netlify.app/post/virtual-ifaces
+), as well as [cloud environments](https://lloydrochester.com/post/unix/virtual_networking_device_types/
+).  
 
 
-https://man7.org/linux/man-pages/man8/ip-link.8.html
 
 
-https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
 
-https://liuhangbin.netlify.app/post/virtual-ifaces
 
-https://lloydrochester.com/post/unix/virtual_networking_device_types/
 
 ### NFV, VNF, SDN
 
