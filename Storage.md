@@ -379,43 +379,36 @@ Companies have a [wide range of options to choose from when storing data and sel
 
 Discuss how traditional [storage models compare to the cloud](https://cloud.google.com/compute/docs/disks) counterparts. 
 
-
-
-
-
 ## Cloud Volume
-
-
 
 https://cloud.google.com/architecture/partners/netapp-cloud-volumes/
 
 
+## Security
 
-## Encryption at Rest
+Various [security](Security) precautions [need to be taken](https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations) to protect [data security](https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-storage-best-practices-to-help-ensure-data-privacy-and-security).
+
+### Data governance
+
+From when the data is ingested to when it can be used for valuable insights and information, management and [data governance](Data-governance) should be considered with the utmost importance for any organization.
+
+
+### Encryption at Rest
 
 
 
 Google Cloud [encrypts all customer content stored at rest](Encryption-at-Rest), without any action required from the customer, using one or more encryption mechanisms.
 
+## Disaster Recovery and Backup
 
-
-
-
-## Rclone
+### Rclone
 
 Similar to `gsutil rsync` [Rclone](https://github.com/rclone/rclone) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
 
 
-
-### GCS and Rclone
+#### GCS and Rclone
 
 https://rclone.org/googlecloudstorage/
-
-## Data governance
-
-From when the data is ingested to when it can be used for valuable insights and information, management and [data governance](Data-governance) should be considered with the utmost importance for any organization.
-
-## Disaster Recovery and Backup
 
 ### Case study ACME Corp
 
