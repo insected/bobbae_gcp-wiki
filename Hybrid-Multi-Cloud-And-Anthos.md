@@ -57,14 +57,14 @@ https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-com
 
 ## OCP
 
-The Open Compute Project (OCP) is a collaborative community focused on redesigning hardware technology to efficiently support the growing demands on compute infrastructure. 
+The [Open Compute Project](https://www.opencompute.org/) (OCP) is a collaborative community focused on redesigning hardware technology to efficiently support the growing demands on compute infrastructure. 
 
-https://www.opencompute.org/
+
 
 
 ## Collie
 
-Collie helps you get an overview over multiple cloud accounts.
+[Collie](https://github.com/meshcloud/collie-cli) helps you get an overview over multiple cloud accounts.
 
-https://github.com/meshcloud/collie-cli
+
 
