@@ -46,7 +46,7 @@ https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-contai
 [https://www.youtube.com/watch?v=TvnZTi_gaNc](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
 
-## Three ways to run containers in GCP
+## Different ways to run containers in GCP
 
 Find out the top three ways you can run your containers on Google Cloud! Google Kubernetes Engine for a container orchestration solution, Cloud Run for a fully serverless approach and Compute Engine to simply use Virtual Machines.
 
