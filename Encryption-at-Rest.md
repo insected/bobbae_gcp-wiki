@@ -1,5 +1,5 @@
 Google Cloud [encrypts all customer content stored at rest](https://cloud.google.com/security/encryption/default-encryption
-), without any action required from the customer, using one or more encryption mechanisms.
+), without any action required from the customer, using one or more tencryption mechanismsy(Cryptography).
 
 Data for storage is split into chunks, and each chunk is encrypted with a unique data encryption key. These data encryption keys are stored with the data, encrypted with ("wrapped" by) key encryption keys that are exclusively stored and used inside Google's central Key Management Service. [Google's Key Management Service](  https://cloud.google.com/security-key-management  ) is redundant and globally distributed.
 
