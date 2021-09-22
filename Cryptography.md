@@ -9,12 +9,25 @@ There are many [encryption algorithms](https://en.wikipedia.org/wiki/Category:Cr
 
 https://cloud.google.com/security/encryption/default-encryption#googles_default_encryption
 
+
+
 ## PKI
 
 A [public-key infrastructure](PKI) (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption. The purpose of a [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure) is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. 
 
 
+## Google managed certificates
 
+https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
+
+## Google Certificate Authority Service
+
+https://cloud.google.com/certificate-authority-service
+
+## Cloud KMS
+
+[Cloud KMS](
+Cloud-KMS) is a key management service that lets you manage symmetric and asymmetric cryptographic keys.
 
 ## SSH
 
@@ -54,13 +67,6 @@ To enable HTTPS on your website, you need to get a certificate (a type of file) 
 
 https://github.com/acmesh-official/acme.sh
 
-## Google managed certificates
-
-https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
-
-## Google Certificate Authority Service
-
-https://cloud.google.com/certificate-authority-service
 
 
 ## IPSec
