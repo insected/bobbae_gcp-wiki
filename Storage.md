@@ -61,9 +61,8 @@ You might also wonder whether ext4 is still in active development at all, given 
 
 https://www.salvagedata.com/btrfs-zfs-xfs-ext4-how-are-they-different/
 
-### Elevator Algorithm
 
-https://wikipedia.org/wiki/Elevator_algorithm
+
 
 ### Flash file systems
 
@@ -142,6 +141,33 @@ Small Computer System Interface is a set of standards for physically connecting 
 
 
 https://www.lifewire.com/small-computer-system-interface-scsi-2626002
+
+#### SCSI Hard drives
+
+https://www.servermonkey.com/blog/servers-101-hdd-interface-comparison-sata-vs-scsi-vs-sas.html
+
+#### Disk arrays
+
+https://en.wikipedia.org/wiki/Disk_array
+
+
+### Types of Hard drives
+
+https://ttrdatarecovery.com/types-of-hard-drives-user-guide/
+
+### Disk scheduling
+
+#### Elevator Algorithm
+
+https://wikipedia.org/wiki/Elevator_algorithm
+
+#### SCAN
+
+https://www.geeksforgeeks.org/scan-elevator-disk-scheduling-algorithms/
+
+#### C-SCAN
+
+https://www.geeksforgeeks.org/c-scan-disk-scheduling-algorithm/
 
 ### RAID
 
