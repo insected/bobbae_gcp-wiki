@@ -42,32 +42,6 @@ https://www.redhat.com/en/topics/data-storage/file-block-object-storage
 
 https://www.guru99.com/difference-between-file-system-and-dbms.html
 
-## Storage Protocols
-
-https://www.sciencedirect.com/topics/computer-science/storage-protocol
-
-
-## NAS
-
-Network-attached storage (NAS) is a file-level (as opposed to block-level storage) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration. It is often manufactured as a computer appliance – a purpose-built specialized computer.
-
-
-https://www.redhat.com/en/topics/data-storage/network-attached-storage
-
-### NFS
-
-Network File System (NFS) is a distributed file system protocol originally developed by Sun Microsystems.
-
-https://en.wikipedia.org/wiki/Network_File_System
-
-
-### NFS Appliance
-
-https://www.netapp.com/atg/publications/publications-file-system-design-for-an-nfs-file-server-appliance-20000024/
-
-
-
-
 ## Many types of filesystems
 
 
@@ -193,17 +167,6 @@ https://www.pcmag.com/news/ssd-vs-hdd-whats-the-difference
 
 https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/
 
-### SAN
-
-A storage area network (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage.  A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
-
-https://www.snia.org/education/storage_networking_primer/san/what_san
-
-
-### Types of SAN
-
-https://en.wikipedia.org/wiki/Storage_area_network#Network_protocols
-
 
 ### Linux Block devices
 
@@ -247,6 +210,47 @@ https://cloud.google.com/compute/docs/disks/optimizing-pd-performance
 ### GCP Local SSD
 
 [Local SSDs](https://cloud.google.com/local-ssd) are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
+
+## Storage Protocols
+
+https://www.sciencedirect.com/topics/computer-science/storage-protocol
+
+
+### NFS
+
+[Network File System](https://en.wikipedia.org/wiki/Network_File_System
+) (NFS) is a distributed file system protocol originally developed by Sun Microsystems.
+
+
+### NAS
+
+[Network-attached storage](https://www.redhat.com/en/topics/data-storage/network-attached-storage
+) (NAS) is a file-level (as opposed to block-level storage) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration. It is often manufactured as a computer appliance – a purpose-built specialized computer.
+
+Google [Filestore](Filestore) uses NAS.
+
+
+
+### NFS Appliance
+
+https://www.netapp.com/atg/publications/publications-file-system-design-for-an-nfs-file-server-appliance-20000024/
+
+
+
+
+### SAN
+
+A storage area network (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage.  A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
+
+https://www.snia.org/education/storage_networking_primer/san/what_san
+
+
+### Types of SAN
+
+https://en.wikipedia.org/wiki/Storage_area_network#Network_protocols
+
+
+
 
 ## Object Storage
 
