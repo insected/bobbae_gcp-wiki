@@ -282,6 +282,10 @@ https://www.backblaze.com/b2/cloud-storage.html
 
 https://www.coralnodes.com/amazon-s3-alternatives/
 
+####  GCP vs AWS Storage  comparisons
+
+https://www.gspann.com/resources/blogs/gcp-vs-aws:-comparing-the-top-cloud-storage-service-providers/
+
 
 ### Azure Blob Storage
 
@@ -357,7 +361,6 @@ https://cloud.google.com/architecture/partners/netapp-cloud-volumes/
 
 
 
-
 ## Encryption at Rest
 
 
@@ -373,9 +376,13 @@ Google uses a common cryptographic library, Tink, which incorporates our FIPS 14
 
 https://cloud.google.com/security/encryption/default-encryption
 
+
+
 ## Rclone
 
 Similar to `gsutil rsync` [Rclone](https://github.com/rclone/rclone) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
+
+
 
 ### GCS and Rclone
 
