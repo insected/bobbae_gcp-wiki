@@ -1,5 +1,12 @@
-[Filestore](https://cloud.google.com/filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) file servers on Google Cloud for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters.
+[Filestore](https://cloud.google.com/filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) file servers on Google Cloud for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters. Filestore  file shares can be [mounted using NFS clients](https://cloud.google.com/filestore/docs/mounting-fileshares).
 
+## Quickstart
+
+https://cloud.google.com/filestore/docs/quickstart-gcloud
+
+## Comparison to AWS EFS
+
+[Amazon EFS](https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html) file system can be mounted through the Network File System versions 4.0 and 4.1 (NFSv4) protocol. We recommend using a current generation Linux NFSv4.1 client.
 
 ## Distributed File Systems
 
