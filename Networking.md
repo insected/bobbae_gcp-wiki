@@ -453,7 +453,7 @@ All of the CNIs can be deployed by simply running a pod or a daemonset that laun
 
 ## IOT Networking
 
-There are [networking technologies](IoT-Networking) for IoT that allow communication between devices over wired and wireless environments.
+There are [networking technologies for IoT](IoT-Networking)  that allow communications between devices over wired and wireless environments.
 
 
 ## Time
