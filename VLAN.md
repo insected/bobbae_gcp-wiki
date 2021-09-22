@@ -26,7 +26,28 @@ https://lloydrochester.com/post/unix/virtual_networking_device_types/
 
 ### NFV, VNF, SDN
 
+#### Comparison of NFV, VNF, SDN
+
 https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-automation/
+
+#### NFV
+
+[Network Function Virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) is an approach by Telecom companies for deployment, management and scaling of network functions. NFV allows for decoupling and virtualization of existing OSS or legacy hardware to make them software driven and use standardized hardware. NFV is about overarching concept as a framework for running SDN functions.
+
+#### VNF
+
+[Virtualized Network Function](https://www.thousandeyes.com/learning/glossary/vnf-virtual-network-functions) is the implementation of a network function by utilizing a software decoupled from the underlying hardware infrastructure. This concerns with the general requirement for significant changes to existing code in order to convert a Network Function (NF) into a Virtualized Network Function (VNF). Common VNFs include virtualized routers, firewalls, WAN optimization, and [network address translation](https://en.wikipedia.org/wiki/Network_address_translation) (NAT) services.
+
+#### SDN
+
+[Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) is an approach that decouples the control plane from the data plane in networking equipment.  NFV and SDN  are complimentary. SDN enables keeping the intelligence of the network within the controller, leaving the network equipment handling data which can simply execute operations mandated by the controller.  The network equipment does not need powerful controller capabilities and can be based on POTS (Plain, Off the shelf) virtualized servers.
+
+#### MANO
+
+[MANO](https://en.wikipedia.org/wiki/Network_function_virtualization#Management_and_orchestration_%28MANO%29) is defined by [ETSI](https://en.wikipedia.org/wiki/ETSI) as the layer that manages and orchestrates the cloud resources infrastructure.  It consists of VIM, VNFM, and Orchestrator.  Together they provide a full end-to-end lifecycle solution of NFV orchestration and management -- from installation, deployment and through to post-deployment.   MANO makes use of [TOSCA](https://en.wikipedia.org/wiki/OASIS_TOSCA) as NFV orchestration standard.
+
+
+
 
 ## OVS
 
@@ -37,42 +58,45 @@ It is designed to enable massive network automation through programmatic extensi
 
 ## Bridge
 
-A Linux bridge behaves like a network switch. It forwards packets between interfaces that are connected to it. It's usually used for forwarding packets on routers, on gateways, or between VMs and network namespaces on a host. It also supports STP, VLAN filter, and multicast snooping.
+A [Linux bridge](https://wiki.linuxfoundation.org/networking/bridge) behaves like a network switch. It forwards packets between interfaces that are connected to it. It's usually used for forwarding packets on routers, on gateways, or between VMs and network namespaces on a host. It also supports STP, VLAN filter, and multicast snooping.
 
 https://wiki.linuxfoundation.org/networking/bridge
 
 ## Bonding
 
-The Linux bonding driver provides a method for aggregating multiple network interfaces into a single logical "bonded" interface. The behavior of the bonded interface depends on the mode; generally speaking, modes provide either hot standby or load balancing services.
+The Linux [bonding](https://www.learnitguide.net/2015/07/what-is-bonding-how-to-configure-in-linux.html) driver provides a method for aggregating multiple network interfaces into a single logical "bonded" interface. The behavior of the bonded interface depends on the mode; generally speaking, modes provide either hot standby or load balancing services.
 
-https://wiki.linuxfoundation.org/networking/bridge
 
 ## Team device
 
-Similar a bonded interface, the purpose of a team device is to provide a mechanism to group multiple NICs (ports) into one logical one (teamdev) at the L2 layer.
+Similar a bonded interface, the purpose of a [team device](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-comparison_of_network_teaming_to_bonding) is to provide a mechanism to group multiple NICs (ports) into one logical one (teamdev) at the L2 layer.
 
-https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-comparison_of_network_teaming_to_bonding
+
 
 ## VLAN
 
-A VLAN, aka virtual LAN, separates broadcast domains by adding tags to network packets. 
+A [VLAN](https://techhub.hpe.com/eginfolib/networking/docs/switches/5820x-5800/5998-7387r_l2-lan_cg/content/441756596.htm), aka virtual LAN, separates broadcast domains by adding tags to network packets. 
 
-https://techhub.hpe.com/eginfolib/networking/docs/switches/5820x-5800/5998-7387r_l2-lan_cg/content/441756596.htm
+
 
 ## VXLAN
 
-VXLAN (Virtual eXtensible Local Area Network) is a tunneling protocol designed to solve the problem of limited VLAN IDs (4,096) in IEEE 802.1q. It is described by [IETF RFC 7348](https://datatracker.ietf.org/doc/html/rfc7348).
+[VXLAN](https://networkdirection.net/articles/routingandswitching/vxlanoverview/vxlanframes/) (Virtual eXtensible Local Area Network) is a tunneling protocol designed to solve the problem of limited VLAN IDs (4,096) in IEEE 802.1q. It is described by [IETF RFC 7348](https://datatracker.ietf.org/doc/html/rfc7348).
 
-https://networkdirection.net/articles/routingandswitching/vxlanoverview/vxlanframes/
+
 
 ## MACVLAN
 
 
-With VLAN, you can create multiple interfaces on top of a single one and filter packages based on a VLAN tag. With MACVLAN, you can create multiple interfaces with different Layer 2 (that is, Ethernet MAC) addresses on top of a single one.
+With VLAN, you can create multiple interfaces on top of a single one and filter packages based on a VLAN tag. With [MACVLAN](https://hicu.be/bridge-vs-macvlan), you can create multiple interfaces with different Layer 2 (that is, Ethernet MAC) addresses on top of a single one.
 
 Before MACVLAN, if you wanted to connect to physical network from a VM or namespace, you would have needed to create TAP/VETH devices and attach one side to a bridge and attach a physical interface to the bridge on the host at the same time, as shown below.
 
-https://hicu.be/bridge-vs-macvlan
+
+
+### Running Openshift on Openstack with Macvlan CNI Plug-in
+
+https://cloud.redhat.com/blog/openshift-on-openstack-with-macvlan-cni-plug-in
 
 ## IPVLAN
 
