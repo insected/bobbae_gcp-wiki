@@ -1,5 +1,5 @@
 
-### 802.15.4
+## 802.15.4
 
 [IEEE 802.15.4](https://standards.ieee.org/standard/802_15_4-2020.html
 ) is a technical standard which defines the operation of low-rate wireless personal area networks (LR-WPANs). It specifies the physical layer and media access control for LR-WPANs, and is maintained by the IEEE 802.15 working group, which defined the standard in 2003.
@@ -20,6 +20,8 @@
 ) is a media access control (MAC) layer protocol designed for large-scale public networks with a single operator. It is built using Semtech’s LoRa modulation as the underlying PHY, but it is important to note that LoRa and LoRaWAN are two seperate things that are often (mistakenly) conflated. 
 
 
+
+## Telecom
 
 ### GPRS 
 
@@ -67,6 +69,8 @@ https://cloud.google.com/blog/topics/telecommunications/google-cloud-joins-o-ran
 ### Cellular IoT Overview
 
 https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
+
+## IoT message queue protocols
 
 ### MQTT 
 
@@ -129,5 +133,16 @@ Modbus, a serial communication protocol developed by Modicon in 1979. It is deve
 
 A [Controller Area Network](https://en.wikipedia.org/wiki/CAN_bus
 ) (CAN bus) is a robust vehicle bus standard designed to allow microcontrollers and devices to communicate with each other's applications without a host computer. It is a message-based protocol, designed originally for multiplex electrical wiring within automobiles to save on copper, but it can also be used in many other contexts. For each device, the data in a frame is transmitted sequentially but in such a way that if more than one device transmits at the same time, the highest priority device can continue while the others back off. Frames are received by all devices, including by the transmitting device.
+
+
+## Mesh
+
+### Bluetooth Mesh
+
+[Bluetooth mesh networking](https://en.wikipedia.org/wiki/Bluetooth_mesh_networking) uses [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) to allow for many-to-many communication over Bluetooth radio.
+
+### Wireless mesh
+
+[Wireless mesh network](https://en.wikipedia.org/wiki/Wireless_mesh_network) organizes radio nodes in a mesh topology. Many use a [FDM](https://en.wikipedia.org/wiki/Frequency-division_multiplexing) method while some use [TDM](https://en.wikipedia.org/wiki/Time-division_multiplexing).
 
 
