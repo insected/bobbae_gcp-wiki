@@ -401,6 +401,14 @@ Google Cloud [encrypts all customer content stored at rest](Encryption-at-Rest),
 
 ## Disaster Recovery and Backup
 
+### Filestore Enterprise
+
+https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announces-filestore-enterprise-for-business-critical-apps
+
+### Backup for GKE
+
+https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-launches-backups-for-gke
+
 ### Rclone
 
 Similar to `gsutil rsync` [Rclone](https://github.com/rclone/rclone) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
