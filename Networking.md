@@ -488,6 +488,10 @@ https://cloud.google.com/spanner/docs/true-time-external-consistency
 
 https://learnyousomeerlang.com/time
 
+### Plesiochronous
+
+A [plesiochronous system](https://en.wikipedia.org/wiki/Plesiochronous_system) is one where different parts of the system are almost, but not quite, perfectly synchronised. 
+
 ## Qwiklabs
 
 
