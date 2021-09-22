@@ -108,14 +108,11 @@ https://wikipedia.org/wiki/NVM_Express
 
 ## GCP Filestore
 
-[Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) based [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud (GCP) for use with applications running on Compute Engine virtual machines (VMs) instances or Google Kubernetes Engine clusters.
+[Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) based [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud  for use with applications running on Compute Engine virtual machines  instances or Google Kubernetes Engine clusters.
 
 
 
-You can create and manage [Filestore](https://cloud.google.com/filestore/docs) instances by using the Google Cloud Console or the gcloud command-line tool, and interact with the NFS file share on the instance by using standard operating system commands.
-
-
-
+You can create and manage [Filestore](https://cloud.google.com/filestore/docs) instances by using the Google Cloud Console or the [gcloud command-line tool](https://cloud.google.com/sdk/gcloud/reference/filestore), and interact with the [NFS file share](https://cloud.google.com/filestore/docs/nfs) on the instance by using standard operating system commands.
 
 ### Backups
 
@@ -123,17 +120,15 @@ You can create and manage [Filestore](https://cloud.google.com/filestore/docs) i
 
 ## Block Storage
 
-Discuss block storage devices you have in your computers.
+Discuss what kinds of [block storage devices](https://www.ibm.com/cloud/learn/block-storage) you have in your computers.
 
+### Differences between block and file storage 
 
-https://www.ibm.com/cloud/learn/block-storage
-
+https://www.atlantic.net/dedicated-server-hosting/what-is-block-storage/
 
 ### GCP Block storage resources
 
 Block storage resources have different performance characteristics. Consider your [storage size and performance requirements](https://cloud.google.com/compute/docs/disks) to help you determine the correct block storage type for your instances.
-
-
 
 ### SCSI
 
