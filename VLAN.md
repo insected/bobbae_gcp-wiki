@@ -2,7 +2,7 @@
 
 The protocol most commonly used today to support VLANs is [IEEE 802.1Q]( https://wikipedia.org/wiki/IEEE_802.1Q   ).
 
-VLANs work by applying tags to network frames and handling these tags in networking systems – creating the appearance and functionality of network traffic that is physically on a single network but acts as if it is split between separate networks. In this way, VLANs can keep network applications separate despite being connected to the same physical network, and without requiring multiple sets of cabling and networking devices to be deployed.
+VLANs work by [applying tags](https://www.firewall.cx/networking-topics/vlan-networks/219-vlan-tagging.html) to network frames and handling these tags in networking systems – creating the appearance and functionality of network traffic that is physically on a single network but acts as if it is split between separate networks. In this way, VLANs can [keep network applications separate](https://en.m.wikipedia.org/wiki/VLAN_Trunking_Protocol) despite being connected to the same physical network, and without requiring multiple sets of cabling and networking devices to be deployed.
 
 
 ## Virtual Networking 
