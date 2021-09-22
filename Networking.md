@@ -473,8 +473,7 @@ https://wikipedia.org/wiki/Precision_Time_Protocol
 
 ### Clock synchronization in distributed systems
 
-https://www.grin.com/document/69617
-
+https://www.geeksforgeeks.org/synchronization-in-distributed-systems/
 
 ### Vector clock
 
