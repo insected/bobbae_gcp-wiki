@@ -1,43 +1,28 @@
 
-
-
 [DevOps](https://cloud.google.com/devops/) is an organizational and cultural movement that aims to increase software delivery velocity, improve service reliability, and build shared ownership among software stakeholders. 
 
 The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, faster and more responsive software by bringing Development and Operations teams together. [DevOps](https://devops-research.com/) is not a methodology or [a suite of tools](https://en.wikipedia.org/wiki/DevOps_toolchain) but a cultural shift to remove the barriers between Dev and Ops in order to meet the need for shorter and more frequent software deliveries.
 
-
-This will allow your organization to respond in a more agile manner to changing business requirements. The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
+The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
 ## Cloud Build
 
 [Cloud Build](Cloud-Build) is a service that executes your builds on Google Cloud Platform's infrastructure.
-
-
 
 ## DevSecOps
 
 [DevSecOps](https://resources.github.com/whitepapers/Architects-guide-to-DevOps/) isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](Security) and [privacy](Privacy) must also [play an integrated role](https://techbeacon.com/security/devsecops-realities-app-dev-teams-must-accept) in the [full life cycle of your apps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/).
 
 
-DevSecOps is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment, also known as the DevOps movement. Embracing this shift-left mentality requires organizations to bridge the gap that usually exists between development and security teams to the point where many of the security processes are automated and handled by the development team itself.
+DevSecOps is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment, also known as the DevOps movement. Embracing this [shift-left mentality](https://smartbear.com/learn/automated-testing/shifting-left-in-testing/) requires organizations to bridge the gap that usually exists between development and security teams to the point where many of the security processes are automated and handled by the development team itself.
 
 ### Security and Privacy
 
 Please review some [security topics](Security) and [privacy issues](Privacy) from the [DevSecOps point of view](https://www.csoonline.com/article/3245748/what-is-devsecops-developing-more-secure-applications.html).
 
-
-
-
-### DevSecOps Case Study
-
-https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-pipeline-with-jfrog-artifactory-and-gke-on-prem
-
 ### Binary Authorization
 
 [Binary Authorization](https://cloud.google.com/binary-authorization) is a deploy-time security control that ensures only trusted container images are deployed on Google Kubernetes Engine (GKE) or Cloud Run. With Binary Authorization, you can require images to be signed by trusted authorities during the development process and then enforce signature validation when deploying. By enforcing validation, you can gain tighter control over your container environment by ensuring only verified images are integrated into the build-and-release process.
-
-
-
 
 ## DevOps Research and Assessment
 
@@ -90,9 +75,6 @@ https://cloud.google.com/architecture/jenkins-on-kubernetes-engine-tutorial
 
 [Jenkins X](https://jenkins-x.io/) provides pipeline automation, built-in [GitOps](GitOps).
 
-
-
-
 Try [this tutorial installing and deploying](https://itnext.io/deploy-a-basic-python-application-using-jenkins-x-kubernetes-4adace2fe345) a python app to kubernetes via jenkins X.
 
 
@@ -107,7 +89,6 @@ Use [Spinnaker](https://spinnaker.io/) to build a container based CI/CD pipeline
 https://cloud.google.com/architecture/automated-canary-analysis-kubernetes-engine-spinnaker
 
 #### Spinnaker vs Jenkins
-
 
 https://www.opsmx.com/blog/jenkins-vs-spinnaker/
 
@@ -216,29 +197,19 @@ Chaos Monkey is responsible for randomly terminating instances in production to 
 
 ### Distributed load testing using Google Kubernetes Engine
 
-
 https://cloud.google.com/architecture/distributed-load-testing-using-gke
 
 ## Building Containers without docker
 
 https://blog.alexellis.io/building-containers-without-docker/
 
-
 ## DataOps vs MLOps
-
 
 [DataOps](DataOps) takes the practices and values of DevOps and extends it to data analytics workflows and goals. It applies the focus on collaboration and shared responsibility and shifts it to the engineers and admins that collect, store, analyze, secure, and deliver data.
 
 * [DataOps](https://en.wikipedia.org/wiki/DataOps) is an automated, process-oriented methodology, used by analytic and data teams, to improve the quality and reduce the cycle time of data analytics.
 
 * [MLOps](MLOps) is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and [improve the quality of production ML](https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8)  while also focusing on business and regulatory requirements.
-
-
-
-
-
-
-
 
 
 ## Ops terminology
@@ -273,6 +244,11 @@ https://cloud.google.com/build/docs/automating-builds/build-repos-from-github
 ### Mirroring a repository
 
 https://cloud.google.com/source-repositories/docs/mirroring-repositories
+
+
+### DevSecOps Case Study
+
+https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-pipeline-with-jfrog-artifactory-and-gke-on-prem
 
 
 ## Qwiklabs
