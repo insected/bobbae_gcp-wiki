@@ -3,7 +3,7 @@
 
 ## Introduction
 
-[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](https://spark.apache.org/) and [Apache Hadoop](https://hadoop.apache.org/) service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. 
+[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](https://en.m.wikipedia.org/wiki/Apache_Spark) and [Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. 
 
 
 
