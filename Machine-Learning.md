@@ -19,6 +19,13 @@ Vertex [AI](AI) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together 
 https://cloud.google.com/vertex-ai
 
 
+## AI Hub
+
+[AI Hub](AI-Hub) is a platform that lets us centralize our code and knowledge in a way that can step up the pace of deployment and learnings globally.
+
+## AI Platform
+
+[AI Platform](AI-Platform) is a development platform to build AI applications that run on GCP and on-premises. 
 
 ## AutoML
 
@@ -868,13 +875,6 @@ If the [Natural Language API](https://cloud.google.com/natural-language) is not 
 Fine-tuning big models like [BERT](https://arxiv.org/abs/1810.04805) is a computationally expensive process, especially when a lot of cross-validation is performed.
 
 
-## AI Hub
-
-[AI Hub](AI-Hub) is a platform that lets us centralize our code and knowledge in a way that can step up the pace of deployment and learnings globally.
-
-## AI Platform
-
-[AI Platform](AI-Platform) is a development platform to build AI applications that run on GCP and on-premises. 
 
 ## ML Frameworks
 
