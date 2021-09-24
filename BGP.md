@@ -14,6 +14,14 @@ http://what-when-how.com/ipv6-advanced-protocols-implementation/introduction-to-
 
 https://www.asykim.com/blog/kubernetes-traffic-engineering-with-bgp
 
+### Kubernetes and MetaLB and BGP
+
+https://github.com/packet-labs/kubernetes-bgp
+
+### XDP and BGP
+
+https://blog.apnic.net/2020/04/30/how-to-build-an-xdp-based-bgp-peering-router/
+
 ## VRRPv2 
 
 Virtual Router Redundancy Protocol (VRRP) is an election protocol that provides redundancy to routers within a Local Area Network (LAN).
