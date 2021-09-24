@@ -58,7 +58,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg#ingress_wi
 
 A [Kubernetes Ingress](  https://kubernetes.io/docs/concepts/services-networking/ingress/ ) is not a type of [Service](  https://kubernetes.io/docs/concepts/services-networking/service/ ). It is a collection of rules. An Ingress Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
 
-Kubernetes ingress is a collection of routing rules that govern how external users access services running in a [Kubernetes cluster](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/  
+[Kubernetes](Kubernetes) ingress is a collection of routing rules that govern how external users access services running in a [Kubernetes cluster](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/  
 ) .
 
 In a typical Kubernetes application, you have pods running inside a cluster and a load balancer running outside. The load balancer takes connections from the internet and routes the traffic to an edge proxy that sits inside your cluster. This edge proxy is then responsible for routing traffic into your pods. The [edge proxy](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/#edge-proxy--ingress-controller) is commonly called an ingress controller because it is commonly configured using ingress resources in Kubernetes, however the edge proxy can also be configured with custom resource definitions (CRDs) or annotations.
