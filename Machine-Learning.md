@@ -729,7 +729,7 @@ https://www.kaggle.com/getting-started/179177
 
 ### Shallow vs. Deep learning
 
-A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called deep neural networks. In deep neural network learning (or, simply, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
+A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called [deep neural networks](https://physicsbaseddeeplearning.org/intro.html). In deep neural network learning (or, simply, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
 
 https://www.mathworks.com/discovery/deep-learning.html
 
