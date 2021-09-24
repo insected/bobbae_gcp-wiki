@@ -1,5 +1,5 @@
 
-[Looker](  https://looker.com/ ) lets data experts at each organization describe their data using a lightweight modeling language called LookML. 
+[Looker](  https://looker.com/ ) lets experts describe their data using a lightweight modeling language called LookML. 
 
 [LookML](  https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml ) tells Looker how to query data, so everyone in the organization can create easy-to-read [reports]( https://docs.looker.com/dashboards/dashboards-reports-intro   ) and [dashboards](   https://docs.looker.com/dashboards  ) to [explore](https://docs.looker.com/data-modeling/learning-lookml/explore-menu-and-field-picker) patterns of data. Looker offers additional features for creating custom data applications and experiences.
 
@@ -40,7 +40,7 @@ https://docs.looker.com/data-modeling/learning-lookml/how-looker-generates-sql
 https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/creating-dimensions-and-measures
 
 
-### Explorers
+### Explores
 
 https://docs.looker.com/exploring-data/exploring-data
 
@@ -52,10 +52,7 @@ Defining the language of your business with LookML.
 
 [https://docs.looker.com/data-modeling/learning-lookml/lookml-intro](https://docs.looker.com/data-modeling/learning-lookml/lookml-intro)
 
-
-
-
-Looker development foundations.
+### Looker development foundations
 
 [https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
 
@@ -68,22 +65,22 @@ Looker development foundations.
 
 https://help.looker.com/hc/en-us/articles/360001784587-Best-Practice-Writing-Sustainable-Maintainable-LookML
 
-## Training
+## Learning Looker
 
 
 https://connect.looker.com/
 
-## Database to Dashboard
+### Database to Dashboard
 
 [https://www.youtube.com/watch?v=HBgJWCBOOZg](https://www.youtube.com/watch?v=HBgJWCBOOZg)
 
 
 
-## Dimension, filter, and parameter types
+### Dimension, filter, and parameter types
 
 https://docs.looker.com/reference/field-reference/dimension-type-reference
 
-## Building Reports in Looker
+### Building Reports in Looker
 
 Looker for data explorers.
 
@@ -91,7 +88,7 @@ Looker for data explorers.
 
 
 
-## Training business users
+### Training business users
 
 [https://training.looker.com/training-business-users](https://training.looker.com/training-business-users)
 
@@ -99,32 +96,32 @@ Looker for data explorers.
 
 
 
-## Looker, Building Explores:
+### Looker, Building Explores:
 
 [https://training.looker.com/building-explores-users-will-love](https://training.looker.com/building-explores-users-will-love)
 
 
-## Looker, Dashboards
+### Looker, Dashboards
 
 [https://training.looker.com/designing-great-dashboards](https://training.looker.com/designing-great-dashboards)
 
 
-## Looker API Examples
+### Looker API Examples
 
 [https://training.looker.com/series/recorded-webinars/the-looker-api](https://training.looker.com/series/recorded-webinars/the-looker-api)
 
 
-## Recorded Training
+### Recorded Training
 
 
 [https://training.looker.com/series/recorded-webinars](https://training.looker.com/series/recorded-webinars)
 
-## Performance Best Practice
+### Performance Best Practice
 
 https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
 
 
-## Extension Framework
+### Extension Framework
 
 The Looker extension framework is a development framework that significantly reduces the effort and complexity of building custom JavaScript data applications and tools.
 
@@ -193,40 +190,41 @@ https://looker.com/platform/directory/home
 
 https://cloud.google.com/certification/guides/lookml-developer
 
+## Comparisons
 
-## Looker vs  Tableau
+### Looker vs  Tableau
 
 
 
 
 [https://looker.com/compare/looker-vs-tableau](https://looker.com/compare/looker-vs-tableau)
 
-## Looker and Data Studio
+### Looker and Data Studio
 
 Google [Data Studio](Data-Studio) is a visualization and reporting tool, and an integral part of Google Marketing Platform. It enables an enhanced approach to decision-making, allowing your entire organization to readily access and use marketing insights.
 
 https://infotrust.com/articles/google-data-studio-looker-comparison/
 
 
-## The Data Modeling Layer
+### The Data Modeling Layer
 
 [https://www.holistics.io/blog/the-data-modeling-layer/](https://www.holistics.io/blog/the-data-modeling-layer/)
 
-## dbt
+### dbt
 
 dbt is a transformation workflow and data pipeline tool that lets teams collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation.
 
 https://www.getdbt.com/docs/
 
-### dbt tutorial with BigQuery
+#### dbt tutorial with BigQuery
 
 https://docs.getdbt.com/tutorial/setting-up
 
-## How do you decide what to model in dbt vs LookML
+#### How do you decide what to model in dbt vs LookML
 
 [https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/](https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/)
 
-## Dbt vs. Matillion vs. LookML
+#### Dbt vs. Matillion vs. LookML
 
 [https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/](https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/)
 
