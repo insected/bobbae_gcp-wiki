@@ -890,7 +890,7 @@ The Estimators API gives us a nice workflow of getting our raw data, passing it 
 
 [Keras](Keras) is a neural network library. It wraps the efficient numerical computation libraries Theano and TensorFlow and allows you to define and train neural network models.
 
-### Pytorch
+### PyTorch
 
 [PyTorch](PyTorch)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library.
 
