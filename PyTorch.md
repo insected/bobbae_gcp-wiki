@@ -1,6 +1,7 @@
 [PyTorch](https://pytorch.org/) is an optimized tensor library for deep learning using GPUs and CPUs. It based on [Torch](https://github.com/torch/torch7) library for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab (FAIR).
 
-A number of pieces of deep learning software are built on top of PyTorch, including Tesla Autopilot, Uber's Pyro, HuggingFace's Transformers, PyTorch Lightning, and Catalyst.
+
+A number of pieces of deep learning software are built on top of [PyTorch](  https://www.guru99.com/pytorch-tutorial.html ), including Tesla Autopilot, Uber's Pyro, HuggingFace's Transformers, PyTorch Lightning, and Catalyst.
 
 PyTorch provides two high-level features:
 
@@ -31,4 +32,9 @@ https://github.com/pytorch/examples
 ## PyTorch  Video course
 
 https://www.youtube.com/watch?v=GIsg-ZUy0MY
+
+
+## PyTorch on Kubeflow and Vertex Pipelines
+
+https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines
 
