@@ -14,7 +14,7 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 [https://www.youtube.com/watch?v=h1LvACJWjKc](https://www.youtube.com/watch?v=h1LvACJWjKc)
 
 
-[Dataproc Metastore](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/cloud-hive-metastore-now-available/amp/ ) can be used as a [centralized metadata repository]( 
+[Dataproc Metastore](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/cloud-hive-metastore-now-available/amp/ ) is a managed [Hive metastore](   https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/ ) that can be used as a [centralized metadata repository]( 
  https://cloud.google.com/dataproc-metastore/docs  ) that can be shared among various ephemeral Dataproc clusters running different [open source components](https://cloud.google.com/dataproc/docs/concepts/components/overview#available_optional_components ).
 
 
