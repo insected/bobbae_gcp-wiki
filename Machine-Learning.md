@@ -854,7 +854,8 @@ https://developers.google.com/machine-learning/crash-course/embeddings/obtaining
 
 #### spaCy
 
-https://spacy.io/
+[spaCy]( https://spacy.io/  ) supports a number of [transfer and multi-task learning workflows](  https://spacy.io/usage/embeddings-transformers ) that can often help improve your pipeline’s efficiency or accuracy.
+
 
 https://applied-language-technology.readthedocs.io/en/latest/notebooks/part_iii/04_embeddings_continued.html
 
