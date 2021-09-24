@@ -1,23 +1,26 @@
 
 Links for the [GCP Learning main document](GCP-Learning)
 
+## List of lists
 
-## Videos
+https://en.m.wikipedia.org/wiki/List_of_lists_of_lists
+
+## GCP related Videos
 
 - https://www.youtube.com/googlecloud
 - https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 
-## Newsletter
+## GCP related Newsletter
 
 - https://www.gcpweekly.com/
 
-## Podcasts
+## GCP related Podcasts
 
 - https://gcppodcast.com/
 - https://kubernetespodcast.com/
 - https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
 
-## Blogs
+## GCP related Blogs
 
 - https://cloud.google.com/blog/products/gcp
 - https://cloud.google.com/blog/products/data-analytics
