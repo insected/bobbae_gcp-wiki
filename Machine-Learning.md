@@ -266,23 +266,10 @@ In situations where it is either impossible or impractical for a human to propos
 
 
 
-## Tensorflow
 
 
-Created by the [Google Brain team](https://research.google/teams/brain/), 
-[TensorFlow](Tensorflow) is an open source library for numerical computation and large-scale machine learning.
 
 
-## Tensorflow Example: Plain and Simple estimators
-
-
-[TensorFlow](  TensorFlow ) has a pretty large API surface, but the part we are going to focus on is high-level APIs, called [Estimators](   https://www.tensorflow.org/guide/estimator ).
-
-https://towardsdatascience.com/plain-and-simple-estimators-d8d3f4c185c1
-
-The Estimators API gives us a nice workflow of getting our raw data, passing it through an input function, setting up our feature columns and model structure, running our training, and running our evaluation.
-
-[https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
 
 ## Feature Engineering
 
@@ -871,7 +858,22 @@ https://developers.google.com/machine-learning/crash-course/embeddings/obtaining
 
 ### Tensorflow 
 
-[Tensorflow](Tensorflow) is an open source, powerful, portable machine learning library developed by Google that can work with very large datasets.
+
+
+Created by the [Google Brain team](https://research.google/teams/brain/), 
+[TensorFlow](Tensorflow) is an open source library for numerical computation and large-scale machine learning.
+
+
+#### Tensorflow Example: Plain and Simple estimators
+
+
+[TensorFlow](  TensorFlow ) has a pretty large API surface, but the part we are going to focus on is high-level APIs, called [Estimators](   https://www.tensorflow.org/guide/estimator ).
+
+https://towardsdatascience.com/plain-and-simple-estimators-d8d3f4c185c1
+
+The Estimators API gives us a nice workflow of getting our raw data, passing it through an input function, setting up our feature columns and model structure, running our training, and running our evaluation.
+
+[https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
 
 
 ### Scikit Learn
