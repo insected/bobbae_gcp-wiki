@@ -83,7 +83,7 @@ https://datasetsearch.research.google.com/
 
 ## Supervised vs. Unsupervised learning
 
-A supervised machine learning algorithm (as opposed to an unsupervised machine learning algorithm) is one that relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data.
+A tsupervised machine learning]( https://en.m.wikipedia.org/wiki/Supervised_learning  ) algorithm (as opposed to an unsupervised machine learning algorithm) is one that relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data.
 
 Imagine a computer is a child, we are its supervisor (e.g. parent, guardian, or teacher), and we want the child (computer) to learn what a pig looks like. We will show the child several different pictures, some of which are pigs and the rest could be pictures of anything (cats, dogs, etc).
 
@@ -91,13 +91,13 @@ When we see a pig, we shout “pig!” When it’s not a pig, we shout “no, no
 
 https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d
 
-The most common tasks within unsupervised learning are clustering, representation learning, and density estimation. In all of these cases, we wish to learn the inherent structure of our data without using explicitly-provided labels. Some common algorithms include k-means clustering, principal component analysis, and autoencoders. Since no labels are provided, there is no specific way to compare model performance in most unsupervised learning methods.
+The most common tasks within [unsupervised learning](https://en.m.wikipedia.org/wiki/Unsupervised_learning) are [clustering](https://en.m.wikipedia.org/wiki/Cluster_analysis), [representation learning]( https://en.m.wikipedia.org/wiki/Feature_learning  ), and density estimation. In all of these cases, we wish to learn the inherent structure of our data without using explicitly-provided labels. Some common algorithms include [k-means clustering](https://en.m.wikipedia.org/wiki/K-means_clustering), principal component analysis, and autoencoders. Since no labels are provided, there is no specific way to compare model performance in most unsupervised learning methods.
 
-Two common use-cases for unsupervised learning are exploratory analysis and dimensionality reduction.
+Two common use-cases for unsupervised learning are [exploratory analysis](https://en.m.wikipedia.org/wiki/Exploratory_data_analysis) and [dimensionality reduction](https://en.m.wikipedia.org/wiki/Dimensionality_reduction).
 
 Unsupervised learning is very useful in exploratory analysis because it can automatically identify structure in data. For example, if an analyst were trying to segment consumers, unsupervised clustering methods would be a great starting point for their analysis. In situations where it is either impossible or impractical for a human to propose trends in the data, unsupervised learning can provide initial insights that can then be used to test individual hypotheses.
 
-Dimensionality reduction, which refers to the methods used to represent data using less columns or features, can be accomplished through unsupervised methods. In representation learning, we wish to learn relationships between individual features, allowing us to represent our data using the latent features that interrelate our initial features. This sparse latent structure is often represented using far fewer features than we started with, so it can make further data processing much less intensive, and can eliminate redundant features.
+[Dimensionality reduction](https://en.m.wikipedia.org/wiki/Dimensionality_reduction), which refers to the methods used to represent data using less columns or features, can be accomplished through unsupervised methods. In [representation learning](https://en.m.wikipedia.org/wiki/Feature_learning), we wish to learn relationships between individual features, allowing us to represent our data using the latent features that interrelate our initial features. This sparse latent structure is often represented using far fewer features than we started with, so it can make further data processing much less intensive, and can eliminate redundant features.
 
 
 [[https://miro.medium.com/max/1030/1*zWBYt9DQQEf_XxXWLA2tzQ.jpeg]]
@@ -106,7 +106,7 @@ Dimensionality reduction, which refers to the methods used to represent data usi
 ## Tensorflow
 
 
-Created by the Google Brain team, 
+Created by the [Google Brain team](https://research.google/teams/brain/), 
 [TensorFlow](Tensorflow) is an open source library for numerical computation and large-scale machine learning.
 
 
@@ -123,9 +123,9 @@ The Estimators API gives us a nice workflow of getting our raw data, passing it 
 
 ## Feature Engineering
 
-Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data.
+[Feature engineering](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/) is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data.
 
-https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+
 
 
 
