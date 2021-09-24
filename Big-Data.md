@@ -1,7 +1,7 @@
 
 [Big data](https://wikipedia.org/wiki/Big_data)  has been used in the industry to provide customer insights for transparent and simpler products, by analyzing and predicting customer behavior through data derived from social media, GPS-enabled devices, and CCTV footage. The Big Data also allows for better customer retention from insurance companies.
 
-Big Data was originally associated with three key concepts: volume, variety, and velocity. 
+[Big Data](https://www.guru99.com/what-is-big-data.html) was originally associated with three key concepts: volume, variety, and velocity. 
 
 Current usage of the term Big Data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
 
