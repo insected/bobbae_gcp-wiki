@@ -10,6 +10,10 @@ The extended BGP is commonly known as BGP4+. The specific use of BGP4+ by IPv6 i
 
 http://what-when-how.com/ipv6-advanced-protocols-implementation/introduction-to-bgp4-ipv6-unicast-routing-protocols-part-1/
 
+### Kubernetes and BGP
+
+https://www.asykim.com/blog/kubernetes-traffic-engineering-with-bgp
+
 ## VRRPv2 
 
 Virtual Router Redundancy Protocol (VRRP) is an election protocol that provides redundancy to routers within a Local Area Network (LAN).
