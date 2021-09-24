@@ -51,6 +51,10 @@ https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0c
 
 ### Ingress
 
+
+kubernetes [ingress](ingress) is a collection of rules.
+
+
 https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078
 
 ## ClusterIP, Ingress, NodePort, Load Balancer
