@@ -56,7 +56,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg#ingress_wi
 
 ## Kubernetes Ingress
 
-A [Kubernetes Ingress](  https://kubernetes.io/docs/concepts/services-networking/ingress/ ) is not a type of [Service](  https://kubernetes.io/docs/concepts/services-networking/service/ ). It is a collection of rules. An Ingress Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
+A [Kubernetes Ingress](  https://kubernetes.io/docs/concepts/services-networking/ingress/ ) is not a type of [Service](  https://kubernetes.io/docs/concepts/services-networking/service/ ). It is a collection of rules. An [Ingress](   https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d) Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
 
 [Kubernetes](Kubernetes) ingress is a collection of routing rules that govern how external users access services running in a [Kubernetes cluster](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/  
 ) .
