@@ -834,7 +834,7 @@ https://www.elderresearch.com/blog/trends-in-natural-language-processing/
 
 #### Embeddings
 
-An embedding is a relatively low-dimensional space into which you can translate high-dimensional vectors. Embeddings make it easier to do machine learning on large inputs like sparse vectors representing words. Ideally, an embedding captures some of the semantics of the input by placing semantically similar inputs close together in the embedding space. An embedding can be learned and reused across models.
+An [embedding](https://en.m.wikipedia.org/wiki/Word_embedding) is a relatively low-dimensional space into which you can translate high-dimensional vectors to capture some of the semantics of the input by placing semantically similar inputs close together in the embedding space. 
 
 #### Collaborative Filtering
 
@@ -852,9 +852,11 @@ https://developers.google.com/machine-learning/crash-course/embeddings/translati
 
 https://developers.google.com/machine-learning/crash-course/embeddings/obtaining-embeddings
 
-####
+#### spaCy
 
 https://spacy.io/
+
+https://applied-language-technology.readthedocs.io/en/latest/notebooks/part_iii/04_embeddings_continued.html
 
 ## ML Frameworks and tools
 
