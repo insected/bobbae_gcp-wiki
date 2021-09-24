@@ -480,8 +480,6 @@ Neural networks are a [biologically-inspired algorithm](https://www.jeremyjordan
 
 [Backpropagation](https://www.jeremyjordan.me/neural-networks-training/) computes the gradient of the loss function with respect to the weights of the network for a single input–output example, and does so efficiently, unlike a naive direct computation of the gradient with respect to each weight individually. This efficiency makes it feasible to use gradient methods for training multilayer networks, updating weights to minimize loss; gradient descent, or variants such as stochastic gradient descent, are commonly used.
 
-
-
 ### Gradient descent 
 
 [Gradient descent](https://www.jeremyjordan.me/gradient-descent/) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a cost function which is capable of measuring how well our model is doing. This function will penalize any error our model makes (by assigning a cost) with respect to the current parameter values. Thus, by minimizing the cost function we can find the optimal parameters that yield the best model performance.
@@ -673,18 +671,16 @@ https://towardsdatascience.com/transfer-learning-using-elmo-embedding-c4a7e41510
 https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
 
-
 ### Transformers
 
 https://jalammar.github.io/illustrated-transformer/
 
 
-### trends
+### Trends
 
 https://www.elderresearch.com/blog/trends-in-natural-language-processing/
 
 ## Embeddings
-
 
 An embedding is a relatively low-dimensional space into which you can translate high-dimensional vectors. Embeddings make it easier to do machine learning on large inputs like sparse vectors representing words. Ideally, an embedding captures some of the semantics of the input by placing semantically similar inputs close together in the embedding space. An embedding can be learned and reused across models.
 
@@ -710,10 +706,7 @@ https://developers.google.com/machine-learning/crash-course/embeddings/obtaining
 
 [AutoML](AutoML) makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
 
-
 [https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
-
-
 
 ### AI Platform and Machine Learning
 
@@ -854,7 +847,6 @@ The [Google Natural Language API](https://cloud.google.com/natural-language) is 
 The biggest advantage of using these pre-trained models via the API is, that no training dataset is needed. The API allows the user to immediately start making predictions, which can be very valuable in situations where little labeled data is available.
 
 
-
 The Natural Language API comprises five different services:
 
 * Syntax Analysis
@@ -863,29 +855,17 @@ The Natural Language API comprises five different services:
 * Entity Sentiment Analysis
 * Text Classification
 
-The major advantage of the Google [Natural Language API](https://cloud.google.com/natural-language) is its ease of use. No machine learning skills are required and almost no coding skills. On the Google Cloud website, you can find code snippets for calling the API for a lot of languages.
+The major advantage of the Google [Natural Language API](https://cloud.google.com/natural-language) is its ease of use. No machine learning skills are required and almost no coding skills. 
 
+The Google [Natural Language API](https://cloud.google.com/natural-language) is a very convenient option for quick, out-of-the-box solutions. 
 
-
-The Google [Natural Language API](https://cloud.google.com/natural-language) is a very convenient option for quick, out-of-the-box solutions. Very little technical knowledge and no understanding of the underlying machine learning models is required.
-
-The main disadvantage is its inflexibility and the lack of access to the models. The models cannot be tuned to a specific task or dataset.
-
-In a real-world environment, most tasks will probably require a more tailored solution than the standardized Natural Language API functions can provide.
 
 ### AutoML Natural Language
 
-If the [Natural Language API](https://cloud.google.com/natural-language) is not flexible enough for your business purposes, then [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) might be the right service. AutoML is a new Google Cloud Service (still in beta) that enables the user to create customized machine learning models. In contrast to the Natural Language API, the AutoML models will be trained on the user’s data and therefore fit a specific task.
+If the [Natural Language API](https://cloud.google.com/natural-language) is not flexible enough for your business purposes, then [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) might be the right service. 
 
-Custom machine learning models for classifying content are useful when the predefined categories that are available from the Natural Language API are too generic or not applicable to your specific use case or knowledge domain.
-
-The AutoML service requires a bit more effort for the user, mainly because you have to provide a dataset to train the model. However, the training and evaluation of the models in completely automated and no machine learning knowledge is required. The whole process can be done without writing any code by using the Google Cloud console. Of course, if you want to automate these steps, there is support for all common programming languages.
-
-The training process is quite slow, probably because the underlying models are very big. Training a small test classification task with 15,000 samples and 10 categories and the training can take several hours. A real-world example with a much bigger dataset can take several days.
 
 Fine-tuning big models like [BERT](https://arxiv.org/abs/1810.04805) is a computationally expensive process, especially when a lot of cross-validation is performed.
-
-That means while using AutoML might be very convenient, for performance critical tasks it makes sense to invest the time and develop the model yourself.
 
 
 ## AI Hub
@@ -915,19 +895,8 @@ That means while using AutoML might be very convenient, for performance critical
 
 ### Pytorch
 
-[PyTorch](PyTorch)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
+[PyTorch](PyTorch)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library.
 
-
-https://www.guru99.com/pytorch-tutorial.html
-
-
-#### PyTorch on Kubeflow and Vertex Pipelines
-
-https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines
-
-#### PyTorch on Google Cloud
-
-https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-train-and-tune-pytorch-models-vertex-ai
 
 ### Kubeflow
 
@@ -935,36 +904,46 @@ https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-clo
 
 ### MLOps
 
-
-
 [MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
 
-## Monitor models for training-serving skew with Vertex AI
+## Examples
+
+#s# Monitor models for training-serving skew with Vertex AI
 
 https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
 
 
-## Fairness
 
-https://wikipedia.org/wiki/Fairness_(machine_learning)
-
-## The Making of an AI Storyteller
+### The Making of an AI Storyteller
 
 https://towardsdatascience.com/the-making-of-an-ai-storyteller-c3b8d5a983f5
 
-## Demo of Video Intelligence API
+### Demo of Video Intelligence API
 
 https://medium.com/@zackakil/see-what-video-intelligence-api-can-do-with-this-visualisation-tool-4303e371505
 
-## Anomaly detection using River
+### Anomaly detection using River
 
 https://medium.com/spikelab/anomalies-detection-using-river-398544d3536
 
-## Metascience and p-value
+
+
+## Risks
+
+
+### Fairness
+
+https://wikipedia.org/wiki/Fairness_(machine_learning)
+
+### When to not use ML
+
+https://eugeneyan.com/writing/first-rule-of-ml/
+
+### Metascience and p-value
 
 https://en.wikipedia.org/wiki/P-value
 
-# Tutorials
+## Tutorials
 
 - https://developers.google.com/machine-learning/crash-course/
 - https://www.mygreatlearning.com/blog/machine-learning-tutorial/
@@ -975,7 +954,7 @@ https://en.wikipedia.org/wiki/P-value
 - https://medium.com/sarus/distributed-ml-with-dask-and-kubernetes-on-gcp-97fdd6533736
 
 
-# Links
+## Links
 
 - [StatQuest videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Google AI Fun Projects](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
@@ -988,7 +967,7 @@ https://en.wikipedia.org/wiki/P-value
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
-# Qwiklabs
+## Qwiklabs
 
 - https://www.qwiklabs.com/quests/50
 - https://www.qwiklabs.com/quests/32
