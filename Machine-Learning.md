@@ -941,6 +941,11 @@ https://eugeneyan.com/writing/first-rule-of-ml/
 
 https://en.wikipedia.org/wiki/P-value
 
+
+### Diminishing returns on deep learning costs
+
+https://spectrum.ieee.org/deep-learning-computational-cost
+
 ## Tutorials
 
 - https://developers.google.com/machine-learning/crash-course/
