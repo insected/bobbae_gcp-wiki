@@ -236,41 +236,41 @@ https://github.com/spectacles-ci/spectacles
 
 https://www.qwiklabs.com/catalog?keywords=looker
 
-### Working with Looker content
+#### Working with Looker content
 
 https://looker.qwiklabs.com/focuses/18346?parent=catalog
 
-### Creating dimensions
+#### Creating dimensions
 
 https://looker.qwiklabs.com/focuses/18345?parent=catalog
 
-### Creating measures
+#### Creating measures
 
 https://looker.qwiklabs.com/focuses/18347?parent=catalog
 
 
-### Building Explores
+#### Building Explores
 
 https://looker.qwiklabs.com/focuses/18348?parent=catalog
 
 
-### Modifying Explorers
+#### Modifying Explorers
 
 https://looker.qwiklabs.com/focuses/18349?parent=catalog
 
-### Filtering Explorers
+#### Filtering Explorers
 
 https://looker.qwiklabs.com/focuses/18350?parent=catalog
 
 
-### Creating LookML Dashboards
+#### Creating LookML Dashboards
 
 https://looker.qwiklabs.com/focuses/18351?parent=catalog
 
-### Exploring Data with Looker
+#### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
 
-### Understanding LookML in Looker
+#### Understanding LookML in Looker
 
 https://www.qwiklabs.com/quests/170
