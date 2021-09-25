@@ -169,10 +169,6 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 Google [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) is much more powerful than the [Natural Language API](https://cloud.google.com/natural-language) because it allows the user to train models that are customized for their specific dataset and domain.
 
-
-The AutoML beta supports only three NLP tasks for now (classification, sentiment analysis, entity extraction) and supports only English language documents. 
-
-
 ### Natural Language API 
 
 The [Google Natural Language API](https://cloud.google.com/natural-language) is an easy to use interface to a set of powerful NLP models which have been pre-trained by Google to perform various tasks. As these models have been trained on enormously large document corpuses, their performance is usually quite good as long as they are used on datasets that do not make use of a very idiosyncratic language.
