@@ -19,9 +19,9 @@ What is [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ?
 ## Vertex AI
 
 
-Vertex [AI](AI) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. 
+[Vertex AI]( https://cloud.google.com/vertex-ai   ) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. 
 
-https://cloud.google.com/vertex-ai
+
 
 
 ## AI Hub
