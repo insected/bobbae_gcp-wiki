@@ -5,7 +5,7 @@ What is [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ?
 
 
 
-[Machine learning](https://developers.google.com/machine-learning/glossary) is an   application of [artificial intelligence](AI) (AI) that provides systems the ability to [automatically learn and improve from experience without being explicitly programmed]( https://www.youtube.com/watch?v=HcqpanDadyQ  ). 
+[Machine learning](https://developers.google.com/machine-learning/glossary) is an   application of [Artificial Intelligence](AI) (AI) that provides systems the ability to [automatically learn and improve from experience without being explicitly programmed]( https://www.youtube.com/watch?v=HcqpanDadyQ  ). 
 
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) focuses on the development of computer programs that can access data and use it to learn for themselves.
