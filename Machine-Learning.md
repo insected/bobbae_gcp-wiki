@@ -88,24 +88,16 @@ https://www.youtube.com/watch?v=CReeC8YuEd8
 
 ### Vision AI
 
-Cloud Vision includes several options that you can use to integrate machine learning vision models into your applications and web sites.
-
-[https://cloud.google.com/vision/overview/docs](https://cloud.google.com/vision/overview/docs)
+[Cloud Vision](  https://cloud.google.com/vision/overview/docs ) includes several options that you can use to integrate machine learning vision models into your applications and web sites.
 
 [https://www.youtube.com/watch?v=kgxfdTh9lz0](https://www.youtube.com/watch?v=kgxfdTh9lz0)
 
 [https://www.youtube.com/watch?v=BN8aO0LULyw](https://www.youtube.com/watch?v=BN8aO0LULyw)
 
-
-
-
-
-
 ### Video AI
 
-Video Intelligence includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites.
+[Video Intelligence](  https://cloud.google.com/video-intelligence/overview/docs  ) includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites.
 
-[https://cloud.google.com/video-intelligence/overview/docs](https://cloud.google.com/video-intelligence/overview/docs)
 
 [https://www.youtube.com/watch?v=h1zU0Qor9J8](https://www.youtube.com/watch?v=h1zU0Qor9J8)
 
@@ -122,7 +114,8 @@ The [Cloud Natural Language API](https://cloud.google.com/natural-language) prov
 
 #### Gain Insights from Text with Cloud Natural Language API
 
-Qwiklabs GSP097  https://www.qwiklabs.com/focuses/582?parent=catalog
+Qwiklabs GSP097  
+https://www.qwiklabs.com/focuses/582?parent=catalog
 
 #### Entity Analysis
 
@@ -136,15 +129,15 @@ Qwiklabs GSP097  https://www.qwiklabs.com/focuses/582?parent=catalog
 
 ### Cloud Translation
 
-Cloud Translation can dynamically translate text between thousands of language pairs. Translation lets websites and programs programmatically integrate with the translation service.
+[Cloud Translation](  https://cloud.google.com/translate/docs  ) can dynamically translate text between thousands of language pairs. Translation lets websites and programs programmatically integrate with the translation service.
 
-[https://cloud.google.com/translate/docs](https://cloud.google.com/translate/docs)
+
 
 #### AutoML Translation vs Translation API
 
-The Translation API covers a huge number of language pairs and does a great job with general-purpose text. Where AutoML Translation really shines is for the "last mile" between generic translation tasks and specific, niche vocabularies. Our custom models start from the generic Translation API model, but add a layer that specifically helps the model get the right translation for domain-specific content that matters to you.
+The [Translation API](  https://cloud.google.com/translate ) covers a huge number of language pairs and does a great job with general-purpose text. Where [AutoML Translation](   https://cloud.google.com/translate/automl/docs) really shines is for the "last mile" between generic translation tasks and specific, niche vocabularies. Our custom models start from the generic Translation API model, but add a layer that specifically helps the model get the right translation for domain-specific content that matters to you.
 
-https://cloud.google.com/translate/automl/docs/beginners-guide
+
 
 #### Using Python and Translation API
 
