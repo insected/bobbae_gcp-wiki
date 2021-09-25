@@ -416,3 +416,7 @@ https://rclone.org/googlecloudstorage/
 ### Case study ACME Corp
 
 https://cloud.google.com/blog/products/storage-data-transfer/dr-in-google-cloud-with-vmware-engine-actifio-and-zerto
+
+## Folders vs. buckets
+
+https://www.theverge.com/platform/amp/22684730/students-file-folder-directory-structure-education-gen-z
