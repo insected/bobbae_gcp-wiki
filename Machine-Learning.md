@@ -568,9 +568,6 @@ The [Cloud Data Loss Prevention](https://cloud.google.com/dlp)  (DLP) helps you 
 [https://cloud.google.com/dlp/docs/classification-redaction](https://cloud.google.com/dlp/docs/classification-redaction)
 
 
-
-
-
 ### Clustering
 
 Clustering is a popular technique to find groups or segments in your data that are similar. This is an unsupervised learning algorithm in the sense that you don't train the algorithm and give it examples for what you'd like it to do, you just let the clustering algorithm explore the data and provide you with new insights.
@@ -584,24 +581,18 @@ https://www.youtube.com/watch?v=4b5d3muPQmA
 
 ### K-nearest neighbors
 
-The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 ) (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. 
+The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 ) (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to [solve both classification and regression problems](  https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761  ). 
 
-Many machine learning techniques involve building a model that is capable of representing the data and then finding the optimal parameters for the model to minimize error. [K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/), however, is an example of instance-based learning where we instead simply store the training data and use it to make new predictions.
-
-https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 
 
 ### Dimensionality Reduction
 
-When we're building machine learning models, sometimes we deal with datasets with well over 1,000 or even 10,000 dimensions. While this allows us to account for many features, these features are often redundant. Ideally, due to the curse of dimensionality, we'd like to limit our data to capture the true signal in the data and ignore the noise. 
 
-[Dimensionality reduction](  https://en.m.wikipedia.org/wiki/Dimensionality_reduction ) is one technique to reduce the dimension of our feature-space while maintaining the maximum amount of information. 
-
-Dimensionality reduction is also very convenient for visualizing higher-dimensional data sets in two or three dimensions. 
+[Dimensionality reduction](  https://en.m.wikipedia.org/wiki/Dimensionality_reduction ) is used to reduce the dimension of our feature-space while maintaining the maximum amount of information. 
 
 ### Principal Components Analysis
 
-[Principal components analysis](https://www.jeremyjordan.me/principal-components-analysis/) (PCA) is the most popular dimensionality reduction technique to date. It allows us to take an n-dimensional feature-space and reduce it to a k-dimensional feature-space while maintaining as much information from the original dataset as possible in the reduced dataset. Specifically, PCA will create a new feature-space that aims to capture as much variance as possible in the original dataset; I'll elaborate on this later in this post.
+[Principal components analysis](https://www.jeremyjordan.me/principal-components-analysis/) (PCA) allows us to take an n-dimensional feature-space and reduce it to a k-dimensional feature-space while maintaining as much information from the original dataset as possible in the reduced dataset.
 
 ### Autoencoders
 
@@ -609,7 +600,7 @@ Dimensionality reduction is also very convenient for visualizing higher-dimensio
 
 ### Neural Networks
 
-Neural networks are one of the most popular approaches to machine learning today, achieving impressive performance on a large variety of tasks. Often referred to as the "universal function approximator", this approach is very flexible to learning a variety of tasks.
+Neural networks are one of the most popular approaches to machine learning today, achieving impressive performance on a large variety of tasks. 
 
 
 #### Structure
@@ -632,19 +623,19 @@ Neural networks are a [biologically-inspired algorithm](https://www.jeremyjordan
 
 ### Gradient descent 
 
-[Gradient descent](https://www.jeremyjordan.me/gradient-descent/) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a cost function which is capable of measuring how well our model is doing. This function will penalize any error our model makes (by assigning a cost) with respect to the current parameter values. Thus, by minimizing the cost function we can find the optimal parameters that yield the best model performance.
+[Gradient descent](https://www.jeremyjordan.me/gradient-descent/) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a [cost function](https://en.m.wikipedia.org/wiki/Loss_function) which is capable of measuring how well our model is doing. This function will penalize any error our model makes by assigning a cost with respect to the current parameter values. By minimizing the cost function we can find the optimal parameters that yield the best model performance.
 
 https://www.youtube.com/watch?v=sDv4f4s2SB8
 
 #### Hyperparameter Tuning
 
-You will probably tune hyperparameters by experimentally finding the best combination of values, one per hyperparamter.
+It is often necessary to [tune hyperparameters](  https://en.wikipedia.org/wiki/Hyperparameter_optimization ) by experimentally finding the best combination of values, one per hyperparamter.
 
-https://en.wikipedia.org/wiki/Hyperparameter_optimization
+
 
 #### Learning Rate
 
-One of the key hyperparameters to set in order to train a neural network is the [learning rate](https://www.jeremyjordan.me/nn-learning-rate/) for gradient descent. As a reminder, this parameter scales the magnitude of our weight updates in order to minimize the network's loss function.
+One of the key hyperparameters to set in order to train a neural network is the [learning rate](https://www.jeremyjordan.me/nn-learning-rate/) for gradient descent. The learning rate parameter scales the magnitude of our weight updates in order to minimize the network's loss function.
 
 If your learning rate is set too low, training will progress very slowly as you are making very tiny updates to the weights in your network. However, if your learning rate is set too high, it can cause undesirable divergent behavior in your loss function. 
 
@@ -653,31 +644,23 @@ If your learning rate is set too low, training will progress very slowly as you 
 
 [CNN](https://www.jeremyjordan.me/convolutional-neural-networks/) are used heavily in image recognition applications of machine learning. Convolutional neural networks provide an advantage over feed-forward networks because they are capable of considering locality of features.
 
-A convolutional neural network (CNN) is a special kind of FFNN that significantly reduces the number of parameters in a deep neural network with many units without losing too much in the quality of the model. CNNs have found applications in image and text processing where they beat many previously established benchmarks.
-
-Because CNNs were invented with image processing in mind, I explain them on the image classification example.
-
 
 #### Recurrent Neural Networks
 
 [Recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/) are good  for learning from sequential data.
 
-Recurrent neural networks (RNNs) are used to label, classify, or generate sequences. A sequence is a matrix, each row of which is a feature vector and the order of rows matters. Labeling a sequence means predicting a class to each feature vector in a sequence. Classifying a sequence means predicting a class for the entire sequence. Generating a sequence means to output another sequence (of a possibly dierent length) somehow relevant to the input sequence.
-
-RNNs are often used in text processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. For the same reason, recurrent neural networks are also used in speech processing.
+RNNs are often used in text and speech processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. 
 
 #### LSTM
 
-Long short-term memory networks are an extension for recurrent neural networks, which basically extends the memory. Therefore it is well suited to learn from important experiences that have very long time lags in between.
+[Long short-term memory]( https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21   ) networks are an extension for recurrent neural networks, which basically extends the memory. Therefore it is well suited to learn from important experiences that have very long time lags in between.
 
 
-The units of an LSTM are used as building units for the layers of a RNN, often called an LSTM network.
+LSTMs enable RNNs to remember inputs over a long period of time. 
 
-LSTMs enable RNNs to remember inputs over a long period of time. This is because LSTMs contain information in a memory, much like the memory of a computer. The LSTM can read, write and delete information from its memory.
+This memory can be seen as a gated cell, with gated meaning the cell decides whether or not to store or delete information, based on the importance it assigns to the information. The assigning of importance happens through weights, which are also learned by the algorithm.  It learns over time what information is important and what is not.
 
-This memory can be seen as a gated cell, with gated meaning the cell decides whether or not to store or delete information (i.e., if it opens the gates or not), based on the importance it assigns to the information. The assigning of importance happens through weights, which are also learned by the algorithm. This simply means that it learns over time what information is important and what is not.
 
-https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 #### Multi-class Neural Networks
 
@@ -701,8 +684,7 @@ https://developers.google.com/machine-learning/crash-course/training-neural-netw
 
 [Reinforcement learning](https://www.jeremyjordan.me/overview-of-reinforcement-learning/) is an approach to machine learning where agents are rewarded to accomplish some task. "Good" behavior is reinforced via a reward, so this approach can more realistically be considered a method of reward maximization. 
 
-
-Reinforcement learning is a method of learning where we teach the computer to perform some task by providing it with feedback as it performs actions. This is different from supervised learning in that we don't explicitly provide correct and incorrect examples of how the task should be completed, we simply tell the computer when it is doing a good job along the way. Reinforcement learning is also distinct from unsupervised learning because we are providing the computer with some level of feedback, even if we aren't providing explicit examples.
+This is different from supervised learning in that we don't explicitly provide correct and incorrect examples of how the task should be completed, we simply tell the computer when it is doing a good job along the way. Reinforcement learning is also distinct from unsupervised learning because we are providing the computer with some level of feedback, even if we aren't providing explicit examples.
 
 Reinforcement learning is a subfield of machine learning where the machine “lives” in an environment and is capable of perceiving the state of that environment as a vector of features. The machine can execute actions in every state. Different actions bring different rewards and could also move the machine to another state of the environment. The goal of a reinforcement learning algorithm is to learn a policy. A policy is a function f (similar to the model in supervised learning) that takes the feature vector of a state as input and outputs an optimal action to execute in that state. The action is optimal if it maximizes the expected average reward.
 
@@ -810,7 +792,7 @@ http://jalammar.github.io/illustrated-bert/
 
 #### Transfer Learning
 
-The process of training a model on a large-scale dataset and then using that pre-trained model to process learning for another target task. 
+[Transfer Learning](https://en.m.wikipedia.org/wiki/Transfer_learning) is the process of training a model on a large-scale dataset and then using that pre-trained model to process learning for another target task. 
 
 Transfer Learning became popular in the field of NLP thanks to the state-of-the-art performance of different algorithms like ULMFiT, Skip-Gram, Elmo, BERT etc.
 
@@ -874,7 +856,7 @@ Created by the [Google Brain team](https://research.google/teams/brain/),
 
 https://towardsdatascience.com/plain-and-simple-estimators-d8d3f4c185c1
 
-The Estimators API gives us a nice workflow of getting our raw data, passing it through an input function, setting up our feature columns and model structure, running our training, and running our evaluation.
+The [Estimators API]( https://www.tensorflow.org/guide/estimator   ) gives us a nice workflow of getting our raw data, passing it through an input function, setting up our feature columns and model structure, running our training, and running our evaluation.
 
 [https://www.youtube.com/watch?v=G7oolm0jU8I](https://www.youtube.com/watch?v=G7oolm0jU8I)
 
@@ -900,7 +882,7 @@ The Estimators API gives us a nice workflow of getting our raw data, passing it 
 
 ### MLOps
 
-[MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. The word is a compound of “Machine Learning” and the continuous development practice of DevOps in the software field. Machine Learning models are tested and developed in isolated experimental systems.
+[MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. 
 
 ## Examples
 
