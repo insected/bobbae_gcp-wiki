@@ -59,6 +59,9 @@ Cloud Machine Learning Engine Prediction Service can serve TensorFlow models and
 
 https://cloud.google.com/blog/topics/developers-practitioners/deploying-serverless-platforms-github-actions
 
+
+https://github.com/google-github-actions/setup-gcloud#example-workflows
+
 ## Qwiklabs
 
 
