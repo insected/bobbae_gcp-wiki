@@ -7,6 +7,11 @@
 
 https://cloud.google.com/security/key-management-deep-dive/
 
+
+### Quick start
+
+https://cloud.google.com/kms/docs/quickstart
+
 ## Cloud EKM
 
 [Key Access Justifications](https://cloud.google.com/blog/products/identity-security/control-access-to-gcp-data-with-key-access-justifications) works with [Cloud EKM](https://cloud.google.com/kms/docs/ekm) to greatly advance the control you have over your data. 
