@@ -23,3 +23,9 @@ https://medium.com/from-the-scratch/firebase-everything-you-need-to-know-to-setu
 ## Using GCP Firestore emulator for local Go App development
 
 https://levelup.gitconnected.com/using-the-gcp-firestore-emulator-for-local-go-application-development-a4aa812e59bf
+
+
+## Spanner emulator
+
+https://cloud.google.com/spanner/docs/emulator
+
