@@ -47,14 +47,17 @@ Build serverless workflows orchestrating various products and API calls within G
 
 [https://www.youtube.com/watch?v=Uz8G8fTwwXs](https://www.youtube.com/watch?v=Uz8G8fTwwXs)
 
+## Examples
 
-## Serverless Tensorflow Predictions at Scale
+### Serverless Tensorflow Predictions at Scale
 
 Cloud Machine Learning Engine Prediction Service can serve TensorFlow models and scale.
 
 [https://www.youtube.com/watch?v=_JCMN8-yhBM](https://www.youtube.com/watch?v=_JCMN8-yhBM)
 
+### GitHub actions 
 
+https://cloud.google.com/blog/topics/developers-practitioners/deploying-serverless-platforms-github-actions
 
 ## Qwiklabs
 
