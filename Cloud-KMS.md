@@ -16,6 +16,10 @@ https://cloud.google.com/kms/docs/quickstart
 
 [Key Access Justifications](https://cloud.google.com/blog/products/identity-security/control-access-to-gcp-data-with-key-access-justifications) works with [Cloud EKM](https://cloud.google.com/kms/docs/ekm) to greatly advance the control you have over your data. 
 
+### Trust paradox
+
+https://www.brighttalk.com/webcast/18598/455312/the-cloud-trust-paradox-trusting-cloud-computing-more-requires-trusting-it-less
+
 ## Cloud HSM
 
 [Cloud HSM](https://cloud.google.com/kms/docs/hsm) is a cloud-hosted Hardware Security Module (HSM) service that allows you to host encryption keys and perform cryptographic operations in a cluster of [FIPS 140-2 Level 3](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified HSMs.
