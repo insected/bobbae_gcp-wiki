@@ -21,7 +21,15 @@ Terraform [GitOps Framework](https://www.kubestack.com/).
 
 
 
-## Cloud Build Tutorial
+## Argo and GitOps
+
+https://www.cncf.io/blog/2020/12/17/solving-configuration-drift-using-gitops-with-argo-cd/
+
+## Argo CD Terraform module
+
+https://www.kubestack.com/catalog/argo-cd
+
+## Terraform GitOps via Cloud Build
 
 This tutorial explains how to manage infrastructure as code with [Terraform](https://cloud.google.com/docs/terraform) and [Cloud Build](https://cloud.google.com/cloud-build) using the popular [GitOps](https://thenewstack.io/what-is-gitops-and-why-it-might-be-the-next-big-thing-for-devops/) methodology. 
 
@@ -33,7 +41,8 @@ https://cloud.google.com/architecture/managing-infrastructure-as-code
 
 https://medium.com/@flowsquad/building-docker-images-with-github-actions-and-google-cloud-b8894e0edff0
 
-## Gitlab Gitops with Anthos
+
+## Gitlab GitOps with Anthos
 
 [https://www.youtube.com/watch?v=npc08ggdTOw](https://www.youtube.com/watch?v=npc08ggdTOw)
 
