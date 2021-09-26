@@ -3,6 +3,9 @@
 
 [DataOps](https://www.datasciencecentral.com/profiles/blogs/dataops-it-s-a-secret) is a series of principles and practices that promises to bring together the conflicting goals of the different data tribes in the organization, data science, BI, line of business, operations, and IT.  What has been a growing body of best practices is now becoming the basis for a new category of data access, blending, and deployment platforms that may solve data conflicts in your organization.
 
+## DataSecOps
+
+https://towardsdatascience.com/introduction-to-datasecops-77ad9103d973
 
 ## Data lifecycle on GCP
 
