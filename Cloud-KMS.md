@@ -24,6 +24,10 @@ https://cloud.google.com/kms/docs/quickstart
 
 ## Examples
 
+### Using Cloud KMS
+
+https://www.freecodecamp.org/news/securing-managing-secrets-using-google-cloud-kms-3fe08c69f499/
+
 ### Encrypt password in transit and at rest using Cloud KMS
 
 https://soumendra-mishra.medium.com/password-encryption-at-rest-and-in-transit-e284b7c1b76e
