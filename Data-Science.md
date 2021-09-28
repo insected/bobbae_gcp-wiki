@@ -10,13 +10,13 @@ https://towardsdatascience.com/is-data-science-really-a-science-9c2249ee2ce4
 
 ## Data Engineering
 
-[Data engineers](Data-Engineering) build and maintain the systems that allow data scientists to access and interpret data. The role generally involves creating data models, building data pipelines and overseeing ETL (extract, transform, load).  Some believe that Data scientists build and train predictive models using data after it's been cleaned.  This separation is not always valid and there are overlapping areas in practice.
+[Data engineers](Data-Engineering) build and maintain the systems that allow data scientists to access and interpret data. The role generally involves creating data models, building data pipelines and overseeing ETL (extract, transform, load).  
 
 ## Data Analytics 
 
 What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? 
 
-There are significant overlapping areas of interest in data science, data engineering  and data analytics. 
+
 
 ## Google Smart Analytics Platform
 
@@ -46,15 +46,13 @@ These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse ran
 
 ## AI Explanations
 
-Intro to Explanations for AI Platform.
-
 [https://www.youtube.com/watch?v=XXvFHqLv9p8](https://www.youtube.com/watch?v=XXvFHqLv9p8)
 
 
 ## Document AI
 
-[Unlock insights from documents](https://cloud.google.com/document-ai) with machine learning. Tap into the opportunity offered by your unstructured data to increase operational efficiency, improve customer experience, and inform decision-making. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy. 
-Using [the same deep machine learning technology that powers Google Search](https://www.youtube.com/watch?v=akp0zeI6_6c) and Assistant, Google Cloud’s [natural language products](https://cloud.google.com/solutions/document-ai) enable you to derive valuable insights from your unstructured documents.
+[Document AI](https://cloud.google.com/document-ai) let's you unlock insights from documents with machine learning. Google Cloud’s Vision OCR (optical character recognition) and form parser technology uses [industry-leading](https://cloud.google.com/forrester-computer-vision) deep-learning neural network algorithms to perform text, character, and image recognition in over 200 languages with exceptional accuracy. 
+Using [the same deep machine learning technology that powers Google Search](https://www.youtube.com/watch?v=akp0zeI6_6c) and Assistant, Google Cloud’s [Document AI products](https://cloud.google.com/solutions/document-ai) enable you to derive valuable insights from your unstructured documents.
 
 ## Dialogflow
 
@@ -69,7 +67,7 @@ Using [the same deep machine learning technology that powers Google Search](http
 
 [Machine Learning](Machine-Learning) is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
 
-There are common areas of interests in both Machine Learning Engineering and Data Science.  However, some prefer to focus on the [differences](https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/).  While others prefer to consider Data Scientists engaging in Machine Learning activities, especially as distinctive job functions as opposed to Data Engineering or Data Analytics.
+There are common areas of interests in both Machine Learning Engineering and Data Science and some [differences](https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/).  
 
 
 ## AutoML Tables
