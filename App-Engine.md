@@ -27,7 +27,7 @@ https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and
 
 ## App Engine Standard
 
-The App Engine standard environment makes it easy to build and deploy an application that runs reliably even under heavy load and with large amounts of data. It includes the following features:
+The [App Engine standard](https://cloud.google.com/appengine/docs/standard) environment makes it easy to build and deploy an application that runs reliably even under heavy load and with large amounts of data. It includes the following features:
 
 
 
@@ -77,7 +77,7 @@ A video tutorial on how to create a web application using node.js and express fr
 
 ## App Engine Flexible
 
-Based on [Google Compute Engine](https://cloud.google.com/compute), the App Engine flexible environment automatically scales your app up and down while also balancing the load. In the standard environment, your application runs on a lightweight instance inside of a sandbox. This sandbox restricts what your application can do. For example, the sandbox only allows your app to use a limited set of binary libraries, and your app cannot write to disk. The standard environment also limits the CPU and memory options available to your application. Because of these restrictions, most App Engine standard applications tend to be stateless web applications that respond to HTTP requests quickly.
+Based on [Google Compute Engine](https://cloud.google.com/compute), the [App Engine flexible](https://cloud.google.com/appengine/docs/flexible/) environment automatically scales your app up and down while also balancing the load. In the standard environment, your application runs on a lightweight instance inside of a sandbox. This sandbox restricts what your application can do. For example, the sandbox only allows your app to use a limited set of binary libraries, and your app cannot write to disk. The standard environment also limits the CPU and memory options available to your application. Because of these restrictions, most App Engine standard applications tend to be stateless web applications that respond to HTTP requests quickly.
 
 In contrast, the flexible environment runs your application in Docker containers on [Google Compute Engine virtual machines (VMs)](https://cloud.google.com/compute/docs/instances), which have fewer restrictions. For example, you can use any programming language of your choice, write to disk, use any library you'd like, and even run multiple processes. The flexible environment also allows you to choose any Compute Engine machine type for your instances so that your application has access to more memory and CPU.
 
