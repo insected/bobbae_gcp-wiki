@@ -143,7 +143,7 @@ https://cloud.google.com/ai-hub/docs/learn
 
 https://cloud.google.com/ai-hub/docs/quickstarts
 
-## Additional Products and Solutions
+## AI Products and Solutions
 
 https://cloud.google.com/products/ai
 
