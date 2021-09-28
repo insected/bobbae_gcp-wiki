@@ -514,7 +514,9 @@ https://medium.com/google-cloud/bigquery-tell-me-your-region-i-will-tell-you-you
 
 https://cloud.google.com/bigquery/docs/sandbox
 
+## Importing existing BigQuery Resources to Terraform
 
+https://medium.com/trendyol-tech/importing-existing-bigquery-resources-to-terraform-automatically-f52a36b6e819
 
 ## Looker and BigQuery
 
