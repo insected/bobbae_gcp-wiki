@@ -1,21 +1,3 @@
-  * [General networking questions](#general-networking-questions)
-  * [TCP/IP](#tcp-ip)
-  * [Explain what happens when you ping 127.0.0.1](#explain-what-happens-when-you-ping-127001)
-  * [Explain detailed steps of what happens when you google something](#explain-detailed-steps-of-what-happens-when-you-google-something)
-- [network byte order](#network-byte-order)
-- [Routing & switching](#routing---switching)
-  * [IPv4 vs. IPv6](#ipv4-vs-ipv6)
-  * [DNS](#dns)
-  * [DHCP](#dhcp)
-  * [VPN](#vpn)
-  * [VLAN & VxLAN](#vlan---vxlan)
-- [firewall](#firewall)
-- [types of linux net devices](#types-of-linux-net-devices)
-- [OVN & OVS](#ovn---ovs)
-- [IPv4 and IPv6](#ipv4-and-ipv6)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 https://www.indeed.com/career-advice/interviewing/hardware-and-networking-interview-questions
