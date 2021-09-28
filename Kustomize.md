@@ -24,8 +24,8 @@ Write a plugin when changing generator options or transformer configs doesn’t 
 https://kubectl.docs.kubernetes.io/guides/extending_kustomize/
 
 
-## Comparison to Helm.
+## Comparison to Helm
 
-
+[Helm] is the package manager for Kubernetes.
 
 https://harness.io/blog/helm-vs-kustomize/
