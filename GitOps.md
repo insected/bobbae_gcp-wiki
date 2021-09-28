@@ -14,6 +14,9 @@ The term GitOps was [first coined by Weaveworks](https://www.weave.works/blog/gi
 
 https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
 
+## GitOps, GKE, Cloud Build
+
+https://medium.com/google-cloud/how-to-apply-gitops-cd-with-gke-and-cloud-build-in-5-minutes-58455a2bf063
 
 ## KubeStack
 
