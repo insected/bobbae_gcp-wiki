@@ -67,7 +67,7 @@ At every replica that is a leader, each spanserver implements a lock table to im
 
 Spanner is global database system, per region we’ll get minimum of 3 shards. 
 Each shard will be in each zone. 
-In Spanner terms a shard is called as Split. 
+In Spanner terms a shard is called as [Split](  https://cloud.google.com/spanner/docs/schema-and-data-model#database-splits ). 
 If your provision 1 Node Spanner cluster, you’ll get 2 more Nodes on the different zone which are invisible to you. 
 And the Compute and Storage layers are de-coupled. Paxos algorithm is used to maintain one leader at a time and rest of the nodes will be the followers.
 Based on the partitions, we’ll have more Splits(shards) in the storage layer. 
