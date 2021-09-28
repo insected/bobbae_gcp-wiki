@@ -111,7 +111,7 @@ https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
 ### Calico
 
-[Calico](https://docs.projectcalico.org/) is an open source networking and network security solution for containers, virtual machines, and native host-based workloads. Calico supports multiple data planes including: a pure Linux eBPF dataplane, a standard Linux networking dataplane, and a Windows HNS dataplane. 
+[Calico](https://docs.projectcalico.org/) is an open source networking and network security solution for containers, virtual machines, and native host-based workloads. Calico supports multiple data planes including: a pure Linux [eBPF](eBPF) dataplane, a standard Linux networking dataplane, and a Windows HNS dataplane. 
 
 https://www.tigera.io/blog/kubernetes-networking-with-calico/
 
