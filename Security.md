@@ -266,7 +266,9 @@ There have been attempts to aid Cybersecurity concerns using [Machine Learning](
 [Data governance](data-governance) is a principled approach to manage data during its lifecycle — from acquisition, to use, to disposal.
 
 
+### Data De-risk methods
 
+https://medium.com/google-cloud/de-risk-your-data-to-accelerate-your-cloud-journey-part-3-turning-design-into-reality-363fd6c21e41
 
 ## Cloud Governance
 
