@@ -834,6 +834,12 @@ https://developers.google.com/machine-learning/crash-course/embeddings/obtaining
 
 https://applied-language-technology.readthedocs.io/en/latest/notebooks/part_iii/04_embeddings_continued.html
 
+
+#### Machine Learning on Source Code 
+
+https://github.com/src-d/awesome-machine-learning-on-source-code
+
+
 ## ML Frameworks and tools
 
 ### Tensorflow 
