@@ -11,7 +11,7 @@ Google Cloud Platform includes [software-defined networking](https://developers.
 
 
 
-GCP implements [software-defined network](  https://cloud.google.com/docs/compare/data-centers/networking ) that provides [fast and reliable connections](  https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-series-digest ) to users [around the world](https://cloud.google.com/about/locations).
+GCP implements [software-defined network](  https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-how-andromeda-2-2-enables-high-throughput-vms ) that provides [fast and reliable connections](  https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-series-digest ) to users [around the world](https://cloud.google.com/about/locations).
 
 Google Cloud customers enjoy significantly improved intra-zone network latency with the [Andromeda  software-defined network]( https://cloud.google.com/blog/products/gcp/andromeda-2-1-reduces-gcps-intra-zone-latency-by-40-percent  ) (SDN) stack that underpins all of Google Cloud.
 
@@ -25,12 +25,6 @@ From data centers to subsea cables, GCP connects customers in [different regions
 
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/infrastructure-3.max-1000x1000.png" width="700">
-
-In a traditional data center, you manage a complex network setup composed of racks of servers, storage devices, multiple layers of switches, routers, load balancers, firewall devices, and more. 
-
-In addition to these hardware components, you must set up, maintain, and monitor the network's underlying software, as well as detailed device configurations for your environment. And the managerial overhead doesn't end there: you also have to worry about the security and availability of your network, and you must plan out the upgrades and expansions of your network—a lengthy and time-consuming process.
-
-
 
 Google built a superior [cloud network](https://cloud.google.com/docs/compare/data-centers/networking) as a result of the well-provisioned direct paths between its cloud and end-users.
 
@@ -51,21 +45,21 @@ https://cloud.google.com/compute/docs/internal-dns
 
 ### OSI Model
 
-The Open Systems Interconnection model (OSI model) is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols.
+The [Open Systems Interconnection model]( https://en.wikipedia.org/wiki/OSI_model  ) (OSI model) is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. 
 
 
 The recommendation X.200 describes seven layers, labelled 1 to 7.
 
-https://en.wikipedia.org/wiki/OSI_model
+
 
 
 
 ### TCP/IP
 
-The Internet protocol suite, commonly known as TCP/IP, is the set of communications protocols used in the Internet and similar computer networks. The current foundational protocols in the suite are the Transmission Control Protocol (TCP) and the Internet Protocol (IP).
+The [Internet protocol suite]( https://en.wikipedia.org/wiki/Internet_protocol_suite  ), commonly known as TCP/IP, is the set of communications protocols used in the Internet and similar computer networks. The current foundational protocols in the suite are the Transmission Control Protocol (TCP) and the Internet Protocol (IP).
 
 
-https://en.wikipedia.org/wiki/Internet_protocol_suite
+
 
 ### Protocol Wars
 
@@ -73,50 +67,50 @@ https://wikipedia.org/wiki/Protocol_Wars
 
 ### CIDR
 
-Classless Inter-Domain Routing is a method for allocating IP addresses and for IP routing. The Internet Engineering Task Force introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. Its goal was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.
+[Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing   ) is a method for allocating IP addresses and for IP routing. The Internet Engineering Task Force introduced CIDR in 1993 to replace the previous classful network addressing architecture on the Internet. Its goal was to slow the growth of routing tables on routers across the Internet, and to help slow the rapid exhaustion of IPv4 addresses.
 
-https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+
 
 ### Routing
 
-IP routing is the field of routing methodologies of Internet Protocol (IP) packets within and across IP networks. This involves not only protocols and technologies but includes the policies of the worldwide organization and configuration of Internet infrastructure. In each IP network node, IP routing involves the determination of a suitable path for a network packet from a source to its destination in an IP network. The process uses static configuration rules or dynamically obtained status information to select specific packet forwarding methods to direct traffic to the next available intermediate network node one hop closer to the desired final destination, a total path potentially spanning multiple computer networks.
+[IP routing](https://en.wikipedia.org/wiki/IP_routing   ) is the field of routing methodologies of Internet Protocol (IP) packets within and across IP networks. This involves not only protocols and technologies but includes the policies of the worldwide organization and configuration of Internet infrastructure. In each IP network node, IP routing involves the determination of a suitable path for a network packet from a source to its destination in an IP network. The process uses static configuration rules or dynamically obtained status information to select specific packet forwarding methods to direct traffic to the next available intermediate network node one hop closer to the desired final destination, a total path potentially spanning multiple computer networks.
 
-https://en.wikipedia.org/wiki/IP_routing
 
 https://en.wikipedia.org/wiki/Routing_table
 
+
 ### DNS
 
-The [Domain Name System](DNS) (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
+The [Domain Name System](DNS) (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it [translates more readily memorized domain names to the numerical IP addresses]( https://en.wikipedia.org/wiki/Domain_Name_System  ) needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
 
-https://en.wikipedia.org/wiki/Domain_Name_System
+
 
 ### Ethernet
 
-Ethernet (/ˈiːθərnɛt/) is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).
+[Ethernet](  https://en.wikipedia.org/wiki/Ethernet ) is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).
 
-https://en.wikipedia.org/wiki/Ethernet
+
 
 ### Network Switch
 
-A network switch (also called switching hub, bridging hub, and, by the IEEE, MAC bridge[1]) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
+A [network switch]( https://en.wikipedia.org/wiki/Network_switch  ) (also called switching hub, bridging hub, and, by the IEEE, MAC bridge) is networking hardware that connects devices on a computer network by using packet switching to receive and forward data to the destination device.
 
-https://en.wikipedia.org/wiki/Network_switch
+
 
 #### Multi-layer Switch
 
-A multilayer switch (MLS) is a computer networking device that switches on OSI layer 2 like an ordinary network switch and provides extra functions on higher OSI layers.
+A [multilayer switch](  https://en.wikipedia.org/wiki/Multilayer_switch ) (MLS) is a computer networking device that switches on OSI layer 2 like an ordinary network switch and provides extra functions on higher OSI layers.
 
 Switching technologies are crucial to network design, as they allow traffic to be sent only where it is needed in most cases, using fast, hardware-based methods. Switching uses different kinds of network switches. A standard switch is known as a layer 2 switch and is commonly found in nearly any LAN. Layer 3 or layer 4 switches require advanced technology (see managed switch) and are more expensive, and thus are usually only found in larger LANs or in special network environments.
 
-https://en.wikipedia.org/wiki/Multilayer_switch
+
 
 
 #### Open vSwitch
 
-Open vSwitch, sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
+[Open vSwitch]( https://en.wikipedia.org/wiki/Open_vSwitch   ), sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
 
-https://en.wikipedia.org/wiki/Open_vSwitch
+
 
 
 #### Open Compute Project Whitebox Switches
@@ -125,30 +119,41 @@ https://www.opencompute.org/wiki/Networking/SpecsAndDesigns
 
 ### Network Router
 
-A router[a] is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.
+A [router]( https://en.wikipedia.org/wiki/Router_(computing)  ) is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.
 
-https://en.wikipedia.org/wiki/Router_(computing)
+
 
 #### Brouter
 
-A bridge router or brouter[1] is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.[2]
+A [bridge router or brouter](https://en.m.wikipedia.org/wiki/Bridge_router) is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.
 
-Brouters operate at both the network layer for routable protocols and at the data link layer for non-routable protocols. As networks continue to become more complex, a mix of routable and non-routable protocols has led to the need for the combined features of bridges and routers. Brouters handle both routable and non-routable features by acting as routers for routable protocols and bridges for non-routable protocols. 
+Brouters operate at both the network layer for routable protocols and at the data link layer for non-routable protocols. As networks continue to become more complex, a mix of routable and non-routable protocols has led to the need for the combined features of bridges and routers. 
+
+Brouters handle both routable and non-routable features by acting as routers for routable protocols and bridges for non-routable protocols. 
+
+
 Bridged protocols might propagate throughout the network, but techniques such as filtering and learning might be used to reduce potential congestion. Brouters are used as connecting devices in the networking system, so it acts as a bridge in a network and as a router in an internetwork.
 
 ### Routing Protocols
 
-A routing protocol specifies how routers communicate with each other to distribute information that enables them to select routes between nodes on a computer network. Routers perform the traffic directing functions on the Internet; data packets are forwarded through the networks of the internet from router to router until they reach their destination computer. Routing algorithms determine the specific choice of route. Each router has a prior knowledge only of networks attached to it directly. A routing protocol shares this information first among immediate neighbors, and then throughout the network. This way, routers gain knowledge of the topology of the network. The ability of routing protocols to dynamically adjust to changing conditions such as disabled connections and components and route data around obstructions is what gives the Internet its fault tolerance and high availability.
+A [routing protocol](  https://en.wikipedia.org/wiki/Routing_protocol ) specifies how routers communicate with each other to distribute information that enables them to select routes between nodes on a computer network. 
 
-https://en.wikipedia.org/wiki/Routing_protocol
+Routers perform the traffic directing functions on the Internet; data packets are forwarded through the networks of the internet from router to router until they reach their destination computer. 
+
+
+Routing algorithms determine the specific choice of route. Each router has a prior knowledge only of networks attached to it directly. 
+
+A routing protocol shares this information first among immediate neighbors, and then throughout the network. This way, routers gain knowledge of the topology of the network. The ability of routing protocols to dynamically adjust to changing conditions such as disabled connections and components and route data around obstructions is what gives the Internet its fault tolerance and high availability.
+
+
 
 ### Subnetwork
 
-A subnetwork or subnet is a logical subdivision of an IP network.[1]:1,16 The practice of dividing a network into two or more networks is called subnetting.
+A [subnetwork or subnet]( https://en.wikipedia.org/wiki/Subnetwork  ) is a logical subdivision of an IP network. The practice of dividing a network into two or more networks is called subnetting.
 
 Computers that belong to the same subnet are addressed with an identical most-significant bit-group in their IP addresses. This results in the logical division of an IP address into two fields: the network number or routing prefix and the rest field or host identifier. The rest field is an identifier for a specific host or network interface.
 
-https://en.wikipedia.org/wiki/Subnetwork
+
 
 ## CompTIA Network+ full course
 
@@ -168,10 +173,6 @@ https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 ### Database point of view
 
 https://www.softwaretestingclass.com/what-is-difference-between-two-tier-and-three-tier-architecture/
- 
-
-
-
 
 
 
@@ -188,7 +189,6 @@ Google's connectivity solutions enable you to connect your networks to Google in
 - To CDN providers, which enables you to choose supported content delivery providers that establish Direct Peering links with Google's edge network. Choosing a provider enables you to send traffic from your VPC networks to that provider.
 
 
-
 You can choose from [Network Options](Network-Options).
 
 
@@ -200,7 +200,7 @@ There are [DNS](DNS) based CDNs.
 
 The CDN provider typically determines the optimal server selection based on the source IP address of the DNS request (probably combined with other information). However, the source IP address conveyed to the [CDN](https://cloud.google.com/cdn/docs) provider is that of the DNS recursive server, rather than that of the client.
 
-https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
+
 
 
 ### Using CDN and Load Balancing
@@ -455,6 +455,9 @@ All of the CNIs can be deployed by simply running a pod or a daemonset that laun
 
 There are [networking technologies for IoT](IoT-Networking)  that allow communications between devices over wired and wireless environments.
 
+### Cellular IoT networks
+
+https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
 
 ## Time
 
