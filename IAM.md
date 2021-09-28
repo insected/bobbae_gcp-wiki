@@ -91,6 +91,11 @@ Cloud Identity and Access Management (IAM) lets administrators authorize who can
 
 https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
 
+## Delegated role grants
+
+[Delegated role grants](https://cloud.google.com/iam/docs/setting-limits-on-granting-roles) is a new feature in GCP that allows organization administrators to control which roles a user can grant or revoke even when the user has setIamPolicy permission on a resource.
+
+https://medium.com/google-cloud/managing-gcp-service-usage-through-delegated-role-grants-a843610f2226
 
 
 ## Concepts related to identity
