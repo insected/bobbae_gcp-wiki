@@ -13,7 +13,10 @@ https://cloud.google.com/tasks/docs/quickstart
 
 https://cloud.google.com/tasks/docs/migrating
 
+#### Managing queues and tasks
 
+
+https://cloud.google.com/tasks/docs/deleting-appengine-queues-and-tasks
 
 #### Cloud Task queues with HTTP targets
 
