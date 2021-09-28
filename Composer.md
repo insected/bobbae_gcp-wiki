@@ -7,7 +7,7 @@ Cloud [Composer](https://cloud.google.com/composer/) is a managed [Apache Airflo
 
 
 [Cloud Composer](  https://www.youtube.com/watch?v=bwZOAXnCMf8 ) is a [managed workflow orchestration service](https://cloud.google.com/blog/products/data-analytics/cloud-composer-is-now-in-beta-build-and-run-practical-workflows-with-minimal-effort
-) built on Apache Airflow. 
+) built on [Apache Airflow](https://airflow.apache.org/). 
 
 
 Google runs this open source orchestration platform on top of a Google Kubernetes Engine (GKE) cluster. 
@@ -92,7 +92,7 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 
 
 
-## Concepts
+## Airflow Concepts
 
 [https://airflow.apache.org/docs/stable/concepts.html](https://airflow.apache.org/docs/stable/concepts.html)
 
@@ -107,14 +107,14 @@ Stop VM, take snapshots, start VMs, using python API and airflow.   Each step is
 [http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/)
 
 
-## Operators
+## Airflow Operators
 
  An [Operator](  https://github.com/apache/airflow/tree/master/airflow/operators ) is an atomic block of workflow logic, which performs a single action. Operators are written as Python classes (subclasses of BaseOperator), where the __init__ function can be used to configure settings for the task and a method named execute is called when the task instance is executed.
 
 
 
 
-### XCom
+### Airflow XCom
 
 [https://airflow.apache.org/docs/stable/concepts.html#xcoms](https://airflow.apache.org/docs/stable/concepts.html#xcoms)
 
@@ -129,6 +129,11 @@ https://medium.com/flyr-labs-blog/why-were-switching-off-airflow-sort-of-780c4f5
 ## Composer vs Astronomer
 
 https://itsvit.com/blog/google-cloud-composer-vs-astronomer-what-to-choose/
+
+## Airflow alternatives
+
+https://towardsdatascience.com/why-you-should-try-something-else-than-airflow-for-data-pipeline-orchestration-7a0a2c91c341
+
 
 ## Examples
 
