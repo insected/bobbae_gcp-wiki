@@ -93,7 +93,9 @@ Looker for data explorers.
 [https://training.looker.com/training-business-users](https://training.looker.com/training-business-users)
 
 
+### Visualization example
 
+https://medium.com/badal-io/gcp-iiot-visualization-and-analytics-in-looker-for-oil-gas-systems-90b9b8526976
 
 
 ### Looker, Building Explores:
