@@ -141,7 +141,8 @@ Calico now has built in support for VXLAN, which we generally recommend for simp
 
 ### Cilium
 
-[Cilium](https://github.com/cilium/cilium) is open source software for providing and transparently securing network connectivity between application containers. Cilium is L7/HTTP aware and can enforce network policies on L3-L7 using an identity based security model that is decoupled from network addressing, and it can be used in combination with other CNI plugins.
+[Cilium](Cilium) is open source software for providing and transparently securing network connectivity between application containers. 
+
 
 ### Contiv
 
