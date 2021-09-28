@@ -26,6 +26,6 @@ https://kubectl.docs.kubernetes.io/guides/extending_kustomize/
 
 ## Comparison to Helm
 
-[Helm] is the package manager for Kubernetes.
+[Helm](Helm) is the package manager for Kubernetes.
 
 https://harness.io/blog/helm-vs-kustomize/
