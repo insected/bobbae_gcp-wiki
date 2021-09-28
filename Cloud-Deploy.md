@@ -26,7 +26,7 @@ https://cloud.google.com/deploy/docs/terminology
 ### Managing manifests in Google Cloud Deploy 
 
 
-Google Cloud Deploy uses Skaffold to render your Kubernetes manifests, supporting rendering of raw manifests as well as more advanced manifest-management tools, such as Helm, Kustomize, and kpt.
+[Google Cloud Deploy](https://cloud.google.com/deploy) uses [Skaffold](Skaffold) to render your Kubernetes manifests, supporting rendering of raw manifests as well as more advanced manifest-management tools, such as [Helm](Helm), [Kustomize](Kustomize), and [kpt](kpt).
 
 https://cloud.google.com/deploy/docs/skaffold
 
