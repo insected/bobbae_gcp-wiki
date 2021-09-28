@@ -36,6 +36,11 @@ To ensure data privacy [compliance](Compliance), you need to know everything abo
 
 https://www.collibra.com/blog/data-governance-for-data-privacy
 
+## DLP
+
+https://nileshk611.medium.com/dlp-data-loss-prevention-simplified-3473de96e1cb
+
+
 ## Examples
 
 ### Protecting Healthcare data with DLP
