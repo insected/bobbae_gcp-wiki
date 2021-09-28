@@ -11,12 +11,12 @@ https://cloud.google.com/security/compliance
 
 ## Governance
 
-## Cloud Governance
+### Cloud Governance
 
 [Cloud governance](cloud-governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but simply the application of existing governance practices to cloud operations.
 
 
-## Data Governance 
+### Data Governance 
 
 
 [Data governance](data-governance) is a principled approach to manage data during its lifecycle — from acquisition, to use, to disposal.
@@ -28,11 +28,11 @@ Risk Management and Compliance is as important in the cloud as it is in conventi
 
 https://cloud.google.com/blog/products/identity-security/how-banks-can-engineer-compliance-into-their-cloud-systems
 
-## Compliance Offerings
+### Compliance Offerings
 
 https://cloud.google.com/security/compliance/offerings/#/
 
-## Compliance Reports Manager
+### Compliance Reports Manager
 
 https://cloud.google.com/security/compliance/compliance-reports-manager
 
@@ -40,7 +40,7 @@ https://cloud.google.com/security/compliance/compliance-reports-manager
 
 https://cloud.google.com/security/gdpr/resource-center
 
-## GDPR and Google
+### GDPR and Google
 
 https://cloud.google.com/security/gdpr
 
@@ -57,3 +57,6 @@ https://learn.hashicorp.com/tutorials/vault/eaas-transit
 
 
 
+## Compliance as Code
+
+https://medium.com/gojekengineering/compliance-as-code-how-we-automate-cis-compliance-for-gcp-5eb21f2bfd21
