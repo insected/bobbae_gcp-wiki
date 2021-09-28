@@ -16,7 +16,7 @@ https://towardsdatascience.com/is-data-science-really-a-science-9c2249ee2ce4
 
 What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? 
 
-In practice,  there are significant overlapping areas of interest in data science, data engineering  and data analytics. 
+There are significant overlapping areas of interest in data science, data engineering  and data analytics. 
 
 ## Google Smart Analytics Platform
 
@@ -156,6 +156,11 @@ You may become a more efficient and productive data scientist by teaching you ho
 
 
 https://www.datascienceatthecommandline.com/
+
+
+### CLI tools
+
+https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utilities.html
 
 ## Data Lineage
 
