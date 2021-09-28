@@ -22,8 +22,7 @@ https://msgpack.org/index.html
 ## BSON
 https://bsonspec.org/
 
-## Comparison of Avro, Thrift, Messagepack, Protocol buffers
-https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/
+
 
 ## XDR
 https://en.wikipedia.org/wiki/External_Data_Representation
@@ -31,5 +30,26 @@ https://en.wikipedia.org/wiki/External_Data_Representation
 ### Example use case
 https://stellar.stackexchange.com/questions/271/why-did-the-project-settle-on-xdr-for-external-data-serialisation
 
-ASN.1, BER, DER
-https://luca.ntop.org/Teaching/Appunti/asn1.html
+## ASN.1, BER, DER
+https://luca.ntop.org/Teaching/Appunti/asn1.htm
+
+## JSON
+
+https://en.m.wikipedia.org/wiki/JSON
+
+## XML
+
+https://en.m.wikipedia.org/wiki/XML
+
+## YAML
+https://en.m.wikipedia.org/wiki/YAML
+
+## TOML
+https://en.m.wikipedia.org/wiki/TOML
+
+## Comparisons
+
+https://en.m.wikipedia.org/wiki/Comparison_of_data-serialization_formats
+
+### Comparison of Avro, Thrift, Messagepack, Protocol buffers
+https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/
