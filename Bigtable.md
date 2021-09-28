@@ -13,7 +13,7 @@ https://cloud.google.com/bigtable/docs/overview
 https://www.guru99.com/hbase-tutorials.html
 
 
-### Migrating fine HBase to Big table
+### Migrating from HBase to Big table
 
 https://medium.com/box-tech-blog/zero-downtime-migration-from-hbase-to-bigtable-4f00f835755f
 
