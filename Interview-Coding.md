@@ -1,16 +1,3 @@
-- [Shell](#shell)
-- [python](#python)
-- [perl](#perl)
-- [java](#java)
-- [Awk](#awk)
-- [Programming in general](#programming-in-general)
-  * [do you have any samples, github repo, open source projects?](#do-you-have-any-samples--github-repo--open-source-projects-)
-  * [linked list](#linked-list)
-  * [data structure](#data-structure)
-  * [algorithm](#algorithm)
-  * [Amazon, Microsoft coding Qs](#amazon--microsoft-coding-qs)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
