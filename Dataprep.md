@@ -23,6 +23,10 @@ https://towardsdatascience.com/dataprep-clean-accelerate-your-data-cleaning-8340
 https://cloud.google.com/dataprep/docs/quickstarts/quickstart-dataprep
 
 
+### No coding dataprep
+
+https://medium.com/flux-tech-blog/dataprep-is-all-you-need-for-a-data-preparation-job-on-gcp-eeb4f547358d
+
 ### Automate a Cloud Dataprep Pipeline When a File Arrives
 
 https://www.trifacta.com/blog/automate-cloud-dataprep-pipeline-data-warehouse/
