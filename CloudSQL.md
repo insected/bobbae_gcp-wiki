@@ -63,14 +63,14 @@ Read replicas are read-only; you cannot write to them. The read replica processe
 
 ### External read replicas
 
-External read replicas are external MySQL instances that replicate from a Cloud SQL primary instance. For example, a MySQL instance running on Compute Engine is considered an external instance.
+External [read replicas](https://cloud.google.com/sql/docs/mysql/replication#read-replicas) are external MySQL instances that replicate from a Cloud SQL primary instance. For example, a MySQL instance running on Compute Engine is considered an external instance.
 
 https://cloud.google.com/sql/docs/mysql/replication#external-read-replicas
 https://cloud.google.com/sql/docs/mysql/replication#cross-region-read-replicas
 
 
 
-https://cloud.google.com/sql/docs/mysql/replication#read-replicas
+
 
 ## Maintenance
 
