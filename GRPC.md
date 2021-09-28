@@ -53,7 +53,7 @@ https://en.wikipedia.org/wiki/Remote_procedure_call
 
 [Protocol buffers](https://developers.google.com/protocol-buffers/) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read structured data to and from a variety of data streams and using a variety of languages.
 
-There are [many other Data representation formats](Data-Representation-Formats)
+There are [many other Data serialization formats](Data-Serialization-Formats)
 
 
 
