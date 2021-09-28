@@ -57,7 +57,7 @@ A tablet’s state is stored in set of [B-tree-like](https://wikipedia.org/wiki/
 To support replication, each spanserver implements a single [Paxos](https://www.cs.rutgers.edu/~pxk/417/notes/paxos.html)   state machine on top of each tablet.
 The [Paxos](https://medium.com/distributed-knowledge/paxos-consensus-for-beginners-1b8519d3360f)    state machines are used to implement a consistently replicated bag of mappings. 
 The key-value
-mapping state of each replica is stored in its corresponding tablet. Writes must initiate the Paxos protocol at the
+mapping state of each replica is stored in its corresponding tablet. Writes must initiate the [Paxos](https://en.m.wikipedia.org/wiki/Paxos_(computer_science)) protocol at the
 leader; reads access state directly from the underlying tablet at any replica that is sufficiently up-to-date. 
 The
 set of replicas is collectively a Paxos group. 
