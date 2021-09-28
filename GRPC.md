@@ -51,60 +51,11 @@ https://en.wikipedia.org/wiki/Remote_procedure_call
 ## Protocol Buffers
 
 
-Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read structured data to and from a variety of data streams and using a variety of languages.
+[Protocol buffers](https://developers.google.com/protocol-buffers/) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read structured data to and from a variety of data streams and using a variety of languages.
 
-https://developers.google.com/protocol-buffers/
-
-## Other Data representation formats
-
-### Apache avro
-
-https://avro.apache.org/
-
-### Apache thrift
+There are [many other Data representation formats](Data-Representation-Formats)
 
 
-https://thrift.apache.org/
-
-### Apache parquet
-
-https://parquet.apache.org/
-
-### Apache ORC
-
-https://orc.apache.org/
-
-### Apache arrow
-
-https://arrow.apache.org/
-
-### Messagepack
-
-https://msgpack.org/index.html
-
-### BSON
-
-https://bsonspec.org/
-
-
-
-
-### Comparison of Avro, Thrift, Messagepack, Protocol buffers
-
-https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/
-
-### XDR
-
-https://en.wikipedia.org/wiki/External_Data_Representation
-
-#### Example use case
-
-https://stellar.stackexchange.com/questions/271/why-did-the-project-settle-on-xdr-for-external-data-serialisation
-
-
-### ASN.1, BER, DER
-
-https://luca.ntop.org/Teaching/Appunti/asn1.html
 
 ## When to use REST vs. gRPC
 
