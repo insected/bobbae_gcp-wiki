@@ -2,8 +2,7 @@
 
 [Cloud Spanner](https://cloud.google.com/spanner) is a  [managed relational database](https://www.youtube.com/watch?v=IFbydfGV2lQ) with [unlimited scale, strong consistency, and up to 99.999% availability](https://www.youtube.com/watch?v=5bjYk6Hhd10). 
 
-[Cloud Spanner](https://www.youtube.com/watch?v=bUSU1e9j8wc)    optimizes performance by [automatically sharding the data based on request load and size](https://www.youtube.com/watch?v=amcf6W2Xv6M) of the data. As a result, you can spend less time worrying about [how to scale your database](https://www.youtube.com/watch?v=9PsSIVUbtWo) and instead focus on [scaling your business]().
-
+[Cloud Spanner](https://www.youtube.com/watch?v=bUSU1e9j8wc)    optimizes performance by [automatically sharding the data based on request load and size](https://www.youtube.com/watch?v=amcf6W2Xv6M) of the data. 
 
 
 [Cloud Spanner](https://www.youtube.com/watch?v=C75kpQszAjs) is a relational database service that offers transactional consistency at [global scale](https://techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/), [schemas](https://cloud.google.com/spanner/docs/schema-and-data-model), SQL (ANSI 2011 with extensions), and automatic, synchronous replication for high availability.
@@ -239,6 +238,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/deploying-cloud-sp
 ###  Reduce latency with Cloud Spanner multi-region leader placement
 
 https://cloud.google.com/blog/topics/developers-practitioners/reduce-latency-with-cloud-spanner-multi-region-leader-placement
+
+
+### DynamoDB to Cloud Spanner via HarbourBridge
+
+https://cloud.google.com/blog/products/databases/migrating-to-cloud-spanner-from-dynamodb-via-harbourbridge
+
 
 ## Qwiklabs
 
