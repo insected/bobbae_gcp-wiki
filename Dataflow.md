@@ -21,10 +21,11 @@ You create your pipelines with an Apache Beam program and then run them on the D
 
 The [Apache Beam documentation](https://beam.apache.org/documentation/) provides in-depth conceptual information and reference material for the Apache Beam programming model, SDKs, and other runners.
 
+### Alternatives
 
+Cloud Dataflow is not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. 
 
-Cloud Dataflow is certainly not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. So, why would you choose Dataflow?
-There are a few reasons :
+### Why Dataflow?
 
 * Serverless: We don’t have to manage computing resources
 * Processing code is separate from the execution environment
@@ -32,23 +33,39 @@ There are a few reasons :
 
 [https://beam.apache.org/documentation/programming-guide/](https://beam.apache.org/documentation/programming-guide/)
 
+## Examples
 
-## Example Notebook
+### Example Notebook
 
 In [this notebook]( https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb  ), we set up your development environment and work through a simple example using the [DirectRunner](https://beam.apache.org/documentation/runners/direct/). You can explore other runners with the [Beam Capability Matrix](https://beam.apache.org/documentation/runners/capability-matrix/).
 
 
 
 
-## Word Count Example
+### Word Count Example
 
 [https://beam.apache.org/get-started/wordcount-example/](https://beam.apache.org/get-started/wordcount-example/)
 
+### Getting Started Tutorial
 
+https://medium.com/bb-tutorials-and-thoughts/how-to-get-started-with-gcp-dataflow-822295dce7b4
 
-## Dataflow pipeline example: PubSub to GCS
+### Dataflow pipeline example: PubSub to GCS
 
 https://jtaras.medium.com/building-a-simple-google-cloud-dataflow-pipeline-pubsub-to-google-cloud-storage-9bbf170e8bad
+
+
+
+
+### Dataflow Mobile Gaming Example
+
+[https://beam.apache.org/get-started/mobile-gaming-example/](https://beam.apache.org/get-started/mobile-gaming-example/)
+
+
+### Streaming into BigQuery using dataflow
+
+https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-second-into-bigquery-part-i-google-cloud-dataflow-9465fdcd436d
+
 
 
 ## Creating a pipeline
@@ -99,14 +116,6 @@ Dataflow Flex templates use docker containers.
 [ETL From Relational DB into BigQuery using DataFlow](https://cloud.google.com/solutions/performing-etl-from-relational-database-into-bigquery)
 
 
-## Dataflow Mobile Gaming Example
-
-[https://beam.apache.org/get-started/mobile-gaming-example/](https://beam.apache.org/get-started/mobile-gaming-example/)
-
-
-## Streaming into BigQuery using dataflow
-
-https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-second-into-bigquery-part-i-google-cloud-dataflow-9465fdcd436d
 
 
 
