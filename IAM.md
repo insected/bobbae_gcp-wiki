@@ -144,6 +144,10 @@ Google Cloud services write [audit logs](https://cloud.google.com/iam/docs/audit
 
 [IAM Conditions](https://cloud.google.com/iam/docs/conditions-overview) allows you to define and enforce conditional, attribute-based access control for Google Cloud resources.
 
+### Resource-based Conditional access
+
+https://faun.pub/iam-for-gcp-resource-based-conditional-access-ec1016d60303
+
 ## Tags and access control
 
 [A tag is a key-value pair](https://cloud.google.com/iam/docs/tags-access-control) that is attached to an organization, folder, or project. You can [conditionally grant IAM roles](https://cloud.google.com/iam/docs/conditions-overview) based on whether a resource has a specific tag.
