@@ -42,9 +42,6 @@ https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
 You can use [Cloud Workflows](Workflows) to create serverless workflows that link a series of serverless tasks together in an order you define. Combine the power of Google Cloud's APIs, serverless products like Cloud Functions and Cloud Run, and calls to external APIs to create flexible serverless applications. Workflows require no infrastructure management and scales seamlessly with demand, including scaling down to zero.
 
 
-
-Build serverless workflows orchestrating various products and API calls within Google Cloud and beyond. 
-
 [https://www.youtube.com/watch?v=Uz8G8fTwwXs](https://www.youtube.com/watch?v=Uz8G8fTwwXs)
 
 ## Examples
