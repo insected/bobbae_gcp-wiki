@@ -15,7 +15,7 @@ https://cloud.google.com/deploy/docs/integrating
 
 ### Manifest rendering
 
-Cloud Deploy and Skaffold can enable transition to more advanced tools without distrupting the  workflow pipelines and render manifests via helm, kustomize and kpt.
+Cloud Deploy and Skaffold can enable transition to more advanced tools without distrupting the  workflow pipelines and render manifests via [helm](https://helm.sh/), [kustomize](  kustomize ) and [kpt](https://kpt.dev/).
 
 
 
