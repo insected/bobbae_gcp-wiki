@@ -3,6 +3,7 @@
 - [Kubernetes Storage](Kubernetes-Storage)
 - [Kubernetes Networking](Kubernetes-Networking)
 - [Kubernetes Monitoring](Kubernetes-Monitoring)
+- [Kubernetes CICD](Kubernetes-CICD)
 - [Kubernetes Origin](Kubernetes-Origin)
 - [Kubernetes Examples](Kubernetes-Examples)
 - [Kubernetes Scaling](Kubernetes-Scaling)
