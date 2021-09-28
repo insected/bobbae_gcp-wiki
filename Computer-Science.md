@@ -5,7 +5,7 @@ If you want to get a well-rounded education in  Computer Science  there are many
 
 https://en.wikipedia.org/wiki/Outline_of_computer_science
 
-Using a curated list of [free courses from reputable universities](https://github.com/ForrestKnight/open-source-cs) like MIT, Stanford, and Princeton you can get an undergraduate [Computer Science education](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
+Using a [curated list](https://github.com/prakhar1989/awesome-courses) of [free courses from reputable universities](https://github.com/ForrestKnight/open-source-cs) like MIT, Stanford, and Princeton you can get an undergraduate [Computer Science education](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 ).
 
 https://isaaccomputerscience.org/
