@@ -31,9 +31,9 @@ Please review some [security topics](Security) and [privacy issues](Privacy) fro
 
 ## Hybrid Cloud DevOps
 
-Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. Anthos helps you manage both an on-premises Kubernetes cluster and a cluster running on Google Cloud.
+Running in a hybrid environment means that some of your processing happens on Google Cloud and other processing remains on-premises. [Anthos](Anthos) helps you manage both an on-premises [Kubernetes](Kubernetes) cluster and a cluster running on Google Cloud.
 Google Kubernetes Engine (GKE) is the Kubernetes management and orchestration system for containers and Kubernetes clusters that run within Google's public cloud services.
-Anthos clusters on VMware runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
+Anthos clusters on [VMware](VMWare) runs privately on your own servers with regulated access to help meet your requirements for on-premises data processing.
 
 ## GitOps 
 
