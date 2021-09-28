@@ -29,3 +29,8 @@ https://kubectl.docs.kubernetes.io/guides/extending_kustomize/
 [Helm](Helm) is the package manager for Kubernetes.
 
 https://harness.io/blog/helm-vs-kustomize/
+
+
+## Customizing Upstream Helm Charts with Kustomize
+
+https://testingclouds.wordpress.com/2018/07/20/844/
