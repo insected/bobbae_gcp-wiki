@@ -118,3 +118,7 @@ https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 * [Wide-column stores](https://en.wikipedia.org/wiki/Wide-column_store) store data in tables, rows, and dynamic columns. Wide-column stores provide a lot of flexibility over relational databases because each row is not required to have the same columns. Many consider wide-column stores to be two-dimensional key-value databases. Wide-column stores are great for when you need to store large amounts of data and you can predict what your query patterns will be. Examples: Cassandra, Bigtable, HBase, DynamoDB
 
 * [Graph databases](https://en.wikipedia.org/wiki/Graph_database) store data in nodes and edges. Nodes typically store information about people, places, and things while edges store information about the relationships between the nodes. Graph databases excel in use cases where you need to traverse relationships to look for patterns such as social networks, fraud detection, and recommendation engines. Examples: Neo4j, AWS Neptune, JanusGraph, AllegroGraph
+
+## GraphQL
+
+[GraphQL](  GraphQL ) is a query language for APIs and a runtime for fulfilling those queries with your existing data. 
