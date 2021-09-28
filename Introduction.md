@@ -52,7 +52,7 @@ Summary of google cloud services in [4 words](https://github.com/gregsramblings/
 
 ## Google Cloud setup checklist
 
-This [checklist](https://cloud.google.com/docs/enterprise/onboarding-checklist) helps you set up Google Cloud for scalable, production-ready enterprise workloads. The checklist is designed for administrators who are trusted with complete control over the company's Google Cloud resources.
+This [checklist](https://cloud.google.com/docs/enterprise/onboarding-checklist) helps you set up Google Cloud for scalable, production-ready enterprise workloads. 
 
 
 
@@ -84,7 +84,7 @@ A list of short tutorials on [getting started](https://cloud.google.com/gcp/gett
 
 ## Whitepapers
 
-[Google Cloud whitepapers](https://cloud.google.com/whitepapers/) explain the technology underlying gcp products and services or examine topics such as security, architecture, and total cost of ownership. 
+[Google Cloud whitepapers](https://cloud.google.com/whitepapers/) explain the technology underlying gcp products and services.
 
 ## Cloud Architecture Center
 
