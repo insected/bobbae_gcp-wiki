@@ -22,3 +22,10 @@ Write a plugin when changing generator options or transformer configs doesn’t 
 - A transformer plugin might perform special container command line edits, or any other transformation beyond those provided by the builtin (namePrefix, commonLabels, etc.) transformers.
 
 https://kubectl.docs.kubernetes.io/guides/extending_kustomize/
+
+
+## Comparison to Helm.
+
+
+
+https://harness.io/blog/helm-vs-kustomize/
