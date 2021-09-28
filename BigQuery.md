@@ -503,6 +503,13 @@ https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-
 
 https://cloud.google.com/bigquery/pricing#flat_rate_pricing
 
+
+## Regional performances
+
+
+https://medium.com/google-cloud/bigquery-tell-me-your-region-i-will-tell-you-your-speed-41dcf42b8cc
+
+
 ## Sandbox
 
 https://cloud.google.com/bigquery/docs/sandbox
