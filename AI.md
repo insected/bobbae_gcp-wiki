@@ -166,6 +166,9 @@ https://cloud.google.com/ai-infrastructure
 https://cloud.google.com/dialogflow
 
 
+### Recommendations AI
+
+https://cloud.google.com/blog/topics/developers-practitioners/recommendations-ai-modeling
 
 ## Risks
 
