@@ -8,6 +8,11 @@ https://www.youtube.com/watch?v=DQIu373gSKU
 
 https://github.com/GoogleCloudPlatform/spinnaker-for-gcp/blob/master/README.md
 
+
+## Why Spinnaker
+
+https://www.armory.io/blog/why-script-based-deployments-to-kubernetes-dont-scale/
+
 ## Managing and deploying apps to multiple GKE clusters using Spinnaker
 
 https://cloud.google.com/architecture/managing-and-deploying-apps-to-multiple-gke-clusters-using-spinnaker
