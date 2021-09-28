@@ -1,6 +1,6 @@
 
 
-## Introduction
+
 
 [Dataflow](https://cloud.google.com/dataflow/docs)   is a managed service for executing a wide variety of data processing patterns. 
 
