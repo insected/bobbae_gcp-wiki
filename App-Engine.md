@@ -1,22 +1,5 @@
 
-
-
-
-
-
-
-
-[App Engine](https://cloud.google.com/appengine)  is a fully managed, serverless platform for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
-
-## PaaS
-
-https://wikipedia.org/wiki/Platform_as_a_service
-
-
-
-
-[Google App Engine](https://www.youtube.com/watch?v=Xuf3J6SKVV0&list=PLIivdWyY5sqIQ4_5PwyyXZVdsXr3wYhip&index=4&t=1s) makes it easy to focus on your code, not infrastructure.
-
+[App Engine](https://cloud.google.com/appengine)  is a fully managed, serverless [PaaS](PaaS) for developing and hosting web applications at scale. You can choose from several popular languages, libraries, and frameworks to develop your apps, then let App Engine take care of provisioning servers and scaling your app instances based on demand.
 
 
 ## App Engine's environments
