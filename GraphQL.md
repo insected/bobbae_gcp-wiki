@@ -4,6 +4,20 @@
 
 https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/
 
+
+## GraphQL: Building a consistent approach for the API consumer
+
+https://cloud.google.com/blog/products/api-management/interacting-with-apis-rest-and-graphql
+
+## Hasura GraphQL engine on Google Cloud Platform with Kubernetes engine and Cloud SQL
+
+https://hasura.io/docs/latest/graphql/core/deployment/deployment-guides/google-kubernetes-engine-cloud-sql.html
+
 ## Apigee’s native support for managing lifecycle of GraphQL APIs
 
 https://cloud.google.com/blog/products/api-management/how-to-manage-graphql-apis-in-apigee
+
+
+## Dgraph
+
+https://dgraph.io/graphql/
