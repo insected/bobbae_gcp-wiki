@@ -35,6 +35,10 @@ https://www.trifacta.com/blog/automate-cloud-dataprep-pipeline-data-warehouse/
 
 https://medium.com/google-cloud/automation-of-data-wrangling-and-machine-learning-on-google-cloud-7de6a80fde91
 
+### Data Driven Price Optimization
+
+https://cloud.google.com/blog/products/data-analytics/centralize-data-sources-into-bigquery-with-dataprep
+
 ## Qwiklabs
 
 ### Transform and Clean your Data with Dataprep
