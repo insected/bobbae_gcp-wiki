@@ -19,13 +19,15 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
 
 Terraform [GitOps Framework](https://www.kubestack.com/).
 
+## Argo CD
+https://github.com/argoproj/argo-cd
 
-
-## Argo and GitOps
+### Argo and GitOps
 
 https://www.cncf.io/blog/2020/12/17/solving-configuration-drift-using-gitops-with-argo-cd/
 
-## Argo CD Terraform module
+
+### Argo CD Terraform module
 
 https://www.kubestack.com/catalog/argo-cd
 
