@@ -536,7 +536,9 @@ https://cloud.google.com/bigquery/docs/looker
 [BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
 
 
+## Comparing BigQuery Processing and Spark Dataproc
 
+https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-4c90c10e31ac
 
 
 ## BigQuery tutorials
