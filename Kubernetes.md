@@ -4,6 +4,7 @@
 - [Kubernetes Networking](Kubernetes-Networking)
 - [Kubernetes Monitoring](Kubernetes-Monitoring)
 - [Kubernetes CICD](Kubernetes-CICD)
+- [Kubernetes Configuration Management](Kubernetes-Configuration-Management)
 - [Kubernetes Origin](Kubernetes-Origin)
 - [Kubernetes Examples](Kubernetes-Examples)
 - [Kubernetes Scaling](Kubernetes-Scaling)
