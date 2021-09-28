@@ -80,7 +80,9 @@ Try [this tutorial installing and deploying](https://itnext.io/deploy-a-basic-py
 
 ### Spinnaker
 
-Use [Spinnaker](https://spinnaker.io/) to build a container based CI/CD pipeline leveraging Google Cloud Platform  tools.
+Use [Spinnaker](Spinnaker) to build a container based CI/CD pipeline leveraging Google Cloud Platform  tools.
+
+
 
 [https://www.youtube.com/watch?v=DQIu373gSKU](https://www.youtube.com/watch?v=DQIu373gSKU)
 
