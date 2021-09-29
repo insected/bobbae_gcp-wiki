@@ -21,7 +21,7 @@ You may [review possible project ideas](Projects) ideas from various sources.
 
 ## Daily Meetings
 
-The daily group meetings are held using Google meet to discuss any issues, questions and answers related to the learning materials.  The goal is to unblock any issues each day to make a reasonable progress. 
+The daily group meetings are held using Google meet to discuss any issues, [questions and answers](https://lincs.ed.gov/sites/default/files/12_TEAL_Deeper_Learning_Qs_complete_5_1_0.pdf) related to the learning materials.  The goal is to unblock any issues each day to make a reasonable progress. 
 
 ## Worklog
 
