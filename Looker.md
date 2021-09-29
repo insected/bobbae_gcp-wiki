@@ -52,9 +52,6 @@ Defining the language of your business with LookML.
 
 [https://docs.looker.com/data-modeling/learning-lookml/lookml-intro](https://docs.looker.com/data-modeling/learning-lookml/lookml-intro)
 
-### Learning LookML
-
-https://docs.looker.com/data-modeling/learning-lookml
 
 ### Looker development foundations
 
@@ -73,6 +70,12 @@ https://help.looker.com/hc/en-us/articles/360001784587-Best-Practice-Writing-Sus
 
 
 https://connect.looker.com/
+
+
+
+### Learning LookML
+
+https://docs.looker.com/data-modeling/learning-lookml
 
 ### Database to Dashboard
 
