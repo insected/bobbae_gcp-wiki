@@ -39,7 +39,7 @@ https://cloud.google.com/bigtable/docs/quickstart-hbase
 
 ## Scalable Key-value store
 
-Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, [SSTable](https://etcnotes.com/posts/sstable-and-lsm/) (log-structured storage like LevelDB) and a few other Google technologies. On May 6, 2015, a public version of Bigtable was made available as a service. Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
+Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, [SSTable](https://etcnotes.com/posts/sstable-and-lsm/) (log-structured storage like LevelDB) and a few other Google technologies.  Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
 
 [https://cloud.google.com/bigtable/docs](https://cloud.google.com/bigtable/docs)
 
@@ -60,7 +60,7 @@ Bigtable is one of the prototypical examples of a wide column store. It maps two
 
 ### Scale
 
-Bigtable is designed to scale into the petabyte range across "hundreds or thousands of machines, and to make it easy to add more machines  the system and automatically start taking advantage of those resources without any reconfiguration".
+Bigtable is designed to scale into the petabyte range across hundreds or thousands of machines, and to make it easy to add more machines  the system and automatically start taking advantage of those resources without any reconfiguration.
 
 
 ### Storing a copy of the Web
@@ -110,7 +110,7 @@ A table belongs to an instance, not to a cluster or node. If you have an instanc
 
 ### Storage Types
 
-When you create an instance, you must choose whether the instance's clusters will store data on solid-state drives (SSD) or hard disk drives (HDD). SSD is often, but not always, the most efficient and cost-effective choice.
+When you create an instance, you must choose whether the instance's clusters will store data on solid-state drives (SSD) or hard disk drives (HDD). 
 
 #### Choosing between SSD and HDD
 
@@ -120,15 +120,6 @@ https://cloud.google.com/bigtable/docs/choosing-ssd-hdd
 
 An app profile specifies the settings that Bigtable uses to handle an instance's incoming requests.
 
-Many Bigtable users have multiple applications that connect to the same instance. For example, you might have one application that serves data to customers on request, and another application that runs occasional batch jobs to analyze your data. To handle these different applications, you should create multiple app profiles—at a minimum, one for each application—and configure each app profile with the right settings for that application. This setup makes it possible to change the settings for one application but not others.
-
-You might also have a single application that performs multiple functions, such as viewing current data and querying historic data. To handle these different functions, you should create one app profile for each function, so you can configure each function differently and update the settings for one function but not others.
-
-Every instance has a default app profile, and you can create custom app profiles for each instance as well. The sections below describe default and custom app profiles.
-
-
-You use an app profile by specifying that profile in your code when you connect to your instance. If you do not specify an app profile, Bigtable uses the instance's default app profile.
-
 
 https://cloud.google.com/bigtable/docs/app-profiles
 
@@ -136,8 +127,6 @@ https://cloud.google.com/bigtable/docs/app-profiles
 ### Replication
 
 Replication for Cloud Bigtable enables you to increase the availability and durability of your data by copying it across multiple regions or multiple zones within the same region. You can also isolate workloads by routing different types of requests to different clusters.
-
-To use replication in a Bigtable instance, create a new instance with more than 1 cluster or add clusters to an existing instance.
 
 Bigtable supports up to 4 replicated clusters located in Google Cloud zones where Bigtable is available. An instance's clusters must each be in unique zones. You can create an additional cluster in any zone where Bigtable is available. Placing clusters in different zones or regions enables you to access your data even if one Google Cloud zone or region becomes unavailable.
 
@@ -178,7 +167,6 @@ When Table size threaten to grow beyond a specified limit, the tablets may be co
 ### META Tablets
 
 The locations in the GFS of tablets are recorded as database entries in multiple special tablets, which are called "META1" tablets. META1 tablets are found by querying the single "META0" tablet, which typically resides on a server of its own since it is often queried by clients as to the location of the "META1" tablet which itself has the answer to the question of where the actual data is located. Like GFS's master server, the META0 server is not generally a bottleneck since the processor time and bandwidth necessary to discover and transmit META1 locations is minimal and clients aggressively cache locations to minimize queries.
-
 
 
 ## Schema design
