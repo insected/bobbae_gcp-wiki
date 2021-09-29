@@ -8,18 +8,8 @@ The [Standard Environment](https://cloud.google.com/appengine/docs/about-the-sta
 
 
 
-## Locations
 
-https://cloud.google.com/about/locations#region
 
-## Other PaaS
-
-- https://github.com/mitja/awesome-paas
-
-- Compare to AWS Elastic Beanstalk 
-https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and-heroku-2129d9c827bc
-
-- https://foghornconsulting.com/2017/05/12/battle-of-the-paas-aws-vs-gcp/
 
 
 
@@ -31,10 +21,10 @@ https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and
 
 
 
-## Language Support
+### Language Support
 
 
-### Go
+#### Go
 
 [https://cloud.google.com/appengine/docs/go](https://cloud.google.com/appengine/docs/go)
 
@@ -47,7 +37,7 @@ A Go language tutorial video.
 [https://www.youtube.com/watch?v=YS4e4q9oBaU&list=PLk_epN-7EGrjdhjn5gCMJ1aLIhRTHDJcu&index=11&t=0s](https://www.youtube.com/watch?v=YS4e4q9oBaU&list=PLk_epN-7EGrjdhjn5gCMJ1aLIhRTHDJcu&index=11&t=0s)
 
 
-### Python
+#### Python
 
 [https://cloud.google.com/appengine/docs/python](https://cloud.google.com/appengine/docs/python)
 
@@ -56,7 +46,7 @@ A Python tutorial video.
 [https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 
-### Node.js
+#### Node.js
 
 https://cloud.google.com/appengine/docs/nodejs
 
@@ -83,6 +73,14 @@ https://cloud.google.com/appengine/docs/the-appengine-environments
 
 https://cloud.google.com/appengine/docs/flexible/python/run-flex-app-on-kubernetes
 
+## Other PaaS
+
+- https://github.com/mitja/awesome-paas
+
+- Compare to AWS Elastic Beanstalk 
+https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and-heroku-2129d9c827bc
+
+- https://foghornconsulting.com/2017/05/12/battle-of-the-paas-aws-vs-gcp/
 
 
 ## Qwiklabs
