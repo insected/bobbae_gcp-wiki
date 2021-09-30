@@ -52,7 +52,7 @@ A [flash file system](Flash-File-System) is a file system designed for storing f
 
 ## GCP Filestore
 
-[Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) based [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud  for use with applications running on Compute Engine virtual machines  instances or Google Kubernetes Engine clusters.
+[Filestore](Filestore) instances are fully managed [NFS](NFS) based [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud  for use with applications running on Compute Engine virtual machines  instances or Google Kubernetes Engine clusters.
 
 
 
