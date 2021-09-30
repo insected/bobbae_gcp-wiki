@@ -67,7 +67,7 @@ https://kubernetes.io/docs/concepts/services-networking/service/#proxy-mode-ipta
 
 A [NodePort](   https://kubernetes.io/docs/concepts/services-networking/service/#nodeport ) service is the most primitive way to get external traffic directly to your service. NodePort, as the name implies, opens a specific port on all the Nodes (the VMs), and any traffic that is sent to this port is forwarded to the service.
 
-NodePort exposes the Service on each Node's IP at a static port (the NodePort). A ClusterIP Service, to which the NodePort Service routes, is automatically created. You'll be able to contact the NodePort Service, from outside the cluster, by requesting <NodeIP>:<NodePort>.
+NodePort exposes the Service on each Node's IP at a static port (the NodePort). A ClusterIP Service, to which the NodePort Service routes, is automatically created. You'll be able to contact the NodePort Service, from outside the cluster, by requesting ’<NodeIP>:<NodePort>'.
 
 
 
