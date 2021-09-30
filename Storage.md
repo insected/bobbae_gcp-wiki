@@ -1,5 +1,14 @@
 
-Discuss different types of storage devices and methods.  What are block devices? What is a filesystem in the traditional sense, for example ext4 in Linux kernel?  What are networked file systems?  How do they compare to Google Cloud filesystem?  What is a SAN?  What are disk arrays, RAID, hard disk vs. SSD?
+## Types of Storage
+
+- [Data storage](https://en.wikipedia.org/wiki/Data_storage)
+- [Databases](Databases)
+- [Object storage](https://en.wikipedia.org/wiki/Object_storage)
+- [File Storage](https://en.wikipedia.org/wiki/File_system)
+- [Block Storage](https://en.wikipedia.org/wiki/Block-level_storage)
+- [Network Attached Storage](https://en.wikipedia.org/wiki/Network-attached_storage)
+- [Storage Area Network](https://en.wikipedia.org/wiki/Storage_area_network)
+
 
 
 ## Google Storage Products
@@ -19,104 +28,15 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 *   [Cloud Storage buckets](https://cloud.google.com/compute/docs/disks#gcsbuckets): Affordable object storage.
 *   [Filestore](https://cloud.google.com/filestore/docs/mounting-fileshares): High performance file storage for Google Cloud users.
 
-## Types of Storage
-
-- [Data storage](https://en.wikipedia.org/wiki/Data_storage)
-- [Databases](Databases)
-- [Object storage](https://en.wikipedia.org/wiki/Object_storage)
-- [File Storage](https://en.wikipedia.org/wiki/File_system)
-- [Block Storage](https://en.wikipedia.org/wiki/Block-level_storage)
-- [Network Attached Storage](https://en.wikipedia.org/wiki/Network-attached_storage)
-- [Storage Area Network](https://en.wikipedia.org/wiki/Storage_area_network)
 
 
 
 
-## File Storage
+## File Systems
 
-Discuss filesystems you have on computers.  Windows NTFS. MacOS APFS. Linux ext4.
-
-https://www.redhat.com/en/topics/data-storage/file-block-object-storage
-
-### Databases vs filesystems
-
-https://www.guru99.com/difference-between-file-system-and-dbms.html
-
-## Many types of filesystems
+[File System](File-System) is a hierarchical storage methodology used to organize and store data on a computer system.
 
 
-https://en.wikipedia.org/wiki/List_of_file_systems
-
-### Linux Filesystems
-
-The majority of modern Linux distributions default to the ext4 filesystem, just as previous Linux distributions defaulted to ext3, ext2, and—if you go back far enough—ext.
-
-https://www.tutorialspoint.com/unix/unix-file-system.htm
-
-If you're new to Linux—or to filesystems—you might wonder what ext4 brings to the table that ext3 didn't. 
-
-https://opensource.com/article/18/4/ext4-filesystem
-
-You might also wonder whether ext4 is still in active development at all, given the flurries of news coverage of alternate filesystems such as btrfs, xfs, and zfs.
-
-https://www.salvagedata.com/btrfs-zfs-xfs-ext4-how-are-they-different/
-
-
-
-
-### Flash file systems
-
-Because of the [particular characteristics of flash memory](https://en.wikipedia.org/wiki/Flash_memory_controller), it is best used with either a controller to perform wear leveling and error correction or specifically designed flash file systems, which spread writes over the media and deal with the long erase times of NAND flash blocks. 
-
-
-https://en.wikipedia.org/wiki/Flash_file_system
-
-
-The earliest flash file system, managing an array of flash as a freely writable disk, was TrueFFS by M-Systems of Israel, presented as a software product in PC-Card Expo at Santa Clara, California, in July 1992 and patented in 1993.
-
-
-
-Around 1994, the PCMCIA, an industry group, approved the Flash Translation Layer (FTL) specification, based on the design of M-Systems' TrueFFS. The specification was authored and jointly proposed by M-Systems and SCM Microsystems, who also provided the first working implementations of FTL.
-
-https://www.sciencedirect.com/topics/computer-science/flash-translation-layer
-
-JFFS was the first flash-specific file system for Linux, but it was quickly superseded by JFFS2, originally developed for NOR flash. Then YAFFS was released in 2002, dealing specifically with NAND flash, and JFFS2 was updated to support NAND flash too.
-
-https://www.embedded.com/flash-101-nand-flash-vs-nor-flash/
-
-UBIFS has been merged since Linux 2.6.22[7] in 2008. UBIFS has been actively developed from its initial merge. UBIFS has documentation hosted at infradead.org along with JFFS2 and MTD drivers. Some initial comparison show UBIFS with compression faster than F2FS.
-
-LogFS, another Linux flash-specific file system, is currently being developed to address the scalability issues of JFFS2.
-
-F2FS (Flash-Friendly File System) was added to the Linux kernel 3.8.[10] Instead of being targeted at speaking directly to raw flash devices, F2FS is designed to be used on flash-based storage devices that already include a flash translation layer, such as SD cards.
-
-
-
-Are these flash filesystems used on common SSD drives?
-
-https://www.addictivetips.com/ubuntu-linux-tips/best-ssd-friendly-file-systems-on-linux/
-
-#### TRIM
-
-https://en.wikipedia.org/wiki/Trim_(computing)
-
-#### NVMe
-
-
-https://wikipedia.org/wiki/NVM_Express
-
-
-## GCP Filestore
-
-[Filestore](Filestore) instances are fully managed [NFS](https://en.wikipedia.org/wiki/Network_File_System) based [file servers](https://www.youtube.com/watch?v=8rS8O2RiT80) on Google Cloud  for use with applications running on Compute Engine virtual machines  instances or Google Kubernetes Engine clusters.
-
-
-
-You can create and manage [Filestore](https://cloud.google.com/filestore/docs) instances by using the Google Cloud Console or the [gcloud command-line tool](https://cloud.google.com/sdk/gcloud/reference/filestore), and interact with the [NFS file share](https://cloud.google.com/filestore/docs/nfs) on the instance by using standard operating system commands.
-
-### Backups
-
-[Filestore Backups](https://cloud.google.com/blog/products/storage-data-transfer/introducing-filestore-backups)  eases migration of file-based apps to cloud
 
 ## Block Storage
 
@@ -197,7 +117,7 @@ https://www.dell.com/support/kbdoc/en-us/000132092/ubuntu-linux-terms-for-your-h
 
 /dev/ is the part in the Unix directory tree that contains all "device" files -- Unix traditionally treats just about everything you can access as a file to read from or write to.
 
-sd originally identified a SCSI device, but since the proliferation of USB (and other removable) data carriers, it became a catch-all for any block device (another Unix term; in this context, anything capable of carrying data) that wasn't already accessible via IDE. When SATA came around, the developers figured it'd be much easier and much more convenient for everyone to add it into the existing framework rather than write a whole new framework.
+[sd](https://man7.org/linux/man-pages/man4/sd.4.html) originally identified a SCSI device, but since the proliferation of USB (and other removable) data carriers, it became a catch-all for any block device (another Unix term; in this context, anything capable of carrying data) that wasn't already accessible via IDE. When SATA came around, the developers figured it'd be much easier and much more convenient for everyone to add it into the existing framework rather than write a whole new framework.
 
 The letter immediately after sd signifies the order in which it was first found -- a,b,c...z, Aa...Az... etc. (Not that there are many situations in the real world where more than 26 discrete block devices are on the same bus...)
 
@@ -239,13 +159,13 @@ https://www.sciencedirect.com/topics/computer-science/storage-protocol
 
 ### NFS
 
-[Network File System](https://en.wikipedia.org/wiki/Network_File_System
+[Network File System](NFS
 ) (NFS) is a distributed file system protocol originally developed by Sun Microsystems.
 
 
 ### NAS
 
-[Network-attached storage](https://www.redhat.com/en/topics/data-storage/network-attached-storage
+[Network-attached storage](NAS
 ) (NAS) is a file-level (as opposed to block-level storage) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration. It is often manufactured as a computer appliance – a purpose-built specialized computer.
 
 Google [Filestore](Filestore) uses NAS.
