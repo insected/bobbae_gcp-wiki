@@ -22,7 +22,7 @@ For high-level architectural guides and tutorials that describe [networking scen
 [https://cloud.google.com/network-connectivity/docs/how-to/choose-product](https://cloud.google.com/network-connectivity/docs/how-to/choose-product)
 
 
-
+### Comparisons
 
 * Compare [Dedicated Interconnect vs Partner Interconnect](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions)
 
