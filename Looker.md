@@ -1,7 +1,7 @@
 
 [Looker](  https://looker.com/ ) lets experts describe their data using a lightweight modeling language called LookML. 
 
-[LookML](  https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml ) tells Looker how to query data, so everyone in the organization can create easy-to-read [reports]( https://docs.looker.com/dashboards/dashboards-reports-intro   ) and [dashboards](   https://docs.looker.com/dashboards  ) to [explore](https://docs.looker.com/data-modeling/learning-lookml/explore-menu-and-field-picker) patterns of data. Looker offers additional features for creating custom data applications and experiences.
+[LookML](LookML ) tells Looker how to query data, so everyone in the organization can create easy-to-read [reports]( https://docs.looker.com/dashboards/dashboards-reports-intro   ) and [dashboards](   https://docs.looker.com/dashboards  ) to [explore](https://docs.looker.com/data-modeling/learning-lookml/explore-menu-and-field-picker) patterns of data. Looker offers additional features for creating custom data applications and experiences.
 
 [https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
 
@@ -9,7 +9,7 @@ Looker's platform works with transactional databases like Oracle and MySQL as we
 
 https://looker.com/solutions/google-bigquery
 
-Looker gives you the tools to power a multitude of data experiences, from modern [business intelligence](https://wikipedia.org/wiki/Business_intelligence     ) and embedded analytics to workflow integrations and custom data apps. Regardless of where your data resides, Looker offers a [unified surface](https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts) to access the truest, most up-to-date version of your company’s data. And with data integrated into users’ daily workflows, organizations can extract value from their data at web scales.
+Looker gives you the tools to power a multitude of data experiences, from modern [business intelligence](https://wikipedia.org/wiki/Business_intelligence     ) and embedded analytics to workflow integrations and custom data apps. 
 
 [https://cloud.google.com/looker](https://cloud.google.com/looker)
 
@@ -28,11 +28,6 @@ Looker for data consumers.
 
 [https://training.looker.com/looker-for-data-consumers](https://training.looker.com/looker-for-data-consumers)
 
-### How Looker generates SQL
-
-https://docs.looker.com/data-modeling/learning-lookml/how-looker-generates-sql
-
-
 
 
 ### Dimensions and Measures
@@ -48,23 +43,8 @@ https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/b
 
 ## LookML
 
-Defining the language of your business with LookML.
+[LookML](LookML)  ​is a language for describing dimensions, aggregates, calculations, and data relationships in a SQL database.
 
-[https://docs.looker.com/data-modeling/learning-lookml/lookml-intro](https://docs.looker.com/data-modeling/learning-lookml/lookml-intro)
-
-
-### Looker development foundations
-
-[https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
-
-
-### Symmetric Aggregation
-
-[Symmetric aggregates](https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-) prevent analysts  from accidentally miscalculating  aggregates.
-
-### Maintainable LookML Authoring
-
-https://help.looker.com/hc/en-us/articles/360001784587-Best-Practice-Writing-Sustainable-Maintainable-LookML
 
 ## Learning Looker
 
@@ -194,10 +174,6 @@ https://docs.looker.com/data-modeling/looker-blocks#available_blocks
 https://looker.com/platform/directory/home
 
 
-## Certification
-
-
-https://cloud.google.com/certification/guides/lookml-developer
 
 ## Comparisons
 
@@ -225,17 +201,6 @@ dbt is a transformation workflow and data pipeline tool that lets teams collabor
 
 https://www.getdbt.com/docs/
 
-#### dbt tutorial with BigQuery
-
-https://docs.getdbt.com/tutorial/setting-up
-
-#### How do you decide what to model in dbt vs LookML
-
-[https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/](https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/)
-
-#### Dbt vs. Matillion vs. LookML
-
-[https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/](https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/)
 
 ## Spectacles
 
@@ -272,14 +237,7 @@ https://looker.qwiklabs.com/focuses/18349?parent=catalog
 https://looker.qwiklabs.com/focuses/18350?parent=catalog
 
 
-#### Creating LookML Dashboards
-
-https://looker.qwiklabs.com/focuses/18351?parent=catalog
 
 #### Exploring Data with Looker
 
 https://www.qwiklabs.com/quests/165
-
-#### Understanding LookML in Looker
-
-https://www.qwiklabs.com/quests/170
