@@ -276,14 +276,18 @@ https://medium.com/google-cloud/de-risk-your-data-to-accelerate-your-cloud-journ
 
 ## BigQuery Security
 
-[BigQuery](BigQuery) Security topics include Column-level security and row-level security.
+[BigQuery](BigQuery) Security topics include [Column-level security](https://cloud.google.com/bigquery/docs/column-level-security-intro) and [row-level security](https://cloud.google.com/bigquery/docs/row-level-security-intro).
 
 
 
 
 ## BGP
 
-Internet routing depends on continuous  correct configuration and operation of its routing protocols. The dynamic nature of the [routing protocols](Router) means [the risks associated](  https://www.secureworks.com/research/bgp-hijacking-for-cryptocurrency-profit  ) must be considered.
+The [Border Gateway Protocol](BGP) (BGP) is the protocol used throughout the Internet to exchange routing information between networks. The dynamic nature of the [routing protocols](Router) means [the risks associated](  https://www.secureworks.com/research/bgp-hijacking-for-cryptocurrency-profit  ) must be considered.
+
+The challenge with BGP is that the protocol does not directly include security mechanisms and is based largely on trust between network operators that they will secure their systems correctly and not send incorrect data. 
+
+[RFC 7454](https://tools.ietf.org/html/rfc7454) discusses BGP related Operations and Security issues.
 
 ## Kubernetes security
 
@@ -315,7 +319,7 @@ https://internetofthingsagenda.techtarget.com/definition/IoT-security-Internet-o
 
 ## Using OAuth 2.0 to Access Google APIs
 
-Google APIs use the [OAuth 2.0 protocol](https://datatracker.ietf.org/doc/html/rfc6749) for authentication and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, client-side, installed, and limited-input device applications.
+Google APIs use the [OAuth 2.0 protocol](https://datatracker.ietf.org/doc/html/rfc6749) for [authentication](Authentication) and authorization. Google supports common OAuth 2.0 scenarios such as those for web server, client-side, installed, and limited-input device applications.
 
 ## DNS Security
 
