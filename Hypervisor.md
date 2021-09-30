@@ -2,4 +2,6 @@ A [hypervisor](https://en.m.wikipedia.org/wiki/Hypervisor) (or virtual machine m
 
 ## Hypervisor types and examples
 
+[VMware](VMware) provides products that leverage hypervisors.
+
 https://www.actualtechmedia.com/io/top-5-enterprise-type-1-hypervisors/
