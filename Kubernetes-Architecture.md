@@ -3,6 +3,9 @@
 
 ## Kubernetes Cluster Architecture
 
+https://kubernetes.io/docs/concepts/architecture/
+
+
 A [Kubernetes cluster](  https://kubernetes.io/docs/tasks/administer-cluster/   ) consists of the components that represent the [control plane](https://kubernetes.io/docs/concepts/architecture/control-plane-node-communication/) and a set of machines called [nodes](https://kubernetes.io/docs/concepts/architecture/nodes/).
 
 The [Kubernetes API]( https://kubernetes.io/docs/concepts/overview/kubernetes-api/   ) lets you query and manipulate the state of [objects in Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/). 
@@ -23,26 +26,7 @@ https://kubernetes.io/docs/concepts/architecture/
 
 ## Kubernetes features
 
-- Kubernetes progressively rolls out changes to your application or its configuration, while monitoring application health to ensure it doesn't kill all your instances at the same time. If something goes wrong, Kubernetes will rollback the change for you. 
-
-- Restarts containers that fail, replaces and reschedules containers when nodes die, kills containers that don't respond to your user-defined health check, and doesn't advertise them to clients until they are ready to serve.
-
-- Deploy and update secrets and application configuration without rebuilding your image and without exposing secrets in your stack configuration.
-
-- Scale your application up and down with a simple command, with a UI, or automatically based on CPU usage.
-
-- In addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.
-
-- Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them.
-
-- Automatically places containers based on their resource requirements and other constraints, while not sacrificing availability. Mix critical and best-effort workloads in order to drive up utilization and save even more resources.
-
-- Allocation of IPv4 and IPv6 addresses to Pods and Services.
-
-- Automatically mount the storage system of your choice, whether from local storage, a public cloud provider such as GCP or AWS, or a network storage system such as NFS, iSCSI, Gluster, Ceph, Cinder, or Flocker.
-
-
-- Add features to your Kubernetes cluster without changing upstream source code.
+https://www.guru99.com/kubernetes-tutorial.html
 
 
 ## Cattle vs. Pets
@@ -52,24 +36,23 @@ http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/
 ## Nodes
 
 
-
-Kubernetes runs your workload by placing containers into Pods to run on Nodes. A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods
+Kubernetes runs your workload by placing containers into Pods to run on [Nodes](https://kubernetes.io/docs/concepts/architecture/nodes/
+). A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods
 
 Typically you have several nodes in a cluster; in a learning or resource-limited environment, you might have only one node.
 
 
 
-https://kubernetes.io/docs/concepts/architecture/nodes/
 
 ## Pods
 
-Pods are the smallest deployable units of computing that you can create and manage in Kubernetes.
+[Pods](https://kubernetes.io/docs/concepts/workloads/pods/
+) are the smallest deployable units of computing that you can create and manage in Kubernetes.
 
 https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
 
 A Pod (as in a pod of whales or pea pod) is a group of one or more containers, with shared storage and network resources, and a specification for how to run the containers. A Pod's contents are always co-located and co-scheduled, and run in a shared context. A Pod models an application-specific "logical host": it contains one or more application containers which are relatively tightly coupled. In non-cloud contexts, applications executed on the same physical or virtual machine are analogous to cloud applications executed on the same logical host.
 
-https://kubernetes.io/docs/concepts/workloads/pods/
 
 
 
@@ -82,15 +65,10 @@ https://kubernetes.io/docs/concepts/architecture/control-plane-node-communicatio
 
 ## Controller 
 
-In robotics and automation, a control loop is a non-terminating loop that regulates the state of a system.
 
-Here is one example of a control loop: a thermostat in a room.
+In Kubernetes, [controllers are control loops](https://kubernetes.io/docs/concepts/architecture/controller/
+) that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
 
-When you set the temperature, that's telling the thermostat about your desired state. The actual room temperature is the current state. The thermostat acts to bring the current state closer to the desired state, by turning equipment on or off.
-
-In Kubernetes, controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
-
-https://kubernetes.io/docs/concepts/architecture/controller/
 
 ## Cloud Controller Manager
 
@@ -98,7 +76,6 @@ The [cloud-controller-manager](https://kubernetes.io/docs/concepts/architecture/
 
 By decoupling the interoperability logic between Kubernetes and the underlying cloud infrastructure, the cloud-controller-manager component enables cloud providers to release features at a different pace compared to the main Kubernetes project.
 
-https://kubernetes.io/docs/concepts/architecture/
 
 
 
@@ -151,21 +128,21 @@ https://kubernetes.io/docs/concepts/overview/components/#kubelet
 
 ### kube-proxy
 
-kube-proxy is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept.
+[kube-proxy](https://kubernetes.io/docs/concepts/overview/components/#kube-proxy
+) is a network proxy that runs on each node in your cluster, implementing part of the Kubernetes Service concept.
 
 
 
-https://kubernetes.io/docs/concepts/overview/components/#kube-proxy
 
 ### cluster DNS
 
-Cluster DNS is a DNS server, in addition to the other DNS server(s) in your environment, which serves DNS records for Kubernetes services.
+[Cluster DNS](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+) is a DNS server, in addition to the other DNS server(s) in your environment, which serves DNS records for Kubernetes services.
 
 Containers started by Kubernetes automatically include this DNS server in their DNS searches.
 
 
 
-https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
 
 ### resource monitoring
 
@@ -193,7 +170,7 @@ https://kubernetes.io/docs/concepts/cluster-administration/
 
 When you specify a Pod, you can optionally specify how much of each resource a Container needs. The most common resources to specify are CPU and memory (RAM); there are others.
 
-When you specify the resource request for Containers in a Pod, the scheduler uses this information to decide which node to place the Pod on. When you specify a resource limit for a Container, the kubelet enforces those limits so that the running container is not allowed to use more of that resource than the limit you set. The kubelet also reserves at least the request amount of that system resource specifically for that container to use.
+When you specify the resource request for Containers in a Pod, the scheduler uses this information to decide which node to place the Pod on. When you specify a resource limit for a Container, the [kubelet](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/) enforces those limits so that the running container is not allowed to use more of that resource than the limit you set. The kubelet also reserves at least the request amount of that system resource specifically for that container to use.
 
 ## Requests and limits 
 
@@ -217,12 +194,12 @@ https://kubernetes.io/docs/concepts/workloads/controllers/
 
 ### Deployment & Service
 
-A Deployment provides declarative updates for Pods and ReplicaSets.
+A [Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/) provides declarative updates for Pods and [ReplicaSets](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/).
 
 You describe a desired state in a Deployment, and the Deployment Controller changes the actual state to the desired state at a controlled rate. You can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
 
-A Service is an abstract way to expose an application running on a set of Pods as a network service.
-With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can load-balance across them
+A [Service](https://kubernetes.io/docs/concepts/services-networking/service/) is an abstract way to expose an application running on a set of Pods as a network service.
+With Kubernetes you don't need to modify your application to use an unfamiliar service discovery mechanism. Kubernetes gives Pods their own IP addresses and a single DNS name for a set of Pods, and can [load-balance](https://kubernetes.io/docs/concepts/services-networking/) across them
 
 
 [https://www.youtube.com/watch?v=qmDzcu5uY1I](https://www.youtube.com/watch?v=qmDzcu5uY1I)
@@ -231,7 +208,7 @@ https://kubernetes.io/docs/concepts/services-networking/connect-applications-ser
 
 ### Stateful Sets
 
-[StatefulSet](https://www.youtube.com/watch?v=pPQKAR1pA9U) is the workload API object used to manage stateful applications.
+[StatefulSet](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/) is the workload API object used to manage stateful applications.
 
 
 
@@ -240,13 +217,6 @@ https://kubernetes.io/docs/concepts/services-networking/connect-applications-ser
 
 
 
-StatefulSets are valuable for applications that require one or more of the following.
-
-- Stable, unique network identifiers.
-- Stable, persistent storage.
-- Ordered, graceful deployment and scaling.
-- Ordered, automated rolling updates.
-
 
 
 https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
@@ -254,7 +224,7 @@ https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
 
 ### DaemonSet
 
-A DaemonSet ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
+A [DaemonSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/) ensures that all (or some) Nodes run a copy of a Pod. As nodes are added to the cluster, Pods are added to them. As nodes are removed from the cluster, those Pods are garbage collected. Deleting a DaemonSet will clean up the Pods it created.
 
 [https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 
@@ -271,11 +241,11 @@ https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/
 
 ### ReplicaSet
 
-A ReplicaSet's purpose is to maintain a stable set of replica Pods running at any given time. As such, it is often used to guarantee the availability of a specified number of identical Pods.
+A [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+) maintains a stable set of replica Pods running at any given time. As such, it is often used to guarantee the availability of a specified number of identical Pods.
 
 
 
-https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
 
 #### Alternative to ReplicaSets
 
@@ -297,9 +267,9 @@ Kubernetes [Secrets](   https://kubernetes.io/docs/concepts/configuration/secret
 
 ### Replication Controller
 
-A ReplicationController ensures that a specified number of pod replicas are running at any one time. In other words, a ReplicationController makes sure that a pod or a homogeneous set of pods is always up and available.
+A [ReplicationController](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/
+) ensures that a specified number of pod replicas are running at any one time. In other words, a ReplicationController makes sure that a pod or a homogeneous set of pods is always up and available.
 
-https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/
 
 ### Alternatives to ReplicationController
 
@@ -311,7 +281,8 @@ Use Deployments instead of directly using Replica Sets, unless you require custo
 
 ### Jobs
 
-A Job creates one or more Pods and will continue to retry execution of the Pods until a specified number of them successfully terminate. 
+A [Job](https://kubernetes.io/docs/concepts/workloads/controllers/job/
+) creates one or more Pods and will continue to retry execution of the Pods until a specified number of them successfully terminate. 
 
 As pods successfully complete, the Job tracks the successful completions. When a specified number of successful completions is reached, the task (ie, Job) is complete. 
 
@@ -319,7 +290,6 @@ Deleting a Job will clean up the Pods it created.
 
 Suspending a Job will delete its active Pods until the Job is resumed again.
 
-https://kubernetes.io/docs/concepts/workloads/controllers/job/
 
 Jobs are complementary to Replication Controllers. A Replication Controller manages Pods which are not expected to terminate (e.g. web servers), and a Job manages Pods that are expected to terminate (e.g. batch tasks).
 
@@ -329,13 +299,13 @@ Job is only appropriate for pods with RestartPolicy equal to OnFailure or Never.
 
 #### Cron Jobs
 
-You can use a CronJob to create a Job that will run at specified times/dates, similar to the Unix tool cron.
+You can use a [CronJob](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
+) to create a Job that will run at specified times/dates, similar to the Unix tool cron.
 
 A CronJob creates Jobs on a repeating schedule.
 
 One CronJob object is like one line of a crontab (cron table) file. It runs a job periodically on a given schedule, written in Cron format.
 
-https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 
 
 Cron jobs are useful for creating periodic and recurring tasks, like running backups or sending emails. Cron jobs can also schedule individual tasks for a specific time, such as if you want to schedule a job for a low activity period.
@@ -348,7 +318,7 @@ https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/
 ## CRD
 
 
-CRD stands for  Custom Resource Definition.
+[CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) stands for  Custom Resource Definition.
 
 https://insujang.github.io/2020-02-13/programming-kubernetes-crd/
 
@@ -371,27 +341,27 @@ Once a custom resource is installed, users can create and access its objects usi
 [https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 
 
-Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
+[Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder
+) is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
 
 https://book.kubebuilder.io/quick-start.html
 
-https://github.com/kubernetes-sigs/kubebuilder
 
 
 ## Operator Pattern
 
 
-In Kubernetes, objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with kubectl apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. 
+In Kubernetes, objects are analogous to a job or a completed task in the real world. You can use them to define common tasks, store them in a version control system, and apply them with [kubectl](https://kubernetes.io/docs/tasks/tools/) apply. Kubernetes ensures that this triggers everything necessary to bring your declarative description to life by creating the dependent resources (like pods) to run your software. Kubernetes contains a number of built-in object types that can be created with this workflow, like Deployments and Services. 
 
 
-With [Operators](https://www.youtube.com/watch?v=ha3LjlD6g7g), Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. 
+With [Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/), Kubernetes allows cluster maintainers or software providers to define their own Kubernetes object types, called custom resource definitions (CRDs). These objects can be handled by the Kubernetes API, just like built-in object types. Inside the Operator code, authors can define how to act on those custom objects. 
 
 
-Operators are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
+[Operators](https://www.youtube.com/watch?v=ha3LjlD6g7g) are software extensions to Kubernetes that make use of [custom resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) to manage applications and their components. Operators follow Kubernetes principles, notably the [control loop](https://kubernetes.io/docs/concepts/architecture/controller).
 
 https://blog.container-solutions.com/kubernetes-operators-explained
 
-Operators make it easy to manage complex stateful applications on top of Kubernetes. 
+Operators make it easy to manage complex state-ful applications on top of Kubernetes. 
 
 [https://kubernetes.io/docs/concepts/extend-kubernetes/operator/](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 
@@ -405,14 +375,14 @@ https://github.com/operator-framework/operator-sdk
  
 [https://opensource.com/article/20/3/kubernetes-operator-sdk](https://opensource.com/article/20/3/kubernetes-operator-sdk)
 
-Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster.
+[Shell-operator](https://github.com/flant/shell-operator
+) is a tool for running event-driven scripts in a Kubernetes cluster.
 
 
-https://github.com/flant/shell-operator
 
-Kubernetes Universal Declarative Operator (KUDO) provides a declarative approach to building production-grade Kubernetes operators. 
+[Kubernetes Universal Declarative Operator](https://d2iq.com/products/kudo
+) (KUDO) provides a declarative approach to building production-grade Kubernetes operators. 
 
-https://d2iq.com/products/kudo
 
 
 ## Certificates
@@ -461,6 +431,6 @@ https://kubernetes.io/docs/reference/kubectl/jsonpath/
 
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
 
-## Awesome links
+## Awesome links for Kubernetes
 
 [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
