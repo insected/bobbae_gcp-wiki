@@ -138,14 +138,14 @@ There are many different ways to transfer data in GCP: Online Transfer, Transfer
 [https://cloud.google.com/products/data-transfer](https://cloud.google.com/products/data-transfer)
 
 
-## Storage Transfer Service
+### Storage Transfer Service
 
 Whether you're coming from an online or on-premises source, our online storage transfer solutions enable you to manage large-scale data transfers easily, securely, and efficiently. Storage Transfer Service and Transfer Service for on-premises data offer two highly performant pathways to Cloud Storage—both with the scalability and speed you need to simplify the data transfer process.
 
 [https://cloud.google.com/storage-transfer-service](https://cloud.google.com/storage-transfer-service)
 
 
-## Database Migration Service
+### Database Migration Service
 
 Database Migration Service makes it easier for you to migrate your data to Google Cloud. This service helps you lift and shift your MySQL and PostgreSQL workloads into Cloud SQL.
 
@@ -156,12 +156,12 @@ Database Migration Service streamlines networking workflows, manages the initial
 [https://cloud.google.com/blog/products/databases/database-migration-service-now-available-for-cloud-sql-and-more](https://cloud.google.com/blog/products/databases/database-migration-service-now-available-for-cloud-sql-and-more)
 
 
-## All Google Cloud Migration Guides
+### All Google Cloud Migration Guides
 
 [https://cloud.google.com/blog/products/cloud-migration/guide-to-all-google-cloud-migration-guides](https://cloud.google.com/blog/products/cloud-migration/guide-to-all-google-cloud-migration-guides)
 
 
-## Big Data Transfer over WAN
+### Big Data Transfer over WAN
 
 [https://asperasoft.com/fileadmin/media/Asperasoft.com/Product_Briefs/Google_AoD_AsperaPB.pdf](https://asperasoft.com/fileadmin/media/Asperasoft.com/Product_Briefs/Google_AoD_AsperaPB.pdf)
 
@@ -198,3 +198,8 @@ https://cloud.google.com/blog/products/cloud-migration/new-cloud-migration-white
 ## Migrate for Anthos and GKE
 
 https://cloud.google.com/blog/topics/developers-practitioners/automate-application-migration-gke-autopilot-and-migrate-gke
+
+
+## Data Replication alternatives
+
+https://www.stitchdata.com/vs/google-cloud-dataprep/attunity/
