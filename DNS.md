@@ -85,6 +85,9 @@ pod-ip.other-namespace.pod
 
 As we saw in the default `resolv.conf` file, only `.svc` suffixes are automatically completed, so make sure you specify everything up to .pod.
 
+### DNS Spoofing in Kubernetes clusters
+
+https://blog.aquasec.com/dns-spoofing-kubernetes-clusters
 
 ## DNS over TLS
 
