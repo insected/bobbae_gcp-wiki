@@ -3,7 +3,7 @@
 
 - [Data storage](https://en.wikipedia.org/wiki/Data_storage)
 - [Databases](Databases)
-- [Object storage](https://en.wikipedia.org/wiki/Object_storage)
+- [Object storage](Object-Storage)
 - [File Storage](https://en.wikipedia.org/wiki/File_system)
 - [Block Storage](https://en.wikipedia.org/wiki/Block-level_storage)
 - [Network Attached Storage](https://en.wikipedia.org/wiki/Network-attached_storage)
