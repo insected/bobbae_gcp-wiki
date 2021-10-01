@@ -40,6 +40,9 @@ https://www.collibra.com/blog/data-governance-for-data-privacy
 
 https://nileshk611.medium.com/dlp-data-loss-prevention-simplified-3473de96e1cb
 
+## Trusted Cloud Principles
+
+https://trustedcloudprinciples.com/principles/
 
 ## Examples
 
