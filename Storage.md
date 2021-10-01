@@ -30,7 +30,9 @@ Compute Engine offers several types of [storage options](https://cloud.google.co
 
 
 
+### Increasing disk space of VM instance without down time
 
+https://gridpane.com/kb/how-to-increase-the-disk-space-of-your-google-vm-instance-with-no-downtime/
 
 ## File Systems
 
