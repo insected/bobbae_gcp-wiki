@@ -56,6 +56,7 @@ You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-
 
 [https://www.youtube.com/watch?v=IQfG0faDrzE4](https://www.youtube.com/watch?v=IQfG0faDrzE4)  
 
+https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning
 
 ## A Scala tutorial for Java programmers
 
