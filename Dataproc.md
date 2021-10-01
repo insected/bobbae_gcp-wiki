@@ -3,7 +3,7 @@
 
 ## Introduction
 
-[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](https://en.m.wikipedia.org/wiki/Apache_Spark) and [Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) service that lets you take advantage of open source data tools for [batch processing](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example), [querying](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc), [streaming](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub), and [machine learning](https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml). 
+[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](Spark) and [Apache Hadoop](Hadoop) service that lets you take advantage of open source data tools for [batch processing](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example), [querying](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc), [streaming](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub), and [machine learning](https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml). 
 
 
 
