@@ -42,7 +42,7 @@ https://nileshk611.medium.com/dlp-data-loss-prevention-simplified-3473de96e1cb
 
 ## Trusted Cloud Principles
 
-https://trustedcloudprinciples.com/principles/
+https://trustedcloudprinciples.com/
 
 ## Examples
 
