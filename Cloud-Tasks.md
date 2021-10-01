@@ -30,6 +30,10 @@ https://cloud.google.com/tasks/docs/dual-overview#http
 
 https://cloud.google.com/pubsub/docs/choosing-pubsub-or-cloud-tasks
 
+#### Choosing Cloud Tasks or Cloud Scheduler
+
+https://cloud.google.com/tasks/docs/comp-tasks-sched
+
 #### Common Pitfalls
 
 https://cloud.google.com/tasks/docs/common-pitfalls
