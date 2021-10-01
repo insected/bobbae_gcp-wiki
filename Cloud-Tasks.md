@@ -41,3 +41,7 @@ https://cloud.google.com/tasks/docs/secure-queue-configuration
 #### Common Pitfalls
 
 https://cloud.google.com/tasks/docs/common-pitfalls
+
+#### A list of Tasks Queues
+
+https://taskqueues.com/
