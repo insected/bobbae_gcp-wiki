@@ -158,7 +158,8 @@ https://www.datascienceatthecommandline.com/
 
 ### CLI tools
 
-https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utilities.html
+Some [CLI tools](  https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utilities.html ) can be [useful](https://news.ycombinator.com/item?id=8908462) in data science.
+
 
 #### Datamash
 
@@ -170,11 +171,11 @@ https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utili
 GNU [parallel](https://www.gnu.org/software/parallel/) is a shell tool for executing jobs in parallel using one or more computers.
 
 
-#### AWK
+#### Awk
 
 
 
-[Awk](https://earthly.dev/blog/awk-examples/) is a [record processing tool](https://medium.com/analytics-vidhya/use-awk-to-save-time-and-money-in-data-science-eb4ea0b7523f) written by Aho, Kernighan, and Weinberger in 1977. Its name is an acronym of their names. 
+[Awk](https://earthly.dev/blog/awk-examples/) is a [record processing tool](https://medium.com/analytics-vidhya/use-awk-to-save-time-and-money-in-data-science-eb4ea0b7523f) written by Aho, Weinberger, and Kernighan in the 1970s. AWK is an acronym of their names. 
 
 ## Data Lineage
 
