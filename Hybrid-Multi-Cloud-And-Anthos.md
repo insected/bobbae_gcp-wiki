@@ -10,16 +10,16 @@ Enterprises require multi-cloud solutions for their critical workloads. This str
 
 https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-cloud-platform
 
-## Anthos vs AWS Outpost vs Azure Stack
+## Anthos vs AWS Outposts vs Azure Stack
 
-The [AWS Outpost](https://aws.amazon.com/outposts/), Anthos and [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) have different goals and characteristics. Each has a unique approach to solving
+The [AWS Outposts](https://aws.amazon.com/outposts/), Anthos and [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) have different goals and characteristics. Each has a unique approach to solving
 the hybrid multi cloud issues.
 
 https://www.bizety.com/2020/06/28/aws-outposts-google-anthos-gke-and-azure-on-prem-overview/
 
-### AWS Outpost
+### AWS Outposts
 
-[AWS Outpost](https://aws.amazon.com/outposts/) is a fully managed service that offers the same AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience. 
+[AWS Outposts](https://aws.amazon.com/outposts/) is a fully managed service that offers the same AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience. 
 
 AWS compute, storage, database, and other services run locally on Outposts, and you can access the full range of AWS services available in the Region to build, manage, and scale your on-premises applications using familiar AWS services and tools.
 
@@ -60,9 +60,9 @@ https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-com
 Azure Stack is Microsoft's Azure cloud brought into an organization's own data center.  Azure Stack is running Microsoft Hyper-V, Windows and Microsoft networking and storage.   Azure Stack can run on qualified hardware from HPE, DELL, Cisco, Huawei and Lenovo. You can license Azure Stack and purchase your own hardware to install onto it.
 
 
-#### AWS Outpost approach
+#### AWS Outposts approach
 
-[AWS](AWS) delivers pre-configured hardware and software to the customer data center or co-location space.  You can run VMware Cloud on AWS or run compute and storage on-premises using native AWS APIs used in the AWS cloud. Users can configure outpost with EC2 instances and EBS. It supports EKS, EMR, RDS, SageMaker and AWS MSK.
+[AWS](AWS) delivers pre-configured hardware and software to the customer data center or co-location space.  You can run VMware Cloud on AWS or run compute and storage on-premises using native AWS APIs used in the AWS cloud. Users can configure outposts with EC2 instances and EBS. It supports EKS, EMR, RDS, SageMaker and AWS MSK.
 
 #### Oracle Cloud at Customer approach
 
