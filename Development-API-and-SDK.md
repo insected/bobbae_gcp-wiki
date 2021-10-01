@@ -17,6 +17,9 @@ https://github.com/GoogleCloudPlatform/cloud-sdk-docker
 
 https://cloud.google.com/sdk/docs/scripting-gcloud
 
+#### Filtering and Formatting gcloud output
+
+https://cloud.google.com/blog/products/it-ops/filtering-and-formatting-fun-with
 
 ### Cloud Endpoints
 
