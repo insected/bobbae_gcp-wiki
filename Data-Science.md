@@ -150,7 +150,7 @@ https://www.tidyverse.org/
 
 ## Data Science at Command Line
 
-You may become a more efficient and productive data scientist by learning to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
+You may become a more [efficient](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00388-5) and [productive](https://databricks.com/blog/2021/03/25/its-time-to-re-evaluate-your-relationship-with-hadoop.html) data scientist by learning to leverage the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
 
 
 https://www.datascienceatthecommandline.com/
