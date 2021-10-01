@@ -45,13 +45,7 @@ Doing ETL in SQL or [Pig Latin](https://pig.apache.org/docs/latest/basic.html) t
 
 ## Sawzall
 
-A perspective on Sawzall DSL (domain specific language) over Google map/reduce and Pig DSL over Hadoop map/reduce.
-
-[http://glinden.blogspot.com/2007/04/yahoo-pig-and-google-sawzall.html?m=1](http://glinden.blogspot.com/2007/04/yahoo-pig-and-google-sawzall.html?m=1)
-
-And finally a perspective on replacing Sawzell within Google.
-
-[http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html?m=1](http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html?m=1)
+A [perspective on Sawzall DSL](http://glinden.blogspot.com/2007/04/yahoo-pig-and-google-sawzall.html) (domain specific language) over [Google map/reduce and Pig DSL over Hadoop map/reduce](http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html).
 
 ## Big Data Hadoop Tutorial
 
