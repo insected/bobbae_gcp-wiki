@@ -12,7 +12,6 @@ https://cloud.google.com/tasks/docs/concepts
 
 https://cloud.google.com/tasks/docs/quickstart
 
-https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/appengine/flexible/tasks
 
 #### Migrating from Task Queues to Cloud Tasks
 
