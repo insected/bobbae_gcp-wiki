@@ -1,9 +1,5 @@
 
 
-
-
-## What is Cloud Pub/Sub
-
 [Cloud Pub/Sub](https://cloud.google.com/pubsub/docs)   is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications.
 
 
@@ -12,20 +8,29 @@ This video walks you through how to create a Google Cloud Pub/Sub topic. Pub/Sub
 
 [https://www.youtube.com/watch?v=pU1zA-DMlWk](https://www.youtube.com/watch?v=pU1zA-DMlWk)
 
+### PubSub Lite
 
-Example:
+https://cloud.google.com/pubsub/lite/docs
+
+
+### Choosing PubSub or PubSub lite
+
+https://cloud.google.com/pubsub/docs/choosing-pubsub-or-lite
+
+
+### PubSub  IoT Example
 
 Cloud IoT Core to push airline data to PubSub, Dataflow, and BigQuery.
 
 [https://www.youtube.com/watch?v=-y3s6XY70Os](https://www.youtube.com/watch?v=-y3s6XY70Os)
 
 
-## A list of task queues
+### A list of task queues
 
 [https://taskqueues.com/](https://taskqueues.com/)
 
 
-## Kafka
+### Kafka
 
 [Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
@@ -43,15 +48,15 @@ Using Kafka and Confluent allows customers to integrate legacy systems and Googl
 
 [https://www.youtube.com/watch?v=LjF8IqKKbWc](https://www.youtube.com/watch?v=LjF8IqKKbWc)
 
-## MQTT
+### MQTT
 
 https://www.integrasources.com/blog/mqtt-protocol-iot-devices/
 
-## AWS SQS, SNS, Kinesis
+### AWS SQS, SNS, Kinesis
 
 https://medium.com/@campfirecode/sqs-vs-sns-vs-kinesis-which-aws-messaging-service-to-use-1fa3aa6be97d
 
-## Qwiklabs
+### Qwiklabs
 
 [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7524031)
 
