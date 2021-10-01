@@ -162,11 +162,13 @@ https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utili
 
 #### Datamash
 
-https://www.gnu.org/software/datamash/
+[GNU datamash](  https://www.gnu.org/software/datamash/ ) is a command-line program which performs basic numeric, textual and statistical operations on input textual data files.
+
 
 #### Parallel
 
-https://www.gnu.org/software/parallel/
+GNU [parallel](https://www.gnu.org/software/parallel/) is a shell tool for executing jobs in parallel using one or more computers.
+
 
 #### AWK
 
