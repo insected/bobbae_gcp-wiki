@@ -3,7 +3,7 @@
 
 [Big Data](https://www.guru99.com/what-is-big-data.html) was originally associated with three key concepts: volume, variety, and velocity. 
 
-Current usage of the term Big Data tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
+Current usage of the term [Big Data](https://link.springer.com/chapter/10.1007/978-3-319-21569-3_8) tends to refer to the use of predictive analytics, user behavior analytics, or certain other advanced data analytics methods that extract value from big data, and seldom to a particular size of data set. 
 
 The world's technological per-capita capacity to store information has roughly doubled every 40 months since the 1980s.
 
