@@ -88,9 +88,8 @@ https://www.geeksforgeeks.org/c-scan-disk-scheduling-algorithm/
 
 ### RAID
 
-Redundant Array of Inexpensive Disks is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. 
+[Redundant Array of Inexpensive Disks](https://en.wikipedia.org/wiki/RAID) is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both. 
 
-https://searchstorage.techtarget.com/definition/RAID
 
 Discuss RAID-5 parity.
 
@@ -103,10 +102,13 @@ https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information
 
 ### SSD
 
-A solid-state drive (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage. SSDs lack the physical spinning disks and movable read–write heads used in hard disk drives (HDDs) and floppy disks.
+A [solid-state drive](https://en.wikipedia.org/wiki/Solid-state_drive) (SSD) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory, and functioning as secondary storage in the hierarchy of computer storage. SSDs lack the physical spinning disks and movable read–write heads used in hard disk drives (HDDs) and floppy disks.
 
+#### SSD vs HDD
 
 https://www.pcmag.com/news/ssd-vs-hdd-whats-the-difference
+
+#### Compare various Filesystems for SSD
 
 https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/
 
@@ -131,23 +133,22 @@ Finally, the number after that signifies the partition on the device. Note that 
 
 #### Linux Logical Volume Manager (LVM)
 
-LVM makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard Drive to the system. LVM does not have redundancy built in. 
+[LVM](https://en.wikipedia.org/wiki/Logical_volume_management) makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard Drive to the system. LVM does not have redundancy built in. 
 
 https://opensource.com/business/16/9/linux-users-guide-lvm
 
 ### GCP Persistent Disk
 
-[Persistent Disks](https://cloud.google.com/persistent-disk) are reliable &  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. 
+[Persistent Disks](https://cloud.google.com/persistent-disk) are reliable and  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. 
 
-https://cloud.google.com/compute/docs/disks/working-with-persistent-disks
 
-Persistent Disk is designed for high durability. 
 
-https://medium.com/google-cloud/persistent-disks-and-replication-9b9412fd9565
 
-It stores data redundantly to ensure data integrity. Persistent disk performance scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage space requirements.
+It stores data [redundantly](https://medium.com/google-cloud/persistent-disks-and-replication-9b9412fd9565
+) to ensure data integrity. Persistent [disk performance](https://cloud.google.com/compute/docs/disks/optimizing-pd-performance
+) scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage [space requirements](https://cloud.google.com/compute/docs/disks/working-with-persistent-disks
+).
 
-https://cloud.google.com/compute/docs/disks/optimizing-pd-performance
 
 
 ### GCP Local SSD
@@ -170,7 +171,7 @@ https://www.sciencedirect.com/topics/computer-science/storage-protocol
 [Network-attached storage](NAS
 ) (NAS) is a file-level (as opposed to block-level storage) computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. NAS is specialized for serving files either by its hardware, software, or configuration. It is often manufactured as a computer appliance – a purpose-built specialized computer.
 
-Google [Filestore](Filestore) uses NAS.
+Google [Filestore](Filestore) uses [NAS](NAS).
 
 
 
@@ -183,7 +184,7 @@ https://www.netapp.com/atg/publications/publications-file-system-design-for-an-n
 
 ### SAN
 
-A storage area network (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage.  A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
+A [storage area network](https://en.wikipedia.org/wiki/Storage_area_network) (SAN) or storage network is a computer network which provides access to consolidated, block-level data storage.  A SAN typically is a dedicated network of storage devices not accessible through the local area network (LAN).
 
 https://www.snia.org/education/storage_networking_primer/san/what_san
 
@@ -209,12 +210,12 @@ https://en.wikipedia.org/wiki/Storage_area_network#Network_protocols
 ## Google Compute Engine Disk Options
 
 
-By default, each Compute Engine instance has a single boot persistent disk (PD) that contains the operating system. When your apps require additional storage space, you can add one or more additional storage options to your instance.
+By default, each Compute Engine instance has a single boot persistent disk (PD) that contains the operating system. When your apps require additional [storage space](https://cloud.google.com/compute/docs/disks
+), you can [add one or more](https://cloud.google.com/compute/disks-image-pricing#disk
+) additional storage options to your instance.
 
 
-https://cloud.google.com/compute/disks-image-pricing#disk
 
-https://cloud.google.com/compute/docs/disks
 
 ## Google Compute Engine Storage products
 
@@ -254,19 +255,29 @@ https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announ
 
 https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-launches-backups-for-gke
 
+
+### GCS and rsync
+
+https://cloud.google.com/storage/docs/gsutil/commands/rsync
+
+
 ### Rclone
 
 Similar to `gsutil rsync` [Rclone](https://github.com/rclone/rclone) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
-
 
 #### GCS and Rclone
 
 https://rclone.org/googlecloudstorage/
 
+#### GCS sync using Cloud Scheduler and Cloud Run
+
+https://github.com/salrashid123/gcp_rclone
+
+
 ### Case study ACME Corp
 
 https://cloud.google.com/blog/products/storage-data-transfer/dr-in-google-cloud-with-vmware-engine-actifio-and-zerto
 
-## Folders vs. buckets
+## Folders vs. buckets and generation gap
 
 https://www.theverge.com/platform/amp/22684730/students-file-folder-directory-structure-education-gen-z
