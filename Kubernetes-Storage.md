@@ -61,11 +61,11 @@ https://kubernetes.io/docs/concepts/storage/storage-classes/#azure-disk
 
 ### ceph and Rook
 
-Rook is a storage orchestration tool that provides a cloud-native, open source solution for a diverse set of storage providers. Rook uses the power of Kubernetes to turn a storage system into self-managing services that provide a seamless experience for saving Kubernetes application or deployment data.
+[Rook](https://rook.io/
+) is a storage orchestration tool that provides a cloud-native, open source solution for a diverse set of storage providers. Rook uses the power of Kubernetes to turn a storage system into self-managing services that provide a seamless experience for saving Kubernetes application or deployment data.
 
-https://rook.io/
 
-Ceph is a highly scalable distributed-storage solution offering object, block, and file storage. Ceph clusters are designed to run on any hardware using the so-called CRUSH algorithm (Controlled Replication Under Scalable Hashing).
+[Ceph](Ceph) is a highly scalable distributed-storage solution offering object, block, and file storage. Ceph clusters are designed to run on any hardware using the so-called CRUSH algorithm (Controlled Replication Under Scalable Hashing).
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ceph-cluster-within-kubernetes-using-rook
 
@@ -83,24 +83,24 @@ https://longhorn.io/
 
 ### Linstor
 
-LINSTOR® has a container storage interface (CSI) driver for Kubernetes and is compatible with OpenShift. LINSTOR can also be used independently of a cloud, virtualization, or container platform to manage large [DRBD](https://linbit.com/drbd/) clusters. 
+[LINSTOR](https://linbit.com/linstor/
+) has a container storage interface (CSI) driver for Kubernetes and is compatible with OpenShift. LINSTOR can also be used independently of a cloud, virtualization, or container platform to manage large [DRBD](https://linbit.com/drbd/) clusters. 
 
 DRBD®– software is a distributed replicated storage system for the Linux platform. It is implemented as a kernel driver, several userspace management applications, and some shell scripts. 
 
 DRBD is traditionally used in high availability (HA) computer clusters, but beginning with DRBD version 9, it can also be used to create larger software defined storage pools with a focus on cloud integration.
 
-https://linbit.com/linstor/
 
 ### OpenEBS
 
 
-OpenEBS builds on Kubernetes to enable Stateful applications to easily access Dynamic Local PVs or Replicated PVs. By using the Container Attached Storage pattern users report lower costs, easier management, and more control for their teams.
+[OpenEBS](https://openebs.io/
+) builds on Kubernetes to enable Stateful applications to easily access Dynamic Local PVs or Replicated PVs. By using the [Container Attached Storage pattern](https://docs.openebs.io/docs/next/k8s-storage.html
+) users report lower costs, easier management, and more control for their teams.
 
-https://openebs.io/
 
 https://docs.openebs.io/
 
-https://docs.openebs.io/docs/next/k8s-storage.html
 
 ### Robin
 
@@ -118,28 +118,30 @@ https://storageos.com/
 
 https://vitobotta.com/2019/08/06/kubernetes-storage-openebs-rook-longhorn-storageos-robin-portworx/
 
+### Performance comparisons
+
 https://medium.com/volterra-io/kubernetes-storage-performance-comparison-v2-2020-updated-1c0b69f0dcf4
 
 ## Volumes
 
-On-disk files in a container are ephemeral, which presents some problems for non-trivial applications when running in containers. One problem is the loss of files when a container crashes. The kubelet restarts the container but with a clean state. A second problem occurs when sharing files between containers running together in a Pod. 
+On-disk files in a container are ephemeral, which presents some problems for non-trivial applications when running in containers. One problem is the loss of files when a container crashes. The [kubelet](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/) restarts the container but with a clean state. A second problem occurs when sharing files between containers running together in a Pod. 
 
-Docker has a concept of volumes, though it is somewhat looser and less managed. A Docker volume is a directory on disk or in another container. Docker provides volume drivers, but the functionality is somewhat limited.
+Docker has a concept of [volumes](https://docs.docker.com/storage/volumes/), though it is somewhat looser and less managed. A Docker volume is a directory on disk or in another container. Docker provides volume drivers, but the functionality is somewhat limited.
 
-Kubernetes supports many types of volumes. A Pod can use any number of volume types simultaneously. Ephemeral volume types have a lifetime of a pod, but persistent volumes exist beyond the lifetime of a pod. When a pod ceases to exist, Kubernetes destroys ephemeral volumes; however, Kubernetes does not destroy persistent volumes. For any kind of volume in a given pod, data is preserved across container restarts.
+Kubernetes supports many types of [volumes](https://kubernetes.io/docs/concepts/storage/volumes/
+). A Pod can use any number of volume types simultaneously. Ephemeral volume types have a lifetime of a pod, but persistent volumes exist beyond the lifetime of a pod. When a pod ceases to exist, Kubernetes destroys ephemeral volumes; however, Kubernetes does not destroy persistent volumes. For any kind of volume in a given pod, data is preserved across container restarts.
 
 At its core, a volume is a directory, possibly with some data in it, which is accessible to the containers in a pod. How that directory comes to be, the medium that backs it, and the contents of it are determined by the particular volume type used.
 
 
-https://kubernetes.io/docs/concepts/storage/volumes/
 
 
 ### CSI
 
-Container Storage Interface (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
+[Container Storage Interface](https://kubernetes.io/docs/concepts/storage/volumes/#csi
+) (CSI) defines a standard interface for container orchestration systems (like Kubernetes) to expose arbitrary storage systems to their container workloads.
 
 
-https://kubernetes.io/docs/concepts/storage/volumes/#csi
 
 ### PVC Persistent Volume Claim
 
@@ -147,7 +149,6 @@ https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 
 ### Volume Mode
 
-Filesystem or Raw Block.
 
 https://kubernetes.io/docs/concepts/storage/persistent-volumes/#volume-mode
 
@@ -166,10 +167,10 @@ https://kubernetes.io/docs/concepts/storage/persistent-volumes/#access-modes
 
 ### Dynamic Volume Provisioning
 
-Dynamic volume provisioning allows storage volumes to be created on-demand. Without dynamic provisioning, cluster administrators have to manually make calls to their cloud or storage provider to create new storage volumes, and then create PersistentVolume objects to represent them in Kubernetes. The dynamic provisioning feature eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage when it is requested by users.
+[Dynamic volume provisioning](https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
+) allows storage volumes to be created on-demand. Without dynamic provisioning, cluster administrators have to manually make calls to their cloud or storage provider to create new storage volumes, and then create PersistentVolume objects to represent them in Kubernetes. The dynamic provisioning feature eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage when it is requested by users.
 
 
-https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
 
 
 
@@ -197,12 +198,9 @@ https://kubernetes.io/docs/concepts/storage/volume-health-monitoring/
 
 ### Kubernetes Definition
 
-FlexVolume is an out-of-tree plugin interface that has existed in Kubernetes since version 1.2 (before CSI). It uses an exec-based model to interface with drivers. The FlexVolume driver binaries must be installed in a pre-defined volume plugin path on each node and in some cases the control plane nodes as well.
-
-https://github.com/kubernetes/community/blob/master/contributors/devel/sig-storage/flexvolume.md
-
-
-https://kubernetes.io/docs/concepts/storage/volumes/#flexvolume
+[FlexVolume](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-storage/flexvolume.md
+) is an out-of-tree plugin interface that has existed in Kubernetes since version 1.2 (before CSI). It uses an exec-based model to interface with drivers. The [FlexVolume](https://kubernetes.io/docs/concepts/storage/volumes/#flexvolume
+) driver binaries must be installed in a pre-defined volume plugin path on each node and in some cases the control plane nodes as well.
 
 https://github.com/kubernetes/examples/tree/master/staging/volumes/flexvolume
 
