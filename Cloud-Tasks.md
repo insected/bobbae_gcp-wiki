@@ -4,6 +4,10 @@ These independent pieces of work are called tasks. For example, you need to upda
 
 https://cloud.google.com/tasks
 
+#### Concepts
+
+https://cloud.google.com/tasks/docs/concepts
+
 #### Quickstart for Cloud Tasks queues
 
 https://cloud.google.com/tasks/docs/quickstart
