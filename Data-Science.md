@@ -158,7 +158,7 @@ https://www.datascienceatthecommandline.com/
 
 ### CLI tools
 
-Some [CLI tools](  https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utilities.html ) can be [useful](https://news.ycombinator.com/item?id=8908462) in data science.
+Some [CLI tools](  https://fuzzyblog.io/blog/data_science/2019/09/03/interesting-data-science-utilities.html ) can be [useful](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) in data science.
 
 
 #### Datamash
@@ -193,6 +193,13 @@ https://js4ds.org/
 
 ## Data Science related Math
 
+### Basic Math
+
+
+
+https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
+
+
 ### Scalar and Tensor
 
 https://medium.datadriveninvestor.com/from-scalar-to-tensor-fundamental-mathematics-for-machine-learning-with-intuitive-examples-part-163727dfea8d
@@ -215,20 +222,13 @@ https://towardsdatascience.com/from-eigendecomposition-to-determinant-fundamenta
 
 ### Linear Algebra
 
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-
-
-
-https://www.youtube.com/watch?v=kjBOesZCoqc
-
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 
 
 ### Multivariable Calculus
 
-[Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm
 
 ### Statistics & Probability
 
@@ -239,22 +239,6 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 
-
-### Calculus
-
-https://www.youtube.com/watch?v=WjJ-kpgps1c
-
-https://www.youtube.com/watch?v=WsQQvHm4lSw
-
-### Statistics
-
-https://www.youtube.com/watch?v=kyjlxsLW1Is
-
-### Basic Math
-
-https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd
-
-https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 
 ## Data Science Qwiklabs
