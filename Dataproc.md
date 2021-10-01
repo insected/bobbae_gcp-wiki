@@ -3,7 +3,7 @@
 
 ## Introduction
 
-[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](https://en.m.wikipedia.org/wiki/Apache_Spark) and [Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning. 
+[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](https://en.m.wikipedia.org/wiki/Apache_Spark) and [Apache Hadoop](https://en.m.wikipedia.org/wiki/Apache_Hadoop) service that lets you take advantage of open source data tools for [batch processing](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example), [querying](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc), [streaming](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub), and [machine learning](https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml). 
 
 
 
@@ -43,7 +43,14 @@ https://hackernoon.com/why-dataproc-googles-managed-hadoop-and-spark-offering-is
 
 [https://www.youtube.com/watch?v=OoEpfb6yga8](https://www.youtube.com/watch?v=OoEpfb6yga8)
 
+### Map reduce job example
+
 You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) create a small three node Hadoop cluster and submit map reduce example.
+
+### MrJob
+
+[mrjob](https://mrjob.readthedocs.io/) lets you write MapReduce jobs in Python 2.7/3.4+ and run them on several platforms. 
+
 
 ## Apache Spark Tutorial
 
