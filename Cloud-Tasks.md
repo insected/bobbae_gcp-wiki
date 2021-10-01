@@ -26,6 +26,10 @@ https://cloud.google.com/tasks/docs/deleting-appengine-queues-and-tasks
 
 https://cloud.google.com/tasks/docs/dual-overview#http
 
+#### Choosing Cloud Tasks or Cloud PubSub
+
+https://cloud.google.com/pubsub/docs/choosing-pubsub-or-cloud-tasks
+
 #### Common Pitfalls
 
 https://cloud.google.com/tasks/docs/common-pitfalls
