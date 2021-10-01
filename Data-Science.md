@@ -179,7 +179,7 @@ GNU [parallel](https://www.gnu.org/software/parallel/) is a shell tool for execu
 
 ## Data Lineage
 
-Data lineage uncovers the life cycle of data—it aims to show the complete data flow, from start to finish. Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. This includes all transformations the data underwent along the way—how the data was transformed, what changed, and why.
+[Data lineage](https://en.m.wikipedia.org/wiki/Data_lineage) uncovers the life cycle of data—it aims to show the complete data flow, from start to finish. Data lineage is the process of understanding, recording, and visualizing data as it flows from data sources to consumption. This includes all transformations the data underwent along the way—how the data was transformed, what changed, and why.
 
 https://www.keboola.com/blog/data-lineage-tools
 
