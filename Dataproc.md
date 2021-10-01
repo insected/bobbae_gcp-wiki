@@ -1,26 +1,17 @@
-
-
-
-## Introduction
-
 [Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](Spark) and [Apache Hadoop](Hadoop) service that lets you take advantage of open source data tools for [batch processing](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example), [querying](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc), [streaming](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub), and [machine learning](https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml). 
 
-
+## Migrating Hadoop to Dataproc
 
 Enterprises are migrating their existing on-premises Apache Hadoop and Spark clusters over to Dataproc to manage costs and unlock the power of elastic scale. 
 
-
-
 [https://www.youtube.com/watch?v=h1LvACJWjKc](https://www.youtube.com/watch?v=h1LvACJWjKc)
 
+## Metastore
 
 [Dataproc Metastore](https://www.google.com/amp/s/cloudblog.withgoogle.com/products/data-analytics/cloud-hive-metastore-now-available/amp/ ) is a managed [Hive metastore](   https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/ ) that can be used as a [centralized metadata repository]( 
  https://cloud.google.com/dataproc-metastore/docs  ) that can be shared among various ephemeral Dataproc clusters running different [open source components](https://cloud.google.com/dataproc/docs/concepts/components/overview#available_optional_components ).
 
-
-
-
-
+## Component Gateway
 
 [Component Gateway](https://cloud.google.com/dataproc/docs/concepts/accessing/dataproc-gateways ) provides secure access to web endpoints for Dataproc default and [optional components](https://cloud.google.com/dataproc/docs/concepts/components/overview#available_optional_components ).
 
@@ -52,47 +43,17 @@ You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-
 [mrjob](https://mrjob.readthedocs.io/) lets you write MapReduce jobs in Python 2.7/3.4+ and run them on several platforms. 
 
 
-## Apache Spark Tutorial
 
-[https://www.youtube.com/watch?v=IQfG0faDrzE4](https://www.youtube.com/watch?v=IQfG0faDrzE4)  
-
-https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning
-
-## A Scala tutorial for Java programmers
-
-[https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
-
-
-## Some online courses to learn Hadoop and Spark
-
-[https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30](https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30)
-
-
-## Creating Dataproc cluster
-
-https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotchas-resources-930294ddb7f3
-
-## Spark by Example
-
-[https://sparkbyexamples.com/](https://sparkbyexamples.com/)
-
-
-## Main Spark github source tree
-
-[https://github.com/apache/spark](https://github.com/apache/spark)
-
-
-## Spark examples source code
-
-[https://github.com/apache/spark/tree/master/examples/src/main](https://github.com/apache/spark/tree/master/examples/src/main)
-
-
-## Hadoop Data Storage
+## Dataproc Hadoop Data Storage
 
 Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (HDFS). 
 
 [https://cloud.google.com/dataproc/docs/concepts/dataproc-hdfs](https://cloud.google.com/dataproc/docs/concepts/dataproc-hdfs)
 
+
+## Creating Dataproc cluster
+
+https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotchas-resources-930294ddb7f3
 
 ## Hive
 
@@ -104,22 +65,6 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 
 Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
 
-## Apache Beam vs Spark
-
-https://blog.allegro.tech/2021/06/1-task-2-solutions-spark-or-beam.html
-
-## Apache Flink vs Spark
-
-
-https://data-flair.training/blogs/comparison-apache-flink-vs-apache-spark/
-
-## Presto vs Spark
-
-https://ahana.io/learn/comparisons/spark-sql-vs-presto/
-
-## Apache Hudi vs Apache Kudu
-
-https://hudi.apache.org/docs/comparison/
 
 ## Hadoop Pig 
 
