@@ -21,3 +21,7 @@ https://cloud.google.com/tasks/docs/deleting-appengine-queues-and-tasks
 #### Cloud Task queues with HTTP targets
 
 https://cloud.google.com/tasks/docs/dual-overview#http
+
+#### Common Pitfalls
+
+https://cloud.google.com/tasks/docs/common-pitfalls
