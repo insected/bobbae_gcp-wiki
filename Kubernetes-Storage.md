@@ -62,7 +62,7 @@ https://kubernetes.io/docs/concepts/storage/storage-classes/#azure-disk
 ### ceph and Rook
 
 [Rook](https://rook.io/
-) is a storage orchestration tool that provides a cloud-native, open source solution for a diverse set of storage providers. Rook uses the power of Kubernetes to turn a storage system into self-managing services that provide a seamless experience for saving Kubernetes application or deployment data.
+) is a storage orchestration tool that provides a cloud-native, open source solution for a diverse set of storage providers. Rook uses the power of Kubernetes to turn a storage system into self-managing services that provide a seamless experience for saving Kubernetes application or deployment data. Rook can use [NFS](NFS), Cassandra or Ceph.
 
 
 [Ceph](Ceph) is a highly scalable distributed-storage solution offering object, block, and file storage. Ceph clusters are designed to run on any hardware using the so-called CRUSH algorithm (Controlled Replication Under Scalable Hashing).
