@@ -17,7 +17,7 @@ Big data emerged along with three papers from Google, [Google File System(2003)]
 
 https://bowenli86.github.io/2016/10/23/distributed%20system/data/Big-Data-and-Google-s-Three-Papers-I-GFS-and-MapReduce/
 
-[Dataproc]( Dataproc  ) is a fully managed and highly scalable service for running [Apache Hadoop](  Hadoop ), [Apache Spark](Spark), Apache Flink, Presto, and [a long list of  open source tools and frameworks]( https://en.m.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects 
+[Dataproc]( Dataproc  ) is a fully managed and highly scalable service for running [Apache Hadoop](  Hadoop ), [Apache Spark](Spark), Apache Flink, Presto, and [a long list of  open source tools](https://dzone.com/articles/looking-at-all-the-open-source-apache-big-data-pro) and [frameworks]( https://en.m.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects 
 ) .
 
 ## Ethics 
