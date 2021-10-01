@@ -150,7 +150,8 @@ https://www.tidyverse.org/
 
 ## Data Science at Command Line
 
-You may become a more [efficient](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00388-5) and [productive](https://databricks.com/blog/2021/03/25/its-time-to-re-evaluate-your-relationship-with-hadoop.html) data scientist by [learning to leverage](https://www.datacamp.com/community/tutorials/shell-commands-data-scientist) the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
+You may become a more [efficient](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00388-5), [practical](https://www.codetd.com/en/article/13077139
+) and [productive](https://databricks.com/blog/2021/03/25/its-time-to-re-evaluate-your-relationship-with-hadoop.html) data scientist by [learning to leverage](https://www.datacamp.com/community/tutorials/shell-commands-data-scientist) the [power of the command line](https://www.datascienceatthecommandline.com/2e/chapter-1-introduction.html#data-science-is-osemn).
 
 
 https://www.datascienceatthecommandline.com/
@@ -176,7 +177,8 @@ GNU [parallel](https://www.gnu.org/software/parallel/) is a shell tool for execu
 
 
 
-[Awk](https://earthly.dev/blog/awk-examples/) is a [record processing tool](https://medium.com/analytics-vidhya/use-awk-to-save-time-and-money-in-data-science-eb4ea0b7523f) written by Aho, Weinberger, and Kernighan in the 1970s. AWK is an acronym of their names. 
+[Awk](https://earthly.dev/blog/awk-examples/) is a [record processing tool](https://medium.com/analytics-vidhya/use-awk-to-save-time-and-money-in-data-science-eb4ea0b7523f) written by Aho, Weinberger, and Kernighan in the 1970s. AWK is an acronym of their names.  Data scientists have [rediscovered](https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/) awk recently.
+
 
 ## Data Lineage
 
