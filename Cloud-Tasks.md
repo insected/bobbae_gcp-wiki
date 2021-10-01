@@ -34,6 +34,10 @@ https://cloud.google.com/pubsub/docs/choosing-pubsub-or-cloud-tasks
 
 https://cloud.google.com/tasks/docs/comp-tasks-sched
 
+#### Queue Security
+
+https://cloud.google.com/tasks/docs/secure-queue-configuration
+
 #### Common Pitfalls
 
 https://cloud.google.com/tasks/docs/common-pitfalls
