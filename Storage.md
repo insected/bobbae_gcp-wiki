@@ -54,7 +54,7 @@ Block storage resources have different performance characteristics. Consider you
 
 ### SCSI
 
-Small Computer System Interface is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types.
+[Small Computer System Interface](https://en.wikipedia.org/wiki/SCSI) is a set of standards for physically connecting and transferring data between computers and peripheral devices. The SCSI standards define commands, protocols, electrical, optical and logical interfaces. The SCSI standard defines command sets for specific peripheral device types.
 
 
 https://www.lifewire.com/small-computer-system-interface-scsi-2626002
@@ -121,11 +121,11 @@ https://www.dell.com/support/kbdoc/en-us/000132092/ubuntu-linux-terms-for-your-h
 
 /dev/ is the part in the Unix directory tree that contains all "device" files -- Unix traditionally treats just about everything you can access as a file to read from or write to.
 
-[sd](https://man7.org/linux/man-pages/man4/sd.4.html) originally identified a SCSI device, but since the proliferation of USB (and other removable) data carriers, it became a catch-all for any block device (another Unix term; in this context, anything capable of carrying data) that wasn't already accessible via IDE. When SATA came around, the developers figured it'd be much easier and much more convenient for everyone to add it into the existing framework rather than write a whole new framework.
+[sd](https://man7.org/linux/man-pages/man4/sd.4.html) originally identified a [SCSI](https://en.wikipedia.org/wiki/SCSI) device, but since the proliferation of [USB](https://en.wikipedia.org/wiki/USB) (and other removable) data carriers, it became a catch-all for any [block device](https://en.wikipedia.org/wiki/Device_file#BLOCKDEV) (another Unix term; in this context, anything capable of carrying data) that wasn't already accessible via [IDE](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1). When [SATA](https://en.wikipedia.org/wiki/Serial_ATA) came around, the developers figured it'd be much easier and much more convenient for everyone to add it into the existing framework rather than write a whole new framework.
 
 The letter immediately after sd signifies the order in which it was first found -- a,b,c...z, Aa...Az... etc. (Not that there are many situations in the real world where more than 26 discrete block devices are on the same bus...)
 
-Finally, the number after that signifies the partition on the device. Note that because of the rather haphazard way PCs handle partitioning, there are only four "primary" partitions, so the numbering will be slightly off from the actual count. This isn't a terrible problem as the main purpose for the naming scheme is to have a unique and recognizable identifier for each partition found in this manner
+Finally, the number after that signifies the partition on the device. Note that because of the rather haphazard way PCs handle partitioning, there are only four "primary" partitions, so the numbering will be slightly off from the actual count. This isn't a terrible problem as the main purpose for the naming scheme is to have a unique and recognizable identifier for each partition found in this manner.
 
 /dev/sda9 means the ninth partition on the first drive.
 
