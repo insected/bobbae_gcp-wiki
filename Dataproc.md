@@ -74,3 +74,4 @@ https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotch
 
 [Cloud Dataproc example repository](https://github.com/GoogleCloudDataproc/cloud-dataproc)
 
+[Use Presto with Dataproc](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc)
