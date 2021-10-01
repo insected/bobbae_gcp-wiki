@@ -170,7 +170,9 @@ https://www.gnu.org/software/parallel/
 
 #### AWK
 
-https://medium.com/analytics-vidhya/use-awk-to-save-time-and-money-in-data-science-eb4ea0b7523f
+
+
+[Awk](https://earthly.dev/blog/awk-examples/) is a [record processing tool](https://medium.com/analytics-vidhya/use-awk-to-save-time-and-money-in-data-science-eb4ea0b7523f) written by Aho, Kernighan, and Weinberger in 1977. Its name is an acronym of their names. 
 
 ## Data Lineage
 
