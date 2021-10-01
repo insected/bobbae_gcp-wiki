@@ -22,26 +22,13 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 [https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/](https://programmaticponderings.com/2018/12/11/big-data-analytics-with-java-and-python-using-cloud-dataproc-googles-fully-managed-spark-and-hadoop-service/)
 
 
-## Migrating Hadoop to GCP
+## Migrating Hadoop to Dataproc
 
 [https://www.youtube.com/watch?v=YK_-yS9y_0k](https://www.youtube.com/watch?v=YK_-yS9y_0k)
 
 ### AWS EMR vs Dataproc
 
 https://hackernoon.com/why-dataproc-googles-managed-hadoop-and-spark-offering-is-a-game-changer-9f0ed183fda3
-
-## Basic introduction to Apache Hadoop
-
-[https://www.youtube.com/watch?v=OoEpfb6yga8](https://www.youtube.com/watch?v=OoEpfb6yga8)
-
-### Map reduce job example
-
-You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/) create a small three node Hadoop cluster and submit map reduce example.
-
-### MrJob
-
-[mrjob](https://mrjob.readthedocs.io/) lets you write MapReduce jobs in Python 2.7/3.4+ and run them on several platforms. 
-
 
 
 ## Dataproc Hadoop Data Storage
@@ -55,45 +42,6 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 
 https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotchas-resources-930294ddb7f3
 
-## Hive
-
-[Apache Hive](https://hive.apache.org/) is a data warehouse software project built on top of Apache Hadoop for providing data query and analysis. 
-
-[https://www.youtube.com/watch?v=cMziv1iYt28](https://www.youtube.com/watch?v=cMziv1iYt28)
-
-[Using Apache Hive on Dataproc](https://cloud.google.com/architecture/using-apache-hive-on-cloud-dataproc ).
-
-Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
-
-
-## Hadoop Pig 
-
-[Apache Pig](http://pig.apache.org/) is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs.
-
-[https://www.youtube.com/watch?v=Hve24pRW_Ps](https://www.youtube.com/watch?v=Hve24pRW_Ps) 
-
-
-## Hive vs Pig vs SQL
-
-[https://www.whizlabs.com/blog/hive-vs-pig-vs-sql/](https://www.whizlabs.com/blog/hive-vs-pig-vs-sql/)
-
-
-## Pig Latin SQL Challenge
-
-Doing ETL in SQL or [Pig Latin](https://pig.apache.org/docs/latest/basic.html) to give more detailed feel for why one might prefer one or the other in solving actual common problems:
-
-[http://www.olric.org/2019/09/pig-latin-sql-challenge-or-window.html?m=1](http://www.olric.org/2019/09/pig-latin-sql-challenge-or-window.html?m=1)
-
-
-## Sawzall
-
-A perspective on Sawzall DSL (domain specific language) over Google map/reduce and Pig DSL over Hadoop map/reduce.
-
-[http://glinden.blogspot.com/2007/04/yahoo-pig-and-google-sawzall.html?m=1](http://glinden.blogspot.com/2007/04/yahoo-pig-and-google-sawzall.html?m=1)
-
-And finally a perspective on replacing Sawzell within Google.
-
-[http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html?m=1](http://www.unofficialgoogledatascience.com/2015/12/replacing-sawzall-case-study-in-domain.html?m=1)
 
 
 ## Tutorials
@@ -126,23 +74,3 @@ And finally a perspective on replacing Sawzell within Google.
 
 [Cloud Dataproc example repository](https://github.com/GoogleCloudDataproc/cloud-dataproc)
 
-
-## Big Data Hadoop Tutorial
-
-https://www.guru99.com/bigdata-tutorials.html
-
-<!--
-### Hadoop dissent
-
-https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
-
-### awk
-
-https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/
-
-### Hadoop fatigue
-
-
-https://www.codetd.com/en/article/13077139
-
--->
