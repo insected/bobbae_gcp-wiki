@@ -68,7 +68,7 @@ It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E)
 
 ### Deep Learning in Life Sciences
 
-There are useful [courses](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) on Deep Learning in Sciences and [bioinformatics](Bioinformatics).
+There are useful [courses](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) on [Deep Learning in Sciences](https://towardsdatascience.com/deep-learning-in-science-fd614bb3f3ce) and [bioinformatics](Bioinformatics).
 
 
 ### Variant Transforms tool 
