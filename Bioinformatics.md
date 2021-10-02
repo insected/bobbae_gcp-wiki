@@ -17,6 +17,10 @@ https://bioinformaticsworkbook.org/
 
 https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/
 
+### One liners
+
+https://github.com/stephenturner/oneliners
+
 ### Tutorials
 
 https://www.hadriengourle.com/tutorials/
