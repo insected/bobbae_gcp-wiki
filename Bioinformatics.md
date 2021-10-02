@@ -13,7 +13,6 @@ https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/
 
 https://bioinformaticsworkbook.org/
 
-https://en.wikipedia.org/wiki/Bioinformatics
 
 
 https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/
