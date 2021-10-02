@@ -7,25 +7,25 @@ There are  many [hosting options](  https://cloud.google.com/hosting-options ) t
 
 https://cloud.google.com/compute/docs/concepts
 
-## Regions and Zones
+### Regions and Zones
 
 https://cloud.google.com/compute/docs/regions-zones
 
 
-## Google Data Centers
+### Google Data Centers
 
 https://www.google.com/about/datacenters/
 
-## GCP Locations
+### GCP Locations
 
 https://www.google.com/about/datacenters/locations/
 
 
-## Google Compute Engine How-to guides
+### Google Compute Engine How-to guides
 
 https://cloud.google.com/compute/docs/how-to
 
-## Reserving Zonal Resources
+### Reserving Zonal Resources
 
 https://cloud.google.com/compute/docs/instances/reservations-overview
 
