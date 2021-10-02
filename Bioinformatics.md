@@ -11,6 +11,7 @@ https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/
 
 ### List of Books
 
+https://bioinformaticsworkbook.org/
 
 https://en.wikipedia.org/wiki/Bioinformatics
 
