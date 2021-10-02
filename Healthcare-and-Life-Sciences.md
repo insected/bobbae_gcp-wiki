@@ -70,7 +70,6 @@ It also enables [advanced insights](https://www.youtube.com/watch?v=27tSivxnQ_E)
 
 There are useful [courses](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) on Deep Learning in Sciences and [bioinformatics](Bioinformatics).
 
-(https://github.com/ossu/bioinformatics).
 
 ### Variant Transforms tool 
 
