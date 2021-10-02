@@ -4,7 +4,9 @@
 
 [Google Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) supports Terraform as well as Google Cloud Deployment manager.
 
+### Terraform Cloud Foundation Fabric Examples
 
+https://github.com/terraform-google-modules/cloud-foundation-fabric
 
 ## Infrastructure as Code
 
