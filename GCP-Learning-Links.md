@@ -3,7 +3,11 @@ Links for the [GCP Learning main document](GCP-Learning)
 
 ## List of lists
 
+https://github.com/sindresorhus/awesome
+
 https://en.m.wikipedia.org/wiki/List_of_lists_of_lists
+
+
 
 ## GCP related Videos
 
@@ -350,3 +354,8 @@ https://github.com/lydiahallie/javascript-questions
 https://github.com/papers-we-love/papers-we-love
 
 https://github.com/prakhar1989/awesome-courses
+
+https://github.com/ripienaar/free-for-dev
+
+https://github.com/EbookFoundation/free-programming-books
+
