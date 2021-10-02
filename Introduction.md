@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Google_Cloud_Platform
+
 [Google Cloud](  https://www.youtube.com/watch?v=4D3X6Xl5c_Y ) consists of a set of [physical assets]( https://www.google.com/about/datacenters/  ), such as computers and hard disk drives, and virtual resources, such as [virtual machines](VM) (VMs), that are contained in Google's [data centers](  https://blog.google/inside-google/infrastructure/how-data-center-security-works/ ) around [the globe](  https://cloud.withgoogle.com/infrastructure  ).
 
 [Google Cloud Platform](https://cloud.google.com/) offers these main kinds of [products](https://cloud.google.com/products) and [services](  https://gcp.solutions/ ): [Compute](Compute), [Storage](Storage), [Big Data](Big-Data), [AI Platform](AI-Platform) and [Machine Learning](Machine-Learning). 
