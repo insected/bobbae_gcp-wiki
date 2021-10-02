@@ -565,7 +565,7 @@ The [Cloud Data Loss Prevention](https://cloud.google.com/dlp)  (DLP) helps you 
 
 ### Clustering
 
-[Clustering](https://www.geeksforgeeks.org/clustering-in-machine-learning/) is a popular technique to find groups or segments in your data that are similar. This is an unsupervised learning algorithm in the sense that you don't train the algorithm and give it examples for what you'd like it to do, you just let the clustering algorithm explore the data and provide you with new insights.
+[Clustering](https://developers.google.com/machine-learning/clustering/clustering-algorithms) is a popular technique to find groups or segments in your data that are similar. This is an unsupervised learning algorithm in the sense that you don't train the algorithm and give it examples for what you'd like it to do, you just let the clustering algorithm explore the data and provide you with new insights.
 
 
 ### K-means clustering 
