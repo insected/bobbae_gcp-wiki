@@ -8,29 +8,6 @@ https://github.com/cshenoy/awesome-interviews
 
 https://github.com/RamitPahwa/awesome-interviews
 
-https://github.com/donnemartin/system-design-primer
-
-https://github.com/TheAlgorithms
-
-https://github.com/danistefanovic/build-your-own-x
-
-https://github.com/trekhleb/javascript-algorithms
-
-https://github.com/vasanthk/how-web-works
-
-https://github.com/TheAlgorithms/Javascript
-
-https://github.com/Olshansk/interview
-
-https://github.com/inancgumus/learngo
-
-https://github.com/ryanmcdermott/clean-code-javascript
-
-https://github.com/lydiahallie/javascript-questions
-
-https://github.com/papers-we-love/papers-we-love
-
-https://github.com/prakhar1989/awesome-courses
 
 ## General
 
