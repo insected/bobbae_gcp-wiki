@@ -307,7 +307,7 @@ For example, suppose the natural range of a particular feature is 350 to 1450. B
 
 
 
-By [normalizing](https://www.jeremyjordan.me/batch-normalization/) all of our inputs to a standard scale, we're allowing the network to more quickly learn the optimal parameters for each input node.
+By [normalizing](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/) all of our inputs to a standard scale, we're allowing the network to more quickly learn the optimal parameters for each input node.
 
 
 ### Standardization
@@ -366,7 +366,7 @@ Overfitting is another problem a model can exhibit. The model that overfits pred
 
 Many of the modern advancements in neural networks have been a result of stacking many hidden layers.
 
-This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://www.jeremyjordan.me/deep-neural-networks-preventing-overfitting/) our data. 
+This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://deeplizard.com/learn/video/DEMmkFC6IGM) our data. 
 
 https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/
 
@@ -397,7 +397,7 @@ https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
 ## Evaluation of Models
 
 
-Once you have a model built using the training set, [how can you say how good the model is]( https://www.jeremyjordan.me/evaluating-a-machine-learning-model/  )? You use test set to [assess the model]( https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
+Once you have a model built using the training set, [how can you say how good the model is]( https://machinelearningmastery.com/evaluate-skill-deep-learning-models/ )? You use test set to [assess the model]( https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
  ) . The test set contains the examples that the learning algorithm has never seen before. If our model performs well on predicting the labels of the examples from the test set, we say that our model generalizes well.
 
 https://heartbeat.fritz.ai/introduction-to-machine-learning-model-evaluation-fa859e1b2d7f
@@ -468,7 +468,7 @@ We can use probability to make predictions in machine learning. Perhaps the most
 
 [https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
-Naive [Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/) methods are quite simple (in terms of model complexity) and commonly used for tasks such as document classification and spam filtering. This algorithm works well for datasets with a large amount of features (ex. a body of text where every word is treated as a feature) but it is naive in the sense that it treats every feature as independent of one another. This is clearly not the case for language, where word order matters when trying to discern meaning from a statement. Nonetheless, these methods have been used quite successfully for various text classification tasks.
+Naive [Bayes classification](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) methods are quite simple (in terms of model complexity) and commonly used for tasks such as document classification and spam filtering. This algorithm works well for datasets with a large amount of features (ex. a body of text where every word is treated as a feature) but it is naive in the sense that it treats every feature as independent of one another. This is clearly not the case for language, where word order matters when trying to discern meaning from a statement. Nonetheless, these methods have been used quite successfully for various text classification tasks.
 
 ### Regression & Classification
 
@@ -498,7 +498,7 @@ The regression problem is solved by a regression learning algorithm that takes a
 ### Linear Regression
 
 
-[Linear regression](https://www.jeremyjordan.me/linear-regression/) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. For example, a classifier might draw a decision boundary that can tell you whether or not a house is likely to sell at a given price (when provided with features of the house) but a regressor can use those same features to predict the market value of the house. Nonetheless, regression is still a supervised learning technique and you'll still need to train your model on a set of examples with known outcomes.
+[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. For example, a classifier might draw a decision boundary that can tell you whether or not a house is likely to sell at a given price (when provided with features of the house) but a regressor can use those same features to predict the market value of the house. Nonetheless, regression is still a supervised learning technique and you'll still need to train your model on a set of examples with known outcomes.
 
 https://www.youtube.com/watch?v=nk2CQITm_eo
 
@@ -506,25 +506,25 @@ https://www.youtube.com/watch?v=nk2CQITm_eo
 
 ### Polynomial regression
 
-[Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/) is very similar to linear regression, with a slight deviation in how we treat our feature-space.
+[Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression) is very similar to linear regression, with a slight deviation in how we treat our feature-space.
 
 ### Logistic Regression
 
 
-The goal of [logistic regression](https://www.jeremyjordan.me/logistic-regression/), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. For instance, if we were examining the Iris flower dataset, our classifier would figure out some method to split the data based on the following: sepal length, sepal width, petal length, petal width. 
+The goal of [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. For instance, if we were examining the Iris flower dataset, our classifier would figure out some method to split the data based on the following: sepal length, sepal width, petal length, petal width. 
 
 https://www.youtube.com/watch?v=yIYKR4sgzI8
 
 ### Decision Trees
 
-[Decision trees](https://www.jeremyjordan.me/decision-trees/) are one of the oldest and most widely-used machine learning models, due to the fact that they work well with noisy or missing data, can easily be ensembled to form more robust predictors, and are incredibly fast at runtime. Moreover, you can directly visual your model's learned logic, which means that it's an incredibly popular model for domains where model interpretability is important.
+[Decision trees](https://en.wikipedia.org/wiki/Decision_tree) are one of the oldest and most widely-used machine learning models, due to the fact that they work well with noisy or missing data, can easily be formed as more robust predictors, and are incredibly fast at runtime. Moreover, you can directly visual your model's learned logic, which means that it's an incredibly popular model for domains where model interpretability is important.
 
 
 
 
 ### SVM
 
-[Support vector machines](https://www.jeremyjordan.me/support-vector-machines/) classifier works well in complicated feature domains, albeit requiring clear separation between classes. 
+[Support vector machines](https://en.wikipedia.org/wiki/Support-vector_machine) classifier works well in complicated feature domains, albeit requiring clear separation between classes. 
 
 SVM  is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text.
 
@@ -538,11 +538,11 @@ SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n
 
 Decision trees are desirable in that they scale well to larger datasets, they are robust against irrelevant features, and it is very easy to visualize the rationalization between a decision tree's predictions. Further, decision trees have low bias as there is minimal implicitly defined structure in the model (as opposed to linear regression, for example, which makes the assumption of linear relationships). Unfortunately, decision trees are prone to high variance and will overfit noisy data.
 
-[Random forests](https://www.jeremyjordan.me/random-forests/) inherit the benefits of a decision tree model whilst improving upon the performance by reducing the variance. In building a random forest, we train a collection of decision trees on random subsets of the training data. Further, on each sampling from the population, we also sample a subset of features from the overall feature space. This adds randomness (with the intent to reduce variance in the end model) to the splitting process by limiting the features available for to split on for each individual base model.
+[Random forests](https://en.wikipedia.org/wiki/Random_forest) inherit the benefits of a decision tree model whilst improving upon the performance by reducing the variance. In building a random forest, we train a collection of decision trees on random subsets of the training data. Further, on each sampling from the population, we also sample a subset of features from the overall feature space. This adds randomness (with the intent to reduce variance in the end model) to the splitting process by limiting the features available for to split on for each individual base model.
 
 ### Boosted trees
 
-[Boosting](https://www.jeremyjordan.me/boosted-trees/) is an iterative ensembling process where models are trained in a sequential order. These models are known as "weak learners" as they are simple prediction rules which only perform slightly better than a random guess (ie. slightly better than 50% accuracy). The general concept behind boosting is to focus on the "hard" examples, or the examples that the model fails to predict correctly with confidence. These examples are given more emphasis by skewing the distribution of observations so that these examples are more likely to appear in a sample. As such, the next weak learner will focus more on getting these hard examples correct. Because your learner is always doing better than random, you'll always get some degree of information from each sequential training round. When all of the simple prediction rules are combined into one overarching model, a powerful predictor emerges.
+[Boosting](https://en.wikipedia.org/wiki/Gradient_boosting#Gradient_tree_boosting) is an iterative process where models are trained in a sequential order. These models are known as "weak learners" as they are simple prediction rules which only perform slightly better than a random guess (ie. slightly better than 50% accuracy). The general concept behind boosting is to focus on the "hard" examples, or the examples that the model fails to predict correctly with confidence. These examples are given more emphasis by skewing the distribution of observations so that these examples are more likely to appear in a sample. As such, the next weak learner will focus more on getting these hard examples correct. Because your learner is always doing better than random, you'll always get some degree of information from each sequential training round. When all of the simple prediction rules are combined into one overarching model, a powerful predictor emerges.
 
 
 ### Content Classification
@@ -570,13 +570,13 @@ The [Cloud Data Loss Prevention](https://cloud.google.com/dlp)  (DLP) helps you 
 
 ### K-means clustering 
 
-[K-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/) is a simple method for partitioning n data points in k groups, or clusters.
+[K-means clustering](https://developers.google.com/machine-learning/glossary#k-means) is a simple method for partitioning n data points in k groups, or clusters.
 
 https://www.youtube.com/watch?v=4b5d3muPQmA
 
 ### K-nearest neighbors
 
-The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 ) (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to [solve both classification and regression problems](  https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761  ). 
+The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761 ) (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to [solve both classification and regression problems](  https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm  ). 
 
 
 
@@ -587,11 +587,11 @@ The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basic
 
 ### Principal Components Analysis
 
-[Principal components analysis](https://www.jeremyjordan.me/principal-components-analysis/) (PCA) allows us to take an n-dimensional feature-space and reduce it to a k-dimensional feature-space while maintaining as much information from the original dataset as possible in the reduced dataset.
+[Principal components analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) (PCA) allows us to take an n-dimensional feature-space and reduce it to a k-dimensional feature-space while maintaining as much information from the original dataset as possible in the reduced dataset.
 
 ### Autoencoders
 
-[Autoencoders](https://www.jeremyjordan.me/autoencoders/) are an unsupervised learning technique in which we leverage neural networks for the task of representation learning.
+[Autoencoders](https://en.wikipedia.org/wiki/Autoencoder) are an unsupervised learning technique in which we leverage neural networks for the task of representation learning.
 
 ### Neural Networks
 
@@ -605,20 +605,20 @@ https://developers.google.com/machine-learning/crash-course/introduction-to-neur
 
 #### Neural Networks Representation
 
-Neural networks are a [biologically-inspired algorithm](https://www.jeremyjordan.me/intro-to-neural-networks/) that attempt to mimic the functions of neurons in the brain. Each neuron acts as a computational unit, accepting input from the dendrites and outputting signal through the axon terminals. Actions are triggered when a specific combination of neurons are activated.
+Neural networks are a [biologically-inspired algorithm](https://www.ritchieng.com/neural-networks-representation/) that attempt to mimic the functions of neurons in the brain. Each neuron acts as a computational unit, accepting input from the dendrites and outputting signal through the axon terminals. Actions are triggered when a specific combination of neurons are activated.
 
 #### Activation functions
 
-[Activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/) are used to determine the firing of neurons in a neural network. Given a linear combination of inputs and weights from the previous layer, the activation function controls how we'll pass that information on to the next layer.
+[Activation functions](https://en.wikipedia.org/wiki/Activation_function) are used to determine the firing of neurons in a neural network. Given a linear combination of inputs and weights from the previous layer, the activation function controls how we'll pass that information on to the next layer.
 
 #### Backpropagation
 
 
-[Backpropagation](https://www.jeremyjordan.me/neural-networks-training/) computes the gradient of the loss function with respect to the weights of the network for a single input–output example, and does so efficiently, unlike a naive direct computation of the gradient with respect to each weight individually. This efficiency makes it feasible to use gradient methods for training multilayer networks, updating weights to minimize loss; gradient descent, or variants such as stochastic gradient descent, are commonly used.
+[Backpropagation](https://en.wikipedia.org/wiki/Backpropagation) computes the gradient of the loss function with respect to the weights of the network for a single input–output example, and does so efficiently, unlike a naive direct computation of the gradient with respect to each weight individually. This efficiency makes it feasible to use gradient methods for training multilayer networks, updating weights to minimize loss; gradient descent, or variants such as stochastic gradient descent, are commonly used.
 
 ### Gradient descent 
 
-[Gradient descent](https://www.jeremyjordan.me/gradient-descent/) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a [cost function](https://en.m.wikipedia.org/wiki/Loss_function) which is capable of measuring how well our model is doing. This function will penalize any error our model makes by assigning a cost with respect to the current parameter values. By minimizing the cost function we can find the optimal parameters that yield the best model performance.
+[Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) is an optimization technique commonly used in training machine learning algorithms. Often when we're building a machine learning model, we'll develop a [cost function](https://en.m.wikipedia.org/wiki/Loss_function) which is capable of measuring how well our model is doing. This function will penalize any error our model makes by assigning a cost with respect to the current parameter values. By minimizing the cost function we can find the optimal parameters that yield the best model performance.
 
 https://www.youtube.com/watch?v=sDv4f4s2SB8
 
@@ -630,19 +630,19 @@ It is often necessary to [tune hyperparameters](  https://en.wikipedia.org/wiki/
 
 #### Learning Rate
 
-One of the key hyperparameters to set in order to train a neural network is the [learning rate](https://www.jeremyjordan.me/nn-learning-rate/) for gradient descent. The learning rate parameter scales the magnitude of our weight updates in order to minimize the network's loss function.
+One of the key hyperparameters to set in order to train a neural network is the [learning rate](https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate) for gradient descent. The learning rate parameter scales the magnitude of our weight updates in order to minimize the network's loss function.
 
 If your learning rate is set too low, training will progress very slowly as you are making very tiny updates to the weights in your network. However, if your learning rate is set too high, it can cause undesirable divergent behavior in your loss function. 
 
 
 #### Convolutional Neural Networks
 
-[CNN](https://www.jeremyjordan.me/convolutional-neural-networks/) are used heavily in image recognition applications of machine learning. Convolutional neural networks provide an advantage over feed-forward networks because they are capable of considering locality of features.
+[CNN](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) are used heavily in image recognition applications of machine learning. Convolutional neural networks provide an advantage over feed-forward networks because they are capable of considering locality of features.
 
 
 #### Recurrent Neural Networks
 
-[Recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/) are good  for learning from sequential data.
+[Recurrent neural networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) are good  for learning from sequential data.
 
 RNNs are often used in text and speech processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. 
 
@@ -677,7 +677,7 @@ https://developers.google.com/machine-learning/crash-course/training-neural-netw
 
 ### Reinforcement Learning
 
-[Reinforcement learning](https://www.jeremyjordan.me/overview-of-reinforcement-learning/) is an approach to machine learning where agents are rewarded to accomplish some task. "Good" behavior is reinforced via a reward, so this approach can more realistically be considered a method of reward maximization. 
+[Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is an approach to machine learning where agents are rewarded to accomplish some task. "Good" behavior is reinforced via a reward, so this approach can more realistically be considered a method of reward maximization. 
 
 This is different from supervised learning in that we don't explicitly provide correct and incorrect examples of how the task should be completed, we simply tell the computer when it is doing a good job along the way. Reinforcement learning is also distinct from unsupervised learning because we are providing the computer with some level of feedback, even if we aren't providing explicit examples.
 
@@ -686,12 +686,12 @@ Reinforcement learning is a subfield of machine learning where the machine “li
 
 ### Markov Decision Process
 
-The [Markov Decision Process](https://www.jeremyjordan.me/markov-decision-process/) is a method for planning in a stochastic environment. Whereas we cannot control or optimize the randomness that occurs, we can optimize our actions within a random environment. Planning for stochastic environments is much more difficult than planning for a deterministic environment; given the randomness present, there's a degree of uncertainty surrounding the results of our actions.
+The [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process) is a method for planning in a stochastic environment. Whereas we cannot control or optimize the randomness that occurs, we can optimize our actions within a random environment. Planning for stochastic environments is much more difficult than planning for a deterministic environment; given the randomness present, there's a degree of uncertainty surrounding the results of our actions.
 
 
 ### Monte Carlo learning
 
-The [Monte Carlo](https://www.jeremyjordan.me/rl-learning-implementations/) approach approximates the value of a state-action pair by calculating the mean return from a collection of episodes.
+The [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) approach approximates the value of a state-action pair by calculating the mean return from a collection of episodes.
 
 
 ### Model based vs. Instance based learning
@@ -724,7 +724,7 @@ https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0
 #### TF-IDF Vectorization
 
 
-[Term frequency-inverse document frequency](https://www.jeremyjordan.me/identifying-related-bodies-of-text-using-tf-idf-vectorization/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
+[Term frequency-inverse document frequency](https://monkeylearn.com/blog/what-is-tf-idf/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
 
 
 #### Build Text Classification Model using  TF-IDF and NLTK
