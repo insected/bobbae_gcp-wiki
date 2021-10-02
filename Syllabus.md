@@ -30,6 +30,10 @@ Each participant will keep an online (e.g. Google Drive)  [daily journal](https:
 To spend the meeting time efficiently issues and questions can be noted in writing before the daily meeting.  
 The instructor will review your work log each week and you may be graded on the completeness, quality and quantity of your worklog.
 
+## Mentorship
+
+One on one individualized mentorship can enable shadowing on projects and learning via real engagements.
+
 ## Materials in this document
 
 You may not have enough time to go through every video and Qwiklabs sessions.  You may have to skip some Qwiklabs and come back to them after you’ve gained more knowledge. You may pace yourself but please try to gain as much hands-on experience as possible as you move through the topics. Some topics can be learned briskly. Others require more attention. 
