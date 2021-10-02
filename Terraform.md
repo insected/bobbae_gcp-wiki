@@ -203,11 +203,7 @@ https://github.com/cycloidio/terracognita
 
 ### Terragrunt
 
-
-
 https://terragrunt.gruntwork.io/
-
-
 
 https://github.com/gruntwork-io/terragrunt
 
@@ -218,8 +214,6 @@ https://medium.com/bestmile/migrating-from-terraform-to-terragrunt-cf91f5d7a301
 https://github.com/gruntwork-io/terratest
 
 ### Terraspace
-
-
 
 https://terraspace.cloud/
 
@@ -233,7 +227,6 @@ https://www.runatlantis.io/
 
 https://www.env0.com/
 
-
 ### Spacelift
 
 https://spacelift.io/
@@ -243,7 +236,6 @@ https://spacelift.io/
 https://github.com/GoogleCloudPlatform/terraform-validator
 
 ### Terraform module generator
-
 
 Scaffolding / Boilerplate generator for new Terraform module projects
 
@@ -256,7 +248,6 @@ Terraform static analysis tool.
 https://github.com/bridgecrewio/checkov/
 
 ### GitHub pre commit
-
 
 https://github.com/antonbabenko/pre-commit-terraform
 
@@ -317,14 +308,11 @@ https://registry.terraform.io/modules/cloudboss/terrible/cloudinit/latest
 ## Examples
 
 
-### Provisioning Spanner with terraform
-
 ### Provisioning Spanner with Terraform
 
 https://cloud.google.com/blog/topics/developers-practitioners/provisioning-cloud-spanner-using-terraform
 
 ### Triggering Cloud functions using Cloud Schedulers with Terraform
-
 
 https://medium.com/geekculture/setup-gcp-cloud-functions-triggering-by-cloud-schedulers-with-terraform-1433fbf1abbe
 
