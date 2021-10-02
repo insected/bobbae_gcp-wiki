@@ -30,6 +30,8 @@ https://github.com/lydiahallie/javascript-questions
 
 https://github.com/papers-we-love/papers-we-love
 
+https://github.com/prakhar1989/awesome-courses
+
 ## General
 
 http://deliberate-software.com/compassionate-interviewing/
