@@ -4,31 +4,26 @@ https://en.wikipedia.org/wiki/Bioinformatics
 [Bioinformatics](https://github.com/ossu/bioinformatics) is an interdisciplinary field, which harnesses computer science, mathematics, physics, and biology.
 
 
-### Bioinformatics Data Skills
-
-https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/
-
-
-### List of Books
-
-https://bioinformaticsworkbook.org/
-
-
-
-https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/
-
-
 ### Resources
 
 https://github.com/danielecook/Awesome-Bioinformatics
 
-### One liners
+### List of Books
 
-https://github.com/stephenturner/oneliners
+https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/
+
+https://bioinformaticsworkbook.org/
+
+https://divingintogeneticsandgenomics.rbind.io/post/my-opinionated-selection-of-books-for-bioinformatics-data-science-curriculum/
+
 
 ### Tutorials
 
 https://www.hadriengourle.com/tutorials/
+
+#### One liners
+
+https://github.com/stephenturner/oneliners
 
 ####  Command Line tools
 
