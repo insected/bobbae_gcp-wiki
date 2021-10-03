@@ -1,7 +1,7 @@
 
 https://en.wikipedia.org/wiki/Bioinformatics
 
-[Bioinformatics](https://github.com/ossu/bioinformatics) is defined as the application of tools of computation and analysis to the capture and interpretation of biological data. It is an interdisciplinary field, which harnesses computer science, mathematics, physics, and biology.
+[Bioinformatics](https://github.com/ossu/bioinformatics) is an interdisciplinary field, which harnesses computer science, mathematics, physics, and biology.
 
 
 ### Bioinformatics Data Skills
