@@ -1,16 +1,13 @@
 
 
-[Data Engineering](https://quanthub.com/what-is-data-engineering/) is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information.  Data engineers set up and operate the organization’s [data infrastructure]( https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5 ) preparing it for further analysis by [data analysts and scientists](Data-Science).
+[Data Engineering](https://quanthub.com/what-is-data-engineering/) is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information.  Data engineers set up and operate the organization’s [data infrastructure]( https://en.wikipedia.org/wiki/Data_infrastructure ) preparing it for further analysis by [data analysts and scientists](Data-Science).
 
-There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and [freely available books](https://github.com/andkret/Cookbook), [roadmaps](https://github.com/datastacktv/data-engineer-roadmap) and [courses](https://github.com/chandra1sekar/data-engineering).
+There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and [freely available resources](https://github.com/adilkhash/Data-Engineering-HowTo), [roadmaps](https://github.com/datastacktv/data-engineer-roadmap) and [courses](https://github.com/chandra1sekar/data-engineering).
 
 
+## Data Engineering Cookbook
 
-Here is a basic [overview of GCP data storage features](https://www.youtube.com/watch?v=tc2940Zwvyk).
-
-## Data Engineering Courses
-
-https://google.qwiklabs.com/courses/1530
+https://github.com/andkret/Cookbook
 
 ## Data Analytics 
 
@@ -20,72 +17,56 @@ What's the [difference between Data Analytics vs Data Engineering]( https://www.
 
 ## Database options
 
-One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU).  However, the wealth of options can be confusing to navigate as you look for the right technologies to grow your product.  
+One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU).  [Choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing. We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
 
-Because we have so many available, [choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing.
-We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
-
-Besides the GCP provided database services, there are also a lot of [other databases](Databases) to choose from that may be available elsewhere.
+Besides the GCP database services, there are also a lot of [other databases](Databases).
 
 https://dbdb.io/browse
 
 ## Cloud SQL
 
-[Cloud SQL](https://cloud.google.com/sql) is a fully-managed database service that helps you set up, maintain, manage, and administer your relational databases on Google Cloud Platform.
+[Cloud SQL](https://cloud.google.com/sql) is a fully-managed relational database service on Google Cloud Platform.
 
 You can use [Cloud SQL](https://www.youtube.com/watch?v=OvR2KX8GVtU) with [MySQL](https://cloud.google.com/sql/docs/mysql), [PostgreSQL](https://cloud.google.com/sql/docs/postgres), or [SQL Server](https://cloud.google.com/sql/docs/sqlserver). 
 
 
 ## SQL
 
-[SQL](https://www.w3schools.com/sql/sql_intro.asp) is commonly pronounced “sequel.” Its most popular variants are MySQL, PostgreSQL, and SQLite - a version of [SQL](https://www.tutorialspoint.com/sql/index.htm) which is commonly used for prototyping. It introduced the concept of accessing many records with one single command, using SQL Queries. 
+[SQL](SQL) stands for Structured Query Language. SQL is used to communicate with a database. 
 
-
-### SQL Tutorials
-
-
-
-[https://www.freecodecamp.org/news/best-sql-database-tutorial/](https://www.freecodecamp.org/news/best-sql-database-tutorial/)
 
 
 ## Cloud Bigtable
 
-[Bigtable](Bigtable) is ideal for storing very large amounts of data in a key-value store and supports high read and write throughput at low latency for fast access.
+[Bigtable](Bigtable) is ideal for storing very large amounts of data in a key-value store. Bigtable supports high read and write throughput at low latency.
+
 
 ## Cloud Dataproc
 
-[Dataproc](Dataproc) is a fully managed and highly scalable service for running [Apache Spark](https://spark.apache.org/), [Apache Flink](https://flink.apache.org/), [Presto](https://prestodb.io/), and 30+ [open source tools](https://cloud.google.com/blog/products/data-analytics/new-open-source-tools-in-cloud-dataproc-process-data-at-cloud-scale) and frameworks. 
+[Dataproc](Dataproc) is a fully managed and highly scalable service for running [Apache Hadoop](Hadoop), [Apache Spark](Spark), [Apache Flink](https://flink.apache.org/), [Presto](https://prestodb.io/), and 30+ [open source tools](https://dzone.com/articles/looking-at-all-the-open-source-apache-big-data-pro) and frameworks. 
 
 ## Cloud Pub/Sub
 
-[Pub/Sub](PubSub) works as a messaging middleware for traditional service integration or a simple communication medium for modern microservices.
+[Pub/Sub](PubSub) works as a messaging middleware for traditional service integration or a simple communication medium for modern micro-services.
 
 
 ## BigQuery
 
-[BigQuery](BigQuery) is a serverless, cost-effective and multicloud data warehouse designed to help you turn big data into valuable business insights.
+[BigQuery](BigQuery) is a [server-less](serverless), cost-effective and multi-cloud data warehouse designed to help you turn big data into valuable business insights.
 
 ## Cloud Spanner
 
-[Cloud Spanner](Spanner) optimizes performance by automatically sharding the data based on request load and size of the data. 
-
+[Cloud Spanner](Spanner) is a distributed SQL database management and storage service that is scalable, multi-version, globally-distributed, and synchronously-replicated. 
 
 ## Cloud Data Fusion
 
-
-
-
 [Cloud Data Fusion](Data-Fusion) is a fully managed, cloud-native, enterprise data integration service for quickly building and managing data pipelines. 
-
 
 ### CDAP
 
 [Cloud Data Fusion](Data-Fusion) is powered by the open source project [CDAP](https://cdap.io/).
 
 [https://cloud.google.com/data-fusion/docs](https://cloud.google.com/data-fusion/docs)
-
-
-
 
 ## Dataflow
 
@@ -128,16 +109,9 @@ Demonstration of Data Studio.
 
 [https://cloud.google.com/data-catalog/docs](https://cloud.google.com/data-catalog/docs)
 
-
-
-[https://www.youtube.com/watch?v=eUKqXZDXj78](https://www.youtube.com/watch?v=eUKqXZDXj78)
-
-
 ## Cloud Life Sciences
 
 [Cloud Life Sciences](https://cloud.google.com/life-sciences) is a suite of services and tools for managing, processing, and transforming life sciences data. It also enables advanced insights and operational workflows using highly scalable and compliant infrastructure. 
-
-[https://cloud.google.com/life-sciences/docs](https://cloud.google.com/life-sciences/docs)
 
 
 ## Firestore
@@ -146,7 +120,7 @@ Demonstration of Data Studio.
 
 ## Datastore
 
-[Datastore](Datastore) is a schemaless database, which allows you to worry less about making changes to your underlying data structure as your application evolves.
+[Datastore](Datastore) is a schema-less database, which allows you to worry less about making changes to your underlying data structure as your application evolves.
 
 ## Firestore in datastore mode
 
