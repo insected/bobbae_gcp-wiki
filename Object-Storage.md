@@ -11,24 +11,8 @@ https://cloud.google.com/storage
 
 ### AWS s3
 
+Amazon [S3](S3) or Amazon Simple Storage Service is a service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. 
 
-
-Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services (AWS) that provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its global e-commerce network. 
-
-
-
-#### Minio
-
-[Minio](Minio) is a High Performance Object Storage similar to s3 and GCS.
-
-
-#### b2
-
-https://www.backblaze.com/b2/cloud-storage.html
-
-#### s3 alternatives
-
-https://www.coralnodes.com/amazon-s3-alternatives/
 
 ####  GCP vs AWS Storage  comparisons
 
