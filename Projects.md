@@ -4,6 +4,12 @@
 
 http://record-player.glitch.me/auth
 
+### Battlesnake
+
+https://play.battlesnake.com/
+
+https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-vertex-ai-battlesnake-using-practical-reinforcement-learning-defeat-your-friends
+
 ### Service Account Keys
 
 Get [detailed information](https://medium.com/google-cloud/dear-keys-are-you-still-alive-ad7c73ce63b9) about Google Cloud service account key usage.
