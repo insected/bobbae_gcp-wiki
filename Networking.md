@@ -7,7 +7,7 @@ Data Communication and [Computer Networking]( https://www.guru99.com/data-commun
 
 ## Introduction
 
-Google Cloud Platform includes [software-defined networking](https://developers.google.com/learn/topics/networking), hybrid connectivity, network performance optimization, network security, service mesh deployment, NAT, load balancing, and routing.
+Google Cloud Platform includes [software-defined networking](https://developers.google.com/learn/topics/networking), hybrid connectivity, network performance optimization, [network security](Security), [service mesh](Service-Mesh) deployment, [NAT](Cloud-NAT), [load balancing](Load-Balancer), and [routing](Router).
 
 
 
