@@ -1,7 +1,7 @@
 
 
 
-MinIO is a High Performance Object Storage released under Apache License v2.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.
+MinIO is a High Performance Object Storage released under Apache License v2.0. It is API compatible with Amazon [S3](S3) cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads.
 
 
 https://docs.min.io/docs/minio-quickstart-guide.html
@@ -10,7 +10,7 @@ MinIO is a cloud-native application designed to scale in a sustainable manner in
 
 https://docs.min.io/docs/minio-deployment-quickstart-guide.html
 
-MinIO Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff, find etc. It supports filesystems and Amazon S3 compatible cloud storage service (AWS Signature v2 and v4).
+MinIO Client (mc) provides a modern alternative to UNIX commands like ls, cat, cp, mirror, diff, find etc. It supports filesystems and Amazon [S3](S3) compatible cloud storage service (AWS Signature v2 and v4).
 
 https://docs.min.io/docs/minio-client-quickstart-guide.html
 
@@ -72,7 +72,7 @@ https://www.coralnodes.com/amazon-s3-alternatives/
 
 ## GCS and minio
 
-Minio [GCS](GCS) Gateway allows you acccess GCS with s3-compatible APIs.
+Minio [GCS](GCS) Gateway allows you access GCS with s3-compatible APIs.
 
 https://docs.min.io/docs/minio-gateway-for-gcs.html
 
