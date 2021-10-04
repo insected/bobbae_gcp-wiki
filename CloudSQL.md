@@ -96,3 +96,7 @@ https://cloud.google.com/sql/docs/media
 ### Migrating Postgres 
 
 https://cloud.google.com/blog/topics/developers-practitioners/upgrade-postgres-pglogical-and-database-migration-service
+
+### Creating alerts based on Cloud SQL logs
+
+https://cloud.google.com/blog/products/databases/learn-how-to-create-alerts-based-on-your-database-logs-in-cloud-sql
