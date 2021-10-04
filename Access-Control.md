@@ -26,6 +26,10 @@ Identity Aware Proxy enables you to configure secure controlled access to your a
 
 [https://www.youtube.com/watch?v=XqMY-rPk3MY](https://www.youtube.com/watch?v=XqMY-rPk3MY)
 
+#### Example
+
+https://lunajacob.medium.com/utilizing-gcps-identity-aware-proxy-to-ssh-into-internal-ip-only-vm-s-237bca0123c
+
 ### Device Identity
 
 The Cloud Identity Groups API allows you to create and manage different types of devices within your organization.
