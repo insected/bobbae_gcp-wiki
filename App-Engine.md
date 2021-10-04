@@ -68,10 +68,16 @@ In contrast, the flexible environment runs your application in Docker containers
 
 https://cloud.google.com/appengine/docs/the-appengine-environments
 
-## Running App Engine Apps on GKE
+## App Engine and GKE
+
+### Running App Engine Apps on GKE
 
 
 https://cloud.google.com/appengine/docs/flexible/python/run-flex-app-on-kubernetes
+
+### Moving from App Engine to GKE
+
+https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/
 
 ## Other PaaS
 
