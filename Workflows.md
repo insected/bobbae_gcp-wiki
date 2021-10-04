@@ -123,6 +123,9 @@ https://the-turing-way.netlify.app/reproducible-research/make.html
 
 https://github.com/kyclark/make-tutorial
 
+### Snakemake
+
+https://github.com/snakemake/snakemake
 
 ## Examples
 
