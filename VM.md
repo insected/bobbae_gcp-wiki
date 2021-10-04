@@ -28,6 +28,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/vms-and-their-rele
 
 ## Examples
 
+### Running Apache server on GCE VM
+
+https://cloud.google.com/compute/docs/tutorials/basic-webserver-apache
+
 ### Running Discord bot on GCE VM
 
 https://cloud.google.com/blog/topics/developers-practitioners/build-and-run-discord-bot-top-google-cloud
