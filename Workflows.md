@@ -25,7 +25,7 @@ In Choreography, each service registers for and emits events as they need. There
 
 ## Connectors
 
-Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow.  Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a [Firestore](Firestore) database, or retrieve authentication keys from Secret Manager.
+Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow.  Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a [Firestore](Firestore) database, or retrieve authentication keys from [Secret Manager](Secret-Manager).
 
 ### Connectors Samples 
 
