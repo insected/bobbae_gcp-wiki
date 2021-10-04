@@ -28,6 +28,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/vms-and-their-rele
 
 ## Examples
 
+https://cloud.google.com/compute/docs/tutorials
+
 ### Running Apache server on GCE VM
 
 https://cloud.google.com/compute/docs/tutorials/basic-webserver-apache
