@@ -90,6 +90,13 @@ https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orc
 
 https://github.com/PrefectHQ/prefect
 
+
+### Snakemake
+
+https://github.com/snakemake/snakemake
+
+
+
 ### Bioinformatics workflow tools
 
 https://github.com/danielecook/Awesome-Bioinformatics#workflow-managers
@@ -99,33 +106,32 @@ https://github.com/danielecook/Awesome-Bioinformatics#workflow-managers
 ### Pipelines
 
 
-https://github.com/danielecook/Awesome-Bioinformatics#pipelines
+https://github.com/pditommaso/awesome-pipeline
+
+
 
 ### Using Makefile for workflows
 
 https://blog.sellorm.com/2018/06/02/first-steps-with-data-pipelines/
 
-### Make map reduce pipeline
+#### Make map reduce pipeline
 
 https://www.benevolent.com/engineering-blog/make-reduce-how-to-use-makefiles-to-run-a-simple-map-reduce-data-pipeline
 
-### Parallel
+
+#### Reproducibility with Make
+
+https://the-turing-way.netlify.app/reproducible-research/make.html
+
+#### Make tutorial
+
+https://github.com/kyclark/make-tutorial
+
+#### Parallel
 
 
 https://www.gnu.org/software/parallel/
 
-
-### Reproducibility with Make
-
-https://the-turing-way.netlify.app/reproducible-research/make.html
-
-### Make tutorial
-
-https://github.com/kyclark/make-tutorial
-
-### Snakemake
-
-https://github.com/snakemake/snakemake
 
 ## Examples
 
