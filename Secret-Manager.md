@@ -20,3 +20,7 @@ https://cloud.google.com/secret-manager/docs/creating-and-accessing-secrets
 ## Best Practices
 
 https://cloud.google.com/secret-manager/docs/best-practices
+
+## Berglas
+
+https://github.com/GoogleCloudPlatform/berglas
