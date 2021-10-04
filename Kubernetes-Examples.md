@@ -8,6 +8,9 @@ A video to show you how you can build small containers to make your Kubernetes d
 
 [https://www.youtube.com/watch?v=wGz_cbtCiEA](https://www.youtube.com/watch?v=wGz_cbtCiEA)
 
+### Typhoon
+
+https://github.com/poseidon/typhoon
 
 ### Organizing with Kubernetes namespaces
 
@@ -34,3 +37,4 @@ This video shows how to work with Namespaces and how they can help you manage yo
 ### Health check
 
 [https://www.youtube.com/watch?v=mxEvAPQRwhw](https://www.youtube.com/watch?v=mxEvAPQRwhw)
+
