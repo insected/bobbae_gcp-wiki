@@ -12,6 +12,9 @@ This video walks you through how to create a Google Cloud Pub/Sub topic. Pub/Sub
 
 https://cloud.google.com/pubsub/lite/docs
 
+#### Reservations
+
+https://cloud.google.com/blog/products/data-analytics/easier-and-cheaper-with-pubsub-lite-reservations
 
 ### Choosing PubSub or PubSub lite
 
