@@ -244,6 +244,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/reduce-latency-wit
 
 https://cloud.google.com/blog/products/databases/migrating-to-cloud-spanner-from-dynamodb-via-harbourbridge
 
+### UBER
+
+https://eng.uber.com/building-ubers-fulfillment-platform/
 
 ## Qwiklabs
 
