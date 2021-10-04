@@ -532,7 +532,7 @@ https://cloud.google.com/bigquery/docs/looker
 
 [BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
 
-
+https://mentin.medium.com/bigquery-geospatial-query-tricks-8ebb4453ab5e
 
 ## BigQuery Omni
 
