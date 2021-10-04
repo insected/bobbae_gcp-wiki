@@ -24,3 +24,9 @@ https://cloud.google.com/secret-manager/docs/best-practices
 ## Berglas
 
 https://github.com/GoogleCloudPlatform/berglas
+
+## Examples
+
+### Passing secretes to terraform from Secret Manager
+
+https://xbery.medium.com/how-to-pass-secrets-to-terraform-from-google-cloud-build-c648c76e2b9a
