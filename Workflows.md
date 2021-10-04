@@ -35,6 +35,10 @@ https://github.com/GoogleCloudPlatform/workflows-samples/tree/main/src/connector
 
 https://github.com/GoogleCloudPlatform/workflows-demos/tree/master/connector-compute
 
+### Callbacks
+
+https://cloud.google.com/blog/topics/developers-practitioners/introducing-workflows-callbacks
+
 ## Other tools related to workflows
 
 ### Google Cloud Composer
