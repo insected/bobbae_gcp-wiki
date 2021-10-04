@@ -79,6 +79,10 @@ To understand the performance characteristics after a query executes, take a loo
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing
 
+## Testable SQL
+
+https://tufin.medium.com/testable-bigquery-sql-61a911e35ab5
+
 ## Managed
 
 With BigQuery, there's no infrastructure to set up or manage, letting you [focus on finding insights](https://cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/) using standard SQL and taking advantage of flexible pricing models across on-demand and flat-rate options.
