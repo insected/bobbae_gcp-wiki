@@ -225,7 +225,7 @@ https://www.inference.vc/causal-inference-3-counterfactuals/
 
 https://www.youtube.com/watch?v=78EmmdfOcI8
 
-##  Causal Inference
+###  Causal Inference
 
 Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. 
 
