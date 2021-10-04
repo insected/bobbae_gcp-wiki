@@ -630,6 +630,9 @@ https://towardsdatascience.com/the-fastest-way-to-fetch-bigquery-tables-352e2e26
 
 https://medium.com/teads-engineering/managing-a-bigquery-data-warehouse-at-scale-e6ec9a8406b2
 
+### Mathematical functions and numbers
+
+https://medium.com/geekculture/mathematical-functions-you-should-know-in-bigquery-ee674109be6d
 
 ## Qwiklabs
 
