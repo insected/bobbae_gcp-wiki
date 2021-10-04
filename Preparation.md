@@ -8,13 +8,7 @@ You can use [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.  
 
 #### Register at the Partner Advantage site
 
-If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin?language=en_US) to get some Qwiklabs credits. You may sign up as a new partner using your email address. You will receive a confirmation email after that. Often the confirmation email goes into the SPAM folder.  You may need to look for the email confirmation from Partner Advantage in your SPAM folder.
-
-You may also [fill out a form](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) for Google training resources.
-
-[Here is another place](  https://inthecloud.withgoogle.com/training-discount/register.html ) to sign up for Qwiklabs credit if the above links do not work.
-
-Also try: https://edu.google.com/programs/credits/training/?modal_active=none
+If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin) to [get some Qwiklabs credits](https://edu.google.com/programs/credits/training). You may [sign up](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) as a new partner or [apply for training discount](https://inthecloud.withgoogle.com/training-discount/register.html) using your email address. 
 
 ### Using GCP Account
 
