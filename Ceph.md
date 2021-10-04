@@ -4,7 +4,7 @@ https://ceph.io/en/discover/technology/
 
 #### Ceph Object storage
 
-The Ceph RGW object storage service provides  S3 API compatibility with a robust set of security, tiering, and interoperability features. 
+The Ceph RGW object storage service provides  [S3](S3) API compatibility with a robust set of security, tiering, and interoperability features. 
 
 
 https://docs.ceph.com/en/latest/architecture/#ceph-object-storage
