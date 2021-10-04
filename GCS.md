@@ -139,6 +139,16 @@ https://cloud.google.com/storage/docs/object-holds
 
 https://cloud.google.com/storage/docs/cross-origin
 
+## s3
+
+### Minio
+
+[Minio](Minio) is [s3](https://aws.amazon.com/s3/) compatible object storage.
+
+### Zenko
+
+https://www.zenko.io/
+
 ## Use cases
 
 ### Hosting a static website
