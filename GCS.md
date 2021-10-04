@@ -143,11 +143,9 @@ https://cloud.google.com/storage/docs/cross-origin
 
 ### Minio
 
-[Minio](Minio) is [s3](https://aws.amazon.com/s3/) compatible object storage.
+[Minio](Minio) is [s3](S3) compatible object storage.
 
-### Zenko
 
-https://www.zenko.io/
 
 ## Use cases
 
