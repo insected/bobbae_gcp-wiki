@@ -66,7 +66,7 @@ http://dist-prog-book.com/chapter/7/langs-consistency.html
 
 ### Amazon SimpleDB
 
-Amazon SimpleDB is a distributed database written in Erlang by Amazon.com. It is used as a web service in concert with Amazon Elastic Compute Cloud (EC2) and Amazon S3 and is part of Amazon Web Services. 
+Amazon SimpleDB is a distributed database written in Erlang by Amazon.com. It is used as a web service in concert with Amazon Elastic Compute Cloud (EC2) and Amazon [S3](S3) and is part of Amazon Web Services. 
 
 https://aws.amazon.com/simpledb/
 
