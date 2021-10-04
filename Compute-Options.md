@@ -69,6 +69,10 @@ https://cloud.google.com/run/docs/quickstarts
 
 [https://www.youtube.com/watch?v=l3_uE4gdAWc](https://www.youtube.com/watch?v=l3_uE4gdAWc)
 
+#### A2
+
+https://cloud.google.com/blog/products/compute/a2-vms-with-nvidia-a100-gpus-are-ga
+
 ### Cloud TPUs
 
 https://cloud.google.com/tpu/docs/tpus
