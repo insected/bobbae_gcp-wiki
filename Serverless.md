@@ -52,6 +52,14 @@ Cloud Machine Learning Engine Prediction Service can serve TensorFlow models and
 
 [https://www.youtube.com/watch?v=_JCMN8-yhBM](https://www.youtube.com/watch?v=_JCMN8-yhBM)
 
+### Modernizing serverless apps
+
+https://cloud.google.com/blog/topics/developers-practitioners/modernizing-your-serverless-applications
+
+### App Engine Updates
+
+https://cloud.google.com/blog/products/serverless/support-for-app-engine-services-in-second-generation-runtimes
+
 ### GitHub actions 
 
 https://cloud.google.com/blog/topics/developers-practitioners/deploying-serverless-platforms-github-actions
