@@ -56,7 +56,7 @@ Istio provides behavioral insights and operational control over the service mesh
 https://cloud.google.com/service-mesh/docs/overview
 
 
-
+https://blog.searce.com/anthos-blog-series-part-1-anthos-service-mesh-a258ba621732
 
 ## Envoy
 
