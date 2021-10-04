@@ -10,6 +10,11 @@ https://cloud.google.com/dns/docs/dns-overview
 
 [Cloud DNS](https://cloud.google.com/dns) allows you to publish your domain names by using Google's infrastructure for production-quality, high-volume [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)    services. Google's global network of [Anycast](https://en.wikipedia.org/wiki/Anycast) name servers provides reliable, low-latency, authoritative name lookups for your domains from anywhere in the world.
 
+### Cloud DNS Routing policies
+
+https://cloud.google.com/blog/products/networking/dns-routing-policies-for-geo-location--weighted-round-robin
+
+
 ## Kubernetes DNS Server
 
 
