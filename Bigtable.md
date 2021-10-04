@@ -17,6 +17,8 @@ https://www.guru99.com/hbase-tutorials.html
 
 https://medium.com/box-tech-blog/zero-downtime-migration-from-hbase-to-bigtable-4f00f835755f
 
+https://cloud.google.com/blog/products/databases/create-bigtable-tables-from-existing-apache-hbase-tables
+
 ## Bigtable code samples
 
 https://cloud.google.com/bigtable/docs/samples
