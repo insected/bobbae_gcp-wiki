@@ -44,3 +44,10 @@ It can both down-scale pods that are over-requesting resources, and also up-scal
 [Multidimensional Pod autoscaling]( https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling   ) (MPA) frees you from choosing a single way to scale your clusters. With multidimensional Pod autoscaling, you can use horizontal scaling based on CPU and vertical scaling based on memory at the same time.
 
 
+## Cloud Bursting
+
+https://jonachin.medium.com/cloud-bursting-from-on-premise-kubernetes-clusters-to-google-cloud-compute-engine-539d2756e57d
+
+### Virtual kubelet
+
+https://virtual-kubelet.io/
