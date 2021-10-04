@@ -48,6 +48,9 @@ Learn how you can manage your Anthos deployments at scale, using Anthos Config M
 
 [https://www.youtube.com/watch?v=nhXJzjITgMA](https://www.youtube.com/watch?v=nhXJzjITgMA)
 
+### Anthos on GKE via Terraform
+
+https://cloud.google.com/blog/topics/anthos/using-terraform-to-enable-config-sync-on-a-gke-cluster
 
 ## Cloud Run for Anthos
 
