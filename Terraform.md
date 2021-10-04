@@ -316,6 +316,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/provisioning-cloud
 
 https://medium.com/geekculture/setup-gcp-cloud-functions-triggering-by-cloud-schedulers-with-terraform-1433fbf1abbe
 
+### Typhoon
+
+https://github.com/poseidon/typhoon
+
 ## Qwiklabs
 
 https://github.com/daveyb/gcp-qwiklab
