@@ -8,6 +8,10 @@ There are [awesome](https://github.com/academic/awesome-datascience) and [freely
 
 https://towardsdatascience.com/is-data-science-really-a-science-9c2249ee2ce4
 
+### Data Science Driven Organization
+
+A [data science driven organization](https://cloud.google.com/blog/products/ai-machine-learning/building-the-data-science-driven-organization) is an entity that maximizes the value from the data available while using machine learning and analytics to create a sustainable competitive advantage.
+
 ## Data Engineering
 
 [Data engineers](Data-Engineering) build and maintain the systems that allow data scientists to access and interpret data. The role generally involves creating data models, building data pipelines and overseeing ETL (extract, transform, load).  
