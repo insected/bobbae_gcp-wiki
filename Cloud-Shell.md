@@ -5,6 +5,12 @@ Google [Cloud Shell](https://cloud.google.com/shell/docs) is an [interactive she
 
 https://linuxcommand.org/
 
-## Run Code samples directly in Cloud Shell
+## Tutorials
+
+### Getting started with Cloud Shell
+
+https://rominirani.com/google-cloud-shell-resources-to-get-started-ed02a78a5579
+
+### Run Code samples directly in Cloud Shell
 
 https://cloud.google.com/blog/topics/developers-practitioners/run-code-samples-directly-google-cloud-documentation
