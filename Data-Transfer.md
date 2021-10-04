@@ -1,6 +1,6 @@
 ## Transfer Service
 
-Transfer data from online sources like AWS S3 and Azure Blob Storage to [Cloud Storage](GCS).
+Transfer data from online sources like AWS [S3](S3) and Azure Blob Storage to [Cloud Storage](GCS).
 
 https://cloud.google.com/storage-transfer-service
 
