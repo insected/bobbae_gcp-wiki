@@ -231,12 +231,20 @@ Causal inference is the process of determining the independent, actual effect of
 
 https://wikipedia.org/wiki/Causal_inference
 
+## Examples
 
 ### The Brexit vote: A case study in causal inference using machine learning
 
 
 https://cloud.google.com/blog/topics/developers-practitioners/brexit-vote-case-study-causal-inference-using-machine-learning
 
+### Fishing activities
+
+https://cloud.google.com/blog/topics/developers-practitioners/people-and-planet-ai-how-build-time-series-model-classify-fishing-activities-sea
+
+### Battlesnake
+
+https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-vertex-ai-battlesnake-using-practical-reinforcement-learning-defeat-your-friends
 
 ## Qwiklabs
 
