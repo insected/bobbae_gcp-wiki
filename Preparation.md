@@ -50,7 +50,7 @@ know that you have the [necessary amount of GCP knowledge](https://www.examtopic
 
 External [list](https://www.guru99.com/best-google-course.html) and [resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb) can be used along with this document. 
 
-There seem to be a lot of Google sourced training materials at [Coursera](https://www.coursera.org/).
+There seem to be [a lot](https://github.com/GoogleCloudPlatform/awesome-google-cloud) of Google sourced training materials at [Coursera](https://www.coursera.org/).
 The [LinuxAcademy has been integrated into A Cloud Guru](https://acloudguru.com/) and many people like their increasing GCP content. [PluralSight](https://www.pluralsight.com/search?q=Gcp) recently acquired [A Cloud Guru](https://acloudguru.com/).
 Another resource is [Cloud Academy](https://cloudacademy.com/) which has their own GCP related materials.
 
