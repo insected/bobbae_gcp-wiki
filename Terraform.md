@@ -320,6 +320,11 @@ https://medium.com/geekculture/setup-gcp-cloud-functions-triggering-by-cloud-sch
 
 https://github.com/poseidon/typhoon
 
+
+### GKE cluster with LB, NAT and Bastion host
+
+https://orlando-thoeny.medium.com/create-a-private-gcp-kubernetes-cluster-using-terraform-1a830dd802a8
+
 ## Qwiklabs
 
 https://github.com/daveyb/gcp-qwiklab
