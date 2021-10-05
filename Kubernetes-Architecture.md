@@ -384,6 +384,18 @@ https://github.com/operator-framework/operator-sdk
 ) (KUDO) provides a declarative approach to building production-grade Kubernetes operators. 
 
 
+### Operator Hub
+
+OperatorHub.io is a home for the Kubernetes community to share Operators.
+
+[https://operatorhub.io/](https://operatorhub.io/)
+
+
+
+### Operator Sprawl
+
+[https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
+
 
 ## Certificates
 
@@ -395,11 +407,7 @@ https://cert-manager.io/docs/installation/kubernetes/
 
 https://krew.sigs.k8s.io/docs/user-guide/setup/install/
 
-## Operator Hub
 
-OperatorHub.io is a home for the Kubernetes community to share Operators.
-
-[https://operatorhub.io/](https://operatorhub.io/)
 
 ## Garbage Collection
 
@@ -426,10 +434,11 @@ JSONPath template is composed of JSONPath expressions enclosed by curly braces {
 
 https://kubernetes.io/docs/reference/kubectl/jsonpath/
 
+## Bootstrapping a Kubernetes cluster using kubeadm
 
-## Operator Sprawl
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/
 
-[https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
+
 
 ## Awesome links for Kubernetes
 
