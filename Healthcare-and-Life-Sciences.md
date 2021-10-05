@@ -55,6 +55,10 @@ Digital Imaging and Communications in Medicine (DICOM) is an international stand
 
 https://cloud.google.com/healthcare/docs/concepts/dicom
 
+### Google Cloud Healthcare Data Protection Suite
+
+https://github.com/GoogleCloudPlatform/healthcare-data-protection-suite
+
 ## Life Sciences
 
 ### Cloud Life Sciences
