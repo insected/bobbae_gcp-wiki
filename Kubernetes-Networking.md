@@ -143,6 +143,9 @@ Calico now has built in support for VXLAN, which we generally recommend for simp
 
 [Cilium](Cilium) is open source software for providing and transparently securing network connectivity between application containers. 
 
+#### Installing Cilium via kubeadm
+
+https://docs.cilium.io/en/v1.9/gettingstarted/k8s-install-kubeadm/
 
 ### Contiv
 
