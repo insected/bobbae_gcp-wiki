@@ -311,6 +311,9 @@ https://sanket-wadekar3.medium.com/create-gcp-vm-instance-using-terraform-d14d38
 
 ### Terraform examples for GKE
 
+https://github.com/GoogleCloudPlatform/gke-private-cluster-demo
+
+
 https://devopsarena.medium.com/provision-gke-cluster-with-terraform-28bf2973c3d4
 
 https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
