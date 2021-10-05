@@ -4,9 +4,6 @@
 
 [Google Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) supports Terraform as well as Google Cloud Deployment manager.
 
-### Terraform Cloud Foundation Fabric Examples
-
-https://github.com/terraform-google-modules/cloud-foundation-fabric
 
 ## Infrastructure as Code
 
@@ -156,16 +153,6 @@ Are there any resources that can only be removed when project is removed?  (Hint
 
 https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-gcp-projects-with-terraform
 
-### Terraform Google modules Examples
-
-[https://github.com/terraform-google-modules/docs-examples](https://github.com/terraform-google-modules/docs-examples)
-
-
-
-### Terraform examples for GKE
-
-https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
-
 
 ### Terraform, GKE, and network policy add-on
 
@@ -307,6 +294,27 @@ https://registry.terraform.io/modules/cloudboss/terrible/cloudinit/latest
 
 ## Examples
 
+### Terraform Cloud Foundation Fabric Examples
+
+https://vaishnavi-amirapu-83592.medium.com/terraform-cft-for-gcp-664fa3c68ae3
+
+https://github.com/terraform-google-modules/cloud-foundation-fabric
+
+
+### Terraform Google modules Examples
+
+[https://github.com/terraform-google-modules/docs-examples](https://github.com/terraform-google-modules/docs-examples)
+
+### Create GCP VM instance
+
+https://sanket-wadekar3.medium.com/create-gcp-vm-instance-using-terraform-d14d3887445b
+
+### Terraform examples for GKE
+
+https://devopsarena.medium.com/provision-gke-cluster-with-terraform-28bf2973c3d4
+
+https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
+
 
 ### Provisioning Spanner with Terraform
 
@@ -316,16 +324,23 @@ https://cloud.google.com/blog/topics/developers-practitioners/provisioning-cloud
 
 https://medium.com/geekculture/setup-gcp-cloud-functions-triggering-by-cloud-schedulers-with-terraform-1433fbf1abbe
 
-### Typhoon
+### CI/CD Pipeline with Cloud Build and Composer
 
-https://github.com/poseidon/typhoon
+https://medium.com/marcelo-marques/ci-cd-pipeline-with-cloud-build-and-composer-with-terraform-379a05a4ca09
+
 
 
 ### GKE cluster with LB, NAT and Bastion host
 
 https://orlando-thoeny.medium.com/create-a-private-gcp-kubernetes-cluster-using-terraform-1a830dd802a8
 
+### Automating Terraform with GitHub Actions
 
+https://blog.searce.com/automating-terraform-with-github-actions-5b3aac5abea7
+
+### Typhoon
+
+https://github.com/poseidon/typhoon
 
 ## Qwiklabs
 
