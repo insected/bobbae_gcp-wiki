@@ -397,9 +397,9 @@ OperatorHub.io is a home for the Kubernetes community to share Operators.
 [https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/](https://thenewstack.io/the-runaway-problem-of-kubernetes-operators-and-dependency-lifecycles/)
 
 
-## Certificates
+## Certificates Manager
 
-https://cert-manager.io/docs/installation/kubernetes/
+https://cert-manager.io/
 
 ## Krew
 
