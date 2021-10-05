@@ -222,6 +222,10 @@ https://spacelift.io/
 
 https://github.com/GoogleCloudPlatform/terraform-validator
 
+#### Terraform Validator tutorial
+
+https://github.com/GoogleCloudPlatform/terraform-validator/blob/main/docs/tutorial.md
+
 ### Terraform module generator
 
 Scaffolding / Boilerplate generator for new Terraform module projects
