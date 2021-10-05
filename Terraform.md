@@ -325,9 +325,10 @@ https://github.com/poseidon/typhoon
 
 https://orlando-thoeny.medium.com/create-a-private-gcp-kubernetes-cluster-using-terraform-1a830dd802a8
 
+
+
 ## Qwiklabs
 
-https://github.com/daveyb/gcp-qwiklab
 
 
 [Automating Infrastructure on Google Cloud with Terraform](https://www.qwiklabs.com/quests/159)
