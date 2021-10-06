@@ -2,9 +2,9 @@
 
 The [Kubernetes networking model](https://kubernetes.io/docs/concepts/cluster-administration/networking/) supports different types of open source implementations. [Kubernetes provides an IP address to each pod](https://www.youtube.com/watch?v=WwQ62OyCNz4) so that there is no need to map host ports to container ports as in the Docker networking model. In [Kubernetes Networking Model](https://kubernetes.io/docs/concepts/cluster-administration/networking/#kubernetes-model) Pods behave much like VMs or physical hosts with respect to port allocation, naming, [load balancing]( Load-balancer  ) and application configuration. 
 
-Every [Pod](https://kubernetes.io/docs/concepts/workloads/pods/) gets its own IP address. This means you do not need to explicitly create links between Pods and you almost never need to deal with mapping container ports to host ports. This creates a clean, backwards-compatible model where Pods can be treated much like VMs or physical hosts from the perspectives of port allocation, naming, service discovery, load balancing, application configuration, and migration.
+Every [Pod](https://kubernetes.io/docs/concepts/workloads/pods/) gets its own IP address. This means you do not need to explicitly create links between Pods and you almost never need to deal with mapping container ports to host ports. This creates a clean, backwards-compatible model where Pods can be treated much like [VMs](VM) or physical hosts from the perspectives of port allocation, naming, service discovery, load balancing, application configuration, and migration.
 
-Pods on a node can communicate with all pods on all nodes without NAT.
+Pods on a node can communicate with all pods on all nodes without [NAT](NAT).
 
 Agents on a node (e.g. system daemons, [kubelet](https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/)) can communicate with all pods on that node.
 
@@ -12,7 +12,7 @@ Pods in the host network of a node can communicate with all pods on all nodes wi
 
 This model is not only less complex overall, but it is principally compatible with the desire for Kubernetes to enable low-friction porting of apps from VMs to containers. If your job previously ran in a VM, your VM had an IP and could talk to other VMs in your project. This is the same basic model.
 
-Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their [network namespaces](https://www.youtube.com/watch?v=j_UUnlVC2Ss) - including their IP address and MAC address. 
+Kubernetes IP addresses exist at the Pod scope - containers within a Pod share their [network namespaces](https://www.packetcoders.io/how-to-view-the-network-namespaces-in-kubernetes/) - including their IP address and MAC address. 
 
 This means that containers within a Pod can all reach each other's ports on localhost. 
 
@@ -71,7 +71,8 @@ They're different ways [services of different types can be exposed](ClusterIP,-I
 
 You can use a pod IP address as an endpoint but there is no guarantee that the address won’t change the next time the pod is recreated, which might happen for any number of reasons.
 
-The kubernetes designers [solved this problem](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82) in a way that builds on the basic capabilities of the platform to deliver on all three of those requirements, and it starts with a resource type called a service.
+The kubernetes designers [solved this problem](https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82) in a way that builds on the basic capabilities of the platform to deliver on all three of those requirements, and it starts with a resource type called a [service]( https://kubernetes.io/docs/concepts/services-networking/service/  
+) .
 
 
 
@@ -79,13 +80,13 @@ The kubernetes designers [solved this problem](https://medium.com/google-cloud/u
 
 ## Policies
 
-If you want to control traffic flow at the IP address or port level (OSI layer 3 or 4), then you might consider using Kubernetes NetworkPolicies for particular applications in your cluster. NetworkPolicies are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities" (we use the word "entity" here to avoid overloading the more common terms such as "endpoints" and "services", which have specific Kubernetes connotations) over the network.
+If you want to control traffic flow at the IP address or port level (OSI layer 3 or 4), then you might consider using Kubernetes [NetworkPolicies](  https://kubernetes.io/docs/concepts/services-networking/network-policies/ ) for particular applications in your cluster. [NetworkPolicies]( https://kubernetes.io/docs/concepts/services-networking/network-policies/  ) are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities" (we use the word "entity" here to avoid overloading the more common terms such as "endpoints" and "services", which have specific Kubernetes connotations) over the network.
 
 https://kubernetes.io/docs/concepts/services-networking/network-policies/
 
 ## Kubernetes Services Networking
 
-In Kubernetes, a [Service is an abstraction](https://www.youtube.com/watch?v=T4Z7visMM4E) which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a [Service](   https://kubernetes.io/docs/concepts/services-networking/service/ ) is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
+In Kubernetes, a [Service is an abstraction](https://kubernetes.io/docs/concepts/services-networking/service/) which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a [Service](   https://kubernetes.io/docs/concepts/services-networking/service/ ) is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
 
 https://kubernetes.io/docs/concepts/services-networking/service/
 
