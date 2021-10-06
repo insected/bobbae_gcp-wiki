@@ -8,9 +8,7 @@ https://support.google.com/a/?hl=en#topic=4388346
 
 ### Introduction
 
-All Google Workspace plans provide a custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides, Forms, Sites, and more. 
-
-[https://workspace.google.com/](https://workspace.google.com/)
+All [Google Workspace](https://workspace.google.com/) plans provide a custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides, Forms, Sites, and more. 
 
 https://www.coursera.org/specializations/g-suite-administration
 
