@@ -6,3 +6,11 @@ Kubernetes does not offer an implementation of network load-balancers (Services 
 Bare metal cluster operators are left with two lesser tools to bring user traffic into their clusters, “NodePort” and “externalIPs” services. Both of these options have significant downsides for production use, which makes bare metal clusters second class citizens in the Kubernetes ecosystem.
 
 [MetalLB](https://metallb.universe.tf/) aims to redress this imbalance by offering a Network LB implementation that integrates with standard network equipment, so that external services on bare metal clusters also “just work” as much as possible.
+
+
+### Kube-vip
+
+https://github.com/kube-vip/kube-vip
+
+
+[Kube-Vip](kube-vip.io) was originally created to provide a HA solution for the Kubernetes control plane, over time it has evolved to incorporate that same functionality into Kubernetes service type load-balancers.
