@@ -36,7 +36,7 @@ The [Docker networking model](https://docs.docker.com/network/) relies, by defau
 
 The [Kubernetes networking model](https://kubernetes.io/docs/concepts/cluster-administration/networking/), on the other hand, natively supports multi-host networking in which pods are able to communicate with each other by default, regardless of which host they live in. Kubernetes does not provide an implementation of this model by default, rather it relies on third-party tools that comply with the following requirements: all containers are able to communicate with each other without NAT; nodes are able to communicate with containers without NAT; and a container’s IP address is the same from inside and outside the container.
 
-Kubernetes follows an “IP-per-pod” model where each pod get assigned an IP address and all containers in a single pod share the same network namespaces and IP address. Containers in the same pod can therefore reach each other’s ports via localhost:<port>. However, it is not recommended to communicate directly with a pod via its IP address due to pod’s volatility (a pod can be killed and replaced at any moment). Instead, use a Kubernetes service which represents a group of pods acting as a single entity to the outside. Services get allocated their own IP address in the cluster and provide a reliable entry point.
+Kubernetes follows an “IP-per-pod” model where each pod get assigned an IP address and all containers in a single pod share the same network namespaces and IP address. Containers in the same pod can therefore reach each other’s ports via localhost:<port>. However, it is not recommended to communicate directly with a pod via its IP address due to pod’s volatility (a pod can be killed and replaced at any moment). Instead, use a Kubernetes [service]( https://kubernetes.io/docs/concepts/services-networking/service/ ) which represents a group of pods acting as a single entity to the outside. [Services]( https://kubernetes.io/docs/concepts/services-networking/service/   ) get allocated their own IP address in the cluster and provide a reliable entry point.
 
 
 ## Kubernetes Networking Details
@@ -46,6 +46,8 @@ Kubernetes follows an “IP-per-pod” model where each pod get assigned an IP a
 https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727
 
 ### Services
+
+https://kubernetes.io/docs/concepts/services-networking/service/
 
 https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
 
@@ -83,7 +85,7 @@ https://kubernetes.io/docs/concepts/services-networking/network-policies/
 
 ## Kubernetes Services Networking
 
-In Kubernetes, a [Service is an abstraction](https://www.youtube.com/watch?v=T4Z7visMM4E) which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a Service is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
+In Kubernetes, a [Service is an abstraction](https://www.youtube.com/watch?v=T4Z7visMM4E) which defines a logical set of Pods and a policy by which to access them (sometimes this pattern is called a micro-service). The set of Pods targeted by a [Service](   https://kubernetes.io/docs/concepts/services-networking/service/ ) is usually determined by a selector. For example, consider a stateless image-processing backend which is running with 3 replicas. Those replicas are fungible—frontends do not care which backend they use. While the actual Pods that compose the backend set may change, the frontend clients should not need to be aware of that, nor should they need to keep track of the set of backends themselves.
 
 https://kubernetes.io/docs/concepts/services-networking/service/
 
