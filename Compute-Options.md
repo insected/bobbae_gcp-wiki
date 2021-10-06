@@ -1,9 +1,5 @@
 
 
-
-
-Every Cloud based application has needs specific to its environment, and Google Cloud offers a diverse set of options to run your code on. What option is right for you? 
-
 [https://www.youtube.com/watch?v=2tLXKCgqwLY](https://www.youtube.com/watch?v=2tLXKCgqwLY)
 
 Tables comparing different hosting options.
@@ -16,7 +12,7 @@ Decision tree for compute options.
 
 ### PaaS / IaaS
 
-[PaaS](PaaS) refers to cloud-based platform services that provide developers with a framework to build custom applications. Therefore, PaaS isn’t delivering software over the internet but provides a platform that’s accessible to different developers to create software that’s delivered over the internet.
+[PaaS](PaaS) refers to cloud-based platform services that provide developers with a framework to build custom applications. PaaS isn’t delivering software over the internet but provides a platform that’s accessible to different developers to create software that’s delivered over the internet.
 
 [IaaS](https://cloud.google.com/learn/what-is-iaas) cloud-based infrastructure resources are delivered to organizations with virtualization technology that helps them build and manage their servers, network, data storage and operating systems. IaaS customers can control their own data infrastructure without having to physically manage it on-site.
 
@@ -27,7 +23,7 @@ The Google [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine), which is
 
 ### Cloud Functions
 
-[Cloud Functions](https://cloud.google.com/functions) allows users to write function code and let Google Cloud handle the operational infrastructure. Develop faster by writing and running small code snippets that respond to events. Connect to Google Cloud or third-party cloud services via triggers to streamline challenging orchestration problems.
+[Cloud Functions](https://cloud.google.com/functions) allows users to write function code and let Google Cloud handle the operational infrastructure. 
 
 [https://cloud.google.com/functions](https://cloud.google.com/functions)
 
@@ -104,7 +100,7 @@ A [preemptible](https://cloud.google.com/compute/docs/instances/preemptible) [VM
 
 ### Bare Metal Solution
 
-Enterprises want to embrace the pace of innovation and an operational business model of the modern-day cloud, but they don’t want to disrupt their existing IT landscape or upgrade all their legacy applications. This presents a conundrum, as most legacy applications were not designed to run in the cloud, and migrating them can be challenging, risky, and cost-prohibitive.  [Bare Metal Solution](https://cloud.google.com/bare-metal/docs) addresses these challenges by providing all the infrastructure you need to run your specialized workload such as Oracle Database close to Google Cloud. 
+[Bare Metal Solution](https://cloud.google.com/bare-metal/docs)  provide the infrastructure you need to run your specialized workload such as Oracle Database close to Google Cloud. 
 
 [https://www.youtube.com/watch?v=EVWrwCUQlL8](https://www.youtube.com/watch?v=EVWrwCUQlL8)
 
@@ -112,8 +108,7 @@ Enterprises want to embrace the pace of innovation and an operational business m
 
 #### Configuring Google Access for On-Premise
 
-[Private Google Access for on-premises hosts](https://cloud.google.com/vpc/docs/configure-private-google-access-hybrid) provides a way for on-premises systems to connect to [Google APIs and services](https://developers.google.com/apis-explorer/) by routing traffic through a [Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) tunnel or a [Cloud Interconnect](https://cloud.google.com/network-connectivity/docs/interconnect) attachment (VLAN). Private Google Access for on-premises hosts is an alternative to connecting to Google APIs and services over the internet.
-
+[Private Google Access for on-premises hosts](https://cloud.google.com/vpc/docs/configure-private-google-access-hybrid) provides a way for on-premises systems to connect to [Google APIs and services](https://developers.google.com/apis-explorer/) by routing traffic through a [Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) tunnel or a [Cloud Interconnect](https://cloud.google.com/network-connectivity/docs/interconnect) attachment (VLAN). 
 
 
 [https://www.youtube.com/watch?v=QUb86NiMZ8k](https://www.youtube.com/watch?v=QUb86NiMZ8k)
@@ -122,4 +117,12 @@ Enterprises want to embrace the pace of innovation and an operational business m
 ## Qwiklabs
 
 
-[Google Assistant: Build an Application with Dialogflow and Cloud Functions](https://www.qwiklabs.com/focuses/3634?catalog_rank=%7B%22rank%22%3A19%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7510653)
+https://www.qwiklabs.com/focuses/3563?parent=catalog
+
+
+https://www.qwiklabs.com/quests/26
+https://www.qwiklabs.com/focuses/8498?parent=catalog
+
+https://www.qwiklabs.com/quests/98
+
+
