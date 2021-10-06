@@ -45,13 +45,13 @@ What is [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ?
 
 ### AutoML
 
-[AutoML](AutoML) makes the power of machine learning available to you even if you have limited knowledge of machine learning. You can use AutoML to build on Google's machine learning capabilities to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications and web sites.
+[AutoML](AutoML) can be used to create your own custom machine learning models that are tailored to your business needs, and then integrate those models into your applications.
 
-[https://cloud.google.com/automl/docs](https://cloud.google.com/automl/docs)
+
 
 ### AI Platform and Machine Learning
 
-[AI Platform](AI-Platform) enables many parts of the machine learning (ML) workflow. 
+[AI Platform](AI-Platform) enables many parts of the [machine learning](  machine-learning  ) (ML) workflow. 
 
 ### ML Solutions Overview 
 
@@ -61,7 +61,6 @@ What is [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ?
 
 ### Choosing Machine Learning Options
 
-Decision pyramid to choose the right ML option.
 
 [https://www.youtube.com/watch?v=pm_-pVPvZ-4](https://www.youtube.com/watch?v=pm_-pVPvZ-4)
 
@@ -88,7 +87,7 @@ https://www.youtube.com/watch?v=CReeC8YuEd8
 
 ### Vision AI
 
-[Cloud Vision](  https://cloud.google.com/vision/overview/docs ) includes several options that you can use to integrate machine learning vision models into your applications and web sites.
+[Cloud Vision](  https://cloud.google.com/vision/overview/docs ) includes several options that you can use to integrate machine learning vision models into your applications.
 
 [https://www.youtube.com/watch?v=kgxfdTh9lz0](https://www.youtube.com/watch?v=kgxfdTh9lz0)
 
@@ -96,7 +95,7 @@ https://www.youtube.com/watch?v=CReeC8YuEd8
 
 ### Video AI
 
-[Video Intelligence](  https://cloud.google.com/video-intelligence/overview/docs  ) includes several options that you can use to integrate machine learning video intelligence models into your applications and web sites.
+[Video Intelligence](  https://cloud.google.com/video-intelligence/overview/docs  ) includes several options that you can use to integrate machine learning video intelligence models into your applications.
 
 
 [https://www.youtube.com/watch?v=h1zU0Qor9J8](https://www.youtube.com/watch?v=h1zU0Qor9J8)
@@ -104,7 +103,7 @@ https://www.youtube.com/watch?v=CReeC8YuEd8
 
 ### Cloud Natural Language API
 
-The [Cloud Natural Language API](https://cloud.google.com/natural-language) provides natural language understanding technologies to developers, including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis. This API is part of the larger Cloud Machine Learning API family.
+The [Cloud Natural Language API](https://cloud.google.com/natural-language) provides natural language understanding technologies to developers, including sentiment analysis, entity analysis, entity sentiment analysis, content classification, and syntax analysis. 
 
 [https://cloud.google.com/natural-language/docs](https://cloud.google.com/natural-language/docs)
 
@@ -129,13 +128,12 @@ https://www.qwiklabs.com/focuses/582?parent=catalog
 
 ### Cloud Translation
 
-[Cloud Translation](  https://cloud.google.com/translate/docs  ) can dynamically translate text between thousands of language pairs. Translation lets websites and programs programmatically integrate with the translation service.
-
+[Cloud Translation](  https://cloud.google.com/translate/docs  ) can dynamically translate text between thousands of language pairs. 
 
 
 #### AutoML Translation vs Translation API
 
-The [Translation API](  https://cloud.google.com/translate ) covers a huge number of language pairs and does a great job with general-purpose text. Where [AutoML Translation](   https://cloud.google.com/translate/automl/docs) really shines is for the "last mile" between generic translation tasks and specific, niche vocabularies. Our custom models start from the generic Translation API model, but add a layer that specifically helps the model get the right translation for domain-specific content that matters to you.
+The [Translation API](  https://cloud.google.com/translate ) covers a huge number of language pairs and does a great job with general-purpose text. Where [AutoML Translation](   https://cloud.google.com/translate/automl/docs) really shines is for the "last mile" between generic translation tasks and specific, niche vocabularies. 
 
 
 
@@ -146,9 +144,9 @@ The [Translation API](  https://cloud.google.com/translate ) covers a huge numbe
 
 ### Text-to-Speech
 
-Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
+[Text-to-Speech](  https://cloud.google.com/text-to-speech/docs  ) converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
 
-[https://cloud.google.com/text-to-speech/docs](https://cloud.google.com/text-to-speech/docs)
+
 
 #### Cloud Text-to-Speech API using C#
 
@@ -157,7 +155,7 @@ Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input in
 
 ### Speech-to-Text
 
-Text-to-Speech converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
+
 
 [https://cloud.google.com/speech-to-text/docs](https://cloud.google.com/speech-to-text/docs)
 
@@ -171,18 +169,9 @@ Google [AutoML Natural Language](https://cloud.google.com/natural-language/autom
 
 ### Natural Language API 
 
-The [Google Natural Language API](https://cloud.google.com/natural-language) is an easy to use interface to a set of powerful NLP models which have been pre-trained by Google to perform various tasks. As these models have been trained on enormously large document corpuses, their performance is usually quite good as long as they are used on datasets that do not make use of a very idiosyncratic language.
-
-The biggest advantage of using these pre-trained models via the API is, that no training dataset is needed. The API allows the user to immediately start making predictions, which can be very valuable in situations where little labeled data is available.
+The [Google Natural Language API](https://cloud.google.com/natural-language) is an easy to use interface to a set of powerful NLP models which have been pre-trained.
 
 
-The Natural Language API comprises five different services:
-
-* Syntax Analysis
-* Sentiment Analysis
-* Entity Analysis
-* Entity Sentiment Analysis
-* Text Classification
 
 The major advantage of the Google [Natural Language API](https://cloud.google.com/natural-language) is its ease of use. No machine learning skills are required and almost no coding skills. 
 
@@ -194,30 +183,17 @@ The Google [Natural Language API](https://cloud.google.com/natural-language) is 
 If the [Natural Language API](https://cloud.google.com/natural-language) is not flexible enough for your business purposes, then [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) might be the right service. 
 
 
-Fine-tuning big models like [BERT](https://arxiv.org/abs/1810.04805) is a computationally expensive process, especially when a lot of cross-validation is performed.
-
-
-
 ## Machine Learning Crash Course
 
-First read this [comicbook](https://cloud.google.com/products/ai/ml-comic-1).
+Step 1, read this [comicbook](https://cloud.google.com/products/ai/ml-comic-1).
 
 
-Then head over to this [tutorial](https://developers.google.com/machine-learning/crash-course/).
+Step 2, head over to this [tutorial](https://developers.google.com/machine-learning/crash-course/).
 
-And look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+Step 3, look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
-Then read
-
-http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf
-
-and
-
-https://duchesnay.github.io/pystatsml/index.html
 
 ## Machine Learning & Artificial Intelligence 
-
-
 
 A [Data Scientist](Data-Science) models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth [data modeling and deep learning]( https://cloud.google.com/training/machinelearning-ai  ).
 
@@ -235,7 +211,6 @@ Gather data, prepare data, choose the model, train the model, evaluate, tune par
 
 https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e
 
-Steps:
 
 [https://www.youtube.com/watch?v=nKW8Ndu7Mjw](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 
@@ -256,12 +231,6 @@ Two common use-cases for unsupervised learning are [exploratory analysis](https:
 In situations where it is either impossible or impractical for a human to propose trends in the data, unsupervised learning can provide initial insights that can then be used to test individual hypotheses.
 
 [Dimensionality reduction](https://en.m.wikipedia.org/wiki/Dimensionality_reduction), which refers to the methods used to represent data using less columns or features, can be accomplished through unsupervised methods. In [representation learning](https://en.m.wikipedia.org/wiki/Feature_learning), we wish to learn relationships between individual features, allowing us to represent our data using the latent features that interrelate our initial features. This sparse latent structure is often represented using far fewer features than we started with, so it can make further data processing much less intensive, and can eliminate redundant features.
-
-
-
-
-
-
 
 
 ## Feature Engineering
@@ -314,10 +283,6 @@ By [normalizing](https://machinelearningmastery.com/batch-normalization-for-trai
 
 [Standardization](https://medium.com/analytics-vidhya/feature-scaling-normalization-standardization-and-scaling-c920ed3637e7) (or z-score normalization) is the procedure during which the feature values are rescaled so that they have the properties of a standard normal distribution with μ = 0 and ‡ = 1, where μ is the mean (the average value of the feature, averaged over all examples in the dataset) and ‡ is the standard deviation from the mean.
 
-
-
-
-
 ### Dealing with Missing Features
 
 In some cases, the data comes to the analyst in the form of a dataset with features already defined. In some examples, values of some features can be missing. That often happens when the dataset was handcrafted, and the person working on it forgot to fill some values or didn’t get them measured at all.
@@ -332,7 +297,7 @@ feature in the dataset.
 
 Another technique is to replace the missing value by the same value outside the normal range of values. 
 
-For example, if the normal range is [0, 1], then you can set the missing value equal to 2 or ≠1. The idea is that the learning algorithm will learn what is it better to do when the feature has a value significantly different from other values. Alternatively, you can replace the missing value by a value in the middle of the range. For example, if the range for a feature is [≠1, 1], you can set the missing value to be equal to 0. Here, the idea is that if we use the value in the middle of the range to replace missing features, such value will not significantly affect the prediction.
+
 
 
 https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
@@ -341,52 +306,20 @@ https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values
 
 Once you have got your annotated dataset, you can split the dataset into three subsets: [training, validation, and test]( https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets  ).
 
-The training set is usually the biggest one, and you use it to build the model. 
-
-The validation and test sets are roughly the same sizes, much smaller than the size of the training set. The learning algorithm cannot use examples from these two subsets to build a model. That is why those two sets are often called hold-out sets.
-
-There’s no optimal proportion to split the dataset into these three subsets. In the past, the rule of thumb was to use 70% of the dataset for training, 15% for validation and 15% for testing. However, in the age of big data, datasets often have millions of examples. In such cases, it could be reasonable to keep 95% for training and 2.5%/2.5% for validation/testing.
-
-You may wonder, what is the reason to have three sets and not one. The answer is simple: when we build a model, what we do not want is for the model to only do well at predicting labels of examples the learning algorithms has already seen. A trivial algorithm that simply memorizes all training examples and then uses the memory to “predict” their labels will make no mistakes when asked to predict the labels of the training examples, but such an algorithm would be useless in practice. What we really want is that our model predicts well examples that the learning algorithm didn’t see. So we want good performance on a hold-out set.
-
 
 
 ## Underfitting and Overfitting
 
-If the model makes many mistakes on the training data, we say that the model has a high bias or that the model underfits. So, underfitting is the inability of the model to predict well the labels of the data it was trained on. There could be several reasons for underfitting, the most important of which are:
-
-- your model is too simple for the data (for example a linear model can often underfit)
-- the features you engineered are not informative enough
-
-Overfitting is another problem a model can exhibit. The model that overfits predicts very well the training data but poorly the data from at least one of the two hold-out sets. I already gave an illustration of overfitting in Chapter 3. Several reasons can lead to overfitting, the most important of which are:
-
-- your model is too complex for the data (for example a very tall decision tree or a very deep or wide neural network often overfit)
-- you have too many features but a small number of training examples
-
-
-Many of the modern advancements in neural networks have been a result of stacking many hidden layers.
-
-This deep stacking allows us to learn more complex relationships in the data. However, because we're increasing the complexity of the model, we're also more prone to [potentially overfitting](https://deeplizard.com/learn/video/DEMmkFC6IGM) our data. 
 
 https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/
 
 ## Regularization
 
-Even the simplest model, such as linear, can overfit the data. That usually happens when the data is high-dimensional, but the number of training examples is relatively low. In fact, when feature vectors are very high-dimensional, the linear learning algorithm can build a model that assigns non-zero values to most dimensions w(j) in the parameter vector w, trying to find very complex relationships between all available features to predict labels of training examples perfectly.
-
-Such a complex model will most likely predict poorly the labels of the hold-out examples. This is because by trying to perfectly predict labels of all training examples, the model will also learn the idiosyncrasies of the training set: the noise in the values of features of the training examples, the sampling imperfection due to the small dataset size, and other artifacts extrinsic to the decision problem in hand but present in the training set.
-
-Regularization is an umbrella-term that encompasses methods that force the learning algorithm to build a less complex model. In practice, that often leads to slightly higher bias but significantly reduces the variance. This problem is known in the literature as the bias-variance tradeoff.
-
-The two most widely used types of regularization are called L1 regularization and L2 regularization. The idea is quite simple. To create a regularized model, we modify the objective function by adding a penalizing term whose value is higher when the model is more complex.
-
-In practice, L1 regularization produces a sparse model, a model that has most of its parameters (in case of linear models, most of w(j)) equal to zero. So L1 makes feature selection by deciding which features are essential for prediction and which are not. That can be useful in case you want to increase model explainability. 
-
 https://developers.google.com/machine-learning/crash-course/regularization-for-sparsity/l1-regularization
 
-However, if your only goal is to maximize the performance of the model on the hold-out data, then L2 usually gives better results. L2 also has the advantage of being differentiable, so gradient descent can be used for optimizing the objective function.
 
-[L1 and L2 regularization](  https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261 ) methods are also combined in what is called elastic net regularization with [L1 and L2 regularizations](  https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning ) being special cases. You can find in the literature the name ridge regularization for L2 and lasso for L1.
+
+[L1 and L2 regularization](  https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261 ) methods are also combined in what is called elastic net regularization with [L1 and L2 regularizations](  https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning ) being special cases. 
 
 
 https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
@@ -398,14 +331,9 @@ https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
 
 
 Once you have a model built using the training set, [how can you say how good the model is]( https://machinelearningmastery.com/evaluate-skill-deep-learning-models/ )? You use test set to [assess the model]( https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
- ) . The test set contains the examples that the learning algorithm has never seen before. If our model performs well on predicting the labels of the examples from the test set, we say that our model generalizes well.
+ ). 
 
 https://heartbeat.fritz.ai/introduction-to-machine-learning-model-evaluation-fa859e1b2d7f
-
-
-
-
-
 
 ### Accuracy
 
@@ -464,7 +392,6 @@ Classification algorithms are used when you have a dataset of observations where
 
 [https://www.youtube.com/watch?v=HZGCoVF3YvM](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 
-We can use probability to make predictions in machine learning. Perhaps the most widely used example is called the Naive Bayes algorithm. Not only is it straightforward to understand, but it also achieves surprisingly good results on a wide range of problems.
 
 [https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 
@@ -473,10 +400,6 @@ Naive [Bayes classification](https://en.wikipedia.org/wiki/Naive_Bayes_classifie
 ### Regression & Classification
 
 [Regression](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/) and [classification](https://www.youtube.com/watch?v=TJveOYsK6MY) lead to ways of splitting data.
-
-Regression algorithms are used when you have a dataset of observations where you'd like to use the features to predict a continuous output.
-
-
 
 Classification is a problem of automatically assigning a label to an unlabeled example. Spam detection is a famous example of classification.
 
