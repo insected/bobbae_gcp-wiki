@@ -13,4 +13,4 @@ Bare metal cluster operators are left with two lesser tools to bring user traffi
 https://github.com/kube-vip/kube-vip
 
 
-[Kube-Vip](kube-vip.io) was originally created to provide a HA solution for the Kubernetes control plane, over time it has evolved to incorporate that same functionality into Kubernetes service type load-balancers.
+[Kube-Vip](https://kube-vip.io) was originally created to provide a HA solution for the Kubernetes control plane, over time it has evolved to incorporate that same functionality into Kubernetes service type load-balancers.
