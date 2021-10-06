@@ -16,7 +16,7 @@ https://github.com/amusi/awesome-ai-awesomeness
 
 ## Vertex AI
 
-[Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With Vertex AI, both AutoML training and custom training are available options. 
+[Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) brings [AutoML](AutoML) and [AI Platform](AI-Platform) together into a unified API, client library, and user interface. With [Vertex AI](https://www.infoworld.com/article/3635151/review-google-cloud-vertex-ai-irons-out-ml-platform-wrinkles.html), both AutoML training and custom training are available options. 
 
 https://cloud.google.com/vertex-ai/docs
 
