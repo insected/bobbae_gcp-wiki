@@ -59,7 +59,7 @@ https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc3
 
 ## ClusterIP, Ingress, NodePort, Load Balancer
 
-It is useful to study [how services are exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer).
+They're different ways [services of different types can be exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer).
 
 ## More on use of iptables and ipvs in Kubernetes
 
