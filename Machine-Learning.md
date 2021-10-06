@@ -253,9 +253,7 @@ https://www.tensorflow.org/tfx/tutorials/tfx/penguin_tft
 
 In digital circuits and machine learning, a [one-hot](https://en.m.wikipedia.org/wiki/One-hot) is a group of bits among which the legal combinations of values are only those with a single high (1) bit and all the others low (0).
 
-Some learning algorithms only work with numerical feature vectors. When some feature in your dataset is categorical, like “colors” or “days of the week,” you can transform such a categorical feature into several binary ones.
 
-If your example has a categorical feature “colors” and this feature has three possible values: “red,” “yellow,” “green,” you can transform this feature into a vector of three numerical values. By doing so, you increase the dimensionality of your feature vectors. You should not transform red into 1, yellow into 2, and green into 3 to avoid increasing the dimensionality because that would imply that there’s an order among the values in this category and this specific order is important for the decision making. If the order of a feature’s values is not important, using ordered numbers as values is likely to confuse the learning algorithm, because the algorithm will try to find a regularity where there’s no one, which may potentially lead to overfitting.
 
 https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
@@ -263,7 +261,7 @@ https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
 ### Binning
 
-[Binning](https://en.m.wikipedia.org/wiki/Data_binning) (also called bucketing) is the process of converting a continuous feature into multiple binary features called bins or buckets, typically based on value range. For example, instead of representing age as a single real-valued feature, the analyst could chop ranges of age into discrete bins: all ages between 0 and 5 years-old could be put into one bin, 6 to 10 years-old could be in the second bin, 11 to 15 years-old could be in the third bin, and so on.
+[Binning](https://en.m.wikipedia.org/wiki/Data_binning) (also called bucketing) is the process of converting a continuous feature into multiple binary features called bins or buckets, typically based on value range. 
 
 https://towardsdatascience.com/binning-for-feature-engineering-in-machine-learning-d3b3d76f364a
 
@@ -271,8 +269,6 @@ https://towardsdatascience.com/binning-for-feature-engineering-in-machine-learni
 
 [Normalization](https://developers.google.com/machine-learning/data-prep/transform/normalization) is the process of converting an actual range of values which a numerical
 feature can take, into a standard range of values, typically in the interval [≠1, 1] or [0, 1].
-For example, suppose the natural range of a particular feature is 350 to 1450. By subtracting 350 from every value of the feature, and dividing the result by 1100, one can normalize those values into the range [0, 1].
-
 
 
 
@@ -281,11 +277,11 @@ By [normalizing](https://machinelearningmastery.com/batch-normalization-for-trai
 
 ### Standardization
 
-[Standardization](https://medium.com/analytics-vidhya/feature-scaling-normalization-standardization-and-scaling-c920ed3637e7) (or z-score normalization) is the procedure during which the feature values are rescaled so that they have the properties of a standard normal distribution with μ = 0 and ‡ = 1, where μ is the mean (the average value of the feature, averaged over all examples in the dataset) and ‡ is the standard deviation from the mean.
+[Standardization](https://medium.com/analytics-vidhya/feature-scaling-normalization-standardization-and-scaling-c920ed3637e7) (or z-score normalization) is the procedure during which the feature values are rescaled so that they have the properties of a standard normal distribution.
 
 ### Dealing with Missing Features
 
-In some cases, the data comes to the analyst in the form of a dataset with features already defined. In some examples, values of some features can be missing. That often happens when the dataset was handcrafted, and the person working on it forgot to fill some values or didn’t get them measured at all.
+In some cases, the data comes to the analyst in the form of a dataset with features already defined. In some examples, values of some features can be missing. 
 
 https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
 
@@ -294,10 +290,6 @@ https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learni
 
 One technique consists in replacing the missing value of a feature by an average value of this
 feature in the dataset.
-
-Another technique is to replace the missing value by the same value outside the normal range of values. 
-
-
 
 
 https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
@@ -403,29 +395,13 @@ Naive [Bayes classification](https://en.wikipedia.org/wiki/Naive_Bayes_classifie
 
 Classification is a problem of automatically assigning a label to an unlabeled example. Spam detection is a famous example of classification.
 
-In machine learning, the classification problem is solved by a classification learning algorithm that takes a collection of labeled examples as inputs and produces a model that can take an unlabeled example as input and either directly output a label or output a number that can be used by the data analyst to deduce the label easily. An example of such a number is a probability.
-
-In a classification problem, a label is a member of a finite set of classes. If the size of the set of classes is two (“sick”/“healthy”, “spam”/“not_spam”), we talk about binary classification (also called binomial).
-
-Multiclass classification (also called multinomial) is a classification problem with three or more classes.
-
-While some learning algorithms naturally allow for more than two classes, others are by nature binary classification algorithms. There are strategies allowing to turn a binary classification learning algorithm into a multiclass one. 
-
-Regression is a problem of predicting a real-valued label (often called a target) given an unlabeled example. Estimating house price valuation based on house features, such as area, the number of bedrooms, location and so on is a famous example of regression.
-
-The regression problem is solved by a regression learning algorithm that takes a collection of labeled examples as inputs and produces a model that can take an unlabeled example as input and output a target.
-
-
-
 
 ### Linear Regression
 
 
-[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. For example, a classifier might draw a decision boundary that can tell you whether or not a house is likely to sell at a given price (when provided with features of the house) but a regressor can use those same features to predict the market value of the house. Nonetheless, regression is still a supervised learning technique and you'll still need to train your model on a set of examples with known outcomes.
+[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. 
 
 https://www.youtube.com/watch?v=nk2CQITm_eo
-
-
 
 ### Polynomial regression
 
@@ -434,38 +410,38 @@ https://www.youtube.com/watch?v=nk2CQITm_eo
 ### Logistic Regression
 
 
-The goal of [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. For instance, if we were examining the Iris flower dataset, our classifier would figure out some method to split the data based on the following: sepal length, sepal width, petal length, petal width. 
+The goal of [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. 
 
 https://www.youtube.com/watch?v=yIYKR4sgzI8
 
 ### Decision Trees
 
-[Decision trees](https://en.wikipedia.org/wiki/Decision_tree) are one of the oldest and most widely-used machine learning models, due to the fact that they work well with noisy or missing data, can easily be formed as more robust predictors, and are incredibly fast at runtime. Moreover, you can directly visual your model's learned logic, which means that it's an incredibly popular model for domains where model interpretability is important.
-
-
-
+[Decision trees](https://en.wikipedia.org/wiki/Decision_tree) are one of the oldest and most widely-used machine learning models, due to the fact that they work well with noisy or missing data, can easily be formed as more robust predictors, and are incredibly fast at runtime. 
 
 ### SVM
 
 [Support vector machines](https://en.wikipedia.org/wiki/Support-vector_machine) classifier works well in complicated feature domains, albeit requiring clear separation between classes. 
 
-SVM  is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text.
+SVM  is a supervised machine learning model that uses classification algorithms for two-group classification problems. 
 
-Compared to newer algorithms like neural networks, they have two main advantages: higher speed and better performance with a limited number of samples (in the thousands). This makes the algorithm very suitable for text classification problems, where it’s common to have access to a dataset of at most a couple of thousands of tagged samples.
+Compared to newer algorithms like neural networks, they have two main advantages: higher speed and better performance with a limited number of samples.
 
 https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
 
-SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n3) to input depending on your implementation. For example, sklearn's SVM fit time complexity is more than quadratic, so it won't be able to train quickly on large datasets (>10,000 examples).
+SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n3) to input depending on your implementation. 
+
+
+### Decision Trees
+
+[Decision trees](https://en.m.wikipedia.org/wiki/Decision_tree_learning) are desirable in that they scale well to larger datasets, they are robust against irrelevant features, and it is very easy to visualize the rationalization between a decision tree's predictions. 
 
 ### Random forests
 
-Decision trees are desirable in that they scale well to larger datasets, they are robust against irrelevant features, and it is very easy to visualize the rationalization between a decision tree's predictions. Further, decision trees have low bias as there is minimal implicitly defined structure in the model (as opposed to linear regression, for example, which makes the assumption of linear relationships). Unfortunately, decision trees are prone to high variance and will overfit noisy data.
-
-[Random forests](https://en.wikipedia.org/wiki/Random_forest) inherit the benefits of a decision tree model whilst improving upon the performance by reducing the variance. In building a random forest, we train a collection of decision trees on random subsets of the training data. Further, on each sampling from the population, we also sample a subset of features from the overall feature space. This adds randomness (with the intent to reduce variance in the end model) to the splitting process by limiting the features available for to split on for each individual base model.
+[Random forests](https://en.wikipedia.org/wiki/Random_forest) inherit the benefits of a decision tree model whilst improving upon the performance by reducing the variance. 
 
 ### Boosted trees
 
-[Boosting](https://en.wikipedia.org/wiki/Gradient_boosting#Gradient_tree_boosting) is an iterative process where models are trained in a sequential order. These models are known as "weak learners" as they are simple prediction rules which only perform slightly better than a random guess (ie. slightly better than 50% accuracy). The general concept behind boosting is to focus on the "hard" examples, or the examples that the model fails to predict correctly with confidence. These examples are given more emphasis by skewing the distribution of observations so that these examples are more likely to appear in a sample. As such, the next weak learner will focus more on getting these hard examples correct. Because your learner is always doing better than random, you'll always get some degree of information from each sequential training round. When all of the simple prediction rules are combined into one overarching model, a powerful predictor emerges.
+[Boosting](https://en.wikipedia.org/wiki/Gradient_boosting#Gradient_tree_boosting) is an iterative process where models are trained in a sequential order. 
 
 
 ### Content Classification
@@ -573,11 +549,7 @@ RNNs are often used in text and speech processing because sentences and texts ar
 
 [Long short-term memory]( https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21   ) networks are an extension for recurrent neural networks, which basically extends the memory. Therefore it is well suited to learn from important experiences that have very long time lags in between.
 
-
 LSTMs enable RNNs to remember inputs over a long period of time. 
-
-This memory can be seen as a gated cell, with gated meaning the cell decides whether or not to store or delete information, based on the importance it assigns to the information. The assigning of importance happens through weights, which are also learned by the algorithm.  It learns over time what information is important and what is not.
-
 
 
 #### Multi-class Neural Networks
@@ -600,16 +572,13 @@ https://developers.google.com/machine-learning/crash-course/training-neural-netw
 
 ### Reinforcement Learning
 
-[Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is an approach to machine learning where agents are rewarded to accomplish some task. "Good" behavior is reinforced via a reward, so this approach can more realistically be considered a method of reward maximization. 
+[Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is an approach to machine learning where agents are rewarded to accomplish some task. 
 
-This is different from supervised learning in that we don't explicitly provide correct and incorrect examples of how the task should be completed, we simply tell the computer when it is doing a good job along the way. Reinforcement learning is also distinct from unsupervised learning because we are providing the computer with some level of feedback, even if we aren't providing explicit examples.
-
-Reinforcement learning is a subfield of machine learning where the machine “lives” in an environment and is capable of perceiving the state of that environment as a vector of features. The machine can execute actions in every state. Different actions bring different rewards and could also move the machine to another state of the environment. The goal of a reinforcement learning algorithm is to learn a policy. A policy is a function f (similar to the model in supervised learning) that takes the feature vector of a state as input and outputs an optimal action to execute in that state. The action is optimal if it maximizes the expected average reward.
 
 
 ### Markov Decision Process
 
-The [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process) is a method for planning in a stochastic environment. Whereas we cannot control or optimize the randomness that occurs, we can optimize our actions within a random environment. Planning for stochastic environments is much more difficult than planning for a deterministic environment; given the randomness present, there's a degree of uncertainty surrounding the results of our actions.
+The [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process) is a method for planning in a stochastic environment. 
 
 
 ### Monte Carlo learning
@@ -647,8 +616,7 @@ https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0
 #### TF-IDF Vectorization
 
 
-[Term frequency-inverse document frequency](https://monkeylearn.com/blog/what-is-tf-idf/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. Due to its simplicity, this method scales better than some other topic modeling techniques (latent dirichlet allocation, probabilistic latent semantic indexing) when dealing with large datasets.
-
+[Term frequency-inverse document frequency](https://monkeylearn.com/blog/what-is-tf-idf/) (TF-IDF) vectorization is a mouthful to say, but it's also a simple and convenient way to characterize bodies of text. 
 
 #### Build Text Classification Model using  TF-IDF and NLTK
 
