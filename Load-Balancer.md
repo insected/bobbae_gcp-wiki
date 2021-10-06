@@ -78,6 +78,10 @@ Bare metal cluster operators are left with two lesser tools to bring user traffi
 
 MetalLB aims to redress this imbalance by offering a Network LB implementation that integrates with standard network equipment, so that external services on bare metal clusters also “just work” as much as possible.
 
+### Kube-vip
+
+https://github.com/kube-vip/kube-vip
+
 
 ## GKE Ingess Load Balancer
 
