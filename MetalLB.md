@@ -15,4 +15,12 @@ https://github.com/kube-vip/kube-vip
 
 [Kube-Vip](https://kube-vip.io) was originally created to provide a HA solution for the Kubernetes control plane, over time it has evolved to incorporate that same functionality into Kubernetes service type load-balancers.
 
+
+#### Equinix example
+
 https://metal.equinix.com/developers/guides/kube-vip-type-lb/
+
+
+#### Anthos on Bare metal with Kube-vip
+
+https://github.com/equinix/terraform-metal-anthos-on-baremetal
