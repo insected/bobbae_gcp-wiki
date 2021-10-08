@@ -42,10 +42,10 @@ https://cloud.google.com/compute/docs/tutorials/robustsystems
 
 A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a set of virtualized hardware resources available to a virtual machine (VM) instance, including the system memory size, virtual CPU (vCPU) count, and persistent disk limits.  You must choose a machine type when you [create an instance](https://cloud.google.com/compute/docs/instances/creating-and-starting-an-instance?hl=tr). You can select from a number of predefined machine types in each machine type family. If the predefined machine types do not meet your needs, you can create your own [custom machine types](https://cloud.google.com/compute/docs/machine-types?hl=tr#custom_machine_types). To compare machine type performance, see [CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms?hl=tr).
 
-The E2 machines are lower-cost general purpose, N2, N2D, N1 are also general purpose but balanced price / performance, M2, M1 are memory optimized and C2 are compute optimized.
+
 ## From Data Center Professional Point of view
 
-Typically, [data centers use server virtualization](  https://cloud.google.com/docs/compare/data-centers/compute ), in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These [virtual machines](VM) are created, provisioned, and managed through a software suite such as VMware [vSphere](https://www.vmware.com/products/vsphere-hypervisor.html) or [XenCenter](https://docs.citrix.com/en-us/xencenter.html).
+[Data centers use server virtualization](  https://cloud.google.com/docs/compare/data-centers/compute ), in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These [virtual machines](VM) are created, provisioned, and managed through a software suite such as VMware [vSphere](https://www.vmware.com/products/vsphere-hypervisor.html) or [XenCenter](https://docs.citrix.com/en-us/xencenter.html).
 
 [Compute Engine](   https://youtu.be/KBeyQHoAcrQ ) uses this model as well, combining server virtualization and related management tools into an integrated suite. On Compute Engine, virtual machines are called [virtual machine](  VM ) (VM) instances.
 
@@ -104,22 +104,22 @@ https://medium.com/geekculture/stop-burning-money-by-leaving-your-vms-on-add-an-
 
 ### Sole tenant nodes
 
-Sole-tenancy lets you have exclusive access to a sole-tenant node, which is a physical Compute Engine server that is dedicated to hosting only your project's VMs. Use sole-tenant nodes to keep your VMs physically separated from VMs in other projects, or to group your VMs together on the same host hardware.
+[Sole-tenancy](https://cloud.google.com/compute/docs/nodes/provisioning-sole-tenant-vms
+) lets you have exclusive access to a sole-tenant node, which is a physical Compute Engine server that is dedicated to hosting only your project's VMs. Use sole-tenant nodes to keep your VMs physically separated from VMs in other projects, or to group your VMs together on the same host hardware.
 
-https://cloud.google.com/compute/docs/nodes/provisioning-sole-tenant-vms
 
 ### Preemptible VM
 
 
-A preemptible instance is an instance you can create and run at a much lower price than normal instances. However, Compute Engine might stop (preempt) these instances if it requires access to those resources for other tasks. Preemptible instances will always stop after 24 hours. 
+A [preemptible instance](https://cloud.google.com/compute/docs/instances/create-start-preemptible-instance
+) is an instance you can create and run at a much lower price than normal instances. However, Compute Engine might stop (preempt) these instances if it requires access to those resources for other tasks. Preemptible instances will always stop after 24 hours. 
 
-https://cloud.google.com/compute/docs/instances/create-start-preemptible-instance
 
 ### Reservations
 
-Reservations provide a very high level of assurance in obtaining capacity for Compute Engine zonal resources. For example, use reservations to help ensure that your project has resources for future increases in demand, including: planned or unplanned spikes, migrating a large number of virtual machine (VM) instances, backup and disaster recovery, or planned growth and buffer.
+[Reservations](https://cloud.google.com/compute/docs/instances/reservations-overview
+) provide a very high level of assurance in obtaining capacity for Compute Engine zonal resources. For example, use reservations to help ensure that your project has resources for future increases in demand, including: planned or unplanned spikes, migrating a large number of virtual machine (VM) instances, backup and disaster recovery, or planned growth and buffer.
 
-https://cloud.google.com/compute/docs/instances/reservations-overview
 
 ### Creating machine images
 
@@ -140,9 +140,9 @@ https://cloud.google.com/compute/docs/disks/detach-reattach-boot-disk
 
 ### Importing and Exporting VM images
 
-You can share virtual machine (VM) instances, virtual disk files, and machine images from other cloud environments or from your on-premises environment by importing and exporting images from Cloud Storage. 
+You can share virtual machine (VM) instances, virtual disk files, and machine images from other cloud environments or from your on-premises environment by [importing and exporting images](https://cloud.google.com/compute/docs/import/requirements-export-import-images
+) from Cloud Storage. 
 
-https://cloud.google.com/compute/docs/import/requirements-export-import-images
 
 
 ### Dynamic Resource Management
@@ -176,9 +176,9 @@ https://cloud.google.com/compute/docs/autoscaler/predictive-autoscaling
 
 ### Instance Groups
 
-A managed instance group (MIG) is a group of virtual machine (VM) instances that you control as a single entity. MIGs support features such as autohealing, load balancing, autoscaling, auto-updating, and stateful workloads.
+A [managed instance group](https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances
+) (MIG) is a group of virtual machine (VM) instances that you control as a single entity. MIGs support features such as autohealing, load balancing, autoscaling, auto-updating, and stateful workloads.
 
-https://cloud.google.com/compute/docs/instance-groups/creating-groups-of-managed-instances
 
 ### Predictive Autoscaling
 
@@ -186,9 +186,9 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 
 ### Regional MIGs
 
-You can create regional MIGs or zonal MIGs. Regional MIGs provide higher availability compared to zonal MIGs because the instances in a regional MIG are spread across multiple zones in a single region. This document provides information about creating either zonal or regional MIGs. However, regional MIGs have additional options and considerations.
+You can create [regional MIGs](https://cloud.google.com/compute/docs/instance-groups/regional-migs
+) or zonal MIGs. Regional MIGs provide higher availability compared to zonal MIGs because the instances in a regional MIG are spread across multiple zones in a single region. This document provides information about creating either zonal or regional MIGs. However, regional MIGs have additional options and considerations.
 
-https://cloud.google.com/compute/docs/instance-groups/regional-migs
 
 
 ### Instance Templates & Groups
@@ -263,9 +263,9 @@ Each [firewall](  https://cloud.google.com/vpc/docs/firewalls ) rule applies to 
 
 ### TPU Types and Zones
 
-Tensor Processing Units (TPUs) are Google’s custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads. TPUs are designed from the ground up with the benefit of Google’s deep experience and leadership in machine learning.
+[Tensor Processing Units](https://cloud.google.com/tpu/docs/tpus
+) (TPUs) are Google’s custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads. TPUs are designed from the ground up with the benefit of Google’s deep experience and leadership in machine learning.
 
-https://cloud.google.com/tpu/docs/tpus
 
 Available Zones:
 
@@ -274,9 +274,9 @@ https://cloud.google.com/tpu/docs/types-zones
 
 ### GPU
 
-Compute Engine provides graphics processing units (GPUs) that you can add to your virtual machine (VM) instances. You can use these GPUs to accelerate specific workloads on your instances such as machine learning and data processing.
+Compute Engine provides [graphics processing units](https://cloud.google.com/compute/docs/gpus
+) (GPUs) that you can add to your virtual machine (VM) instances. You can use these GPUs to accelerate specific workloads on your instances such as machine learning and data processing.
 
-https://cloud.google.com/compute/docs/gpus
 
 Compute Engine provides NVIDIA® GPUs for your instances in passthrough mode so that your virtual machine instances have direct control over the GPUs and their associated memory.
 
