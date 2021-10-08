@@ -583,7 +583,7 @@ The [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_proc
 
 ### Monte Carlo learning
 
-The [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) approach approximates the value of a state-action pair by calculating the mean return from a collection of episodes.
+The [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) approach approximates the value of a state-action pair by [calculating the mean return from a collection of episodes](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html).
 
 
 ### Model based vs. Instance based learning
