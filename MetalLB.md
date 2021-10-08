@@ -24,3 +24,8 @@ https://metal.equinix.com/developers/guides/kube-vip-type-lb/
 #### Anthos on Bare metal with Kube-vip
 
 https://github.com/equinix/terraform-metal-anthos-on-baremetal
+
+### Openstack Octavia
+
+[Octavia](https://docs.openstack.org/octavia/latest/) is an open source load balancing solution based on [Openstack](Openstack) [Neutron LBaaS](https://wiki.openstack.org/wiki/Neutron/LBaaS) and [HAProxy](https://www.haproxy.org/) which can be [made to work with Kubernetes](https://superuser.openstack.org/articles/guide-octavia-ingress-controller-for-kubernetes/).
+
