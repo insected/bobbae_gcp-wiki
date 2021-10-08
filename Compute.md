@@ -6,6 +6,12 @@ There are  many [hosting options](  https://cloud.google.com/hosting-options ) t
 
 ## Concepts
 
+### Basics
+
+https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/
+
+### Concepts 
+
 https://cloud.google.com/compute/docs/concepts
 
 ### Regions and Zones
