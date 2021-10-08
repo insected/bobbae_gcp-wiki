@@ -112,3 +112,7 @@ http://shafiul.github.io/gitbook/1_the_git_object_model.html
 ## Vulnerability in Cryptography libraries
 
 https://kerkour.com/blog/rust-cryptography-ecosystem/
+
+## Cypher agility
+
+https://paragonie.com/blog/2019/10/against-agility-in-cryptography-protocols
