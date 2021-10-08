@@ -296,6 +296,12 @@ https://registry.terraform.io/modules/cloudboss/terrible/cloudinit/latest
 [https://github.com/shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 
 
+## Terraform associate certification
+
+
+https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/
+
+
 ## Examples
 
 ### Terraform Cloud Foundation Fabric Examples
