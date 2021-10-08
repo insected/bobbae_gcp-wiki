@@ -18,13 +18,13 @@ Cloud Endpoints is an [API management system](https://cloud.google.com/endpoints
 
 
 
-
-
 ## App Engine Standard
 
 [Cloud Endpoints Frameworks](https://cloud.google.com/endpoints/docs/frameworks/about-cloud-endpoints-frameworks) is a web framework for the App Engine standard Python 2.7 and Java 8 runtime environments. Cloud Endpoints Frameworks provides the tools and libraries that allow you to generate REST APIs and client libraries for your application.
 
+## Authentication between services
 
+https://cloud.google.com/endpoints/docs/openapi/service-account-authentication
 
 ## Tutorials
 
