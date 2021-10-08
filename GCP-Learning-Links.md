@@ -22,7 +22,7 @@ https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/
 https://github.com/alex/what-happens-when
 
 
-## Github 
+## GCP on Github 
 
 https://github.com/GoogleCloudPlatform
 
