@@ -110,6 +110,7 @@ https://cloud.google.com/compute/docs/tutorials/ml-inference-t4
 
 [https://github.com/jtoy/awesome-Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 
+https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision/
 
 ## Qwiklabs
 
