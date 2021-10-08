@@ -20,20 +20,13 @@ Many distributed systems use [state machine replication](https://en.wikipedia.or
 
 
 [Raft](https://www.hashicorp.com/resources/raft-consul-consensus-protocol-explained
-) works by electing a leader in the cluster. The leader is responsible for accepting client requests and managing the replication of the log to other servers. The data flows only in one direction: from leader to other servers.
+) works by [electing a leader](https://www.geeksforgeeks.org/raft-consensus-algorithm/) in the cluster. Leader can override logs.
 
-
-
-[Raft](https://www.geeksforgeeks.org/raft-consensus-algorithm/
-) uses randomized election timeouts to ensure that split votes are rare and that they are resolved quickly. To prevent split votes, election timeouts are chosen randomly from a fixed interval (e.g., 150–300ms). This spreads out the servers so that in most cases only a single server will time out; it wins the election and sends heartbeats before any other servers time out. The same mechanism is used to handle split votes. Each candidate restarts its randomized election timeout at the start of an election, and it waits for that timeout to elapse before starting the next election; this reduces the likelihood of another split vote in the new election.
-
-
-In Raft, the leader handles inconsistencies by forcing the followers’ logs to duplicate its own. Conflicting entries in follower logs will be overwritten with entries from the leader’s log.
 
 ### DHT, CRDT and Models for Consistency
 
-Many real-world systems, even global financial networks, choose availability over consistency, so that people can get on with business. There are different ways to go about this. Some of them, based on [coordination protocols]( https://medium.com/@mena.meseha/understanding-of-consistency-in-distributed-systems-27da174cc05a
- ) are complicated to get right; they involve all sorts of special roles and rules.
+Many real-world systems, even global financial networks, [choose availability over consistency](  https://www.geeksforgeeks.org/raft-consensus-algorithm/ ), so that people can get on with business. The [coordination protocols]( https://medium.com/@mena.meseha/understanding-of-consistency-in-distributed-systems-27da174cc05a
+ ) are complicated.
 
 A [distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table) (DHT) is a distributed system that provides a lookup service similar to a hash table: key-value pairs are stored in a DHT, and any participating node can efficiently retrieve the value associated with a given key. 
 
