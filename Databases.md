@@ -57,31 +57,22 @@ https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
 
 ## ACID, BASE, CAP
 
-A database transaction can be either a single operation or a sequence of operations, but is treated as a single logical operation on the data by the database. 
+A [database transaction](  http://dist-prog-book.com/chapter/6/acidic-to-basic-how-the-database-ph-has-changed.html ) can be either a single operation or a sequence of operations, but is treated as a single logical operation on the data by the database. 
 
-[https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c](https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c)
+The [CAP theorem](  https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f8c ) dictates that the three desirable properties, [consistency, availability and partition tolerance](https://en.m.wikipedia.org/wiki/CAP_theorem) cannot be offered simultaneously. 
 
-The CAP theorem dictates that the three desirable properties, consistency, availability and partition tolerance cannot be offered simultaneously. Let’s study if its possible to achieve two of these three properties.
 
-http://dist-prog-book.com/chapter/6/acidic-to-basic-how-the-database-ph-has-changed.html
 
 ## Serializability, Linearizability, and locality
 
-[https://aphyr.com/posts/333-serializability-linearizability-and-locality](https://aphyr.com/posts/333-serializability-linearizability-and-locality)
 
-Linearizability (also known as atomic consistency, strong consistency, immediate consistency) describes reads and writes on a single object (stores a single value).  It doesn’t involve “transaction”, which groups multiple objects. It treats each operation as an atom, i.e. to take effect in a single time point, rather than a timespan.
-
-https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy
-
-Serializability is an isolation level for database transactions. It comes from database community area, where is a different area that Linearizability originates.
-
-Serializability describes multiple transactions, where a transaction is usually composed of multiple operations on multiple objects.
+[Linearizability](https://accelazh.github.io/storage/Linearizability-Vs-Serializability-And-Distributed-Transactions-Copy) (also known as atomic consistency, strong consistency, immediate consistency) describes reads and writes on a single object (stores a single value).  [Serializability](https://aphyr.com/posts/333-serializability-linearizability-and-locality) deals with multiple objects.
 
 ## MVCC
 
-Multiversion concurrency control (MCC or MVCC), is a concurrency control method commonly used by database management systems to provide concurrent access to the database and in programming languages to implement transactional memory.
+[Multiversion concurrency control](https://wikipedia.org/wiki/Multiversion_concurrency_control)  (MCC or MVCC), is a concurrency control method commonly used by database management systems to provide concurrent access to the database and in programming languages to implement transactional memory.
 
-https://wikipedia.org/wiki/Multiversion_concurrency_control
+
 
 ## Distributed Consensus Protocols
 
