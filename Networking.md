@@ -45,7 +45,7 @@ https://cloud.google.com/compute/docs/internal-dns
 
 ### OSI Model
 
-The [Open Systems Interconnection model]( https://en.wikipedia.org/wiki/OSI_model  ) (OSI model) is a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. 
+The [Open Systems Interconnection model]( https://en.wikipedia.org/wiki/OSI_model  ) (OSI model) is a [conceptual model]( https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/  ) that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. 
 
 
 The recommendation X.200 describes seven layers, labelled 1 to 7.
