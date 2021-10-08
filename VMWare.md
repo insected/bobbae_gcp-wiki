@@ -55,6 +55,6 @@ vCenter works with ESX to enable monitoring and management of multiple ESX, ESXi
 
 ## VMware Cloud
 
-
+https://cloud.google.com/vmware-engine
 
 https://www.vmware.com/products/vmc-on-aws.html
