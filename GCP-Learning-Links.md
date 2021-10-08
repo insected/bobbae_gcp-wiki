@@ -7,6 +7,16 @@ https://github.com/sindresorhus/awesome
 
 https://en.m.wikipedia.org/wiki/List_of_lists_of_lists
 
+## Basics
+
+
+
+https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/
+
+
+
+https://github.com/alex/what-happens-when
+
 
 ## Github 
 
