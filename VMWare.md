@@ -6,7 +6,7 @@ https://www.vmware.com/products.html
 
 ## Type 1 Hypervisors
 
-These hypervisors run directly on the host's hardware to control the hardware and to manage guest operating systems. For this reason, they are sometimes called bare-metal hypervisors. 
+These hypervisors run directly on the host's hardware to control the hardware and to manage guest operating systems. For this reason, they are sometimes called [bare-metal hypervisors](https://www.vmware.com/topics/glossary/content/bare-metal-hypervisor). 
 
 ### VMware ESXi
 
@@ -14,7 +14,7 @@ These hypervisors run directly on the host's hardware to control the hardware an
 
 #### vCenter
 
-vCenter works with ESX to enable monitoring and management of multiple ESX, ESXi and GSX servers.
+[vCenter](https://en.m.wikipedia.org/wiki/VCenter) works with ESX to enable monitoring and management of multiple ESX, ESXi and GSX servers.
 
 ### Xen
 
