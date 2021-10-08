@@ -79,6 +79,19 @@ Service accounts are managed by IAM, and they represent non-human users. They ar
 [https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way)
 
 
+## Authentication between services
+
+https://cloud.google.com/endpoints/docs/openapi/service-account-authentication
+
+
+## JWT
+
+[JSON Web Tokens](https://jwt.io/) are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+
+## PASETO
+
+https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
+
 ## Examples
 
 https://cloud.google.com/docs/authentication#examples
