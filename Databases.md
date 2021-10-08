@@ -85,7 +85,7 @@ https://wikipedia.org/wiki/Multiversion_concurrency_control
 
 ## Distributed Consensus Protocols
 
-[Distributed consensus problem](Distributed-Consensus) requires agreement among a number of processes (or agents) for a single data value. Some of the processes (agents) may fail or be unreliable in other ways, so consensus protocols must be fault tolerant or resilient. 
+[Distributed consensus problem](Distributed-Consensus) requires agreement among a number of processes (or agents) for a single data value. 
 
 ## Database of Databases
 
