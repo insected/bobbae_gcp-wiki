@@ -10,6 +10,11 @@ There are  many [hosting options](  https://cloud.google.com/hosting-options ) t
 
 https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/
 
+
+### What happens when
+
+https://github.com/alex/what-happens-when
+
 ### GCP Concepts 
 
 https://cloud.google.com/compute/docs/concepts
