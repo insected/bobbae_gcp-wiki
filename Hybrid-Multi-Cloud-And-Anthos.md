@@ -12,57 +12,39 @@ https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-clo
 
 ## Anthos vs AWS Outposts vs Azure Stack
 
-The [AWS Outposts](https://aws.amazon.com/outposts/), Anthos and [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) have different goals and characteristics. Each has a unique approach to solving
+The [AWS Outposts](https://aws.amazon.com/outposts/), Anthos and [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) have different goals and characteristics. Each has [a unique approach](https://www.bizety.com/2020/06/28/aws-outposts-google-anthos-gke-and-azure-on-prem-overview/) to solving
 the hybrid multi cloud issues.
 
-https://www.bizety.com/2020/06/28/aws-outposts-google-anthos-gke-and-azure-on-prem-overview/
+
 
 ### AWS Outposts
 
-[AWS Outposts](https://aws.amazon.com/outposts/) is a fully managed service that offers the same AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience. 
+[AWS Outposts](https://aws.amazon.com/outposts/) is a  managed service that offers the same AWS infrastructure, AWS services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a  consistent hybrid experience. 
 
-AWS compute, storage, database, and other services run locally on Outposts, and you can access the full range of AWS services available in the Region to build, manage, and scale your on-premises applications using familiar AWS services and tools.
-
-Outposts is available as a 42U rack that can scale from 1 rack to 96 racks to create pools of compute and storage capacity. 
-
-https://aws.amazon.com/outposts/1u-2u/
+Outposts is available as a 42U rack that can scale from [1 rack to 96 racks](  https://aws.amazon.com/outposts/1u-2u/ ) to create pools of compute and storage capacity. 
 
 ### Azure Stack
 
 
-Azure Stack allows you to extend Azure services and capabilities to your environment of choice—from the datacenter to edge locations and remote offices—with Azure Stack. Build, deploy, and run hybrid and edge computing apps consistently across your IT ecosystem, with flexibility for diverse workloads.
-
-#### Azure Stack Edge
-
-Get rapid insights with an Azure managed appliance using compute and hardware-accelerated machine learning at edge locations for your Internet of Things (IoT) and AI workloads.
-
-
-#### Azure Stack HCI
-
-
-Refresh your virtualization host using a hybrid and hyperconverged solution integrated with Azure.
-
-https://docs.microsoft.com/en-us/azure-stack/hci/concepts/system-requirements
+[Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) allows you to extend Azure services and capabilities from the datacenter to [edge locations and remote offices](https://docs.microsoft.com/en-us/azure-stack/hci/concepts/system-requirements).
 
 #### Azure Stack Hub
 
-Run your own private, autonomous cloud—connected or disconnected with cloud-native apps using consistent Azure services on-premises.
+https://azure.microsoft.com/en-us/products/azure-stack/hub/
 
-### Discuss the diverse approaches
-
-How is Anthos approach different than AWS Output or Azure Stack.
+### How is Anthos approach different than AWS Output or Azure Stack
 
 https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-compared-aws-outposts-vs-azure-stack-vs-google-anthos.html
 
 
 #### Azure Stack approach
 
-Azure Stack is Microsoft's Azure cloud brought into an organization's own data center.  Azure Stack is running Microsoft Hyper-V, Windows and Microsoft networking and storage.   Azure Stack can run on qualified hardware from HPE, DELL, Cisco, Huawei and Lenovo. You can license Azure Stack and purchase your own hardware to install onto it.
+[Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) is Azure cloud brought into an organization's own data center.  Azure Stack is running  Hyper-V, Windows networking and storage on hardware from HPE, DELL, Cisco, Huawei and Lenovo. You can license Azure Stack and purchase your own hardware to install onto it.
 
 
 #### AWS Outposts approach
 
-[AWS](AWS) delivers pre-configured hardware and software to the customer data center or co-location space.  You can run VMware Cloud on AWS or run compute and storage on-premises using native AWS APIs used in the AWS cloud. Users can configure outposts with EC2 instances and EBS. It supports EKS, EMR, RDS, SageMaker and AWS MSK.
+[AWS](AWS) delivers pre-configured hardware and software to the customer data center or co-location space.  You can run [VMware Cloud on AWS](https://www.vmware.com/products/vmc-on-aws.html) or run compute and storage on-premises using native AWS APIs used in the AWS cloud. Users can configure outposts with EC2 instances and EBS. It supports EKS, EMR, RDS, SageMaker and AWS MSK.
 
 #### Oracle Cloud at Customer approach
 
