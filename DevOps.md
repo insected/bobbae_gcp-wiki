@@ -122,80 +122,77 @@ https://travis-ci.org/
 
 ### Tekton
 
-Tekton is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems. Tekton is a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details.
+[Tekton](https://tekton.dev/
+) is a cloud native continuous integration and delivery (CI/CD) solution. It allows developers to build, test, and deploy across cloud providers and on-premise systems. [Tekton](https://cloud.google.com/tekton
+) is a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you [build, test, and deploy across multiple cloud providers or on-premises systems](https://martinheinz.dev/blog/45
+) by abstracting away the underlying implementation details.
 
-https://cloud.google.com/tekton
-
-https://tekton.dev/
-
-https://martinheinz.dev/blog/45
 
 ## Build Tools
 
 ### Kaniko
 
-kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+[kaniko](https://github.com/GoogleContainerTools/kaniko
+) is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
 
 
-https://github.com/GoogleContainerTools/kaniko
 
 ### buildah
 
-a tool that facilitates building [Open Container Initiative](https://opencontainers.org/)  (OCI) container images.
+[Buildah](https://github.com/containers/buildah
+) is a tool that facilitates building [Open Container Initiative](https://opencontainers.org/)  (OCI) container images.
 
-https://github.com/containers/buildah
 
 
 ### pouch
 
-Alibaba container engine.
+[Pouch](https://github.com/alibaba/pouch
+) is a Alibaba container engine.
 
-https://github.com/alibaba/pouch
 
 ### k3c
 
-Lightweight local container engine for container development.
+[K3c](https://github.com/ibuildthecloud/k3c
+) is a Lightweight local container engine for container development.
 
-https://github.com/ibuildthecloud/k3c
 
 ### Buildkit
 
-BuildKit is a toolkit  for converting source code to build artifacts. It is party of [Moby Project](https://github.com/moby/moby).
+[BuildKit](https://github.com/moby/buildkit
+) is a toolkit  for converting source code to build artifacts. It is party of [Moby Project](https://github.com/moby/moby).
 
 
-https://github.com/moby/buildkit
 
 ### podmon
 
-Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
+[Podman](https://podman.io/
+) is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
 
-https://podman.io/
 
 
 ### Jib
 
-Build optimized containers for your Java applications.
+[Jib](https://cloud.google.com/blog/products/application-development/introducing-jib-build-java-docker-images-better) is a tool to Build optimized containers for your Java applications.
 
 [https://www.youtube.com/watch?v=p36tv1YWIfU](https://www.youtube.com/watch?v=p36tv1YWIfU)
 
 ### ko
 
-https://github.com/google/ko
 
-Build and deploy Go applications on Kubernetes.
+[Ko](https://github.com/google/ko
+) lets you Build and deploy Go applications on Kubernetes.
 
 ## Testing
 
-A successful DevOps testing strategy is one aimed at building, testing and releasing software faster and more frequently. If you're lucky enough to start out in a "greenfield" organization without an established coding culture, it's a good idea to try to create and automate your software delivery pipeline upfront.
+A successful DevOps [testing strategy](https://smartbear.com/blog/devops-testing-strategy-best-practices-tools/
+) is one aimed at building, testing and releasing software faster and more frequently. If you're lucky enough to start out in a "greenfield" organization without an established coding culture, it's a good idea to try to create and automate your software delivery pipeline upfront.
 
-https://smartbear.com/blog/devops-testing-strategy-best-practices-tools/
 
 
 ### Chaos Monkey
 
-Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures.
+[Chaos Monkey](https://netflix.github.io/chaosmonkey/) is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures.
 
-[https://netflix.github.io/chaosmonkey/](https://netflix.github.io/chaosmonkey/)
 
 ### Distributed load testing using Google Kubernetes Engine
 
