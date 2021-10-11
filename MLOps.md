@@ -8,7 +8,7 @@ Machine learning (ML) [workflows](Workflows) include steps to prepare and analyz
 
 ## AI  Platform  Pipelines 
 
-[AI Platform Pipelines](https://cloud.google.com/ai-platform/pipelines/docs) makes it easier to get started with MLOps by saving you the difficulty of setting up Kubeflow Pipelines with TensorFlow Extended (TFX). Kubeflow Pipelines is an open source platform for running, monitoring, auditing, and managing ML pipelines on Kubernetes. TFX is an open source project for building ML pipelines that orchestrate end-to-end ML workflows.
+[AI Platform Pipelines](https://cloud.google.com/ai-platform/pipelines/docs) makes it easier to get started with MLOps by saving you the difficulty of setting up Kubeflow Pipelines with [TensorFlow Extended](TFX) (TFX). Kubeflow Pipelines is an open source platform for running, monitoring, auditing, and managing ML pipelines on Kubernetes. [TFX](TFX) is an open source project for building ML pipelines that orchestrate end-to-end ML workflows.
 
 
 
