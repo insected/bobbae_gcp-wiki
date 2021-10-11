@@ -8,7 +8,7 @@ Google Cloud Dataflow makes it easy to process and analyze real-time streaming d
 
 [https://www.youtube.com/watch?v=7lJyq1hw_KI](https://www.youtube.com/watch?v=7lJyq1hw_KI)
 
-
+Dataflow uses your [pipeline code](https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline) to create an execution graph that represents your pipeline's [PCollections](https://cloud.google.com/dataflow/model/pcollection) and transforms.
 
 [https://www.youtube.com/watch?v=cqDBnOaS6O4](https://www.youtube.com/watch?v=cqDBnOaS6O4)
 
@@ -68,12 +68,12 @@ https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-seco
 
 
 
-## Creating a pipeline
+### Creating a pipeline
 
 Using the Apache Beam interactive runner with JupyterLab notebooks lets you [iteratively develop pipelines]( https://cloud.google.com/dataflow/docs/guides/interactive-pipeline-development ), inspect your pipeline graph, and parse individual PCollections in a read-eval-print-loop (REPL) workflow. These Apache Beam notebooks are made available through [AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs), a managed service that hosts notebook virtual machines pre-installed with the latest data science and machine learning frameworks.
 
 
-## Dataflow Templates 
+### Dataflow Templates 
 
 The [Dataflow templates]( https://github.com/GoogleCloudPlatform/DataflowTemplates  ) are an effort to solve simple, but large, in-Cloud data tasks, including data import/export/backup/restore and bulk API operations, without a development environment. The technology under the hood which makes these operations possible is the [Google Cloud Dataflow](https://cloud.google.com/dataflow/) service combined with a set of [Apache Beam](https://beam.apache.org/) SDK templated pipelines.
 
@@ -102,21 +102,22 @@ To create a template from your Apache Beam pipeline, you must modify your pipeli
 
 A [UDF](https://cloud.google.com/blog/topics/developers-practitioners/extend-your-dataflow-template-with-udfs) is a JavaScript snippet that implements a simple element processing logic, and is provided as an input parameter to the Dataflow pipeline. The UDF JavaScript code runs on [Nashorn JavaScript engine](https://developer.oracle.com/databases/nashorn-javascript-part1.html) included in the Dataflow worker’s Java runtime (applicable for Java pipelines such as Google-provided Dataflow templates). The code is invoked locally by a Dataflow worker for each element separately. Element payloads are serialized and passed as JSON strings back and forth.
 
-## Using Dataflow Flex templates
+### Using Dataflow Flex templates
 
 Dataflow Flex templates use docker containers.
 
 [https://cloud.google.com/dataflow/docs/guides/templates/using-flex-templates#python](https://cloud.google.com/dataflow/docs/guides/templates/using-flex-templates#python)
 
 
-## Migrating from App  Engine Map/reduce to Dataflow
+### Migrating from App  Engine Map/reduce to Dataflow
 
 [https://cloud.google.com/dataflow/docs/guides/gae-mapreduce-migration](https://cloud.google.com/dataflow/docs/guides/gae-mapreduce-migration)
 
 [ETL From Relational DB into BigQuery using DataFlow](https://cloud.google.com/solutions/performing-etl-from-relational-database-into-bigquery)
 
+### Logs at scale
 
-
+https://cloud.google.com/architecture/processing-logs-at-scale-using-dataflow
 
 
 ## Stopping
