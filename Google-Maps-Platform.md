@@ -4,7 +4,7 @@
 ## Google Maps Platform
 
 
-### Introduction
+http://mapsplatform.google.com/
 
 [Google Maps Platform](https://developers.google.com/maps/documentation/) includes Maps SDKs for Android and iOS, Maps Static API,
 
