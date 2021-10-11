@@ -358,6 +358,13 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
 
+### UDF
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-functions
+
+#### Testing UDF with Dataform
+
+https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataform-cli-tool-to-unit-test-udf
 
 ### Dremel
 
