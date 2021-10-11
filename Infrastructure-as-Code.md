@@ -74,7 +74,7 @@ The [OpenStack](https://www.openstack.org/) Foundation has a tool called [Heat](
 
 ### TOSCA
 
-[Topology and Orchestration Specification for Cloud Applications](https://en.wikipedia.org/wiki/OASIS_TOSCA) (TOSCA), is an OASIS standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
+[Topology and Orchestration Specification for Cloud Applications](https://en.wikipedia.org/wiki/OASIS_TOSCA) (TOSCA), is an [OASIS](https://www.oasis-open.org/) standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
 
 ### Cloudify
 
