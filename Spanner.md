@@ -188,12 +188,14 @@ The [Cloud Spanner SQL query optimizer](https://cloud.google.com/spanner/docs/qu
 
 ### Spanner Emulator
 
-The [Cloud SDK](https://cloud.google.com/sdk) provides a local, in-memory emulator, which you can use to develop and test your applications for free without creating a GCP Project or a billing account. As the emulator stores data only in memory, all state, including data, schema, and configs, is lost on restart. The emulator offers the same APIs as the Cloud Spanner production service and is intended for local development and testing, not for production deployments.
-The [emulator](https://cloud.google.com/spanner/docs/emulator) supports all languages of the client libraries. You can also use the emulator with the gcloud command-line tool and REST APIs.
-The emulator is also available as an open source project in [GitHub](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator).
-
+The [Cloud SDK](https://cloud.google.com/sdk) provides a local, in-memory emulator, which you can use to develop and test your applications.
+The [emulator](https://cloud.google.com/spanner/docs/emulator) supports the client libraries and REST APIs and available as an open source project in [GitHub](https://github.com/GoogleCloudPlatform/cloud-spanner-emulator).
 
 https://cloud.google.com/blog/topics/developers-practitioners/deployment-models-cloud-spanner-emulator
+
+#### Using emulator in CICD 
+
+https://cloud.google.com/blog/topics/developers-practitioners/using-cloud-spanner-emulator-cicd-pipelines
 
 ### BigQuery Spanner federation 
 
