@@ -39,10 +39,10 @@ Use Cloud Endpoints to deploy, test and  manage your API’s.
 
 ### Artifact Registry
 
-[Artifcat registry](https://cloud.google.com/artifacts/docs) is a universal package manager for all your build artifacts and dependencies. Fast, scalable, reliable and secure.
+[Artifcat registry](https://cloud.google.com/artifacts/docs) is a universal package manager for [various language](https://cloud.google.com/blog/products/application-development/node-python-and-javarepos-are-generally-available) build artifacts and dependencies. 
 
 
-[Container Registry](https://cloud.google.com/container-registry/docs) has evolved into [Artifact Registry](https://cloud.google.com/artifacts/docs)  - a platform that allows you to seamlessly manage container images, integrate with Cloud Build and third-party CI/CD systems. 
+[Container Registry](https://cloud.google.com/container-registry/docs) has evolved into [Artifact Registry](https://cloud.google.com/artifacts/docs).
 
 [https://www.youtube.com/watch?v=712Y0KpeHok](https://www.youtube.com/watch?v=712Y0KpeHok)
 
