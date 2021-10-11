@@ -62,6 +62,11 @@ https://cloud.google.com/vertex-ai/docs/tutorials
 
 https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153
 
+### Debug Training jobs using shell
+
+https://cloud.google.com/blog/topics/developers-practitioners/debugging-vertex-ai-training-jobs-interactive-shell
+
+
 ## Vertex AI Examples
 
 https://github.com/GoogleCloudPlatform/vertex-ai-samples
