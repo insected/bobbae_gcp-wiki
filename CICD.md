@@ -1,6 +1,7 @@
 
 [CI/CD](https://en.wikipedia.org/wiki/CI/CD) bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications. 
 
+[DevOps](DevOps) practices involve continuous development, continuous testing, continuous integration, continuous deployment and continuous monitoring of software applications throughout its development life cycle.
 
 ## CICD Tools
 
