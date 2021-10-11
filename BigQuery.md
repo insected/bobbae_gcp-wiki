@@ -634,6 +634,10 @@ https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac129
 
 https://towardsdatascience.com/the-fastest-way-to-fetch-bigquery-tables-352e2e26c9e1
 
+### BigQuery fetching and Multi-processing
+
+https://towardsdatascience.com/bigquery-fetching-multiprocessing-dcb79de50108
+
 ### Monitoring BigQuery
 
 https://medium.com/teads-engineering/managing-a-bigquery-data-warehouse-at-scale-e6ec9a8406b2
