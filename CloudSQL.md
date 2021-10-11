@@ -1,46 +1,45 @@
 [Cloud SQL](https://cloud.google.com/sql ) is a fully managed service that makes it easy to set up, manage, and administer relational [SQL](SQL) databases: [PostgreSQL](  https://www.postgresql.org/ ), [MySQL](  https://www.mysql.com/  ), and [SQL Server](   https://wikipedia.org/wiki/Microsoft_SQL_Server ).
 
 
-## CloudSQL for MySQL
+### CloudSQL for MySQL
 
 https://cloud.google.com/sql/docs/mysql
 
-## CloudSQL for PostgreSQL
+### CloudSQL for PostgreSQL
 
 https://cloud.google.com/sql/docs/postgres
 
-## Database Migration Service
+### Database Migration Service
 
-Database Migration Service (DMS) makes it easy to migrate your production databases to Cloud SQL with minimal downtime. This serverless offering eliminates the manual hassle of provisioning, managing, and monitoring migration-specific resources. DMS leverages the native replication capabilities of MySQL and PostgreSQL to maximize the fidelity and reliability of your migration. And it’s available at no additional charge for native like-to-like migrations to Cloud SQL.
-
-https://cloud.google.com/database-migration
-
-
-## High Availability
-
-The purpose of an HA configuration is to reduce downtime when a zone or instance becomes unavailable. This might happen during a zonal outage, or when an instance becomes corrupted. With HA, your data continues to be available to client applications.
+[Database Migration Service](https://cloud.google.com/database-migration
+) (DMS) makes it easy to migrate your production databases to Cloud SQL with minimal downtime. This serverless offering eliminates the manual hassle of provisioning, managing, and monitoring migration-specific resources. DMS leverages the native replication capabilities of MySQL and PostgreSQL to maximize the fidelity and reliability of your migration. And it’s available at no additional charge for native like-to-like migrations to Cloud SQL.
 
 
-https://cloud.google.com/sql/docs/mysql/high-availability
 
-## Importing and exporting data
+### High Availability
+
+[HA](https://cloud.google.com/sql/docs/mysql/high-availability
+) features reduce downtime when a zone or instance becomes unavailable which might happen during a zonal outage, or when an instance becomes corrupted.
+
+
+### Importing and exporting data
 
 
 https://cloud.google.com/sql/docs/mysql/import-export
 
-## Users & IAM
+### Users & IAM
 
 https://cloud.google.com/sql/docs/mysql/add-manage-iam-users
 
-## Security and Access Control
+### Security and Access Control
 
 https://cloud.google.com/sql/docs/mysql/authentication
 
-## Best Practices
+### Best Practices
 
 https://cloud.google.com/sql/docs/mysql/best-practices
 
-## Replication
+### Replication
 
 [Replication]( https://cloud.google.com/sql/docs/sqlserver/replication?hl=en   ) is the ability to create copies of a Cloud SQL instance or an on-premises database, and offload work to the copies.
 
@@ -72,20 +71,20 @@ https://cloud.google.com/sql/docs/mysql/replication#cross-region-read-replicas
 
 
 
-## Maintenance
+### Maintenance
 
 https://cloud.google.com/blog/products/databases/how-cloud-sql-maintenance-works-to-keep-instances-updated
 
-## Backups
+### Backups
 
 
 https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 
-## Disaster Recovery
+### Disaster Recovery
 
 https://cloud.google.com/architecture/intro-to-cloud-sql-disaster-recovery
 
-## CloudSQL Insights
+### CloudSQL Insights
 
 https://cloud.google.com/blog/products/databases/get-ahead-of-database-performance-issues-with-cloud-sql-insights
 
@@ -100,3 +99,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/upgrade-postgres-p
 ### Creating alerts based on Cloud SQL logs
 
 https://cloud.google.com/blog/products/databases/learn-how-to-create-alerts-based-on-your-database-logs-in-cloud-sql
+
+## Examples
+
+### Cherre
+
+https://cloud.google.com/blog/products/databases/how-cherre-creates-real-estate-data-products-with-cloud-sql
