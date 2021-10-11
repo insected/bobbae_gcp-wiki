@@ -11,10 +11,24 @@
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 
-## Backup for GKE
+### Backup for GKE
 
 
 https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-launches-backups-for-gke
+
+### GKE Workload Metrics
+
+[G​K​E workload metrics](https://cloud.google.com/stackdriver/docs/solutions/gke/managing-metrics#workload-metrics) provide way to monitor Kubernetes applications using Cloud Monitoring.
+
+
+
+### Quotas and Limits
+
+https://cloud.google.com/kubernetes-engine/quotas
+
+### GKE vs EKS vs AKS
+
+https://www.stackrox.com/post/2021/01/eks-vs-gke-vs-aks-jan2021/
 
 
 ## Examples
@@ -55,11 +69,3 @@ This video will teach you how to create a Google Kubernetes Engine (GKE) cluster
 Here are some tutorials for using Terraform to manage Kubernetes on GCP.
 [HashCorp Terraform Kubernetes Tutorials](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes)
 
-
-## Quotas and Limits
-
-https://cloud.google.com/kubernetes-engine/quotas
-
-## GKE vs EKS vs AKS
-
-https://www.stackrox.com/post/2021/01/eks-vs-gke-vs-aks-jan2021/
