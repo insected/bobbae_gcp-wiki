@@ -159,7 +159,7 @@ https://travis-ci.org/
 ### Buildkit
 
 [BuildKit](https://github.com/moby/buildkit
-) is a toolkit  for converting source code to build artifacts. It is party of [Moby Project](https://github.com/moby/moby).
+) is a toolkit  for converting source code to build artifacts. It is a part of [Moby Project](https://github.com/moby/moby).
 
 
 
