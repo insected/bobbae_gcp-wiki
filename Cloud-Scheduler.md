@@ -15,4 +15,6 @@ https://cloud.google.com/scheduler/docs/setup
 
 https://cloud.google.com/scheduler/docs/tut-pub-sub
 
+#### Using Scheduler to emulate pg_cron
 
+https://medium.com/google-cloud/postgresql-extension-turned-cloud-microservce-abf6e187c6d
