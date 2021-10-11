@@ -52,7 +52,7 @@ Each node provides a number of processing units called [BigQuery slots](https://
 
 https://panoply.io/data-warehouse-guide/bigquery-architecture/
 
-## No Index
+### No Index
 
 Each time BigQuery executes a query, it executes [a full-column scan](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned. You can achieve this by using partition filters based on PARTITIONTIME or PARTITIONDATE.
 
@@ -64,59 +64,60 @@ https://github.com/jorwalk/data-engineering-gcp/blob/master/know/bigquery/best-p
 
 https://cloud.google.com/architecture/bigquery-data-warehouse#query_optimization
 
-## Data Types
+### Data Types
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types
 
-## Query Syntax
+### Query Syntax
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
 
-## Query Plan
+### Query Plan
 
 To understand the performance characteristics after a query executes, take a look at the detailed query plan explanation. The explanation breaks down the stages that the query went through, the number of input/output rows handled at each stage, and the timing profile within each stage. Using the results from the explanation can help you understand and optimize your queries.
 
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing
 
-## Testable SQL
+### Testable SQL
 
 https://tufin.medium.com/testable-bigquery-sql-61a911e35ab5
 
-## Managed
+### Serverless
 
 With BigQuery, there's no infrastructure to set up or manage, letting you [focus on finding insights](https://cloudblog.withgoogle.com/products/data-analytics/new-blog-series-bigquery-explained-overview/) using standard SQL and taking advantage of flexible pricing models across on-demand and flat-rate options.
 
-## Wide Column Storage
+### Wide Column Storage
 
 [BigQuery](https://www.youtube.com/watch?v=sUcInkIqClI&list=PL6oqHwbsfYMwAC5cedqFSCQwaO_gBoYf8&index=1)  is designed to [ingest and store](https://www.youtube.com/watch?v=d3MDxC_iuaw) large amounts of data, and make that data accessible for fast, [large-scale analytics](https://www.youtube.com/watch?v=JLXLCv5nUCE&list=PLIivdWyY5sqIZLeLzyg1B-Pd1MIOo6d-g) - to help analysts and developers alike. BigQuery [stores data in wide columns](https://www.youtube.com/watch?v=1gYUGv_omJA) which are in separate files that are compressed and work well with distributed systems like [Colossus](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system). 
 
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-storage
 
-## In-Memory Shuffling
+### In-Memory Shuffling
 
 BigQuery is a data warehouse that uses [dynamic query planning](https://cloud.google.com/bigquery/query-plan-explanation) and different shards using in-memory shuffling for optimal distributed performance.
 
 [This document](https://cloud.google.com/bigquery/docs/clustered-tables) provides an overview of table clustering capabilities in BigQuery which allow for [better partitioning and performance](https://www.youtube.com/watch?v=1gYUGv_omJA).
 
 
-## Loading Data
+### Loading Data
 
 Learn [how to load](https://www.youtube.com/watch?v=Abzj-Vyhi74) CSV data in batch, and analyze your own data in BigQuery.
 
-## Peta Bytes
+### Peta Bytes
 
 [BigQuery](https://www.youtube.com/watch?v=ZVgt1-LfWW4) is [fully managed](https://www.youtube.com/watch?v=7bW7P-8SJ_4&list=PLIivdWyY5sqIF17nHLuY3_XkFjrqb54Hw&index=1) and lets you search through terabytes of data in seconds. It’s also cost effective: you can store gigabytes, terabytes, or even [petabytes of data](https://www.youtube.com/watch?v=qqbYrQGSibQ).
 
-## BigQuery Data Transfer Service
+### BigQuery Data Transfer Service
 
 You can [upload data](https://cloud.google.com/bigquery/docs/batch-loading-data?skip_cache=true) files from local sources, Google Drive, or Cloud Storage buckets, take advantage of [BigQuery Data Transfer Service](https://cloud.google.com/bigquery-transfer/docs/introduction?skip_cache=true) (DTS), [Cloud Data Fusion](Data-Fusion) plug-ins, or leverage Google's industry-leading [data integration partnerships](https://cloud.google.com/bigquery?skip_cache=true#section-12). You have ultimate flexibility in how you bring data into your data warehouse. 
 
+### BigQuery Migration Service
 
+https://cloud.google.com/blog/topics/data-warehousing/announcing-bigquery-migration-service
 
-
-## Anatomy of a BigQuery query
+### Anatomy of a BigQuery query
 
 Google [BigQuery](https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood) is a lightning-fast analytics database. Customers find BigQuery performance liberating, allowing them to experiment with enormous datasets without compromise. But how fast is BigQuery really? And what does it take to achieve BigQuery speeds? Let’s check out the [publically-available bigquery-samples:wikipedia_benchmark](https://console.cloud.google.com/bigquery?project=publicdata&page=table&t=wikipedia&d=samples&p=publicdata), specifically the Wiki100B table. This table contains 100 billion rows and is about 7 Terabytes in size.
 
@@ -131,7 +132,7 @@ That’s a lot of resources! So it’s quite impressive that BigQuery lets you u
 
 [https://cloud.google.com/blog/products/gcp/anatomy-of-a-bigquery-query](https://cloud.google.com/blog/products/gcp/anatomy-of-a-bigquery-query)
 
-## In memory query execution
+### In memory query execution
 
 BigQuery is a fast petabyte-scale analytics database. To achieve that level of performance, BigQuery executes queries completely in memory. Most databases and data processing systems achieve scalability using hybrid executors that operate on both disk and memory. Meanwhile, BigQuery’s execution engine builds simple and purely in-memory operators and achieves petabyte-scale analytics through scalable data repartitioning, or "shuffle." This post takes a closer look at BigQuery shuffle, and how it enables high performance, in-memory query execution by leveraging Google’s petabit-scale networking technologies, such as Jupiter.
 
@@ -148,20 +149,20 @@ The variety of BigQuery query characteristics and requirements called for rethin
 
 
 
-## Query plan and timeline
+### Query plan and timeline
 
 
 When BigQuery executes a query job, it converts the declarative SQL statement into a graph of execution, broken up into a [series of query stages](https://cloud.google.com/bigquery/query-plan-explanation), which themselves are composed of more granular sets of execution steps. BigQuery leverages a heavily distributed parallel architecture to run these queries. Stages model the units of work that many potential workers may execute in parallel. Stages communicate with one another by using a fast distributed shuffle architecture, which you can read about at In-memory query execution in BigQuery.
 
 Within the [query plan](https://cloud.google.com/bigquery/query-plan-explanation), the terms work units and workers are used to convey information specifically about parallelism. Elsewhere within BigQuery, you may encounter the term slot", which is an abstracted representation of multiple facets of query execution, including compute, memory, and I/O resources. Top level job statistics provide the estimate of individual query cost using the totalSlotMs estimate of the query using this abstracted accounting.
 
-## Managing input data and data sources
+### Managing input data and data sources
 
 When [evaluating](https://cloud.google.com/bigquery/docs/best-practices-performance-input) your input data, consider the required I/O. How many bytes does your query read? Are you properly limiting the amount of input data? Is your data in native BigQuery storage or an external data source? The amount of data read by a query and the source of the data impact query performance and cost.
 
 
 
-## BigQuery Spanner federation 
+### BigQuery Spanner federation 
 
 BigQuery Spanner federation  enables BigQuery to query data residing in Spanner in real-time, without copying or moving data.
 https://cloud.google.com/bigquery/docs/cloud-spanner-federated-queries
@@ -170,7 +171,7 @@ https://cloud.google.com/bigquery/docs/cloud-spanner-federated-queries
 
 https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-spanner-bigquery-scale
 
-## Optimizing communication between slots
+### Optimizing communication between slots
 
 When evaluating your [communication](https://cloud.google.com/bigquery/docs/best-practices-performance-communication) throughput, consider the amount of shuffling that is required by your query. How many bytes are passed between stages? How many bytes are passed to each slot? For example, a GROUP BY clause passes like values to the same slot for processing. The amount of data that is shuffled directly impacts communication throughput and as a result, query performance.
 
@@ -178,32 +179,32 @@ When evaluating your [communication](https://cloud.google.com/bigquery/docs/best
 
 https://boonepeter.github.io/posts/unnecessary_bigquery_optimization
 
-## Time Travel
+### Time Travel
 
 BigQuery lets you use time travel to access data stored in BigQuery that has been changed or deleted. You can access the data from any point within the last seven days. You can use time travel to query data that was updated or deleted, restore a table that was deleted, or restore a table that expired.
 
 https://cloud.google.com/bigquery/docs/time-travel
 
 
-## Optimizing query computation
+### Optimizing query computation
 
 When evaluating the computation that is required by a query, consider the [amount of work](https://cloud.google.com/bigquery/docs/best-practices-performance-compute) that is required. How much CPU time is required? Are you using functions like JavaScript user-defined functions that require additional CPU resources?
 
 
 
 
-## Managing materialization and outputs
+### Managing materialization and outputs
 
 When evaluating your output data, consider the number of bytes written by your query. How many bytes are written for your result set? Are you properly limiting the amount of data written? Are you repeatedly writing the same data? The amount of data written by a query impacts query performance (I/O). If you are writing results to a permanent (destination) table, the amount of data written also has a cost.
 
 
+## Using BigQuery
 
-
-## Anti patterns
+### Anti patterns
 
 Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns) that impact performance in BigQuery.
 
-## Managing partitioned tables
+### Managing partitioned tables
 
 A partitioned table is a special table that is divided into segments, called partitions, that make it easier to manage and query your data. By dividing a large table into smaller partitions, you can improve query performance, and you can control costs by reducing the number of bytes read by a query.
 
@@ -339,15 +340,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-go
 
 
 
-
-
 ### Organizing BigQuery resources
 
 Resource Hierarchy.
 
 https://cloud.google.com/bigquery/docs/resource-hierarchy
 
-## BigQuery Security
 
 ### BigQuery Column-level security
 
@@ -359,7 +357,9 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
-## Dremel
+
+
+### Dremel
 
 [Dremel](https://research.google/pubs/pub36632/) is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
 
@@ -376,31 +376,27 @@ Further, there are two ways to use Dremel outside of Google. The first is Google
 
 http://www.goldsborough.me/distributed-systems/2019/05/18/21-09-00-a_look_at_dremel/
 
-## INFORMATION_SCHEMA
+### INFORMATION_SCHEMA
 
 https://cloud.google.com/bigquery/docs/information-schema-intro
 
 
-## Denormalize whenever possible
+### Denormalize whenever possible
 
 https://cloud.google.com/bigquery/docs/best-practices-performance-input#denormalize_data_whenever_possible
 
 
-## Building the world’s largest data warehouse
+### Building the world’s largest data warehouse
 
 [https://www.youtube.com/watch?v=1gYUGv_omJA](https://www.youtube.com/watch?v=1gYUGv_omJA)
 
 
 
-## BigQuery nested and repeated fields
+### BigQuery nested and repeated fields
 
 [https://www.youtube.com/watch?v=STo98QUKDS8](https://www.youtube.com/watch?v=STo98QUKDS8)
 
 
-
-
-
-## Data Warehouse Topics
 
 
 ### BigQuery, Snowflake and Redshift
@@ -430,12 +426,12 @@ A [Galaxy Schema](  https://www.educba.com/galaxy-schema/  ) contains two fact t
 https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
 
-## Public Datasets
+### Public Datasets
 
 [https://cloud.google.com/bigquery/public-data](https://cloud.google.com/bigquery/public-data)
 
 
-## BigQuery Standard SQL
+### BigQuery Standard SQL
 
 BigQuery supports two different SQL dialects: standard SQL and legacy SQL. Legacy SQL may be useful if you want to test queries coming from legacy applications.
 
@@ -454,14 +450,14 @@ https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendl
 
 
 
-## BigQuery BI Engine 
+### BigQuery BI Engine 
 
 [BigQuery BI Engine](https://cloud.google.com/bi-engine/docs) is a fast, in-memory analysis service that allows you to analyze data stored in BigQuery. 
 
 
 
 
-## Data Security and Governance
+### Data Security and Governance
 
 Data governance is a principled approach to manage data during its lifecycle — from acquisition, to use, to disposal. Your data governance program clearly outlines policies, procedures, responsibilities, and controls surrounding data activities. This program helps to ensure that information is collected, maintained, used, and disseminated in such a way that both meets your organization's data integrity and [security](security) needs, and also helps empower your employees to discover and use the data to its fullest potential.
 
@@ -472,7 +468,7 @@ https://cloud.google.com/bigquery/docs/data-governance
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
-## Using Connected Sheets with BigQuery
+### Using Connected Sheets with BigQuery
 
 With Connected Sheets, you can access, analyze, visualize, and share billions of rows of BigQuery data from your Sheets spreadsheet.
 
@@ -486,7 +482,7 @@ You can also do the following:
 
 https://cloud.google.com/bigquery/docs/connected-sheets
 
-## Pricing
+### Pricing
 
 BigQuery is a [serverless](Serverless) data analytics platform. You don't need to provision individual instances or virtual machines to use BigQuery. Instead, BigQuery automatically allocates computing resources as you need them. You can also reserve compute capacity ahead of time in the form of slots, which represent virtual CPUs. The pricing structure of BigQuery reflects this design.
 
@@ -508,21 +504,22 @@ https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-
 https://cloud.google.com/bigquery/pricing#flat_rate_pricing
 
 
-## Regional performances
+
+### Regional performances
 
 
 https://medium.com/google-cloud/bigquery-tell-me-your-region-i-will-tell-you-your-speed-41dcf42b8cc
 
 
-## Sandbox
+### Sandbox
 
 https://cloud.google.com/bigquery/docs/sandbox
 
-## Importing existing BigQuery Resources to Terraform
+### Importing existing BigQuery Resources to Terraform
 
 https://medium.com/trendyol-tech/importing-existing-bigquery-resources-to-terraform-automatically-f52a36b6e819
 
-## Looker and BigQuery
+### Looker and BigQuery
 
 [Looker](Looker) is an enterprise platform for business intelligence, data applications, and embedded analytics. Looker helps you explore, share, and visualize your company's data so that you can make better business decisions.
 
@@ -532,24 +529,24 @@ https://cloud.google.com/bigquery/docs/looker
 
 
 
-## BigQuery GIS 
+### BigQuery GIS 
 
 [BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-intro) uniquely combines the serverless architecture of BigQuery with native support for geospatial analysis, so you can augment your analytics workflows with location intelligence. 
 
 https://mentin.medium.com/bigquery-geospatial-query-tricks-8ebb4453ab5e
 
-## BigQuery Omni
+### BigQuery Omni
 
 [BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
 
 
 
-## BigQuery ML 
+### BigQuery ML 
 
 [BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
 
 
-## Comparing BigQuery Processing and Spark Dataproc
+### Comparing BigQuery Processing and Spark Dataproc
 
 https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-4c90c10e31ac
 
