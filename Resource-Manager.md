@@ -12,3 +12,11 @@ Setting up your Google Cloud Platform resources correctly can save you a lot of 
 Folders are a powerful tool for administering GCP resources in Cloud Resource Manager. Watch this demo video to learn how to get started using folders to help organize and control your cloud resources.
 
 [https://www.youtube.com/watch?v=0oJZhlgDbg8](https://www.youtube.com/watch?v=0oJZhlgDbg8)
+
+### Organizational Policy
+
+https://cloud.google.com/resource-manager/docs/organization-policy/overview
+
+#### Default Guide
+
+https://medium.com/google-cloud/org-policies-by-default-3adc0c8925b0
