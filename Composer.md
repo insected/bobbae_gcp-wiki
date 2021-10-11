@@ -158,6 +158,9 @@ https://cloud.google.com/architecture/cicd-pipeline-for-data-processing
 
 https://cloud.google.com/dataproc/docs/tutorials/workflow-composer
 
+### Use case LoveHolidays.com
+
+https://tech.loveholidays.com/out-of-the-data-tar-pit-how-loveholidays-escaped-from-a-legacy-reporting-system-and-kept-the-data-331c5e1f0ee2
 
 ## Qwiklabs
 
