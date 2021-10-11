@@ -44,6 +44,11 @@ You can use [Cloud Workflows](Workflows) to create serverless workflows that lin
 
 [https://www.youtube.com/watch?v=Uz8G8fTwwXs](https://www.youtube.com/watch?v=Uz8G8fTwwXs)
 
+## Cloud Tasks
+
+[Cloud Tasks](cloud-tasks) lets you separate out pieces of work that can be performed independently, outside of your main application flow, and send them off to be processed, asynchronously, using handlers that you create.
+
+
 ## Examples
 
 ### Serverless Tensorflow Predictions at Scale
