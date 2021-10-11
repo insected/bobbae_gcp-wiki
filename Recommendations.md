@@ -113,3 +113,6 @@ https://cloud.google.com/blog/topics/developers-practitioners/how-get-better-ret
 
 https://cloud.google.com/blog/topics/developers-practitioners/recommendations-ai-data-ingestion
 
+### Serving predictions 
+
+https://cloud.google.com/blog/topics/developers-practitioners/serving-predictions-evaluating-recommendations-ai
