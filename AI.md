@@ -58,6 +58,10 @@ https://cloud.google.com/vertex-ai/docs/start/ai-platform-users
 
 https://cloud.google.com/vertex-ai/docs/tutorials
 
+### Introductory Tutorial
+
+https://blog.doit-intl.com/google-vertex-ai-the-easiest-way-to-run-ml-pipelines-3a41c5ed153
+
 ## Vertex AI Examples
 
 https://github.com/GoogleCloudPlatform/vertex-ai-samples
