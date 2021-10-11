@@ -18,6 +18,10 @@ https://tensorflow.google.cn/tfx/tutorials/tfx/gcp/vertex_pipelines_simple
 https://www.tensorflow.org/tfx/tutorials/tfx/cloud-ai-platform-pipelines
 
 
+### Reading data from BigQuery with TFX and Vertex Pipelines
+
+https://tensorflow.google.cn/tfx/tutorials/tfx/gcp/vertex_pipelines_bq
+
 ### Model training as a CI/CD system
 
 
