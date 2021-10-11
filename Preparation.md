@@ -10,6 +10,10 @@ You can use [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.  
 
 If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin) to [get some Qwiklabs credits](https://edu.google.com/programs/credits/training). You may [sign up](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) as a new partner or [apply for training discount](https://inthecloud.withgoogle.com/training-discount/register.html) using your email address. 
 
+#### Google Cloud Skills Boost
+
+https://cloud.google.com/blog/topics/training-certifications/google-cloud-to-train-more-than-40-million-with-cloud-skills
+
 ### Using GCP Account
 
 If you do not get Qwiklab's credit, do not worry. You can still learn using Qwiklabs content by using the real GCP account.  You can either use [GCP free tier](https://cloud.google.com/free) or a normal GCP account billed separately.
