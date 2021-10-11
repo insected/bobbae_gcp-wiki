@@ -172,7 +172,7 @@ https://travis-ci.org/
 
 ### Jib
 
-[Jib](https://cloud.google.com/blog/products/application-development/introducing-jib-build-java-docker-images-better) is a tool to Build optimized containers for your Java applications.
+[Jib](https://cloud.google.com/blog/products/application-development/introducing-jib-build-java-docker-images-better) is a tool to build optimized containers for your Java applications.
 
 [https://www.youtube.com/watch?v=p36tv1YWIfU](https://www.youtube.com/watch?v=p36tv1YWIfU)
 
@@ -180,7 +180,7 @@ https://travis-ci.org/
 
 
 [Ko](https://github.com/google/ko
-) lets you Build and deploy Go applications on Kubernetes.
+) lets you build and deploy Go applications on Kubernetes.
 
 ## Testing
 
