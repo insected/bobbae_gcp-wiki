@@ -148,3 +148,7 @@ https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
 ### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
 
 Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
+
+### Analyzing Twitter sentiment 
+
+https://cloud.google.com/blog/topics/developers-practitioners/analyzing-twitter-sentiment-new-workflows-processing-capabilities
