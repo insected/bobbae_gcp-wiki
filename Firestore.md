@@ -78,3 +78,7 @@ https://medium.com/@xathis/import-csv-firebase-firestore-without-code-gui-tool-3
 ### Reading configuration data from Firestore using REST API
 
 https://soumendra-mishra.medium.com/how-to-read-google-firestore-data-using-rest-api-1386df45c420
+
+### rowy
+
+https://www.rowy.io/
