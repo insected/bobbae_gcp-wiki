@@ -7,6 +7,12 @@ A TFX pipeline is a sequence of components that implement an ML pipeline which i
 
 https://tensorflow.google.cn/tfx/tutorials/tfx/penguin_simple
 
+
+### Simple TFX Pipeline for Vertex Pipelines
+
+https://tensorflow.google.cn/tfx/tutorials/tfx/gcp/vertex_pipelines_simple
+
+
 ### TFX on Cloud AI Platform Pipelines
 
 https://www.tensorflow.org/tfx/tutorials/tfx/cloud-ai-platform-pipelines
