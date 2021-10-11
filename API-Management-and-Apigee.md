@@ -10,7 +10,7 @@ To accelerate the speed of development, enterprise IT teams need to take an [API
 API Gateway enables you to provide secure access to your backend services through a well-defined REST API that is consistent across all of your services, regardless of the service implementation. Clients consume your REST APIS to implement standalone apps for a mobile device or tablet, through apps running in a browser, or through any other type of app that can make a request to an HTTP endpoint.
 
 
-## API Management, Apigee
+### API Management, Apigee
 
 [Apigee](https://cloud.google.com/apigee) is a Full-LifeCycle API Management tool.
 
@@ -63,18 +63,18 @@ Apigee hybrid is a platform for developing and managing API proxies that feature
 
 [https://docs.apigee.com/hybrid/what-is-hybrid](https://docs.apigee.com/hybrid/what-is-hybrid)
 
-## Kong
+### Kong
 
 [Kong](https://konghq.org/) makes connecting APIs and microservices across hybrid or multi-cloud environments easier and faster than ever. We power trillions of API transactions for leading organizations globally through our end-to-end API platform. 
 
-## Ambassador API gateway
+### Ambassador API gateway
 
 Emissary Ingress (formerly known as the [Ambassador API Gateway](https://www.getambassador.io)) is an open-source Kubernetes-native API Gateway + Layer 7 load balancer + Kubernetes Ingress built on [Envoy Proxy](https://www.envoyproxy.io). Emissary Ingress is an CNCF incubation project.
 
 The [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/) is a complete superset of the OSS Emissary Ingress project that offers additional functionality. Edge Stack is designed to easily expose, secure, and manage traffic to your Kubernetes microservices of any type. Edge Stack was built around the ideas of self-service (enabling GitOps-style management) and comprehensiveness (so it works with your situations and technology solutions). 
 
 
-## Synchronous vs Asynchronous APIs
+### Synchronous vs Asynchronous APIs
 
 https://cloud.google.com/blog/topics/developers-practitioners/differences-between-synchronous-web-apis-and-asynchronous-stateful-apis
 
@@ -83,3 +83,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/differences-betwee
 ### Secure Cloud Functions with API Gateway
 
 https://beranger.medium.com/secure-google-cloud-functions-with-api-gateway-848f687963ae
+
+### Rate limit Cloud Functions with API Gateway
+
+https://beranger.medium.com/rate-limit-google-cloud-functions-with-api-gateway-19b54bb9d9e9
