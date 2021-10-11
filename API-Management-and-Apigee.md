@@ -77,3 +77,9 @@ The [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/) i
 ## Synchronous vs Asynchronous APIs
 
 https://cloud.google.com/blog/topics/developers-practitioners/differences-between-synchronous-web-apis-and-asynchronous-stateful-apis
+
+## Examples
+
+### Secure Cloud Functions with API Gateway
+
+https://beranger.medium.com/secure-google-cloud-functions-with-api-gateway-848f687963ae
