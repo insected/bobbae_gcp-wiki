@@ -245,6 +245,11 @@ https://cloud.google.com/blog/products/databases/migrating-to-cloud-spanner-from
 
 https://eng.uber.com/building-ubers-fulfillment-platform/
 
+### Lovoo
+
+https://cloud.google.com/blog/products/databases/dating-app-lovoo-scales-the-love-on-cloud-spanner
+
+
 ## Qwiklabs
 
 
