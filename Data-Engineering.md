@@ -15,6 +15,10 @@ What is [the difference]( https://blog.panoply.io/what-is-the-difference-between
 
 What's the [difference between Data Analytics vs Data Engineering]( https://www.thinkful.com/blog/data-analyst-vs-data-engineer/)?  
 
+### Data analyst driven organizations
+
+https://cloud.google.com/blog/products/data-analytics/building-the-data-analyst-driven-organization
+
 ## Database options
 
 One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU).  [Choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing. We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
