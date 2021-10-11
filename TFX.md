@@ -2,6 +2,11 @@
 
 A TFX pipeline is a sequence of components that implement an ML pipeline which is specifically designed for scalable, high-performance machine learning tasks. Components are built using TFX libraries which can also be used individually.
 
+
+### Getting started
+
+https://tensorflow.google.cn/tfx/tutorials/tfx/penguin_simple
+
 ### TFX on Cloud AI Platform Pipelines
 
 https://www.tensorflow.org/tfx/tutorials/tfx/cloud-ai-platform-pipelines
