@@ -102,6 +102,6 @@ https://cloud.google.com/blog/products/databases/learn-how-to-create-alerts-base
 
 ## Examples
 
-### Cherre
+### Cherre use case with Postgres and GraphQL
 
 https://cloud.google.com/blog/products/databases/how-cherre-creates-real-estate-data-products-with-cloud-sql
