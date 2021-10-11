@@ -69,16 +69,17 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overvie
 
 ### Openstack Heat
 
-The [OpenStack](https://www.openstack.org/) Foundation has a tool called [Heat](https://wiki.openstack.org/wiki/Heat) for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt TOSCA for standardized templating.
+The [OpenStack](https://www.openstack.org/) Foundation has a tool called [Heat](https://wiki.openstack.org/wiki/Heat) for specifying resources and the orchestrations for managing infrastructure, and application lifecycles. The heat-translator project was one of the first to adopt [TOSCA](https://en.wikipedia.org/wiki/OASIS_TOSCA) for standardized templating.
 
 
 ### TOSCA
 
-[Topology and Orchestration Specification for Cloud Applications](https://en.wikipedia.org/wiki/OASIS_TOSCA) (TOSCA), is an [OASIS](https://www.oasis-open.org/) standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. The TOSCA standard includes specifications to describe processes that create or modify web services.
+[Topology and Orchestration Specification for Cloud Applications](https://en.wikipedia.org/wiki/OASIS_TOSCA) (TOSCA), is an [OASIS](https://www.oasis-open.org/) standard language to describe a topology of cloud based web services, their components, relationships, and the processes that manage them. 
+
 
 ### Cloudify
 
-[Cloudify](https://cloudify.co/) is an open-source TOSCA-based orchestration framework based on YAML.
+[Cloudify](https://cloudify.co/) is an open-source [TOSCA](https://en.wikipedia.org/wiki/OASIS_TOSCA) based orchestration framework based on YAML.
 
 
 
