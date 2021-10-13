@@ -1,6 +1,5 @@
-What is [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ?
 
-[Machine learning](https://developers.google.com/machine-learning/crash-course/) (ML) is the study of computer algorithms that improve automatically through experience and by the use of data. 
+[Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) is the study of [computer algorithms that improve automatically](https://developers.google.com/machine-learning/crash-course/) through experience and data. 
 
 
 
