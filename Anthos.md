@@ -25,6 +25,11 @@ Anthos is Google’s new managed applications platform, which lets you run Kuber
 
 https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-cloud-platform
 
+## Distributed Cloud
+
+[Google Distributed Cloud](https://cloud.google.com/distributed-cloud) is a portfolio of fully managed hardware and software solutions which extends Google Cloud’s infrastructure and services to the edge and into your data centers. 
+
+
 ## Anthos Technical Overview
 
 
