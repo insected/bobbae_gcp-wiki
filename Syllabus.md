@@ -36,9 +36,8 @@ One on one individualized mentorship can enable shadowing on projects and learni
 
 ## Materials in this document
 
-You may not have enough time to go through every video and Qwiklabs sessions.  You may have to skip some Qwiklabs and come back to them after you’ve gained more knowledge. You may pace yourself but please try to gain as much hands-on experience as possible as you move through the topics. Some topics can be learned briskly. Others require more attention. 
+You may not have enough time to go through everything in the [schedule](Schedules).  The ordering of labs and lessons may change and require revisiting certain topics.  The group projects require balancing self-directed execution of tasks and team work.  The course content may change depending on the progress and composition of each class.
 
 ## Example Schedules
 
-Review the [example 8 weeks schedules](  Schedules ) that can be presented using the materials described in this document. Each scheduled week is roughly equivalent to a chapter in this document. 
-During the scheduled programs, there are some weekly [Assignments](Assignments).
+Review the [example 8 weeks schedules](  Schedules ) that can be presented using the materials described in this document. Each scheduled week is roughly equivalent to a chapter in this document. During the scheduled programs, there may be some weekly [Assignments](Assignments).
