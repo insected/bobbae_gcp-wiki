@@ -12,16 +12,14 @@ The materials in this document  cover the breadth of what [GCP](https://cloud.go
 
 There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions. Each scheduled week is roughly equivalent to a chapter in this document. During the scheduled programs, there may be some weekly [Assignments](Assignments).
 
+
 ### Group Project
 
-If you are working as a group you can do a group project. The project should be conceived, designed, and implemented by the group.  Coming up with good project ideas is part of the project itself.  We can confirm the validity of our ideas by proposing specific [solutions]( https://cloud.google.com/solutions  ) in  [specific areas](https://cloud.google.com/architecture). 
-
-You should start planning on the group project right away. Don't wait  to start the project. 
-You may [review possible project ideas](Projects) ideas from various sources. 
+The group project should be conceived, designed, and implemented by the participants.  Coming up with a good project idea is an important part of the project.  We can consider the validity of our plans by proposing specific [solutions]( https://cloud.google.com/solutions  ) in  [specific areas](https://cloud.google.com/architecture) and gathering feedback from others. We should start planning on the group project right away after the first week.  You may [review possible project ideas](Projects) from various sources.
 
 ## Daily Meetings
 
-The daily group meetings are held using Google meet to discuss any issues, [questions and answers](https://lincs.ed.gov/sites/default/files/12_TEAL_Deeper_Learning_Qs_complete_5_1_0.pdf) related to the learning materials.  The goal is to unblock any issues each day to make a reasonable progress. 
+The daily group meetings are held using [Google meet](https://meet.google.com/) to discuss any issues, [questions and answers](https://lincs.ed.gov/sites/default/files/12_TEAL_Deeper_Learning_Qs_complete_5_1_0.pdf) related to the learning materials.  
 
 ## Worklog
 
@@ -33,8 +31,4 @@ The instructor will review your work log each week and you may be graded on the 
 ## Mentorship
 
 One on one individualized mentorship can enable shadowing on projects and learning via real engagements.
-
-## Materials in this document
-
-You may not have enough time to go through everything in the [schedule](Schedules).  The ordering of labs and lessons may change and require revisiting certain topics.  The group projects require balancing self-directed execution of tasks and team work.  The course content may change depending on the progress and composition of each class.
 
