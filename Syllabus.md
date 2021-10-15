@@ -1,14 +1,14 @@
 
-This is a  course on GCP Infrastructure and services in general.  
+This is a  course on [GCP](Introduction) Infrastructure and services in general.  
 
 
 ## Course Objectives
 
-The material here is intended to help the participants to be productive  in their relevant fields as they continue to learn and improve GCP related skills.
+The material here is intended to help the participants to be productive  in their relevant fields as they continue to learn and improve [GCP](https://en.wikipedia.org/wiki/Google_Cloud_Platform) related skills.
 
 ## Course Outline
 
-The materials in this document  cover the breadth of what GCP offers but you also need to figure out which area you want to study in more detail. 
+The materials in this document  cover the breadth of what [GCP](https://cloud.google.com/) offers but you also need to figure out which area you want to study in more detail. 
 
 There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions.
 
