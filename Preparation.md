@@ -14,9 +14,6 @@ If you are eligible as a partner of google you can [sign up](https://www.partner
 
 https://cloud.google.com/blog/topics/training-certifications/google-cloud-to-train-more-than-40-million-with-cloud-skills
 
-### Using GCP Account
-
-If you do not get Qwiklab's credit, do not worry. You can still learn using Qwiklabs content by using the real GCP account.  You can either use [GCP free tier](https://cloud.google.com/free) or a normal GCP account billed separately.
 
 ### Quickstarts
 
