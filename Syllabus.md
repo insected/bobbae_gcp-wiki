@@ -10,7 +10,7 @@ The material here is intended to help the participants to be productive  in thei
 
 The materials in this document  cover the breadth of what [GCP](https://cloud.google.com/) offers but you also need to figure out which area you want to study in more detail. 
 
-There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions.
+There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions. Each scheduled week is roughly equivalent to a chapter in this document. During the scheduled programs, there may be some weekly [Assignments](Assignments).
 
 ### Group Project
 
@@ -38,6 +38,3 @@ One on one individualized mentorship can enable shadowing on projects and learni
 
 You may not have enough time to go through everything in the [schedule](Schedules).  The ordering of labs and lessons may change and require revisiting certain topics.  The group projects require balancing self-directed execution of tasks and team work.  The course content may change depending on the progress and composition of each class.
 
-## Example Schedules
-
-Review the [example 8 weeks schedules](  Schedules ) that can be presented using the materials described in this document. Each scheduled week is roughly equivalent to a chapter in this document. During the scheduled programs, there may be some weekly [Assignments](Assignments).
