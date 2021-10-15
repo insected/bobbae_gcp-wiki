@@ -25,9 +25,6 @@ The daily group meetings are held using [Google meet](https://meet.google.com/) 
 
 Each participant will keep an online (e.g. Google Drive)  [daily journal](https://friday.app/p/work-journaling) of their learning, issues encountered and records of progress and share with the instructor and the team.
 
-To spend the meeting time efficiently issues and questions can be noted in writing before the daily meeting.  
-The instructor will review your work log each week and you may be graded on the completeness, quality and quantity of your worklog.
-
 ## Mentorship
 
 One on one individualized mentorship can enable shadowing on projects and learning via real engagements.
