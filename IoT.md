@@ -30,6 +30,10 @@ https://github.com/bobbae/gcp/wiki/Networking#iot-networking
 https://github.com/bobbae/gcp/wiki/Networking#industrial-networking
 
 
+### Intelligent Products Essentials
+
+https://cloud.google.com/solutions/intelligent-products
+
 ### Qwiklabs
 
 
