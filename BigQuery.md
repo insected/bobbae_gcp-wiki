@@ -22,13 +22,7 @@ BigQuery has a [distributed architecture](https://cloud.google.com/blog/products
 
 The [storage and compute layers are fully decoupled](https://cloud.google.com/blog/products/bigquery/separation-of-storage-and-compute-in-bigquery) in BigQuery. This means that the query engine runs on different servers from the servers where the data is stored. This feature enables BigQuery to provide great scalability both in terms of data volume and query execution. This decoupled paradigm is only possible thanks to [Google's Petabit network](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-how-andromeda-2-2-enables-high-throughput-vms), which moves data very quickly from one server to another, leveraging Google's proprietary fiber cables across the globe.
 
-Unlike traditional data warehouses, BigQuery stores data in [columnar format](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830) in [Google File System](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system) (codename Colossus). 
-
-
-[Google File System](https://pierrezemb.fr/posts/colossus-google/) is based on two different server types:
-
-- Master servers: Nodes that don't store data but are responsible for managing the metadata of each file, such as the location and available number of replicas of each chunk that compose a file.
-- Chunk servers: Nodes that actually store the chunks of files that are replicated across different servers.
+Unlike traditional data warehouses, BigQuery stores data in [columnar format](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830) in [Google File System](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system) codename [Colossus](https://pierrezemb.fr/posts/colossus-google/). 
 
 
 Fully [decoupled from storage](https://medium.com/@raigonjolly/separation-of-storage-and-compute-in-bigquery-7a0084c7cbe0), the [compute layer](https://research.google/pubs/pub43438/) is responsible for receiving query statements from BigQuery users and executing them in the fastest way. The query engine is based on Dremel, a technology developed by Google and then published in a paper in 2010. 
