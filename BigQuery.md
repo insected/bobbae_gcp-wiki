@@ -22,13 +22,7 @@ BigQuery has a [distributed architecture](https://cloud.google.com/blog/products
 
 The [storage and compute layers are fully decoupled](https://cloud.google.com/blog/products/bigquery/separation-of-storage-and-compute-in-bigquery) in BigQuery. This means that the query engine runs on different servers from the servers where the data is stored. This feature enables BigQuery to provide great scalability both in terms of data volume and query execution. This decoupled paradigm is only possible thanks to [Google's Petabit network](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-how-andromeda-2-2-enables-high-throughput-vms), which moves data very quickly from one server to another, leveraging Google's proprietary fiber cables across the globe.
 
-Unlike traditional data warehouses, BigQuery stores data in [columnar format](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830) rather than in row format. This approach enables you to do the following:
-
-- Achieve a better compression ratio for each column, because the data in a column is typically homogeneous and simpler to compress.
-- Reduce the amount of data to read and get the best possible performance for data warehouse use cases that are usually based on a small selection of columns in a table and aggregating operations such as sums, average, and maximum.
-
-All the data is stored in Google's proprietary distributed filesystem named [Google File System](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system) (codename Colossus). The distribution of the data allows it to guarantee faster I/O performance and better availability of data in the case of failures.
-
+Unlike traditional data warehouses, BigQuery stores data in [columnar format](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830) in [Google File System](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system) (codename Colossus). 
 
 
 [Google File System](https://pierrezemb.fr/posts/colossus-google/) is based on two different server types:
@@ -37,24 +31,15 @@ All the data is stored in Google's proprietary distributed filesystem named [Goo
 - Chunk servers: Nodes that actually store the chunks of files that are replicated across different servers.
 
 
-Fully [decoupled from storage](https://medium.com/@raigonjolly/separation-of-storage-and-compute-in-bigquery-7a0084c7cbe0), the [compute layer](https://research.google/pubs/pub43438/) is responsible for receiving query statements from BigQuery users and executing them in the fastest way. The query engine is based on Dremel, a technology developed by Google and then published in a paper in 2010. This engine leverages a multi-level tree architecture:
-
-- The root node of the tree receives the query to execute.
-- The root node splits and distributes the query to other intermediate nodes named mixers.
-- Mixer nodes have the task of rewriting queries before passing them to the leaf nodes or to other intermediate mixer nodes.
-- Leaf nodes are responsible for parallelizing the reading of the chunks of data from Google File System.
-- When the right chunks of data are extracted from the filesystem, leaf nodes perform computations on the data and eventually shuffle them across other leaf nodes.
-- At the end of the computation, each leaf node produces a result that is returned to the parent node.
-When all the results are returned to the root node, the outcome of the query is sent to the user or application that requested the execution.
+Fully [decoupled from storage](https://medium.com/@raigonjolly/separation-of-storage-and-compute-in-bigquery-7a0084c7cbe0), the [compute layer](https://research.google/pubs/pub43438/) is responsible for receiving query statements from BigQuery users and executing them in the fastest way. The query engine is based on Dremel, a technology developed by Google and then published in a paper in 2010. 
 
 
 Each node provides a number of processing units called [BigQuery slots](https://cloud.google.com/bigquery/docs/slots) to execute the business logic of the query. A BigQuery slot can be considered a virtual CPU on a Dremel node. The calculation of the slots needed to perform a specific query is automatically managed depending on the complexity of the query and impacted data volumes.
 
-https://panoply.io/data-warehouse-guide/bigquery-architecture/
 
 ### No Index
 
-Each time BigQuery executes a query, it executes [a full-column scan](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned. You can achieve this by using partition filters based on PARTITIONTIME or PARTITIONDATE.
+Each time BigQuery executes a query, it executes [a full-column scan](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. When using date-partitioned tables, ensure only the relevant partitions are scanned by using partition filters based on PARTITIONTIME or PARTITIONDATE.
 
 https://cloud.google.com/files/BigQueryTechnicalWP.pdf
 
