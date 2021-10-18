@@ -24,3 +24,5 @@ Uses natural language processing to identify call drivers and sentiment that hel
 
 
 https://cloud.google.com/contact-center/insights/docs
+
+https://cloud.google.com/solutions/ccai-insights
