@@ -16,6 +16,11 @@ Maps JavaScript API, Street View Static API, Maps URLs and Maps Embed API. Route
 [https://www.youtube.com/watch?v=UzMEtXsMM08](https://www.youtube.com/watch?v=UzMEtXsMM08)
 
 
+### deck.gl
+
+https://cloud.google.com/blog/products/maps-platform/richer-data-visualization-google-maps-platform-using-deckgl
+
+
 ### Qwiklabs
 
 
