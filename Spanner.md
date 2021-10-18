@@ -122,7 +122,7 @@ A transaction-processing system is serializable if it executes transactions in a
 
 [Cloud Spanner](https://blog.searce.com/internals-of-google-cloud-spanner-5927e4b83b36) also guarantees that the serial order is consistent with the order in which the transactions can be observed to commit. In a system that provides serializability but not external consistency, even though the customer executed T1 and then T2 sequentially, the system would be permitted to reorder them, which could cause the debit to incur a penalty due to insufficient funds.
 
-#### More on consistency
+#### Jepsen
 
 https://jepsen.io/consistency
 
@@ -141,6 +141,9 @@ https://www.youtube.com/watch?v=iKQhPwbzzxU
 
 Some databases support timestamp capabilities [without TrueTime](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/).
 
+### PostgreSQL Interface
+
+https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interface-adds-familiarity-and-portability-cloud-spanner
 
 
 
