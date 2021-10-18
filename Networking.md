@@ -246,7 +246,6 @@ Access Google and Google Cloud features over VPN or the internet, while cutting 
 
 Direct Peering enables you to establish a direct peering connection between your business network and Google's edge network and exchange high-throughput cloud traffic.
 
-This capability is available at any of more than 100 locations in 33 countries around the world. For more information about Google's edge locations, see Google's peering site.
 
 https://cloud.google.com/network-connectivity/docs/direct-peering
 
