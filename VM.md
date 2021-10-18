@@ -10,21 +10,28 @@ The [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) may be cat
 
 
 
-## Nested VM
+### Nested VM
 
 It is possible to run [nested VM](https://cloud.google.com/compute/docs/instances/enable-nested-virtualization-vm-instances) instances in GCP.
 
 
 
-## Intel VT-x and AMD SVM
+### Intel VT-x and AMD SVM
 
 
 https://www.anandtech.com/show/2480/9
 
-## Cloud native vs VM
+### Cloud native vs VM
 
 https://cloud.google.com/blog/topics/developers-practitioners/vms-and-their-relevance-cloud-native-future-conversation
 
+### Tau VMs
+
+https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
+
+### Spot VMs
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
 
 ## Examples
 
