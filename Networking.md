@@ -127,31 +127,15 @@ A [router]( https://en.wikipedia.org/wiki/Router_(computing)  ) is a networking 
 
 A [bridge router or brouter](https://en.m.wikipedia.org/wiki/Bridge_router) is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.
 
-Brouters operate at both the network layer for routable protocols and at the data link layer for non-routable protocols. As networks continue to become more complex, a mix of routable and non-routable protocols has led to the need for the combined features of bridges and routers. 
-
-Brouters handle both routable and non-routable features by acting as routers for routable protocols and bridges for non-routable protocols. 
-
-
-Bridged protocols might propagate throughout the network, but techniques such as filtering and learning might be used to reduce potential congestion. Brouters are used as connecting devices in the networking system, so it acts as a bridge in a network and as a router in an internetwork.
-
 ### Routing Protocols
 
 A [routing protocol](  https://en.wikipedia.org/wiki/Routing_protocol ) specifies how routers communicate with each other to distribute information that enables them to select routes between nodes on a computer network. 
-
-Routers perform the traffic directing functions on the Internet; data packets are forwarded through the networks of the internet from router to router until they reach their destination computer. 
-
-
-Routing algorithms determine the specific choice of route. Each router has a prior knowledge only of networks attached to it directly. 
-
-A routing protocol shares this information first among immediate neighbors, and then throughout the network. This way, routers gain knowledge of the topology of the network. The ability of routing protocols to dynamically adjust to changing conditions such as disabled connections and components and route data around obstructions is what gives the Internet its fault tolerance and high availability.
 
 
 
 ### Subnetwork
 
 A [subnetwork or subnet]( https://en.wikipedia.org/wiki/Subnetwork  ) is a logical subdivision of an IP network. The practice of dividing a network into two or more networks is called subnetting.
-
-Computers that belong to the same subnet are addressed with an identical most-significant bit-group in their IP addresses. This results in the logical division of an IP address into two fields: the network number or routing prefix and the rest field or host identifier. The rest field is an identifier for a specific host or network interface.
 
 
 
@@ -226,7 +210,7 @@ https://en.wikipedia.org/wiki/Border_Gateway_Protocol
 ## MPLS
 
 
-Multiprotocol Label Switching (MPLS) is a routing technique in telecommunications networks that directs data from one node to the next based on short path labels rather than long network addresses, thus avoiding complex lookups in a routing table and speeding traffic flows. The labels identify virtual links (paths) between distant nodes rather than endpoints. MPLS can encapsulate packets of various network protocols, hence the "multiprotocol" reference on its name. MPLS supports a range of access technologies, including [T1/E1](https://en.wikipedia.org/wiki/Digital_Signal_1), [ATM](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode), [Frame Relay](https://en.wikipedia.org/wiki/Frame_Relay), and [DSL](https://en.wikipedia.org/wiki/Digital_subscriber_line).
+Multiprotocol Label Switching (MPLS) is a routing technique in telecommunications networks that directs data from one node to the next based on short path labels rather than long network addresses, thus avoiding complex lookups in a routing table and speeding traffic flows. The labels identify virtual links (paths) between distant nodes rather than endpoints.  MPLS supports a range of access technologies, including [T1/E1](https://en.wikipedia.org/wiki/Digital_Signal_1), [ATM](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode), [Frame Relay](https://en.wikipedia.org/wiki/Frame_Relay), and [DSL](https://en.wikipedia.org/wiki/Digital_subscriber_line).
 
 https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
 
