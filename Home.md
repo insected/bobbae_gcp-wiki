@@ -1,7 +1,7 @@
 <!--
 https://ecotrust-canada.github.io/markdown-toc/
 -->
-### [GCP Learning main document](https://github.com/bobbae/gcp/wiki#gcp-learning-main-document)
+### [GCP Learning main document](https://github.com/bobbae/gcp/wiki/gcp-learning)
 
 ### [Challenges](https://github.com/bobbae/gcp/tree/main/challenges)
 
