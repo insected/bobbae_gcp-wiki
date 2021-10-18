@@ -9,4 +9,4 @@ https://ecotrust-canada.github.io/markdown-toc/
 
 ### [Examples](https://github.com/bobbae/gcp/tree/main/examples)
 
-### [Links](GCP-Learning-Links)
+### [Links](https://github.com/bobbae/gcp/wiki/GCP-Learning-Links)
