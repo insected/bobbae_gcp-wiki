@@ -29,6 +29,7 @@ https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-clo
 
 [Google Distributed Cloud](https://cloud.google.com/distributed-cloud) is a portfolio of fully managed hardware and software solutions which extends Google Cloud’s infrastructure and services to the edge and into your data centers. 
 
+https://cloud.google.com/blog/topics/hybrid-cloud/announcing-google-distributed-cloud-edge-and-hosted
 
 ## Anthos Technical Overview
 
