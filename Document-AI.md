@@ -61,3 +61,8 @@ HITL AI offers the following benefits:
 - Workforce Efficiencies - manage, monitor and improve productivity of workforce managing human review.
 - Cost control - control costs of human review with configurable filters.
 -  Data completeness - ensure extracted data is complete for downstream business applications.
+
+
+## Contract DocAI
+
+https://cloud.google.com/solutions/contract-doc-ai
