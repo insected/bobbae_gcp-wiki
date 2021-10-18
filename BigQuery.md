@@ -523,9 +523,6 @@ https://mentin.medium.com/bigquery-geospatial-query-tricks-8ebb4453ab5e
 
 https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-4c90c10e31ac
 
-### PostgreSQL Interface
-
-https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interface-adds-familiarity-and-portability-cloud-spanner
 
 ## BigQuery tutorials
 
