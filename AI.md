@@ -255,6 +255,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/people-and-planet-
 
 https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-vertex-ai-battlesnake-using-practical-reinforcement-learning-defeat-your-friends
 
+## Tutorials
+
+- [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
+
 ## Qwiklabs
 
 ### Baseline: Data, ML, AI
