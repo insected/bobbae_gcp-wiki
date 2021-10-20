@@ -1,9 +1,9 @@
 
 [IDM](  https://en.m.wikipedia.org/wiki/Identity_management ) is a framework of policies and technologies to ensure that the right users have the appropriate access to technology resources.
 
-An [identity-management system]( https://en.m.wikipedia.org/wiki/Identity-management_system  ) is used for enterprise or cross-network identity management.
+An [identity-management system]( https://en.m.wikipedia.org/wiki/Identity-management_system  ) is used for enterprise or cross-network [identity management](Identity-Management).
 
-
+ 
 
 
 ## Google Cloud Identity
