@@ -29,3 +29,21 @@ The [Google Cloud Vault Secrets Engine]( https://www.vaultproject.io/docs/secret
 
 
 https://registry.terraform.io/providers/hashicorp/vault/latest/docs
+
+## IDM tools
+
+### Kanidm
+
+https://github.com/kanidm/kanidm
+
+### Apache Syncope
+
+https://syncope.apache.org/
+
+### Shibboleth
+
+https://www.shibboleth.net/
+
+### WSO2
+
+https://wso2.com/identity-server/
