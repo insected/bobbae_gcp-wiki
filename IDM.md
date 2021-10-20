@@ -1,4 +1,4 @@
-An [identity-management system](IDM) is used for enterprise or cross-network identity management.
+An [identity-management system]( https://en.m.wikipedia.org/wiki/Identity_management  ) is used for enterprise or cross-network identity management.
 
 
 
