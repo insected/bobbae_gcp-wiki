@@ -11,41 +11,47 @@ https://cloud.google.com/security/encryption/default-encryption#googles_default_
 
 
 
-## PKI
-
-A [public-key infrastructure](PKI) (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption. The purpose of a [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure) is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. 
+ 
 
 
-## Google managed certificates
+### Google managed certificates
 
 https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
 
-## Google Certificate Authority Service
+### Google Certificate Authority Service
 
 https://cloud.google.com/certificate-authority-service
 
-## Cloud KMS
+### Cloud KMS
 
 [Cloud KMS](
 Cloud-KMS) is a key management service that lets you manage symmetric and asymmetric cryptographic keys.
 
-## SSH
+
+
+## Security Protocols
+
+### TLS
+
+[Transport Layer Security](TLS), and its now-deprecated predecessor, Secure Sockets Layer (SSL), are cryptographic protocols designed to provide communications security over a computer network. 
+
+### PKI
+
+A [public-key infrastructure](PKI) (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption. The purpose of a [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure) is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email.
+
+
+### HTTPS
+
+[Hypertext Transfer Protocol]( https://wikipedia.org/wiki/HTTPS   ) Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
+
+### SSH
 
 The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows) (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network. 
 
 
 [OpenSSH](https://en.wikipedia.org/wiki/OpenSSH) can be used as a kind of VPN in addition to normal login, tunneling use cases.
 
-## TLS
-
-[Transport Layer Security](TLS), and its now-deprecated predecessor, Secure Sockets Layer (SSL), are cryptographic protocols designed to provide communications security over a computer network. 
-
-
-## HTTPS
-
-[Hypertext Transfer Protocol]( https://wikipedia.org/wiki/HTTPS   ) Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP). In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL). The protocol is therefore also referred to as HTTP over TLS, or HTTP over SSL.
-
-## cert manager 
+### cert manager 
 
 [cert-manager](https://cert-manager.io/docs/) is a native Kubernetes certificate management controller. It can help with issuing certificates from a variety of sources, such as [Let’s Encrypt]( https://letsencrypt.org/  
 ) , [HashiCorp Vault](  https://www.vaultproject.io/  ), [Venafi]( https://www.venafi.com/ ), a simple signing key pair, or self signed.
@@ -54,43 +60,43 @@ The [Secure Shell Protocol](https://phoenixnap.com/kb/ssh-to-connect-to-remote-s
 
 It is loosely based upon the work of [kube-lego]( https://github.com/jetstack/kube-lego   ) and has borrowed some wisdom from other similar projects such as kube-cert-manager.
 
-## Let's Encrypt
+### Let's Encrypt
 
 To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). [Let’s Encrypt](  https://letsencrypt.org/ ) is a CA. 
 
-## ACME
+### ACME
 
 [Automatic certificate management environment]( https://tools.ietf.org/html/rfc8555  ).
 
 
-### acme.sh
+#### acme.sh
 
 https://github.com/acmesh-official/acme.sh
 
 
 
-## IPSec
+### IPSec
 
 [Internet Protocol Security](https://www.cloudflare.com/learning/network-layer/what-is-ipsec/) (IPsec) is a secure network protocol suite that authenticates and encrypts the packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. 
 
 
-### Complexity of IPSec
+#### Complexity of IPSec
 
 https://www.schneier.com/academic/archives/2003/12/a_cryptographic_eval.html
 
 
-## IKE
+### IKE
 
 [Internet Key Exchange](https://en.wikipedia.org/wiki/Internet_Key_Exchange) is the protocol used to set up a security association (SA) in the IPsec protocol suite. IKE builds upon the Oakley protocol and [ISAKMP](  https://wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol ). IKE uses [X.509](  https://en.m.wikipedia.org/wiki/X.509  ) certificates for authentication ‒ either pre-shared or distributed using DNS (preferably with DNSSEC) ‒ and a Diffie–Hellman key exchange to set up a shared session secret from which cryptographic keys are derived. 
 
 Cloud VPN supports  [some IKE ciphers](https://cloud.google.com/network-connectivity/docs/vpn/concepts/supported-ike-ciphers).
 
 
-## X.509
+### X.509
 
 [X.509](  https://wikipedia.org/wiki/X.509  ) is a standard defining the format of [public key certificates](https://en.wikipedia.org/wiki/Public-key_cryptography) which are used in TLS/SSL basis for HTTPS.  Base standard for X.509 is [ASN.1](https://en.wikipedia.org/wiki/ASN.1), a kind of [IDL](  https://en.m.wikipedia.org/wiki/Interface_description_language ) for defining data structures that can be serialized and de-serialized.  
 
-## Diffie-Hellman 
+### Diffie-Hellman 
 
 [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) is a method of securely exchanging cryptographic keys over a public channel and was one of the first public-key protocols as conceived by Ralph Merkle and named after Whitfield Diffie and Martin Hellman. DH is one of the earliest practical examples of public key exchange implemented within the field of cryptography. Published in 1976 by Diffie and Hellman, this is the earliest publicly known work that proposed the idea of a private key and a corresponding public key.
 
@@ -99,7 +105,7 @@ Traditionally, secure encrypted communication between two parties required that 
 
 
 
-## Cryptographic hash
+### Cryptographic hash
 
 A [cryptographic hash]( https://wikipedia.org/wiki/Cryptographic_hash_function  ) function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
 
@@ -109,10 +115,14 @@ https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/
 
 http://shafiul.github.io/gitbook/1_the_git_object_model.html
 
-## Vulnerability in Cryptography libraries
+### Vulnerability in Cryptography libraries
 
 https://kerkour.com/blog/rust-cryptography-ecosystem/
 
-## Cypher agility
+### Cypher agility
 
 https://paragonie.com/blog/2019/10/against-agility-in-cryptography-protocols
+
+### Tutorial
+
+https://toc.cryptobook.us/
