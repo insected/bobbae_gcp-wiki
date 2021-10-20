@@ -63,6 +63,14 @@ Google Cloud encrypts all customer content stored [at rest](Encryption-at-Rest),
 [Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated [identity](Identity-Management) of an individual.  
 
 
+### IDM
+
+
+
+
+An [identity-management system](IDM) is used for enterprise or cross-network identity management.
+
+
 ## Roles
 
 A role contains a set of permissions that allows you to perform specific actions on Google Cloud resources. To make permissions available to members, including users, groups, and service accounts, you grant roles to the members.
@@ -370,10 +378,6 @@ Encrypt data in-use with Confidential VMs and Confidential GKE Nodes.
 https://cloud.google.com/confidential-computing
 
 
-## IDM
-
-
-An [identity-management system](IDM) is used for enterprise or cross-network identity management.
 
 
 
