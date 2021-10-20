@@ -1,7 +1,9 @@
 ## IAM Overview
 
 
-[Cloud IAM](https://cloud.google.com/iam/docs/overview) is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  This video will take you through the basic terms and concepts you need to use Cloud IAM.
+[Cloud IAM](https://cloud.google.com/iam/docs/overview) is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  
+
+### Limit Access
 
 Limiting the use of service accounts and service account keys to situations in which [they're absolutely necessary](https://cloud.google.com/blog/products/identity-security/how-to-authenticate-service-accounts-to-help-keep-applications-secure) keeps user data more secure, reduces the chance of unauthorized activity, and makes it easier to use audit logs to determine which users performed certain operations.
 
