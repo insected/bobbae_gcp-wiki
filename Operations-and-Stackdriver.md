@@ -30,6 +30,9 @@ GCP Essentials: Cloud Logging.
 
 [https://www.youtube.com/watch?v=gyDp-Cl_MdA](https://www.youtube.com/watch?v=gyDp-Cl_MdA)
 
+### Types of metrics
+
+https://cloud.google.com/blog/products/operations/in-depth-explanation-of-operational-metrics-at-google-cloud
 
 ### Cloud Monitoring
 
