@@ -828,7 +828,6 @@ https://spectrum.ieee.org/deep-learning-computational-cost
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
 - [Machine Learning Tutorial](https://www.javatpoint.com/machine-learning)
-- [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
 - https://medium.com/sarus/distributed-ml-with-dask-and-kubernetes-on-gcp-97fdd6533736
 - https://towardsdatascience.com/preprocessing-time-series-data-for-supervised-learning-2e27493f44ae
 
