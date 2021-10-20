@@ -33,6 +33,10 @@ https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
 
+### Firecracker
+
+https://firecracker-microvm.github.io/
+
 ## Examples
 
 https://cloud.google.com/compute/docs/tutorials
