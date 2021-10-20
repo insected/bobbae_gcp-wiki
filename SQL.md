@@ -116,6 +116,7 @@ https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 - https://www.guru99.com/sql.html
 - https://www.tutorialspoint.com/sql/index.htm
 - https://www.youtube.com/watch?v=HXV3zeQKqGY
+- https://www.khanacademy.org/computing/computer-programming/sql
 
 ### SQL Examples
 
