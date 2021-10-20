@@ -370,15 +370,13 @@ Encrypt data in-use with Confidential VMs and Confidential GKE Nodes.
 https://cloud.google.com/confidential-computing
 
 
-## Google Cloud Vault Secrets Engine
+## IDM
 
 
-The Google Cloud Vault secrets engine dynamically generates Google Cloud service account keys and OAuth tokens based on IAM policies. This enables users to gain access to Google Cloud resources without needing to create or manage a dedicated service account.
+An [identity-management system](IDM) is used for enterprise or cross-network identity management.
 
 
-https://www.vaultproject.io/docs/secrets/gcp
 
-https://registry.terraform.io/providers/hashicorp/vault/latest/docs
 
 ## BYOD
 
