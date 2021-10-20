@@ -268,6 +268,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-verte
 - http://neuralnetworksanddeeplearning.com/
 - https://sebastianraschka.com/blog/2021/dl-course.html
 - https://d2l.ai/index.html
+- https://www.coursera.org/learn/ai-for-everyone
 
 ## Qwiklabs
 
