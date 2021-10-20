@@ -258,7 +258,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-verte
 ## Tutorials
 
 - https://www.w3schools.com/ai/
-- [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
+- https://www.guru99.com/artificial-intelligence-tutorial.html
 - https://www.tutorialspoint.com/artificial_intelligence/index.htm
 - https://cloud.google.com/ai-platform/docs/getting-started-keras
 - https://cloud.google.com/ai-platform/docs/technical-overview
