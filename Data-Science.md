@@ -248,6 +248,11 @@ http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 ## Tutorials
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+- https://www.w3schools.com/datascience/
+- https://www.guru99.com/data-science-tutorial.html
+- https://www.tutorialspoint.com/python_data_science/index.htm
+- https://www.classcentral.com/course/data-science-crash-course-4392
+
 
 
 ## Data Science Qwiklabs
