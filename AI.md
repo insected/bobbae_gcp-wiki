@@ -258,6 +258,11 @@ https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-verte
 ## Tutorials
 
 - [AI Tutorial](https://www.guru99.com/artificial-intelligence-tutorial.html)
+- https://cloud.google.com/ai-platform/docs/getting-started-keras
+- https://cloud.google.com/ai-platform/docs/technical-overview
+- https://towardsdatascience.com/training-a-model-on-google-ai-platform-84ceff87b5f3
+- https://developers.google.com/learn/topics/datascience
+- https://github.com/GoogleCloudPlatform/ai-platform-samples
 
 ## Qwiklabs
 
