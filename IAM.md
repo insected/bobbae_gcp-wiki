@@ -5,7 +5,7 @@
 
 ### Limit Access
 
-Limiting the use of service accounts and service account keys to situations in which [they're absolutely necessary](https://cloud.google.com/blog/products/identity-security/how-to-authenticate-service-accounts-to-help-keep-applications-secure) keeps user data more secure, reduces the chance of unauthorized activity, and makes it easier to use audit logs to determine which users performed certain operations.
+Limiting the use of service accounts and service account keys to situations in which [they're absolutely necessary](https://cloud.google.com/blog/products/identity-security/how-to-authenticate-service-accounts-to-help-keep-applications-secure) keeps user data more secure.
 
 ### Access Control 
 
@@ -19,21 +19,19 @@ With [IAM](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works), you 
 
 ### IAM Model
 
-In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into [roles](https://cloud.google.com/iam/docs/understanding-roles), and roles are granted to authenticated members. An IAM [policy](https://cloud.google.com/iam/docs/policies) defines and enforces what roles are granted to which members, and this policy is attached to a resource. When an authenticated member attempts to access a resource, IAM checks the resource's policy to determine whether the action is permitted.
-
-
+In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into [roles](https://cloud.google.com/iam/docs/understanding-roles), and roles are granted to authenticated members. An IAM [policy](https://cloud.google.com/iam/docs/policies) defines and enforces what roles are granted to which members, and this policy is attached to a resource. 
 
 ### Model for Access management
 
 #### Member
 
-A member can be a Google Account (for end users), a [service account](Service-Accounts) (for apps and virtual machines), a Google group, or a Google Workspace or Cloud Identity domain that can access a resource. The identity of a member is an email address associated with a user, service account, or Google group; or a domain name associated with Google Workspace or Cloud Identity domains.
+A member can be a Google Account (for end users), a [service account](Service-Accounts) (for apps and virtual machines), a Google group, or a Google Workspace or Cloud Identity domain that can access a resource. 
 
 
 #### Role
 
 
-A [role](https://cloud.google.com/iam/docs/understanding-roles) is a collection of permissions. Permissions determine what operations are allowed on a resource. When you grant a role to a member, you grant all the permissions that the role contains.
+A [role](https://cloud.google.com/iam/docs/understanding-roles) is a collection of permissions. 
 
 https://cloud.google.com/iam/docs/understanding-roles
 
@@ -47,21 +45,13 @@ https://cloud.google.com/iam/docs/understanding-custom-roles
 
 The [IAM policy](https://cloud.google.com/iam/docs/policies) binds one or more members to a role. When you want to define who (member) has what type of access (role) on a resource, you create a [policy](https://cloud.google.com/iam/docs/policies) and attach it to the resource.
 
-Access control for Google Cloud resources is managed by Identity and Access Management (IAM) policies, which are attached to resources. You can attach only one IAM policy to each resource. The IAM policy controls access to the resource itself, as well as any descendants of that resource that inherit the policy.
-
-
-
-
-
 #### Policy intelligence tools
 
-Large organizations often have complicated Identity and Access Management (IAM) policies. [Policy Intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)  help you understand and manage your policies to proactively improve your security configuration.
+[Policy Intelligence tools](https://cloud.google.com/iam/docs/policy-intelligence-tools)  help you understand and manage your policies to  improve your security configuration.
 
 ## Service Accounts
 
-
-A [service account](Service-Accounts) is a special kind of account used by an application or a virtual machine (VM) instance, not a person. Applications use service accounts to make authorized API calls, authorized as either the service account itself, or as Google Workspace or Cloud Identity users through domain-wide delegation.
-
+A [service account](Service-Accounts) is a special kind of account used by an application or a virtual machine (VM) instance, not a person. 
 
 
 https://cloud.google.com/iam/docs/service-accounts
@@ -77,14 +67,14 @@ https://cloud.google.com/iam/docs/service-agents
 
 ## Granular Access
 
-IAM lets you grant granular access to specific Google Cloud resources and helps prevent access to other resources. IAM lets you adopt the security principle of least privilege, which states that nobody should have more permissions than they actually need.
+IAM lets you grant granular access to specific Google Cloud resources and helps prevent access to other resources. 
 
 https://cloud.google.com/resource-manager/docs/access-control-proj
 
 ## Resources
 
 
-Cloud Identity and Access Management (IAM) lets administrators authorize who can take action on specific resources, giving you full control and visibility to manage Google Cloud resources centrally. For enterprises with complex organizational structures, hundreds of workgroups, and many projects, Cloud IAM provides a unified view into security policy across your entire organization, with built-in [auditing](https://cloud.google.com/iam/docs/audit-logging)  to ease compliance processes. 
+Cloud IAM provides a unified view into security policy across your entire organization, with built-in [auditing](https://cloud.google.com/iam/docs/audit-logging)  to ease compliance processes. 
 
 [https://www.youtube.com/watch?v=96HlT4f2AUU](https://www.youtube.com/watch?v=96HlT4f2AUU)
 
@@ -95,7 +85,7 @@ https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
 
 ## Delegated role grants
 
-[Delegated role grants](https://cloud.google.com/iam/docs/setting-limits-on-granting-roles) is a new feature in GCP that allows organization administrators to control which roles a user can grant or revoke even when the user has setIamPolicy permission on a resource.
+[Delegated role grants](https://cloud.google.com/iam/docs/setting-limits-on-granting-roles) is a feature in GCP that allows organization administrators to control which roles a user can grant or revoke even when the user has setIamPolicy permission on a resource.
 
 https://medium.com/google-cloud/managing-gcp-service-usage-through-delegated-role-grants-a843610f2226
 
@@ -117,7 +107,7 @@ Google Groups became operational in February 2001, following Google's acquisitio
 
 ## Recommender
 
-[Recommender](https://cloud.google.com/iam/docs/recommender-overview) is a service on Google Cloud that provides usage recommendations and insights for Cloud products and services.
+[Recommender](https://cloud.google.com/iam/docs/recommender-overview) is a service that provides usage recommendations and insights for Cloud products and services.
 
 
 
