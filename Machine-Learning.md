@@ -832,6 +832,7 @@ https://spectrum.ieee.org/deep-learning-computational-cost
 - https://towardsdatascience.com/preprocessing-time-series-data-for-supervised-learning-2e27493f44ae
 - http://themlbook.com/wiki/doku.php?id=start
 - https://d2l.ai/
+- https://www.coursera.org/learn/machine-learning
 
 ## Links
 
