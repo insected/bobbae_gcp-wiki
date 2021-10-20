@@ -11,22 +11,6 @@ A [relational database](https://en.wikipedia.org/wiki/Relational_database
 
 
 
-## SQL Tutorials
-
-https://www.w3schools.com/sql/
-
-<!--
-https://www.guru99.com/sql.html
-
-https://www.tutorialspoint.com/sql/index.htm
-
-https://www.youtube.com/watch?v=HXV3zeQKqGY
--->
-
-### SQL Examples
-
-https://sqlzoo.net/
-
 
 ## CloudSQL
 
@@ -128,3 +112,12 @@ https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 
 
 - https://www.coursera.org/learn/sql-for-data-science
+- https://www.w3schools.com/sql/
+- https://www.guru99.com/sql.html
+- https://www.tutorialspoint.com/sql/index.htm
+- https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+### SQL Examples
+
+https://sqlzoo.net/
+
