@@ -33,11 +33,11 @@ https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
 
-### Firecracker
+### Firecracker microVM
 
 https://firecracker-microvm.github.io/
 
-### UniK
+### UniK and unikernels
 
 https://github.com/solo-io/unik
 
