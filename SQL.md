@@ -122,3 +122,9 @@ https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 ## GraphQL
 
 [GraphQL](  GraphQL ) is a query language for APIs and a runtime for fulfilling the queries with your existing data. 
+
+
+## Tutorials
+
+
+- https://www.coursera.org/learn/sql-for-data-science
