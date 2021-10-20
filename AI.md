@@ -265,6 +265,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-verte
 - https://towardsdatascience.com/training-a-model-on-google-ai-platform-84ceff87b5f3
 - https://developers.google.com/learn/topics/datascience
 - https://github.com/GoogleCloudPlatform/ai-platform-samples
+- http://neuralnetworksanddeeplearning.com/
+- https://sebastianraschka.com/blog/2021/dl-course.html
+- https://d2l.ai/index.html
 
 ## Qwiklabs
 
