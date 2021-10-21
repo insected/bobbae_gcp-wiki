@@ -52,7 +52,7 @@ Summary of google cloud services in [4 words](https://github.com/gregsramblings/
 
 [Here are some comparisons](https://cloud.google.com/docs/compare) to [AWS](AWS), [Azure](https://azure.microsoft.com/), [Openstack](https://www.openstack.org/) and On-prem.
 
-
+https://www.avenga.com/magazine/top-cloud-service-providers/
 
 ## Google Cloud setup checklist
 
