@@ -25,4 +25,4 @@ https://cloud.google.com/security/binary-authorization-for-borg
 
 ## DevSecOps
 
-Whether you call it [DevOps](DevOps) or [DevSecOps](DevSecOps), it has always been ideal to include security as an integral part of the entire app life cycle. 
+[DevSecOps](DevSecOps) is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
