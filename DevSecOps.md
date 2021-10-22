@@ -11,7 +11,7 @@ The [security](Security) and [privacy](Privacy) issues from the [DevSecOps point
 
 ### Binary Authorization
 
-[Binary Authorization](https://cloud.google.com/binary-authorization) is a deploy-time security control that ensures only trusted container images are deployed on [Google Kubernetes Engine](GKE) (GKE) or [Cloud Run](Cloud-Run). 
+[Binary Authorization](Binary-Authorization) is a deploy-time security control that ensures only trusted container images are deployed on [Google Kubernetes Engine](GKE) (GKE) or [Cloud Run](Cloud-Run). 
 
 ## Links
 
