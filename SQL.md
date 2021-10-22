@@ -13,6 +13,10 @@
 
 [Data Manipulation Language](https://en.wikipedia.org/wiki/Data_manipulation_language) (DML) is used for searching, inserting, updating, and deleting data.
 
+### Quickstart using Cloud SQL
+
+https://cloud.google.com/sql/docs/mysql/quickstart
+
 ## Relational Databases
 
 A [relational database](https://en.wikipedia.org/wiki/Relational_database
@@ -158,4 +162,8 @@ https://docs.newrelic.com/docs/integrations/google-cloud-platform-integrations/g
 ### SQL Examples
 
 https://sqlzoo.net/
+
+### Qwiklabs
+
+https://www.qwiklabs.com/quests/52/
 
