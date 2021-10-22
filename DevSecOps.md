@@ -1,3 +1,5 @@
+[DevSecOps](https://snyk.io/devsecops/) is a culture shift in the software industry that aims to bake security into the rapid-release cycles that are typical of modern application development and deployment.
+
 [DevSecOps](https://resources.github.com/whitepapers/Architects-guide-to-DevOps/) isn’t just about development and operations teams. If you want to take full [advantage of the agility](https://tech.gsa.gov/guides/understanding_differences_agile_devsecops/) and responsiveness of a DevOps approach, [IT security](Security) and [privacy](Privacy) must also [play an integrated role](https://techbeacon.com/security/devsecops-realities-app-dev-teams-must-accept) in the [full life cycle of your apps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/).
 
 
