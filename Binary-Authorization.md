@@ -25,4 +25,4 @@ https://cloud.google.com/security/binary-authorization-for-borg
 
 ## DevSecOps
 
-Whether you call it [DevOps](DevOps) or DevSecOps, it has always been ideal to include security as an integral part of the entire app life cycle. DevSecOps is about built-in security, not security that functions as a perimeter around apps and data. 
+Whether you call it [DevOps](DevOps) or [DevSecOps](DevSecOps), it has always been ideal to include security as an integral part of the entire app life cycle. 
