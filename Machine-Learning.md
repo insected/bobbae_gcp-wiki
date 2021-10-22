@@ -833,6 +833,7 @@ https://spectrum.ieee.org/deep-learning-computational-cost
 - http://themlbook.com/wiki/doku.php?id=start
 - https://d2l.ai/
 - https://www.coursera.org/learn/machine-learning
+- https://www.javatpoint.com/machine-learning
 
 ## Links
 
