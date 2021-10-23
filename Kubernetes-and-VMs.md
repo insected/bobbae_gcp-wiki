@@ -3,7 +3,7 @@
 
 [KubeVirt](  https://kubevirt.io/ ) technology addresses the needs of development teams that have adopted or want to adopt Kubernetes but possess existing Virtual Machine-based workloads that cannot be easily containerized.
 
-KubeVirt allows developers build, modify, and deploy applications residing in both Application Containers as well as Virtual Machines in a common, shared environment.
+
 
 ### Harvester
 
