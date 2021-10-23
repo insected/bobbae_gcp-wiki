@@ -9,6 +9,10 @@
 
 https://www.zdnet.com/article/suse-harvester-deploying-virtual-machines-with-kubernetes/
 
+## Openshift CNV
+
+https://cloud.redhat.com/blog/openshift-4-3-creating-virtual-machines-on-kubernetes-with-openshifts-cnv
+
 
 ## Installing Kubernetes
 
