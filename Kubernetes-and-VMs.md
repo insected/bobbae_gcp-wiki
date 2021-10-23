@@ -34,3 +34,7 @@ https://github.com/openstack/openstack-helm
 ## External Openstack provider
 
 https://kubernetes.io/blog/2020/02/07/deploying-external-openstack-cloud-provider-with-kubeadm/
+
+## ONAP
+
+https://docs.onap.org/en/casablanca/submodules/oom.git/docs/oom_setup_kubernetes_rancher.html
