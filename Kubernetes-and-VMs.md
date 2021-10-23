@@ -37,4 +37,9 @@ https://kubernetes.io/blog/2020/02/07/deploying-external-openstack-cloud-provide
 
 ## ONAP
 
+
+https://docs.onap.org/en/casablanca/guides/onap-developer/architecture/onap-architecture.html
+
+### ONAP and Rancher
+
 https://docs.onap.org/en/casablanca/submodules/oom.git/docs/oom_setup_kubernetes_rancher.html
