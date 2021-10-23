@@ -10,3 +10,4 @@
 - [Kubernetes Scaling](Kubernetes-Scaling)
 - [Kubernetes Security](Kubernetes-Security) 
 - [Anthos](Anthos)
+- [Kubernetes and VMs](Kubernetes-and-VMs)
