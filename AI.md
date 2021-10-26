@@ -143,7 +143,7 @@ https://cloud.google.com/ai-hub/docs/learn
 
 ### AI Hub vs. TensorFlow Hub
 
-[TensorFlow Hub](https://www.tensorflow.org/hub) provides a library of TensorFlow modules that you can use to speed up the process of training your model. On the [AI Hub](https://cloud.google.com/ai-hub), you can explore and use a variety of AI asset categories.
+[TensorFlow Hub](https://www.tensorflow.org/hub) provides a library of TensorFlow modules that you can use to speed up the process of training your model. On the [AI Hub](ai-hub), you can explore and use a variety of AI asset categories.
 
 ### AI Hub Quickstarts
 
