@@ -119,9 +119,6 @@ https://cloud.google.com/vertex-ai/docs/tutorials/video-classification-automl
 Systems built around AI will affect and, in many cases, redefine medical interventions, autonomous
 transportation, criminal justice, financial risk management and many other areas of society.
 
-However, considering the challenges highlighted in the previous section, the usefulness and
-fairness of these AI systems will be gated by our ability to understand, explain and control them.
-
 https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf
 
 ### XAI
@@ -146,7 +143,7 @@ https://cloud.google.com/ai-hub/docs/learn
 
 ### AI Hub vs. TensorFlow Hub
 
-[TensorFlow Hub](https://www.tensorflow.org/hub) provides a library of TensorFlow modules that you can use to speed up the process of training your model. On the AI Hub, you can explore and use a variety of AI asset categories.
+[TensorFlow Hub](https://www.tensorflow.org/hub) provides a library of TensorFlow modules that you can use to speed up the process of training your model. On the [AI Hub](https://cloud.google.com/ai-hub), you can explore and use a variety of AI asset categories.
 
 ### AI Hub Quickstarts
 
@@ -236,7 +233,8 @@ https://www.youtube.com/watch?v=78EmmdfOcI8
 
 ###  Causal Inference
 
-Causal inference is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. 
+[Causal inference](https://wikipedia.org/wiki/Causal_inference
+) is the process of determining the independent, actual effect of a particular phenomenon that is a component of a larger system. 
 
 https://wikipedia.org/wiki/Causal_inference
 
