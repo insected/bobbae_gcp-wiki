@@ -12,7 +12,9 @@ If you are eligible as a partner of google you can [sign up](https://www.partner
 
 #### Google Cloud Skills Boost
 
-https://cloud.google.com/blog/topics/training-certifications/google-cloud-to-train-more-than-40-million-with-cloud-skills
+
+
+https://www.cloudskillsboost.google/
 
 
 ### Quickstarts
