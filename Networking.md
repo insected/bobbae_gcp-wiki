@@ -275,6 +275,9 @@ https://cloud.google.com/network-connectivity/docs/interconnect/support/faq#inte
 
 https://cloud.google.com/network-connectivity/docs/interconnect/support/faq#self-mpls-vpn
 
+## Network Connectivity Center
+
+https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-center-networking-partnerships
 
 ## Cloud Load Balancing
 
