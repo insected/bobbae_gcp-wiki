@@ -33,6 +33,11 @@ https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
 
+#### Run Fault tolerant workload on Spot VMs
+
+https://cloud.google.com/blog/products/compute/google-cloud-spot-vm
+
+
 ### Firecracker microVM
 
 https://firecracker-microvm.github.io/
