@@ -24,6 +24,11 @@ https://cloud.google.com/blog/products/maps-platform/richer-data-visualization-g
 
 https://cloud.google.com/blog/products/maps-platform/meet-next-generation-mobile-optimized-maps
 
+
+### Enhanced Map Style
+
+https://cloud.google.com/blog/products/maps-platform/enhanced-map-style-rolling-out-default-basemap-november
+
 ### Qwiklabs
 
 
