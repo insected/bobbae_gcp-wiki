@@ -214,6 +214,7 @@ Any URLs that are confirmed to match the Safe Browsing Policies will be added to
 Google has been defending millions of sites with [reCAPTCHA](https://cloud.google.com/recaptcha-enterprise/docs) for almost a decade. 
 [reCAPTCHA](https://www.youtube.com/watch?v=ic3Fj2B1LR4) Enterprise is an extension of that effort to help enterprises detect other types of fraudulent activity on their sites, like scraping, credential stuffing, and automated account creation. 
 
+https://cloud.google.com/blog/products/identity-security/recaptcha-enterprise-protects-users-and-is-frictionless
 
 
 ## Web Risk
