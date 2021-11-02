@@ -20,6 +20,9 @@ Maps JavaScript API, Street View Static API, Maps URLs and Maps Embed API. Route
 
 https://cloud.google.com/blog/products/maps-platform/richer-data-visualization-google-maps-platform-using-deckgl
 
+### Mobile apps
+
+https://cloud.google.com/blog/products/maps-platform/meet-next-generation-mobile-optimized-maps
 
 ### Qwiklabs
 
