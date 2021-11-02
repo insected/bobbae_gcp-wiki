@@ -411,6 +411,9 @@ BigQuery was developed as an internal product within Google and was initially re
 
 [https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql](https://cloud.google.com/bigquery/docs/reference/standard-sql/migrating-from-legacy-sql)
 
+### Table Snapshots
+
+https://cloud.google.com/blog/products/data-analytics/google-bigquery-table-snapshots-for-data-backups
 
 ### Newer features in BigQuery SQL
 
