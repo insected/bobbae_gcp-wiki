@@ -19,6 +19,10 @@ https://github.com/doitintl/cmp-docs
 
 [Cloud governance](Cloud-Governance) is a list of precepts you define and verify that is applied in your cloud environment to achieve several objectives.
 
+### Digital Transformation
+
+https://cloud.google.com/blog/topics/cloud-first/decoding-cloud-finops
+
 ### Google Cloud Adoption Framework
 
 
