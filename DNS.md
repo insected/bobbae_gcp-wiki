@@ -14,6 +14,9 @@ https://cloud.google.com/dns/docs/dns-overview
 
 https://cloud.google.com/blog/products/networking/dns-routing-policies-for-geo-location--weighted-round-robin
 
+## Cloud Domains
+
+https://cloud.google.com/blog/products/networking/cloud-domains-is-generally-available
 
 ## Kubernetes DNS Server
 
