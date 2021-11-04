@@ -93,3 +93,7 @@ https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 ### Model training CICD system
 
 https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i
+
+### Vertex AI training in Gitlab 
+
+https://medium.com/google-cloud/how-to-run-vertexai-custom-jobs-in-gitlab-ci-b986e6ebed89
