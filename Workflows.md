@@ -23,6 +23,7 @@ In Orchestration, a central service defines and controls the flow of communicati
 
 In Choreography, each service registers for and emits events as they need. There’s usually a central event broker to pass messages around, but it does not define or direct the flow of communication. This allows services that are truly independent at the expense of less traceable and manageable flow and policies. 
 
+
 ## Connectors
 
 Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow.  Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a [Firestore](Firestore) database, or retrieve authentication keys from [Secret Manager](Secret-Manager).
@@ -95,6 +96,9 @@ https://github.com/PrefectHQ/prefect
 
 https://github.com/snakemake/snakemake
 
+### Visual Editor
+
+https://medium.com/@kolban1/gcp-workflows-visual-editor-9876fb1c823f
 
 
 ### Bioinformatics workflow tools
