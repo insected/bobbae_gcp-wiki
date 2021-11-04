@@ -536,6 +536,10 @@ https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-
 
 https://blog.coupler.io/bigquery-tutorial/
 
+### Importing data
+
+https://digitalmarketinglikeapro.medium.com/5-ways-to-importing-marketing-data-into-bigquery-5355aafa36e8
+
 ### Learn writing java code to connect Dataproc map/reduce to BigQuery
 
 [https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example)
