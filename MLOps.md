@@ -88,3 +88,8 @@ https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 [Automating](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) continuous integration (CI), continuous delivery (CD), and continuous training (CT) for machine learning (ML) systems.
 
 
+## Tutorials
+
+### Model training CICD system
+
+https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i
