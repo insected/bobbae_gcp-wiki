@@ -96,6 +96,10 @@ https://www.terraform.io/intro/vs/cloudformation.html
 
 https://github.com/doitintl/CloudBlaster
 
+#### When terraform destroy fails
+
+https://github.com/hashicorp/terraform/issues/23886
+
 ### Kubernetes
 
 [Kubernetes](Kubernetes) allows for [declarative infrastructure configuration](https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes).
