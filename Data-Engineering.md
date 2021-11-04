@@ -147,3 +147,7 @@ https://cloud.google.com/datastore/docs
 ## Data Transfer
 
 There are various [Data Transfer](Data-Transfer) options in GCP.
+
+## Data Ingestion
+
+https://cloud.google.com/blog/products/data-analytics/data-ingestion-planning-principles
