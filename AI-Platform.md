@@ -53,7 +53,12 @@ https://cloud.google.com/solutions/ai
 
 [https://www.youtube.com/watch?v=MUtsIaQuiRw](https://www.youtube.com/watch?v=MUtsIaQuiRw)
 
+## Tutorials
 
-## Build a reinforcement learning recommendation application using Vertex AI
+### Build a reinforcement learning recommendation application using Vertex AI
 
 https://cloud.google.com/blog/topics/developers-practitioners/build-reinforcement-learning-recommendation-application-using-vertex-ai
+
+### Using GPU for faster distributed training
+
+https://cloud.google.com/blog/products/ai-machine-learning/faster-distributed-training-with-google-clouds-reduction-server
