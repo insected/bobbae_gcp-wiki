@@ -30,6 +30,10 @@ Identity Aware Proxy enables you to configure secure controlled access to your a
 
 https://lunajacob.medium.com/utilizing-gcps-identity-aware-proxy-to-ssh-into-internal-ip-only-vm-s-237bca0123c
 
+#### Accessing GKE via IAP
+
+https://medium.com/google-cloud/accessing-gke-private-clusters-through-iap-14fedad694f8
+
 ### Device Identity
 
 The Cloud Identity Groups API allows you to create and manage different types of devices within your organization.
