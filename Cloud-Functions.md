@@ -24,6 +24,16 @@ https://cloud.google.com/functions/docs/configuring/max-instances
 
 [https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions](https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions)
 
+### Anti patterns
+
+
+#### Idempotency
+
+https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-patterns-part-1-how-write-event-driven-cloud-functions-properly-coding-idempotency-mind
+
+#### Reuse
+
+https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-patterns-part-2-how-reuse-cloud-function-instances-future-invocations
 
 ## Tutorial
 
