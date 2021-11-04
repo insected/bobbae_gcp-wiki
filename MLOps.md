@@ -97,3 +97,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/model-training-cic
 ### Vertex AI training in Gitlab 
 
 https://medium.com/google-cloud/how-to-run-vertexai-custom-jobs-in-gitlab-ci-b986e6ebed89
+
+### CI/CD for your Vertex AI Machine Learning Pipeline
+
+https://medium.com/google-cloud/how-to-implement-ci-cd-for-your-vertex-ai-pipeline-27963bead8bd
