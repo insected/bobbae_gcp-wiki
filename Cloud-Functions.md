@@ -19,6 +19,9 @@ You can control the scaling behavior of your function by setting a maximum numbe
 
 https://cloud.google.com/functions/docs/configuring/max-instances
 
+### Region Performances
+
+https://medium.com/google-cloud/cloud-run-and-cloud-functions-does-the-region-change-the-performances-b967e5cee0cc
 
 ### Cloud Functions for .NET
 
