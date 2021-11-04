@@ -589,6 +589,10 @@ https://cloud.google.com/blog/products/data-analytics/genomics-data-analytics-wi
 
 https://soumendra-mishra.medium.com/bigquery-dynamic-sql-using-jinja-template-5c1332317960
 
+### Bike Share membership 
+
+https://medium.com/@urruchua.xabier/bike-share-chicago-case-study-72444a268dd1
+
 ### Data Quality Analysis using BigQuery
 
 
