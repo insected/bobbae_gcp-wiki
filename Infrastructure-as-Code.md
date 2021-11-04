@@ -92,6 +92,10 @@ https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-aut
 
 https://www.terraform.io/intro/vs/cloudformation.html
 
+### Cleaning up
+
+https://github.com/doitintl/CloudBlaster
+
 ### Kubernetes
 
 [Kubernetes](Kubernetes) allows for [declarative infrastructure configuration](https://cloud.google.com/blog/products/containers-kubernetes/understanding-configuration-as-data-in-kubernetes).
