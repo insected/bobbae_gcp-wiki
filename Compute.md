@@ -126,9 +126,13 @@ A [preemptible instance](https://cloud.google.com/compute/docs/instances/create-
 [https://cloud.google.com/compute/docs/machine-images/create-machine-images](https://cloud.google.com/compute/docs/machine-images/create-machine-images)
 
 
-### Adding & Resizing Persistent Disks.
+### Adding & Resizing Persistent Disks
 
 [https://cloud.google.com/compute/docs/disks/add-persistent-disk](https://cloud.google.com/compute/docs/disks/add-persistent-disk)
+
+### Extending Persistent Disks
+
+https://wizzard-harshit.medium.com/extend-disk-on-gcp-in-e8cdd1d0fe34
 
 ### Creating customized boot disks
 
