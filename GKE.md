@@ -30,6 +30,9 @@ https://cloud.google.com/kubernetes-engine/quotas
 
 https://www.stackrox.com/post/2021/01/eks-vs-gke-vs-aks-jan2021/
 
+### Image streaming
+
+https://cloud.google.com/blog/products/containers-kubernetes/introducing-container-image-streaming-in-gke
 
 ## Examples
 
