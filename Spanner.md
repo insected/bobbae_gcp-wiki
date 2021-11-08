@@ -64,6 +64,10 @@ A tablet is similar to Bigtable’s tablet abstraction, in that it implements a 
 
 Unlike [Bigtable](Bigtable), Spanner assigns timestamps to data, which is an important way in which Spanner is more like a multi-version database than a key-value store.  
 
+### TTL
+
+https://cloud.google.com/blog/products/spanner/reduce-costs-and-simplify-compliance-with-managed-ttl-in-spanner
+
 ### Tablet state Write-ahead Log
 
 A tablet’s state is stored in set of [B-tree-like](https://wikipedia.org/wiki/B-tree) files and a write-ahead log, all on a distributed file system called [Colossus](https://cloudblog.withgoogle.com/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system)  (the successor to the Google File System).  
