@@ -612,6 +612,12 @@ https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0
 
 ### Natural Language Processing
 
+
+#### GCP Translation tools
+
+https://cloud.google.com/blog/products/ai-machine-learning/translation-tools-that-meet-business-needs
+
+
 #### TF-IDF Vectorization
 
 
