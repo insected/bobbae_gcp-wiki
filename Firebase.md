@@ -15,6 +15,10 @@ Firebase projects are GCP Projects.
 
 [https://www.youtube.com/watch?v=xbmYmgBEj4o](https://www.youtube.com/watch?v=xbmYmgBEj4o)
 
+#### Moving a Firebase project to GCP Organization
+
+https://medium.com/@kolban1/moving-a-firebase-project-to-a-gcp-organization-860c46ff416
+
 
 ### A list of URLs related to firebase.
 
