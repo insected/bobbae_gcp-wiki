@@ -20,7 +20,9 @@ https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-launch
 
 [G​K​E workload metrics](https://cloud.google.com/stackdriver/docs/solutions/gke/managing-metrics#workload-metrics) provide way to monitor Kubernetes applications using Cloud Monitoring.
 
+### VMs and GKE
 
+https://medium.com/@kote.isaev/gotcha-of-cheaper-e2-medium-vms-at-google-cloud-d6aafcd8f347
 
 ### Quotas and Limits
 
@@ -51,6 +53,7 @@ Batch on GKE (Batch) is a cloud-native solution for scheduling and managing batc
 A video about using Batch on GKE.
 
 [https://www.youtube.com/watch?v=qLSLs-ko3ik](https://www.youtube.com/watch?v=qLSLs-ko3ik)
+
 ## GKE Operations
 
 A video about using Cloud Logging on [GKE](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview).
