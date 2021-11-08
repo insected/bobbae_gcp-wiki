@@ -36,6 +36,10 @@ https://www.stackrox.com/post/2021/01/eks-vs-gke-vs-aks-jan2021/
 
 https://cloud.google.com/blog/products/containers-kubernetes/introducing-container-image-streaming-in-gke
 
+### Zero Trust
+
+https://cloud.google.com/blog/products/identity-security/workload-credentials-for-gke-via-cas
+
 ## Examples
 
 ### GKE HA and Stateful Application, PVC
