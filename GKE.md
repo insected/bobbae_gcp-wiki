@@ -40,6 +40,10 @@ https://cloud.google.com/blog/products/containers-kubernetes/introducing-contain
 
 https://cloud.google.com/blog/products/identity-security/workload-credentials-for-gke-via-cas
 
+### Port limit
+
+https://gtseres.medium.com/how-to-expose-more-than-5-ports-for-a-loadbalancer-kservice-in-gcp-ee2a08c54e85
+
 ## Examples
 
 ### GKE HA and Stateful Application, PVC
