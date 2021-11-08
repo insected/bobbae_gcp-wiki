@@ -13,6 +13,10 @@
 
 Terraform's [infrastructure-as-code](Infrastructure-as-Code)  (IAC) approach supports [DevOps](DevOps) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
+### RAD Lab
+
+https://github.com/GoogleCloudPlatform/rad-lab
+
 ### Immutable infrastructure
 
 The benefits of an [immutable infrastructure](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure) include more consistency and reliability in your infrastructure and a simpler, more predictable deployment process. 
