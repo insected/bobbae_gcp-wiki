@@ -25,6 +25,9 @@ The [Cloud Healthcare API](https://www.youtube.com/watch?v=Y-yvlt5mVXk) simplifi
 
 There is no shortage of [opportunities](https://www.youtube.com/watch?v=P54bm_TNnqQ) for [clinical decision support and cognitive assistance](https://www.youtube.com/watch?v=DH-JC9DfYdI) in healthcare. 
 
+#### Benchmark on FHIR data streaming
+
+https://vneilley.medium.com/most-fhir-servers-are-unusable-in-production-8833cb1480b1
 
 ### HIPAA
 
