@@ -628,6 +628,9 @@ https://medium.com/geekculture/mathematical-functions-you-should-know-in-bigquer
 
 https://towardsdatascience.com/slack-alerts-from-a-sql-query-on-bigquery-f626b767304c
 
+### Querying BigQuery with Google Analytics data
+
+https://digitalmarketinglikeapro.medium.com/hands-on-experience-with-bigquery-how-to-query-with-google-analytics-data-b83e7cbdd3c9
 
 ## Qwiklabs
 
