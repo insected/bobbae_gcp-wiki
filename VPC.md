@@ -28,9 +28,7 @@ Cloud Platform firewalls, routing, and forwarding rules all leverage the underly
 
 ## Shared VPC and VPC Peering
 
-[Shared VPC](https://cloud.google.com/vpc/docs/shared-vpc) allows an  [organization](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy) to connect resources from multiple projects to a common [Virtual Private Cloud (VPC) network](https://cloud.google.com/vpc/docs/vpc), so that they can communicate with each other securely and efficiently using internal IPs from that network. 
-
-When you use Shared VPC, you designate a project as a host project and attach one or more other service projects to it. 
+[Shared VPC](https://cloud.google.com/vpc/docs/shared-vpc) allows an  [organization](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy) to connect resources from multiple projects to a common [Virtual Private Cloud (VPC) network](https://cloud.google.com/vpc/docs/vpc), so that they can communicate with each other securely and efficiently using internal IPs from that network. When you use Shared VPC, you designate a project as a host project and attach one or more other service projects to it. 
 
 The VPC networks in the host project are called Shared VPC networks. [Eligible resources](https://cloud.google.com/vpc/docs/shared-vpc#resources_that_can_be_attached_to_shared_vpc_networks_from_a_service_project) from service projects can use subnets in the Shared VPC network.
 
@@ -42,6 +40,7 @@ Google Cloud VPC Network Peering allows [internal IP address](https://cloud.goog
 
 
 
+https://medium.com/google-cloud/everything-you-always-wanted-to-know-about-vpc-peering-but-were-afraid-to-ask-2b26267ba7d9
 
 ## VPC network Sharing and Peering
 
