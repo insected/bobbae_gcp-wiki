@@ -623,6 +623,12 @@ https://medium.com/teads-engineering/managing-a-bigquery-data-warehouse-at-scale
 
 https://medium.com/geekculture/mathematical-functions-you-should-know-in-bigquery-ee674109be6d
 
+
+### BigQuery to Slack
+
+https://towardsdatascience.com/slack-alerts-from-a-sql-query-on-bigquery-f626b767304c
+
+
 ## Qwiklabs
 
 
