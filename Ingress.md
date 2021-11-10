@@ -138,6 +138,13 @@ You can expose a Service in multiple ways that don't directly involve the Ingres
 Services can be [exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer) in a variety of ways.
 
 
+### HAProxy kubernetes ingress
+
+https://github.com/haproxytech/kubernetes-ingress
+
+### Kubernetes ingress controller options
+
+https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 
 ## Multi-cluster ingress
 
