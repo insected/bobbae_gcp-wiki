@@ -51,3 +51,7 @@ https://jonachin.medium.com/cloud-bursting-from-on-premise-kubernetes-clusters-t
 ### Virtual kubelet
 
 https://virtual-kubelet.io/
+
+## KEDA
+
+https://keda.sh/
