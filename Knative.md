@@ -78,6 +78,10 @@ https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a65
 
 https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
 
+## Knative 1.0 features
+
+https://knative.dev/blog/articles/knative-1.0/
+
 ## Samples
 
 ### Getting Started
