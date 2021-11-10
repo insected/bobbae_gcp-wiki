@@ -9,6 +9,10 @@
 
 Cloud Monitoring [is part](Operations-and-Stackdriver) of [Google Cloud operations suite](https://cloud.google.com/stackdriver/docs).
 
+## Google Cloud Metrics
+
+https://cloud.google.com/monitoring/api/metrics_gcp
+
 ## Logging
 
 [Cloud Logging](Logging) is a fully managed service that allows you to store, search, analyze, monitor, and alert on logging data and events from Google Cloud and Amazon Web Services. You can collect logging data from over 150 common application components, on-premises systems, and hybrid cloud systems.
