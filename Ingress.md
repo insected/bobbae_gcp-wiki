@@ -101,20 +101,11 @@ spec:
             port:
               number: 80
 ```
-## List of Ingress Controllers
 
-In order for the Ingress resource to work, the cluster must have an ingress controller running.
-
-Unlike other types of controllers which run as part of the kube-controller-manager binary, Ingress controllers are not started automatically with a cluster. Use this page to choose the ingress controller implementation that best fits your cluster.
-
-https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
 
 
 https://liejuntao001.medium.com/some-details-about-how-kubernetes-ingress-controller-works-99deb529f2e4
 
-## Load Balancing
-
-An Ingress controller is bootstrapped with some load balancing policy settings that it applies to all Ingress, such as the load balancing algorithm, backend weight scheme, and others. More advanced load balancing concepts (e.g. persistent sessions, dynamic weights) are not yet exposed through the Ingress. You can instead get these features through the load balancer used for a Service.
 
 ## Ingress and Load balancer
 
@@ -126,7 +117,7 @@ To use Ingress, you must have the HTTP [load balancing](Load-Balancer) add-on en
 
 
 
-## Alternatives
+## Alternatives to Ingress
 
 
 You can expose a Service in multiple ways that don't directly involve the Ingress resource:
