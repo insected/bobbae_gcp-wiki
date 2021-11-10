@@ -142,6 +142,10 @@ Services can be [exposed](ClusterIP,-Ingress,-NodePort,-Load-Balancer) in a vari
 
 https://github.com/haproxytech/kubernetes-ingress
 
+#### HAProxy kubernetes ingress controller 1.7
+
+https://www.haproxy.com/blog/announcing-haproxy-kubernetes-ingress-controller-1-7/
+
 ### Kubernetes ingress controller options
 
 https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
