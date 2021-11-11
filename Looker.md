@@ -109,6 +109,9 @@ https://medium.com/badal-io/gcp-iiot-visualization-and-analytics-in-looker-for-o
 
 https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
 
+### Looker Business Analyst certification
+
+https://cloud.google.com/certification/looker-ba
 
 ### Extension Framework
 
