@@ -42,6 +42,11 @@ If you are not familiar with git, you should [learn to use it]((https://www.yout
 [Github flow](https://guides.github.com/introduction/flow/) is a way of using github.
 [Gitlab flow](https://about.gitlab.com/blog/2014/09/29/gitlab-flow/) is a way of using gitlab.
 
+
+#### GCP Training resources on GitHub
+
+https://github.com/GoogleCloudPlatformTraining
+
 ### Certifications
 
 You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after [studying the 
