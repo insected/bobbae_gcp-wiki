@@ -2,7 +2,7 @@
 This document is intended to be used in an instructor-lead training class on [GCP](GCP-Learning).
 
 
-https://cloud.google.com/training/
+
 
 ### Qwiklabs
 
@@ -19,6 +19,9 @@ If you are eligible as a partner of google you can [sign up](https://www.partner
 
 https://www.cloudskillsboost.google/
 
+### GCP Training resources
+
+https://cloud.google.com/training/
 
 ### Quickstarts
 
