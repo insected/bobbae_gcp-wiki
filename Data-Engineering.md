@@ -15,6 +15,10 @@ What is [the difference]( https://blog.panoply.io/what-is-the-difference-between
 
 What's the [difference between Data Analytics vs Data Engineering]( https://www.thinkful.com/blog/data-analyst-vs-data-engineer/)?  
 
+### GCP Data Analyst training
+
+https://github.com/GoogleCloudPlatformTraining/training-data-analyst
+
 ### Data analyst driven organizations
 
 https://cloud.google.com/blog/products/data-analytics/building-the-data-analyst-driven-organization
