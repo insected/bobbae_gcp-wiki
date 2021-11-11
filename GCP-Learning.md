@@ -4,6 +4,7 @@
 
 - [Preparation](Preparation)
 - [Syllabus](Syllabus)
+- [Schedules](Schedules)
 - [Introduction to GCP](Introduction)
 - [Accounts and Billing](Accounts-and-Billing)
 - [Compute](Compute)
