@@ -145,7 +145,7 @@ https://towardsdatascience.com/choosing-between-tensorflow-keras-bigquery-ml-and
 
 ## Pycaret
 
-https://medium.com/@amjadraza24/build-with-pycaret-deploy-with-gcp-97df8682ee92
+https://towardsdatascience.com/build-pycaret-deploy-gcp-521415a6c330
 
 ## Examples
 
