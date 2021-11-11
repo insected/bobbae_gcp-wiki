@@ -51,6 +51,10 @@ https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 
 https://www.informatica.com/blogs/etl-vs-elt-whats-the-difference.html
 
+### Reverse ETL
+
+https://www.hightouch.io/
+
 ## Data lakes vs Data warehouses
 
 https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
