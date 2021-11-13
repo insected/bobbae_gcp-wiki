@@ -34,7 +34,12 @@ A [NoSQL](https://en.wikipedia.org/wiki/NoSQL) (originally referring to "non-SQL
 
 A [distributed SQL](https://en.wikipedia.org/wiki/Distributed_SQL) database is a single relational database which [replicates data across multiple servers](https://www.infoworld.com/article/3564543/beyond-nosql-the-case-for-distributed-sql.html). [Distributed SQL](https://www.cockroachlabs.com/blog/what-is-distributed-sql/) databases are strongly consistent and most [support consistency](https://www.nextplatform.com/2021/01/25/after-three-decades-you-can-finally-have-a-distributed-sql-database/) across racks, data centers, and wide area networks including cloud availability zones and cloud geographic zones.
 
-## SQL vs NOSQL
+
+### NewSQL databases
+
+https://medium.com/capital-one-tech/newsql-the-next-evolution-in-databases-19109973ee53
+
+### SQL vs NOSQL
 
 [https://www.virtual-dba.com/differences-between-sql-nosql-and-newsql/](https://www.virtual-dba.com/differences-between-sql-nosql-and-newsql/)
 
