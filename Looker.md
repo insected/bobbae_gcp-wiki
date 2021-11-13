@@ -209,6 +209,10 @@ https://www.getdbt.com/docs/
 
 https://github.com/spectacles-ci/spectacles
 
+## Looker Performance
+
+https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
+
 ## Qwiklabs
 
 https://www.qwiklabs.com/catalog?keywords=looker
