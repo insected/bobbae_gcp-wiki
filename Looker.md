@@ -51,7 +51,9 @@ https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/b
 
 https://connect.looker.com/
 
+### Looker learning topics
 
+https://help.looker.com/
 
 ### Learning LookML
 
