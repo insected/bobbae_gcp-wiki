@@ -6,7 +6,7 @@ A service mesh is a tool for adding observability, security, and reliability fea
 
 The service mesh is typically implemented as a scalable set of network proxies deployed alongside application code (a pattern sometimes called a sidecar). These proxies handle the communication between the microservices and also act as a point at which the service mesh features can be introduced. The proxies comprise the service mesh’s data plane, and are controlled as a whole by its control plane.
 
-The [rise of the service mesh](https://www.talentica.com/blogs/the-rise-of-service-mesh-how-can-businesses-use-it/) is tied to the rise of the “cloud native” application. In the [cloud native world](https://www.cncf.io/), an application might consist of hundreds of services; each service might have thousands of instances; and each of those instances might be in a constantly-changing state as they are dynamically scheduled by an orchestrator like Kubernetes. Not only is service-to-service communication in this world incredibly complex, it’s a fundamental part of the application’s runtime behavior
+The [rise of the service mesh](https://www.talentica.com/blogs/the-rise-of-service-mesh-how-can-businesses-use-it/) is tied to the rise of the [cloud native](https://cloud.google.com/solutions/cloud-native-app-development) application. In the [cloud native world](https://www.cncf.io/), an application might consist of hundreds of services; each service might have thousands of instances; and each of those instances might be in a constantly-changing state as they are dynamically scheduled by an orchestrator like Kubernetes. Not only is service-to-service communication in this world incredibly complex, it’s a fundamental part of the application’s runtime behavior
 
 ### Sidecar proxy
 
