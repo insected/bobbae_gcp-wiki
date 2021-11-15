@@ -40,7 +40,13 @@ Firebase offers two cloud-based, client-accessible database solutions that suppo
 
 [https://firebase.google.com/docs/database/rtdb-vs-firestore](https://firebase.google.com/docs/database/rtdb-vs-firestore)
 
-#### Firebase vs Firestore
+### Firebase AB Testing
+
+https://firebase.google.com/docs/ab-testing
+
+https://dikman.medium.com/segment-analytics-with-firebase-ab-testing-36bfa6589ea4
+
+### Firebase vs Firestore
 
 https://blog.back4app.com/firebase-vs-firestore/
 
