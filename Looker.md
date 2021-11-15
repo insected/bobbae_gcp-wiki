@@ -170,6 +170,8 @@ The Looker Marketplace is a central location for finding, deploying, and managin
 
 https://docs.looker.com/data-modeling/marketplace
 
+https://cloud.google.com/blog/products/data-analytics/looker-public-marketplace
+
 ### Customizing Looker Marketplace Blocks
 
 https://docs.looker.com/data-modeling/marketplace/customize-blocks
