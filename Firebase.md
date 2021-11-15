@@ -123,6 +123,10 @@ https://firebase.googleblog.com/2021/06/building-firebase-quickdraw.html
 
 https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62cc6
 
+### innFactory
+
+https://medium.com/gdgeurope/how-500-000-people-got-a-covid-19-vaccine-appointment-ee1201998644
+
 ## Youtube channel for firebase
 
 [https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv)
