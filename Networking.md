@@ -127,6 +127,10 @@ A [router]( https://en.wikipedia.org/wiki/Router_(computing)  ) is a networking 
 
 A [bridge router or brouter](https://en.m.wikipedia.org/wiki/Bridge_router) is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.
 
+#### Switch vs Router
+
+https://www.guru99.com/router-vs-switch-difference.html
+
 ### Routing Protocols
 
 A [routing protocol](  https://en.wikipedia.org/wiki/Routing_protocol ) specifies how routers communicate with each other to distribute information that enables them to select routes between nodes on a computer network. 
