@@ -545,41 +545,58 @@ https://awesomeopensource.com/categories/machine-learning
 
 https://gist.github.com/pydevops
 
-## Use cases
-
-###
-
-https://cloud.google.com/blog/topics/startups/checkout-experiences-for-merchants-enhanced-with-new-solution
-
-
-## Links not yet categorized
-
+## System Design
 
 https://github.com/donnemartin/system-design-primer
 
+## Algorithms
+
 https://github.com/TheAlgorithms
 
-https://github.com/danistefanovic/build-your-own-x
-
-https://github.com/trekhleb/javascript-algorithms
-
-https://github.com/vasanthk/how-web-works
 
 https://github.com/TheAlgorithms/Javascript
 
+https://github.com/trekhleb/javascript-algorithms
+
+
+## Build Your Own
+
+https://github.com/danistefanovic/build-your-own-x
+
+## How Web Works
+
+https://github.com/vasanthk/how-web-works
+
+## Interviews
+
 https://github.com/Olshansk/interview
+
+## Go
 
 https://github.com/inancgumus/learngo
 
+
+
+
+
+
+## Javascript
+
 https://github.com/ryanmcdermott/clean-code-javascript
+
 
 https://github.com/lydiahallie/javascript-questions
 
-https://github.com/papers-we-love/papers-we-love
+## Papers
 
 https://github.com/prakhar1989/awesome-courses
 
-https://github.com/ripienaar/free-for-dev
+## Free Dev services
 
 https://github.com/EbookFoundation/free-programming-books
 
+
+
+## Use cases
+
+https://cloud.google.com/blog/topics/startups/checkout-experiences-for-merchants-enhanced-with-new-solution
