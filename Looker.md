@@ -22,9 +22,8 @@ Looker also allows you to send data to other platforms through an [Application P
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
 
-## Getting Started with Looker
 
-Looker for data consumers.
+### Looker for data consumers
 
 [https://training.looker.com/looker-for-data-consumers](https://training.looker.com/looker-for-data-consumers)
 
@@ -149,6 +148,11 @@ https://developers.looker.com/embed/embed-sdk
 This utility helps you rapidly create new Looker Extension Framework extensions.
 
 https://github.com/looker-open-source/create-looker-extension
+
+### Looker Components
+
+https://developers.looker.com/components/develop
+
 
 ### Python examples
 
