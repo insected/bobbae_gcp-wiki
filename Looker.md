@@ -74,7 +74,9 @@ Looker for data explorers.
 
 [https://training.looker.com/looker-for-data-explorers](https://training.looker.com/looker-for-data-explorers)
 
+### Solving business problems with data
 
+https://cloud.google.com/blog/products/data-analytics/looker-solutions-solving-business-problems-with-data
 
 ### Training business users
 
