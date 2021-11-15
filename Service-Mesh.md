@@ -11,7 +11,7 @@ The [rise of the service mesh](https://www.talentica.com/blogs/the-rise-of-servi
 
 A [sidecar proxy](https://medium.com/@lukas.eichler/securing-pods-with-sidecar-proxies-d84f8d34be3e) is an application design pattern which abstracts certain features, such as inter-service communications, monitoring and security, away from the main architecture to ease the tracking and maintenance of the application as a whole.
 
-Nginx and envoy are common proxies used this way and controlled by service mesh controllers. 
+[Nginx](https://en.wikipedia.org/wiki/Nginx) and envoy are common proxies used this way and controlled by service mesh controllers. 
 
 #### L7 Proxies
 
