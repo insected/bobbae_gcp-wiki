@@ -33,6 +33,11 @@ Cloud Dataflow is not the first big data processing engine, its not the only one
 
 [https://beam.apache.org/documentation/programming-guide/](https://beam.apache.org/documentation/programming-guide/)
 
+
+### Firestore native connector
+
+https://cloud.google.com/blog/products/databases/apache-beam-firestore-connector-released
+
 ## Examples
 
 ### Example Notebook
