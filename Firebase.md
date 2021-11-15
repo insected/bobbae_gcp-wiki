@@ -1,7 +1,7 @@
 
 
 
-[Firebase](https://firebase.google.com/) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs. Firebase provides tools to develop high-quality apps, grow the  user base, and monetize the business while focusing on the users.
+[Firebase](https://firebase.google.com/) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs. 
 
 [https://firebase.google.com/docs/](https://firebase.google.com/docs/)
 
@@ -26,17 +26,22 @@ https://medium.com/@kolban1/moving-a-firebase-project-to-a-gcp-organization-860c
 
 ### Firebase Realtime Database
 
-Store and sync data with our NoSQL cloud database. Data is synced across all clients in real time, and remains available when your app goes offline. The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data.
+Store and sync data with our NoSQL cloud database. Data is synced across all clients in real time, and remains available when your app goes offline. The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. 
 
 [https://firebase.google.com/docs/database/](https://firebase.google.com/docs/database/)
 
 
 ### Cloud Firestore or Realtime Database
 
-Firebase offers two cloud-based, client-accessible database solutions that support real time data syncing:
+Firebase offers two cloud-based, client-accessible database solutions that support real time data syncing.
 
-*   Cloud [Firestore](Firestore) is Firebase's newest database for mobile app development. It builds on the successes of the Realtime Database with a new, more intuitive data model. Cloud Firestore also features richer, faster queries and scales further than the Realtime Database.
-*   Realtime Database is Firebase's original database. It's an efficient, low-latency solution for mobile apps that require synced states across clients in real time.
+#### Cloud Firestore
+
+Cloud [Firestore](Firestore) is Firebase's newest database for mobile app development. It builds on the successes of the Realtime Database with a new, more intuitive data model. Cloud Firestore also features richer, faster queries and scales further than the Realtime Database.
+
+#### Realtime Database
+
+Firebase Realtime Database is Firebase's original database. It's an efficient, low-latency solution for mobile apps that require synced states across clients in real time.
 
 [https://firebase.google.com/docs/database/rtdb-vs-firestore](https://firebase.google.com/docs/database/rtdb-vs-firestore)
 
@@ -65,7 +70,7 @@ Most apps need to know the identity of a user. Knowing a user's identity allows 
 
 ### Cloud Functions for Firebase
 
-Cloud Functions for Firebase is a serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. Your JavaScript or TypeScript code is stored in Google's cloud and runs in a managed environment. There's no need to manage and scale your own servers.
+Cloud Functions for Firebase is a [serverless](serverless) framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. Your JavaScript or TypeScript code is stored in Google's cloud and runs in a managed environment. 
 
 [https://firebase.google.com/docs/functions/](https://firebase.google.com/docs/functions/)
 
@@ -76,22 +81,22 @@ https://medium.com/@scorpion.nimit/how-to-create-a-firebase-cloud-function-with-
 
 ### Cloud Storage for Firebase
 
-Cloud Storage for Firebase is a powerful, simple, and cost-effective object storage service built for Google scale. The Firebase SDKs for Cloud Storage add Google security to file uploads and downloads for your Firebase apps, regardless of network quality. You can use our SDKs to store images, audio, video, or other user-generated content. On the server, you can use [Google Cloud Storage](https://cloud.google.com/storage), to access the same files.
+The Firebase SDKs for [Google Cloud Storage](https://cloud.google.com/storage) add Google security to file uploads and downloads for your Firebase apps. You can use the SDKs to store images, audio, video, or other user-generated content. On the server, you can use [Google Cloud Storage](https://cloud.google.com/storage), to access the same files.
 
 [https://firebase.google.com/docs/storage](https://firebase.google.com/docs/storage)
 
 
 ### Firebase Test Lab
 
-Firebase Test Lab is a cloud-based app-testing infrastructure. With one operation, you can test your Android or iOS app across a wide variety of devices and device configurations, and see the results—including logs, videos, and screenshots—in the Firebase console.
+Firebase Test Lab is a cloud-based app-testing infrastructure that allows testing Android or iOS apps across a wide variety of devices and device configurations, and see the results—including logs, videos, and screenshots—in the Firebase console.
 
 [https://firebase.google.com/docs/test-lab/](https://firebase.google.com/docs/test-lab/)
 
 ### Firebase Crashlytics
 
-Firebase Crashlytics is a lightweight, realtime crash reporter that helps you track, prioritize, and fix stability issues that erode your app quality. Crashlytics saves you troubleshooting time by intelligently grouping crashes and highlighting the circumstances that lead up to them.
+[Firebase Crashlytics](https://firebase.google.com/docs/crashlytics
+) is a lightweight, realtime crash reporter that helps you track, prioritize, and fix stability issues that erode your app quality.
 
-https://firebase.google.com/docs/crashlytics
 
 
 https://firebase.googleblog.com/2021/07/unlocking-next-level-of-app-stability-with-firebase-crashlytics.html
@@ -99,7 +104,7 @@ https://firebase.googleblog.com/2021/07/unlocking-next-level-of-app-stability-wi
 
 ### Firebase Cloud Messaging
 
-[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging) enables you to deliver and receive messages and notifications on Android, iOS, and the web at no cost. 
+[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging) enables you to deliver and receive messages and notifications on Android, iOS, and the web.
 
 #### Analytics Labels
 
