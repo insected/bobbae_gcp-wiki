@@ -17,6 +17,8 @@ https://cloud.google.com/anthos/run/docs/architecture-overview
 
 https://cloud.google.com/run/docs/quickstarts
 
+https://towardsdatascience.com/serverless-on-gcp-with-cloud-run-b3dab7a60e63
+
 
 ### CPU Allocation controls
 
@@ -52,3 +54,5 @@ https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
 ### CloudRun Continous Deployment and Domain Mapping
 
 https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
+
+
