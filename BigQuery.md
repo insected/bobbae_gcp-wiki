@@ -636,6 +636,11 @@ https://digitalmarketinglikeapro.medium.com/hands-on-experience-with-bigquery-ho
 
 https://cloud.google.com/blog/products/bigquery/how-google-cloud-bigquery-enables-big-devops-at-jfrog
 
+
+### Policygenius
+
+https://medium.com/policygenius-stories/building-a-data-warehouse-on-google-cloud-platform-that-scales-with-the-business-2b07f7c7292e
+
 ## Qwiklabs
 
 
