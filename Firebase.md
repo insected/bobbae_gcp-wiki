@@ -5,9 +5,7 @@
 
 [https://firebase.google.com/docs/](https://firebase.google.com/docs/)
 
-## Youtube channel for firebase
 
-[https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv)
 
 ## GCP & Firebase 
 
@@ -121,6 +119,13 @@ https://firebase.google.com/docs/functions/get-started
 
 https://firebase.googleblog.com/2021/06/building-firebase-quickdraw.html
 
+## Youtube channel for firebase
+
+[https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv)
+
+## App Distribution
+
+https://firebase.google.com/products/app-distribution
 
 ## Qwiklabs
 
