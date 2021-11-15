@@ -292,6 +292,11 @@ https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-ref
 
 https://cloud.google.com/bigquery/docs/scheduling-queries
 
+### Scripting
+
+https://jimbeepbeep.medium.com/getting-started-with-bigquery-scripting-45bdd968010c
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/scripting
 
 ### Controlling costs
 
