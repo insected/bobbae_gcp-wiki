@@ -545,6 +545,13 @@ https://awesomeopensource.com/categories/machine-learning
 
 https://gist.github.com/pydevops
 
+## Use cases
+
+###
+
+https://cloud.google.com/blog/topics/startups/checkout-experiences-for-merchants-enhanced-with-new-solution
+
+
 ## Links not yet categorized
 
 
