@@ -105,3 +105,7 @@ https://medium.com/google-cloud/how-to-implement-ci-cd-for-your-vertex-ai-pipeli
 ### Vertex AI using python
 
 https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8
+
+### MLOps pipeline for hyperparameter tuning in Vertex AI
+
+https://towardsdatascience.com/how-to-build-an-mlops-pipeline-for-hyperparameter-tuning-in-vertex-ai-45cc2faf4ff5
