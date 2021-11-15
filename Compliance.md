@@ -44,6 +44,9 @@ https://cloud.google.com/security/gdpr/resource-center
 
 https://cloud.google.com/security/gdpr
 
+## Risk and Compliance as Code
+
+https://cloud.google.com/blog/products/identity-security/risk-and-compliance-as-code
 
 ## PCI Responsibility Matrix
 
