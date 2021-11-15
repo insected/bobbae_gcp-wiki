@@ -55,7 +55,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 Google Cloud encrypts all customer content stored [at rest](Encryption-at-Rest), without any action required from the customer, using one or more encryption mechanisms.
 
 
+## Security as Code
 
+https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/security-as-code-the-best-and-maybe-only-path-to-securing-cloud-applications-and-systems
 
 ## Security and Identity
 
