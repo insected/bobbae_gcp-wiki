@@ -52,6 +52,9 @@ JupyterHub allows users to interact with a computing environment through a webpa
 
 Helm Chart & Documentation for [deploying  JupyterHub on Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s/).
 
+## Examples
 
+### Scale with Vertex AI Workbench notebook executor
 
+https://cloud.google.com/blog/products/ai-machine-learning/schedule-and-execute-notebooks-with-vertex-ai-workbench
 
