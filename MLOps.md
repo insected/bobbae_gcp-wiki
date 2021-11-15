@@ -101,3 +101,7 @@ https://medium.com/google-cloud/how-to-run-vertexai-custom-jobs-in-gitlab-ci-b98
 ### CI/CD for your Vertex AI Machine Learning Pipeline
 
 https://medium.com/google-cloud/how-to-implement-ci-cd-for-your-vertex-ai-pipeline-27963bead8bd
+
+### Vertex AI using python
+
+https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model-on-vertex-ai-using-python-865b535814f8
