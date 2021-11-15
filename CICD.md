@@ -159,3 +159,7 @@ https://cloud.google.com/architecture/distributed-load-testing-using-gke
 ## Building Containers without docker
 
 https://blog.alexellis.io/building-containers-without-docker/
+
+## Gitlab and GKE
+
+https://blog.searce.com/gitlab-ci-cd-to-deploy-applications-on-gke-using-shared-runner-47f8c42817ac
