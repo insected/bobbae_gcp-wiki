@@ -155,6 +155,11 @@ https://developers.looker.com/components/develop
 
 https://cloud.google.com/blog/topics/developers-practitioners/going-beyond-dashboard-paradigm-looker-components
 
+### Universal Semantic Model
+
+https://cloud.google.com/blog/products/data-analytics/lookers-universal-semantic-model
+
+
 ### Python examples
 
 Python Looker source code example that use SDKs to communicate with the Looker API. 
