@@ -79,3 +79,6 @@ https://cloud.google.com/memorystore/docs/redis/connect-redis-instance-functions
 
 https://cloud.google.com/architecture/system-testing-cloud-functions-using-cloud-build-and-terraform
 
+### Handling Promises
+
+https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-patterns-part-4-how-handle-promises-correctly-your-nodejs-cloud-function
