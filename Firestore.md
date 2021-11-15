@@ -79,6 +79,10 @@ https://medium.com/@xathis/import-csv-firebase-firestore-without-code-gui-tool-3
 
 https://soumendra-mishra.medium.com/how-to-read-google-firestore-data-using-rest-api-1386df45c420
 
+### Connecting to Apache Beam
+
+https://cloud.google.com/blog/topics/developers-practitioners/using-firestore-and-apache-beam-data-processing
+
 ### rowy
 
 https://www.rowy.io/
