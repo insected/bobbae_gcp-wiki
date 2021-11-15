@@ -163,3 +163,7 @@ https://blog.alexellis.io/building-containers-without-docker/
 ## Gitlab and GKE
 
 https://blog.searce.com/gitlab-ci-cd-to-deploy-applications-on-gke-using-shared-runner-47f8c42817ac
+
+## Cloud Deploy and GKE
+
+https://blog.searce.com/deploy-applications-to-gke-using-google-cloud-deploy-f1fda8618966
