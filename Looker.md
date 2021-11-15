@@ -153,6 +153,7 @@ https://github.com/looker-open-source/create-looker-extension
 
 https://developers.looker.com/components/develop
 
+https://cloud.google.com/blog/topics/developers-practitioners/going-beyond-dashboard-paradigm-looker-components
 
 ### Python examples
 
