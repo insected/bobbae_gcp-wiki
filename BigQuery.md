@@ -632,6 +632,10 @@ https://towardsdatascience.com/slack-alerts-from-a-sql-query-on-bigquery-f626b76
 
 https://digitalmarketinglikeapro.medium.com/hands-on-experience-with-bigquery-how-to-query-with-google-analytics-data-b83e7cbdd3c9
 
+### JFrog
+
+https://cloud.google.com/blog/products/bigquery/how-google-cloud-bigquery-enables-big-devops-at-jfrog
+
 ## Qwiklabs
 
 
