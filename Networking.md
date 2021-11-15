@@ -322,9 +322,8 @@ https://cloud.google.com/network-intelligence-center/docs/firewall-insights/conc
 
 ## Network Service Tiers
 
-With [Network Service Tiers](https://cloud.google.com/network-tiers), Google Cloud is the first major public cloud to offer a tiered cloud network. Select the right tier of network service for your requirements and budget.
 
-
+[Network Service Tiers](https://cloud.google.com/network-tiers/) lets you optimize connectivity between systems on the internet and your Google Cloud instances. Premium Tier delivers traffic on Google's premium backbone, while Standard Tier uses regular ISP networks.
 
 Cost savings using different network tiers.
 
@@ -337,7 +336,6 @@ Cost savings using different network tiers.
 
 
 
-Network and security telemetry is fundamental to operate your deployments in public clouds with confidence, providing the required visibility on the behavior of your network and Access control firewalls. 
 
 [https://www.youtube.com/watch?v=as9mXNEcaDo](https://www.youtube.com/watch?v=as9mXNEcaDo)
 
@@ -350,8 +348,7 @@ Network and security telemetry is fundamental to operate your deployments in pub
 
 ## Service Directory
 
-[Service Directory](https://cloud.google.com/service-directory) helps reduce the complexity of management and operations by providing a single place to publish, discover, and connect services. It is a managed service that enhances service inventory management at scale so you don’t have to. Service Directory provides real-time service information, whether you have a few service endpoints or thousands. 
-
+[Service Directory](https://cloud.google.com/service-directory) helps reduce the complexity of management and operations by providing a single place to publish, discover, and connect services. It is a managed service that enhances service inventory management at scale so you don’t have to. 
 
 
 [https://www.youtube.com/watch?v=H9UoE_cWIEY](https://www.youtube.com/watch?v=H9UoE_cWIEY)
@@ -367,9 +364,10 @@ https://en.wikipedia.org/wiki/Network_security
 
 ## LAN
 
-A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building. By contrast, a wide area network (WAN) not only covers a larger geographic distance, but also generally involves leased telecommunication circuits.
+A [local area network](https://en.wikipedia.org/wiki/Local_area_network
+) (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building. By contrast, a wide area network (WAN) not only covers a larger geographic distance, but also generally involves leased telecommunication circuits.
 
-Ethernet and Wi-Fi are the two most common technologies in use for local area networks. Historical network technologies include [ARCNET](https://en.wikipedia.org/wiki/ARCNET), [Token Ring](https://en.wikipedia.org/wiki/Token_Ring), and [AppleTalk](https://en.wikipedia.org/wiki/AppleTalk).
+[Ethernet](https://en.wikipedia.org/wiki/Ethernet) and [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) are the two most common technologies in use for local area networks. Other LAN technologies include [ARCNET](https://en.wikipedia.org/wiki/ARCNET), [Token Ring](https://en.wikipedia.org/wiki/Token_Ring), [FDDI](https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface) and [AppleTalk](https://en.wikipedia.org/wiki/AppleTalk).
 
 
 https://en.wikipedia.org/wiki/Local_area_network
@@ -377,7 +375,8 @@ https://en.wikipedia.org/wiki/Local_area_network
 
 ## WAN
 
-A wide area network (WAN) is a telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits.
+A [wide area network](https://en.wikipedia.org/wiki/Wide_area_network
+) (WAN) is a telecommunications network that extends over a large geographic area for the primary purpose of computer networking. Wide area networks are often established with leased telecommunication circuits.
 
 Businesses, as well as schools and government entities, use wide area networks to relay data to staff, students, clients, buyers and suppliers from various locations across the world. In essence, this mode of telecommunication allows a business to effectively carry out its daily function regardless of location. The Internet may be considered a WAN.
 
@@ -386,7 +385,8 @@ https://en.wikipedia.org/wiki/Wide_area_network
 
 ## NAT
 
-Network address translation (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. 
+[Network address translation](https://en.wikipedia.org/wiki/Network_address_translation
+) (NAT) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. 
 
 The technique was originally used to avoid the need to assign a new address to every host when a network was moved, or when the upstream Internet service provider was replaced, but could not route the networks address space. It has become a popular and essential tool in conserving global address space in the face of IPv4 address exhaustion. One Internet-routable IP address of a NAT gateway can be used for an entire private network.
 
@@ -395,7 +395,8 @@ https://en.wikipedia.org/wiki/Network_address_translation
 
 ## Firewall
 
-A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
+A [firewall](https://cloud.google.com/vpc/docs/using-firewalls
+) is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network, such as the Internet.
 
 
 GCP Firewall rules are defined at the network level, and only apply to the network where they are created; however, the name you choose for each of them must be unique to the project.
