@@ -98,9 +98,6 @@ https://medium.com/badal-io/gcp-iiot-visualization-and-analytics-in-looker-for-o
 [https://training.looker.com/designing-great-dashboards](https://training.looker.com/designing-great-dashboards)
 
 
-### Looker API Examples
-
-[https://training.looker.com/series/recorded-webinars/the-looker-api](https://training.looker.com/series/recorded-webinars/the-looker-api)
 
 
 ### Recorded Training
@@ -162,12 +159,6 @@ https://cloud.google.com/blog/topics/developers-practitioners/going-beyond-dashb
 https://cloud.google.com/blog/products/data-analytics/lookers-universal-semantic-model
 
 
-### Python examples
-
-Python Looker source code example that use SDKs to communicate with the Looker API. 
-
-https://cloud.google.com/blog/topics/developers-practitioners/building-looker-made-easier-extension-framework
-
 ## Using the Looker Marketplace
 
 The Looker Marketplace is a central location for finding, deploying, and managing many types of Looker content, such as Looker Blocks, applications, visualizations, and plug-ins.
@@ -228,6 +219,25 @@ https://github.com/spectacles-ci/spectacles
 ## Looker Performance
 
 https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
+
+## Examples
+
+
+### Python examples
+
+Python Looker source code example that use SDKs to communicate with the Looker API. 
+
+https://cloud.google.com/blog/topics/developers-practitioners/building-looker-made-easier-extension-framework
+
+
+### Looker API Examples
+
+[https://training.looker.com/series/recorded-webinars/the-looker-api](https://training.looker.com/series/recorded-webinars/the-looker-api)
+
+
+### Hospital Readmission Rates
+
+https://cloud.google.com/blog/topics/healthcare-life-sciences/looker-helps-predict-hospital-readmission-rates-with-google-cloud
 
 ## Qwiklabs
 
