@@ -23,6 +23,10 @@ https://www.cloudskillsboost.google/
 
 https://cloud.google.com/training/
 
+#### Veterans
+
+https://cloud.google.com/blog/topics/training-certifications/google-cloud-certification-learning-journey-for-veterans
+
 ### Quickstarts
 
 https://cloud.google.com/s/results?q=quickstart
