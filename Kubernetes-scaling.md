@@ -10,6 +10,10 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler
 
 [Autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview?hl=en) is a new mode of operation in Google Kubernetes Engine (GKE) that is designed to reduce the operational cost of managing clusters, optimize your clusters for production, and yield higher workload availability. 
 
+### Spot Pods
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/autopilot-spot-pods
+
 ## Horizontal pod autoscaler 
 
 [HPA](  https://cloud.google.com/kubernetes-engine/docs/concepts/horizontalpodautoscaler  ) changes the shape of your Kubernetes workload by automatically increasing or decreasing the number of Pods in response to the workload's CPU or memory consumption, or in response to custom metrics reported from within Kubernetes or external metrics from sources outside of your cluster.
