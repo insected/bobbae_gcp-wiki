@@ -133,3 +133,7 @@ gcloud projects get-iam-policy $PROJECT
 gcloud projects get-iam-policy $PROJECT --flatten=bindings[].members --format=table(bindings.role) --filter=bindings.members:$SA_EMAIL
 ```
 
+### Using gcloud to create and configure a service account
+
+https://fabianlee.org/2021/01/30/gcp-using-gcloud-to-create-and-configure-a-service-account/
+
