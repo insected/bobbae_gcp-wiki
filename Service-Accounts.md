@@ -35,9 +35,11 @@ https://cloud.google.com/iam/docs/service-accounts#locations
 https://cloud.google.com/iam/docs/service-accounts#short-lived_service_account_credentials
 
 
-## Finding credentials automatically
+## Finding credentials automatically 
 
 If your application runs inside a Google Cloud environment, and you have attached a service account to that environment, your application can retrieve credentials for the service account. The application can then use the credentials to call Google Cloud APIs.
+
+https://cloud.google.com/docs/authentication/production
 
 ## ADC Application Default Credentials
 
