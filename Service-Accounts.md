@@ -10,7 +10,11 @@ https://cloud.google.com/iam/docs/service-accounts
 
 ## Difference between a service account and a user account
 
-Service accounts are associated with private/public RSA key-pairs that are used for authentication to Google. You can let other users or service accounts impersonate a service account. Service accounts are not members of your Google Workspace domain, unlike user accounts. If you share Google Workspace assets, like docs or events, with all members in your Google Workspace domain, they are not shared with service accounts. Similarly, Google Workspace assets created by a service account are not created in your Google Workspace domain. As a result, your Google Workspace and Cloud Identity admins can't own or manage these assets.
+Service accounts are associated with private/public [RSA](https://en.wikipedia.org/wiki/RSA_Security) key-pairs that are used for authentication to Google. You can let other users or service accounts impersonate a service account. 
+
+### Service Accounts and Google Workspace
+
+Service accounts are not members of your [Google Workspace](https://support.google.com/domains/answer/6069226) domain, unlike user accounts. If you share Google Workspace assets, like docs or events, with all members in your Google Workspace domain, they are not shared with service accounts. Similarly, Google Workspace assets created by a service account are not created in your Google Workspace domain. As a result, your [Google Workspace](https://workspace.google.com/) and [Cloud Identity](https://cloud.google.com/identity) admins can't own or manage these assets.
 
 ## Default service account
 
