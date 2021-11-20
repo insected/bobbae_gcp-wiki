@@ -62,7 +62,7 @@ know that you have the [necessary amount of GCP knowledge](https://www.examtopic
 
 [Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or [other GCP exams](https://www.youtube.com/watch?v=Kub0oH6TFKw) . During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, some of the questions may refer you to a case study that describes a fictitious business and solution concept. These case studies are intended to provide additional context to help you choose your answer
 
-
+https://github.com/ddneves/awesome-gcp-certifications
 
 ## External Learning Resources
 
