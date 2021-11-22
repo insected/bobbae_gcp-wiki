@@ -1,7 +1,4 @@
 
-
-
-
 Google Cloud [Virtual Private Cloud](https://cloud.google.com/vpc/docs) (VPC) provides networking functionality to Compute Engine virtual machine (VM) instances, Google Kubernetes Engine (GKE) containers, and the App Engine flexible environment. 
 
 VPC provides networking for your cloud-based services that is global, scalable, and flexible.
@@ -67,3 +64,7 @@ https://cloud.google.com/vpc/docs/private-google-access
 ### Private Service Connect 
 
 https://faun.pub/private-service-connect-to-connect-privately-with-google-apis-and-services-e91da2f26a7a
+
+https://cloud.google.com/vpc/docs/private-service-connect
+
+https://medium.com/google-cloud/exposing-the-client-behind-psc-2471a851ae23
