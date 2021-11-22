@@ -162,6 +162,11 @@ https://cloud.google.com/blog/products/data-analytics/open-data-lakehouse-on-goo
 
 ## Examples
 
-### Data stack architecture
+### Data stack architecture at Monzo
 
 https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99
+
+### Data architecture at Twitter
+
+
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
