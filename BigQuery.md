@@ -1,6 +1,4 @@
 
-
-
 [BigQuery](https://cloud.google.com/bigquery/docs)  is Google Cloud's [fully managed](https://www.youtube.com/watch?v=kKBnFsNWwYM), petabyte-scale, and  analytics [data warehouse](https://cloud.google.com/solutions/bigquery-data-warehouse)  that lets you run [analytics over vast amounts](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-explained-blog-series)  of data in near real time. 
 
 ## Quickstart
@@ -306,7 +304,9 @@ https://cloud.google.com/bigquery/docs/controlling-costs
 
 https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker
 
+#### Optimizing strategies
 
+https://fares-daoud.medium.com/how-i-have-optimized-bigquery-costs-for-my-company-948df95b9f0d
 
 ### Organizing BigQuery resources
 
