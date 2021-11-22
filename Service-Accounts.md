@@ -34,6 +34,15 @@ https://cloud.google.com/iam/docs/service-accounts#locations
 
 https://cloud.google.com/iam/docs/service-accounts#short-lived_service_account_credentials
 
+### Creating short-lived service account credentials
+
+https://cloud.google.com/iam/docs/creating-short-lived-service-account-credentials
+
+### Impersonated Credentials
+
+https://salmaan-rashid.medium.com/using-impersonatedcredentials-for-google-cloud-apis-and-idtokens-4ec18013fd91
+
+
 
 ## Finding credentials automatically 
 
