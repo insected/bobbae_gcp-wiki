@@ -229,6 +229,10 @@ https://cloud.google.com/spanner/docs/pitr
 
 https://cloud.google.com/architecture/best-practices-cloud-spanner-gaming-database
 
+### Spanner and multiplayer games 
+
+https://cloud.google.com/blog/products/databases/how-spanner-makes-multiplayer-game-development-easier
+
 ### Spanner SQL Best practices
 
 https://cloud.google.com/spanner/docs/sql-best-practices
