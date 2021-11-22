@@ -8,8 +8,15 @@ Cloud Memorystore for Redis provides a fully managed in-memory data store servic
 
 [https://www.youtube.com/watch?v=sVpoAdbh2nU](https://www.youtube.com/watch?v=sVpoAdbh2nU)
 
+
+### Read replicas
+
+https://cloud.google.com/memorystore/docs/redis/read-replicas
+
 ## Memcached
 
 Memorystore for Memcached is a fully managed Memcached service for Google Cloud. Applications running on Google Cloud can achieve extreme performance by leveraging the highly scalable, available, secure Memcached service without the burden of managing complex Memcached deployments.
 
 https://cloud.google.com/memorystore/docs/memcached
+
+
