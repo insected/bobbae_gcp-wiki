@@ -75,7 +75,10 @@ https://cloud.google.com/storage/docs/tutorials
 
 The [storage class](https://cloud.google.com/storage/docs/storage-classes) you set for an object affects the object's availability and [pricing model](https://cloud.google.com/storage/pricing).
 
+## Logging & Monitoring on Google Cloud Storage Buckets
 
+
+https://medium.com/@snehalsb/logging-monitoring-alerting-events-on-google-cloud-storage-buckets-4952bdab5f83
 
 ## Cloud Storage Connector
 
