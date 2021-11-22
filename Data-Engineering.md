@@ -159,3 +159,9 @@ https://cloud.google.com/blog/products/data-analytics/data-ingestion-planning-pr
 ## Data Lakehouse
 
 https://cloud.google.com/blog/products/data-analytics/open-data-lakehouse-on-google-cloud
+
+## Examples
+
+### Data stack architecture
+
+https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99
