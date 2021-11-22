@@ -65,8 +65,14 @@ While Docker provides a central registry for storing public images, you might no
 [Container Registry: Qwik Start](https://www.qwiklabs.com/focuses/1768?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467880)
 
 
-## Example: Cloud Build Notifications in Google Chat
+## Examples
+
+### Cloud Build Notifications in Google Chat
 
 
 https://devopsquare.com/cloud-build-notifications-in-google-chat-317d277c5d4a
 
+
+### Cloud Build Email
+
+https://medium.com/datamindedbe/sending-mail-from-google-cloud-build-8b15da779c8f
