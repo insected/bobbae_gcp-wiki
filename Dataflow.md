@@ -1,7 +1,4 @@
 
-
-
-
 [Dataflow](https://cloud.google.com/dataflow/docs)   is a managed service for executing a wide variety of data processing patterns. 
 
 Google Cloud Dataflow makes it easy to process and analyze real-time streaming data so that you can derive insights and react to new information in real-time. 
@@ -60,7 +57,9 @@ https://medium.com/bb-tutorials-and-thoughts/how-to-get-started-with-gcp-dataflo
 https://jtaras.medium.com/building-a-simple-google-cloud-dataflow-pipeline-pubsub-to-google-cloud-storage-9bbf170e8bad
 
 
+### Python support
 
+https://cloud.google.com/blog/products/data-analytics/debunking-myths-about-python-on-dataflow
 
 ### Dataflow Mobile Gaming Example
 
