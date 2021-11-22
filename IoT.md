@@ -1,5 +1,4 @@
 
-
 The [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) describes the network of physical objects—“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
 
 Learn [how to create a Cloud IoT Core device registry](https://www.youtube.com/watch?v=iRZzqpvARbc ) and register a device. 
@@ -34,7 +33,12 @@ https://github.com/bobbae/gcp/wiki/Networking#industrial-networking
 
 https://cloud.google.com/solutions/intelligent-products
 
-### Qwiklabs
+
+## IoT authentication with TPM
+
+https://salmaan-rashid.medium.com/google-cloud-iot-core-authentication-with-trusted-platform-module-tpm-e1c1a5887591
+
+## Qwiklabs
 
 
 
