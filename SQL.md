@@ -130,6 +130,10 @@ https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 
 [Graph databases](https://en.wikipedia.org/wiki/Graph_database) store data in nodes and edges. Nodes typically store information about people, places, and things while edges store information about the relationships between the nodes. Graph databases excel in use cases where you need to traverse relationships to look for patterns such as social networks, fraud detection, and recommendation engines. Examples are [Neo4j](https://en.wikipedia.org/wiki/Neo4j), [AWS Neptune](https://en.wikipedia.org/wiki/Amazon_Neptune), [JanusGraph](https://en.wikipedia.org/wiki/JanusGraph) and [AllegroGraph](https://en.wikipedia.org/wiki/AllegroGraph).
 
+### Neo4j Aura on Google cloud
+
+https://neo4j.com/cloud/aura-google-cloud/
+
 ## GraphQL
 
 [GraphQL](  GraphQL ) is a query language for APIs and a runtime for fulfilling the queries with your existing data. 
