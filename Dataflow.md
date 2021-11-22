@@ -126,9 +126,16 @@ Dataflow Flex templates use docker containers.
 
 https://cloud.google.com/architecture/processing-logs-at-scale-using-dataflow
 
+
+
 ### PubSub to BigQuery
 
 https://towardsdatascience.com/pubsub-to-bigquery-how-to-build-a-data-pipeline-using-dataflow-apache-beam-and-java-afdeb8e711c2
+
+### Export data to Elastic Search via Dataflow templates
+
+https://cloud.google.com/blog/products/data-analytics/export-google-cloud-data-into-elasticsearch-with-dataflow-templates
+
 
 ## Stopping
 
