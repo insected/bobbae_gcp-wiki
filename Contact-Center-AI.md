@@ -10,6 +10,10 @@ Intuitive drag & drop visual flow builder makes it easy to build and maintain so
 
 https://cloud.google.com/dialogflow
 
+## Dialogflow cost optimization
+
+https://medium.datadriveninvestor.com/dialogflow-cost-optimization-for-cx-db5a68fbf496
+
 ## Agent Assist
 
 Empowers human agents with continuous support during their calls and chats by identifying intent and providing real-time, step-by-step assistance.
