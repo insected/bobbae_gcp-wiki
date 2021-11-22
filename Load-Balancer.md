@@ -1,5 +1,4 @@
 
-
 [Cloud Load Balancing](https://cloud.google.com/load-balancing) allows you to put your resources behind a single IP address that is externally accessible or internal to your Virtual Private Cloud (VPC) network.
 
 [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs) can put your resources behind a single [anycast](https://en.wikipedia.org/wiki/Anycast) IP and scale your resources up or down with intelligent autoscaling. Cloud Load Balancing comes in a variety of flavors and is integrated with [Cloud CDN](CDN) for optimal application and content delivery.
@@ -127,6 +126,13 @@ Some software and hardware solutions perform both LB and Reverse Proxy functions
 https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
 
 https://www.f5.com/services/resources/glossary/reverse-proxy
+
+
+## Internal TCP/UDP load balancers as next hops 
+
+https://cloud.google.com/load-balancing/docs/internal/ilb-next-hop-overview
+
+https://medium.com/@ozcosta/google-cloud-networking-ilb-as-next-hop-with-tags-ab5f30a0e0c3
 
 ## List of Load Balancers
 
