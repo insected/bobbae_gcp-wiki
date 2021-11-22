@@ -293,6 +293,11 @@ https://cloud.google.com/bigquery/external-data-bigtable
 
 https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb-vs-cosmos-db-vs-cloud-datastore-and-bigtable
 
+
+## Billions of events at Twitter
+
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
+
 ## Qwiklabs
 
 
