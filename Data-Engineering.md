@@ -1,5 +1,4 @@
 
-
 [Data Engineering](https://quanthub.com/what-is-data-engineering/) is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information.  Data engineers set up and operate the organization’s [data infrastructure]( https://en.wikipedia.org/wiki/Data_infrastructure ) preparing it for further analysis by [data analysts and scientists](Data-Science).
 
 There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and [freely available resources](https://github.com/adilkhash/Data-Engineering-HowTo), [roadmaps](https://github.com/datastacktv/data-engineer-roadmap) and [courses](https://github.com/chandra1sekar/data-engineering).
@@ -26,6 +25,11 @@ https://cloud.google.com/blog/products/data-analytics/building-the-data-analyst-
 ### Data Analytics developments
 
 https://cloud.google.com/blog/products/data-analytics/google-cloud-next-rollup-for-data-analytics
+
+
+### Data Analytics Design Patterns
+
+https://cloud.google.com/blog/products/data-analytics/accelerate-time-to-value-with-google-cloud-design-patterns
 
 ## Database options
 
