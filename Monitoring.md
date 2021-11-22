@@ -40,6 +40,11 @@ https://cloud.google.com/blog/products/operations/dashboards-cloud-monitoring-ma
 
 Open source projects like [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/) are often used in Kubernetes along with [metrics server](https://github.com/kubernetes-sigs/metrics-server).
 
+
+### Managed Prometheus
+
+https://cloud.google.com/managed-prometheus
+
 ## ELK
 
 [ELK Stack](https://www.elastic.co/what-is/elk-stack) provides similar features.
