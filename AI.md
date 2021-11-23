@@ -211,6 +211,10 @@ We are living in times when it is paramount that the [possibility of harm](https
 
 https://ai.google/responsibilities/responsible-ai-practices/
 
+### Ethical AI tasks
+
+https://cloud.google.com/blog/topics/business-transformation/4-tasks-to-ensure-your-companys-ai-is-ethical
+
 ### Facial recognition
 
 https://pages.gseis.ucla.edu/faculty/agre/bar-code.html
