@@ -61,7 +61,13 @@ https://cloud.google.com/ai-platform/training/docs
 
 https://blog.ml6.eu/deploy-ml-models-on-vertex-ai-using-custom-containers-c00f57efdc3c
 
+### Prediction
+
+https://cloud.google.com/ai-platform/prediction/docs
+
 ## Tutorials
+
+https://cloud.google.com/vertex-ai/docs/tutorials
 
 ### Build a reinforcement learning recommendation application using Vertex AI
 
