@@ -62,9 +62,9 @@ Using [the same deep machine learning technology that powers Google Search](http
 
 [Dialogflow](https://cloud.google.com/dialogflow/docs) is a [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) platform that makes it easy to design and integrate a conversational user interface into your mobile app, web application, device, bot, interactive voice response system, and so on. Using [Dialogflow](  https://cloud.google.com/dialogflow/docs  ), you can [provide new and engaging ways](  https://www.youtube.com/watch?v=YoytR7kzorg  ) for users to interact with your product.
 
+### Business messages
 
-
-
+https://cloud.google.com/blog/products/workspace/strengthening-conversations-with-customers-using-ai-powered-business-messages
 
 
 ## Machine Learning 
