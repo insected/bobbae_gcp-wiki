@@ -57,6 +57,10 @@ https://cloud.google.com/ai-platform/training/docs
 
 [https://www.youtube.com/watch?v=MUtsIaQuiRw](https://www.youtube.com/watch?v=MUtsIaQuiRw)
 
+### Custom containers to deploy models on Vertex AI
+
+https://blog.ml6.eu/deploy-ml-models-on-vertex-ai-using-custom-containers-c00f57efdc3c
+
 ## Tutorials
 
 ### Build a reinforcement learning recommendation application using Vertex AI
