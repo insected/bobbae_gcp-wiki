@@ -87,10 +87,11 @@ The [Cloud Storage](https://cloud.google.com/storage) [connector](https://cloud.
 
 ## Cloud Storage FUSE
 
-[Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) is an open source [FUSE](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems. It also provides a way for applications to upload and download Cloud Storage objects using standard file system semantics. Cloud Storage FUSE can be run anywhere with connectivity to Cloud Storage, including Google Compute Engine VMs or on-premises systems.
+[Cloud Storage FUSE](https://cloud.google.com/storage/docs/gcs-fuse) is an open source [Filesystem in user space](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) adapter that allows you to mount Cloud Storage buckets as file systems on Linux or macOS systems. It also provides a way for applications to upload and download Cloud Storage objects using standard file system semantics. 
 
+### Using FUSE
 
-
+https://cloud.google.com/blog/products/ai-machine-learning/cloud-storage-file-system-ai-training
 
 
 ## Google Storage Products
