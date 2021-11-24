@@ -12,6 +12,25 @@ https://cloud.google.com/asset-inventory/docs/overview
 
 https://cloud.google.com/asset-inventory/docs/quickstart
 
+## Examples
+
+### Exporting to BigQuery
+
+https://cloud.google.com/asset-inventory/docs/exporting-to-bigquery
+
+### Exporting to Cloud Storage
+
+https://cloud.google.com/asset-inventory/docs/exporting-to-cloud-storage
+
+### Analyzing IAM Policies
+
+https://cloud.google.com/asset-inventory/docs/analyzing-iam-policy
+
+
+### Monitoring Asset changes
+
+https://cloud.google.com/asset-inventory/docs/monitoring-asset-changes
+
 ## Code Samples
 
 https://cloud.google.com/asset-inventory/docs/samples
