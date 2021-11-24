@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Bioinformatics
 
 ### Resources
 
+https://github.com/lynnlangit/gcp-for-bioinformatics
+
 https://github.com/danielecook/Awesome-Bioinformatics
 
 ### List of Books
