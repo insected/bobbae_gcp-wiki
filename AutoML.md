@@ -7,7 +7,7 @@ https://cloud.google.com/automl
 
 ## AI Platform with AutoML
 
-[AI Platform](https://cloud.google.com/ai-platform/docs/technical-overview)brings AutoML and AI Platform (Classic) together into a unified API, client library, and user interface.  
+[AI Platform](https://cloud.google.com/ai-platform/docs/technical-overview) brings AutoML and AI Platform (Classic) together into a unified API, client library, and user interface.  
 
 https://cloud.google.com/vertex-ai/docs
 
