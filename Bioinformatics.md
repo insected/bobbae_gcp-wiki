@@ -4,6 +4,10 @@ https://en.wikipedia.org/wiki/Bioinformatics
 [Bioinformatics](https://github.com/ossu/bioinformatics) is an interdisciplinary field, which harnesses computer science, mathematics, physics, and biology.
 
 
+### Cloud Life Sciences
+
+https://cloud.google.com/life-sciences
+
 ### Resources
 
 https://github.com/lynnlangit/gcp-for-bioinformatics
