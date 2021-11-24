@@ -8,6 +8,10 @@ https://en.wikipedia.org/wiki/Bioinformatics
 
 https://cloud.google.com/life-sciences
 
+#### Cloud Life Sciences Quick start
+
+https://cloud.google.com/life-sciences/docs/quickstart
+
 ### Resources
 
 https://github.com/lynnlangit/gcp-for-bioinformatics
