@@ -80,12 +80,13 @@ https://cloud.google.com/endpoints/docs/openapi/authenticating-users-google-id
 
 https://cloud.google.com/endpoints/docs/openapi/service-account-authentication
 
+## Tokens
 
-## JWT
+### JWT
 
 [JSON Web Tokens](https://jwt.io/) are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 
-## PASETO
+### PASETO
 
 https://developer.okta.com/blog/2019/10/17/a-thorough-introduction-to-paseto
 
