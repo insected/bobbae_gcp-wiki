@@ -69,12 +69,14 @@ https://cloud.google.com/automl-tables/docs/quickstart
 
 When you kick off training, AutoML Tables automatically [performs common feature engineering](  https://cloud.google.com/automl-tables/docs/data-best-practices#tables-does  ) tasks for you, including:
 
-- Normalize and bucketize numeric features.
-- Create one-hot encoding and embeddings for categorical features.
+- [Normalize and bucketize](  https://developers.google.com/machine-learning/data-prep/transform/bucketing ) numeric features.
+- Create [one-hot encoding](https://en.m.wikipedia.org/wiki/One-hot) and embeddings for categorical features.
 - Perform basic processing for text features.
 - Extract date- and time-related features from Timestamp columns.
 
+#### Data Prepping
 
+https://developers.google.com/machine-learning/data-prep
 
 ### Model training
 
