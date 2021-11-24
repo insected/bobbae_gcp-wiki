@@ -12,6 +12,17 @@ https://cloud.google.com/life-sciences
 
 https://cloud.google.com/life-sciences/docs/quickstart
 
+### Public datasets
+
+https://cloud.google.com/life-sciences/docs/resources/public-datasets
+
+### Variant transforms
+
+https://github.com/googlegenomics/gcp-variant-transforms
+
+### Analyze variants with BigQuery
+
+https://cloud.google.com/life-sciences/docs/how-tos/analyze-variants
 ### Resources
 
 https://github.com/lynnlangit/gcp-for-bioinformatics
