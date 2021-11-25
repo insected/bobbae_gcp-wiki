@@ -6,7 +6,7 @@ This document is intended to be used in an instructor-lead training class on [GC
 
 ### Qwiklabs
 
-You can use [Qwiklabs](https://www.qwiklabs.com/) as additional hands-on labs.   You can [learn]( https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D  ) about [Qwiklabs](https://googlecourses.qwiklabs.com/) while waiting for a few days to get the usable credits for Qwiklabs after signing up. If you don’t get any Qwiklabs credits in a few days, you can still sign up to use [free tier Google cloud services](https://cloud.google.com/free) and do the [labs]( https://www.youtube.com/user/yogaarsa/playlists  ) there.
+You can use [Qwiklabs](https://www.qwiklabs.com/) as hands-on labs.   You can [learn]( https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D  ) about [Qwiklabs](https://googlecourses.qwiklabs.com/) while waiting for a few days to get the usable credits for Qwiklabs after signing up. If you don’t get any Qwiklabs credits in a few days, you can still sign up to use [free tier Google cloud services](https://cloud.google.com/free) and do the [labs]( https://www.youtube.com/user/yogaarsa/playlists  ) there.
 
 
 #### Register at the Partner Advantage site
