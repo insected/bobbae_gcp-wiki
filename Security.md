@@ -410,6 +410,10 @@ https://cloud.google.com/blog/products/gcp/introducing-endpoint-verification-vis
 
 https://github.com/veeral-patel/how-to-secure-anything
 
+## Google Cybersecurity Action Team Threat Horizons report
+
+https://cloud.google.com/blog/products/identity-security/coin-mining-ransomware-apts-target-cloud-gcat-report
+
 ## Qwiklabs
 
 ### Cloud KMS
