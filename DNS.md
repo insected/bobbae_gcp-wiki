@@ -5,6 +5,11 @@ The [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) (DNS)
 
 https://cloud.google.com/dns/docs/dns-overview
 
+### DNS is a kind of distributed database
+
+https://blog.the-pans.com/dns/
+
+
 ## Google Cloud DNS
 
 
