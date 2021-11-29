@@ -10,6 +10,11 @@ Enterprises require multi-cloud solutions for their critical workloads. This str
 
 https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-cloud-platform
 
+## Edge computing
+
+https://cloud.google.com/blog/topics/hybrid-cloud/edge-computing-architectural-challenges-and-pitfalls
+
+
 ## Anthos vs AWS Outposts vs Azure Stack
 
 The [AWS Outposts](https://aws.amazon.com/outposts/), Anthos and [Azure Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) have different goals and characteristics. Each has [a unique approach](https://www.bizety.com/2020/06/28/aws-outposts-google-anthos-gke-and-azure-on-prem-overview/) to solving
