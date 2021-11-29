@@ -215,6 +215,9 @@ dbt is a transformation workflow and data pipeline tool that lets teams collabor
 
 https://www.getdbt.com/docs/
 
+### Serverless dbt on GCP
+
+https://robertsahlin.com/serverless-dbt-on-google-cloud-platform/
 
 ## Spectacles
 
