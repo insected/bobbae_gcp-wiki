@@ -4,6 +4,7 @@ Google's [Vertex AI]( https://cloud.google.com/vertex-ai ) is a unified [AI](AI)
 ## General Concepts
 
 https://cloud.google.com/vertex-ai/docs/general/general-concepts
+
 ## Datasets
 
 https://cloud.google.com/vertex-ai/docs/datasets/datasets
