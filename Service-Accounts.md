@@ -152,3 +152,6 @@ gcloud projects get-iam-policy $PROJECT --flatten=bindings[].members --format=ta
 
 https://fabianlee.org/2021/01/30/gcp-using-gcloud-to-create-and-configure-a-service-account/
 
+### Self made service account key
+
+https://medium.com/@alexnikdanilin/how-to-use-self-made-service-account-key-with-expiration-date-on-google-cloud-platform-bf5a33c2685a
