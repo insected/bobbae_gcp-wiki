@@ -1,0 +1,2 @@
+
+Google's [Vertex AI]( https://cloud.google.com/vertex-ai ) is a unified [AI](AI) platform that brings [Google AutoML](AutoML) and [Google AI Platform](AI-Platform) together into a unified API, client library, and user interface. 
