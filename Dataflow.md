@@ -18,6 +18,8 @@ You create your pipelines with an Apache Beam program and then run them on the D
 
 The [Apache Beam documentation](https://beam.apache.org/documentation/) provides in-depth conceptual information and reference material for the Apache Beam programming model, SDKs, and other runners.
 
+https://doppelfelix.medium.com/using-apache-beam-to-automate-your-preprocessing-in-data-science-144a89392f15
+
 ### Alternatives
 
 Cloud Dataflow is not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. 
