@@ -53,7 +53,7 @@ https://github.com/GoogleCloudPlatformTraining
 
 ### Certifications
 
-You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) after [studying the 
+You are encouraged to try [GCP Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or [GCP Data Engineer exam](https://medium.com/@Fattie21/passing-the-google-data-engineer-professional-exam-in-4-days-76742fe11e52) after [studying the 
 materials](https://cloud.google.com/certification/sample-questions/cloud-architect) in [this document](https://www.gcp-examquestions.com/category/gcp-practice-questions/) for several weeks.  There are [many certificates](https://cloud.google.com/certification) you may want to try.
 Being [certified](https://cloud.google.com/blog/topics/training-certifications/learn-more-about-cloud-career-jump-start) by Google does not necessarily mean that you know everything [you need to know](https://github.com/ddneves/awesome-gcp-certifications). But it does have a value in letting others
 know that you have the [necessary amount of GCP knowledge](https://www.examtopics.com/exams/google/) to pass the exams.
