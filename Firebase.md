@@ -118,6 +118,10 @@ https://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html
 
 https://firefoo.app/
 
+### Export CSV from Firebase Firestore without code
+
+https://medium.com/@alexnikdanilin/how-to-use-self-made-service-account-key-with-expiration-date-on-google-cloud-platform-bf5a33c2685a
+
 ## Examples
 
 https://firebase.google.com/docs/samples
