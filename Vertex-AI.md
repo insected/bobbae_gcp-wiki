@@ -61,4 +61,6 @@ https://cloud.google.com/vertex-ai/docs/featurestore
 
 https://cloud.google.com/vertex-ai/docs/matching-engine
 
-## 
+## Monitor and secure
+
+https://cloud.google.com/vertex-ai/docs/general/monitoring-security
