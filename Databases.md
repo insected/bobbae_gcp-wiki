@@ -91,3 +91,29 @@ The [CAP theorem](  https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f
 
 [https://dbdb.io/browse](https://dbdb.io/browse)
 
+## Third-party databases on Google Cloud
+
+### Databricks
+
+https://medium.com/google-cloud/from-zero-to-hero-with-databricks-on-google-cloud-7cb41b1bfb30
+
+### MongoDB Atlas
+
+https://cloud.google.com/blog/topics/retail/unlocking-the-power-of-modern-devops
+
+### Snowflake
+
+https://www.snowflake.com/technology-partners/google-cloud-platform/
+
+### Elasticsearch
+
+https://www.elastic.co/cloud/elasticsearch-service/signup
+
+### Oracle
+
+https://medium.com/google-cloud-platform-by-cloud-ace/oracle-database-on-google-cloud-platform-what-do-you-need-to-know-1e331c874c24
+
+### Vitess
+
+https://cloudplatform.googleblog.com/2015/03/scaling-MySQL-in-the-cloud-with-Vitess-and-Kubernetes.html
+
