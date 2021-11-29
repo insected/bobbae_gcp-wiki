@@ -12,4 +12,6 @@ https://kubernetes.io/blog/2020/02/07/deploying-external-openstack-cloud-provide
 
 https://github.com/openstack/openstack-helm
 
+## Anthos and Openstack
 
+https://cloud.google.com/blog/topics/developers-practitioners/can-you-make-openstack-more-interesting-cloud-natives-heres-how
