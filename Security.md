@@ -10,6 +10,10 @@ GCP doesn't rely on any single technology to make its [infrastructure secure](ht
 
 [Security Command Center](https://cloud.google.com/security-command-center) is Google Cloud's centralized vulnerability and threat reporting service.
 
+### Mute findings
+
+https://cloud.google.com/blog/products/identity-security/announcing-mute-findings-capability-security-command-center
+
 ## GCP Infrastructure Security
 
 https://cloud.google.com/security/infrastructure/design
