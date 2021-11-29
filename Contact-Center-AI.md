@@ -10,9 +10,14 @@ Intuitive drag & drop visual flow builder makes it easy to build and maintain so
 
 https://cloud.google.com/dialogflow
 
-## Dialogflow cost optimization
+### Dialogflow cost optimization
 
 https://medium.datadriveninvestor.com/dialogflow-cost-optimization-for-cx-db5a68fbf496
+
+
+### Dialogflow CX composite entities
+
+https://medium.com/google-cloud/using-dialogflow-cx-composite-entities-to-work-around-system-entities-limitations-c6385df12f2b
 
 ## Agent Assist
 
