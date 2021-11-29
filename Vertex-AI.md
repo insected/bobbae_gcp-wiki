@@ -65,3 +65,19 @@ https://cloud.google.com/vertex-ai/docs/matching-engine
 ## Monitor and secure
 
 https://cloud.google.com/vertex-ai/docs/general/monitoring-security
+
+## Examples
+
+### Running dbt on Vertex AI Pipelines
+
+https://medium.com/datatonic/running-dbt-on-google-clouds-vertex-ai-pipelines-d85fa59aa15
+
+## Qwiklabs
+
+### Qwik start
+
+https://www.cloudskillsboost.google/focuses/18940?parent=catalog
+
+### Baseline: Data, ML, AI
+
+https://run.qwiklabs.com/quests/34
