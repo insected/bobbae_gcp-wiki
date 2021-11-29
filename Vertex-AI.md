@@ -72,6 +72,11 @@ https://cloud.google.com/vertex-ai/docs/general/monitoring-security
 
 https://medium.com/datatonic/running-dbt-on-google-clouds-vertex-ai-pipelines-d85fa59aa15
 
+### Helpdesk Chatbot with Dialogflow CX, TFX and Vertex AI
+
+
+https://medium.com/google-cloud/boost-up-a-helpdesk-chatbot-with-dialogflow-cx-tfx-and-vertex-ai-4999c26eef13
+
 ## Qwiklabs
 
 ### Qwik start
