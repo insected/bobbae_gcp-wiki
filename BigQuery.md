@@ -646,6 +646,10 @@ https://cloud.google.com/blog/products/bigquery/how-google-cloud-bigquery-enable
 
 https://medium.com/policygenius-stories/building-a-data-warehouse-on-google-cloud-platform-that-scales-with-the-business-2b07f7c7292e
 
+### Protobuf to BigQuery converter
+
+https://medium.com/sardineai/open-sourcing-protobuf-to-bigquery-converter-c9168046b36b
+
 ## Qwiklabs
 
 
