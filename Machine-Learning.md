@@ -827,6 +827,10 @@ https://en.wikipedia.org/wiki/P-value
 
 https://spectrum.ieee.org/deep-learning-computational-cost
 
+## Google ML Engineer exam
+
+https://medium.com/google-developer-experts/get-recognized-as-an-ml-expert-with-the-google-professional-ml-engineer-certificate-c85a67e9270d
+
 ## Tutorials
 
 - https://developers.google.com/machine-learning/crash-course/
