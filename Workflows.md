@@ -40,6 +40,10 @@ https://github.com/GoogleCloudPlatform/workflows-demos/tree/master/connector-com
 
 https://cloud.google.com/blog/topics/developers-practitioners/introducing-workflows-callbacks
 
+### Replicate data from BigQuery to Cloud SQL using Cloud Workflows
+
+https://medium.com/google-cloud/replicate-data-from-bigquery-to-cloud-sql-2b23a08c52b1
+
 ## Other tools related to workflows
 
 ### Google Cloud Composer
