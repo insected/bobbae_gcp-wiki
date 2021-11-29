@@ -257,6 +257,10 @@ https://cloud.google.com/logging/docs/export#overview
 
 Cloud Logging provides two predefined log sinks for each Google Cloud project: _Required and _Default. All logs that are generated in a Google Cloud project are automatically processed through these two log sinks and then are stored in the correspondingly named _Required and _Default log buckets.
 
+## Securing sensitive information in logs
+
+https://medium.com/google-cloud/protect-sensitive-info-in-logs-using-google-cloud-4548211d4654
+
 
 ## Tutorials
 
