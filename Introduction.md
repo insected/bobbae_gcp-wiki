@@ -1,4 +1,3 @@
-# Google Cloud Platform
 
 https://en.wikipedia.org/wiki/Google_Cloud_Platform
 
