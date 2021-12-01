@@ -7,11 +7,22 @@ Cloud Run is serverless: it abstracts away all infrastructure management, so you
 
 It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with [Cloud Run for Anthos](https://cloud.google.com/anthos/run).
 
+### Timeout
+
+https://cloud.google.com/run/docs/configuring/request-timeout
+
 ### Cloud Run for Anthos
 
 https://cloud.google.com/anthos/run/docs/architecture-overview
 
 
+### FAQ
+
+https://github.com/ahmetb/cloud-run-faq
+
+### Always-on
+
+https://cloud.google.com/blog/products/serverless/cloud-run-gets-always-on-cpu-allocation
 
 ### Quickstarts
 
