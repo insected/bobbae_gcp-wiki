@@ -1,4 +1,4 @@
-A [data lake](https://cloud.google.com/learn/what-is-a-data-lake) is a centralized repository designed to store, process, and secure large amounts of structured, semistructured, and unstructured data. It can store data in its native format and process any variety of it, ignoring size limits.
+A [data lake](https://en.m.wikipedia.org/wiki/Data_lake) is a centralized repository designed to store, process, and secure large amounts of structured, semistructured, and unstructured data. It can store data in its native format and process any variety of it, ignoring size limits.
 
 
 
@@ -21,4 +21,8 @@ https://www.guru99.com/data-lake-vs-data-warehouse.html
 
 [Dataplex](dataplex)  is an intelligent data fabric that provides unified analytics and data management across your [data lakes](Data-lake), [data warehouses](Data-warehouse), and data marts.
 
-## lakeFs
+## lakeFS
+
+https://github.com/treeverse/lakeFS
+
+
