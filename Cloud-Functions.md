@@ -6,7 +6,11 @@ https://cloud.google.com/functions/docs/quickstart
 
 
 
-### Min instances
+### Execution environment
+
+https://cloud.google.com/functions/docs/concepts/exec
+
+### Minimum instances
 
 
 You can avoid cold starts for your application and reduce application latency by setting a minimum number of instances.
