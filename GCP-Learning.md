@@ -20,7 +20,7 @@
 - [Operations](Operations-and-Stackdriver)
 - [Monitoring](Monitoring)
 - [DevOps, DevSecOps](DevOps)
-- [Development API and SDK](Development-API-and-SDK)
+- [Development SDK](Development-API-and-SDK)
 - [API Management](API-Management-and-Apigee)
 - [Migration](Migration)
 - [AI, Vertex AI](AI)
