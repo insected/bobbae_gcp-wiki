@@ -8,7 +8,7 @@
 - [Compute Options](Compute-Options)
 - [App Engine](App-Engine)
 - [Kubernetes](Kubernetes)
-- [Cloud Run, Knative, Cloud Function, Serverless](Serverless)
+- [Serverless](Serverless)
 - [Anthos and Hybrid Multicloud](Hybrid-Multi-Cloud-And-Anthos)
 - [Storage](Storage)
 - [Databases](Databases)
