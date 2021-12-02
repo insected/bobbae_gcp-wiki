@@ -1,15 +1,12 @@
 
-
-
-
 - [Preparation](Preparation)
 - [Syllabus](Syllabus)
 - [Schedules](Schedules)
 - [Introduction to GCP](Introduction)
 - [Accounts and Billing](Accounts-and-Billing)
 - [Compute](Compute)
-- [App Engine](App-Engine)
 - [Compute Options](Compute-Options)
+- [App Engine](App-Engine)
 - [Kubernetes](Kubernetes)
 - [Storage](Storage)
 - [Databases](Databases)
