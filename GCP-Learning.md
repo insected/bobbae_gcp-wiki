@@ -9,7 +9,7 @@
 - [App Engine](App-Engine)
 - [Kubernetes](Kubernetes)
 - [Serverless](Serverless)
-- [Anthos and Hybrid Multicloud](Hybrid-Multi-Cloud-And-Anthos)
+- [Anthos](Hybrid-Multi-Cloud-And-Anthos)
 - [Storage](Storage)
 - [Databases](Databases)
 - [Data Engineering](Data-Engineering)
