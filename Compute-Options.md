@@ -92,7 +92,8 @@ A [preemptible](https://cloud.google.com/compute/docs/instances/preemptible) [VM
 
 ### Sole-tenant nodes
 
-[Sole-tenancy]https://cloud.google.com/compute/docs/nodes) lets you have exclusive access to a sole-tenant node, which is a physical Compute Engine server that is dedicated to hosting only your project's VMs. Use sole-tenant nodes to keep your VMs physically separated from VMs in other projects, or to group your VMs together on the same host hardware.
+[Sole-tenancy]
+(https://cloud.google.com/compute/docs/nodes) lets you have exclusive access to a sole-tenant node, which is a physical Compute Engine server that is dedicated to hosting only your project's VMs. Use sole-tenant nodes to keep your VMs physically separated from VMs in other projects, or to group your VMs together on the same host hardware.
 
 
 [https://www.youtube.com/watch?v=ocHadXq14v8](https://www.youtube.com/watch?v=ocHadXq14v8)
@@ -100,7 +101,7 @@ A [preemptible](https://cloud.google.com/compute/docs/instances/preemptible) [VM
 
 ### Bare Metal Solution
 
-[Bare Metal Solution](https://cloud.google.com/bare-metal/docs)  provide the infrastructure you need to run your specialized workload such as Oracle Database close to Google Cloud. 
+[Bare Metal Solution](https://cloud.google.com/bare-metal/docs) provides the infrastructure you need to run your specialized workload such as Oracle Database close to Google Cloud. 
 
 [https://www.youtube.com/watch?v=EVWrwCUQlL8](https://www.youtube.com/watch?v=EVWrwCUQlL8)
 
