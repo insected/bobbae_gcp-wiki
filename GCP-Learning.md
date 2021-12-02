@@ -19,7 +19,7 @@
 - [Infrastructure as Code](Infrastructure-as-Code)
 - [Operations](Operations-and-Stackdriver)
 - [Monitoring](Monitoring)
-- [DevOps, DevSecOps](DevOps)
+- [DevOps](DevOps)
 - [Development SDK](Development-API-and-SDK)
 - [API Management](API-Management-and-Apigee)
 - [Migration](Migration)
