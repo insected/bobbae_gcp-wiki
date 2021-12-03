@@ -134,6 +134,8 @@ https://cloud.google.com/load-balancing/docs/internal/ilb-next-hop-overview
 
 https://medium.com/@ozcosta/google-cloud-networking-ilb-as-next-hop-with-tags-ab5f30a0e0c3
 
+
+
 ## List of Load Balancers
 
 A [list](https://github.com/cristaloleg/awesome-load-balancing) of Load Balancers.
@@ -143,3 +145,7 @@ A [list](https://github.com/cristaloleg/awesome-load-balancing) of Load Balancer
 ### HTTPS load balancer for Cloud function, Cloud run and App engine
 
 https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#gcloud
+
+### Terraform examples for external HTTP(S) load balancers
+
+https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples#cloud-run
