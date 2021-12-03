@@ -138,3 +138,8 @@ https://medium.com/@ozcosta/google-cloud-networking-ilb-as-next-hop-with-tags-ab
 
 A [list](https://github.com/cristaloleg/awesome-load-balancing) of Load Balancers.
 
+## Examples
+
+### HTTPS load balancer for Cloud function, Cloud run and App engine
+
+https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#gcloud
