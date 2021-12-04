@@ -100,7 +100,7 @@ Cloud Billing subaccounts allow you to group charges from projects together on a
 
 https://support.google.com/channelservices/answer/10022594?hl=en
 
-A subaccount behaves like a Cloud Billing account in most ways: it can have projects linked to it, Cloud Billing data exports can be configured on it, and it can have IAM roles defined on it. Any charges made to projects linked to the subaccount are grouped and subtotalled on the invoice, and the effect on resource management is that access control policy can be entirely segregated on the subaccount to allow for customer separation and management.
+A subaccount behaves like a Cloud Billing account in most ways: it can have projects linked to it, Cloud Billing data exports can be configured on it, and it can have IAM roles defined on it. Any charges made to projects linked to the subaccount are grouped and subtotalled on the invoice, and the effect on resource management is that the access control policy can be entirely segregated on the subaccount to allow for customer separation and management.
 
 https://cloud.google.com/billing/docs/concepts#subaccounts
 
@@ -108,6 +108,11 @@ https://cloud.google.com/billing/docs/concepts#subaccounts
 ## API Calls Attribution
 
 https://john-tucker.medium.com/google-cloud-platform-and-api-call-attribution-b0ccdf7a0305
+
+## IAM
+
+[Cloud IAM](IAM) is Google Cloud Platform’s unified system for managing access to resources and assigning permissions for users and services to access those resources.  
+
 
 ## FinOps
 
