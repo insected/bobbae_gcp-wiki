@@ -117,3 +117,6 @@ https://medium.com/google-cloud-platform-by-cloud-ace/oracle-database-on-google-
 
 https://cloudplatform.googleblog.com/2015/03/scaling-MySQL-in-the-cloud-with-Vitess-and-Kubernetes.html
 
+### Hasura
+
+https://hasura.io/docs/latest/graphql/core/deployment/deployment-guides/google-kubernetes-engine-cloud-sql.html
