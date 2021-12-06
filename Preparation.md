@@ -27,6 +27,10 @@ https://cloud.google.com/training/
 
 https://cloud.google.com/blog/topics/training-certifications/google-cloud-certification-learning-journey-for-veterans
 
+#### Cloud Learn
+
+https://cloud.google.com/blog/topics/training-certifications/cloud-learn-provides-no-cost-training-for-developers-and-more
+
 ### Quickstarts
 
 https://cloud.google.com/s/results?q=quickstart
