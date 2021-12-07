@@ -257,6 +257,10 @@ https://cloud.google.com/blog/products/identity-security/how-google-cloud-ids-he
 
 https://cloud.google.com/blog/products/networking/open-source-solutions-and-how-tos
 
+## Autonomic Security Operations
+
+https://cloud.google.com/blog/products/identity-security/achieving-autonomic-security-operations-reducing-toil
+
 ## PKI
 
 GCP [Certificate Authority Service](https://cloud.google.com/certificate-authority-service) implements [PKI](PKI) and private [CAs](https://en.wikipedia.org/wiki/Certificate_authority).
