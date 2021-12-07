@@ -16,6 +16,10 @@ https://cloud.google.com/datastream/docs/concepts
 - Streamline real-time data pipeline that continually streams data from legacy relational data stores (like Oracle and MySQL) using Datastream into MongoDB.  
 
 
+## Change Data Capture
+
+https://cloud.google.com/blog/products/data-analytics/serverless-change-data-capture-and-replication
+
 ## Using Datastream into MongoDB
 
 
