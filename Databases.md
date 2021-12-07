@@ -91,7 +91,7 @@ The [CAP theorem](  https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f
 
 [https://dbdb.io/browse](https://dbdb.io/browse)
 
-## Third-party databases on Google Cloud
+## Other databases available on Google Cloud
 
 ### Databricks
 
@@ -120,3 +120,7 @@ https://cloudplatform.googleblog.com/2015/03/scaling-MySQL-in-the-cloud-with-Vit
 ### Hasura
 
 https://hasura.io/docs/latest/graphql/core/deployment/deployment-guides/google-kubernetes-engine-cloud-sql.html
+
+### GraphQL APIs with Apigee
+
+https://cloud.google.com/blog/products/api-management/how-to-manage-your-graphql-apis-with-apigee
