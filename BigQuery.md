@@ -485,6 +485,9 @@ https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-
 https://cloud.google.com/bigquery/pricing#flat_rate_pricing
 
 
+### Resource Charts and Slot Estimator
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-administrator-hub-helps-manage-bigquery-at-scale
 
 ### Regional performances
 
