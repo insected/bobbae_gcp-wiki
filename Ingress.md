@@ -170,3 +170,11 @@ https://faun.pub/multi-cluster-ingress-gke-57be59ced00d
 ### Ingress HTTPS with Multi SSL certificates
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl#secrets
+
+### Ingress with TLS on GKE
+
+https://medium.com/@betandr/kubernetes-ingress-with-tls-on-gke-744efd37e49e
+
+### GCP managed certificates in GKE
+
+https://johnclarke73.medium.com/tls-configuration-in-gke-the-really-simple-way-5af7abb0e8e1
