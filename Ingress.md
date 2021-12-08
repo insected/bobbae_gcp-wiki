@@ -164,4 +164,9 @@ https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
 
 ### Multicluster ingress example
 
+
 https://faun.pub/multi-cluster-ingress-gke-57be59ced00d
+
+### Ingress HTTPS with Multi SSL certificates
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl#secrets
