@@ -149,3 +149,8 @@ https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#g
 ### Terraform examples for external HTTP(S) load balancers
 
 https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples#cloud-run
+
+
+### Multiple SSL certificates in HTTPS load balancing with Ingress 
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
