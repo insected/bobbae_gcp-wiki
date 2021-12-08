@@ -156,6 +156,10 @@ Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller f
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
 
+## Managed Certificates
+
+https://github.com/GoogleCloudPlatform/gke-managed-certs
+
 ## Ingress examples
 
 ### Set up an ingress on minikube via nginx
