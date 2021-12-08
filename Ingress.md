@@ -178,3 +178,7 @@ https://medium.com/@betandr/kubernetes-ingress-with-tls-on-gke-744efd37e49e
 ### GCP managed certificates in GKE
 
 https://johnclarke73.medium.com/tls-configuration-in-gke-the-really-simple-way-5af7abb0e8e1
+
+###  GKE ingress with TLS certificate for secure traffic to backend Istio ingress gateway
+
+https://gist.github.com/pydevops/dce8bdf1c360f7a913ac48f04b2d39d1
