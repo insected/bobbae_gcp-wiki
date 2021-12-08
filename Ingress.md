@@ -13,6 +13,15 @@
 https://cloud.google.com/kubernetes-engine/docs/concepts/ingress
 
 
+### Ingress GCE
+
+https://github.com/kubernetes/ingress-gce
+
+
+### Nginx
+
+https://jaygorrell.medium.com/kubernetes-ingress-82aa960f658e
+
 ### Ingress for External HTTP(S) Load Balancing
 
 
