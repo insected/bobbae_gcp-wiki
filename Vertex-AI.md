@@ -25,6 +25,14 @@ https://cloud.google.com/vertex-ai/docs/general/import
 
 https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions
 
+## Predictive Analytics
+
+https://cloud.google.com/learn/what-is-predictive-analytics
+
+### Prediction market
+
+https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud
+
 ## Explainable AI
 
 https://cloud.google.com/vertex-ai/docs/explainable-ai
@@ -65,6 +73,14 @@ https://cloud.google.com/vertex-ai/docs/matching-engine
 ## Monitor and secure
 
 https://cloud.google.com/vertex-ai/docs/general/monitoring-security
+
+
+## Vertex AI Neural Architecture Search
+
+https://research.google/pubs/pub45826/
+
+https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-the-most--advanced-ml-modeling-possible
+
 
 ## Examples
 
