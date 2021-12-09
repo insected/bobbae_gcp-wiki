@@ -20,6 +20,13 @@ https://github.com/amusi/awesome-ai-awesomeness
 
 https://cloud.google.com/vertex-ai/docs
 
+
+### Vertex AI Neural Architecture Search
+
+https://research.google/pubs/pub45826/
+
+https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-the-most--advanced-ml-modeling-possible
+
 ## AutoML vs. custom training
 
 
