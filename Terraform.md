@@ -314,6 +314,10 @@ https://vaishnavi-amirapu-83592.medium.com/terraform-cft-for-gcp-664fa3c68ae3
 
 https://github.com/terraform-google-modules/cloud-foundation-fabric
 
+### Service Account impersonation in your Terraform code
+
+https://cloud.google.com/blog/topics/developers-practitioners/using-google-cloud-service-account-impersonation-your-terraform-code
+
 
 ### Terraform Google modules Examples
 
