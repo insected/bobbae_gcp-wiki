@@ -31,6 +31,10 @@ https://cloud.google.com/blog/products/data-analytics/google-cloud-next-rollup-f
 
 https://cloud.google.com/blog/products/data-analytics/accelerate-time-to-value-with-google-cloud-design-patterns
 
+### Data transformation
+
+https://cloud.google.com/blog/products/data-analytics/unlocking-opportunities-data-transformation
+
 ## Database options
 
 One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU).  [Choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing. We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
