@@ -58,3 +58,7 @@ https://cloud.google.com/compute/docs/tutorials/basic-webserver-apache
 ### Running Discord bot on GCE VM
 
 https://cloud.google.com/blog/topics/developers-practitioners/build-and-run-discord-bot-top-google-cloud
+
+### Migration Amazon Linux instances using Migrate for Compute Engine
+
+https://taneli-leppa.medium.com/migrating-amazon-linux-instances-using-migrate-for-compute-engine-b2392c97cda6
