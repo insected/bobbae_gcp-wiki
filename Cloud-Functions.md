@@ -10,6 +10,10 @@ https://cloud.google.com/functions/docs/quickstart
 
 https://cloud.google.com/functions/docs/concepts/exec
 
+#### Stateless
+
+https://cloud.google.com/functions/docs/concepts/exec#stateless_functions
+
 ### Minimum instances
 
 
