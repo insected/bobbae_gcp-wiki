@@ -334,6 +334,18 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-funct
 
 https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataform-cli-tool-to-unit-test-udf
 
+### Dataform
+
+https://medium.com/@danilo.drobac/supercharge-your-bigquery-data-warehouse-with-dataform-d871d4df123a
+
+### MERGE
+
+https://medium.com/plumbersofdatascience/incremental-data-ingestion-in-bigquery-using-merge-1387e49c7eb5
+
+### Datastream  and Data Fusion
+
+https://cloud.google.com/blog/products/vmware-engine/visual-data-with-bigquery-and-google-cloud-vmware-engine
+
 ### Dremel
 
 [Dremel](https://research.google/pubs/pub36632/) is a scalable, interactive ad-hoc query system for analysis of read-only nested data. BigQuery is based on Dremel.
