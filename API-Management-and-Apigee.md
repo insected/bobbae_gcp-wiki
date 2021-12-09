@@ -86,3 +86,7 @@ https://beranger.medium.com/secure-google-cloud-functions-with-api-gateway-848f6
 ### Rate limit Cloud Functions with API Gateway
 
 https://beranger.medium.com/rate-limit-google-cloud-functions-with-api-gateway-19b54bb9d9e9
+
+### Improving CTR
+
+https://cloud.google.com/blog/products/ai-machine-learning/bazaarvoice-uses-recommendations-ai-to-improve-ctr
