@@ -264,6 +264,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/people-and-planet-
 
 https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-vertex-ai-battlesnake-using-practical-reinforcement-learning-defeat-your-friends
 
+### Natural Language discovery and classification
+
+https://cloud.google.com/blog/products/ai-machine-learning/discover-advanced-insights-with-google-cloud-natural-language-ai
+
 ## Tutorials
 
 - https://www.w3schools.com/ai/
