@@ -46,9 +46,15 @@ https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-
 
 https://medium.com/geekculture/google-cloud-functions-a-brief-tutorial-de07d8945b01
 
+
+### Deploying Cloud Functions on a Chromebook
+
+https://medium.com/google-cloud/who-said-you-cant-code-on-a-chromebook-local-development-with-cloud-functions-4e68dca1240b
+
 ### API Gateway with Cloud Functions
 
 https://medium.com/@sdptd20/exploring-google-cloud-api-gateway-with-google-cloud-functions-ff56c1c96cc9
+
 
 
 ### OCR tutorial with Cloud Functions
