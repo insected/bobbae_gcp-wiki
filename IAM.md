@@ -160,6 +160,10 @@ https://cloud.google.com/asset-inventory/docs/searching-iam-policies
 
 https://cloud.google.com/iam/docs/linting-policies
 
+## Workload Identity Federation
+
+https://cloud.google.com/iam/docs/best-practices-for-using-workload-identity-federation
+
 
 ## Troubleshooting policy and access problems on Google Cloud
 
