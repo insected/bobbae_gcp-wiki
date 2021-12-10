@@ -269,6 +269,10 @@ Kubernetes [Secrets](   https://kubernetes.io/docs/concepts/configuration/secret
 
 [https://www.youtube.com/watch?v=FAnQTgr04mU](https://www.youtube.com/watch?v=FAnQTgr04mU)
 
+#### Secret encryption
+
+https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
+
 
 ### Replication Controller
 
