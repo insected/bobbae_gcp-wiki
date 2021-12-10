@@ -186,6 +186,10 @@ https://kubernetes.io/docs/concepts/storage/volume-snapshots/
 
 https://kubernetes.io/docs/concepts/storage/volume-pvc-datasource/
 
+### CSI GCS
+
+https://github.com/ofek/csi-gcs
+
 ### Dynamic Volume Provisioning
 
 https://kubernetes.io/docs/concepts/storage/dynamic-provisioning/
