@@ -48,6 +48,9 @@ Typically you have several nodes in a cluster; in a learning or resource-limited
 
 ## Pods
 
+
+https://kubernetes.io/docs/concepts/workloads/pods/
+
 [Pods](https://kubernetes.io/docs/concepts/workloads/pods/
 ) are the smallest deployable units of computing that you can create and manage in Kubernetes.
 
