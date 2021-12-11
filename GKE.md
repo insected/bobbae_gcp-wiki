@@ -74,12 +74,18 @@ The Kubernetes apps in Cloud Marketplace include container images and configurat
 
 [https://cloud.google.com/marketplace/docs/kubernetes-apps](https://cloud.google.com/marketplace/docs/kubernetes-apps)
 
-### How to create a GKE cluster
+### Tutorials
 
-This video will teach you how to create a Google Kubernetes Engine (GKE) cluster using Terraform.
+#### How to create a GKE cluster
+
+Creating a Google Kubernetes Engine (GKE) cluster using Terraform.
 
 [https://www.youtube.com/watch?v=Vcv6GapxUCI](https://www.youtube.com/watch?v=Vcv6GapxUCI)
 
-Here are some tutorials for using Terraform to manage Kubernetes on GCP.
+#### Using Terraform to manage Kubernetes on GCP
+
 [HashCorp Terraform Kubernetes Tutorials](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes)
 
+#### Create an App on GKE
+
+https://ide.cloud.google.com/?walkthrough_tutorial_id=gke_cloud_code_create_app
