@@ -38,3 +38,6 @@ Deprecated method to automatically request certificates for kubernetes ingress r
 
 https://github.com/jetstack/kube-lego
 
+### GKE Ingress with Let's Encrypt using Cert-Manager
+
+https://kosyfrances.com/ingress-gce-letsencrypt/
