@@ -161,6 +161,5 @@ This lab covers Google Cloud's [BigQuery](http://cloud.google.com/bigquery) API 
 
 #### Google Cloud Functions
 
-In this lab, you build and deploy a few Cloud Functions connected to G Suite APIs and other Google Cloud Platform services.
 
 [Empower Your Gmail Inbox with Google Cloud Functions](https://www.qwiklabs.com/focuses/5166?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7482904)

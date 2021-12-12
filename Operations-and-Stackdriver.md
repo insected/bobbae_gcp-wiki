@@ -122,14 +122,12 @@ Basics of Service Level Monitoring.
 
 #### Operations Suite
 
-In this fundamental-level quest, you will learn the ins and outs of Google Cloud's operations suite, an important service for generating insights into the health of your applications. It provides a wealth of information in application monitoring, report logging, and diagnoses. The labs in this quest will give you hands-on practice with and will teach you how to monitor virtual machines, generate logs and alerts, and create custom metrics for application data.
 
 [Google Cloud's Operations Suite](https://www.qwiklabs.com/quests/35?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7468028)
 
 
 #### Cloud Monitoring
 
-In this fundamental-level quest, you will learn the ins and outs of Google Cloud's operations suite, an important service for generating insights into the health of your applications. It provides a wealth of information in application monitoring, report logging, and diagnoses. The labs in this quest will give you hands-on practice with and will teach you how to monitor virtual machines, generate logs and alerts, and create custom metrics for application data. 
 
 [Monitor and Log with Google Cloud Operations Suite](https://www.qwiklabs.com/quests/143?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7468028)
 
@@ -143,21 +141,18 @@ When supporting a production system that services HTTP requests or provides an A
 
 #### Cloud Logging
 
-Cloud Logging is a fully managed service that performs at scale. It can ingest application and system log data from thousands of VMs and, even better, analyze all that log data in real time. In this fundamental-level Quest, you learn how to store, search, analyze, monitor, and alert on log data and events from Google Cloud. 
 
 [Cloud Logging](https://www.qwiklabs.com/quests/81?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7468028)
 
 
 #### Application Logs
 
-In this hands-on lab, you learn how to use Cloud Logging to accumulate application logs in a single place, filter to reach the required log, understand how to create logs based metrics for advanced analysis, examine the audit logs use case, and export logs for compliance and/or advanced analysis needs.
 
 [Fundamentals of Cloud Logging](https://www.qwiklabs.com/focuses/10911?catalog_rank=%7B%22rank%22%3A12%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 
 
 #### BigQuery Logging
 
-In this lab you view the BigQuery logs inside Cloud Logging, setup a sink to export them back into BigQuery, and then use SQL to analyze the logs.
 
 [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.qwiklabs.com/focuses/6100?catalog_rank=%7B%22rank%22%3A15%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7468061)
 

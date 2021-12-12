@@ -41,7 +41,7 @@ https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-aut
 
 #### SDN
 
-[Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) is an approach that decouples the control plane from the data plane in networking equipment.  NFV and SDN  are complimentary. SDN enables keeping the intelligence of the network within the controller, leaving the network equipment handling data which can simply execute operations mandated by the controller.  The network equipment does not need powerful controller capabilities and can be based on POTS (Plain, Off the shelf) virtualized servers.
+[Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) is an approach that decouples the control plane from the data plane in networking equipment.  NFV and SDN  are complimentary. SDN enables keeping the intelligence of the network within the controller, leaving the network equipment handling data which can execute operations mandated by the controller.  The network equipment does not need powerful controller capabilities and can be based on POTS (Plain, Off the shelf) virtualized servers.
 
 #### MANO
 

@@ -9,7 +9,6 @@ If you want to process events or chain APIs in a [serverless](Serverless) way, o
 
 https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows
 
-Pricing is based on the number of steps in the workflow, so you only pay if your workflow runs. And because Workflows doesn’t charge based on execution time, if a workflow pauses for a few hours in between tasks, you don’t pay for this either.  Workflows scale up automatically with very low startup time and no “cold start” effect. It transitions quickly between steps, supporting latency-sensitive applications. 
 
 ## Orchestration vs Choreography
 
@@ -75,7 +74,7 @@ A [survey of pipeline & workflow tools](https://github.com/pditommaso/awesome-pi
 
 Orchestration often refers to the automated configuration, coordination, and management of computer systems and services. 
 
-In the context of service-oriented architectures, orchestration can range from simply executing a single service at a specific time and day, to a more sophisticated approach of automating and monitoring multiple services over longer periods of time, with the ability to react and handle failures as they crop up. In the data engineering context, orchestration is central to coordinating the services and workflows that prepare, ingest, and transform data. It can go beyond data processing and also involve a workflow to train a machine learning (ML) model from the data.
+In the context of service-oriented architectures, orchestration can range from executing a single service at a specific time and day, to a more sophisticated approach of automating and monitoring multiple services over longer periods of time, with the ability to react and handle failures as they crop up. In the data engineering context, orchestration is central to coordinating the services and workflows that prepare, ingest, and transform data. It can go beyond data processing and also involve a workflow to train a machine learning (ML) model from the data.
 
 Google Cloud Platform offers a number of tools and services for orchestration:
 

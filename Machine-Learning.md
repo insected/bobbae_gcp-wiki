@@ -332,7 +332,7 @@ https://heartbeat.fritz.ai/introduction-to-machine-learning-model-evaluation-fa8
 
 Accuracy may be useful when errors in predicting all classes are equally important.  In case of spam/not spam this may not be the case. You would tolerate false positives less than false negatives.  A false positive may mean you don't get an important email.  False negative is no big deal, even though it is annoying to get a spam.
 
-Accuracy can be not useful when all classes not not equally important. Predicting click stream can be biased because of very few real positive clicks per rendered pages. In other words, almost no clicks can be the norm. In that case, a model that is 99.999% accurate can be created by simply returning "no click" as answer every time.
+Accuracy can be not useful when all classes not not equally important. Predicting click stream can be biased because of very few real positive clicks per rendered pages. In other words, almost no clicks can be the norm. In that case, a model that is 99.999% accurate can be created by returning "no click" as answer every time.
 
 
 ### Confusion Matrix
@@ -595,7 +595,7 @@ https://www.kaggle.com/getting-started/179177
 
 ### Shallow vs. Deep learning
 
-A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called [deep neural networks](https://physicsbaseddeeplearning.org/intro.html). In deep neural network learning (or, simply, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
+A shallow learning algorithm learns the parameters of the model directly from the features of the training examples. Most supervised learning algorithms are shallow. The exceptions are neural network learning algorithms, specifically those that build neural networks with more than one layer between input and output. Such neural networks are called [deep neural networks](https://physicsbaseddeeplearning.org/intro.html). In deep neural network learning (or, deep learning), contrary to shallow learning, most model parameters are learned not directly from the features of the training examples, but from the outputs of the preceding layers.
 
 https://www.mathworks.com/discovery/deep-learning.html
 

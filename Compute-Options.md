@@ -19,7 +19,7 @@ Decision tree for compute options.
 ### App Engine
 
 
-The Google [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine), which is also a PaaS solution, allows you to simply deploy your code, and the platform automates everything. GAE is fully scalable, meaning that it acquires more instances automatically if the traffic of your application becomes higher.
+The Google [App Engine](https://github.com/bobbae/gcp/wiki/App-Engine), which is also a PaaS solution, allows you to deploy your code, and the platform automates everything. GAE is fully scalable, meaning that it acquires more instances automatically if the traffic of your application becomes higher.
 
 ### Cloud Functions
 

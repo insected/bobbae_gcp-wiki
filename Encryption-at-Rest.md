@@ -8,6 +8,5 @@ All data stored in Google Cloud is encrypted at the storage level using [AES256]
 Google uses a common cryptographic library, [Tink]( https://github.com/google/tink  ), which incorporates our [FIPS 140-2](https://wikipedia.org/wiki/FIPS_140-2   ) validated module, BoringCrypto, to implement encryption consistently across almost all Google Cloud products. 
 
 
-Consistent use of a common library means that only a small team of cryptographers needs to implement and maintain this tightly controlled and reviewed code.
 
 https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations#encryption-at-rest

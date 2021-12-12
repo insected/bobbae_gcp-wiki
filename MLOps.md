@@ -31,7 +31,7 @@ MLflow Tracking is an API and UI for logging parameters, code versions, metrics 
 
 ### MLflow Projects
 
-MLflow Projects provide a standard format for packaging reusable data science code. Each project is simply a directory with code or a Git repository.
+MLflow Projects provide a standard format for packaging reusable data science code. Each project is a directory with code or a Git repository.
 
 ### MLflow Models
 

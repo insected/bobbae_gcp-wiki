@@ -180,7 +180,7 @@ Trident is a fully supported open source project maintained by NetApp. It has be
 
 ### Cloud Volumes Service 
 
-Cloud Volumes Service removes obstacles so you can move more of your file-based apps to Google Cloud, with support for Network File System (NFSv3 and NFSv4.1) and Server Message Block (SMB) volumes. You don't have to re-architect your apps, and you get persistent storage for your apps without complexity.
+Cloud Volumes Service removes obstacles so you can move more of your file-based apps to Google Cloud, with support for Network File System (NFSv3 and NFSv4.1) and Server Message Block (SMB) volumes. 
 
 [https://cloud.netapp.com/cloud-volumes-service-for-gcp](https://cloud.netapp.com/cloud-volumes-service-for-gcp)
 

@@ -99,7 +99,7 @@ Bigtable scales in direct proportion to the number of machines in your cluster. 
 
 ## Simple administration
 
-Bigtable handles upgrades and restarts transparently, and it automatically maintains high data durability. To replicate your data, simply add a second cluster to your instance, and replication starts automatically. No more managing replicas or regions; just design your table schemas, and Bigtable will handle the rest for you.
+Bigtable handles upgrades and restarts transparently, and it automatically maintains high data durability. To replicate your data, add a second cluster to your instance, and replication starts automatically. No more managing replicas or regions; just design your table schemas, and Bigtable will handle the rest for you.
 
 ### Instances, clusters, nodes
 

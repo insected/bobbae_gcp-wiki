@@ -170,7 +170,7 @@ The [Resource Manager](Resource-Manager) API enables you to programmatically man
 
 ## Cloud HSM
 
-[Cloud HSM](https://cloud.google.com/kms/docs/hsm) is a cloud-hosted Hardware Security Module (HSM) service that allows you to host encryption keys and perform cryptographic operations in a cluster of [FIPS 140-2 Level 3](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified HSMs. Google manages [the HSM cluster](https://www.youtube.com/watch?v=DB6UfKFo3ds) for you, so you don't need to worry about clustering, scaling, or patching. Because Cloud HSM uses Cloud KMS as its front end, you can leverage all the conveniences and features that Cloud KMS provides.
+[Cloud HSM](https://cloud.google.com/kms/docs/hsm) is a cloud-hosted Hardware Security Module (HSM) service that allows you to host encryption keys and perform cryptographic operations in a cluster of [FIPS 140-2 Level 3](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified HSMs. Google manages [the HSM cluster](https://www.youtube.com/watch?v=DB6UfKFo3ds) for you.
 
 
 ## Security Command Center
@@ -291,7 +291,7 @@ https://medium.com/google-cloud/de-risk-your-data-to-accelerate-your-cloud-journ
 
 ## Cloud Governance
 
-[Cloud governance](Cloud-Governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but simply the application of existing governance practices to cloud operations.
+[Cloud governance](Cloud-Governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but the application of existing governance practices to cloud operations.
 
 ## BigQuery Security
 

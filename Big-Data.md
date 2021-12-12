@@ -22,7 +22,7 @@ https://bowenli86.github.io/2016/10/23/distributed%20system/data/Big-Data-and-Go
 
 ## Ethics 
 
-[Big data ethics](https://wikipedia.org/wiki/Big_data_ethics) also known as simply [data ethics](  https://journals.sagepub.com/doi/10.1177/2053951714559253 ) refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data and [privacy](Privacy).
+[Big data ethics](https://wikipedia.org/wiki/Big_data_ethics) also known as [data ethics](  https://journals.sagepub.com/doi/10.1177/2053951714559253 ) refers to systemizing, defending, and recommending concepts of right and wrong conduct in relation to data, in particular personal data and [privacy](Privacy).
 
 ## Big Data Hadoop Tutorial
 

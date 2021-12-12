@@ -78,7 +78,6 @@ https://cloud.google.com/retail/recommendations-ai/docs/how-to
 Keeping your catalog up to date and recording user events successfully is important for getting high-quality recommendations. Even if your initial imports and event recording are successful, [monitoring](https://cloud.google.com/retail/recommendations-ai/docs/monitor
 ) error rates is still needed in case of unexpected environmental issues, such as network connectivity failures.
 
-You should set up Cloud Monitoring alerts so you can take action promptly in case any issues arise with user event recording and predictions. You can also monitor recent data integration error rates in the Google Cloud Console at any time.
 
 
 

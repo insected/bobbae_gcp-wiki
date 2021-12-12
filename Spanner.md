@@ -271,21 +271,18 @@ https://cloud.google.com/blog/products/databases/dating-app-lovoo-scales-the-lov
 
 ### Java Client
 
-In this lab, you will set up a Cloud Spanner instance, create a database and schema, then run sample queries on a dataset. Helpful Cloud Spanner information is provided along the way to help you get the most out of this powerful database service.
 
 [Querying Cloud Spanner With a Java Client](https://www.qwiklabs.com/focuses/2189?parent=catalog)
 
 
 ### Leaderboard
 
-In this lab, you will learn how to set up a Cloud Spanner instance. You will go through the steps of creating a database and schema that can be used for a gaming leaderboard. You'll start by creating a Players table for storing player information and a Scores table to store player scores.
 
 [Cloud Spanner: Create a Gaming Leaderboard with C#](https://www.qwiklabs.com/focuses/1815?parent=catalog)
 
 
 ### Backend
 
-In this lab, you develop a backend service for an online Quiz application to process user feedback and save scores.
 
 [App Dev: Developing a Backend Service - Java](https://www.qwiklabs.com/focuses/1128?parent=catalog)
 

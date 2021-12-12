@@ -856,7 +856,7 @@ In dimensional modeling, the transaction record is divided into either "facts," 
 
 What are the types of SCD?
 
-Very simply, there are 6 types of Slowly Changing Dimension that are commonly used, they are as follows:
+There are 6 types of Slowly Changing Dimension that are commonly used, they are as follows:
 
 * Type 0 – Fixed Dimension
 No changes allowed, dimension never changes
@@ -1264,7 +1264,7 @@ Disadvantages:
 * You need to send the queries from the client, you can just send strings but if you want more comfort and caching you’ll use a client library -> extra code in your client
 * You need to define the schema beforehand => extra work before you get results
 * You need to have a graphql endpoint on your server => new libraries that you don’t know yet
-* Graphql queries are more bytes than simply going to a REST endpoint
+* Graphql queries are more bytes than going to a REST endpoint
 * The server needs to do more processing to parse the query and verify the parameters
 
 ## what is GraphQL Schema?
@@ -1757,7 +1757,7 @@ Boosting algorithms are classified into:
 Gradient boosting is a machine learning technique for regression and classification problems which constructs a prediction model in the form of an ensemble of weak prediction models.
 
 ## What’s an ensemble?
-It is simply a group of items viewed as a whole rather than individually.
+It is a group of items viewed as a whole rather than individually.
 
 A GBM basically creates lots of individual predictors and each of them tries to predict the true label. Then, it gives its final prediction by averaging all those individual predictions (note however that it is not a simple average but a weighted average).
 
@@ -2032,7 +2032,7 @@ Placing the values in the formula, the chances of Harry winning will become 50%,
 
 ## How is Bayesian useful in ML?  Or is ML different than Bayesian statistics?
 
-Machine learning simply tries to predict something about a certain system based on data available. 
+Machine learning tries to predict something about a certain system based on data available. 
 But Bayesian statistics, on the other hand, is the degree of belief.
 
 Bayesian machine learning is useful when there are fewer data available. 

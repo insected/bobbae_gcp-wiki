@@ -13,7 +13,7 @@ https://cloud.google.com/security/compliance
 
 ### Cloud Governance
 
-[Cloud governance](cloud-governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but simply the application of existing governance practices to cloud operations.
+[Cloud governance](cloud-governance) is a set of practices that help ensure users operate in the cloud in ways that they want, that the operations are efficient, and that the user can monitor and correct operations as needed. A cloud governance framework is not a new set of concepts or practices, but the application of existing governance practices to cloud operations.
 
 
 ### Data Governance 
