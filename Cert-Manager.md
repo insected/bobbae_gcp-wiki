@@ -42,4 +42,6 @@ https://github.com/jetstack/kube-lego
 
 https://kosyfrances.com/ingress-gce-letsencrypt/
 
-### 
+### Securing NGINX Ingress
+
+https://cert-manager.io/docs/tutorials/acme/ingress/
