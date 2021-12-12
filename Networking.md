@@ -409,9 +409,9 @@ Overlay network refers to the virtual network layer. It is designed to be highly
 
 ## Kubernetes CNI
 
-A [CNI](Kubernetes-Networking#cni) is simply a link between the container runtime (like Docker or rkt) and the network plugin. A CNI is a set of rules and Go libraries that aid in container/network-plugin integration.
+A [CNI](Kubernetes-Networking#cni) is a link between the container runtime (like Docker or rkt) and the network plugin. A CNI is a set of rules and Go libraries that aid in container/network-plugin integration.
 
-All of the CNIs can be deployed by simply running a pod or a Daemonset that launches and manages their daemons. Let’s have a look now at the most well-known Kubernetes networking solutions.
+All of the CNIs can be deployed by running a pod or a Daemonset that launches and manages their daemons. Let’s have a look now at the most well-known Kubernetes networking solutions.
 
 
 ## IOT Networking
