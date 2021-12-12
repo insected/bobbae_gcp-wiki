@@ -20,6 +20,10 @@ Kubernetes security is important throughout the container lifecycle due to the d
 
 https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments
 
+## Using Google-managed SSL certificates 
+
+https://www.infracloud.io/blogs/secure-containers-cosign-distroless-images
+
 
 ## RBAC
 
@@ -64,11 +68,11 @@ Container Signing, Verification and Storage in an [OCI](https://opencontainers.o
 https://github.com/sigstore/cosign
 
 
-#### Cloud Build
+###  Cloud Build CoSign
 
 https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.html
 
-#### Example
+### CoSign and distroless images
 
 https://www.infracloud.io/blogs/secure-containers-cosign-distroless-images
 
