@@ -124,17 +124,13 @@ https://www.dell.com/support/kbdoc/en-us/000132092/ubuntu-linux-terms-for-your-h
 
 [sd](https://man7.org/linux/man-pages/man4/sd.4.html) originally identified a [SCSI](https://en.wikipedia.org/wiki/SCSI) device, but since the proliferation of [USB](https://en.wikipedia.org/wiki/USB) (and other removable) data carriers, it became a catch-all for any [block device](https://en.wikipedia.org/wiki/Device_file#BLOCKDEV) (another Unix term; in this context, anything capable of carrying data) that wasn't already accessible via [IDE](https://en.wikipedia.org/wiki/Parallel_ATA#IDE_and_ATA-1). When [SATA](https://en.wikipedia.org/wiki/Serial_ATA) came around, the developers figured it'd be much easier and much more convenient for everyone to add it into the existing framework rather than write a whole new framework.
 
-The letter immediately after sd signifies the order in which it was first found -- a,b,c...z, Aa...Az... etc. (Not that there are many situations in the real world where more than 26 discrete block devices are on the same bus...)
-
-Finally, the number after that signifies the partition on the device. Note that because of the rather haphazard way PCs handle partitioning, there are only four "primary" partitions, so the numbering will be slightly off from the actual count. This isn't a terrible problem as the main purpose for the naming scheme is to have a unique and recognizable identifier for each partition found in this manner.
-
 /dev/sda9 means the ninth partition on the first drive.
 
 
 
 #### Linux Logical Volume Manager (LVM)
 
-[LVM](https://en.wikipedia.org/wiki/Logical_volume_management) makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard Drive to the system. LVM does not have redundancy built in. 
+[LVM](https://en.wikipedia.org/wiki/Logical_volume_management) makes it easy to manage disk space. Especially when it comes to resizing partitions and adding another hard drive to the system. LVM does not have redundancy built-in. 
 
 https://opensource.com/business/16/9/linux-users-guide-lvm
 
@@ -154,7 +150,7 @@ It stores data [redundantly](https://medium.com/google-cloud/persistent-disks-an
 
 ### GCP Local SSD
 
-[Local SSDs](https://cloud.google.com/local-ssd) are physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
+[Local SSD](https://cloud.google.com/local-ssd) is physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
 
 ## Storage Protocols
 
