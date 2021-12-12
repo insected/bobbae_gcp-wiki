@@ -1,10 +1,4 @@
-Kubernetes security is based on the 4C’s of cloud native security: Cloud, Cluster, Container, and Code:
-
-
-- Cloud (or Corporate Datacenter/Colocation facility): The underlying physical infrastructure is the basis of Kubernetes security. Whether the cluster is built on one’s own datacenter or a cloud provider, basic cloud provider (or physical security) best practices must be observed.
-- Cluster: Securing a Kubernetes cluster involves both the configurable components such as the Kubernetes API and security of all the applications that are part of the cluster. Since most cloud-native applications are designed around microservices and APIs, applications are only as secure as the weakest link in the chain of services that comprise the entire application.
-- Container: Container design best practices consist of: starting with the smallest code base possible (excluding unnecessary libraries or functions), avoiding granting unnecessary privileges to users in the container, and ensuring that containers are scanned for vulnerabilities at build time.
-- Code: Code presents a major attack surface for any Kubernetes environment. Simple policies such as encrypting TCP using TLS handshakes, not exposing unused ports, scanning, and testing regularly can help prevent security issues from arising in a production environment.
+Kubernetes security is based on the [4C’s of cloud native security](Kubernetes provides innate security advantages. For example, application containers are typically not patched or updated — instead, container images are replaced entirely with new versions. This enables strict version control and permits rapid rollbacks if a vulnerability is uncovered in new code.).
 
 
 
@@ -16,7 +10,7 @@ https://kubernetes.io/docs/concepts/security/overview/
 
 https://www.vmware.com/topics/glossary/content/kubernetes-security
 
-Kubernetes security is important throughout the container lifecycle due to the distributed, dynamic nature of a Kubernetes cluster. Different security approaches are required for each of the three phases of an application lifecycle: build, deploy, and runtime. Kubernetes provides innate security advantages. For example, application containers are typically not patched or updated — instead, container images are replaced entirely with new versions. This enables strict version control and permits rapid rollbacks if a vulnerability is uncovered in new code.
+Kubernetes security is important throughout the container lifecycle due to the distributed, dynamic nature of a Kubernetes cluster. Different security approaches are required for each of the three phases of an application lifecycle: build, deploy, and runtime. 
 
 https://techbeacon.com/security/how-track-security-problems-your-kubernetes-deployments
 
