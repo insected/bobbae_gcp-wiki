@@ -24,7 +24,7 @@ Kubernetes is the latest open-source container manager that draws on lessons fro
 
 https://mwhittaker.github.io/papers/html/burns2016borg.html
 
-All three systems use containers for security and performance isolation. [Container](Container) technology has evolved greatly since the inception of Borg from chroot to jails to cgroups. 
+All three systems use containers for security and performance isolation. [Container](Containers) technology has evolved greatly since the inception of Borg from chroot to jails to cgroups. 
 
 https://research.google/pubs/pub44843/
 
