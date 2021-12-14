@@ -107,8 +107,9 @@ BigQuery is a fast petabyte-scale analytics database. To achieve that level of p
 
 [Shuffle](https://cloud.google.com/blog/products/bigquery/in-memory-query-execution-in-google-bigquery) is required for execution of large and complex joins, aggregations and analytic operations. 
 
+<!--
 [[https://storage.googleapis.com/gweb-cloudblog-publish/images/in-memory-query-2ntao.max-700x700.PNG]]
-
+-->
 
 [In-memory BigQuery shuffle](https://cloud.google.com/blog/products/gcp/in-memory-query-execution-in-google-bigquery) stores intermediate data produced from various stages of query processing in a set of nodes that are dedicated to hosting remote memory. 
 

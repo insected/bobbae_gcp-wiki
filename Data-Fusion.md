@@ -34,7 +34,11 @@ https://cloud.google.com/data-fusion/plugins
 
 ## Choosing Dataflow, Dataprep, Dataproc or Data Fusion
 
+<!--
 [[https://storage.googleapis.com/gweb-cloudblog-publish/images/9.19.41_AM.max-800x800.png]]
+-->
+
+https://wisdomplexus.com/blogs/dataproc-vs-dataflow-vs-dataprep/
 
 ## Agile data warehouses with BigQuery
 
