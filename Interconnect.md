@@ -23,7 +23,7 @@ Google Cloud’s VPC is a private, managed virtual network that connects VM inst
 ## Dedicated Interconnect
 
 
-<img src="https://docs.packetfabric.com/cloud/google/images/google_overview_dedicated.svg" width="600">
+
 
 Dedicated Interconnect [provides direct physical connections](https://docs.packetfabric.com/cloud/google/overview/)  between your on-premises network and Google's network. Dedicated Interconnect enables you to transfer large amounts of data between networks, which can be more cost effective than purchasing additional bandwidth over the public Internet.
 
@@ -37,7 +37,7 @@ After you create a VLAN attachment, you need to configure your on-premises route
 ## Partner Interconnect
 
 
-<img src="https://docs.packetfabric.com/cloud/google/images/google_overview_hosted.svg" width="600">
+
 
 [Partner Interconnect](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview) provides connectivity between your on-premises network and your VPC network through a supported [service provider](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/service-providers). 
 
