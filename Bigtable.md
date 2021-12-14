@@ -53,7 +53,9 @@ https://www.youtube.com/watch?v=Lq9uDOM4whI
 
 ## Architecture
 
+<!--
 <img src="https://cloud.google.com/bigtable/img/bigtable-architecture.svg" width="600">
+-->
 
 ### Wide Column Storage
 

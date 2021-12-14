@@ -6,7 +6,9 @@
 
 It is built on [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), and [Matplotlib](https://matplotlib.org/) libraries.
 
+<!--
 <img src="https://www.jeremyjordan.me/content/images/2017/05/ml_map.png" width="800">
+-->
 
 
 ### Scikit learn and TensorFlow

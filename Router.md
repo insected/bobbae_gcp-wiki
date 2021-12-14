@@ -33,7 +33,9 @@ The biggest pitfall with static routes is that they aren’t fault-tolerant. Any
 
 If routers are purely static, they have no way of choosing a better route if a link becomes unavailable. They have no way to intelligently share information between one another to advertise alternative routes. Simply stated, static routes are great for stable networks that don’t change.
 
+<!--
 <img src="https://miro.medium.com/max/5400/1*yZclHkU5wb-xTGj8fhb24w.png" width="500">
+-->
 
 
 Instead of a static routing table, dynamic routers advertise their routes to other routers, meaning they exchange information. 
