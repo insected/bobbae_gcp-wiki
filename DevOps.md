@@ -94,8 +94,9 @@ https://cloud.google.com/architecture/partners/a-hybrid-cloud-native-devsecops-p
 https://www.qwiklabs.com/quests/141
 
 
-
+<!--
 ### SRE, SLI, SLA, SLO
 
 
 https://www.qwiklabs.com/focuses/4186?parent=catalog
+-->
