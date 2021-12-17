@@ -600,3 +600,9 @@ https://github.com/EbookFoundation/free-programming-books
 ## Use cases
 
 https://cloud.google.com/blog/topics/startups/checkout-experiences-for-merchants-enhanced-with-new-solution
+
+## Learn X in Y
+
+https://learnxinyminutes.com
+
+## 
