@@ -24,7 +24,7 @@ By design, a [container is immutable](https://cloud.google.com/architecture/best
 
 ## Borg
 
-Google  infrastructure is containerized, using a cluster management system called [Borg](https://research.google.com/pubs/pub43438.html?hl=es). We run hundreds of thousands of jobs from many different applications, across multiple clusters, each with up to tens of thousands of machines.
+Google  infrastructure is containerized, using a cluster management system called [Borg](https://research.google.com/pubs/pub43438.html?hl=es) and [Omega](https://queue.acm.org/detail.cfm?id=2898444).
 
 ## Container runtimes
 
