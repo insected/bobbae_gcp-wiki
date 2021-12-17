@@ -5,6 +5,10 @@ https://martinfowler.com/articles/microservices.html
 
 ## Benefits
 
+
+https://blog.dreamfactory.com/7-key-benefits-of-microservices/
+
+
 https://aws.amazon.com/microservices/
 
 ## Variant of SOA
