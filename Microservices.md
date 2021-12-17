@@ -21,3 +21,7 @@ https://en.m.wikipedia.org/wiki/Service-oriented_architecture
 https://arnoldgalovics.com/microservices-in-production
 
 https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/
+
+## Service mesh
+
+https://cloud.google.com/architecture/service-meshes-in-microservices-architecture
