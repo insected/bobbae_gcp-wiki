@@ -34,7 +34,7 @@ The container runtime is the software that is responsible for running containers
 
 ## Containers vs. VMs
 
-[Virtual machines](VM) and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them yet another tool to help streamline software development.
+[Virtual machines](VM) and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances. Containers’ speed, agility, and portability make them another tool to help streamline software development.
 
 
 
@@ -48,6 +48,6 @@ https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-contai
 
 ## Different ways to run containers in GCP
 
-Find out the top three ways you can run your containers on Google Cloud! Google Kubernetes Engine for a container orchestration solution, Cloud Run for a fully serverless approach and Compute Engine to use Virtual Machines.
+
 
 [https://www.youtube.com/watch?v=jh0fPT-AWwM](https://www.youtube.com/watch?v=jh0fPT-AWwM)
