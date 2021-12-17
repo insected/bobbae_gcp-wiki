@@ -24,4 +24,6 @@ https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/
 
 ## Service mesh
 
+A [service mesh](service-mesh) is a platform layer on top of the infrastructure layer that enables managed, observable, and secure communication between individual services.
+
 https://cloud.google.com/architecture/service-meshes-in-microservices-architecture
