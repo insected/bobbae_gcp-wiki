@@ -422,6 +422,28 @@ https://github.com/veeral-patel/how-to-secure-anything
 
 https://cloud.google.com/blog/products/identity-security/coin-mining-ransomware-apts-target-cloud-gcat-report
 
+## Famous security vulnerability
+
+###  Log4j
+
+https://security.googleblog.com/2021/12/improving-oss-fuzz-and-jazzer-to-catch.html
+
+### Solarwinds
+
+https://www.microsoft.com/security/blog/2021/09/02/a-deep-dive-into-the-solarwinds-serv-u-ssh-vulnerability/
+
+### Stuxnet
+
+https://en.m.wikipedia.org/wiki/Stuxnet
+
+### DigiNotar
+
+https://en.m.wikipedia.org/wiki/DigiNotar
+
+### Npm
+
+https://snyk.io/vuln/npm:npm
+
 ## Qwiklabs
 
 ### Cloud KMS
