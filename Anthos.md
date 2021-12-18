@@ -50,11 +50,11 @@ GKE on-prem is hybrid cloud software that brings Google Kubernetes Engine (GKE) 
 
 ### Anthos Config Management
 
-Anthos Config Management is a key component of Anthos. With Anthos Config Management, you can create a common configuration across all your infrastructure, including custom policies, and apply it both on-premises and in the cloud. Anthos Config Management evaluates changes and rolls them out to all Kubernetes clusters so that your desired state is always reflected.
+Anthos Config Management is a key component of Anthos. With Anthos Config Management, you can create a common configuration across all your infrastructure, including custom policies, and apply it both on-premises and in the cloud. 
 
 [https://cloud.google.com/anthos-config-management/docs](https://cloud.google.com/anthos-config-management/docs)
 
-Learn how you can manage your Anthos deployments at scale, using Anthos Config Management.
+https://cloud.google.com/blog/products/containers-kubernetes/let-kubernetes-automate-your-configs-and-policies-with-acm
 
 [https://www.youtube.com/watch?v=nhXJzjITgMA](https://www.youtube.com/watch?v=nhXJzjITgMA)
 
