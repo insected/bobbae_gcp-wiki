@@ -4,7 +4,9 @@
 
 https://cloud.google.com/functions/docs/quickstart
 
+### Cloud Functions vs Cloud Run
 
+https://towardsdatascience.com/understand-and-compare-cloud-functions-vs-cloud-run-5afc2beb2fb
 
 ### Execution environment
 
