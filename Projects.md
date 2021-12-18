@@ -4,6 +4,10 @@
 
 https://medium.com/ezjobs/ez-jobs-the-not-so-easy-process-of-making-job-applications-easy-481e61fa25e7
 
+### Firestore and BigQuery and automatically updating graph
+
+https://medium.com/geekculture/how-to-create-a-graph-that-automatically-updates-data-on-the-web-using-firestore-bigquery-data-b61440a6a28e
+
 ### Rube Goldberg Record Player
 
 http://record-player.glitch.me/auth
