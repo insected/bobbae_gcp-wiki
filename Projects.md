@@ -8,6 +8,11 @@ https://medium.com/ezjobs/ez-jobs-the-not-so-easy-process-of-making-job-applicat
 
 http://record-player.glitch.me/auth
 
+### Twitter dashboard with bubble
+
+https://aurelienroblin.medium.com/build-a-twitter-dashboard-with-bubble-python-cloud-function-f6d47161b994
+
+
 ### Battlesnake
 
 https://play.battlesnake.com/
