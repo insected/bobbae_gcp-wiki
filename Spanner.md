@@ -264,6 +264,11 @@ https://cloud.google.com/blog/products/databases/dating-app-lovoo-scales-the-lov
 
 https://cloud.google.com/blog/topics/developers-practitioners/scale-your-ruby-applications-active-record-support-cloud-spanner
 
+### Spanner dialect for SQLAlchemy
+
+https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-spanner-dialect-sqlalchemy
+
+
 ## Qwiklabs
 
 
