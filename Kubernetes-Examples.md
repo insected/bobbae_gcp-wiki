@@ -43,3 +43,6 @@ This video shows how to work with Namespaces and how they can help you manage yo
 
 [https://www.youtube.com/watch?v=mxEvAPQRwhw](https://www.youtube.com/watch?v=mxEvAPQRwhw)
 
+### Deploying a Go API via Terraform
+
+https://medium.com/google-cloud/deploy-a-go-api-to-google-kubernetes-engine-via-terraform-bb3eb7a479a4
