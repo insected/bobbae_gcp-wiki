@@ -6,3 +6,7 @@ Bare Metal Solution is a managed solution that provides purpose-built HPE or Ato
 ## Setting up Bare Metal Solution
 
 https://cloud.google.com/bare-metal/docs/bms-setup
+
+## Egressing from Google Bare Metal Solution
+
+https://medium.com/google-cloud/deploy-a-go-api-to-google-kubernetes-engine-via-terraform-bb3eb7a479a4
