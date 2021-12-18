@@ -6,14 +6,11 @@
 https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 
-
-## Comparisons
-
-https://dzone.com/articles/cloud-data-warehouse-comparison-redshift-vs-bigque
-
 ## Overview
 
 https://medium.com/@knoldus/google-bigquery-an-introduction-to-big-data-analytics-platform-43a8935b69f3
+
+
 
 ## Architecture
 
@@ -170,6 +167,14 @@ When evaluating the computation that is required by a query, consider the [amoun
 
 When [evaluating your output data](https://cloud.google.com/bigquery/docs/best-practices-performance-output), consider the number of bytes written by your query. How many bytes are written for your result set? Are you properly limiting the amount of data written? Are you repeatedly writing the same data? The amount of data written by a query impacts query performance (I/O). If you are writing results to a permanent (destination) table, the amount of data written also has a cost.
 
+## Comparisons
+
+https://dzone.com/articles/cloud-data-warehouse-comparison-redshift-vs-bigque
+
+
+### Migration from Redshift to BigQuery
+
+https://medium.com/99dotco/a-migration-misstep-from-redshift-to-bigquery-13e9000c3f50
 
 ## Using BigQuery
 
