@@ -422,7 +422,7 @@ https://github.com/veeral-patel/how-to-secure-anything
 
 https://cloud.google.com/blog/products/identity-security/coin-mining-ransomware-apts-target-cloud-gcat-report
 
-## Famous security vulnerability
+## Famous security vulnerabilities
 
 ###  Log4j
 
@@ -435,6 +435,15 @@ https://www.microsoft.com/security/blog/2021/09/02/a-deep-dive-into-the-solarwin
 ### Stuxnet
 
 https://en.m.wikipedia.org/wiki/Stuxnet
+
+### Shellshock
+
+https://en.m.wikipedia.org/wiki/Shellshock_(software_bug)
+
+
+### Heart bleed
+
+https://heartbleed.com/
 
 ### DigiNotar
 
