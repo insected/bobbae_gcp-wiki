@@ -76,6 +76,10 @@ https://cloud.google.com/build/docs/automating-builds/create-manage-triggers
 https://cloud.google.com/build/docs/automating-builds/build-repos-from-github
 
 
+### Enabling keyless authentication from github actions
+
+https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions
+
 ### Mirroring a repository
 
 https://cloud.google.com/source-repositories/docs/mirroring-repositories
