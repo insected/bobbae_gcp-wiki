@@ -1,5 +1,9 @@
 ## Project ideas
 
+### EZ-Jobs
+
+https://medium.com/ezjobs/ez-jobs-the-not-so-easy-process-of-making-job-applications-easy-481e61fa25e7
+
 ### Rube Goldberg Record Player
 
 http://record-player.glitch.me/auth
