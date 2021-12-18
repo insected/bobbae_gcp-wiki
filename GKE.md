@@ -2,6 +2,9 @@
 
 [Kubernetes](Kubernetes)  is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. 
 
+https://cloud.google.com/blog/products/containers-kubernetes/the-rise-and-future-of-kubernetes-and-open-source-at-google
+
+
 ## Google Kubernetes Engine (GKE)
 
 [GKE](https://cloud.google.com/kubernetes-engine) is Secured and fully managed [Kubernetes](Kubernetes) service with revolutionary [autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview) mode of operation.
