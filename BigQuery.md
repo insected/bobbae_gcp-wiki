@@ -11,6 +11,10 @@ https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
 
 https://dzone.com/articles/cloud-data-warehouse-comparison-redshift-vs-bigque
 
+## Overview
+
+https://medium.com/@knoldus/google-bigquery-an-introduction-to-big-data-analytics-platform-43a8935b69f3
+
 ## Architecture
 
 
