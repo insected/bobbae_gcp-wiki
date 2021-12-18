@@ -260,6 +260,9 @@ https://eng.uber.com/building-ubers-fulfillment-platform/
 
 https://cloud.google.com/blog/products/databases/dating-app-lovoo-scales-the-love-on-cloud-spanner
 
+### Ruby active record support for Spanner
+
+https://cloud.google.com/blog/topics/developers-practitioners/scale-your-ruby-applications-active-record-support-cloud-spanner
 
 ## Qwiklabs
 
