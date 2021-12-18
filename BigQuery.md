@@ -670,6 +670,11 @@ https://medium.com/policygenius-stories/building-a-data-warehouse-on-google-clou
 
 https://medium.com/sardineai/open-sourcing-protobuf-to-bigquery-converter-c9168046b36b
 
+### Retrieve BigQuery history
+
+https://towardsdev.com/retrieve-your-bigquery-query-history-with-nodejs-sdk-6671dc5be503
+
+
 ## Qwiklabs
 
 
