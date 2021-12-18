@@ -6,6 +6,8 @@ The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is wh
 
 [General AI]( https://www.mckinsey.com/business-functions/operations/our-insights/an-executive-primer-on-artificial-general-intelligence# ) is very different, and is the type of adaptable intellect found in humans, a flexible form of intelligence capable of learning how to carry out vastly different tasks, anything from haircutting to building spreadsheets, or reasoning about a wide variety of topics based on its accumulated experience. 
 
+https://cloud.google.com/blog/topics/developers-practitioners/ai-all-humans-course-delight-and-inspire
+
 
 https://github.com/amusi/awesome-ai-awesomeness
 
