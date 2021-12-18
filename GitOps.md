@@ -34,7 +34,7 @@ https://www.cncf.io/blog/2020/12/17/solving-configuration-drift-using-gitops-wit
 
 https://www.kubestack.com/catalog/argo-cd
 
-### Argo CD vs Flux
+### Argo CD and Flux
 
 https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/
 
