@@ -308,6 +308,30 @@ https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-st
 
 ## Examples
 
+### Creating a VM
+
+#### Create a VM using GCP Console
+
+https://cloud.google.com/compute/docs/instances/create-start-instance
+
+#### Create a VM using gcloud CLI
+
+https://cloud.google.com/compute/docs/instances/create-start-instance#gcloud
+
+#### Create a VM using REST API
+
+https://cloud.google.com/compute/docs/instances/create-start-instance#startinstanceapi
+
+#### Create a VM using Python 
+
+https://cloud.google.com/compute/docs/instances/create-start-instance#python
+
+
+#### Create a VM using Terraform
+
+https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
+
+
 ### Terraform Cloud Foundation Fabric Examples
 
 https://vaishnavi-amirapu-83592.medium.com/terraform-cft-for-gcp-664fa3c68ae3
