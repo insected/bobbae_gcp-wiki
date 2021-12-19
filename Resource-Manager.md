@@ -1,9 +1,7 @@
 
-The [Resource Manager](https://cloud.google.com/ntresource-manager/docs) API enables you to programmatically manage these container resources.
+The [Resource Manager](https://cloud.google.com/resource-manager/docs)  provides container resources such as organizations and projects that allow you to group and hierarchically organize other Google Cloud resources.
 
 
-
-Google Cloud provides container resources such as organizations and projects that allow you to group and hierarchically organize other Google Cloud resources. This hierarchical organization helps you manage common aspects of your resources, such as [access control](Access-Control) and configuration settings. 
 
 Setting up your Google Cloud Platform resources correctly can save you a lot of trouble down the road. 
 
@@ -16,6 +14,8 @@ Folders are a powerful tool for administering GCP resources in Cloud Resource Ma
 ### Organizational Policy
 
 https://cloud.google.com/resource-manager/docs/organization-policy/overview
+
+
 
 #### Default Guide
 
