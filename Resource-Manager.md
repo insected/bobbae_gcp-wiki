@@ -15,7 +15,9 @@ Folders are a powerful tool for administering GCP resources in Cloud Resource Ma
 
 https://cloud.google.com/resource-manager/docs/organization-policy/overview
 
+### Examples
 
+https://cloud.google.com/resource-manager/docs/how-to
 
 #### Default Guide
 
