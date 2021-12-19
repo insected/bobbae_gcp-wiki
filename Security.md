@@ -449,6 +449,11 @@ https://heartbleed.com/
 
 https://en.m.wikipedia.org/wiki/DigiNotar
 
+
+### Joker
+
+https://arstechnica.com/information-technology/2021/12/google-removes-malicious-app-that-infected-500000-google-play-users/
+
 ### Npm
 
 https://snyk.io/vuln/npm:npm
