@@ -7,6 +7,17 @@ Cloud [Bigtable](https://cloud.google.com/bigtable/docs)  is Google's [NoSQL Big
 
 https://cloud.google.com/bigtable/docs/overview
 
+## Scalable Key-value store
+
+Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, [SSTable](https://etcnotes.com/posts/sstable-and-lsm/) (log-structured storage like LevelDB) and a few other Google technologies.  Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
+
+[https://cloud.google.com/bigtable/docs](https://cloud.google.com/bigtable/docs)
+
+## History and Usage
+
+Bigtable development began in 2004 and is now used by a number of Google applications, such as web indexing, MapReduce, which is often used for generating and modifying data stored in Bigtable, Google Maps, Google Book Search, "My Search History", Google Earth, Blogger.com, Google Code hosting, YouTube, and Gmail. Google's reasons for developing its own database include scalability and better control of performance characteristics.
+
+https://www.youtube.com/watch?v=Lq9uDOM4whI
 
 ## HBase tutorial
 
@@ -39,17 +50,6 @@ https://cloud.google.com/bigtable/docs/installing-hbase-shell
 
 https://cloud.google.com/bigtable/docs/quickstart-hbase
 
-## Scalable Key-value store
-
-Bigtable is a compressed, high performance, proprietary data storage system built on Google File System, Chubby Lock Service, [SSTable](https://etcnotes.com/posts/sstable-and-lsm/) (log-structured storage like LevelDB) and a few other Google technologies.  Bigtable also underlies Google Cloud Datastore, which is available as a part of the Google Cloud Platform.
-
-[https://cloud.google.com/bigtable/docs](https://cloud.google.com/bigtable/docs)
-
-## History and Usage
-
-Bigtable development began in 2004 and is now used by a number of Google applications, such as web indexing, MapReduce, which is often used for generating and modifying data stored in Bigtable, Google Maps, Google Book Search, "My Search History", Google Earth, Blogger.com, Google Code hosting, YouTube, and Gmail. Google's reasons for developing its own database include scalability and better control of performance characteristics.
-
-https://www.youtube.com/watch?v=Lq9uDOM4whI
 
 ## Architecture
 
@@ -64,7 +64,7 @@ Bigtable is one of the prototypical examples of a wide column store. It maps two
 
 ### Scale
 
-Bigtable is designed to scale into the petabyte range across hundreds or thousands of machines, and to make it easy to add more machines  the system and automatically start taking advantage of those resources without any reconfiguration.
+Bigtable is designed to scale into the petabyte range across hundreds or thousands of machines, and to make it easy to add more machines to the system and automatically start taking advantage of those resources without any reconfiguration.
 
 
 ### Storing a copy of the Web
@@ -95,11 +95,11 @@ https://cloud.google.com/bigtable/docs/backups
 
 Bigtable's powerful back-end servers offer several key advantages over a self-managed HBase installation.
 
-## Incredible scalability
+### Incredible scalability
 
 Bigtable scales in direct proportion to the number of machines in your cluster. A self-managed HBase installation has a design bottleneck that limits the performance after a certain threshold is reached. Bigtable does not have this bottleneck, so you can scale your cluster up to handle more reads and writes.
 
-## Simple administration
+### Simple administration
 
 Bigtable handles upgrades and restarts transparently, and it automatically maintains high data durability. To replicate your data, add a second cluster to your instance, and replication starts automatically. No more managing replicas or regions; just design your table schemas, and Bigtable will handle the rest for you.
 
@@ -137,12 +137,12 @@ Bigtable supports up to 4 replicated clusters located in Google Cloud zones wher
 https://cloud.google.com/bigtable/docs/replication-overview
 
 
-## Cluster resizing without downtime
+### Cluster resizing without downtime
 
 You can increase the size of a Bigtable cluster for a few hours to handle a large load, then reduce the cluster's size again—all without any downtime. After you change a cluster's size, it typically takes just a few minutes under load for Bigtable to balance performance across all of the nodes in your cluster.
 
 
-## What it's good for
+### What it's good for
 
 Bigtable is ideal for applications that need very high throughput and scalability for key/value data, where each value is typically no larger than 10 MB. Bigtable also excels as a storage engine for batch MapReduce operations, stream processing/analytics, and machine-learning applications.
 
@@ -154,7 +154,7 @@ You can use Bigtable to store and query all of the following types of data:
 * Internet of Things data, such as usage reports from energy meters and home appliances.
 * Graph data, such as information about how users are connected to one another.
 
-## Bigtable storage model
+### Bigtable storage model
 
 
 ### Tables
@@ -173,7 +173,7 @@ When Table size threaten to grow beyond a specified limit, the tablets may be co
 The locations in the GFS of tablets are recorded as database entries in multiple special tablets, which are called "META1" tablets. META1 tablets are found by querying the single "META0" tablet, which typically resides on a server of its own since it is often queried by clients as to the location of the "META1" tablet which itself has the answer to the question of where the actual data is located. Like GFS's master server, the META0 server is not generally a bottleneck since the processor time and bandwidth necessary to discover and transmit META1 locations is minimal and clients aggressively cache locations to minimize queries.
 
 
-## Schema design
+### Schema design
 
 [Designing a Bigtable schema]( https://cloud.google.com/bigtable/docs/schema-design  ) is different than designing a schema for a relational database. In Bigtable, a schema is a blueprint or model of a table, including the structure of the following table components:
 
@@ -211,7 +211,7 @@ There are [different schema design patterns]( https://cloud.google.com/bigtable/
 
 
 
-## Key Visualizer
+### Key Visualizer
 
 
 [Key Visualizer]( https://cloud.google.com/bigtable/docs/keyvis-overview ) is a tool that helps you analyze your Bigtable usage patterns. It generates visual reports for your tables that break down your usage based on the row keys that you access.
@@ -253,25 +253,24 @@ Why and how Spotify migrated some of their workloads, and how they built an auto
 
 [https://www.youtube.com/watch?v=Hfd3VZOYXNU](https://www.youtube.com/watch?v=Hfd3VZOYXNU)
 
-## Global Data Services with Bigtable
+### Global Data Services with Bigtable
 
 [https://www.youtube.com/watch?v=dHr707_6woY](https://www.youtube.com/watch?v=dHr707_6woY)
 
-## Bigtable and Spanner
+### Bigtable and Spanner
 
 [https://www.youtube.com/watch?v=_Qm0eopwjG0](https://www.youtube.com/watch?v=_Qm0eopwjG0)
 
-## Bigtable emulator
+### Bigtable emulator
 
 https://cloud.google.com/bigtable/docs/emulator
 
-## Music Recommendation
+### Music Recommendation
 
 https://www.youtube.com/watch?v=807uHC0Ia10
 
-## HBase
+### HBase
 
-This page lists differences between Bigtable and HBase. 
 
 [https://cloud.google.com/bigtable/docs/hbase-differences](https://cloud.google.com/bigtable/docs/hbase-differences)
 
@@ -281,22 +280,22 @@ https://codelabs.developers.google.com/codelabs/cloud-bigtable-intro-java/index.
 
 
 
-## SSTable, LSM Tree, LevelDB
+### SSTable, LSM Tree, LevelDB
 
 [https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/)
 
 https://etcnotes.com/posts/sstable-and-lsm/
 
-## Querying from BigQuery
+### Querying from BigQuery
 
 https://cloud.google.com/bigquery/external-data-bigtable
 
-## Comparison to DynamoDB, CosmosDB, Datastore
+### Comparison to DynamoDB, CosmosDB, Datastore
 
 https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb-vs-cosmos-db-vs-cloud-datastore-and-bigtable
 
 
-## Billions of events at Twitter
+### Billions of events at Twitter
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
 
