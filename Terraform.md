@@ -122,10 +122,6 @@ https://learn.hashicorp.com/tutorials/terraform/provider-debug
 
 
 
-
-
-## Tutorials
-
 ### Getting Started on GCP with terraform
 
 [https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform)
@@ -151,8 +147,8 @@ https://cloud.google.com/architecture/provisioning-anthos-clusters-with-terrafor
 https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform
 
 Discuss whether the project is the right unit of delivery.  There are resources that are bound to the projects.
-Is it wise to have a long running project that must be kept alive for months or years? When can one delete such a project?
-Are there any resources that can only be removed when project is removed?  (Hint: dataflow jobs, firestore database, scattered IAM service accounts, ... ).  What does it mean to deliver terraform for resources inside a project?   Should the unit of delivery be at a minimum the whole project?
+Is it wise to have a long-running project that must be kept alive for months or years? When can one delete such a project?
+Are there any resources that can only be removed when the project is removed?  (Hint: dataflow jobs, Firestore database, scattered IAM service accounts, ... ).  What does it mean to deliver terraform for resources inside a project?   Should the unit of delivery be at a minimum the whole project?
 
 
 https://github.com/GoogleCloudPlatform/community/tree/master/tutorials/managing-gcp-projects-with-terraform
