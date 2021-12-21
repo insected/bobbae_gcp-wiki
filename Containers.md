@@ -22,7 +22,7 @@ By design, a [container is immutable](https://cloud.google.com/architecture/best
 
 [Container images](https://phoenixnap.com/kb/docker-image-vs-container) use [Union Filesystems](https://en.wikipedia.org/wiki/UnionFS). In Linux, docker originally use AUFS but they use OverlayFS now.  The details of union filesystem use in docker container images can be found at https://martinheinz.dev/blog/44.
 
-## Borg
+## Borg and Omega
 
 Google  infrastructure is containerized, using a cluster management system called [Borg](https://research.google.com/pubs/pub43438.html?hl=es) and [Omega](https://queue.acm.org/detail.cfm?id=2898444).
 
@@ -57,3 +57,4 @@ https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-contai
 
 https://medium.com/@BeNitinAgarwal/docker-containers-filesystem-demystified-b6ed8112a04a
 
+https://blogs.cisco.com/developer/container-image-layers-1
