@@ -51,3 +51,9 @@ https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-contai
 
 
 [https://www.youtube.com/watch?v=jh0fPT-AWwM](https://www.youtube.com/watch?v=jh0fPT-AWwM)
+
+
+## Docker image and layered filesystem
+
+https://medium.com/@BeNitinAgarwal/docker-containers-filesystem-demystified-b6ed8112a04a
+
