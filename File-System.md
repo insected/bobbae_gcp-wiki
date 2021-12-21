@@ -42,7 +42,17 @@ You might also wonder whether ext4 is still in active development at all, given 
 https://www.salvagedata.com/btrfs-zfs-xfs-ext4-how-are-they-different/
 
 
+### Layered filesystem AuFS
 
+https://medium.com/@BeNitinAgarwal/docker-containers-filesystem-demystified-b6ed8112a04a
+
+### Using ZFS snapshot to run FreeBSD jail
+
+https://www.cyberciti.biz/faq/configuring-freebsd-12-vnet-jail-using-bridgeepair-zfs/
+
+### WAFL
+
+https://en.m.wikipedia.org/wiki/Write_Anywhere_File_Layout
 
 ### Flash file systems
 
