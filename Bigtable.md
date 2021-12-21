@@ -19,9 +19,19 @@ Bigtable development began in 2004 and is now used by a number of Google applica
 
 https://www.youtube.com/watch?v=Lq9uDOM4whI
 
-## HBase tutorial
+### Quickstart using the cbt
 
-https://www.guru99.com/hbase-tutorials.html
+https://cloud.google.com/bigtable/docs/quickstarts
+
+### Quickstart using HBase shell
+
+https://cloud.google.com/bigtable/docs/installing-hbase-shell
+
+## Bigtable basics
+
+https://medium.com/google-cloud/getting-started-with-bigtable-on-gcp-adfb896e0b26
+
+
 
 
 ### Migrating from HBase to Big table
@@ -40,13 +50,9 @@ https://cloud.google.com/bigtable/docs/samples
 https://cloud.google.com/bigtable/docs/quickstarts
 
 
-### Quickstart using the cbt
+## HBase tutorial
 
-https://cloud.google.com/bigtable/docs/quickstarts
-
-### Quickstart using HBase shell
-
-https://cloud.google.com/bigtable/docs/installing-hbase-shell
+https://www.guru99.com/hbase-tutorials.html
 
 https://cloud.google.com/bigtable/docs/quickstart-hbase
 
