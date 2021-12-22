@@ -75,6 +75,9 @@ The [Open Compute Project](https://www.opencompute.org/) (OCP) is a collaborativ
 
 https://medium.datadriveninvestor.com/a-multi-cloud-and-multi-cluster-architecture-with-kubernetes-cb3abe554948
 
+### Kubernetes portability
+
+https://diginomica.com/kubernetes-and-misconception-multi-cloud-portability
 
 ### D2IQ DKP
 
