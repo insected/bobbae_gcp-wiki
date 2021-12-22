@@ -56,3 +56,6 @@ Security Identifier (commonly abbreviated SID) is a unique, immutable identifier
 
 https://en.wikipedia.org/wiki/Security_Identifier
 
+## Federating  Active Directory with GCP Cloud Identity with GCDS
+
+https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-synchronizing-user-accounts
