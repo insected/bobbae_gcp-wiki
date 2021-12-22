@@ -4,6 +4,29 @@ A [data lake](https://en.m.wikipedia.org/wiki/Data_lake) is a centralized reposi
 
 https://cloud.google.com/learn/what-is-a-data-lake
 
+https://www.guru99.com/data-lake-architecture.html
+
+## Data lake vs Data warehouse
+
+https://www.guru99.com/data-lake-vs-data-warehouse.html
+
+## Business Intelligence
+
+https://www.guru99.com/business-intelligence-definition-example.html
+
+## Data Mining
+
+https://www.guru99.com/data-mining-tutorial.html
+
+## Data stage
+
+https://www.guru99.com/datastage-tutorial.html
+
+## Data reconciliation
+
+https://www.guru99.com/what-is-data-reconciliation.html
+
+
 
 ## Data lake modernization
 
