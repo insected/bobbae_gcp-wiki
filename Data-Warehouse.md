@@ -5,9 +5,19 @@ https://cloud.google.com/learn/what-is-a-data-warehouse
 
 https://www.astera.com/type/blog/data-warehouse-concepts/
 
-## Inmon or Kimball
+https://www.guru99.com/data-warehouse-architecture.html
 
-https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse
+## ELT vs ETL
+
+https://www.guru99.com/etl-vs-elt.html
+
+## OLAP vs OLTP
+
+https://www.guru99.com/oltp-vs-olap.html
+
+## Dimensional modeling
+
+https://www.guru99.com/dimensional-model-data-warehouse.html
 
 
 https://www.advancinganalytics.co.uk/blog/2019/6/17/is-kimball-still-relevant-in-the-modern-data-warehouse
@@ -15,6 +25,12 @@ https://www.advancinganalytics.co.uk/blog/2019/6/17/is-kimball-still-relevant-in
 ## Star and Snowflake
 
 https://www.guru99.com/star-snowflake-data-warehousing.html
+
+
+## Inmon or Kimball
+
+https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse
+
 
 ## BigQuery
 
