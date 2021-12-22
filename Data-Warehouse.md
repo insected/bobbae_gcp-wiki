@@ -9,6 +9,13 @@ https://www.astera.com/type/blog/data-warehouse-concepts/
 
 https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse
 
+
+https://www.advancinganalytics.co.uk/blog/2019/6/17/is-kimball-still-relevant-in-the-modern-data-warehouse
+
+## Star and Snowflake
+
+https://www.guru99.com/star-snowflake-data-warehousing.html
+
 ## BigQuery
 
 Learn about [BigQuery](BigQuery), Google Cloud’s modern and [serverless](serverless) data warehousing solution.
