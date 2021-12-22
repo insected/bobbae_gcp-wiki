@@ -15,6 +15,10 @@ https://www.guru99.com/etl-vs-elt.html
 
 https://www.guru99.com/oltp-vs-olap.html
 
+## Fact table vs Dimension table
+
+https://www.guru99.com/fact-table-vs-dimension-table.html
+
 ## Dimensional modeling
 
 https://www.guru99.com/dimensional-model-data-warehouse.html
@@ -41,3 +45,16 @@ Learn about [BigQuery](BigQuery), Google Cloud’s modern and [serverless](serve
 A [data lake](data-lake) is a centralized repository designed to store, process, and secure large amounts of structured, semistructured, and unstructured data. It can store data in its native format and process any variety of it, ignoring size limits.
 
 https://www.guru99.com/data-lake-architecture.html
+
+## Data warehousing tools
+
+https://www.guru99.com/top-20-etl-database-warehousing-tools.html
+
+## ETL Tools
+
+https://www.guru99.com/best-etl-tools.html
+
+## Data integration tools
+
+https://www.guru99.com/data-integration-tools.html
+
