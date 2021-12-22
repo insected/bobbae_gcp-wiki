@@ -54,6 +54,8 @@ https://www.guru99.com/top-20-etl-database-warehousing-tools.html
 
 https://www.guru99.com/best-etl-tools.html
 
+https://www.guru99.com/etl-testing-tools.html
+
 ## Data integration tools
 
 https://www.guru99.com/data-integration-tools.html
