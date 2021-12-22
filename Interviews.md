@@ -71,7 +71,7 @@ https://www.wisdomjobs.com/e-university/all-skillsets-interview-questions.html
 
 ## General Computer Science
 
-https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/amp/
+https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/
 
 https://www.guru99.com/computer-science-interview-questions.html
 

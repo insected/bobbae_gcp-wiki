@@ -277,7 +277,8 @@ https://cloud.google.com/blog/products/storage-data-transfer/dr-in-google-cloud-
 
 ## Folders vs. buckets and generation gap
 
-https://www.theverge.com/platform/amp/22684730/students-file-folder-directory-structure-education-gen-z
+
+https://futurism.com/the-byte/gen-z-kids-file-systems
 
 ## Backblaze Storage Pods
 

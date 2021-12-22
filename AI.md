@@ -224,7 +224,7 @@ https://pages.gseis.ucla.edu/faculty/agre/bar-code.html
 
 ### War
 
-https://amp.theatlantic.com/amp/article/620013/
+https://theatlantic.com/amp/article/620013/
 
 ## Causation & correlation
 
