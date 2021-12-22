@@ -71,5 +71,20 @@ The [Open Compute Project](https://www.opencompute.org/) (OCP) is a collaborativ
 
 [Collie](https://github.com/meshcloud/collie-cli) helps you get an overview over multiple cloud accounts.
 
+## Kubernetes based multi cloud
 
+https://medium.datadriveninvestor.com/a-multi-cloud-and-multi-cluster-architecture-with-kubernetes-cb3abe554948
+
+
+### D2IQ DKP
+
+https://d2iq.com/kubernetes-platform
+
+### Kosmos
+
+https://blog.scaleway.com/k8s-multi-cloud/
+
+### Platform 9
+
+https://platform9.com/
 
