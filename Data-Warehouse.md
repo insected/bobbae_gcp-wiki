@@ -2,6 +2,10 @@ A [data warehouse](https://www.talend.com/resources/what-is-data-warehouse/) is 
 
 
 https://cloud.google.com/learn/what-is-a-data-warehouse
+ 
+## Inmon or Kimball
+
+https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse
 
 ## BigQuery
 
