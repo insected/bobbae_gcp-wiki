@@ -7,6 +7,13 @@ https://www.astera.com/type/blog/data-warehouse-concepts/
 
 https://www.guru99.com/data-warehouse-architecture.html
 
+## Data modeling
+
+https://www.guru99.com/database-design.html
+
+https://www.guru99.com/data-modeling-tools-design-database.html
+
+
 ## ELT vs ETL
 
 https://www.guru99.com/etl-vs-elt.html
