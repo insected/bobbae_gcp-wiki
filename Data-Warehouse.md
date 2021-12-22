@@ -2,7 +2,9 @@ A [data warehouse](https://www.talend.com/resources/what-is-data-warehouse/) is 
 
 
 https://cloud.google.com/learn/what-is-a-data-warehouse
- 
+
+https://www.astera.com/type/blog/data-warehouse-concepts/
+
 ## Inmon or Kimball
 
 https://www.computerweekly.com/tip/Inmon-or-Kimball-Which-approach-is-suitable-for-your-data-warehouse
