@@ -1,4 +1,7 @@
-Google [Identity](https://developers.google.com/identity) enables users to sign into apps and authorize apps to use Google services.
+Google [Cloud Identity](https://developers.google.com/identity) enables users to sign into apps and authorize apps to use Google services.
+
+
+https://cloud.google.com/identity/docs/overview
 
 [Identity-based security](https://en.wikipedia.org/wiki/Identity-based_security) is a type of security that focuses on access to digital information or services based on the authenticated identity of an individual.  
 
