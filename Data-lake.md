@@ -14,6 +14,9 @@ https://www.guru99.com/data-lake-vs-data-warehouse.html
 
 https://www.guru99.com/business-intelligence-definition-example.html
 
+https://www.guru99.com/business-intelligence-tools.html
+
+
 ## Data Mining
 
 https://www.guru99.com/data-mining-tutorial.html
