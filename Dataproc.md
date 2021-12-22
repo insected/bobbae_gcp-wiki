@@ -1,4 +1,10 @@
-[Dataproc](https://cloud.google.com/dataproc/docs) is a managed [Apache Spark](Spark) and [Apache Hadoop](Hadoop) service that lets you take advantage of open source data tools for [batch processing](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example), [querying](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc), [streaming](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub), and [machine learning](https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml). 
+[Dataproc](https://cloud.google.com/dataproc/docs) is a managed service that can run [Apache Spark](Spark), [Apache Hadoop](Hadoop), [Apache Flink](https://flink.apache.org/), [Presto](https://prestodb.io/), and 30+ open source tools and frameworks for [batch processing](https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-mapreduce-example), [querying](https://cloud.google.com/dataproc/docs/tutorials/presto-dataproc), [streaming](https://cloud.google.com/architecture/using-apache-spark-dstreams-with-dataproc-and-pubsub), data lake modernization, ETL, secure data science [machine learning](https://cloud.google.com/dataproc/docs/tutorials/bigquery-sparkml). 
+
+## Quickstarts
+
+https://cloud.google.com/dataproc/docs/quickstarts
+
+https://codelabs.developers.google.com/codelabs/cloud-dataproc-gcloud
 
 ## Migrating Hadoop to Dataproc
 
