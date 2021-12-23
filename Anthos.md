@@ -122,6 +122,14 @@ https://cloud.google.com/anthos-config-management/docs/concepts/config-controlle
 
 https://cloud.google.com/blog/topics/anthos/apache-cassandra-on-anthos-enables-hybrid-cloud-applications
 
+### Anthos bare metal
+
+https://cloud.google.com/anthos/clusters/docs/bare-metal/latest/concepts/about-bare-metal
+
+### Anthos Edge 
+
+https://cloud.google.com/blog/topics/developers-practitioners/small-footprint-big-impact-running-cloud-connected-kubernetes-edge
+
 ## Qwiklabs
 
 [Migrate for Anthos: Qwik Start](https://www.qwiklabs.com/focuses/10268?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467866)
