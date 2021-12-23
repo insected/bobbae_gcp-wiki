@@ -18,11 +18,8 @@ You create your pipelines with an Apache Beam program and then run them on the D
 
 The [Apache Beam documentation](https://beam.apache.org/documentation/) provides in-depth conceptual information and reference material for the Apache Beam programming model, SDKs, and other runners.
 
-https://doppelfelix.medium.com/using-apache-beam-to-automate-your-preprocessing-in-data-science-144a89392f15
 
-### Tag Manager
 
-https://cloud.google.com/blog/products/data-analytics/learn-beam-patterns-with-clickstream-processing-of-google-tag-manager-data
 
 ### Alternatives
 
@@ -62,6 +59,18 @@ https://medium.com/bb-tutorials-and-thoughts/how-to-get-started-with-gcp-dataflo
 
 https://jtaras.medium.com/building-a-simple-google-cloud-dataflow-pipeline-pubsub-to-google-cloud-storage-9bbf170e8bad
 
+### Preprocessing data
+
+https://doppelfelix.medium.com/using-apache-beam-to-automate-your-preprocessing-in-data-science-144a89392f15
+
+
+### Data pipeline
+
+https://doppelfelix.medium.com/pipeline-in-the-cloud-6edb007c4d52
+
+### Tag Manager
+
+https://cloud.google.com/blog/products/data-analytics/learn-beam-patterns-with-clickstream-processing-of-google-tag-manager-data
 
 ### Python support
 
