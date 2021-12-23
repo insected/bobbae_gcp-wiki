@@ -63,3 +63,8 @@ https://learn.hashicorp.com/tutorials/vault/eaas-transit
 ## Compliance as Code
 
 https://medium.com/gojekengineering/compliance-as-code-how-we-automate-cis-compliance-for-gcp-5eb21f2bfd21
+
+
+## Case study
+
+https://cloud.google.com/blog/products/compliance/continuous-compliance-engineering-gcp-case-studies
