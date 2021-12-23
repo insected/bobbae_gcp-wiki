@@ -39,7 +39,7 @@ https://cloud.google.com/s/results?q=quickstart
 
 https://cloud.google.com/s/results?q=tutorial
 
-## Learning paths
+### Learning paths
 
 https://cloud.google.com/solutions/education
 
