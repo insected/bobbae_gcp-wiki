@@ -21,6 +21,10 @@ https://github.com/terraform-google-modules/terraform-example-foundation
 https://github.com/terraform-google-modules/terraform-google-project-factory
 
 
+### VM Instances
+https://github.com/terraform-google-modules/terraform-google-vm/tree/master/modules/compute_instance
+
+
 ## Confidential data in AI Platform Notebooks
 
 https://cloud.google.com/blog/products/ai-machine-learning/ai-platform-notebooks-security-blueprint
