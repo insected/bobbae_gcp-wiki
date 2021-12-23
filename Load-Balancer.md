@@ -135,6 +135,9 @@ https://cloud.google.com/load-balancing/docs/internal/ilb-next-hop-overview
 https://medium.com/@ozcosta/google-cloud-networking-ilb-as-next-hop-with-tags-ab5f30a0e0c3
 
 
+## Serverless Load Balancer with Terraform
+
+https://engineering.premise.com/tutorial-managing-serverless-gcp-load-balancers-dynamically-with-terraform-e15751853312
 
 ## List of Load Balancers
 
