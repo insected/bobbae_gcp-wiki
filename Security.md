@@ -458,6 +458,11 @@ https://arstechnica.com/information-technology/2021/12/google-removes-malicious-
 
 https://snyk.io/vuln/npm:npm
 
+
+## Security trends
+
+https://cloud.google.com/blog/products/identity-security/four-security-trends-for-2022-and-what-to-do-about-them
+
 ## Qwiklabs
 
 [Security & Identity Fundamentals](https://www.qwiklabs.com/quests/40?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7482841)
