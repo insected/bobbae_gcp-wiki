@@ -116,9 +116,9 @@ Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manag
 
 Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [Context-Aware Access](Context-Aware-Access) is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
 
+### Policy trouble shooting
 
-
-
+https://cloud.google.com/blog/products/identity-security/unblock-bce-users-for-easy-zero-trust-access
 
 ## Identity Platform
 
