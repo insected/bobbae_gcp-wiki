@@ -32,4 +32,6 @@ https://cloud.google.com/architecture/framework/cost-optimization
 
 https://cloud.google.com/architecture/framework/performance-optimization
 
+## Community
 
+https://www.googlecloudcommunity.com/gc/Architecture-Framework/ct-p/cloud-architecture-framework
