@@ -1,0 +1,1 @@
+https://cloud.google.com/blog/products/identity-security/google-cloud-zero-trust-security-talks-available-on-demand
