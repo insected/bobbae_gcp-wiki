@@ -21,7 +21,8 @@ https://github.com/terraform-google-modules/terraform-example-foundation
 https://github.com/terraform-google-modules/terraform-google-project-factory
 
 
-### VM Instances
+### VM Instances Module
+
 https://github.com/terraform-google-modules/terraform-google-vm/tree/master/modules/compute_instance
 
 
