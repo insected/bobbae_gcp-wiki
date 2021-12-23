@@ -87,7 +87,9 @@ https://cloud.google.com/iam/docs/workload-identity-federation
 
 https://cloud.google.com/iam/docs/best-practices-for-securing-service-accounts
 
+## Investigation of Service Account usage
 
+https://cloud.google.com/blog/products/identity-security/three-services-to-investigate-gcp-service-account-usage
 
 ## Service agents
 
