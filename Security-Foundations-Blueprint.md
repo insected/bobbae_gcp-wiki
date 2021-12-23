@@ -12,6 +12,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 
 https://cloud.google.com/blog/topics/developers-practitioners/getting-started-security-foundations-blueprint-automation-repo
 
+https://github.com/terraform-google-modules/terraform-example-foundation
+
 
 ## Improving Speed and Security of Cloud Deployments
 
