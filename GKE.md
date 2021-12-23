@@ -14,6 +14,8 @@ https://cloud.google.com/blog/products/containers-kubernetes/the-rise-and-future
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 
+https://cloud.google.com/blog/products/containers-kubernetes/partner-devops-and-security-solutions-for-gke-autopilot
+
 ### Backup for GKE
 
 
