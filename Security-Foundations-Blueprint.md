@@ -12,8 +12,18 @@ https://cloud.google.com/blog/topics/developers-practitioners/foundational-best-
 
 https://cloud.google.com/blog/topics/developers-practitioners/getting-started-security-foundations-blueprint-automation-repo
 
+### Foundational Terraform Repository
+
 https://github.com/terraform-google-modules/terraform-example-foundation
 
+### Project Factory
+
+https://github.com/terraform-google-modules/terraform-google-project-factory
+
+
+## Confidential data in AI Platform Notebooks
+
+https://cloud.google.com/blog/products/ai-machine-learning/ai-platform-notebooks-security-blueprint
 
 ## Improving Speed and Security of Cloud Deployments
 
