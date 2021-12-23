@@ -1,0 +1,1 @@
+https://cloud.google.com/blog/topics/developers-practitioners/improving-speed-and-security-your-cloud-deployments
