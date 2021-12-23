@@ -4,13 +4,15 @@
 
 
 
-This video walks you through how to create a Google Cloud Pub/Sub topic. Pub/Sub allows you to create global real-time messaging and subscribe to topics you want to follow to stay up to date.
+
 
 [https://www.youtube.com/watch?v=pU1zA-DMlWk](https://www.youtube.com/watch?v=pU1zA-DMlWk)
 
 ### PubSub Lite
 
 https://cloud.google.com/pubsub/lite/docs
+
+
 
 #### Reservations
 
@@ -20,6 +22,10 @@ https://cloud.google.com/blog/products/data-analytics/easier-and-cheaper-with-pu
 
 https://cloud.google.com/pubsub/docs/choosing-pubsub-or-lite
 
+
+### Cloud Tasks
+
+https://cloud.google.com/pubsub/docs/choosing-pubsub-or-cloud-tasks
 
 ### PubSub  IoT Example
 
