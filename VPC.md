@@ -68,3 +68,8 @@ https://faun.pub/private-service-connect-to-connect-privately-with-google-apis-a
 https://cloud.google.com/vpc/docs/private-service-connect
 
 https://medium.com/google-cloud/exposing-the-client-behind-psc-2471a851ae23
+
+
+## IPAM Autopilot
+
+https://medium.com/google-cloud/ipam-autopilot-for-gcp-vpcs-8af97adf33c4
