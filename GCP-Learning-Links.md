@@ -196,6 +196,10 @@ https://jimmysong.io/awesome-cloud-native/
 
 [Life Sciences Docs](https://cloud-dot-devsite-v2-prod.appspot.com/life-sciences/docs)
 
+## Books
+
+https://towardsdatascience.com/5-free-books-to-learn-statistics-for-data-science-768d27b8215
+
 ## Cloud Shell
 
 
