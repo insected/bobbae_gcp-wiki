@@ -35,6 +35,10 @@ You can automatically scale your Google Kubernetes Engine (GKE) workloads based 
 
 https://cloud.google.com/kubernetes-engine/docs/tutorials/autoscaling-metrics
 
+### HPA with custom metrics from Prometheus
+
+https://towardsdatascience.com/kubernetes-hpa-with-custom-metrics-from-prometheus-9ffc201991e
+
 ## Vertical pod autoscaler 
 
 [Vertical Pod Autoscaler](  https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler  ) (VPA) frees the users from necessity of setting up-to-date resource limits and requests for the containers in their pods. When configured, it will set the requests automatically based on usage and thus allow proper scheduling onto nodes so that appropriate resource amount is available for each pod. It will also maintain ratios between limits and requests that were specified in initial containers configuration.
