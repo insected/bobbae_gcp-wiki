@@ -847,6 +847,7 @@ https://medium.com/google-developer-experts/get-recognized-as-an-ml-expert-with-
 
 ## Links
 
+- https://github.com/ashishpatel26/Real-time-ML-Project
 - [StatQuest videos](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - [Google AI Fun Projects](https://www.youtube.com/watch?v=_IeS1m8r6SY&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=1)
 - [AI Platform Training and Prediction sample code repo](https://github.com/GoogleCloudPlatform/cloudml-samples)
