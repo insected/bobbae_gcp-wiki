@@ -1,5 +1,9 @@
 ## Project ideas
 
+### Easy as Pie
+
+https://easyserverlesshackathon.bemyapp.com/
+
 ### EZ-Jobs
 
 https://medium.com/ezjobs/ez-jobs-the-not-so-easy-process-of-making-job-applications-easy-481e61fa25e7
