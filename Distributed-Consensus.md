@@ -1,5 +1,9 @@
 [Distributed consensus problem](https://en.wikipedia.org/wiki/Consensus_(computer_science)) requires agreement among a number of processes (or agents) for a single data value. Some of the processes may fail or be unreliable [in other ways](https://en.m.wikipedia.org/wiki/Byzantine_fault), so consensus protocols must be fault tolerant or resilient. 
 
+## Serializability and Linearizability
+
+http://www.bailis.org/blog/linearizability-versus-serializability/
+
 
 ## Logical Clocks
 
@@ -53,4 +57,7 @@ https://jepsen.io/analyses/faunadb-2.5.4
 
 https://github.com/bobbae/gcp/wiki/Fallacies#8-fallacies-of-distributed-computing
 
+### Consistency
+
+https://www.youtube.com/watch?v=EOlw6dlxXU0
 
