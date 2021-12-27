@@ -267,6 +267,7 @@ https://cloud.google.com/blog/products/ai-machine-learning/discover-advanced-ins
 ## Tutorials
 
 - https://www.w3schools.com/ai/
+- https://course.fast.ai/
 - https://www.guru99.com/artificial-intelligence-tutorial.html
 - https://www.tutorialspoint.com/artificial_intelligence/index.htm
 - https://cloud.google.com/ai-platform/docs/getting-started-keras
