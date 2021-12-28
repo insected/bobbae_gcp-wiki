@@ -325,16 +325,6 @@ Resource Hierarchy.
 https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 
-### BigQuery Column-level security
-
-[https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
-
-
-
-### BigQuery row level security
-
-https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
-
 ### Dataform
 
 https://cloud.google.com/blog/products/data-analytics/welcoming-dataform-to-bigquery
@@ -484,9 +474,15 @@ https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendl
 
 https://cloud.google.com/bigquery/docs/data-governance
 
-### BigQuery Column-level security
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
+
+
+
+### BigQuery row-level security
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
+
 
 ### Using Connected Sheets with BigQuery
 
