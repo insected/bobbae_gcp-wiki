@@ -33,6 +33,10 @@ https://cloud.google.com/functions/docs/configuring/max-instances
 
 https://medium.com/google-cloud/cloud-run-and-cloud-functions-does-the-region-change-the-performances-b967e5cee0cc
 
+### Functions Framework
+
+https://github.com/GoogleCloudPlatform/functions-framework-python
+
 ### Cloud Functions for .NET
 
 [https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions](https://cloud.google.com/blog/products/application-development/introducing-net-google-cloud-functions)
