@@ -466,7 +466,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendl
 
 
 
-### Data Security and Governance
+### Data Security 
+
+#### Data Governance
 
 [Data governance](https://cloud.google.com/bigquery/docs/data-governance
 ) is a principled approach to manage data during its lifecycle — from acquisition, to use, to disposal. Your data governance program clearly outlines policies, procedures, responsibilities, and controls surrounding data activities. This program helps to ensure that information is collected, maintained, used, and disseminated in such a way that both meets your organization's data integrity and [security](security) needs, and also helps empower your employees to discover and use the data to its fullest potential.
@@ -477,9 +479,19 @@ https://cloud.google.com/bigquery/docs/data-governance
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
+#### BigQuery Access Control Examples
 
+https://cloud.google.com/bigquery/docs/access-control-examples
 
-### BigQuery row-level security
+#### BigQuery Data Encryption
+
+https://cloud.google.com/bigquery/docs/encryption-at-rest
+
+#### BigQuery column-level security
+
+https://cloud.google.com/bigquery/docs/column-level-security
+
+#### BigQuery row-level security
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
