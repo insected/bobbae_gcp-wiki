@@ -335,10 +335,19 @@ https://cloud.google.com/bigquery/docs/resource-hierarchy
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
+### Dataform
+
+https://cloud.google.com/blog/products/data-analytics/welcoming-dataform-to-bigquery
+
+Dataform is a platform to manage data in BigQuery, Snowflake, Redshift, and other data warehouses. It helps data teams build data pipelines that turn raw data into new tables and views that can be used for analytics.
+
+Dataform does the T in ELT (Extract, Load, Transform) processes. It doesn’t extract or load data in your warehouse but it’s very powerful to transform data already loaded in your warehouse.
+
 
 ### UDF
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-functions
+
 
 #### Testing UDF with Dataform
 
@@ -348,9 +357,18 @@ https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataf
 
 https://medium.com/@danilo.drobac/supercharge-your-bigquery-data-warehouse-with-dataform-d871d4df123a
 
+### SQLX
+
+https://docs.dataform.co/introduction/dataform-in-5-minutes
+
 ### MERGE
 
 https://medium.com/plumbersofdatascience/incremental-data-ingestion-in-bigquery-using-merge-1387e49c7eb5
+
+### Data Fusion
+
+https://cloud.google.com/data-fusion/
+
 
 ### Datastream  and Data Fusion
 
