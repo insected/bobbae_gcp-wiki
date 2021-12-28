@@ -341,8 +341,9 @@ https://cloud.google.com/blog/products/data-analytics/welcoming-dataform-to-bigq
 
 Dataform is a platform to manage data in BigQuery, Snowflake, Redshift, and other data warehouses. It helps data teams build data pipelines that turn raw data into new tables and views that can be used for analytics.
 
-Dataform does the T in ELT (Extract, Load, Transform) processes. It doesn’t extract or load data in your warehouse but it’s very powerful to transform data already loaded in your warehouse.
+Dataform does the T in ELT (Extract, Load, Transform) processes. It doesn’t extract or loads data in your warehouse but it’s very powerful to transform data already loaded in your warehouse.
 
+https://medium.com/@danilo.drobac/supercharge-your-bigquery-data-warehouse-with-dataform-d871d4df123a
 
 ### UDF
 
@@ -353,9 +354,9 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-funct
 
 https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataform-cli-tool-to-unit-test-udf
 
-### Dataform
 
-https://medium.com/@danilo.drobac/supercharge-your-bigquery-data-warehouse-with-dataform-d871d4df123a
+
+
 
 ### SQLX
 
