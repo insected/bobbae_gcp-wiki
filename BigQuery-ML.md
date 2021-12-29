@@ -124,6 +124,9 @@ https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML
 
 https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
 
+### Cheatsheet
+
+https://medium.com/fifty-five-data-science/bigquery-machine-learning-cheat-sheet-7c053b21a657
 
 ## Qwiklabs
 
