@@ -93,6 +93,10 @@ https://medium.com/datatonic/running-dbt-on-google-clouds-vertex-ai-pipelines-d8
 
 https://medium.com/google-cloud/boost-up-a-helpdesk-chatbot-with-dialogflow-cx-tfx-and-vertex-ai-4999c26eef13
 
+### Vertex AI articles
+
+https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-ai-2021-highlights
+
 ## Qwiklabs
 
 ### Qwik start
