@@ -710,34 +710,31 @@ https://towardsdev.com/retrieve-your-bigquery-query-history-with-nodejs-sdk-6671
 ## Qwiklabs
 
 
-[BigQuery Basics for Data Analysts](https://www.qwiklabs.com/quests/69?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
-
-[BigQuery challenge on Covid-19 public data sources](https://www.qwiklabs.com/focuses/14341?parent=catalog)
+https://www.qwiklabs.com/quests/69
 
 
-[Build and Optimize Data Warehouses with BigQuery](https://www.qwiklabs.com/quests/147?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
+
+[Build and Optimize Data Warehouses with BigQuery](https://www.qwiklabs.com/quests/147)
 
 
-[BigQuery for Marketing Analysts](https://www.qwiklabs.com/quests/70?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
+
+[BigQuery for Machine Learning](https://www.qwiklabs.com/quests/71)
 
 
-[BigQuery for Machine Learning](https://www.qwiklabs.com/quests/71?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
+[BigQuery for Data Warehousing](https://www.qwiklabs.com/quests/68)
 
 
-[BigQuery for Data Warehousing](https://www.qwiklabs.com/quests/68?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
+[Insights from Data with BigQuery](https://www.qwiklabs.com/quests/123)
 
 
-[Insights from Data with BigQuery](https://www.qwiklabs.com/quests/123?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
-
-
-[Create ML Models with BigQuery ML](https://www.qwiklabs.com/quests/146?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
+[Create ML Models with BigQuery ML](https://www.qwiklabs.com/quests/146)
 
 
  
-[NCAA® March Madness®: Bracketology with Google Cloud](https://www.qwiklabs.com/quests/58?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467580)
+[NCAA® March Madness®: Bracketology with Google Cloud](https://www.qwiklabs.com/quests/58)
 
 
-[Scientific Data Processing](https://www.qwiklabs.com/quests/28?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=7467566)
+[Scientific Data Processing](https://www.qwiklabs.com/quests/28)
 
 
 [Analyzing Natality Data Using AI Platform and BigQuery](https://google.qwiklabs.com/focuses/604?parent=catalog)
