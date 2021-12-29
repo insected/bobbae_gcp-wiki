@@ -407,9 +407,15 @@ https://en.wikipedia.org/wiki/Netfilter
 
 The Underlay network is closer to the physical layer. It includes switches, routers, VLANs, and so on. It is the basis on which overlay networks are built.
 
+https://networkingnerd.net/tag/underlay-network/
+
 ## Overlay network
 
 Overlay network refers to the virtual network layer. It is designed to be highly scalable than the underlying network. For example, while VLANs in the underlying network support only 4096 identifiers, VxLAN can reach up to 16 million ones.
+
+
+https://book.systemsapproach.org/applications/overlays.html
+
 
 ## Kubernetes CNI
 
