@@ -41,6 +41,8 @@ To use Ingress, you must have the HTTP load balancing add-on enabled. GKE cluste
 
 [Andromeda](https://cloud.google.com/blog/products/gcp/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack) is the [network virtualization environment](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf) for Google Cloud Platform (GCP). 
 
+https://blog.acolyer.org/2018/05/02/andromeda-performance-isolation-and-velocity-at-scale-in-cloud-network-virtualization/
+
 ## Types of Load Balancing
 
 [https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
