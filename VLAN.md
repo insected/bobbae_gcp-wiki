@@ -1,8 +1,12 @@
-[VLANs](  https://wikipedia.org/wiki/Virtual_LAN ) allow network administrators to group hosts under the same switch or between different switches.
+[VLANs](  https://wikipedia.org/wiki/Virtual_LAN ) allows network administrators to group hosts under the same switch or between different switches.
 
 The protocol most commonly used today to support VLANs is [IEEE 802.1Q]( https://wikipedia.org/wiki/IEEE_802.1Q   ).
 
 VLANs work by [applying tags](https://www.firewall.cx/networking-topics/vlan-networks/219-vlan-tagging.html) to network frames and handling these tags in networking systems – creating the appearance and functionality of network traffic that is physically on a single network but acts as if it is split between separate networks. In this way, VLANs can [keep network applications separate](https://en.m.wikipedia.org/wiki/VLAN_Trunking_Protocol) despite being connected to the same physical network, and without requiring multiple sets of cabling and networking devices to be deployed.
+
+## Ethernet
+
+https://en.wikipedia.org/wiki/Ethernet
 
 
 ## Virtual Networking 
@@ -33,7 +37,7 @@ https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-aut
 
 #### NFV
 
-[Network Function Virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) is an approach by Telecom companies for deployment, management and scaling of network functions. NFV allows for decoupling and virtualization of existing OSS or legacy hardware to make them software driven and use standardized hardware. NFV is about overarching concept as a framework for running SDN functions.
+[Network Function Virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) is an approach by Telecom companies for deployment, management, and scaling of network functions. NFV allows for decoupling and virtualization of existing OSS or legacy hardware to make them software-driven and use standardized hardware. NFV is about the overarching concept as a framework for running SDN functions.
 
 #### VNF
 
@@ -41,11 +45,11 @@ https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-aut
 
 #### SDN
 
-[Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) is an approach that decouples the control plane from the data plane in networking equipment.  NFV and SDN  are complimentary. SDN enables keeping the intelligence of the network within the controller, leaving the network equipment handling data which can execute operations mandated by the controller.  The network equipment does not need powerful controller capabilities and can be based on POTS (Plain, Off the shelf) virtualized servers.
+[Software Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking) is an approach that decouples the control plane from the data plane in networking equipment.  NFV and SDN  are complementary. SDN enables keeping the intelligence of the network within the controller, leaving the network equipment handling data which can execute operations mandated by the controller.  The network equipment does not need powerful controller capabilities and can be based on POTS (Plain, Off the shelf) virtualized servers.
 
 #### MANO
 
-[MANO](https://en.wikipedia.org/wiki/Network_function_virtualization#Management_and_orchestration_%28MANO%29) is defined by [ETSI](https://en.wikipedia.org/wiki/ETSI) as the layer that manages and orchestrates the cloud resources infrastructure.  It consists of VIM, VNFM, and Orchestrator.  Together they provide a full end-to-end lifecycle solution of NFV orchestration and management -- from installation, deployment and through to post-deployment.   MANO makes use of [TOSCA](https://en.wikipedia.org/wiki/OASIS_TOSCA) as NFV orchestration standard.
+[MANO](https://en.wikipedia.org/wiki/Network_function_virtualization#Management_and_orchestration_%28MANO%29) is defined by [ETSI](https://en.wikipedia.org/wiki/ETSI) as the layer that manages and orchestrates the cloud resources infrastructure.  It consists of VIM, VNFM, and Orchestrator.  Together they provide a full end-to-end lifecycle solution of NFV orchestration and management -- from installation, deployment, and through to post-deployment.   MANO makes use of [TOSCA](https://en.wikipedia.org/wiki/OASIS_TOSCA) as the NFV orchestration standard.
 
 
 
@@ -54,7 +58,7 @@ https://cloudify.co/blog/mobile-world-congress-nfv-sdn-network-orchestration-aut
 
 [Open vSwitch](https://www.openvswitch.org/), sometimes abbreviated as OVS, is an open-source implementation of a distributed virtual multilayer switch. The main purpose of Open vSwitch is to provide a switching stack for hardware virtualization environments, while supporting multiple protocols and standards used in computer networks.
 
-It is designed to enable massive network automation through programmatic extension, while still supporting standard management interfaces and protocols (e.g. NetFlow, sFlow, IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution across multiple physical servers similar to VMware's vNetwork distributed vswitch or Cisco's Nexus 1000V. 
+It is designed to enable massive network automation through programmatic extension, while still supporting standard management interfaces and protocols (e.g. NetFlow, sFlow, IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution across multiple physical servers similar to VMware's vNetwork distributed vSwitch or Cisco's Nexus 1000V. 
 
 
 ## Bridge
