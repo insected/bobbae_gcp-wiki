@@ -31,7 +31,7 @@ https://cloud.google.com/blog/products/containers-kubernetes/google-cloud-anthos
 
 ## Distributed Cloud
 
-[Google Distributed Cloud](https://cloud.google.com/distributed-cloud) is a portfolio of fully managed hardware and software solutions which extends Google Cloud’s infrastructure and services to the edge and into your data centers. 
+[Google Distributed Cloud](distributed-cloud) is a portfolio of fully managed hardware and software solutions that extends Google Cloud’s infrastructure and services to the edge and into your data centers. 
 
 https://cloud.google.com/blog/topics/hybrid-cloud/announcing-google-distributed-cloud-edge-and-hosted
 
