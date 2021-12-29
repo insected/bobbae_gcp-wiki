@@ -12,6 +12,10 @@ https://cloud.google.com/filestore/docs/quickstart-gcloud
 
 https://www.geeksforgeeks.org/what-is-dfsdistributed-file-system/
 
+## Firestore Enterprise
+
+https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announces-filestore-enterprise-for-business-critical-apps
+
 
 ## NetApp on Google Cloud
 
