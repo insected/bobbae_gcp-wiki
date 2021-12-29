@@ -30,11 +30,6 @@
 
 
 
-### 3G & 4G
-
-[3G](https://en.wikipedia.org/wiki/3G) was the first “high speed” cellular network, and is a name that refers to a number of technologies that meet IMT-2000 standards. 4G is the generation of cellular standards that followed 3G, and is what most people use today for mobile cellular data. You can use 3G and 4G for IoT devices, but the application needs a constant power source or must be able to be recharged regularly.
-
-
 ### GSM
 
 The [Global System for Mobile Communications](https://en.wikipedia.org/wiki/GSM) (GSM) is a standard developed by the European Telecommunications Standards Institute (ETSI) to describe the protocols for second-generation (2G) digital cellular networks used by mobile devices such as mobile phones and tablets. It was first deployed in Finland in December 1991.
@@ -52,8 +47,13 @@ The Long-Term Evolution [LTE](https://en.wikipedia.org/wiki/LTE) is a standard f
 
 ### NB-IoT
 
-[NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT), or Narrowband IoT, is another way to tackle cellular M2M for low power devices. It is based on a DSSS modulation similar to the old Neul version of Weightless-W. Huawei, Ericsson, and Qualcomm are active proponents of this protocol and are involved in putting it together.
+[NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT), or Narrowband IoT, is another way to tackle [Cellular M2M](https://www.simfony.com/what-is-m2m-cellular-connectivity/) for low power devices. It is based on a [DSSS modulation](https://en.wikipedia.org/wiki/Direct-sequence_spread_spectrum) similar to the old [Neul version of Weightless-W](https://en.wikipedia.org/wiki/Weightless_(wireless_communications)). Huawei, Ericsson, and Qualcomm are active proponents of this protocol and are involved in putting it together.
 
+
+
+### 3G & 4G
+
+[3G](https://en.wikipedia.org/wiki/3G) was the first “high speed” cellular network, and is a name that refers to a number of technologies that meet [IMT-2000 standards](https://networkencyclopedia.com/imt-2000/). [4G](https://en.wikipedia.org/wiki/4G) is the generation of cellular standards that followed 3G, and is what most people use today for mobile cellular data. You can use 3G and 4G for IoT devices, but the application needs a constant power source or must be able to be recharged regularly.
 
 ### 5G
 
@@ -70,7 +70,7 @@ https://cloud.google.com/blog/topics/telecommunications/google-cloud-joins-o-ran
 
 https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
 
-## IoT message queue protocols
+## IoT Application and Message protocols
 
 ### MQTT 
 
