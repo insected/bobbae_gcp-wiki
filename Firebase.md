@@ -155,6 +155,11 @@ https://firebase.google.com/products/app-distribution
 
 https://medium.com/@vlad.kanash_53500/serverless-telegram-bot-with-kotlin-firebase-and-google-cloud-functions-b0f83e20f5c9
 
+
+### Remix App on Firebase
+
+https://medium.com/@arunes/running-a-remix-app-on-firebase-b6aa003475fe
+
 ## Qwiklabs
 
 
