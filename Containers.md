@@ -58,3 +58,18 @@ https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-contai
 https://medium.com/@BeNitinAgarwal/docker-containers-filesystem-demystified-b6ed8112a04a
 
 https://blogs.cisco.com/developer/container-image-layers-1
+
+## Container Analysis
+
+https://cloud.google.com/container-analysis/docs
+
+### Artifact management
+
+https://cloud.google.com/artifact-management/docs/overview
+
+
+### Container Scanning
+
+
+https://cloud.google.com/container-analysis/docs/container-scanning-overview
+
