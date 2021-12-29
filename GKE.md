@@ -96,3 +96,8 @@ Creating a Google Kubernetes Engine (GKE) cluster using Terraform.
 #### Create an App on GKE
 
 https://ide.cloud.google.com/?walkthrough_tutorial_id=gke_cloud_code_create_app
+
+
+#### Setting up GKE with Terraform Cloud
+
+https://medium.com/@kuszner/setting-up-gke-with-terraform-cloud-bf9dfb5d1c8b
