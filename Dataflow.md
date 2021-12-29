@@ -141,7 +141,9 @@ Dataflow Flex templates use docker containers.
 
 https://cloud.google.com/architecture/processing-logs-at-scale-using-dataflow
 
+### Streaming data to BigQuery with Dataflow
 
+https://alexfragotsis.medium.com/streaming-data-to-bigquery-with-dataflow-and-real-time-schema-updating-c7a3deba3bad
 
 ### PubSub to BigQuery
 
