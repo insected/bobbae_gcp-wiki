@@ -306,6 +306,12 @@ https://jimbeepbeep.medium.com/getting-started-with-bigquery-scripting-45bdd9680
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/scripting
 
+
+### Audit Logs
+
+
+https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis
+
 ### Controlling costs
 
 https://cloud.google.com/bigquery/docs/controlling-costs
