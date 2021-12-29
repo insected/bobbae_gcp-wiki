@@ -38,31 +38,10 @@ Cloud Dataflow is not the first big data processing engine, its not the only one
 
 https://cloud.google.com/blog/products/databases/apache-beam-firestore-connector-released
 
-## Examples
-
-### Example Notebook
-
-In [this notebook]( https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb  ), we set up your development environment and work through a simple example using the [DirectRunner](https://beam.apache.org/documentation/runners/direct/). You can explore other runners with the [Beam Capability Matrix](https://beam.apache.org/documentation/runners/capability-matrix/).
-
-
-
-
-### Word Count Example
-
-[https://beam.apache.org/get-started/wordcount-example/](https://beam.apache.org/get-started/wordcount-example/)
 
 ### Getting Started Tutorial
 
 https://medium.com/bb-tutorials-and-thoughts/how-to-get-started-with-gcp-dataflow-822295dce7b4
-
-### Dataflow pipeline example: PubSub to GCS
-
-https://jtaras.medium.com/building-a-simple-google-cloud-dataflow-pipeline-pubsub-to-google-cloud-storage-9bbf170e8bad
-
-### Preprocessing data
-
-https://doppelfelix.medium.com/using-apache-beam-to-automate-your-preprocessing-in-data-science-144a89392f15
-
 
 ### Data pipeline
 
@@ -76,6 +55,29 @@ https://cloud.google.com/blog/products/data-analytics/learn-beam-patterns-with-c
 
 https://cloud.google.com/blog/products/data-analytics/debunking-myths-about-python-on-dataflow
 
+
+## Examples
+
+### Example Notebook
+
+In [this notebook]( https://colab.research.google.com/github/apache/beam/blob/master/examples/notebooks/get-started/try-apache-beam-py.ipynb  ), we set up your development environment and work through a simple example using the [DirectRunner](https://beam.apache.org/documentation/runners/direct/). You can explore other runners with the [Beam Capability Matrix](https://beam.apache.org/documentation/runners/capability-matrix/).
+
+
+
+
+### Word Count Example
+
+[https://beam.apache.org/get-started/wordcount-example/](https://beam.apache.org/get-started/wordcount-example/)
+
+### Dataflow pipeline example: PubSub to GCS
+
+https://jtaras.medium.com/building-a-simple-google-cloud-dataflow-pipeline-pubsub-to-google-cloud-storage-9bbf170e8bad
+
+### Preprocessing data
+
+https://doppelfelix.medium.com/using-apache-beam-to-automate-your-preprocessing-in-data-science-144a89392f15
+
+
 ### Dataflow Mobile Gaming Example
 
 [https://beam.apache.org/get-started/mobile-gaming-example/](https://beam.apache.org/get-started/mobile-gaming-example/)
@@ -86,6 +88,7 @@ https://cloud.google.com/blog/products/data-analytics/debunking-myths-about-pyth
 https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-second-into-bigquery-part-i-google-cloud-dataflow-9465fdcd436d
 
 
+## Using Dataflow
 
 ### Creating a pipeline
 
