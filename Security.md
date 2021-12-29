@@ -30,6 +30,10 @@ https://jisajournal.springeropen.com/articles/10.1186/1869-0238-4-5
 
 https://openssf.org/
 
+### Allstar
+
+https://github.com/ossf/allstar
+
 ## Security Foundations Blueprint
 
 The [Security Foundations Blueprint](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf) presents [an opinionated view](https://cloud.google.com/blog/products/identity-security/google-cloud-security-foundations-guide) of Google Cloud security best practices, organized to allow
