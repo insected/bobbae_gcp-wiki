@@ -161,6 +161,10 @@ https://cloud.google.com/dataproc/docs/tutorials/workflow-composer
 
 https://tech.loveholidays.com/out-of-the-data-tar-pit-how-loveholidays-escaped-from-a-legacy-reporting-system-and-kept-the-data-331c5e1f0ee2
 
+### Composing invoking long-running services
+
+https://medium.com/@kolban1/composer-invoking-long-running-services-4de2dfa5e33a
+
 ## Qwiklabs
 
 ### GSP283
