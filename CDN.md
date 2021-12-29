@@ -34,7 +34,7 @@ https://cloud.google.com/cdn/docs/using-cdn
 
 ## Types of CDN
 
-CDN is an umbrella term spanning different types of content delivery services: video streaming, software downloads, web and mobile content acceleration, licensed/managed CDN, transparent caching, and services to measure CDN performance, load balancing, Multi CDN switching and analytics and cloud intelligence. CDN vendors may cross over into other industries like security, with DDoS protection and web application firewalls (WAF), and WAN optimization.
+CDN is an umbrella term spanning different types of content delivery services: video streaming, software downloads, web and mobile content acceleration, licensed/managed CDN, transparent caching, and services to measure CDN performance, load balancing, Multi CDN switching and analytics, and cloud intelligence. CDN vendors may cross over into other industries like security, with [DDoS](DDoS) protection and web application firewalls (WAF), and WAN optimization.
 
 https://blog.cdnsun.com/how-to-compare-cdn-networks-a-pro-guide/
 
