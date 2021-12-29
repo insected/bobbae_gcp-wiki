@@ -75,6 +75,11 @@ https://cloud.google.com/functions/docs/tutorials/ocr
 
 https://medium.com/google-cloud/google-cloud-function-beyond-the-limits-ea1f16c577b
 
+### Working around the 9 minute limit of Cloud Functions
+
+
+https://medium.com/@hayovanloon/working-around-the-9-minute-limit-of-google-cloud-functions-78ff19bd869c
+
 ### Using Cloud Functions to implement a Slack Slash command
 
 https://cloud.google.com/functions/docs/tutorials/slack
