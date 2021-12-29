@@ -1,5 +1,5 @@
 
-The [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) describes the [network of physical objects](The Internet of things (IoT) describes the network of physical objects) —“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
+The [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) describes the [network of physical objects](IoT-networking) The Internet of things (IoT) describes the network of physical objects) —“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
 
 https://www.hindawi.com/journals/jece/2017/9324035/
 
