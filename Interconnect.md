@@ -8,6 +8,12 @@ You can use [Dedicated Interconnect](https://www.youtube.com/watch?v=cKaryf7qp9w
 
 While migrating portions of your on-prem to the cloud, it’s important for your on-prem systems to communicate with your newly minted cloud resource.
 
+## Network Connectivity Center
+
+https://cloud.google.com/network-connectivity-center
+
+
+https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-center-networking-partnerships
 
 
 ## Google Cloud Interconnect Overview
