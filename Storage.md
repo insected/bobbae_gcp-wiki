@@ -152,6 +152,10 @@ It stores data [redundantly](https://medium.com/google-cloud/persistent-disks-an
 
 [Local SSD](https://cloud.google.com/local-ssd) is physically attached to the server that hosts your VM instance. This tight coupling offers superior performance, very high input/output operations per second (IOPS), and very low latency compared to other block storage options. Local SSDs are designed for temporary storage use cases such as caches or scratch processing space. Which makes them suitable for workloads like media rendering, data analytics, or high-performance computing.
 
+
+https://cloud.google.com/blog/products/storage-data-transfer/n2-vms-run-low-latency-io-intensive-workloads-with-9tb-ssd
+
+
 ## Storage Protocols
 
 https://www.sciencedirect.com/topics/computer-science/storage-protocol
