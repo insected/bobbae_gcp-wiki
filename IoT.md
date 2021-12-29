@@ -46,6 +46,11 @@ https://cloud.google.com/solutions/intelligent-products
 
 https://salmaan-rashid.medium.com/google-cloud-iot-core-authentication-with-trusted-platform-module-tpm-e1c1a5887591
 
+## Projects
+
+https://nevonprojects.com/iot-projects/
+
+
 ## Qwiklabs
 
 
