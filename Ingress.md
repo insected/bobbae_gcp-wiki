@@ -45,17 +45,14 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/gateway-api#comparison_
 
 ## GCP Network Endpoint Groups
 
-In GCP, a Network Endpoint Group (NEG) is a configuration object that specifies a group of backend endpoints or services. 
-A common use case for this configuration is deploying services in containers.
-You can also distribute traffic in a granular fashion to applications running on your backend instances.
+In GCP, a Network Endpoint Group (NEG) is a configuration object that specifies a group of backend endpoints or services in containers.
 
-* Zonal and internet NEGs define how endpoints should be reached, whether they are reachable, and where they are located. Unlike these NEG types, serverless NEGs don't contain endpoints.
-
-* A zonal NEG contains one or more endpoints that can be Compute Engine VMs or services running on the VMs. Each endpoint is specified either by an IP address or an IP:port combination.
-
-* An internet NEG contains a single endpoint that is hosted outside of Google Cloud. This endpoint is specified by hostname FQDN:port or IP:port.
 
 https://cloud.google.com/load-balancing/docs/negs
+
+#### Types of NEGs
+
+https://cloud.google.com/load-balancing/docs/negs#neg-types
 
 ### Ingress with NEGs
 
@@ -65,16 +62,17 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg#ingress_wi
 
 ## Kubernetes Ingress
 
-A [Kubernetes Ingress](  https://kubernetes.io/docs/concepts/services-networking/ingress/ ) is not a type of [Service](  https://kubernetes.io/docs/concepts/services-networking/service/ ). It is a collection of rules. An [Ingress](   https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d) Controller in your cluster watches for Ingress resources, and attempts to update the server side configuration according to the rules specified in the Ingress.
+A [Kubernetes Ingress](  https://kubernetes.io/docs/concepts/services-networking/ingress/ ) is not a type of [Service](  https://kubernetes.io/docs/concepts/services-networking/service/ ). It is a collection of rules. An [Ingress](   https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d) Controller in your cluster watches for Ingress resources, and attempts to update the server-side configuration according to the rules specified in the Ingress.
 
 [Kubernetes](Kubernetes) ingress is a collection of routing rules that govern how external users access services running in a [Kubernetes cluster](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/  
-) .
+).
 
-In a typical Kubernetes application, you have pods running inside a cluster and a load balancer running outside. The load balancer takes connections from the internet and routes the traffic to an edge proxy that sits inside your cluster. This edge proxy is then responsible for routing traffic into your pods. The [edge proxy](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/#edge-proxy--ingress-controller) is commonly called an ingress controller because it is commonly configured using ingress resources in Kubernetes, however the edge proxy can also be configured with custom resource definitions (CRDs) or annotations.
+In a typical Kubernetes application, you have pods running inside a cluster and a load balancer running outside. The load balancer takes connections from the internet and routes the traffic to an edge proxy that sits inside your cluster. The edge proxy is then responsible for routing traffic into your pods. The [edge proxy](https://www.getambassador.io/docs/edge-stack/latest/topics/concepts/kubernetes-network-architecture/#edge-proxy--ingress-controller) is commonly called an ingress controller because it is commonly configured using ingress resources in Kubernetes. The edge proxy can also be configured with custom resource definitions (CRDs) or annotations.
 
 
 You can do a lot of different things with an Ingress, and there are many types of Ingress controllers that have different capabilities.
-The default GKE ingress controller will spin up a [HTTP(S) Load Balancer](https://cloud.google.com/compute/docs/load-balancing/http/) for you. This will let you do both path based and subdomain based routing to backend services. For example, you can send everything on foo.yourdomain.com to the foo service, and everything under the yourdomain.com/bar/ path to the bar service.
+
+The default GKE ingress controller will spin up a [HTTP(S) Load Balancer](https://cloud.google.com/compute/docs/load-balancing/http/) for you. This will let you do both path-based and subdomain-based routing to backend services. For example, you can send everything on foo.yourdomain.com to the foo service, and everything under the yourdomain.com/bar/ path to the bar service.
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
 
