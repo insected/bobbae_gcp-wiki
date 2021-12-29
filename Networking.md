@@ -217,6 +217,9 @@ MPLS supports a range of access technologies, including [T1/E1](https://en.wikip
 
 https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
 
+### Virtual switches and isolation
+
+https://dl.acm.org/doi/pdf/10.1145/3229616.3229618
 
 ## Hybrid Connectivity
 
