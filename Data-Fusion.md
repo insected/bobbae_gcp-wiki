@@ -40,6 +40,11 @@ https://cloud.google.com/data-fusion/plugins
 
 https://wisdomplexus.com/blogs/dataproc-vs-dataflow-vs-dataprep/
 
+
+## Wrangler UI
+
+https://datadice.medium.com/the-wrangler-user-interface-of-cloud-data-fusion-21e96cfe1b2d
+
 ## Agile data warehouses with BigQuery
 
 Cloud Data Fusion can help organizations better understand their customers by breaking down data silos and enabling development of agile, cloud-based data warehouse solutions in [BigQuery](BigQuery). A trusted, unified view of customer engagement and behavior unlocks the ability to drive a better customer experience, which leads to higher retention and higher revenue per customer.
