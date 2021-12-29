@@ -95,51 +95,46 @@ While the existing structure of the internet is freely available and usable by a
 
 An [Advanced Message Queuing Protocol](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) (AMQP) is an open standard application layer protocol used for transactional messages between servers.
 
-AMQP is an open standard application layer protocol for message-oriented middleware. The defining features of AMQP are message orientation, queuing, routing (including point-to-point and publish-and-subscribe), reliability and security.
 
-AMQP mandates the behavior of the messaging provider and client to the extent that implementations from different vendors are interoperable, in the same way as SMTP, HTTP, FTP, etc. have created interoperable systems. Previous standardizations of middleware have happened at the API level (e.g. JMS) and were focused on standardizing programmer interaction with different middleware implementations, rather than on providing interoperability between multiple implementations.
-
-AMQP was originated in 2003 by John O'Hara at JPMorgan Chase in London. AMQP was conceived as a co-operative open effort. The initial design was by JPMorgan Chase from mid-2004 to mid-2006 and it contracted iMatix Corporation to develop a C broker and protocol documentation. In 2005 JPMorgan Chase approached other firms to form a working group that included Cisco Systems, IONA Technologies, iMatix, Red Hat, and Transaction Workflow Innovation Standards Team (TWIST). In the same year JPMorgan Chase partnered with Red Hat to create Apache Qpid, initially in Java and soon after C++. Independently, [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ) was developed in [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) by Rabbit Technologies, followed later by the Microsoft and StormMQ implementations.
-
+AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ) was developed in [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)).
 
 
 ### DDS 
 
 
-[DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) (Data Distribution Service) is another scalable IoT protocol that enables high-quality communication in IoT. Similar to the MQTT, DDS also works to a publisher-subscriber model.
+[DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) (Data Distribution Service) is another scalable IoT protocol that works to a publisher-subscriber model.
 
-It can be deployed in multiple settings, from the cloud to very small devices. This makes it perfect for real-time and embedded systems. Moreover, unlike [MQTT](https://en.wikipedia.org/wiki/MQTT), the DDS protocol allows for interoperable data exchange that is independent of the hardware and the software platform.
 
 ## Industrial Networking
 
 ### Modbus
 
 [Modbus](https://instrumentationtools.com/compare-modbus-fieldbus-and-profibus/
-) is a granddaddy of industrial communication protocols. Modbus is Modicon plus fieldbus.
-
-Modbus, a serial communication protocol developed by Modicon in 1979. It is developed by  Modicon for PLC in industrial applications, now it an open protocol. It is used over serial and Ethernet cable.
+) is an industrial serial communication protocol based on [Modicon](https://www.schneiderelectricrepair.com/modicon-products-repair-exchange-remanufacturing/) plus [Fieldbus](https://www.processindustryforum.com/article/what-is-fieldbus).
 
 
+### PROFIBUS
 
-### Profibus
 
+[PROFIBUS](https://en.wikipedia.org/wiki/Profibus
+) (a portmanteau for Process Field Bus) is a standard for Fieldbus communication in automation technology and was first promoted in 1989 by BMBF (German department of education and research) and then used by Siemens, published as part of IEC 61158. 
 
-[Profibus](https://en.wikipedia.org/wiki/Profibus
-) (usually styled as PROFIBUS, as a portmanteau for Process Field Bus) is a standard for fieldbus communication in automation technology and was first promoted in 1989 by BMBF (German department of education and research) and then used by Siemens. It should not be confused with the Profinet standard for Industrial Ethernet. Profibus is openly published as part of IEC 61158.
+### PROFINET
+
+[PROFINET](https://www.profibus.com/technology/profinet/) is a standard for Industrial Ethernet. Profibus is openly 
 
 
 
 ### CAN Bus
 
 A [Controller Area Network](https://en.wikipedia.org/wiki/CAN_bus
-) (CAN bus) is a robust vehicle bus standard designed to allow microcontrollers and devices to communicate with each other's applications without a host computer. It is a message-based protocol, designed originally for multiplex electrical wiring within automobiles to save on copper, but it can also be used in many other contexts. For each device, the data in a frame is transmitted sequentially but in such a way that if more than one device transmits at the same time, the highest priority device can continue while the others back off. Frames are received by all devices, including by the transmitting device.
-
+) (CAN bus) is a vehicle bus standard and a message-based protocol designed to allow microcontrollers and devices to communicate with each other's applications without a host computer. 
 
 ## Mesh
 
 ### Bluetooth Mesh
 
-[Bluetooth mesh networking](https://en.wikipedia.org/wiki/Bluetooth_mesh_networking) uses [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) to allow for many-to-many communication over Bluetooth radio.
+[Bluetooth mesh networking](https://en.wikipedia.org/wiki/Bluetooth_mesh_networking) uses [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) to allow for many-to-many communication over [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) radio.
 
 ### Wireless mesh
 
