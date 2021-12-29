@@ -2,10 +2,11 @@ The Internet of things ([IoT](IoT)) describes the network of physical objects.
 
 ## 802.15.4
 
-[IEEE 802.15.4](https://standards.ieee.org/standard/802_15_4-2020.html
-) is a technical standard which defines the operation of low-rate wireless personal area networks (LR-WPANs). It specifies the physical layer and media access control for LR-WPANs, and is maintained by the IEEE 802.15 working group, which defined the standard in 2003.
+[IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4
+) is a technical standard that defines the operation of low-rate wireless personal area networks (LR-WPANs). It specifies the physical layer and media access control for LR-WPANs, and is maintained by the [IEEE 802.15](https://www.geeksforgeeks.org/introduction-of-ieee-802-15-4-technology/) working group, which defined the standard in 2003.
 
 
+https://standards.ieee.org/standard/802_15_4-2020.html
 
 ### ZigBee 
 
