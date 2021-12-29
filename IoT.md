@@ -1,21 +1,29 @@
 
 The [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT) describes the network of physical objects—“things” or objects—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
 
-Learn [how to create a Cloud IoT Core device registry](https://www.youtube.com/watch?v=iRZzqpvARbc ) and register a device. 
+https://www.hindawi.com/journals/jece/2017/9324035/
+
+Learn [how to create a Cloud IoT Core device registry]() and register a device. 
 
 
 
 ### IoT Core
 
-[Google Cloud Internet of Things (IoT) Core](https://cloud.google.com/iot/docs  ) is a fully managed service for securely connecting and managing [IoT devices](https://cloud.google.com/solutions/iot/kit ), from a few to millions. Ingest data from connected devices and build rich applications that integrate with the other big data services of Google Cloud Platform.
+[Google Cloud Internet of Things (IoT) Core](https://cloud.google.com/iot/docs  ) is a fully managed service for securely connecting and managing [IoT devices](https://cloud.google.com/solutions/iot/kit ), from a few to millions. 
 
-Events of interest [fire off continuously](https://www.youtube.com/watch?v=51bq_Yhuof4 ) in the physical world, and data that is material to decision making can’t always wait for offline analysis. [Internet-equipped sensors](https://cloud.google.com/community/tutorials/monitoring-iot-data-grafana ) on any physical item imaginable make it possible to ingest data continuously into the cloud, directly from the source at massive scale. 
+https://www.youtube.com/watch?v=iRZzqpvARbc 
+
+
+Events of interest [fire off continuously](https://www.youtube.com/watch?v=51bq_Yhuof4 ) in the physical world, and data that is material to decision making can’t always wait for offline analysis. 
+
+[Internet-equipped sensors](https://cloud.google.com/community/tutorials/monitoring-iot-data-grafana ) on any physical item imaginable make it possible to ingest data continuously into the cloud, directly from the source at a massive scale. 
 
 ### IoT Operating Systems
 
 [IoT operating systems](https://www.g2.com/categories/iot-operating-systems
-) allow users to perform the basic functions of a computer within an internet-connected device. IoT operating systems are embedded within IoT devices and connect to a greater network of devices. These operating systems provide similar functionality to that of a computer by delivering processing capacity for memory and data storage purposes. These systems can run and process all software run on the device. 
+) allow users to perform the basic functions of a computer within an internet-connected device. 
 
+IoT operating systems are embedded within IoT devices and connect to a greater network of devices. 
 
 https://devopedia.org/iot-operating-systems
 
