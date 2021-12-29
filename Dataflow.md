@@ -88,8 +88,6 @@ https://doppelfelix.medium.com/using-apache-beam-to-automate-your-preprocessing-
 https://medium.com/antvoice-tech/how-we-are-streaming-thousands-of-rows-per-second-into-bigquery-part-i-google-cloud-dataflow-9465fdcd436d
 
 
-## Using Dataflow
-
 ### Creating a pipeline
 
 Using the Apache Beam interactive runner with JupyterLab notebooks lets you [iteratively develop pipelines]( https://cloud.google.com/dataflow/docs/guides/interactive-pipeline-development ), inspect your pipeline graph, and parse individual [PCollections](https://cloud.google.com/dataflow/model/pcollection) in a read-eval-print-loop (REPL) workflow. These Apache Beam notebooks are made available through [AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs).
