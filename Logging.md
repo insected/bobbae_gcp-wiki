@@ -326,9 +326,13 @@ https://cloud.google.com/resources/data-governance-logs-best-practices-whitepape
 
 https://services.google.com/fh/files/misc/whitepaper_data_governance_logs_how_to.pdf
 
-#### Regionalized logs
+## Regionalized logs
 
 https://cloud.google.com/logging/docs/regionalized-logs
+
+## Apache APISIX with Google Cloud Logging
+
+https://medium.com/google-cloud/apache-apisix-integrates-with-google-cloud-logging-to-improve-log-processing-c638f4c7fa0f
 
 ## List of Logs Related Resources
 
