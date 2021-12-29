@@ -576,7 +576,7 @@ https://mentin.medium.com/bigquery-geospatial-query-tricks-8ebb4453ab5e
 
 ### BigQuery Omni
 
-[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multicloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
+[BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multi-cloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
 
 
 
@@ -589,6 +589,9 @@ https://mentin.medium.com/bigquery-geospatial-query-tricks-8ebb4453ab5e
 
 https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-4c90c10e31ac
 
+### Metadata of all tables
+
+https://medium.com/@erkan.ekser/how-to-keep-metadata-of-all-tables-in-bigquery-125516742bad
 
 ## BigQuery tutorials
 
