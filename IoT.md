@@ -34,7 +34,7 @@ https://github.com/bobbae/gcp/wiki/Networking#iot-networking
 
 ### Industrial Networking
 
-https://github.com/bobbae/gcp/wiki/Networking#industrial-networking
+https://github.com/bobbae/gcp/wiki/IoT-Networking#industrial-networking
 
 
 ### Intelligent Products Essentials
