@@ -109,8 +109,8 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 
 ### Modbus
 
-[Modbus](https://instrumentationtools.com/compare-modbus-fieldbus-and-profibus/
-) is an industrial serial communication protocol based on [Modicon](https://www.schneiderelectricrepair.com/modicon-products-repair-exchange-remanufacturing/) plus [Fieldbus](https://www.processindustryforum.com/article/what-is-fieldbus).
+[Modbus](https://en.wikipedia.org/wiki/Modbus
+) is an industrial serial communication protocol based on [Modicon](https://en.wikipedia.org/wiki/Programmable_logic_controller#Modicon) plus [Fieldbus](https://en.wikipedia.org/wiki/Fieldbus).
 
 
 ### PROFIBUS
@@ -118,6 +118,8 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 
 [PROFIBUS](https://en.wikipedia.org/wiki/Profibus
 ) (a portmanteau for Process Field Bus) is a standard for Fieldbus communication in automation technology and was first promoted in 1989 by BMBF (German department of education and research) and then used by Siemens, published as part of IEC 61158. 
+
+
 
 ### PROFINET
 
@@ -128,7 +130,14 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 ### CAN Bus
 
 A [Controller Area Network](https://en.wikipedia.org/wiki/CAN_bus
-) (CAN bus) is a vehicle bus standard and a message-based protocol designed to allow microcontrollers and devices to communicate with each other's applications without a host computer. 
+) (CAN bus) is a vehicle bus standard and a message-based protocol designed to allow [microcontrollers](https://www.elprocus.com/different-microcontrollers-used-in-automobiles/) and devices to communicate with each other's applications without a host computer. 
+
+
+### SCADA
+
+Supervisory control and data acquisition (SCADA) is a control system architecture used in the Machine industry.
+
+https://en.wikipedia.org/wiki/SCADA
 
 ## Mesh
 
@@ -140,4 +149,14 @@ A [Controller Area Network](https://en.wikipedia.org/wiki/CAN_bus
 
 [Wireless mesh network](https://en.wikipedia.org/wiki/Wireless_mesh_network) organizes radio nodes in a mesh topology. Many use a [FDM](https://en.wikipedia.org/wiki/Frequency-division_multiplexing) method while some use [TDM](https://en.wikipedia.org/wiki/Time-division_multiplexing).
 
+
+## Projects
+
+### Micro controller projects
+
+https://www.elprocus.com/advanced-microcontroller-based-mini-projects-for-engineering-students/
+
+### IoT Networking projects
+
+https://projectabstracts.com/iot-based-networking-projects
 
