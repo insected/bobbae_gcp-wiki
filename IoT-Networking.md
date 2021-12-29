@@ -1,3 +1,4 @@
+The Internet of things ([IoT](IoT)) describes the network of physical objects.
 
 ## 802.15.4
 
