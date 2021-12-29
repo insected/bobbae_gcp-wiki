@@ -128,7 +128,16 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
 
 https://medium.com/fifty-five-data-science/bigquery-machine-learning-cheat-sheet-7c053b21a657
 
+
+
+## BigQuery ML Models deployment with Vertex AI and Kubeflow
+
+https://medium.com/@corba77/bigquery-ml-models-deployment-with-vertex-ai-and-kubeflow-2cff8586277f
+
+
 ## Qwiklabs
+
+
 
 
 ### Applying BQML's Classification, Regression, and Demand Forecasting for Retail Applications
