@@ -383,6 +383,15 @@ https://blog.searce.com/automating-terraform-with-github-actions-5b3aac5abea7
 
 https://github.com/poseidon/typhoon
 
+
+## CICD Pipeline as Code using Terraform
+
+[CICD](CICD) Pipeline set up in Terraform.
+
+https://genekuo.medium.com/setting-up-a-ci-cd-pipeline-on-gcp-with-terraform-539e66797072
+
+
+
 ## Qwiklabs
 
 
