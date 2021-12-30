@@ -169,3 +169,7 @@ https://blog.searce.com/gitlab-ci-cd-to-deploy-applications-on-gke-using-shared-
 ## Cloud Deploy and GKE
 
 https://blog.searce.com/deploy-applications-to-gke-using-google-cloud-deploy-f1fda8618966
+
+## CICD Pipeline as Code using Terraform
+
+https://genekuo.medium.com/setting-up-a-ci-cd-pipeline-on-gcp-with-terraform-539e66797072
