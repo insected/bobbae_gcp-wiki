@@ -1,5 +1,5 @@
 
-This document is intended to be used in a training class on [GCP](GCP-Learning).
+This document is intended to be used in a [GCP](GCP-Learning) training class.
 
 
 
