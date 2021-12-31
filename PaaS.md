@@ -9,6 +9,10 @@ https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-c
 https://medium.com/@nnilesh7756/what-are-cloud-computing-services-iaas-caas-paas-faas-saas-ac0f6022d36e
 
 
+## XaaS
+
+https://searchcloudcomputing.techtarget.com/definition/XaaS-anything-as-a-service
+
 ## PaaS alternatives
 
 
