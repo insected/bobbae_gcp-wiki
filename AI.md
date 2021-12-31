@@ -28,7 +28,7 @@ https://cloud.google.com/vertex-ai/docs
 
 [AutoML](AutoML) lets you create and train a [Machine Learning](Machine-Learning) model with minimal technical effort. Even if you want the flexibility of a custom training application, you can use AutoML to quickly prototype models and explore new datasets before investing in development. For example, you can use it to learn which are good features in a dataset.
 
-Custom training lets you create a training application optimized for your targeted outcome. You have complete control over training application functionality; you can target any objective, use any algorithm, develop your own loss functions or metrics, or do any other customization.
+[Custom training](https://cloud.google.com/ai-platform/training/docs/overview) lets you create a training application optimized for your targeted outcome. You have complete control over training application functionality; you can target any objective, use any algorithm, develop your own loss functions or metrics, or do any other customization.
 
 https://cloud.google.com/vertex-ai/docs/start/training-methods
 
