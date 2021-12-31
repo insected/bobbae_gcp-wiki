@@ -98,3 +98,7 @@ https://rancher.com/
 ### Openshift
 
 https://openshift.com
+
+### VMWare Tanzu
+
+https://tanzu.vmware.com
