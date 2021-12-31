@@ -91,3 +91,10 @@ https://blog.scaleway.com/k8s-multi-cloud/
 
 https://platform9.com/
 
+### Rancher
+
+https://rancher.com/
+
+### Openshift
+
+https://openshift.com
