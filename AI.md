@@ -183,7 +183,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/recommendations-ai
 
 ### Limits of AI
 
-https://thebestschools.org/magazine/limits-of-modern-ai/
+https://www.researchgate.net/publication/321326439_The_Emperor_of_Strong_AI_Has_No_Clothes_Limits_to_Artificial_Intelligence
 
 ### Limits of Data Science
 
@@ -196,6 +196,8 @@ https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
 
 
 ### Computational limits
+
+https://www.discovermagazine.com/technology/the-computational-limits-of-deep-learning-are-closer-than-you-think
 
 https://arxiv.org/pdf/2007.05558.pdf
 
