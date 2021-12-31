@@ -11,7 +11,9 @@ https://medium.com/@nnilesh7756/what-are-cloud-computing-services-iaas-caas-paas
 
 ## XaaS
 
-https://searchcloudcomputing.techtarget.com/definition/XaaS-anything-as-a-service
+
+
+https://diginomica.com/quarter-century-saas-25-years-xaas
 
 ## PaaS alternatives
 
