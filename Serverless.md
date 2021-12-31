@@ -70,6 +70,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/deploying-serverle
 
 https://github.com/google-github-actions/setup-gcloud#example-workflows
 
+## Examples
+
+### Google Translate app on Cloud Function, Cloud Run and App Engine
+
+https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-nodejs?hl=en#0
+
 ## Qwiklabs
 
 
