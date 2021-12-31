@@ -102,3 +102,8 @@ https://openshift.com
 ### VMWare Tanzu
 
 https://tanzu.vmware.com
+
+### Cloud Foundry
+
+https://www.cloudfoundry.org/
+
