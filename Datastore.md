@@ -26,7 +26,9 @@ https://cloud.google.com/datastore/docs/reference/gql_reference
 Cloud Datastore database has a SQL-like syntax called "GQL" (Google Query Language). GQL does not support the Join statement. Instead, one-to-many and many-to-many relationships can be accomplished using ReferenceProperty(). This shared-nothing approach allows disks to fail without the system failing. Switching from a relational database to Cloud Datastore requires a paradigm shift for developers when modeling their data.
 
 
+## Quickstart
 
+https://cloud.google.com/datastore/docs/quickstart
 
 ## Firestore in Datastore mode
 
@@ -43,8 +45,6 @@ While the [Datastore](https://cloud.google.com/datastore/docs) mode interface ha
 ### Migrate App Engine Apps from Datastore to Firestore
 
 https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-6-firestore#0
-
-## More explanations
 
 [https://www.youtube.com/watch?v=SYG-BgXoJFQ](https://www.youtube.com/watch?v=SYG-BgXoJFQ)
 
