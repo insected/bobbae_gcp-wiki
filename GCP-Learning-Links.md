@@ -415,6 +415,10 @@ https://towardsdatascience.com/5-free-books-to-learn-statistics-for-data-science
 
 [Logging quickstart](https://cloud.google.com/logging/docs/quickstart-sdk)
 
+## AI
+
+https://github.com/louisfb01/top-10-cv-papers-2021
+
 ## AutoML
 
 
