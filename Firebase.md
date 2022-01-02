@@ -160,6 +160,10 @@ https://medium.com/@vlad.kanash_53500/serverless-telegram-bot-with-kotlin-fireba
 
 https://medium.com/@arunes/running-a-remix-app-on-firebase-b6aa003475fe
 
+### Building a REST API with Firebase
+
+https://indepth.dev/posts/1084/building-an-api-with-firebase
+
 ## Qwiklabs
 
 
