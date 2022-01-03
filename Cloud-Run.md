@@ -63,3 +63,6 @@ https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
 https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
 
 
+### Running Bokeh on Cloud Run with Domain mapping
+
+https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run
