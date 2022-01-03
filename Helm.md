@@ -11,6 +11,10 @@ https://helm.sh/docs/intro/quickstart/
 
 https://jfrog.com/blog/10-helm-tutorials-to-start-your-kubernetes-journey/
 
+### Best Practices
+
+https://codefresh.io/docs/docs/new-helm/helm-best-practices/
+
 
 ## Tiller
 
