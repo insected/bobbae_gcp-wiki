@@ -65,8 +65,7 @@ https://www.opsmx.com/blog/jenkins-vs-spinnaker/
 https://faun.pub/exploring-argocd-for-deployment-in-gke-or-any-kubernetes-cluster-aa935839d1fe
 
 
-
-
+https://awstip.com/deploying-java-spring-app-to-gke-using-argocd-d84837113ce9
 
 ### Bamboo
 
