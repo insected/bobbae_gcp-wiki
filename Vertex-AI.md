@@ -97,6 +97,10 @@ https://medium.com/google-cloud/boost-up-a-helpdesk-chatbot-with-dialogflow-cx-t
 
 https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-ai-2021-highlights
 
+### Creating Custom Vertex AI Pipelines
+
+https://medium.com/@anna.bildea/how-to-set-up-custom-vertex-ai-pipelines-step-by-step-467487f81cad
+
 ## Qwiklabs
 
 ### Qwik start
