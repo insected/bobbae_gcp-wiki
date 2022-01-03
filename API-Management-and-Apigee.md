@@ -4,10 +4,11 @@ To accelerate the speed of development, enterprise IT teams need to take an [API
 ) to integration, starting with the consumers' use cases rather than the structure of the data in their systems. 
 
 
-## API Gateway
+### API Gateway
 
 [API Gateway](https://cloud.google.com/api-gateway) is  a fully-managed gateway for serverless workloads.
 API Gateway enables you to provide secure access to your backend services through a well-defined REST API that is consistent across all of your services, regardless of the service implementation. Clients consume your REST APIS to implement standalone apps for a mobile device or tablet, through apps running in a browser, or through any other type of app that can make a request to an HTTP endpoint.
+
 
 
 ### API Management, Apigee
@@ -90,3 +91,7 @@ https://beranger.medium.com/rate-limit-google-cloud-functions-with-api-gateway-1
 ### Improving CTR
 
 https://cloud.google.com/blog/products/ai-machine-learning/bazaarvoice-uses-recommendations-ai-to-improve-ctr
+
+### API Gateway and CORS
+
+https://medium.com/call-for-atlas/connect-a-webapp-with-cors-and-google-api-gateway-94121ee74794
