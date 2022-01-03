@@ -715,6 +715,9 @@ https://medium.com/sardineai/open-sourcing-protobuf-to-bigquery-converter-c91680
 
 https://towardsdev.com/retrieve-your-bigquery-query-history-with-nodejs-sdk-6671dc5be503
 
+### Data versioning
+
+https://medium.com/codex/collaborate-better-with-data-versioning-566c2299c435
 
 ## Qwiklabs
 
