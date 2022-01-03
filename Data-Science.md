@@ -255,6 +255,6 @@ http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 
 
 
-## Data Science Qwiklabs
+## Qwiklabs
 
-Please take a look and try out the [Data Science Qwiklabs](Data-Science-Qwiklabs).
+[Data Science Qwiklabs](Data-Science-Qwiklabs).
