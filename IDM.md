@@ -8,7 +8,7 @@ An [identity-management system]( https://en.m.wikipedia.org/wiki/Identity-manage
 
 ## Google Cloud Identity
 
-A unified identity, access, app, and endpoint management ([IAM](IAM)/EMM) platform.
+A unified identity, access, app, and endpoint management ([IAM](IAM)/[EMM](https://en.wikipedia.org/wiki/Enterprise_mobility_management)) platform.
 
 https://cloud.google.com/identity
 
