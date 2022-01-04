@@ -13,6 +13,19 @@
 
 Terraform's [infrastructure-as-code](Infrastructure-as-Code)  (IAC) approach supports [DevOps](DevOps) best practices for change management, letting you manage Terraform configuration files in source control to maintain an ideal provisioning state for testing and production environments.
 
+### Best Practices
+
+
+https://geekflare.com/terraform-best-practices/
+
+### Terraform Blueprints
+
+https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints
+
+### terraform docker image
+
+https://hub.docker.com/r/hashicorp/terraform/
+
 ### RAD Lab
 
 https://github.com/GoogleCloudPlatform/rad-lab
@@ -76,18 +89,7 @@ https://www.terraform.io/docs/extend/hashicorp-provider-design-principles.html
 https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastructure-with-terraform
 
 
-### Best Practices
 
-
-https://geekflare.com/terraform-best-practices/
-
-### Terraform Blueprints
-
-https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints
-
-### terraform docker image
-
-https://hub.docker.com/r/hashicorp/terraform/
 
 ### Loops and conditions
 
