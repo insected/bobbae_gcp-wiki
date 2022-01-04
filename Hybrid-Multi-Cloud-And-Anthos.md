@@ -2,7 +2,9 @@
 
 [Anthos](Anthos) is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments. 
 
+## Distributed Cloud
 
+https://cloud.google.com/distributed-cloud
 
 ## Multi-Cloud
 
