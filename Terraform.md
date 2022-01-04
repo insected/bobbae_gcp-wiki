@@ -81,6 +81,10 @@ https://www.digitalocean.com/community/tutorial_series/how-to-manage-infrastruct
 
 https://geekflare.com/terraform-best-practices/
 
+### Terraform Blueprints
+
+https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints
+
 ### terraform docker image
 
 https://hub.docker.com/r/hashicorp/terraform/
