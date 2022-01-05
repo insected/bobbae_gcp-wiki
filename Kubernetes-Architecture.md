@@ -18,6 +18,9 @@ Kubernetes [objects](  https://kubernetes.io/docs/concepts/overview/working-with
 
 https://kubernetes.io/docs/concepts/architecture/
 
+## Components
+
+https://kubernetes.io/docs/concepts/overview/components/
 
 ## Networking
 
@@ -125,11 +128,15 @@ The cloud-controller-manager only runs controllers that are specific to your clo
 
 https://kubernetes.io/docs/concepts/overview/components/#cloud-controller-manager
 
-### kubelet
+### Kubelet
 
 An agent that runs on each node in the cluster. It makes sure that containers are running in a Pod.
 
 https://kubernetes.io/docs/concepts/overview/components/#kubelet
+
+#### Virtual Kubelet
+
+https://github.com/virtual-kubelet/virtual-kubelet
 
 ### kube-proxy
 
