@@ -29,3 +29,11 @@ https://krustlet.dev/
 ## Lunatic
 
 https://lunatic.solutions/
+
+## WasmEdge
+
+https://wasmedge.org/
+
+## Wasm and Docker
+
+https://wasmedge.org/wasm_docker/
