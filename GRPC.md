@@ -55,7 +55,25 @@ https://en.wikipedia.org/wiki/Remote_procedure_call
 
 There are [many other Data serialization formats](Data-Serialization-Formats)
 
+### MessagePack
 
+https://msgpack.org/
+
+### Avro
+
+https://avro.apache.org/
+
+### Thrift
+
+https://thrift.apache.org/
+
+### Flatbuffers
+
+https://github.com/google/flatbuffers
+
+### Capt'n Proto
+
+https://capnproto.org/
 
 ## When to use REST vs. gRPC
 
