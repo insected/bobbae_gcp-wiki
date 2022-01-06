@@ -4,6 +4,10 @@ https://marketingplatform.google.com/about/data-studio/
 
 https://blog.hubspot.com/marketing/google-data-studio
 
+https://www.youtube.com/playlist?list=PLb1Ovsa8zsbWXN-zlxEGgE-Yj_dNh2-xI
+
+https://www.youtube.com/watch?v=KouK1INq7Gg
+
 ## Data Visualization
 
 Data Studio is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
