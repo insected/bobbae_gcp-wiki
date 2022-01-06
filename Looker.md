@@ -3,6 +3,8 @@
 
 [LookML](LookML ) tells Looker how to query data, so everyone in the organization can create easy-to-read [reports]( https://docs.looker.com/dashboards/dashboards-reports-intro   ) and [dashboards](   https://docs.looker.com/dashboards  ) to [explore](https://docs.looker.com/data-modeling/learning-lookml/explore-menu-and-field-picker) patterns of data. Looker offers additional features for creating custom data applications and experiences.
 
+https://www.youtube.com/channel/UC1AIN4pUKbLzzMg8RKprtgQ
+
 [https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
 
 Looker's platform works with transactional databases like Oracle and MySQL as well as analytical datastores like [BigQuery](BigQuery), [Snowflake](https://snowflake.com), [Redshift](  https://aws.amazon.com/redshift/   ), and more. Looker lets you create consistent data models on top of all your data with speed and accuracy. Looker offers a unified surface to access all of an organization's data.
