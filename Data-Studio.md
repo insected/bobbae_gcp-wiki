@@ -2,6 +2,11 @@
 
 https://marketingplatform.google.com/about/data-studio/
 
+
+## Tutorial
+
+https://analytics.google.com/analytics/academy/course/10
+
 ## Data Visualization
 
 Data Studio is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
