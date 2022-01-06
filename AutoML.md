@@ -152,9 +152,11 @@ https://towardsdatascience.com/build-pycaret-deploy-gcp-521415a6c330
 ## Examples
 
 
-### AutoML Tables example
+### AutoML Tables notebooks
 
-Music recommendations
+https://cloud.google.com/automl-tables/docs/notebooks
+
+### Music recommendations
 
 https://github.com/GoogleCloudPlatform/ai-platform-samples/blob/master/notebooks/samples/tables/music_recommendation/music_recommendation.ipynb
 
