@@ -5,6 +5,7 @@ Google Cloud [AutoML](https://cloud.google.com/automl)  helps you  build   custo
 https://cloud.google.com/automl
 
 
+
 ## AI Platform with AutoML
 
 [AI Platform](https://cloud.google.com/ai-platform/docs/technical-overview) brings AutoML and AI Platform (Classic) together into a unified API, client library, and user interface.  
@@ -48,7 +49,11 @@ https://cloud.google.com/vision/automl/docs#videos
 
 [AutoML Tables](https://cloud.google.com/automl-tables/docs) helps to  build and deploy  machine learning models on structured data at speed and scale.
 
-AutoML Tables helps you create clean, effective training data by providing information about missing data, correlation, cardinality, and distribution for each of your features. 
+AutoML Tables help you create clean, effective training data by providing information about missing data, correlation, cardinality, and distribution for each of your features. 
+
+### How-to guides
+
+https://cloud.google.com/automl-tables/docs/how-to
 
 ### AutoML Tables Beginner's Guide
 
