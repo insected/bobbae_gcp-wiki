@@ -2,10 +2,7 @@
 
 https://marketingplatform.google.com/about/data-studio/
 
-
-## Tutorial
-
-https://analytics.google.com/analytics/academy/course/10
+https://blog.hubspot.com/marketing/google-data-studio
 
 ## Data Visualization
 
