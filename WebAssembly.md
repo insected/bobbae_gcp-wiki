@@ -2,7 +2,7 @@
 
 ## WASI
 
-WebAssembly System Interface (WASI) is a simple interface (ABI and API) designed by Mozilla intended to be portable to any platform. It provides POSIX-like features like file I/O constrained by capability-based security. There are also a few other proposed ABI/APIs.
+[WebAssembly System Interface](https://wasi.dev/) (WASI) is a simple interface (ABI and API) designed by Mozilla intended to be portable to any platform. It provides POSIX-like features like file I/O constrained by capability-based security. There are also a few other proposed ABI/APIs.
 
 ## Wasm3
 
