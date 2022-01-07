@@ -82,7 +82,7 @@ Another resource is [Cloud Academy](https://cloudacademy.com/) which has their o
 
 ## Syllabus
 
-You can review the [Syllabus](Syllabus) and [Schedules](Schedules).
+You should review the [Syllabus](Syllabus) and [Schedules](Schedules).
 
 ## Code of Conduct
 
