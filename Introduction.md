@@ -22,6 +22,9 @@ https://console.cloud.google.com/getting-started
 
 Each [data center](https://www.youtube.com/watch?v=XZmGGAbHqa0) location is in a region. Regions are available in Asia, Australia, Europe, North America, and South America. Each region is a collection of zones, which are [isolated from each other](https://cloud.google.com/architecture/scalable-and-resilient-apps) within the region. When architecting your apps in GCP, it’s important to understand [regions and zones](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources), as well as the resources that are regional or zonal. While some of the core resources in GCP are global, others may be restricted by [region or zone](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources). 
 
+
+https://www.cloudinfrastructuremap.com/
+
 ## What makes GCP Different?
 
 https://cloud.google.com/free/docs/what-makes-google-cloud-platform-different
