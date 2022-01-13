@@ -593,10 +593,28 @@ https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-
 
 https://medium.com/@erkan.ekser/how-to-keep-metadata-of-all-tables-in-bigquery-125516742bad
 
+### BigQuery Scripting
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/scripting
+
+https://jimbeepbeep.medium.com/getting-started-with-bigquery-scripting-45bdd968010c?p=4bb74216b8c8
+
+### Pandas-gbq
+
+https://cloud.google.com/bigquery/docs/pandas-gbq-migration
+
+### BigQuery Storage API
+
+https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas
+
+
 ## BigQuery tutorials
 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
 
+### From GCS to BigQuery
+
+https://jimbeepbeep.medium.com/google-cloud-storage-gcs-to-bigquery-the-simple-way-4bb74216b8c8
 
 ### Basics
 
