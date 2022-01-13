@@ -831,6 +831,9 @@ https://spectrum.ieee.org/deep-learning-computational-cost
 
 https://medium.com/google-developer-experts/get-recognized-as-an-ml-expert-with-the-google-professional-ml-engineer-certificate-c85a67e9270d
 
+
+https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf
+
 ## Tutorials
 
 - https://developers.google.com/machine-learning/crash-course/
