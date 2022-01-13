@@ -154,6 +154,9 @@ https://towardsdatascience.com/pubsub-to-bigquery-how-to-build-a-data-pipeline-u
 
 https://cloud.google.com/blog/products/data-analytics/export-google-cloud-data-into-elasticsearch-with-dataflow-templates
 
+## Dataflow CICD with Github actions
+
+https://medium.com/everything-full-stack/dataflow-ci-cd-with-github-actions-65765f09713f
 
 ## Stopping
 
