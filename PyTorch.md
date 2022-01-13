@@ -25,6 +25,10 @@ https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c
 
 https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-how-deploy-pytorch-models-vertex-ai
 
+## PyTorch/XLA
+
+https://cloud.google.com/blog/topics/developers-practitioners/pytorchxla-performance-debugging-tpu-vm-part-1
+
 ## PyTorch examples
 
 https://github.com/pytorch/examples
