@@ -9,3 +9,6 @@ Cloud Armor is GCP’s DDoS protection solution and a Web Application Firewall (
 https://medium.com/globant/introduction-to-google-cloud-armor-part-1-ddd76c7b9085
 
 
+## Geofencing a globally load balanced service on GCP using Cloud Armor
+
+https://medium.com/google-cloud/geofencing-a-globally-load-balanced-service-on-gcp-using-cloud-armor-44099480fd00
