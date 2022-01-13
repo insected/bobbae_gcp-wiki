@@ -101,6 +101,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-ai-2021-
 
 https://medium.com/@anna.bildea/how-to-set-up-custom-vertex-ai-pipelines-step-by-step-467487f81cad
 
+### Vertex AI custom containers 
+
+https://blog.searce.com/vertex-ai-custom-containers-for-the-deployment-of-ml-models-c02bfcdf3b30
+ 
 ## Qwiklabs
 
 ### Qwik start
