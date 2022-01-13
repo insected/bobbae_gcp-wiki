@@ -78,3 +78,7 @@ https://cloud.google.com/data-fusion/docs/tutorials
 ### Using Cloud Vision API from Data Fusion
 
 https://cloud.google.com/blog/products/data-analytics/connecting-data-fusion-to-the-vision-api-via-oauth-restful-apis
+
+### Customize compute profiles at Runtime
+
+https://jtaras.medium.com/cloud-data-fusion-customizing-compute-profiles-at-runtime-6420f9b185ba
