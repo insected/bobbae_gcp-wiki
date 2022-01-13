@@ -11,6 +11,9 @@ The [Standard Environment](https://cloud.google.com/appengine/docs/about-the-sta
 
 
 
+### App Engine Auto scaling
+
+https://levelup.gitconnected.com/understanding-and-optimization-of-google-app-engines-automatic-scaling-95674910da3b
 
 
 ## App Engine Standard
