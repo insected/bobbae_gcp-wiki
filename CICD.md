@@ -3,6 +3,14 @@
 
 [DevOps](DevOps) practices involve continuous development, continuous testing, continuous integration, continuous deployment and continuous monitoring of software applications throughout its development life cycle.
 
+## Cloud Build
+
+[Cloud Build](Cloud-Build) is a service that executes your builds on Google Cloud Platform's infrastructure.
+
+### CICD Pipelines with Cloud Build and Artifact Registry
+
+https://dev.to/brianburton/cloud-build-docker-and-artifact-registry-cicd-pipelines-with-private-packages-5ci2
+
 ## CICD Tools
 
 [https://www.youtube.com/watch?v=jXPn36d5Tog](https://www.youtube.com/watch?v=jXPn36d5Tog)
