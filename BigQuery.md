@@ -607,6 +607,9 @@ https://cloud.google.com/bigquery/docs/pandas-gbq-migration
 
 https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas
 
+### BigQuery data in a Jupyter notebook
+
+https://cloud.google.com/bigquery/docs/visualize-jupyter
 
 ## BigQuery tutorials
 
