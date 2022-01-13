@@ -168,6 +168,14 @@ https://cloud.google.com/blog/products/data-analytics/data-ingestion-planning-pr
 
 https://cloud.google.com/blog/products/data-analytics/open-data-lakehouse-on-google-cloud
 
+
+## Data Mesh
+
+https://martinfowler.com/articles/data-mesh-principles.html
+
+
+https://medium.com/google-cloud/10-reasons-why-you-should-not-adopt-data-mesh-7a0b045ea40f
+
 ## Examples
 
 ### Data stack architecture at Monzo
