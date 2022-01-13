@@ -28,6 +28,10 @@ https://cloud.google.com/products/operations
 
 https://cloud.google.com/logging/docs/concepts
 
+### Write logs to Cloud Logging in python
+
+https://medium.com/codex/how-to-write-logs-to-google-cloud-logging-in-python-46e7b514c60b
+
 ## Cloud Logs Explorer
 
 Cloud Logging has introduced a new version of its interface for analyzing logs data, the Logs Explorer. It is more responsive and introduces new features for letting you quickly and efficiently retrieve, view, and analyze logs from your queries.
