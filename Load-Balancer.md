@@ -47,6 +47,10 @@ https://blog.acolyer.org/2018/05/02/andromeda-performance-isolation-and-velocity
 
 [https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
 
+### 7 Types of Google Cloud Load Balancers
+
+https://faun.pub/understand-gcp-7-types-of-load-balancers-and-their-limitations-in-less-than-10-minutes-f877d0212664
+
 ## Deep dive
 
 [https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
