@@ -60,9 +60,15 @@ Many users today want to establish a unified analytics environment across a myri
 
 https://cloud.google.com/data-fusion#section-10
 
-## Example: End-to-end automated Analytics 
+## Examples
+
+### End-to-end automated Analytics 
 
 https://medium.com/google-cloud/from-zero-to-hero-end-to-end-automated-analytics-workload-using-cloud-functions-data-fusion-28670e5e7c74
+
+### Cloud Storage upload trigger Data Fusion ETL Pipelines
+
+https://jtaras.medium.com/google-data-fusion-using-cloud-storage-file-uploads-to-trigger-data-fusion-etl-pipelines-cec3325c78e7
 
 ## Tutorials
 
