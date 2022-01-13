@@ -136,6 +136,11 @@ https://towardsdatascience.com/why-you-should-try-something-else-than-airflow-fo
 
 ## Examples
 
+### Setup Apache Airflow in Multiple Nodes in Google Cloud Platform
+
+
+https://medium.com/data-folks-indonesia/setup-apache-airflow-in-multiple-nodes-in-google-cloud-platform-cdc33591d002
+
 ### Automating infrastructure with Cloud Composer
 
 
