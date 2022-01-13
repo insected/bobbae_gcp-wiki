@@ -740,6 +740,11 @@ https://towardsdev.com/retrieve-your-bigquery-query-history-with-nodejs-sdk-6671
 
 https://medium.com/codex/collaborate-better-with-data-versioning-566c2299c435
 
+
+### BigQuery validator
+
+https://conalldalydev.medium.com/why-i-built-the-python-bigquery-validator-package-3f2b32e9bc5b
+
 ## Qwiklabs
 
 
