@@ -52,6 +52,11 @@ https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-
 
 https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-patterns-part-2-how-reuse-cloud-function-instances-future-invocations
 
+### Cloud Functions URL permission error and IAM
+
+https://lukestoolkit.blogspot.com/2020/06/google-cloud-functions-error-forbidden.html
+
+
 ## Tutorial
 
 https://medium.com/geekculture/google-cloud-functions-a-brief-tutorial-de07d8945b01
