@@ -52,6 +52,15 @@ https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/b
 
 https://connect.looker.com/
 
+### Looker Business Intelligence Learning Path
+
+https://googlecourses.qwiklabs.com/course_templates/253
+
+
+### Looker Delivery verification requirements 
+
+https://storage.googleapis.com/looker-partner-enablement/How%20to%20Get%20Looker%20Delivery%20Verified.pdf
+
 ### Looker learning topics
 
 https://help.looker.com/
