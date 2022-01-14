@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Cloud Dataprep](https://cloud.google.com/dataprep) based on [Trifacta](https://www.trifacta.com/) Wrangler is a serverless data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis, reporting, and machine learning. Cloud Dataprep jobs are executed by Cloud Dataflow workers.
+[Cloud Dataprep](https://cloud.google.com/dataprep) based on [Trifacta](https://www.trifacta.com/) [Wrangler](https://www.trifacta.com/resource-library/introducing-trifacta-wrangler/) is a serverless data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis, reporting, and machine learning. Cloud Dataprep jobs are executed by Cloud Dataflow workers.
 
 Use Cloud Dataprep to explore and transform raw data from disparate and/or large datasets into clean and structured data for further analysis and processing.
 
