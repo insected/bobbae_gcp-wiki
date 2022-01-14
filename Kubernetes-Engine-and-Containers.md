@@ -15,11 +15,7 @@ Typical [Containers](Containers)  like [Docker](https://docker.io) make use of [
 [Kubernetes is influenced](Kubernetes-Origin)  by Borg, Omega and other systems.  You should check out various
 [Kubernetes Examples](Kubernetes-Examples) to learn more about [Kubernetes Architecture](Kubernetes-Architecture).
 
-
-
-
-[Kubernetes Networking](Kubernetes-Networking) can be complicated but it is worth studying in depth.
-
+[Kubernetes Networking](Kubernetes-Networking) implements flat pod networking where pods in the host network of a node can communicate with all pods on all nodes without NAT.  This model enables low-friction porting of apps from VMs to containers. 
 
 [As Kubernetes evolved](https://medium.com/swlh/kubernetes-the-evolution-of-a-technology-revolution-805302172ea6) the support for [Stateful Applications](https://blog.min.io/kubernetes-storage-patterns/) the
 [Kubernetes Storage](Kubernetes-Storage) architecture has evolved over time.
