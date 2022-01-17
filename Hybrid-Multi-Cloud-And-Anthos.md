@@ -39,6 +39,11 @@ Outposts are available as a 42U rack that can scale from [1 rack to 96 racks](  
 
 https://azure.microsoft.com/en-us/products/azure-stack/hub/
 
+
+#### Azure Stack Edge 
+
+https://azure.microsoft.com/en-us/products/azure-stack/edge/
+
 #### Azure Arc
 
 https://azure.microsoft.com/en-us/services/azure-arc/
