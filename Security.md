@@ -466,6 +466,9 @@ https://arstechnica.com/information-technology/2021/12/google-removes-malicious-
 
 https://snyk.io/vuln/npm:npm
 
+### RAT
+
+https://www.zdnet.com/article/remote-access-trojans-spread-through-microsoft-azure-aws-cloud-service-abuse/
 
 ## Security trends
 
