@@ -39,6 +39,11 @@ Outposts are available as a 42U rack that can scale from [1 rack to 96 racks](  
 
 https://azure.microsoft.com/en-us/products/azure-stack/hub/
 
+#### Azure Arc
+
+https://azure.microsoft.com/en-us/services/azure-arc/
+
+
 ### How is Anthos approach different than AWS Output or Azure Stack
 
 https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-compared-aws-outposts-vs-azure-stack-vs-google-anthos.html
