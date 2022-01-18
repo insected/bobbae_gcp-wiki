@@ -31,6 +31,9 @@ https://buoyant.io/service-mesh-manifesto/
 
 https://logz.io/blog/istio-linkerd-consul-comparison-service-meshes/
 
+### When not to use Service Mesh
+
+https://medium.com/google-cloud/when-not-to-use-service-mesh-1a44abdeea31
 
 ## Istio
 
