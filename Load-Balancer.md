@@ -31,6 +31,10 @@ To use Ingress, you must have the HTTP load balancing add-on enabled. GKE cluste
 * Weighted least connections: This algorithm is like least connections, but certain back end servers can be assigned a higher priority, receiving disproportionally more traffic/requests. In a scenario where some back end servers have a larger or more performant resource configuration, you would use WLC to route them a greater share of the traffic.
 * Random: Requests are sent to back end servers in a completely random fashion. No considerations are made for load levels, connection count, etc. 
 
+
+https://medium.com/google-developer-experts/a-trip-with-google-global-load-balancers-advanced-but-easy-f09b255d5a23
+
+
 ## Maglev
 
 [Maglev](https://research.google/pubs/pub44824/) is Google's network load balancer. It is [a large distributed software system](https://research.google/pubs/pub44824/) that runs on commodity Linux servers.
