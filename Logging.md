@@ -158,6 +158,9 @@ The Ops Agent is the primary agent for collecting telemetry from your Compute En
 
 https://cloud.google.com/logging/docs/agent/ops-agent
 
+https://cloud.google.com/blog/products/operations/use-ansible-to-deploy-the-google-cloud-ops-agent
+
+
 #### OpenTelemetry
 
 https://opentelemetry.io/
