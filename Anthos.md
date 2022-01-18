@@ -56,6 +56,8 @@ Anthos Config Management is a key component of Anthos. With Anthos Config Manage
 
 https://cloud.google.com/blog/products/containers-kubernetes/let-kubernetes-automate-your-configs-and-policies-with-acm
 
+https://cloud.google.com/blog/topics/anthos/enforcing-the-cis-benchmark-with-policy-controller
+
 [https://www.youtube.com/watch?v=nhXJzjITgMA](https://www.youtube.com/watch?v=nhXJzjITgMA)
 
 ### Anthos on GKE via Terraform
@@ -74,6 +76,11 @@ Learn how Cloud Run lets you adopt the simplicity of serverless on your own term
 
 Discuss [Serverless](Serverless) computing perspective in relation to Anthos and Cloud Run on top.
 
+### Anthos Service Mesh
+
+https://cloud.google.com/anthos/service-mesh
+
+https://alex-desmet.medium.com/exposing-gke-services-through-anthos-service-mesh-with-a-managed-https-load-balancer-9d5d7a383d21
 
 ### Migrate for Anthos
 
