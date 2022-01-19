@@ -190,6 +190,15 @@ Reverse of terraform.
 
 [https://github.com/GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer)
 
+#### Gcloud resource-config bulk-export
+
+https://www.teracloud.io/single-post/google-cloud-importing-resources-from-the-gcloud-to-iaac-in-terraform
+
+#### Bulk import and export of existing Google resources
+
+
+https://cloud.google.com/config-connector/docs/how-to/import-export/bulk-export
+
 ### Terracognita
 
 https://github.com/cycloidio/terracognita
