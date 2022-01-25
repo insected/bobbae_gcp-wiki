@@ -34,6 +34,8 @@ Google Cloud APIs support [multiple authentication flows](https://cloud.google.c
 
 https://tools.ietf.org/html/rfc6749
 
+https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+
 ### OpenAPI
 
 [Cloud Endpoints](Endpoints) supports APIs that are described using version 2.0 of the OpenAPI specification.
