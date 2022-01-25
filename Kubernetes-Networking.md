@@ -15,6 +15,8 @@ Kubernetes IP addresses exist at the Pod scope - containers within a Pod share t
 https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
 
+https://morioh.com/p/12ec1b56bf4c
+
 ## Docker Networking vs. Kubernetes Networking
 
 The [Docker networking model](https://docs.docker.com/network/) relies, by default, on a virtual bridge network. It is a per-host private network where containers get attached and allocated a private IP address. 
