@@ -26,6 +26,8 @@ If a Cloud VPN tunnel goes down, it restarts automatically. If an entire virtual
 
 VPN tunnels connected to HA VPN gateways must use dynamic (BGP) routing. Depending on the way that you configure route priorities for HA VPN tunnels, you can create an active/active or active/passive routing configuration. For both of these routing configurations, both VPN tunnels remain active.
 
+https://cloud.google.com/network-connectivity/docs/vpn/concepts/topologies
+
 
 ## Active/active vs. active/passive routing options for HA VPN
 
