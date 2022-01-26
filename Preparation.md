@@ -74,6 +74,7 @@ https://github.com/ddneves/awesome-gcp-certifications
 
 https://jackraiferbaruch.medium.com/book-review-professional-cloud-architect-google-cloud-certification-guide-a2686c0665f7
 
+https://youtu.be/UGRDM86MBIQ
 
 ## External Learning Resources
 
