@@ -84,6 +84,10 @@ There seem to be [a lot](https://github.com/GoogleCloudPlatform/awesome-google-c
 The [LinuxAcademy has been integrated into A Cloud Guru](https://acloudguru.com/) and many people like their increasing GCP content. [PluralSight](https://www.pluralsight.com/search?q=Gcp) recently acquired [A Cloud Guru](https://acloudguru.com/).
 Another resource is [Cloud Academy](https://cloudacademy.com/) which has their own GCP related materials.
 
+https://youtu.be/IUU6OR8yHCc
+
+
+
 ## Syllabus
 
 You should review the [Syllabus](Syllabus) and [Schedules](Schedules).
