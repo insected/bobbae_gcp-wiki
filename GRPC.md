@@ -38,6 +38,8 @@ gRPC uses HTTP/2 under the covers, but HTTP is not exposed to the API designer. 
 
 https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/
 
+https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
+
 ### Quickstart in Go
 
 https://grpc.io/docs/languages/go/quickstart/
