@@ -105,6 +105,12 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 
 [DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) (Data Distribution Service) is another scalable IoT protocol that works to a publisher-subscriber model.
 
+### OPC UA
+
+OPC Unified Architecture (OPC UA) is a cross-platform, open-source, IEC62541 standard for data exchange. 
+
+
+
 
 ## Industrial Networking
 
