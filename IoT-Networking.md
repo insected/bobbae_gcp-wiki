@@ -86,10 +86,9 @@ https://en.wikipedia.org/wiki/MQTT
 
 ### CoAP
 
-A [CoAp](https://en.wikipedia.org/wiki/Constrained_Application_Protocol
-) (Constrained Application Protocol) is an application layer protocol. It’s designed to address the needs of HTTP-based IoT systems. HTTP stands for Hypertext Transfer Protocol, and it’s the foundation of data communication for the World Wide Web.
+A [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol
+) (Constrained Application Protocol) is an application layer protocol. It’s designed to address the needs of HTTP-based IoT systems. 
 
-While the existing structure of the internet is freely available and usable by any IoT device, it’s often too heavy and power-consuming for most IoT applications. This has led to many within the IoT community dismissing HTTP as a protocol not suitable for IoT.
 
 
 
@@ -114,6 +113,7 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 [Modbus](https://en.wikipedia.org/wiki/Modbus
 ) is an industrial serial communication protocol based on [Modicon](https://en.wikipedia.org/wiki/Programmable_logic_controller#Modicon) plus [Fieldbus](https://en.wikipedia.org/wiki/Fieldbus).
 
+https://www.ni.com/en-us/innovations/white-papers/14/the-modbus-protocol-in-depth.html
 
 ### PROFIBUS
 
