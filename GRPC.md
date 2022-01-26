@@ -40,6 +40,9 @@ https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditiona
 
 https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 
+https://phil.tech/2017/rest-confusion-explained/
+
+
 ### Quickstart in Go
 
 https://grpc.io/docs/languages/go/quickstart/
