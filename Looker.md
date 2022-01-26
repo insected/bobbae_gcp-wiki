@@ -52,6 +52,9 @@ https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/b
 
 https://connect.looker.com/
 
+https://hevodata.com/learn/understanding-looker-ml/
+
+
 ### Looker Business Intelligence Learning Path
 
 https://googlecourses.qwiklabs.com/course_templates/253
