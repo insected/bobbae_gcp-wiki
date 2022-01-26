@@ -6,6 +6,10 @@ https://cloud.google.com/healthcare-api/
 
 https://cloud.google.com/healthcare
 
+### Cloud Life Sciences
+
+https://cloud.google.com/life-sciences
+
 ### Cloud Healthcare API
 
 The [Cloud Healthcare API](https://cloud.google.com/healthcare/docs) provides industry-standard protocols and formats for ingesting, storing, analyzing, and integrating healthcare data with cloud-based applications.
