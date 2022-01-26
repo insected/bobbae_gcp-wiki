@@ -1,6 +1,6 @@
 
 
-[Cloud Spanner](https://cloud.google.com/spanner) is a  [managed relational database](https://www.youtube.com/watch?v=IFbydfGV2lQ) with [unlimited scale](https://www.youtube.com/watch?v=bUSU1e9j8wc), [strong consistency](https://www.youtube.com/watch?v=C75kpQszAjs), and up to 99.999% availability](https://www.youtube.com/watch?v=5bjYk6Hhd10).  
+[Cloud Spanner](https://cloud.google.com/spanner) is a  [managed relational database](https://www.youtube.com/watch?v=IFbydfGV2lQ) with [unlimited scale](https://www.youtube.com/watch?v=bUSU1e9j8wc), [strong consistency](https://www.youtube.com/watch?v=C75kpQszAjs), and [up to 99.999% availability](https://www.youtube.com/watch?v=5bjYk6Hhd10).  
 
 ### Overview
 
