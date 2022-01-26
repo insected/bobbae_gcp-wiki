@@ -615,6 +615,7 @@ https://cloud.google.com/bigquery/docs/visualize-jupyter
 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
 
+
 ### From GCS to BigQuery
 
 https://jimbeepbeep.medium.com/google-cloud-storage-gcs-to-bigquery-the-simple-way-4bb74216b8c8
@@ -744,6 +745,12 @@ https://medium.com/codex/collaborate-better-with-data-versioning-566c2299c435
 ### BigQuery validator
 
 https://conalldalydev.medium.com/why-i-built-the-python-bigquery-validator-package-3f2b32e9bc5b
+
+
+
+### Covid 19 data Insights 
+
+https://chriskyfung.github.io/blog/qwiklabs/Insights-from-Data-with-BigQuery-Challenge-Lab
 
 ## Qwiklabs
 
