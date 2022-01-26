@@ -61,6 +61,11 @@ https://googlecourses.qwiklabs.com/course_templates/253
 
 https://storage.googleapis.com/looker-partner-enablement/How%20to%20Get%20Looker%20Delivery%20Verified.pdf
 
+
+### LookML Developer certification
+
+https://cloud.google.com/certification/guides/lookml-developer
+
 ### Looker learning topics
 
 https://help.looker.com/
