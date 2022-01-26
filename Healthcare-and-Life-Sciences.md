@@ -33,6 +33,7 @@ https://vneilley.medium.com/most-fhir-servers-are-unusable-in-production-8833cb1
 
 Google Cloud infrastructure provides reliable information security designed to meet or exceed the requirements of HIPAA and protected health information. Covered by our HIPAA Business Associates Agreement and available via FedRAMP ATO for the National Cancer Institute Cancer Cloud Pilots.
 
+https://www.cdc.gov/phlp/publications/topic/hipaa.html
 
 ### FHIR
 
