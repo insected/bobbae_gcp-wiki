@@ -78,6 +78,12 @@ Apigee hybrid is a platform for developing and managing API proxies that feature
 
 https://cloud.google.com/apigee/integration
 
+
+
+### Grpc, REST and OpenAPI
+
+https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
+
 ## Tutorials
 
 ### Building a API Proxy
