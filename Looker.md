@@ -56,7 +56,7 @@ https://www.cloudskillsboost.google/quests/182
 
 https://hevodata.com/learn/understanding-looker-ml/
 
-
+https://github.com/sathishvj/awesome-gcp-certifications/blob/master/looker-lookml-developer.md
 
 ### Looker Business Intelligence Learning Path
 
