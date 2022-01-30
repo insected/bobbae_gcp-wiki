@@ -3,6 +3,8 @@
 
 [LookML](LookML ) tells Looker how to query data, so everyone in the organization can create easy-to-read [reports]( https://docs.looker.com/dashboards/dashboards-reports-intro   ) and [dashboards](   https://docs.looker.com/dashboards  ) to [explore](https://docs.looker.com/data-modeling/learning-lookml/explore-menu-and-field-picker) patterns of data. Looker offers additional features for creating custom data applications and experiences.
 
+https://info.looker.com/youtube-learning-looker-tutorials-and-product-features
+
 https://www.youtube.com/channel/UC1AIN4pUKbLzzMg8RKprtgQ
 
 [https://www.youtube.com/watch?v=XG4ytmgqSpU](https://www.youtube.com/watch?v=XG4ytmgqSpU)
