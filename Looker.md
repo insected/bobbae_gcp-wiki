@@ -67,6 +67,7 @@ https://github.com/sathishvj/awesome-gcp-certifications/blob/master/looker-lookm
 
 https://googlecourses.qwiklabs.com/course_templates/253
 
+<!-- https://www.itfreedumps.com/google-lookml-developer-questions-and-answers/?utm_source=pocket_mylist -->
 
 ### Looker Delivery verification requirements 
 
