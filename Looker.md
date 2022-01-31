@@ -35,6 +35,9 @@ https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
 
 ### Dimensions and Measures
 
+https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
+
+
 https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/creating-dimensions-and-measures
 
 
