@@ -25,6 +25,8 @@ The [Apache Beam documentation](https://beam.apache.org/documentation/) provides
 
 Cloud Dataflow is not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. 
 
+https://github.com/manuzhang/awesome-streaming
+
 ### Why Dataflow?
 
 * Serverless: We don’t have to manage computing resources
