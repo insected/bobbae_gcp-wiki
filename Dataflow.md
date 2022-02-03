@@ -23,7 +23,7 @@ The [Apache Beam documentation](https://beam.apache.org/documentation/) provides
 
 ### Alternatives
 
-Cloud Dataflow is not the first big data processing engine, its not the only one available on Google Cloud Platform. For example, one alternative is to run Apache Spark in Google Cloud Dataproc Service. 
+Cloud Dataflow is not the first big data processing engine.  For example, one alternative is to run Apache Spark in Google Cloud [Dataproc](Dataproc) Service. Another is [Cloud Composer](Composer) based on  Airflow. 
 
 https://github.com/manuzhang/awesome-streaming
 
