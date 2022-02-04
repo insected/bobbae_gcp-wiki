@@ -70,6 +70,10 @@ https://medium.com/google-cloud/from-zero-to-hero-end-to-end-automated-analytics
 
 https://jtaras.medium.com/google-data-fusion-using-cloud-storage-file-uploads-to-trigger-data-fusion-etl-pipelines-cec3325c78e7
 
+### Config driven Pipeline
+
+https://jtaras.medium.com/cloud-data-fusion-building-config-driven-pipelines-a40d23e9d011
+
 ## Tutorials
 
 
