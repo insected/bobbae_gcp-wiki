@@ -11,6 +11,9 @@
 
 https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-now-ga
 
+https://davelms.medium.com/automate-gke-deployments-using-cloud-build-and-cloud-deploy-2c15909ddf22
+
+
 ### CICD Pipelines with Cloud Build and Artifact Registry
 
 https://dev.to/brianburton/cloud-build-docker-and-artifact-registry-cicd-pipelines-with-private-packages-5ci2
