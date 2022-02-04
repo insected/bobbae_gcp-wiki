@@ -5,9 +5,8 @@
 
 At the heart of Anthos is Google’s Kubernetes Engine (GKE). [GKE](GKE) is Secured and fully managed [Kubernetes](Kubernetes) service with revolutionary [autopilot](https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview) mode of operation.
 
+https://medium.com/google-cloud/google-cloud-anthos-series-23b9a35e9179
 
-
-Getting started with Anthos.
 
 [https://www.youtube.com/watch?v=DM8p_cnc6ZY](https://www.youtube.com/watch?v=DM8p_cnc6ZY)
 
