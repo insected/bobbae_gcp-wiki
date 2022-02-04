@@ -179,6 +179,13 @@ https://cloud.google.com/dialogflow
 
 https://cloud.google.com/blog/topics/developers-practitioners/recommendations-ai-modeling
 
+### Vertex AI Vizier
+
+[Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview) is a black-box optimization service that helps you tune hyperparameters.
+
+
+
+
 ## Risks
 
 ### Limits of AI
