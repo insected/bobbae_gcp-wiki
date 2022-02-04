@@ -215,6 +215,9 @@ https://docs.looker.com/data-modeling/looker-blocks#available_blocks
 
 https://looker.com/platform/directory/home
 
+### BigQueryML and Looker
+
+https://cloud.google.com/blog/products/data-analytics/explainable-ai-using-bigquery-machine-learning-and-looker
 
 
 ## Comparisons
