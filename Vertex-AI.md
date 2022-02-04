@@ -105,6 +105,11 @@ https://medium.com/@anna.bildea/how-to-set-up-custom-vertex-ai-pipelines-step-by
 
 https://blog.searce.com/vertex-ai-custom-containers-for-the-deployment-of-ml-models-c02bfcdf3b30
  
+### Vertex AI Vizier
+
+[Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview) is a black-box optimization service that helps you tune hyperparameters.
+
+
 ## Qwiklabs
 
 ### Qwik start
