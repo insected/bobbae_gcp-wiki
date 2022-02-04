@@ -160,6 +160,10 @@ https://cloud.google.com/blog/products/data-analytics/export-google-cloud-data-i
 
 https://medium.com/everything-full-stack/dataflow-ci-cd-with-github-actions-65765f09713f
 
+## Import data into Firestore
+
+https://medium.com/@larry_nguyen/how-to-import-data-into-google-firestore-2c31614c567c
+
 ## Stopping
 
 You cannot delete a Dataflow job; you can only stop it.
