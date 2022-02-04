@@ -72,6 +72,9 @@ Bigtable is one of the prototypical examples of a wide column store. It maps two
 
 Bigtable is designed to scale into the petabyte range across hundreds or thousands of machines, and to make it easy to add more machines to the system and automatically start taking advantage of those resources without any reconfiguration.
 
+#### Autoscaling
+
+https://cloud.google.com/blog/products/databases/cloud-bigtable-now-even-easier-to-manage-with-autoscaling
 
 ### Storing a copy of the Web
 
