@@ -669,6 +669,7 @@ https://blog.fourninecloud.com/how-to-sync-data-from-mysql-to-bigquery-9ef980ef6
 
 https://towardsdatascience.com/3-ways-to-query-bigquery-in-python-66838f45cb43
 
+
 ### Genomics Analytics with BigQuery
 
 https://cloud.google.com/blog/products/data-analytics/genomics-data-analytics-with-cloud-pt2
@@ -693,6 +694,11 @@ https://medium.com/google-cloud/streaming-data-into-bigquery-using-google-cloud-
 ### Migrating from AWS Glue to BigQuery
 
 https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac12980f2036
+
+
+### Dynamic SQL Stored Procedure
+
+https://medium.com/@michalwesleymnach/an-introduction-to-dynamic-sql-in-bigquery-4c8bb8d6dde7
 
 ### Bqfetch
 
