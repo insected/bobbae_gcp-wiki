@@ -266,6 +266,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-verte
 
 https://cloud.google.com/blog/products/ai-machine-learning/discover-advanced-insights-with-google-cloud-natural-language-ai
 
+### Image processing
+
+https://medium.com/google-cloud/process-images-with-google-cloud-ai-c8a9ff159d99
+
 ## Tutorials
 
 - https://www.w3schools.com/ai/
