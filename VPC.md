@@ -55,6 +55,9 @@ VPC Service Controls provides an extra layer of security defense for Google Clou
 
 https://cloud.google.com/vpc-service-controls/docs/overview
 
+https://medium.com/google-cloud/google-cloud-vpc-service-controls-lessons-learned-670619c3d82c
+
+
 ## Private Google Access
 
 VM instances that only have internal IP addresses (no external IP addresses) can use Private Google Access. They can reach the external IP addresses of Google APIs and services. The source IP address of the packet can be the primary internal IP address of the network interface or an address in an alias IP range that is assigned to the interface. If you disable Private Google Access, the VM instances can no longer reach Google APIs and services; they can only send traffic within the VPC network.
