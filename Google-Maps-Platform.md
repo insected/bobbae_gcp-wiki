@@ -10,6 +10,9 @@ http://mapsplatform.google.com/
 
 Maps JavaScript API, Street View Static API, Maps URLs and Maps Embed API. Routes APIs support Directions API, Distance Matrix API and Roads API.  Places SDK for Android and iOS add rich details for places. Places Library, Maps JavaScript API, Places API, Geocoding API, Geolocation API and Time Zone API provide rich location and time zone data.
 
+### Quick Builder
+
+https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences
 
 ### Solving business problems with Google Maps API
 
