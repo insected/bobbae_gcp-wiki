@@ -89,6 +89,10 @@ https://machinelearningmastery.com/what-is-deep-learning/
 
 https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML/blob/master/Chapter11/nyc_bike_sharing_dnn.sql
 
+### Explainable AI and BigQuery ML
+
+https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228
+
 
 ##  BigQuery ML  Tutorials
 
