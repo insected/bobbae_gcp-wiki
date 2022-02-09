@@ -12,6 +12,10 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 
 [https://www.youtube.com/watch?v=h1LvACJWjKc](https://www.youtube.com/watch?v=h1LvACJWjKc)
 
+## Serverless
+
+https://cloud.google.com/dataproc-serverless/docs
+
 ## Metastore
 
 [Dataproc Metastore](https://cloud.google.com/blog/products/data-analytics/cloud-hive-metastore-now-available) is a managed [Hive metastore](   https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/ ) that can be used as a [centralized metadata repository]( 
