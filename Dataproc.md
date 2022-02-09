@@ -14,6 +14,8 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 
 ## Serverless
 
+Dataproc Serverless lets you run Spark batch workloads without requiring you to provision and manage your own cluster.
+
 https://cloud.google.com/dataproc-serverless/docs
 
 ## Metastore
