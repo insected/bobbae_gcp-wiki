@@ -64,6 +64,11 @@ https://faun.pub/understand-gcp-7-types-of-load-balancers-and-their-limitations-
 
 [https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
 
+## Certificate Manager
+
+https://cloud.google.com/certificate-manager/docs
+
+Certificate Manager lets you acquire and manage TLS (SSL) certificates for use with Cloud Load Balancing. 
 
 ## Load Balancer Options
 
