@@ -12,7 +12,7 @@
 
 https://cloud.google.com/pubsub/lite/docs
 
-
+https://cloud.google.com/pubsub/docs/choosing-pubsub-or-lite
 
 #### Reservations
 
