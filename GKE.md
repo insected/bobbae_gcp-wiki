@@ -59,6 +59,9 @@ https://gtseres.medium.com/how-to-expose-more-than-5-ports-for-a-loadbalancer-ks
 
 [Kubernetes](https://cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview) is a great tool to host your highly available applications but what happens when you have to work with [stateful workloads](https://www.youtube.com/watch?v=rRZtZX0PDFc)? 
 
+### GKE Monitoring
+
+https://www.containiq.com/post/gke-monitoring
 
 
 ### Batch on GKE
