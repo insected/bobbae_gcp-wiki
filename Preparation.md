@@ -23,6 +23,8 @@ https://www.cloudskillsboost.google/
 
 https://cloud.google.com/training/
 
+https://cloud.google.com/blog/topics/training-certifications/access-role-based-google-cloud-training-free-of-charge
+
 #### Veterans
 
 https://cloud.google.com/blog/topics/training-certifications/google-cloud-certification-learning-journey-for-veterans
