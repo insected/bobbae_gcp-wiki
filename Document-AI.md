@@ -26,6 +26,10 @@ https://cloud.google.com/document-ai/docs/quickstart-console
 
 https://cloud.google.com/document-ai/docs/how-to
 
+## Document AI and Workflows
+
+https://cloud.google.com/blog/topics/developers-practitioners/smarter-applications-document-ai-workflows-and-cloud-functions
+
 ## Related Google Cloud Products
 
 https://cloud.google.com/document-ai/docs/basics
