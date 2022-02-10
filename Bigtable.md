@@ -49,6 +49,9 @@ https://cloud.google.com/bigtable/docs/samples
 
 https://cloud.google.com/bigtable/docs/quickstarts
 
+## Import CSV data
+
+https://medium.com/google-cloud/easy-csv-importing-into-cloud-bigtable-ed3f62139b89
 
 ## HBase tutorial
 
