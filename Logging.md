@@ -17,6 +17,9 @@ Error Reporting aggregates and displays errors produced in your running cloud se
 
 https://cloud.google.com/error-reporting/docs
 
+## Python API
+
+https://medium.com/google-cloud/introducing-google-cloud-logging-python-v3-0-0-4c548663bab4
 
 ## Cloud Operations Suite
 
