@@ -32,6 +32,10 @@ https://cloud.google.com/blog/products/identity-security/how-banks-can-engineer-
 
 https://cloud.google.com/security/compliance/offerings/#/
 
+### Assured Workloads
+
+https://cloud.google.com/assured-workloads
+
 ### Compliance Reports Manager
 
 https://cloud.google.com/security/compliance/compliance-reports-manager
