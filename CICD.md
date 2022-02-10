@@ -13,6 +13,10 @@ https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-now-ga
 
 https://davelms.medium.com/automate-gke-deployments-using-cloud-build-and-cloud-deploy-2c15909ddf22
 
+### Selective deployment
+
+https://github.com/GoogleCloudPlatform/professional-services/tree/main/examples/cloudbuild-selective-deployment
+
 
 ### CICD Pipelines with Cloud Build and Artifact Registry
 
