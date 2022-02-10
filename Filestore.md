@@ -4,6 +4,10 @@
 
 https://cloud.google.com/filestore/docs/quickstart-gcloud
 
+## Backups and Monitoring
+
+https://blog.thecloudside.com/managing-gcp-filestore-in-production-backups-monitoring-e08ffa09e7f6
+
 ## Comparison to AWS EFS
 
 [Amazon EFS](https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html) file system can be mounted through the Network File System versions 4.0 and 4.1 (NFSv4) protocol. We recommend using a current generation Linux NFSv4.1 client.
