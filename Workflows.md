@@ -97,6 +97,10 @@ https://glaforge.appspot.com/article/sending-an-email-with-sendgrid-from-workflo
 
 https://glaforge.appspot.com/article/load-and-use-json-data-in-your-workflow-from-gcs
 
+### Using Secret Manager Connector for Workflows
+
+https://glaforge.appspot.com/article/using-the-secret-manager-connector-for-workflows-to-call-an-authenticated-service
+
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
 [Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
