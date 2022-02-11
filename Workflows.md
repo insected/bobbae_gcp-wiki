@@ -89,6 +89,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orc
 
 https://cloud.google.com/blog/topics/developers-practitioners/implementing-saga-pattern-workflows
 
+### Send email using Sendgrid in Workflows
+
+https://glaforge.appspot.com/article/sending-an-email-with-sendgrid-from-workflows
+
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
 [Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
