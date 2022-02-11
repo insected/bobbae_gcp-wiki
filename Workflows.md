@@ -85,6 +85,9 @@ Google Cloud Platform offers a number of tools and services for orchestration:
 
 https://cloud.google.com/blog/topics/developers-practitioners/choosing-right-orchestrator-google-cloud
 
+### Saga pattern to deal with failures in Workflows
+
+https://cloud.google.com/blog/topics/developers-practitioners/implementing-saga-pattern-workflows
 
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
