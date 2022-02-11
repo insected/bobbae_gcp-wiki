@@ -93,6 +93,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/implementing-saga-
 
 https://glaforge.appspot.com/article/sending-an-email-with-sendgrid-from-workflows
 
+### Loading JSON data from GCS in Workflows
+
+https://glaforge.appspot.com/article/load-and-use-json-data-in-your-workflow-from-gcs
+
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
 [Review the comparisons of Airflow, Luigi, Argo, MLflow and Kubeflow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
