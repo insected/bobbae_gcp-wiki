@@ -81,6 +81,9 @@ https://research.google/pubs/pub45826/
 
 https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-the-most--advanced-ml-modeling-possible
 
+## Feature store
+
+https://cloud.google.com/vertex-ai/docs/featurestore/overview
 
 ## Examples
 
