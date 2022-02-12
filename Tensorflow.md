@@ -35,6 +35,9 @@ Reuse trained models like BERT and Faster R-CNN with just a few lines of code.
 
 Visualizing your model with tensorboard.
 
+
+https://cloud.google.com/vertex-ai/docs/experiments/tensorboard-overview
+
 TensorBoard provides the visualization and tooling needed for machine learning experimentation:
 
 - Tracking and visualizing metrics such as loss and accuracy
@@ -46,6 +49,8 @@ TensorBoard provides the visualization and tooling needed for machine learning e
 
 [https://www.youtube.com/watch?v=qEQ-_EId-D0](https://www.youtube.com/watch?v=qEQ-_EId-D0)
 
+
+https://blog.ml6.eu/a-vertex-ai-tensorboard-alternative-for-smaller-budgets-part-1-ab840d2a592a
 
 ### Tensorflow Graph
 
