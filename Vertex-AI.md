@@ -66,6 +66,9 @@ https://cloud.google.com/vertex-ai/docs/vizier
 
 https://cloud.google.com/vertex-ai/docs/featurestore
 
+https://towardsdatascience.com/do-you-really-need-a-feature-store-e59e3cc666d3
+
+
 ## Perform vector similarity searches using Vertex AI Matching Engine
 
 https://cloud.google.com/vertex-ai/docs/matching-engine
@@ -81,9 +84,7 @@ https://research.google/pubs/pub45826/
 
 https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-the-most--advanced-ml-modeling-possible
 
-## Feature store
 
-https://cloud.google.com/vertex-ai/docs/featurestore/overview
 
 ## Examples
 
