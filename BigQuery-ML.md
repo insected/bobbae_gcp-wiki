@@ -133,6 +133,9 @@ https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
 https://medium.com/fifty-five-data-science/bigquery-machine-learning-cheat-sheet-7c053b21a657
 
 
+### Recommender
+
+https://medium.com/g-company/build-a-recommender-with-bigquery-ml-15e67a457548
 
 ## BigQuery ML Models deployment with Vertex AI and Kubeflow
 
