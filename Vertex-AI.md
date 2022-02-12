@@ -113,6 +113,9 @@ https://blog.searce.com/vertex-ai-custom-containers-for-the-deployment-of-ml-mod
 
 [Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview) is a black-box optimization service that helps you tune hyperparameters.
 
+### Alphafold
+
+https://markryan-69718.medium.com/alphafold-for-everybody-c73d40d4b56d
 
 ## Qwiklabs
 
