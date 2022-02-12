@@ -70,6 +70,9 @@ https://medium.com/google-cloud/who-said-you-cant-code-on-a-chromebook-local-dev
 
 https://medium.com/@sdptd20/exploring-google-cloud-api-gateway-with-google-cloud-functions-ff56c1c96cc9
 
+### Monitoring High usage BigQuery jobs
+
+https://engineering.premise.com/tutorial-detection-of-high-usage-bigquery-jobs-on-google-cloud-platform-gcp-aadb591eefe5
 
 
 ### OCR tutorial with Cloud Functions
