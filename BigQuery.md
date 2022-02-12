@@ -437,6 +437,9 @@ A [Galaxy Schema](  https://www.educba.com/galaxy-schema/  ) contains two fact t
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
+### Write API
+
+https://cloud.google.com/blog/topics/developers-practitioners/bigquery-write-api-explained-overview-write-api
 
 ### Public Datasets
 
