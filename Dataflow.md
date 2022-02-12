@@ -169,6 +169,10 @@ https://medium.com/@larry_nguyen/how-to-import-data-into-google-firestore-2c3161
 
 https://lakshmanok.medium.com/how-to-do-product-mix-optimization-in-real-time-d79ac1bf1c97
 
+### Wordle
+
+https://medium.com/@inigosj/how-to-properly-play-wordle-using-dataflow-and-bigquery-825d2f4099ac
+
 ## Stopping
 
 You cannot delete a Dataflow job; you can only stop it.
