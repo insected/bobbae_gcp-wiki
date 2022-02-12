@@ -170,6 +170,10 @@ https://tech.loveholidays.com/out-of-the-data-tar-pit-how-loveholidays-escaped-f
 
 https://medium.com/@kolban1/composer-invoking-long-running-services-4de2dfa5e33a
 
+### Sendgrid and Secrets
+
+https://medium.com/google-cloud/composer-sendgrid-and-secrets-75e4b6e7581e
+
 ## Qwiklabs
 
 ### GSP283
