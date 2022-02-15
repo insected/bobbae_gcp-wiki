@@ -162,6 +162,11 @@ https://www.gnu.org/software/parallel/
 
 https://cloud.google.com/architecture/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows
 
+
+### Reading and writing JSON file from a Workflow
+
+https://medium.com/google-cloud/day-16-with-workflows-reading-in-and-writing-a-json-file-to-a-storage-bucket-from-a-workflow-48b85c12d225
+
 ### ML Pipelines with Workflows
 
 https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
