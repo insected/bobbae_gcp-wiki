@@ -25,6 +25,9 @@ https://docs.looker.com/data-modeling/learning-lookml/how-looker-generates-sql
 
 [https://training.looker.com/looker-development-foundations](https://training.looker.com/looker-development-foundations)
 
+### Looker and BigQuery
+
+https://cloud.google.com/bigquery/docs/looker
 
 ### Symmetric Aggregation
 
