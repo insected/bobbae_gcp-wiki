@@ -69,3 +69,17 @@
 |    6    | [Kubernetes](Kubernetes)       |
 |    7   |Group Project   |
 |    8   |Reviews    | 
+
+
+## Schedule 6
+
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
+|   1  | [Introduction to GCP](Introduction) |
+|    2   |[Data Engineering](Data-Engineering) | 
+|    3    |Looker BI Level 1    |
+|    4    |Looker BI Level 2    |
+|    5   | Looker BI Level 3 |
+|    6    | Case Studies and Delivery Shadowing     |
+|    7   |Group Project   |
+|    8   |Reviews    | 
