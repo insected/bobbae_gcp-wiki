@@ -38,6 +38,11 @@ https://docs.looker.com/setup-and-management/connecting-to-db
 ## Looker concepts
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
+### Projects
+
+
+https://docs.looker.com/data-modeling/getting-started/how-project-works
+
 
 ### Models
 
@@ -49,6 +54,10 @@ https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts#
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts#view
 
 https://docs.looker.com/reference/view-reference
+
+### Drilling
+
+https://help.looker.com/hc/en-us/articles/360023589613--More-powerful-data-drilling
 
 ### Dimensions and Measures
 
@@ -141,9 +150,35 @@ https://docs.looker.com/reference/explore-params/persist_for-for-explore
 
 https://docs.looker.com/admin-options/security
 
+
 ### Roles
 
 https://docs.looker.com/admin-options/settings/roles
+
+### Content access
+
+https://docs.looker.com/admin-options/settings/content-access
+
+
+### Access filter
+
+https://docs.looker.com/reference/explore-params/access_filter
+
+### User attributes
+
+https://docs.looker.com/admin-options/settings/user-attributes
+
+### Access grants
+
+https://docs.looker.com/reference/model-params/access_grant
+
+## Groups
+
+https://docs.looker.com/admin-options/settings/groups
+
+## System Activity
+
+https://docs.looker.com/admin-options/system-activity
 
 ## Clustering
 
@@ -152,6 +187,10 @@ https://docs.looker.com/setup-and-management/tutorials/clustering
 ## Extends
 
 https://docs.looker.com/data-modeling/learning-lookml/extends
+
+## Validation
+
+https://docs.looker.com/data-modeling/getting-started/look-validation
 
 ## Optimizing
 
@@ -321,6 +360,11 @@ https://docs.looker.com/data-modeling/marketplace
 
 https://cloud.google.com/blog/products/data-analytics/looker-public-marketplace
 
+### Blocks
+
+https://docs.looker.com/data-modeling/looker-blocks
+
+
 ### Customizing Looker Marketplace Blocks
 
 https://docs.looker.com/data-modeling/marketplace/customize-blocks
@@ -337,6 +381,19 @@ https://looker.com/platform/directory/home
 ### BigQueryML and Looker
 
 https://cloud.google.com/blog/products/data-analytics/explainable-ai-using-bigquery-machine-learning-and-looker
+
+## Open source
+
+https://github.com/looker-open-source
+
+### gzr
+
+https://github.com/looker-open-source/gzr
+
+### henry
+
+https://github.com/looker-open-source/henry
+
 
 
 ## Comparisons
