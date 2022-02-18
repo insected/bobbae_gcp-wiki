@@ -79,6 +79,15 @@ https://docs.looker.com/reference/filter-expressions
 
 https://docs.looker.com/data-modeling/learning-lookml/derived-tables
 
+### Derived columns and Native Derived Tables
+
+https://docs.looker.com/data-modeling/learning-lookml/creating-ndts
+
+### PDTs
+
+https://docs.looker.com/data-modeling/learning-lookml/derived-tables#persistent_derived_table
+
+https://docs.looker.com/data-modeling/learning-lookml/extends
 ### Caching and Datagroups
 
 https://docs.looker.com/data-modeling/learning-lookml/caching
