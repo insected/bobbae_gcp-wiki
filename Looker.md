@@ -47,9 +47,50 @@ https://docs.looker.com/exploring-data/exploring-data
 
 https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/building-explores
 
+### Join
+
+https://docs.looker.com/data-modeling/learning-lookml/working-with-joins
+
+https://docs.looker.com/reference/explore-params/sql_on
+
+
+### Views
+
+https://docs.looker.com/reference/view-reference
+
+
 ## LookML
 
 [LookML](LookML)  ​is a language for describing dimensions, aggregates, calculations, and data relationships in a SQL database.
+
+## Filtering Explores with LookML
+
+https://www.cloudskillsboost.google/focuses/18477?parent=catalog
+
+### filter expressions
+
+https://docs.looker.com/reference/filter-expressions
+
+## Derived Tables
+
+https://docs.looker.com/data-modeling/learning-lookml/derived-tables
+
+## Caching and Datagroups
+
+https://docs.looker.com/data-modeling/learning-lookml/caching
+
+### datagroups
+
+https://docs.looker.com/reference/model-params/datagroup
+
+### persist_with
+
+https://docs.looker.com/reference/explore-params/persist_with
+
+
+### persist_for
+
+https://docs.looker.com/reference/explore-params/persist_for-for-explore
 
 
 ## Learning Looker
