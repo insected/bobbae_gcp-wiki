@@ -221,6 +221,10 @@ https://docs.looker.com/data-modeling/learning-lookml/templated-filters
 
 https://docs.looker.com/reference/liquid-variables
 
+## Refinements
+
+https://docs.looker.com/data-modeling/learning-lookml/refinements
+
 ## Learning Looker
 
 
