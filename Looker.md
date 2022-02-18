@@ -132,6 +132,10 @@ https://docs.looker.com/setup-and-management/tutorials/clustering
 
 https://docs.looker.com/data-modeling/learning-lookml/extends
 
+## Optimizing
+
+https://help.looker.com/hc/en-us/articles/360001847227-Best-Practice-Optimize-Looker-Performance
+
 ## General Admin settings
 
 https://docs.looker.com/admin-options/settings/general
