@@ -37,6 +37,19 @@ https://docs.looker.com/setup-and-management/connecting-to-db
 
 ## Looker concepts
 
+https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
+
+### Models
+
+https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts#model
+
+
+### Views
+
+https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts#view
+
+https://docs.looker.com/reference/view-reference
+
 ### Dimensions and Measures
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
@@ -58,9 +71,6 @@ https://docs.looker.com/data-modeling/learning-lookml/working-with-joins
 https://docs.looker.com/reference/explore-params/sql_on
 
 
-### Views
-
-https://docs.looker.com/reference/view-reference
 
 
 ## LookML
