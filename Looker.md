@@ -144,6 +144,8 @@ https://help.looker.com/hc/en-us/articles/360033944133-Looker-Multistage-Develop
 
 https://docs.looker.com/data-modeling/learning-lookml/templated-filters
 
+https://docs.looker.com/reference/liquid-variables
+
 ## Learning Looker
 
 
