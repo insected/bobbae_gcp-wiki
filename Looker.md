@@ -92,6 +92,9 @@ https://docs.looker.com/reference/explore-params/persist_with
 
 https://docs.looker.com/reference/explore-params/persist_for-for-explore
 
+## Security and Authentication
+
+https://docs.looker.com/admin-options/security
 
 ## Learning Looker
 
