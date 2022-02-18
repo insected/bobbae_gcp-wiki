@@ -405,6 +405,10 @@ https://github.com/looker-open-source/henry
 
 [https://looker.com/compare/looker-vs-tableau](https://looker.com/compare/looker-vs-tableau)
 
+### Looker vs Power BI
+
+https://looker.com/compare/looker-vs-power-bi
+
 ### Looker and Data Studio
 
 Google [Data Studio](Data-Studio) is a visualization and reporting tool, and an integral part of Google Marketing Platform. It enables an enhanced approach to decision-making, allowing your entire organization to readily access and use marketing insights.
