@@ -26,12 +26,16 @@ Looker also allows you to send data to other platforms through an [Application P
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
 
+## Looker and database connection
 
-### Looker for data consumers
+https://docs.looker.com/setup-and-management/connecting-to-db
+
+
+## Looker for data consumers
 
 [https://training.looker.com/looker-for-data-consumers](https://training.looker.com/looker-for-data-consumers)
 
-
+## Looker concepts
 
 ### Dimensions and Measures
 
@@ -63,7 +67,7 @@ https://docs.looker.com/reference/view-reference
 
 [LookML](LookML)  ​is a language for describing dimensions, aggregates, calculations, and data relationships in a SQL database.
 
-## Filtering Explores with LookML
+### Filtering Explores with LookML
 
 https://www.cloudskillsboost.google/focuses/18477?parent=catalog
 
@@ -71,11 +75,11 @@ https://www.cloudskillsboost.google/focuses/18477?parent=catalog
 
 https://docs.looker.com/reference/filter-expressions
 
-## Derived Tables
+### Derived Tables
 
 https://docs.looker.com/data-modeling/learning-lookml/derived-tables
 
-## Caching and Datagroups
+### Caching and Datagroups
 
 https://docs.looker.com/data-modeling/learning-lookml/caching
 
@@ -95,6 +99,24 @@ https://docs.looker.com/reference/explore-params/persist_for-for-explore
 ## Security and Authentication
 
 https://docs.looker.com/admin-options/security
+
+### Roles
+
+https://docs.looker.com/admin-options/settings/roles
+
+## Clustering
+
+https://docs.looker.com/setup-and-management/tutorials/clustering
+
+
+## General Admin settings
+
+https://docs.looker.com/admin-options/settings/general
+
+## Multi stage development framework
+
+https://help.looker.com/hc/en-us/articles/360033944133-Looker-Multistage-Development-Framework-Dev-QA-Prod-
+
 
 ## Learning Looker
 
