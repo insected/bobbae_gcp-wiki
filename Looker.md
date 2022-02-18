@@ -59,6 +59,8 @@ https://docs.looker.com/reference/view-reference
 
 https://help.looker.com/hc/en-us/articles/360023589613--More-powerful-data-drilling
 
+
+
 ### Dimensions and Measures
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
@@ -115,6 +117,10 @@ https://www.cloudskillsboost.google/focuses/18477?parent=catalog
 ### filter expressions
 
 https://docs.looker.com/reference/filter-expressions
+
+### Constants
+
+https://docs.looker.com/reference/manifest-params/constant
 
 ### Derived Tables
 
