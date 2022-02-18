@@ -7,6 +7,9 @@ https://docs.looker.com/data-modeling/learning-lookml
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-intro
 
+https://www.youtube.com/playlist?app=desktop&list=PL2rFVcDw2yVoXlI3onYS7Ecufjg2ODI9u
+
+
 ### Concepts
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts
