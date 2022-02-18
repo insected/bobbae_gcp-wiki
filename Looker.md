@@ -108,6 +108,9 @@ https://docs.looker.com/admin-options/settings/roles
 
 https://docs.looker.com/setup-and-management/tutorials/clustering
 
+## Extends
+
+https://docs.looker.com/data-modeling/learning-lookml/extends
 
 ## General Admin settings
 
