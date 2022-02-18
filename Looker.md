@@ -140,6 +140,9 @@ https://docs.looker.com/admin-options/settings/general
 
 https://help.looker.com/hc/en-us/articles/360033944133-Looker-Multistage-Development-Framework-Dev-QA-Prod-
 
+## Liquid templating
+
+https://docs.looker.com/data-modeling/learning-lookml/templated-filters
 
 ## Learning Looker
 
