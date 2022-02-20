@@ -57,6 +57,14 @@ https://docs.looker.com/exploring-data/exploring-data
 
 https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/building-explores
 
+#### Join
+
+https://docs.looker.com/data-modeling/learning-lookml/working-with-joins
+
+https://docs.looker.com/reference/explore-params/sql_on
+
+
+
 
 ### Views
 
@@ -97,13 +105,6 @@ https://docs.looker.com/reference/field-reference/measure-type-reference
 ### Symmetric aggregates
 
 https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-
-
-### Join
-
-https://docs.looker.com/data-modeling/learning-lookml/working-with-joins
-
-https://docs.looker.com/reference/explore-params/sql_on
-
 
 
 
