@@ -49,6 +49,15 @@ https://docs.looker.com/data-modeling/getting-started/how-project-works
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts#model
 
 
+
+### Explores
+
+
+https://docs.looker.com/exploring-data/exploring-data
+
+https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/building-explores
+
+
 ### Views
 
 https://docs.looker.com/data-modeling/learning-lookml/lookml-terms-and-concepts#view
@@ -88,14 +97,6 @@ https://docs.looker.com/reference/field-reference/measure-type-reference
 ### Symmetric aggregates
 
 https://help.looker.com/hc/en-us/articles/360023722974-A-Simple-Explanation-of-Symmetric-Aggregates-or-Why-On-Earth-Does-My-SQL-Look-Like-That-
-
-
-### Explores
-
-
-https://docs.looker.com/exploring-data/exploring-data
-
-https://info.looker.com/youtube-learning-looker-tutorials-and-product-features/building-explores
 
 ### Join
 
