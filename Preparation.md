@@ -43,8 +43,7 @@ https://cloud.google.com/s/results?q=tutorial
 
 ### Learning paths
 
-https://cloud.google.com/solutions/education
-
+https://cloud.google.com/training#learning-paths
 ### Codelabs
 
 [Codelabs](https://codelabs.developers.google.com/) provide a guided, step-by-step learning experience on a wide range of topics on GCP.
