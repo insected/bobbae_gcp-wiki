@@ -6,22 +6,34 @@ This document is intended to be used in a [GCP](GCP-Learning) training class.
 
 ### Qwiklabs
 
-You can use [Qwiklabs](https://www.qwiklabs.com/) and [Codelabs](https://codelabs.developers.google.com/) as hands-on labs.   You can [learn]( https://www.youtube.com/watch?v=ew-r46FmzSM&list=PLIivdWyY5sqKOsBSMDTF0M76nXeChgh5D  ) about [Qwiklabs](https://googlecourses.qwiklabs.com/) while waiting for a few days to get usable credits for Qwiklabs. If you don’t get any Qwiklabs credits in a few days after signing up, you can still use [free tier Google cloud services](https://cloud.google.com/free) or other available accounts to do the [labs]( https://www.youtube.com/user/yogaarsa/playlists  ) there.
-
+You can use [Qwiklabs](https://www.qwiklabs.com/) and [Codelabs](https://codelabs.developers.google.com/) for hands-on learning.  
 
 #### Register at the Partner Advantage site
 
-If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partneradvantageportallogin) to [get some Qwiklabs credits](https://edu.google.com/programs/credits/training). You may [sign up](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) as a new partner or [apply for training discount](https://inthecloud.withgoogle.com/training-discount/register.html) using your email address. 
+If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partnerselfregistration) to [get some Qwiklabs credits](https://edu.google.com/programs/credits/training). You may [sign up](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) as a new partner or [apply for training discount](https://inthecloud.withgoogle.com/training-discount/register.html).
+
+#### Google Cloud learning path at no-cost for 30 days
+
+https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html
+
+
+#### Free tier
+
+If you don’t get any free or discounted Qwiklabs credits in a few days after signing up, you can still use [free tier Google cloud services](https://cloud.google.com/free).
+
+#### Videos of Qwiklabs sessions
+
+https://www.youtube.com/user/yogaarsa/playlists
 
 #### Google Cloud Skills Boost
-
-
 
 https://www.cloudskillsboost.google/
 
 ### GCP Training resources
 
 https://cloud.google.com/training/
+
+### Role based Google cloud training
 
 https://cloud.google.com/blog/topics/training-certifications/access-role-based-google-cloud-training-free-of-charge
 
@@ -44,9 +56,10 @@ https://cloud.google.com/s/results?q=tutorial
 ### Learning paths
 
 https://cloud.google.com/training#learning-paths
+
 ### Codelabs
 
-[Codelabs](https://codelabs.developers.google.com/) provide a guided, step-by-step learning experience on a wide range of topics on GCP.
+[Codelabs](https://codelabs.developers.google.com/) provide a step-by-step learning experience on a wide range of topics on GCP.
 Once you are comfortable with it, you may try [creating your own Codelab](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd) tutorials. You may need [Codelab as a thing](https://github.com/zarinlo/tools).
 
 ### Git
