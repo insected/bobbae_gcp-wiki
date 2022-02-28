@@ -10,7 +10,7 @@ Dataflow uses your [pipeline code](https://cloud.google.com/dataflow/docs/guides
 [https://www.youtube.com/watch?v=cqDBnOaS6O4](https://www.youtube.com/watch?v=cqDBnOaS6O4)
 
 
-## Apache beam
+## Apache Beam
 
 The [Apache Beam](https://github.com/apache/beam)    SDK is an open source programming model that enables you to develop both batch and streaming pipelines.
 
@@ -172,6 +172,10 @@ https://lakshmanok.medium.com/how-to-do-product-mix-optimization-in-real-time-d7
 ### Wordle
 
 https://medium.com/@inigosj/how-to-properly-play-wordle-using-dataflow-and-bigquery-825d2f4099ac
+
+### Apache Beam error handling with Kotlin and Asgarde
+
+https://medium.com/@mazlum.tosun/error-handling-with-apache-beam-asgarde-with-kotlin-8b742fca120e
 
 ## Stopping
 
