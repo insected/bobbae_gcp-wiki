@@ -84,6 +84,8 @@ know that you have the [necessary amount of GCP knowledge](https://www.examtopic
 
 [Sign up]( https://cloud.google.com/certification/register  ) for the [Professional Cloud Architect exam](https://cloud.google.com/certification/guides/professional-cloud-architect) or [other GCP exams](https://www.youtube.com/watch?v=Kub0oH6TFKw) . During [the exam](https://www.youtube.com/watch?v=2Djgv5YTj1s) for the Cloud Architect Certification, some of the questions may refer you to [case studies](https://cloud.google.com/certification/guides/professional-cloud-architect/).  
 
+https://medium.com/javarevisited/10-best-google-cloud-certifications-to-aim-1ade11d9f01b
+
 https://github.com/ddneves/awesome-gcp-certifications
 
 https://jackraiferbaruch.medium.com/book-review-professional-cloud-architect-google-cloud-certification-guide-a2686c0665f7
