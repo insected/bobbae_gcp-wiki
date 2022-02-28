@@ -90,6 +90,12 @@ https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences
 
 ## Tutorials
 
+
+
+### MLOps pipeline in Vertex AI 
+
+https://blog.searce.com/implementing-mlops-pipeline-in-vertex-ai-to-adapt-to-the-changes-in-data-4cc3c07d5661
+
 ### Model training CICD system
 
 https://cloud.google.com/blog/topics/developers-practitioners/model-training-cicd-system-part-i
@@ -109,3 +115,4 @@ https://towardsdatascience.com/developing-and-deploying-a-machine-learning-model
 ### MLOps pipeline for hyperparameter tuning in Vertex AI
 
 https://towardsdatascience.com/how-to-build-an-mlops-pipeline-for-hyperparameter-tuning-in-vertex-ai-45cc2faf4ff5
+
