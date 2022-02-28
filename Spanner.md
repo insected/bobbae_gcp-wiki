@@ -161,6 +161,10 @@ https://cloud.google.com/blog/products/databases/manage-semi-structured-data-in-
 
 ## Examples
 
+### Migrating a PHP application to Spanner
+
+https://cloud.google.com/blog/topics/developers-practitioners/migrating-php-application-use-cloud-spanner
+
 ### Build realtime inventory management systems with Cloud Spanner
 
 Build  an inventory ledger solution that streamlines the order-to-shipping process using Cloud Spanner, a scalable, globally consistent database service. The single source of truth enables seamless customer experiences across channels and real-time decisioning at scale. 
