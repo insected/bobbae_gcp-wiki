@@ -10,6 +10,10 @@ PyTorch provides two high-level features:
 
 PyTorch defines a class called Tensor (torch.Tensor) to store and operate on homogeneous multidimensional rectangular arrays of numbers. PyTorch Tensors are similar to NumPy Arrays, but can also be operated on a CUDA-capable Nvidia GPU. PyTorch supports various sub-types of Tensors.
 
+## PyTorch on Google Cloud
+
+https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-blog-series-recap
+
 
 ## PyTorch vs TensorFlow
 
