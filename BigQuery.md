@@ -759,7 +759,9 @@ https://medium.com/codex/collaborate-better-with-data-versioning-566c2299c435
 
 https://conalldalydev.medium.com/why-i-built-the-python-bigquery-validator-package-3f2b32e9bc5b
 
+### UNNEST
 
+https://medium.com/@Marshall.Sansano.Roma/unnest-the-first-bigquery-function-for-ga4-the-e-commerce-tracking-82e687409b50
 
 ### Covid 19 data Insights 
 
