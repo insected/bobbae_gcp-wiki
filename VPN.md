@@ -83,3 +83,9 @@ https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
 ## NSA and VPN
 
 https://www.schneier.com/blog/archives/2020/07/nsa_on_securing.html
+
+## Examples
+
+### Simulated on-prem for GCP VPN
+
+https://medium.com/@sruffilli/setting-up-a-simulated-on-prem-environment-for-gcp-90dcbb2d57f8
