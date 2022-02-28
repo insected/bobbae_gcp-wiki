@@ -58,7 +58,7 @@ https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02c
 https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
 
 
-### CloudRun Continous Deployment and Domain Mapping
+### Cloud Run Continous Deployment and Domain Mapping
 
 https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
 
@@ -66,3 +66,8 @@ https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
 ### Running Bokeh on Cloud Run with Domain mapping
 
 https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run
+
+
+### Cloud Run Release Manager
+
+https://medium.com/google-cloud/automatic-release-propagation-for-canary-releases-with-cloud-run-1ccc2ec74c7f
