@@ -105,6 +105,9 @@ https://cloud.google.com/functions/docs/tutorials/imagemagick
 
 https://medium.com/@kangthecreator/google-cloud-functions-caching-with-node-cache-6647c76c9adc
 
+### OAuth2 authentication for Cloud Functions
+
+https://dev.to/rampi/oauth2-authentication-for-a-google-cloud-functions-56g
 
 ### Serverless performance monitoring
 
