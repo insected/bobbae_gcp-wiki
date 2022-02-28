@@ -27,11 +27,17 @@ In Choreography, each service registers for and emits events as they need. There
 
 Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow.  Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a [Firestore](Firestore) database, or retrieve authentication keys from [Secret Manager](Secret-Manager).
 
+https://cloud.google.com/workflows/docs/reference/googleapis
+
 ### Connectors Samples 
 
 https://cloud.google.com/workflows/docs/connectors-samples
 
+### Connectors Workflows Samples on github
+
 https://github.com/GoogleCloudPlatform/workflows-samples/tree/main/src/connectors
+
+### Connectors Workflows demos
 
 https://github.com/GoogleCloudPlatform/workflows-demos/tree/master/connector-compute
 
@@ -100,6 +106,11 @@ https://glaforge.appspot.com/article/load-and-use-json-data-in-your-workflow-fro
 ### Using Secret Manager Connector for Workflows
 
 https://glaforge.appspot.com/article/using-the-secret-manager-connector-for-workflows-to-call-an-authenticated-service
+
+### Data Orchestration using Workflows
+
+https://medium.com/datatonic/lightweight-data-orchestration-using-cloud-workflows-and-dataform-52f3bc5203d3
+
 
 ### Airflow vs. Luigi vs. Argo vs. MLFlow vs. Kubeflow
 
