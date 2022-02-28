@@ -77,6 +77,11 @@ https://github.com/google-github-actions/setup-gcloud#example-workflows
 
 https://engineering.premise.com/serverless-apis-made-simple-on-gcp-with-goblet-backed-by-cloud-functions-and-cloud-run-730db2da04ba
 
+
+### Event driven applications using Cloud Functions
+
+https://medium.com/brainjar/how-to-build-an-event-driven-application-on-google-cloud-using-cloud-functions-64fa241b556e
+
 ### Google Translate app on Cloud Function, Cloud Run and App Engine
 
 https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-nodejs?hl=en#0
