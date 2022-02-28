@@ -13,7 +13,7 @@ The materials in this document  cover the breadth of what [GCP](https://cloud.go
 There are some example [8 week schedules](Schedules) that can be used in an instructor-lead training sessions. Each scheduled week is roughly equivalent to a chapter in this document. During the scheduled programs, there may be some weekly [Assignments](Assignments).
 
 
-### Group Project
+## Group Project
 
 The group project should be conceived, designed, and implemented by the participants.  Coming up with a good project idea is an important part of the project.  We can consider the validity of our plans by proposing specific [solutions]( https://cloud.google.com/solutions  ) in  [specific areas](https://cloud.google.com/architecture) and gathering feedback from others. We should start planning on the group project right away after the first week.  You may [review possible project ideas](Projects) from various sources.
 
