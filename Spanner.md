@@ -10,6 +10,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/what-cloud-spanner
 
 A [Distributed SQL Database](https://wikipedia.org/wiki/Distributed_SQL) is [a single logical database](https://www.youtube.com/watch?v=9PsSIVUbtWo) deployed across multiple physical nodes in a single data center or across many data centers.
 
+https://cloud.google.com/blog/products/databases/cloud-spanner-makes-application-launches-easier-with-warmup-and-benchmarking-tool
+
 ### Spanner Paper
 
 [Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its [design](https://www.youtube.com/watch?v=nvlt0dA7rsQ). 
