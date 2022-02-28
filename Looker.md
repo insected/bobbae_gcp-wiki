@@ -17,7 +17,7 @@ Looker gives you the tools to power a multitude of data experiences, from modern
 
 [https://cloud.google.com/looker](https://cloud.google.com/looker)
 
-Looker is a data aggregation tool in addition to dashboarding. It was built from the ground up to integrate a variety of data sources and allow for the flexibility to aggregate and transform data with LookML. 
+Looker is a data aggregation and dashboard tool. It was built from the ground up to integrate a variety of data sources and allow for the flexibility to aggregate and transform data with LookML. 
 
 https://youtu.be/fbgva493gb8
 
@@ -473,6 +473,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/building-looker-ma
 ### Hospital Readmission Rates
 
 https://cloud.google.com/blog/topics/healthcare-life-sciences/looker-helps-predict-hospital-readmission-rates-with-google-cloud
+
+### Self hosted Looker installation on GCP
+
+https://medium.com/google-cloud/looker-self-hosted-installation-on-gcp-7e6a5050784a
 
 ## Qwiklabs
 
