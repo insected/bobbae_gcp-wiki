@@ -68,6 +68,6 @@ https://faun.pub/cloudrun-continous-deployment-and-domain-mapping-f83c703b88b1
 https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run
 
 
-### Cloud Run Release Manager
+### Cloud Run Release Manager Canary releases
 
 https://medium.com/google-cloud/automatic-release-propagation-for-canary-releases-with-cloud-run-1ccc2ec74c7f
