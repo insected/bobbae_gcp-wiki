@@ -9,7 +9,7 @@
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) focuses on the development of computer programs that can access data and use it to learn for themselves.
 
-
+https://cloud.google.com/architecture/guidelines-for-developing-high-quality-ml-solutions
 
 #### Google Machine Learning Platform Overview
 
