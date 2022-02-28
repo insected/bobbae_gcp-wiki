@@ -62,6 +62,11 @@ https://lukestoolkit.blogspot.com/2020/06/google-cloud-functions-error-forbidden
 https://medium.com/geekculture/google-cloud-functions-a-brief-tutorial-de07d8945b01
 
 
+### Event driven applications using Cloud Functions
+
+https://medium.com/brainjar/how-to-build-an-event-driven-application-on-google-cloud-using-cloud-functions-64fa241b556e
+
+
 ### Deploying Cloud Functions on a Chromebook
 
 https://medium.com/google-cloud/who-said-you-cant-code-on-a-chromebook-local-development-with-cloud-functions-4e68dca1240b
@@ -95,6 +100,11 @@ https://cloud.google.com/functions/docs/tutorials/slack
 ### Blurring images using ImageMagick 
 
 https://cloud.google.com/functions/docs/tutorials/imagemagick
+
+### Cloud Functions caching with node-cache
+
+https://medium.com/@kangthecreator/google-cloud-functions-caching-with-node-cache-6647c76c9adc
+
 
 ### Serverless performance monitoring
 
