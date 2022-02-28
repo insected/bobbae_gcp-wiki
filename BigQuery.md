@@ -284,6 +284,10 @@ Queries that use materialized views are generally faster and consume fewer resou
 
 https://cloud.google.com/bigquery/docs/materialized-views-intro
 
+### Remote Functions
+
+https://towardsdatascience.com/remote-functions-in-bigquery-af9921498438
+
 ### Reservations
 
 
