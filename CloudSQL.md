@@ -88,6 +88,10 @@ https://cloud.google.com/architecture/intro-to-cloud-sql-disaster-recovery
 
 https://cloud.google.com/blog/products/databases/get-ahead-of-database-performance-issues-with-cloud-sql-insights
 
+## Configuration
+
+https://dev.to/hunghvu/random-configuration-tips-for-google-cloud-sql-2lg4
+
 ## Tutorials
 
 https://cloud.google.com/sql/docs/media
@@ -99,6 +103,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/upgrade-postgres-p
 ### Creating alerts based on Cloud SQL logs
 
 https://cloud.google.com/blog/products/databases/learn-how-to-create-alerts-based-on-your-database-logs-in-cloud-sql
+
+
 
 ## Examples
 
