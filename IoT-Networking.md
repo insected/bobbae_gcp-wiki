@@ -107,7 +107,7 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 
 ### OPC UA
 
-OPC Unified Architecture (OPC UA) is a cross-platform, open-source, IEC62541 standard for data exchange. 
+OPC Unified Architecture (OPC UA) is a cross-platform, open-source, [IEC62541](https://open62541.org/) standard for data exchange. 
 
 https://en.m.wikipedia.org/wiki/OPC_Unified_Architecture
 
