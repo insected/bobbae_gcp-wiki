@@ -28,7 +28,11 @@ the hybrid multi-cloud issues.
 
 [AWS Outposts](https://aws.amazon.com/outposts/) is a  managed service that offers the same AWS infrastructure, AWS services, APIs, and tools to virtually any data center, co-location space, or on-premises facility for a  consistent hybrid experience. 
 
-Outposts are available as a 42U rack that can scale from [1 rack to 96 racks](  https://aws.amazon.com/outposts/1u-2u/ ) to create pools of compute and storage capacity. 
+Outposts are available as a 42U rack that can scale from [1 rack to 96 racks](  https://aws.amazon.com/outposts/1u-2u/ ) to create pools of compute and storage 
+
+#### Snowcone
+
+https://aws.amazon.com/snowcone/
 
 ### Azure Stack
 
