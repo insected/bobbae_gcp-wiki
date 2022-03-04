@@ -50,6 +50,17 @@ https://salmaan-rashid.medium.com/google-cloud-iot-core-authentication-with-trus
 
 https://nevonprojects.com/iot-projects/
 
+## AWS
+
+https://aws.amazon.com/iot/
+
+## Azure
+
+https://azure.microsoft.com/en-us/overview/iot/
+
+## Comparisons
+
+https://iot-analytics.com/iot-cloud/
 
 ## Qwiklabs
 
