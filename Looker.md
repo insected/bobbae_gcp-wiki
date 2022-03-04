@@ -141,7 +141,10 @@ https://docs.looker.com/data-modeling/learning-lookml/creating-ndts
 
 https://docs.looker.com/data-modeling/learning-lookml/derived-tables#persistent_derived_table
 
+### Extends
+
 https://docs.looker.com/data-modeling/learning-lookml/extends
+
 ### Caching and Datagroups
 
 https://docs.looker.com/data-modeling/learning-lookml/caching
