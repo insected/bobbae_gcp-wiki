@@ -141,9 +141,6 @@ https://docs.looker.com/data-modeling/learning-lookml/creating-ndts
 
 https://docs.looker.com/data-modeling/learning-lookml/derived-tables#persistent_derived_table
 
-### Extends
-
-https://docs.looker.com/data-modeling/learning-lookml/extends
 
 ### Caching and Datagroups
 
@@ -199,6 +196,25 @@ https://docs.looker.com/admin-options/system-activity
 ## Clustering
 
 https://docs.looker.com/setup-and-management/tutorials/clustering
+
+## Filtering and Limiting
+
+https://docs.looker.com/exploring-data/filtering-and-limiting
+
+## Labels
+
+### Field labels
+
+https://docs.looker.com/reference/field-params/label-for-field
+
+### View labels
+
+https://docs.looker.com/reference/view-params/label
+
+### Model labels
+
+https://docs.looker.com/reference/model-params/label-for-model
+
 
 ## Extends
 
