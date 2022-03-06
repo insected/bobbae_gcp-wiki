@@ -11,6 +11,7 @@ https://cloud.google.com/sdk
 
 https://github.com/GoogleCloudPlatform/cloud-sdk-docker
 
+https://hub.docker.com/r/google/cloud-sdk/
 
 #### Gcloud CLI scripting
 
@@ -26,7 +27,7 @@ https://cloud.google.com/blog/products/it-ops/filtering-and-formatting-fun-with
 [Endpoints](Endpoints) is an API management system that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. After you deploy your API to Endpoints, you can use the [Cloud Endpoints Portal](https://cloud.google.com/endpoints/docs/dev-portal-overview) to create a developer portal, a website that users of your API can access to view documentation and interact with your API.
 
 
-Use Cloud Endpoints to deploy, test and  manage your API’s.
+Use Cloud Endpoints to deploy, test and manage your API’s.
 
 [https://www.youtube.com/watch?v=AgYImGHmvBA](https://www.youtube.com/watch?v=AgYImGHmvBA)
 
