@@ -150,6 +150,8 @@ https://en.wikipedia.org/wiki/Foundation_Fieldbus
 
 Because it's ethernet-based, PROFINET can operate on a much higher transmission speed than PROFIBUS. With PROFINET, the cycle times are also adjustable for each device, whereas PROFIBUS has a fixed cycle time. PROFINET is applied in a wide variety of industries, such as automotive, oil and gas, logistics, etc.
 
+https://us.profinet.com/profinet-vs-ethernet-definitions-and-a-comparison/
+
 ### CANOpen
 
 https://en.wikipedia.org/wiki/CANopen
