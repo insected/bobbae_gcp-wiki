@@ -105,6 +105,14 @@ AMQP was originated at JPMorgan Chase in London and [RabbitMQ](https://en.wikipe
 
 [DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) (Data Distribution Service) is another scalable IoT protocol that works to a publisher-subscriber model.
 
+### PLC
+
+https://en.wikipedia.org/wiki/Programmable_logic_controller
+
+### Ladder Logic
+
+https://en.wikipedia.org/wiki/Ladder_logic
+
 ### OPC UA
 
 OPC Unified Architecture (OPC UA) is a cross-platform, open-source, [IEC62541](https://open62541.org/) standard for data exchange. 
@@ -123,6 +131,12 @@ https://en.m.wikipedia.org/wiki/OPC_Unified_Architecture
 
 https://www.ni.com/en-us/innovations/white-papers/14/the-modbus-protocol-in-depth.html
 
+
+### Foundation Fieldbus
+
+https://en.wikipedia.org/wiki/Foundation_Fieldbus
+
+
 ### PROFIBUS
 
 
@@ -130,12 +144,30 @@ https://www.ni.com/en-us/innovations/white-papers/14/the-modbus-protocol-in-dept
 ) (a portmanteau for Process Field Bus) is a standard for Fieldbus communication in automation technology and was first promoted in 1989 by BMBF (German department of education and research) and then used by Siemens, published as part of IEC 61158. 
 
 
-
 ### PROFINET
 
-[PROFINET](https://www.profibus.com/technology/profinet/) is a standard for Industrial Ethernet. Profibus is openly 
+[PROFINET](https://www.profibus.com/technology/profinet/) is a standard for Industrial Ethernet. 
+
+Because it's ethernet-based, PROFINET can operate on a much higher transmission speed than PROFIBUS. With PROFINET, the cycle times are also adjustable for each device, whereas PROFIBUS has a fixed cycle time. PROFINET is applied in a wide variety of industries, such as automotive, oil and gas, logistics, etc.
+
+### CANOpen
+
+https://en.wikipedia.org/wiki/CANopen
+
+### DeviceNet
+
+https://en.wikipedia.org/wiki/DeviceNet
 
 
+
+
+### Ethernet/IP
+
+https://en.wikipedia.org/wiki/EtherNet/IP
+
+### Sinec H1
+
+https://en.wikipedia.org/wiki/Sinec_H1
 
 ### CAN Bus
 
