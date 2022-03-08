@@ -3,3 +3,7 @@
 ## Service Networking
 
 https://cloud.google.com/service-infrastructure/docs/service-networking/getting-started
+
+### Private Service Access
+
+https://cloud.google.com/service-infrastructure/docs/enabling-private-services-access
