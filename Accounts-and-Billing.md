@@ -118,6 +118,10 @@ https://john-tucker.medium.com/google-cloud-platform-and-api-call-attribution-b0
 
 [FinOps](FinOps) is shorthand for “Cloud Financial Operations” or “Cloud Financial Management” or “Cloud Cost Management”. It is the practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality.
 
+## Budget API
+
+https://cloud.google.com/blog/topics/developers-practitioners/automate-your-budgeting-billing-budgets-api
+
 
 
 ## Qwiklabs
