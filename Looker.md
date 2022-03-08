@@ -458,7 +458,7 @@ https://infotrust.com/articles/google-data-studio-looker-comparison/
 
 ### dbt
 
-dbt is a transformation workflow and data pipeline tool that lets teams collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation.
+dbt is a transformation workflow and data pipeline tool that lets teams collaboratively deploy analytics code following practices like modularity, portability, CI/CD, and documentation.
 
 https://www.getdbt.com/docs/
 
@@ -493,7 +493,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/building-looker-ma
 
 https://cloud.google.com/blog/topics/healthcare-life-sciences/looker-helps-predict-hospital-readmission-rates-with-google-cloud
 
-### Self hosted Looker installation on GCP
+### Self-hosted Looker installation on GCP
 
 https://medium.com/google-cloud/looker-self-hosted-installation-on-gcp-7e6a5050784a
 
