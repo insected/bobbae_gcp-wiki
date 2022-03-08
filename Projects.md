@@ -1,5 +1,9 @@
 ## Project ideas
 
+### Serverless examples
+
+https://cloud.google.com/blog/products/serverless/serverless-hackathon-winners-announced
+
 ### Easy as Pie
 
 https://easyserverlesshackathon.bemyapp.com/
