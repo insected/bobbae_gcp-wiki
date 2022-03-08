@@ -196,6 +196,9 @@ Step 3, look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLU
 
 A [Data Scientist](Data-Science) models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth [data modeling and deep learning]( https://cloud.google.com/training/machinelearning-ai  ).
 
+## Predictive Analytics
+
+https://en.wikipedia.org/wiki/Predictive_analytics
 
 
 ## Machine learning Workflows
@@ -392,8 +395,11 @@ Naive [Bayes classification](https://en.wikipedia.org/wiki/Naive_Bayes_classifie
 
 [Regression](https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/) and [classification](https://www.youtube.com/watch?v=TJveOYsK6MY) lead to ways of splitting data.
 
+https://en.wikipedia.org/wiki/Regression_analysis
+
 Classification is a problem of automatically assigning a label to an unlabeled example. Spam detection is a famous example of classification.
 
+https://en.wikipedia.org/wiki/Statistical_classification
 
 ### Linear Regression
 
