@@ -88,6 +88,14 @@ https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-t
 
 ## Examples
 
+### AutoML forecasting
+
+https://codelabs.developers.google.com/codelabs/automl-forecasting-with-vertex-ai
+
+### Time Series Forecasting with Vertex AI and BigQuery ML
+
+https://codelabs.developers.google.com/codelabs/time-series-forecasting-with-cloud-ai-platform#0
+
 ### Running dbt on Vertex AI Pipelines
 
 https://medium.com/datatonic/running-dbt-on-google-clouds-vertex-ai-pipelines-d85fa59aa15
