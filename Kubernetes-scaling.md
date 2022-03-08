@@ -2,9 +2,12 @@
 
 [GKE's cluster autoscaler](  https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler  ) automatically resizes the number of nodes in a given node pool, based on the demands of your workloads. You don't need to manually add or remove nodes or over-provision your node pools. Instead, you specify a minimum and maximum size for the node pool, and the rest is automatic.
 
+https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-autoscaler
+
 If resources are deleted or moved when autoscaling your cluster, your workloads might experience transient disruption. For example, if your workload consists of a controller with a single replica, that replica's Pod might be rescheduled onto a different node if its current node is deleted. Before enabling cluster autoscaler, design your workloads to tolerate potential disruption or ensure that critical Pods are not interrupted.
 
-https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-autoscaler
+
+
 
 ## Autopilot
 
@@ -39,6 +42,10 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/autoscaling-metrics
 
 https://towardsdatascience.com/kubernetes-hpa-with-custom-metrics-from-prometheus-9ffc201991e
 
+### HPA with external metrics
+
+https://medium.com/@matteo.candido/kubernetes-hpa-autoscaling-with-external-metrics-b225289b9206
+
 ## Vertical pod autoscaler 
 
 [Vertical Pod Autoscaler](  https://cloud.google.com/kubernetes-engine/docs/concepts/verticalpodautoscaler  ) (VPA) frees the users from necessity of setting up-to-date resource limits and requests for the containers in their pods. When configured, it will set the requests automatically based on usage and thus allow proper scheduling onto nodes so that appropriate resource amount is available for each pod. It will also maintain ratios between limits and requests that were specified in initial containers configuration.
@@ -52,11 +59,13 @@ It can both down-scale pods that are over-requesting resources, and also up-scal
 [Multidimensional Pod autoscaling]( https://cloud.google.com/kubernetes-engine/docs/how-to/multidimensional-pod-autoscaling   ) (MPA) frees you from choosing a single way to scale your clusters. With multidimensional Pod autoscaling, you can use horizontal scaling based on CPU and vertical scaling based on memory at the same time.
 
 
+
 ## Cloud Bursting
 
 https://jonachin.medium.com/cloud-bursting-from-on-premise-kubernetes-clusters-to-google-cloud-compute-engine-539d2756e57d
 
-### Virtual kubelet
+
+## Virtual kubelet
 
 https://virtual-kubelet.io/
 
