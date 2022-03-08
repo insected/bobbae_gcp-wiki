@@ -79,9 +79,15 @@ Learn more about the integrated [command line tools](https://www.youtube.com/wat
 
 Google [Cloud Shell](Cloud-Shell) is an [interactive shell](   https://www.youtube.com/watch?v=d7bXH_2X760 ) environment for Google Cloud Platform that makes it easy for you to learn and experiment with GCP and manage your projects and resources from your web browser.
 
-#### Unix Command Line
+### Unix Command Line
 
 https://linuxcommand.org/
+
+
+### Dev Library
+
+https://devlibrary.withgoogle.com/products/cloud
+
 
 ## Tutorials
 
