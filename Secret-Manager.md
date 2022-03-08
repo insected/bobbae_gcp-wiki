@@ -30,3 +30,8 @@ https://github.com/GoogleCloudPlatform/berglas
 ### Passing secretes to terraform from Secret Manager
 
 https://xbery.medium.com/how-to-pass-secrets-to-terraform-from-google-cloud-build-c648c76e2b9a
+
+### Cloud functions and Secret Manager
+
+https://beranger.medium.com/native-implementation-of-google-secret-manager-in-cloud-functions-93a1732dd175
+
