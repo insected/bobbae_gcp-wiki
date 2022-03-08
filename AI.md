@@ -1,5 +1,5 @@
 
-[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)   systems demonstrate at least some of the following behaviors associated with human intelligence: planning, learning, reasoning, problem solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)   systems demonstrate at least some of the following behaviors associated with human intelligence: planning, learning, reasoning, problem-solving, knowledge representation, perception, motion, and manipulation and, to a lesser extent, social intelligence and creativity.
 
 
 The [narrow AI](https://hackernoon.com/general-vs-narrow-ai-3d0d02ef3e28 ) is what we see all around us in computers today: intelligent systems that have been taught or have learned how to carry out specific tasks without being explicitly programmed how to do so.
@@ -218,6 +218,10 @@ https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-ho
 The ways in which artificial intelligence is built and deployed will significantly affect society. 
 
 We are living in times when it is paramount that the [possibility of harm](https://www.cnn.com/videos/business/2021/04/29/nijeer-parks-facial-recognition-arrest-orig.cnn-business ) in AI systems has to be recognized and addressed quickly. Thus, [identifying the potential risks](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/), [bias](https://www.educative.io/blog/racial-bias-machine-learning-algorithms), [privacy](Privacy) and [security](Security) issues caused by AI systems means a plan of measures to counteract them has to be adopted as soon as possible.
+
+#### SR 11-07
+
+https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
 
 ### Responsible AI Practices
 
