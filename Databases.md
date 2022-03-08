@@ -3,7 +3,7 @@ https://en.wikipedia.org/wiki/Database
 ## GCP Databases
 
 
-There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud SQL](  Cloud-SQL 
+There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud SQL](  CloudSQL 
  ), [Datastore](Datastore), [Firebase](Firebase), [Firestore](Firestore), [Spanner](Spanner), and [Memorystore](Memorystore).
 
 
