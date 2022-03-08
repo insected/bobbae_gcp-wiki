@@ -19,13 +19,16 @@ https://medium.com/@knoldus/google-bigquery-an-introduction-to-big-data-analytic
 
 BigQuery has a [distributed architecture](https://cloud.google.com/blog/products/data-analytics/new-blog-series-bigquery-explained-overview) running on thousands of nodes across Google's data centers. Your datasets are not stored in a unique server but are chunked and replicated across different regions.
 
-The [storage and compute layers are fully decoupled](https://cloud.google.com/blog/products/bigquery/separation-of-storage-and-compute-in-bigquery) in BigQuery. This means that the query engine runs on different servers from the servers where the data is stored. This feature enables BigQuery to provide great scalability both in terms of data volume and query execution. This decoupled paradigm is only possible thanks to [Google's Petabit network](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-how-andromeda-2-2-enables-high-throughput-vms), which moves data very quickly from one server to another, leveraging Google's proprietary fiber cables across the globe.
+The [storage and compute layers are fully decoupled](https://cloud.google.com/blog/products/bigquery/separation-of-storage-and-compute-in-bigquery) in BigQuery. This means that the query engine runs on different servers from the servers where the data is stored. This feature enables BigQuery to provide great scalability both in terms of data volume and query execution. This decoupled paradigm is only possible thanks to [Google's Petabit network](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-how-andromeda-2-2-enables-high-throughput-vms), which moves data very quickly from one server to another, leveraging Google's proprietary fiber cables across the globe. 
 
 Unlike traditional data warehouses, BigQuery stores data in [columnar format](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830) in [Google File System](https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system) codename [Colossus](https://pierrezemb.fr/posts/colossus-google/). 
 
 
-Fully [decoupled from storage](https://medium.com/@raigonjolly/separation-of-storage-and-compute-in-bigquery-7a0084c7cbe0), the [compute layer](https://research.google/pubs/pub43438/) is responsible for receiving query statements from BigQuery users and executing them in the fastest way. The query engine is based on [Dremel](https://research.google/pubs/pub36632/).
+Fully [decoupled from storage](https://medium.com/@raigonjolly/separation-of-storage-and-compute-in-bigquery-7a0084c7cbe0), the [compute layer](https://research.google/pubs/pub43438/) is responsible for receiving query statements from BigQuery users and executing them in the fastest way. The query engine is based on [Dremel](https://research.google/pubs/pub36632/). 
 
+BigQuery is an append-only database, meaning as new rows are updated, rows are added to the database, rather than being updated in place. 
+
+BigQuery supports [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction).
 
 Each node provides a number of processing units called [BigQuery slots](https://cloud.google.com/bigquery/docs/slots) to execute the business logic of the query. A BigQuery slot can be considered a virtual CPU on a Dremel node. The calculation of the slots needed to perform a specific query is automatically managed depending on the complexity of the query and impacted data volumes.
 
