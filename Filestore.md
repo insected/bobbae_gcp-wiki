@@ -16,7 +16,7 @@ https://blog.thecloudside.com/managing-gcp-filestore-in-production-backups-monit
 
 https://www.geeksforgeeks.org/what-is-dfsdistributed-file-system/
 
-## Firestore Enterprise
+## Filestore Enterprise
 
 https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announces-filestore-enterprise-for-business-critical-apps
 
@@ -36,6 +36,9 @@ The [Cloud Volumes ONTAP HA solution](https://cloud.netapp.com/blog/gcp-cvo-blg-
 
 [Filestore](https://cloud.google.com/filestore) offers low latency for file operations. For workloads that are latency sensitive, like electronic design automation (EDA), media rendering, data analytics, or other metadata intensive applications, Filestore supports capacity up to 320 TB and throughput of 16 GB/s and 480K IOPS, with minimal variability in performance.
 
+## EDA Workflows
+
+https://cloud.google.com/blog/topics/hpc/accelerate-cloud-eda-workflows-with-netapp-and-google-cloud
 
 ## Quickstart
 
