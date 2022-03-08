@@ -243,6 +243,10 @@ https://cloud.google.com/architecture/best-practices-cloud-spanner-gaming-databa
 
 https://cloud.google.com/blog/products/databases/how-spanner-makes-multiplayer-game-development-easier
 
+### Warming up Spanner before major game launch
+
+https://cloud.google.com/blog/products/databases/launch-a-new-feature-or-game-on-existing-database-platform
+
 ### Spanner SQL Best practices
 
 https://cloud.google.com/spanner/docs/sql-best-practices
