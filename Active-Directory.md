@@ -60,6 +60,8 @@ https://en.wikipedia.org/wiki/Security_Identifier
 
 https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-synchronizing-user-accounts
 
-## Federating Google AD with Azure AD
+## Federating Google Cloud Identity with Azure AD
+
+https://cloud.google.com/architecture/identity/federating-gcp-with-azure-active-directory
 
 https://blog.johnalfaro.com/blog/Federation/
