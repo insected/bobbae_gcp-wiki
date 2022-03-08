@@ -862,6 +862,7 @@ https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-profes
 - [Hands-On Machine Learning on GCP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-on-Google-Cloud-Platform)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [USAA Insurance Operations](https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operations)
 
 ## Qwiklabs
 
