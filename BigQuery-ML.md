@@ -54,7 +54,11 @@ For developing recommendation engines based on past information
 https://developers.google.com/machine-learning/recommendation/collaborative/matrix
 
 
-### Time series
+### Time series and ARIMA
+
+
+https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
+
 
 https://cloud.google.com/bigquery-ml/docs/arima-single-time-series-forecasting-tutorial
 
