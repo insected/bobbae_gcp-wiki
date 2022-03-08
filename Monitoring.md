@@ -40,6 +40,9 @@ https://cloud.google.com/blog/products/operations/dashboards-cloud-monitoring-ma
 
 https://www.containiq.com/post/gke-monitoring
 
+### Monarch
+
+https://research.google/pubs/pub50652/
 
 ## Prometheus & Grafana
 
@@ -49,6 +52,8 @@ Open source projects like [Prometheus](https://prometheus.io/) and [Grafana](htt
 ### Managed Prometheus
 
 https://cloud.google.com/managed-prometheus
+
+https://cloud.google.com/blog/products/devops-sre/easy-managed-prometheus-metrics-service-for-kubernetes
 
 ## ELK
 
