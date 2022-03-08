@@ -11,3 +11,10 @@ https://cloud.google.com/artifact-registry/docs/quickstarts
 ## How-to
 
 https://cloud.google.com/artifact-registry/docs/how-to
+
+## Examples
+
+### Python packages using Artifact Registry
+
+https://dev.to/koshilife/manage-private-python-packages-using-artifact-registry-google-cloud-30kh
+
