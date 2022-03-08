@@ -84,6 +84,16 @@ https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 
 https://cloud.google.com/architecture/intro-to-cloud-sql-disaster-recovery
 
+## PostgreSQL HA
+
+https://cloud.google.com/sql/docs/postgres/high-availability
+
+https://cloud.google.com/blog/products/gcp/cloud-sql-for-postgresql-adds-high-availability-and-replication
+
+### SQL Server failover cluster
+
+https://cloud.google.com/compute/docs/instances/sql-server/configure-failover-cluster-instance
+
 ### CloudSQL Insights
 
 https://cloud.google.com/blog/products/databases/get-ahead-of-database-performance-issues-with-cloud-sql-insights
@@ -96,6 +106,19 @@ https://dev.to/hunghvu/random-configuration-tips-for-google-cloud-sql-2lg4
 
 https://cloud.google.com/sql/docs/media
 
+### Setting PostgreSQL on GCE
+
+https://cloud.google.com/community/tutorials/setting-up-postgres
+
+### Setting up PostgreSQL data disk
+
+https://cloud.google.com/community/tutorials/setting-up-postgres-data-disk
+
+### PostgreSQL for high availability and replication with Hot Standby
+
+https://cloud.google.com/community/tutorials/setting-up-postgres-hot-standby
+
+
 ### Migrating Postgres 
 
 https://cloud.google.com/blog/topics/developers-practitioners/upgrade-postgres-pglogical-and-database-migration-service
@@ -105,6 +128,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/upgrade-postgres-p
 https://cloud.google.com/blog/products/databases/learn-how-to-create-alerts-based-on-your-database-logs-in-cloud-sql
 
 
+### TXID freezing in PostgreSQL
+
+https://cloud.google.com/blog/products/databases/how-to-accelerate-transaction-id-freezing-in-cloud-sql-for-postgresql
 
 ## Examples
 
