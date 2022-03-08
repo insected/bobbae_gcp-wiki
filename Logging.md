@@ -344,6 +344,12 @@ https://cloud.google.com/logging/docs/regionalized-logs
 
 https://medium.com/google-cloud/apache-apisix-integrates-with-google-cloud-logging-to-improve-log-processing-c638f4c7fa0f
 
+
+## Cloud Workflows and logs
+
+https://dev.to/koshilife/associate-with-parent-cloud-workflows-logs-and-child-apis-logs-using-structured-logs-17b9
+
+
 ## List of Logs Related Resources
 
 ### List of Log Analysis Research materials
