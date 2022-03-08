@@ -430,7 +430,9 @@ https://github.com/looker-open-source/gzr
 
 https://github.com/looker-open-source/henry
 
+### malloy
 
+https://github.com/looker-open-source/malloy
 
 ## Comparisons
 
