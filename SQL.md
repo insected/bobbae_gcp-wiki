@@ -144,6 +144,9 @@ https://neo4j.com/cloud/aura-google-cloud/
 
 https://cloud.google.com/blog/topics/developers-practitioners/introducing-sqlcommenter-open-source-orm-auto-instrumentation-library
 
+### SQL and Dataframe
+
+https://towardsdatascience.com/sql-jinja-is-not-enough-why-we-need-dataframes-4d71a191936d
 
 ### Cloud SQL Insights
 
