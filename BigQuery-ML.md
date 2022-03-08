@@ -62,7 +62,7 @@ https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
 
 https://cloud.google.com/bigquery-ml/docs/arima-single-time-series-forecasting-tutorial
 
-To forecast business KPIs leveraging timeseries data from the past
+To forecast business KPIs leveraging time series data from the past
 
 https://otexts.com/fpp2/arima.html
 
@@ -98,9 +98,11 @@ https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML/blob/master
 https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228
 
 
-##  BigQuery ML  Tutorials
+###  BigQuery ML  Tutorials
 
 https://cloud.google.com/bigquery-ml/docs/tutorials
+
+
 
 ### Using AutoML Tables with BigQuery ML
 
@@ -141,14 +143,15 @@ https://medium.com/fifty-five-data-science/bigquery-machine-learning-cheat-sheet
 
 https://medium.com/g-company/build-a-recommender-with-bigquery-ml-15e67a457548
 
-## BigQuery ML Models deployment with Vertex AI and Kubeflow
+### BigQuery ML Models deployment with Vertex AI and Kubeflow
 
 https://medium.com/@corba77/bigquery-ml-models-deployment-with-vertex-ai-and-kubeflow-2cff8586277f
 
+### Predicting taxi fares
+
+https://medium.com/@jakob.salomonsson/predicting-the-fare-on-a-billion-taxi-trips-with-bigquery-108135c8697d
 
 ## Qwiklabs
-
-
 
 
 ### Applying BQML's Classification, Regression, and Demand Forecasting for Retail Applications
