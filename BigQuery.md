@@ -775,6 +775,10 @@ https://blog.devgenius.io/cool-bigquery-features-using-standard-sql-syntax-e7a47
 
 https://chriskyfung.github.io/blog/qwiklabs/Insights-from-Data-with-BigQuery-Challenge-Lab
 
+### Steampipe
+
+https://briansuk.medium.com/connecting-steampipe-with-google-bigquery-ae37f258090f
+
 ## Qwiklabs
 
 
