@@ -287,6 +287,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/scale-your-ruby-ap
 
 https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-spanner-dialect-sqlalchemy
 
+### Spanner Observability
+
+Use Opentelemetry, Prometheus, and Grafana to monitor Spanner.
+
+https://cloud.google.com/blog/products/databases/consume-spanner-metrics-using-opentelemetery
+
 
 ## Qwiklabs
 
