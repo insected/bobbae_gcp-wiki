@@ -1,6 +1,6 @@
 [JSONPath](https://goessner.net/articles/JsonPath/) is a query language for [JSON](https://www.json.org/json-en.html), similar to [XPath](https://en.wikipedia.org/wiki/XPath) for [XML](https://en.wikipedia.org/wiki/XML).
 
-JSONPath expressions always refer to a JSON structure in the same way as XPath expression are used in combination with an XML document. Since a JSON structure is usually anonymous and doesn't necessarily have a "root member object" JSONPath assumes the abstract name $ assigned to the outer level object.
+JSONPath expressions always refer to a JSON structure in the same way as XPath expressions are used in combination with an XML document. Since a JSON structure is usually anonymous and doesn't necessarily have a "root member object" JSONPath assumes the abstract name $ assigned to the outer level object.
 
 JSONPath expressions can use the dot–notation
 
@@ -10,7 +10,7 @@ or the bracket–notation
 
 $['store']['book'][0]['title']
 
-for input pathes. Internal or output pathes will always be converted to the more general bracket–notation.
+for input paths. Internal or output paths will always be converted to the more general bracket–notation.
 
 
 ## Example
@@ -66,7 +66,7 @@ Given JSON structure:
 |//*	|$..*	|all Elements in XML document. All members of JSON structure.|
 
 
-# jq
+## jq
 
 [jq](https://stedolan.github.io/jq/) is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 
@@ -98,7 +98,10 @@ https://github.com/stedolan/jq/wiki/For-JSONPath-users
 
 
 
-# jp
+## jp
 
 [jp](https://github.com/bobbae/jp) is a program that can be used to grok json at the command line via path expressions. 
 
+## Dpath
+
+https://github.com/dpath-maintainers/dpath-python
