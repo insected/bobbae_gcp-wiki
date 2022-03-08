@@ -863,6 +863,8 @@ https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-profes
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [USAA Insurance Operations](https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operations)
+- [IT and IIOT Monitoring](https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operation)
+
 
 ## Qwiklabs
 
