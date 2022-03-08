@@ -763,6 +763,11 @@ https://conalldalydev.medium.com/why-i-built-the-python-bigquery-validator-packa
 
 https://medium.com/@Marshall.Sansano.Roma/unnest-the-first-bigquery-function-for-ga4-the-e-commerce-tracking-82e687409b50
 
+### BigQuery Cool SQL features
+
+https://blog.devgenius.io/cool-bigquery-features-using-standard-sql-syntax-e7a47ef9b72e
+
+
 ### Covid 19 data Insights 
 
 https://chriskyfung.github.io/blog/qwiklabs/Insights-from-Data-with-BigQuery-Challenge-Lab
