@@ -171,6 +171,10 @@ Build  an inventory ledger solution that streamlines the order-to-shipping proce
 
 [https://www.youtube.com/watch?v=8kj_uA5vJfo](https://www.youtube.com/watch?v=8kj_uA5vJfo)
 
+### Load generator
+
+https://github.com/cloudspannerecosystem/gcsb
+
 ### Provisioning Spanner with terraform
 
 https://cloud.google.com/blog/topics/developers-practitioners/provisioning-cloud-spanner-using-terraform
