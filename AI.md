@@ -223,7 +223,9 @@ We are living in times when it is paramount that the [possibility of harm](https
 
 https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
 
-### Responsible AI Practices
+### Responsible AI 
+
+https://cloud.google.com/responsible-ai
 
 https://ai.google/responsibilities/responsible-ai-practices/
 
