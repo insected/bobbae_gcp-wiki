@@ -66,6 +66,10 @@ https://github.com/glasnt/git-deploy
 
 ## Examples
 
+### Docker-slim with Cloud Build
+
+https://martonkodok.medium.com/integrating-dockerslim-container-minify-step-on-cloud-build-64da29fd58d1
+
 ### Cloud Build Notifications in Google Chat
 
 
