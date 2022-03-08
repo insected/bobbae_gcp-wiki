@@ -9,7 +9,7 @@ https://cloud.google.com/blog/products/identity-security/managed-service-for-mic
 
 Managed Microsoft AD runs actual Microsoft Active Directory domain controllers on Windows virtual machines to ensure application compatibility. The service creates and maintains the domain controllers for you, reducing the maintenance tasks you need to manage.
 
-
+https://engineering.sada.com/using-gcp-managed-active-directory-to-simplify-domain-authentication-4d8b4a12985b
 
 ## Domain Services
 
