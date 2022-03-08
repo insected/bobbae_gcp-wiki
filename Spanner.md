@@ -104,6 +104,11 @@ Spanner, as most [ACID](https://wikipedia.org/wiki/ACID) databases, it uses the 
 
 Spanner provides synchronous cross-datacenter replication and strong consistency and usability of traditional SQL databases. 
 
+### Introspection tools
+
+https://cloud.google.com/spanner/docs/introspection
+
+
 ### Google F1 
 
 [F1](https://research.google/pubs/pub41344/) is a distributed relational database built to support the Google AdWords business.  
