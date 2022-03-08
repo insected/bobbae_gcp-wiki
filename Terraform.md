@@ -26,6 +26,10 @@ https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints
 
 https://hub.docker.com/r/hashicorp/terraform/
 
+### Gcloud and terraform
+
+https://cloud.google.com/blog/products/application-development/google-cloud-cli-declarative-export-preview
+
 ### RAD Lab
 
 https://github.com/GoogleCloudPlatform/rad-lab
