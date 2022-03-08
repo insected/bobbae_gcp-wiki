@@ -781,29 +781,6 @@ The [Estimators API]( https://www.tensorflow.org/guide/estimator   ) gives us a 
 
 [MLOps](MLOps) is the process of taking an experimental Machine Learning model into a production web system. 
 
-## Examples
-
-### Monitor models for training-serving skew with Vertex AI
-
-https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
-
-
-
-### The Making of an AI Storyteller
-
-https://towardsdatascience.com/the-making-of-an-ai-storyteller-c3b8d5a983f5
-
-### Demo of Video Intelligence API
-
-https://medium.com/@zackakil/see-what-video-intelligence-api-can-do-with-this-visualisation-tool-4303e371505
-
-### Anomaly detection using River
-
-https://medium.com/spikelab/anomalies-detection-using-river-398544d3536
-
-## Cloud Professional Machine Learning Engineer Certification
-
-https://medium.com/@datacouch/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-2067478767ff
 
 
 
@@ -831,8 +808,53 @@ https://spectrum.ieee.org/deep-learning-computational-cost
 
 https://medium.com/google-developer-experts/get-recognized-as-an-ml-expert-with-the-google-professional-ml-engineer-certificate-c85a67e9270d
 
+### Study Guide
 
 https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf
+
+
+
+### Cloud Professional Machine Learning Engineer Certification Preparation Guide
+
+https://medium.com/@datacouch/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-2067478767ff
+
+
+
+
+
+## Examples
+
+### Monitor models for training-serving skew with Vertex AI
+
+https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
+
+
+
+### The Making of an AI Storyteller
+
+https://towardsdatascience.com/the-making-of-an-ai-storyteller-c3b8d5a983f5
+
+### Demo of Video Intelligence API
+
+https://medium.com/@zackakil/see-what-video-intelligence-api-can-do-with-this-visualisation-tool-4303e371505
+
+### Anomaly detection using River
+
+https://medium.com/spikelab/anomalies-detection-using-river-398544d3536
+
+### USAA Insurance Operations
+
+https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operations
+
+### IT and IIOT Monitoring
+
+https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operation
+
+
+
+
+
+
 
 ## Tutorials
 
@@ -862,8 +884,6 @@ https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-profes
 - [Hands-On Machine Learning on GCP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-on-Google-Cloud-Platform)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [USAA Insurance Operations](https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operations)
-- [IT and IIOT Monitoring](https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operation)
 
 
 ## Qwiklabs
