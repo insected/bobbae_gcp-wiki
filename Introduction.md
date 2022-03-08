@@ -48,7 +48,7 @@ Review the lists of [industry specific solutions](https://cloud.google.com/solut
 Summary of google cloud services in [4 words](https://github.com/gregsramblings/google-cloud-4-words).
 
 
-
+https://googlecloudcheatsheet.withgoogle.com/
 
 ## Compare Platforms
 
