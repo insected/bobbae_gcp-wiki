@@ -49,3 +49,7 @@ https://trustedcloudprinciples.com/
 ### Protecting Healthcare data with DLP
 
 https://cloud.google.com/blog/products/identity-security/getting-started-with-dlp-for-healthcare-data
+
+### DLP API and GCS and Cloud Functions
+
+https://codelabs.developers.google.com/codelabs/cloud-storage-dlp-functions
