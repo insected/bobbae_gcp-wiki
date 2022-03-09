@@ -96,6 +96,7 @@ https://cloud.google.com/compute/docs/instances/sql-server/configure-failover-cl
 
 ### CloudSQL Insights
 
+
 https://cloud.google.com/blog/products/databases/get-ahead-of-database-performance-issues-with-cloud-sql-insights
 
 ## Configuration
