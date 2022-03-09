@@ -1,5 +1,5 @@
 [Data Fusion]( https://cloud.google.com/data-fusion  ) is a fully managed, cloud-native, scalable data integration platform. It is a
-GUI based data integration service for building and managing data pipelines
+GUI based data integration service for building and managing data pipelines.
 
 
 https://medium.com/google-cloud/designing-a-data-lake-on-gcp-with-data-fusion-and-composer-e2ea0a753525
@@ -61,6 +61,11 @@ Many users today want to establish a unified analytics environment across a myri
 https://cloud.google.com/data-fusion#section-10
 
 ## Examples
+
+### Import CSV data into BigQuery using Data Fusion
+
+https://codelabs.developers.google.com/codelabs/batch-csv-cdf-bq
+
 
 ### End-to-end automated Analytics 
 
