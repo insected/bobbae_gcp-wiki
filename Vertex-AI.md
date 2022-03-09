@@ -88,6 +88,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-t
 
 ## Examples
 
+### Custom Training using Titanic survivor data
+
+https://codelabs.developers.google.com/codelabs/vertex-ai-custom-code-training?hl=en#3
+
 ### AutoML forecasting
 
 https://codelabs.developers.google.com/codelabs/automl-forecasting-with-vertex-ai
