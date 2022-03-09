@@ -6,6 +6,13 @@ https://cloud.google.com/blog/topics/developers-practitioners/eventarc-unified-e
 
 https://cloud.google.com/eventarc/docs/run/create-trigger-cloud-audit-logs-gcloud
 
-## Path pattern filtering
+## Examples
+
+
+### Event-driven orchestration with Eventarc and Workflows
+
+https://codelabs.developers.google.com/codelabs/cloud-event-driven-orchestration
+
+### Path pattern filtering
 
 https://medium.com/google-cloud/applying-a-path-pattern-when-filtering-in-eventarc-f06b937b4c34
