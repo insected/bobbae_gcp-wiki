@@ -169,6 +169,12 @@ A [list](https://github.com/cristaloleg/awesome-load-balancing) of Load Balancer
 
 https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#gcloud
 
+
+### External HTTPs LB with Advanced Traffic Management using Envoy
+
+https://codelabs.developers.google.com/codelabs/externalhttplb-adv
+
+
 ### Terraform examples for external HTTP(S) load balancers
 
 https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples#cloud-run
