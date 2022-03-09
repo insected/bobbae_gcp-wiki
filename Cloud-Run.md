@@ -57,6 +57,9 @@ https://medium.com/google-cloud/mount-a-file-as-a-volume-in-cloud-run-facc74c02c
 
 https://medium.com/@rahulxsharma/django-on-google-cloud-run-3f2f93ae0917
 
+### Wagtail on Cloud Run
+
+https://codelabs.developers.google.com/codelabs/cloud-run-wagtail
 
 ### Cloud Run Continous Deployment and Domain Mapping
 
