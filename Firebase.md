@@ -146,6 +146,10 @@ https://medium.com/firebase-developers/how-stretchminder-uses-firebase-b45c76d62
 
 https://medium.com/gdgeurope/how-500-000-people-got-a-covid-19-vaccine-appointment-ee1201998644
 
+### Firebase Android Chat app
+
+https://firebase.google.com/codelabs/firebase-android
+
 ### Youtube channel for firebase
 
 [https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJDw-9-88_LlOs0yR4b4Znv)
@@ -155,7 +159,7 @@ https://medium.com/gdgeurope/how-500-000-people-got-a-covid-19-vaccine-appointme
 https://firebase.google.com/products/app-distribution
 
 
-### Telegram bot in Kotlin, Firebase  and Cloud Functions
+### Telegram bot in Kotlin, Firebase, and Cloud Functions
 
 https://medium.com/@vlad.kanash_53500/serverless-telegram-bot-with-kotlin-firebase-and-google-cloud-functions-b0f83e20f5c9
 
