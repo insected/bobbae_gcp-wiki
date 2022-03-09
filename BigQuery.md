@@ -60,9 +60,6 @@ The Query Plan explanation breaks down the stages that the query went through, t
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-query-processing
 
-### Testable SQL
-
-https://tufin.medium.com/testable-bigquery-sql-61a911e35ab5
 
 ### Serverless
 
@@ -348,22 +345,29 @@ Dataform does the T in ELT (Extract, Load, Transform) processes. It doesn’t ex
 
 https://medium.com/@danilo.drobac/supercharge-your-bigquery-data-warehouse-with-dataform-d871d4df123a
 
+
+
+
+
+
+
+#### Dataform SQLX
+
+https://docs.dataform.co/introduction/dataform-in-5-minutes
+
 ### UDF
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-functions
-
 
 #### Testing UDF with Dataform
 
 https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataform-cli-tool-to-unit-test-udf
 
 
+### Testable SQL
 
+https://tufin.medium.com/testable-bigquery-sql-61a911e35ab5
 
-
-### SQLX
-
-https://docs.dataform.co/introduction/dataform-in-5-minutes
 
 ### MERGE
 
@@ -371,8 +375,13 @@ https://medium.com/plumbersofdatascience/incremental-data-ingestion-in-bigquery-
 
 ### Data Fusion
 
+[Data Fusion](Data-Fusion) is built using open source project [CDAP](https://github.com/cdapio/cdap).  It is a GUI based data integration service for building and managing data pipelines.
+
 https://cloud.google.com/data-fusion/
 
+#### Import CSV data into BigQuery using Data Fusion
+
+https://codelabs.developers.google.com/codelabs/batch-csv-cdf-bq
 
 ### Datastream  and Data Fusion
 
