@@ -130,6 +130,10 @@ https://firebase.google.com/docs/samples
 
 https://firebase.google.com/docs/functions/get-started
 
+### Firebase and Cloud Functions
+
+https://firebase.google.com/codelabs/firebase-cloud-functions
+
 ### Quickdraw
 
 https://firebase.googleblog.com/2021/06/building-firebase-quickdraw.html
