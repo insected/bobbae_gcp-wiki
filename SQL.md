@@ -152,6 +152,11 @@ https://towardsdatascience.com/sql-jinja-is-not-enough-why-we-need-dataframes-4d
 
 https://cloud.google.com/blog/products/databases/get-ahead-of-database-performance-issues-with-cloud-sql-insights
 
+
+### SQL Commenter
+
+https://cloud.google.com/blog/topics/developers-practitioners/introducing-sqlcommenter-open-source-orm-auto-instrumentation-library
+
 ### New Relic
 
 https://docs.newrelic.com/docs/integrations/google-cloud-platform-integrations/gcp-integrations-list/google-cloud-sql-monitoring-integration/
