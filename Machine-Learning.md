@@ -58,7 +58,7 @@ https://cloud.google.com/architecture/guidelines-for-developing-high-quality-ml-
 [https://cloud.google.com/ai-platform/docs/ml-solutions-overview](https://cloud.google.com/ai-platform/docs/ml-solutions-overview)
 
 
-### Choosing Machine Learning Options
+### Machine Learning Options
 
 
 [https://www.youtube.com/watch?v=pm_-pVPvZ-4](https://www.youtube.com/watch?v=pm_-pVPvZ-4)
@@ -190,6 +190,12 @@ Step 1, read this [comicbook](https://cloud.google.com/products/ai/ml-comic-1).
 Step 2, head over to this [tutorial](https://developers.google.com/machine-learning/crash-course/).
 
 Step 3, look at these videos: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+
+Step 4, go through ML learning materials 
+
+https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free
+
 
 
 ## Machine Learning & Artificial Intelligence 
