@@ -114,9 +114,13 @@ https://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns
 
 https://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html
 
-## Firefoo
+### Firefoo
 
 https://firefoo.app/
+
+### AWS Amplify
+
+https://blog.back4app.com/aws-amplify-vs-google-firebase/
 
 ### Export CSV from Firebase Firestore without code
 
