@@ -122,9 +122,24 @@ https://firefoo.app/
 
 https://blog.back4app.com/aws-amplify-vs-google-firebase/
 
-### Export CSV from Firebase Firestore without code
 
-https://medium.com/@alexnikdanilin/how-to-use-self-made-service-account-key-with-expiration-date-on-google-cloud-platform-bf5a33c2685a
+### Vercel
+
+https://betterprogramming.pub/firebase-vs-vercel-aka-zeit-now-2020-7f5ab18d865f
+
+### Netlify
+
+https://blog.back4app.com/firebase-vs-netlify/
+
+
+### Heroku
+
+https://blog.back4app.com/firebase-vs-heroku/
+
+
+### Cloudflare Pages
+
+https://pages.cloudflare.com/
 
 ## Examples
 
@@ -175,6 +190,13 @@ https://medium.com/@arunes/running-a-remix-app-on-firebase-b6aa003475fe
 ### Building a REST API with Firebase
 
 https://indepth.dev/posts/1084/building-an-api-with-firebase
+
+
+### Export CSV from Firebase Firestore without code
+
+https://medium.com/@alexnikdanilin/how-to-use-self-made-service-account-key-with-expiration-date-on-google-cloud-platform-bf5a33c2685a
+
+
 
 ## Qwiklabs
 
