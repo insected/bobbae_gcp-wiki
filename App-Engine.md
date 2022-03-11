@@ -84,6 +84,8 @@ https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/
 
 ## Other PaaS
 
+https://github.com/bobbae/gcp/wiki/PaaS#paas-alternatives
+
 - https://github.com/mitja/awesome-paas
 
 - Compare to AWS Elastic Beanstalk 
