@@ -120,6 +120,11 @@ https://platform9.com/
 
 https://rancher.com/
 
+
+### loft
+
+https://github.com/loft-sh/loft
+
 ### Openshift
 
 https://openshift.com
