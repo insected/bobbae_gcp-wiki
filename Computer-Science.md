@@ -12,8 +12,11 @@ https://isaaccomputerscience.org/
 
 The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete education in computer science using online materials. 
 
-You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/) as well as many related topics as listed below.
+You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/).
 
+## Learn to code
+
+https://github.com/collections/learn-to-code
 
 
 ## Computer Science Ethics 
