@@ -14,9 +14,35 @@ The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete ed
 
 You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/).
 
+## Books
+
+https://github.com/EbookFoundation/free-programming-books
+
+## Papers
+
+https://github.com/papers-we-love/papers-we-love
+
 ## Learn to code
 
 https://github.com/collections/learn-to-code
+
+## Command line
+
+https://github.com/jlevy/the-art-of-command-line
+
+## Algorithms
+
+https://github.com/tayllan/awesome-algorithms
+
+https://github.com/trekhleb/javascript-algorithms
+
+## System Design
+
+https://github.com/donnemartin/system-design-primer
+
+## Public APIs
+
+https://github.com/public-apis/public-apis
 
 
 ## Computer Science Ethics 
