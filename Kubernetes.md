@@ -11,4 +11,4 @@
 - [Kubernetes Security](Kubernetes-Security) 
 - [Kubernetes and VMs](Kubernetes-and-VMs)
 - [GKE](GKE)
-- [Anthos](Anthos)
+- [Hybrid Multi-Cloud and Anthos](Hybrid-Multi-Cloud-And-Anthos)
