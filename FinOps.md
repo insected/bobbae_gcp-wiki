@@ -76,6 +76,10 @@ https://deploy.live/blog/gcp-finops-001-google-cloud-storage-location-location-l
 
 https://deploy.live/blog/serverless-compression-of-gcs-data-with-streaming-golang-google-cloud-function/
 
+### Kubernetes costs
+
+https://github.com/bobbae/gcp/wiki/Hybrid-Multi-Cloud-And-Anthos#cost
+
 ### Tutorials
 
 ####  Cost Spike Alerting
