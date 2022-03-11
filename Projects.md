@@ -72,6 +72,9 @@ https://github.com/practical-tutorials/project-based-learning
 * https://gist.github.com/tsaqib/9a8ded18603881b76a8f
 * https://www.wolframcloud.com/objects/microsites/ProjectGenerator/idea?n=219
 * https://awesomeopensource.com/projects/hackathon
+* https://github.com/karan/Projects
+* https://github.com/karan/Projects-Solutions
+
 
 
 
