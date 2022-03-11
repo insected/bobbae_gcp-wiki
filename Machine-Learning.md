@@ -4,14 +4,20 @@
 
 
 
-[Machine learning](https://developers.google.com/machine-learning/glossary) is an   application of [Artificial Intelligence](AI) (AI) that provides systems the ability to [automatically learn and improve from experience without being explicitly programmed]( https://www.youtube.com/watch?v=HcqpanDadyQ  ). 
+[Machine learning](https://developers.google.com/machine-learning/glossary) is an application of [Artificial Intelligence](AI) (AI) that provides systems the ability to [automatically learn and improve from experience without being explicitly programmed]( https://www.youtube.com/watch?v=HcqpanDadyQ  ). 
 
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) focuses on the development of computer programs that can access data and use it to learn for themselves.
 
+## Guidelines for developing ML solutions
+
 https://cloud.google.com/architecture/guidelines-for-developing-high-quality-ml-solutions
 
-#### Google Machine Learning Platform Overview
+## Collection of Machine Learning resources
+
+https://github.com/collections/machine-learning
+
+## Google Machine Learning Platform Overview
 
 [https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
 
