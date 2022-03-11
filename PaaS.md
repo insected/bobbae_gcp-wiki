@@ -17,6 +17,8 @@ https://diginomica.com/quarter-century-saas-25-years-xaas
 
 ## PaaS alternatives
 
+https://github.com/bobbae/gcp/wiki/Firebase#paas
+
 
 ### Heroku alternatives
 
