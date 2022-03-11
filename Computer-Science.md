@@ -37,6 +37,8 @@ https://github.com/collections/learn-to-code
 
 https://github.com/charlax/professional-programming
 
+https://github.com/mtdvio/every-programmer-should-know
+
 ## Command line
 
 https://github.com/jlevy/the-art-of-command-line
@@ -60,9 +62,8 @@ https://github.com/donnemartin/system-design-primer
 
 https://github.com/public-apis/public-apis
 
-## Every programmer should know
 
-https://github.com/mtdvio/every-programmer-should-know
+
 
 ## Robotics
 
