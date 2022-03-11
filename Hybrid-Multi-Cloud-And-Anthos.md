@@ -137,3 +137,38 @@ https://tanzu.vmware.com
 
 https://www.cloudfoundry.org/
 
+
+## Cost
+
+### Cost of managed Kubernetes
+
+https://ubuntu.com/blog/managed-kubernetes-cheaper-than-aws
+
+
+### Keeping costs in check
+
+https://cast.ai/blog/keep-your-aws-kubernetes-costs-in-check-with-intelligent-allocation/
+
+
+### Cost comparison
+
+https://www.google.com/amp/s/www.parkmycloud.com/blog/kubernetes-pricing/amp/
+
+### Kubecost
+
+
+https://www.kubecost.com
+
+### loft
+
+https://github.com/loft-sh/loft
+
+### anodot
+
+https://www.anodot.com/learning-center/cloud-cost-monitoring/
+
+
+### Cloudhealth
+
+https://cloudhealth.vmware.com/
+
