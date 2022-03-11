@@ -149,6 +149,10 @@ https://pages.cloudflare.com/
 
 https://render.com/
 
+### fly.io
+
+https://fly.io/
+
 
 ## Examples
 
