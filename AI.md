@@ -298,6 +298,7 @@ https://medium.com/google-cloud/process-images-with-google-cloud-ai-c8a9ff159d99
 - https://sebastianraschka.com/blog/2021/dl-course.html
 - https://d2l.ai/index.html
 - https://www.coursera.org/learn/ai-for-everyone
+- https://github.com/owainlewis/awesome-artificial-intelligence
 
 ## Qwiklabs
 
