@@ -14,6 +14,13 @@ The [OSSU](https://github.com/ossu/computer-science) curriculum is a complete ed
 
 You can learn [Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=7) and [data analytics](https://datacadamia.com/).
 
+## Courses
+
+https://github.com/prakhar1989/awesome-courses
+
+https://github.com/ForrestKnight/open-source-cs
+
+
 ## Books
 
 https://github.com/EbookFoundation/free-programming-books
@@ -26,6 +33,10 @@ https://github.com/papers-we-love/papers-we-love
 
 https://github.com/collections/learn-to-code
 
+## Programming
+
+https://github.com/charlax/professional-programming
+
 ## Command line
 
 https://github.com/jlevy/the-art-of-command-line
@@ -33,6 +44,11 @@ https://github.com/jlevy/the-art-of-command-line
 ## Algorithms
 
 https://github.com/tayllan/awesome-algorithms
+
+https://github.com/TheAlgorithms/C
+
+https://github.com/TheAlgorithms/C-Plus-Plus
+
 
 https://github.com/trekhleb/javascript-algorithms
 
@@ -44,13 +60,41 @@ https://github.com/donnemartin/system-design-primer
 
 https://github.com/public-apis/public-apis
 
+## Every programmer should know
+
+https://github.com/mtdvio/every-programmer-should-know
+
+## Robotics
+
+https://github.com/mithi/robotics-coursework
+
+## Design patterns
+
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+## ML Foundations
+
+https://github.com/jonkrohn/ML-foundations
+
+## Bioinformatics
+
+https://github.com/danielecook/Awesome-Bioinformatics
+
+## AI
+
+https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+
 
 ## Computer Science Ethics 
 
+### ACM Code of Ethics and Professional Conduct
 
+https://www.acm.org/code-of-ethics
 
-Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The [ACM Code of Ethics and Professional Conduct]( https://www.acm.org/code-of-ethics ) ("the Code") expresses the conscience of the profession.
+### Computer ethics
 
-[Computer ethics]( https://wikipedia.org/wiki/Computer_ethics ) is a part of practical philosophy concerned with how computing professionals should make decisions regarding professional and social conduct.
+https://wikipedia.org/wiki/Computer_ethics
 
-[Algorithmic bias]( https://wikipedia.org/wiki/Algorithmic_bias ) describes systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one arbitrary group of users over others. Bias can emerge due to many factors, including but not limited to the design of the algorithm or the unintended or unanticipated use or decisions relating to the way data is coded, collected, selected or used to train the algorithm.
+### Algorithmic bias
+
+https://wikipedia.org/wiki/Algorithmic_bias 
