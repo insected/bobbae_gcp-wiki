@@ -13,7 +13,7 @@ https://github.com/amusi/awesome-ai-awesomeness
 
 
 
-
+https://i.am.ai/roadmap/
 
 
 ## Vertex AI
