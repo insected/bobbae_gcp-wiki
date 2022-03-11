@@ -34,6 +34,11 @@ Outposts are available as a 42U rack that can scale from [1 rack to 96 racks](  
 
 https://aws.amazon.com/snowcone/
 
+
+#### EKS Anywhere
+
+https://aws.amazon.com/eks/eks-anywhere/
+
 ### Azure Stack
 
 
