@@ -12,7 +12,7 @@ https://www.ufried.com/blog/microservices_fallacy_1/
 https://itnext.io/the-fundamentals-of-microservices-oriented-architecture-8779d756f70f
 
 
-## Failure
+
 
 ### Tyranny of Structurelessness
 
@@ -98,7 +98,7 @@ http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
 https://www.joelonsoftware.com/category/reading-lists/top-10/
 
 
-### A Quora question
+### A Quora question on software complexity
 
 https://www.quora.com/Why-is-most-modern-software-so-mindbogglingly-complex-with-multiple-layers-of-abstraction-stacked-on-each-other-Why-do-they-not-make-simple-efficient-software-like-they-used-to-earlier
 
@@ -109,8 +109,12 @@ https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 
 ### Let it crash
 
+https://wiki.c2.com/?LetItCrash
+
 
 https://www.mgasch.com/2019/03/crash/
+
+https://www.amberbit.com/blog/2019/7/26/the-misunderstanding-of-let-it-crash/
 
 ### Redundancy
 
