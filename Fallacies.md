@@ -94,7 +94,7 @@ https://www.cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_versi
 https://wikipedia.org/wiki/List_of_software_development_philosophies
 
 
-### Microservices trade offs 
+### Microservices trade-offs 
 
 
 https://martinfowler.com/articles/microservice-trade-offs.html
