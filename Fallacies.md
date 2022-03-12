@@ -1,15 +1,17 @@
 
-https://en.wikipedia.org/wiki/Fallacy
 
 
+
+
+### 8 [fallacies](https://en.wikipedia.org/wiki/Fallacy) of distributed computing
+
+https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
+
+<!--
 ### Microservices
 
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
-
-### 8 fallacies
-
-https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
 
 ### micro services fallacy
 
@@ -21,7 +23,7 @@ https://www.ufried.com/blog/microservices_fallacy_1/
 https://itnext.io/the-fundamentals-of-microservices-oriented-architecture-8779d756f70f
 
 
-<!--
+
 
 ### Tyranny of Structurelessness
 
