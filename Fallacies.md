@@ -1,13 +1,22 @@
-### 8 Fallacies of Distributed Computing
+
+https://en.wikipedia.org/wiki/Fallacy
+
+
+### Micro services
 
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
 
-
+### 8 fallacies
 
 https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
 
+### micro services fallacy
+
 https://www.ufried.com/blog/microservices_fallacy_1/
+
+
+### micro service oriented architecture
 
 https://itnext.io/the-fundamentals-of-microservices-oriented-architecture-8779d756f70f
 
@@ -39,7 +48,7 @@ https://fi.co/insight/elon-musk-explains-the-fallacy-of-learning-from-failure
 
 https://www.hanselman.com/blog/everythings-broken-and-nobodys-upset
 
-## Software Complexity
+### Software Complexity
 
 https://www.netmeister.org/blog/software-engineering-laws.html
 
@@ -72,7 +81,7 @@ https://en.wikipedia.org/wiki/Dependency_inversion_principle
 
 https://en.wikipedia.org/wiki/Priority_inversion
 
-#### Mars
+### Mars
 
 https://www.cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_version.html
 
@@ -114,6 +123,8 @@ https://wiki.c2.com/?LetItCrash
 
 https://www.mgasch.com/2019/03/crash/
 
+### Misunderstanding of let it crash
+
 https://www.amberbit.com/blog/2019/7/26/the-misunderstanding-of-let-it-crash/
 
 ### Redundancy
@@ -141,7 +152,7 @@ https://wikipedia.org/wiki/Worse_is_better
 
 https://wikipedia.org/wiki/Unix_philosophy
 
-### Go
+### Brooks Wirth Go
 
 https://www.fredrikholmqvist.com/posts/brooks-wirth-go
 
@@ -245,7 +256,7 @@ https://uberty.org/wp-content/uploads/2016/01/aaronson-philosophy_complexity.pdf
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
 
 
-## CAP
+### CAP
 
 https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
 
@@ -277,7 +288,7 @@ https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc845
 
 https://josephg.com/blog/crdts-go-brrr/
 
-## Time
+### Time problem
 
 https://en.wikipedia.org/wiki/Problem_of_time
 
@@ -325,11 +336,15 @@ https://en.wikipedia.org/wiki/Vector_clock
 
 https://learnyousomeerlang.com/time
 
-## Blockchain
+### Blockchain
 
 https://hackernoon.com/blockchain-technology-explained-introduction-meaning-and-applications-edbd6759a2b2
 
-## Accuracy
+
+### Critique of Web3
+https://github.com/life-itself/web3
+
+### Accuracy
 
 https://www.kdnuggets.com/2019/12/accuracy-fallacy-media-coverage-ai-bogus.html
 
@@ -342,7 +357,7 @@ https://en.wikipedia.org/wiki/P-value
 https://en.wikipedia.org/wiki/Bayesian_inference
 
 
-## Noise
+### Noise
 
 https://www.washingtonpost.com/outlook/how-to-turn-down-the-noise-that-mars-our-decision-making/2021/05/19/758be210-b370-11eb-9059-d8176b9e3798_story.html
 
@@ -430,16 +445,23 @@ https://theconversation.com/daniel-kahneman-on-noise-the-flaw-in-human-judgement
 
 https://www.smartdraw.com/management/corporate-culture.htm
 
-## AI
+### AI fallacy
 
 http://inverseprobability.com/talks/notes/the-great-ai-fallacy.html
 
+### AI limitations
+
+https://lucidityproject.home.blog/2020/08/13/limitations-of-ai/
+
+### Minsky
+
+https://www.space.com/32153-god-artificial-intelligence-and-the-passing-of-marvin-minsky.html
 
 ### Machine Learning
 
 https://www.kdnuggets.com/2017/12/4-common-data-fallacies.html
 
-## Church Turing Thesis
+### Church Turing Thesis
 
 https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis
 
@@ -456,7 +478,7 @@ https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/
 https://en.wikipedia.org/wiki/Halting_problem
 
 
-## Math
+### Math
 
 https://en.wikipedia.org/wiki/Mathematical_fallacy
 
@@ -465,7 +487,7 @@ https://en.wikipedia.org/wiki/Mathematical_fallacy
 https://www.statisticsdonewrong.com/
 
 
-## Physics
+### Physics
 
 https://www.journals.uchicago.edu/doi/full/10.1086/678174#d3794364e1
 
@@ -474,9 +496,8 @@ https://www.journals.uchicago.edu/doi/full/10.1086/678174#d3794364e1
 
 https://www.technologyreview.com/2009/09/17/209905/how-quantum-probability-theory-could-explain-human-logical-fallacies/
 
-## Reasoning
 
-https://en.wikipedia.org/wiki/Fallacy
+
 
 ### Category Mistakes
 
@@ -499,9 +520,9 @@ https://www.refsmmat.com/posts/2016-05-08-simpsons-paradox-berkeley.html
 
 https://github.com/kdeldycke/awesome-falsehood
 
-## Computers and Programming
 
-### History
+
+### History of computers
 
 https://www.g2.com/articles/history-of-computers
 
@@ -546,7 +567,7 @@ https://en.wikipedia.org/wiki/Anti-pattern
 
 
 
-## Anti Anti Pattern
+
 
 ### Recognize Over-Engineering
 
@@ -580,7 +601,6 @@ https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17
 
 https://en.wikipedia.org/wiki/Bin_packing_problem
 
-## Conclusions
 
 
 ### Trusting Trust
