@@ -158,7 +158,9 @@ https://wikipedia.org/wiki/Unix_philosophy
 
 ### Brooks Wirth Go
 
-https://www.fredrikholmqvist.com/posts/brooks-wirth-go
+
+https://www.fredrikholmqvist.com/posts/articles/brooks-wirth-go/
+
 
 ### Inner platform effect
 
