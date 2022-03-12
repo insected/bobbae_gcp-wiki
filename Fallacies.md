@@ -60,6 +60,10 @@ https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering
 
 https://en.wikipedia.org/wiki/Essential_complexity
 
+### Cyclomatic complexity
+
+https://en.m.wikipedia.org/wiki/Cyclomatic_complexity
+
 ### Leaky Abstraction
 
 https://en.wikipedia.org/wiki/Leaky_abstraction
