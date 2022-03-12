@@ -2,7 +2,7 @@
 https://en.wikipedia.org/wiki/Fallacy
 
 
-### Micro services
+### Microservices
 
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
@@ -16,12 +16,12 @@ https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of
 https://www.ufried.com/blog/microservices_fallacy_1/
 
 
-### micro service oriented architecture
+### micro service-oriented architecture
 
 https://itnext.io/the-fundamentals-of-microservices-oriented-architecture-8779d756f70f
 
 
-
+<!--
 
 ### Tyranny of Structurelessness
 
@@ -657,4 +657,4 @@ https://www.youtube.com/watch?v=Unzc731iCUY
 
 https://edgestudio.com/script/an-eschatological-laundry-list/
 
-
+-->
