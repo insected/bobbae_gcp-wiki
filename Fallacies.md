@@ -213,6 +213,15 @@ https://en.wikipedia.org/wiki/Downs%E2%80%93Thomson_paradox
 
 https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
 
+
+### Byte order fallacy
+
+https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html
+
+### Endianness
+
+https://en.m.wikipedia.org/wiki/Endianness
+
 ### Premature optimization is the root of all evil
 
 https://wikipedia.org/wiki/Perfect_is_the_enemy_of_good
