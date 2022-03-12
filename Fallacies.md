@@ -3,7 +3,7 @@
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
 
-<!--
+
 
 https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
 
@@ -619,4 +619,4 @@ https://www.youtube.com/watch?v=Unzc731iCUY
 
 https://edgestudio.com/script/an-eschatological-laundry-list/
 
--->
+
