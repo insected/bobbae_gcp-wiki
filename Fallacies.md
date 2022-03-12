@@ -185,7 +185,7 @@ https://en.wikipedia.org/wiki/Software_bloat
 
 https://en.wikipedia.org/wiki/Downs%E2%80%93Thomson_paradox
 
-### Less is more
+### Less is Exponentially more
 
 https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
 
@@ -481,6 +481,11 @@ https://plato.stanford.edu/entries/category-mistakes/
 ### Causality
 
 https://en.wikipedia.org/wiki/Causality
+
+
+### Granger Causality
+
+https://en.m.wikipedia.org/wiki/Granger_causality
 
 ### Simpson's Paradox at Berkeley
 
