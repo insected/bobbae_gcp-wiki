@@ -180,6 +180,9 @@ https://en.wikipedia.org/wiki/Not_invented_here
 
 https://en.wikipedia.org/wiki/Reinventing_the_wheel
 
+### Patent thicket
+
+https://en.m.wikipedia.org/wiki/Patent_thicket
 
 ### Standing on the shoulders of giants
 
