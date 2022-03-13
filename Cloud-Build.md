@@ -66,6 +66,11 @@ https://github.com/glasnt/git-deploy
 
 ## Examples
 
+### Continuous deployment with Cloud Build and GitHub trigger
+
+
+https://medium.com/@konstantin.iakovlev/a-hands-on-tutorial-to-continuous-deployment-with-cloud-build-on-google-cloud-8ae2701f12c6
+
 ### Docker-slim with Cloud Build
 
 https://martonkodok.medium.com/integrating-dockerslim-container-minify-step-on-cloud-build-64da29fd58d1
