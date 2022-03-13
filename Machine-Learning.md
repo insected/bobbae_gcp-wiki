@@ -842,6 +842,10 @@ https://medium.com/@datacouch/google-cloud-professional-machine-learning-enginee
 
 ## Examples
 
+### Titanic survival prediction using danfo.js and tensorflow.js
+
+https://danfo.jsdata.org/examples/titanic-survival-prediction-using-danfo.js-and-tensorflow.js
+
 ### Monitor models for training-serving skew with Vertex AI
 
 https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
