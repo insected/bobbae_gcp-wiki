@@ -81,9 +81,6 @@ In Oracle's approach, SaaS, CRM, ERP, and HCM products are brought into customer
 
 [Anthos](Anthos) is a combination of GKE on-prem and Anthos Config Management console.  It is hardware agnostic and can be run on existing servers or with VMWare, Dell, HPE, Intel, and Lenovo racks.  This approach relies on Kubernetes as a kind of portability layer over multiple clouds, as Anthos can run on AWS and Azure.   It has similarities to [Tanzu](https://tanzu.vmware.com/tanzu) and [Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
 
-## Comparisons
-
-https://loft.sh/blog/the-cost-of-managed-kubernetes-a-comparison/
 
 ## OCP
 
@@ -161,7 +158,9 @@ https://www.kubecost.com
 
 ### loft
 
-https://github.com/loft-sh/loft
+https://loft.sh/blog/the-cost-of-managed-kubernetes-a-comparison/
+
+
 
 ### anodot
 
