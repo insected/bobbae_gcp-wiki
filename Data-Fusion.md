@@ -79,6 +79,26 @@ https://jtaras.medium.com/google-data-fusion-using-cloud-storage-file-uploads-to
 
 https://jtaras.medium.com/cloud-data-fusion-building-config-driven-pipelines-a40d23e9d011
 
+### Creating reusable pipeline
+
+https://cloud.google.com/data-fusion/docs/tutorials/reusable-pipeline
+
+### Connect SAP data via Cloud Data Fusion
+
+https://cloud.google.com/blog/products/data-analytics/cloud-data-fusion-helps-consolidate-sap-and-non-sap-datasets
+
+### Google Cloud Cortex Framework
+
+https://cloud.google.com/solutions/cortex
+
+
+https://cloud.google.com/blog/products/sap-google-cloud/faster-time-to-value-with-the-google-cloud-cortex-framework
+
+### SAP SLT Replication plugin
+
+https://cloud.google.com/data-fusion/docs/how-to/use-sap-slt-plugin
+
+
 ## Tutorials
 
 
