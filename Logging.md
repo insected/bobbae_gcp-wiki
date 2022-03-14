@@ -290,6 +290,12 @@ https://cloud.google.com/logging/docs/quickstart-sdk
 
 https://cloud.google.com/logging/docs/quickstart-python
 
+
+### Pacemaker Alerts for SAP
+
+https://cloud.google.com/blog/products/sap-google-cloud/pacemaker-alerts-in-google-cloud
+
+
 ## Code Samples
 
 https://cloud.google.com/logging/docs/how-to#code-samples
