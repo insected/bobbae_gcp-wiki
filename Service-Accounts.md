@@ -82,6 +82,14 @@ You can use identity federation with Amazon Web Services (AWS), or with any iden
 
 https://cloud.google.com/iam/docs/workload-identity-federation
 
+### GitHub Actions and Workload Identity Federation
+
+https://medium.com/kpmg-uk-engineering/workload-identity-federation-authenticate-github-actions-to-google-cloud-f773079e1336
+
+### GitLab and Workload Identity Federation
+
+https://gbostoen.medium.com/integrate-gitlab-with-google-cloud-workload-identity-federation-7afb2aac3a89
+
 
 ## Securing Service Accounts
 
