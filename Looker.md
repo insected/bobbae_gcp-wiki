@@ -499,6 +499,10 @@ https://cloud.google.com/blog/topics/healthcare-life-sciences/looker-helps-predi
 
 https://medium.com/google-cloud/looker-self-hosted-installation-on-gcp-7e6a5050784a
 
+### Customer hosted Looker installation on GCP 
+
+https://medium.com/@shivam_m7/customer-hosted-looker-installation-on-google-cloud-platform-vm-9cb19221a572
+
 ## Qwiklabs
 
 https://www.qwiklabs.com/catalog?keywords=looker
