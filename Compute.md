@@ -319,6 +319,11 @@ https://cloud.google.com/compute/docs/tutorials/ml-inference-t4
 [https://cloud.google.com/compute/docs/tutorials/performing-an-automated-in-place-upgrade-windows-server](https://cloud.google.com/compute/docs/tutorials/performing-an-automated-in-place-upgrade-windows-server)
 
 
+## Mainframe
+
+### Micro Focus Enterprise Server
+
+https://cloud.google.com/blog/topics/partners/micro-focus-enterprise-server-google-cloud-blueprint
 
 ## Where to run my code? Deciding between GCE, GKE, App Engine
 
