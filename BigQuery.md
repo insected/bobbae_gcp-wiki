@@ -597,7 +597,7 @@ https://mentin.medium.com/bigquery-geospatial-query-tricks-8ebb4453ab5e
 
 [BigQuery Omni](https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-omni) is a flexible, fully managed, multi-cloud analytics solution that allows you to analyze data across clouds such as AWS and Azure. 
 
-
+https://medium.com/google-cloud/bigquery-omni-is-everywhere-afa2b5f64688
 
 ### BigQuery ML 
 
