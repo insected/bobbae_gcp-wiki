@@ -788,6 +788,13 @@ https://chriskyfung.github.io/blog/qwiklabs/Insights-from-Data-with-BigQuery-Cha
 
 https://briansuk.medium.com/connecting-steampipe-with-google-bigquery-ae37f258090f
 
+### ArcGIS and BigQuery
+
+
+https://cloud.google.com/blog/products/data-analytics/use-bigquery-with-esri-arcgis-to-power-your-geospatial-analysis
+
+
+
 ## Qwiklabs
 
 
