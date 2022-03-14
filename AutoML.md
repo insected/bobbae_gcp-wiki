@@ -150,9 +150,15 @@ Use [BigQuery ML](bigquery-ml) for easy, low-cost machine learning and quick via
 
 https://towardsdatascience.com/choosing-between-tensorflow-keras-bigquery-ml-and-automl-natural-language-for-text-classification-6b1c9fc21013
 
+
+### Measuring and Improving Speech-to-Text Accuracy
+
+https://medium.com/@nishitkamdar/measuring-and-improving-speech-to-text-accuracy-google-cloud-platform-eba62c50b8ac
+
 ## Pycaret
 
 https://towardsdatascience.com/build-pycaret-deploy-gcp-521415a6c330
+
 
 ## Examples
 
