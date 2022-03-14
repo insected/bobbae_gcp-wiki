@@ -18,7 +18,9 @@ You create your pipelines with an Apache Beam program and then run them on the D
 
 The [Apache Beam documentation](https://beam.apache.org/documentation/) provides in-depth conceptual information and reference material for the Apache Beam programming model, SDKs, and other runners.
 
+### Apache Beam SQL
 
+https://medium.com/syntio/data-processing-with-dataflow-sql-part-1-2-fe57e47f4bb0
 
 
 ### Alternatives
