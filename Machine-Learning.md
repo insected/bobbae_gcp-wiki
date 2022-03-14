@@ -873,7 +873,9 @@ https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud
 https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operation
 
 
+### Mapping carbon pollution globally with satellites
 
+https://cloud.google.com/blog/topics/developers-practitioners/mapping-carbon-pollution-globally-satellites
 
 
 
