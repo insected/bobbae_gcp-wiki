@@ -312,6 +312,8 @@ Use Opentelemetry, Prometheus, and Grafana to monitor Spanner.
 
 https://cloud.google.com/blog/products/databases/consume-spanner-metrics-using-opentelemetery
 
+
+
 ### Committed Use Discounts
 
 https://cloud.google.com/blog/products/databases/spanner-committed-use-discounts-help-reduce-costs
