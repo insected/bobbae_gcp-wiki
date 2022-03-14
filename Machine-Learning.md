@@ -208,6 +208,9 @@ https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free
 
 A [Data Scientist](Data-Science) models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth [data modeling and deep learning]( https://cloud.google.com/training/machinelearning-ai  ).
 
+
+https://towardsdatascience.com/5-minutes-cheat-sheet-explaining-all-machine-learning-models-3fea1cf96f05
+
 ## Predictive Analytics
 
 https://en.wikipedia.org/wiki/Predictive_analytics
