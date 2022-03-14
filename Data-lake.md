@@ -51,7 +51,13 @@ https://www.guru99.com/data-lake-vs-data-warehouse.html
 
 https://github.com/treeverse/lakeFS
 
+## Examples
 
-## Building a Data lake using ELT
+### Building Data Lake on GCP
+
+https://tech.groww.in/building-a-data-lake-on-google-cloud-platform-98634fa3d66f
+
+
+### Building a Data lake using ELT
 
 https://jomach.medium.com/how-we-build-a-cloud-data-lake-using-elt-instead-of-etl-c05c076001e0
