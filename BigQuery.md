@@ -457,6 +457,11 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-write-api-explained-overview-write-api
 
+
+### Streaming JSON data via Storage Write API
+
+https://cloud.google.com/blog/topics/developers-practitioners/learn-how-stream-json-data-bigquery-using-new-bigquery-storage-write-api
+
 ### Public Datasets
 
 [https://cloud.google.com/bigquery/public-data](https://cloud.google.com/bigquery/public-data)
