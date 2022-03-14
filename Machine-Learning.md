@@ -833,13 +833,16 @@ https://spectrum.ieee.org/deep-learning-computational-cost
 
 https://medium.com/google-developer-experts/get-recognized-as-an-ml-expert-with-the-google-professional-ml-engineer-certificate-c85a67e9270d
 
-### Study Guide
+
+https://medium.com/@joshcx/how-i-passed-the-google-cloud-professional-machine-learning-engineer-exam-vertex-ai-484c7863bbac
+
+
 
 https://towardsdatascience.com/a-comprehensive-study-guide-for-the-google-professional-machine-learning-engineer-certification-1e411db4d2cf
 
 
 
-### Cloud Professional Machine Learning Engineer Certification Preparation Guide
+
 
 https://medium.com/@datacouch/google-cloud-professional-machine-learning-engineer-certification-preparation-guide-2067478767ff
 
