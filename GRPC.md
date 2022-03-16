@@ -107,6 +107,8 @@ https://cloud.google.com/docs/security/encryption-in-transit/application-layer-t
 
 ### gRPC and Envoy
 
-https://medium.com/google-cloud/grpc-application-layertransport-security-alts-helloworld-f26e4b05f329
 
 https://github.com/soeirosantos/alts-go-grpc-envoy
+
+https://medium.com/google-cloud/grpc-application-layertransport-security-alts-helloworld-f26e4b05f329
+
