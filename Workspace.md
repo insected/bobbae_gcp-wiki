@@ -4,7 +4,12 @@
 
 AKA G-Suite
 
+### Google Workspace Administration 
+
 https://support.google.com/a/?hl=en#topic=4388346
+
+
+https://www.cloudskillsboost.google/course_templates/90
 
 ### Introduction
 
