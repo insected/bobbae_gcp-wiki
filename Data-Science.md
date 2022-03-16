@@ -13,6 +13,8 @@ https://towardsdatascience.com/is-data-science-really-a-science-9c2249ee2ce4
 
 https://github.com/datasciencemasters/go
 
+https://www.unifyingdatascience.org/html/index.html
+
 ### Data Science-Driven Organization
 
 A [data science-driven organization](https://cloud.google.com/blog/products/ai-machine-learning/building-the-data-science-driven-organization) is an entity that maximizes the value from the data available while using [machine learning](Machine-Learning) and analytics to create a sustainable competitive advantage.
