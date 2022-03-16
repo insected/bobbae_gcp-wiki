@@ -58,6 +58,9 @@ https://en.wikipedia.org/wiki/Remote_procedure_call
 
 [Protocol buffers](https://developers.google.com/protocol-buffers/) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read structured data to and from a variety of data streams and using a variety of languages.
 
+https://developers.google.com/protocol-buffers/docs/proto3
+
+
 There are [many other Data serialization formats](Data-Serialization-Formats)
 
 ### MessagePack
@@ -96,3 +99,8 @@ https://realpython.com/python-microservices-grpc/
 ## RPC, REST and HTTP
 
 https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
+
+
+## ALTS
+
+https://cloud.google.com/docs/security/encryption-in-transit/application-layer-transport-security
