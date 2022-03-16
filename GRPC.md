@@ -104,3 +104,7 @@ https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-api
 ## ALTS
 
 https://cloud.google.com/docs/security/encryption-in-transit/application-layer-transport-security
+
+### gRPC and Envoy
+
+https://medium.com/google-cloud/grpc-application-layertransport-security-alts-helloworld-f26e4b05f329
