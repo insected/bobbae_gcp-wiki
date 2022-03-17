@@ -1,6 +1,8 @@
 
 A [public key infrastructure](https://www.ssh.com/pki/) (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke [digital certificates](https://en.wikipedia.org/wiki/Public_key_certificate) and manage [public-key encryption](https://en.wikipedia.org/wiki/Public-key_cryptography). The purpose of a PKI is to facilitate the secure electronic transfer of information for a range of network activities such as e-commerce, internet banking and confidential email. It is required for activities where simple passwords are an inadequate authentication method and more rigorous proof is required to confirm the identity of the parties involved in the communication and to validate the information being transferred.
 
+https://smallstep.com/blog/everything-pki/
+
 ## X.509
 
 [X.509](https://en.wikipedia.org/wiki/X.509
