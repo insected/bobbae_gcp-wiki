@@ -1,6 +1,8 @@
 
 
+https://github.com/kdeldycke/awesome-falsehood
 
+https://github.com/jameslk/awesome-falsehoods
 
 
 ### 8 [fallacies](https://en.wikipedia.org/wiki/Fallacy) of distributed computing
@@ -8,6 +10,8 @@
 https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
 
 <!--
+
+
 ### Microservices
 
 
