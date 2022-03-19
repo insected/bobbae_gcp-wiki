@@ -132,6 +132,10 @@ The Domain Name System Security Extensions (DNSSEC) is a feature of the Domain N
 
 https://cloud.google.com/dns/docs/dnssec
 
+### MagicDNS
+
+https://tailscale.com/blog/2021-09-private-dns-with-magicdns/
+
 ### Cert Manager, Kubernetes, Let’s Encrypt
 
 [https://www.youtube.com/watch?v=LH4nLtUpuBI](https://www.youtube.com/watch?v=LH4nLtUpuBI)
