@@ -31,7 +31,13 @@ https://cloud.google.com/blog/products/api-management/how-to-manage-graphql-apis
 
 https://www.apollographql.com/docs/apollo-server/
 
+## Postgraphile
 
+https://www.graphile.org/postgraphile/
+
+## Prisma
+
+https://www.prisma.io/
 
 
 ## Dgraph
