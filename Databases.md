@@ -94,6 +94,15 @@ The [CAP theorem](  https://medium.com/@pranabj.aec/acid-cap-and-base-cc73dee43f
 
 [https://dbdb.io/browse](https://dbdb.io/browse)
 
+## Comparisons
+
+https://kokizzu.blogspot.com/2021/11/databases-with-automatic-rebalance.html?m=1
+
+https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html
+
+
+https://docs.yugabyte.com/latest/comparisons/
+
 ## Other databases available on Google Cloud
 
 ### Databricks
