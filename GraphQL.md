@@ -21,3 +21,7 @@ https://cloud.google.com/blog/products/api-management/how-to-manage-graphql-apis
 ## Dgraph
 
 https://dgraph.io/graphql/
+
+## GraphQL vs Redux
+
+https://cresta.com/blog/graphql-for-the-react-redux-developer/
