@@ -40,3 +40,7 @@ https://cloud.google.com/blog/products/identity-security/new-sovereign-controls-
 ### Governing your data in GCP
 
 https://medium.com/@bernadethl/governing-your-data-in-google-cloud-b305335069b4
+
+### Data Governance tools
+
+https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools
