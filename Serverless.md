@@ -86,7 +86,9 @@ https://medium.com/brainjar/how-to-build-an-event-driven-application-on-google-c
 
 https://codelabs.developers.google.com/codelabs/cloud-nebulous-serverless-nodejs?hl=en#0
 
+### Serverless PI calculation
 
+https://cloud.google.com/blog/topics/developers-practitioners/celebrating-pi-day-cloud-functions
 
 ## Qwiklabs
 
