@@ -90,6 +90,9 @@ https://medium.com/kpmg-uk-engineering/workload-identity-federation-authenticate
 
 https://gbostoen.medium.com/integrate-gitlab-with-google-cloud-workload-identity-federation-7afb2aac3a89
 
+### Using Workload Identity to access Google Cloud Pub/Sub from GKE
+
+https://medium.com/@karthikg_54738/using-workload-identity-to-access-google-cloud-pub-sub-from-gke-2d6818d58f83
 
 ## Securing Service Accounts
 
