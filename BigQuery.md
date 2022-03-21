@@ -802,6 +802,11 @@ https://cloud.google.com/blog/products/data-analytics/use-bigquery-with-esri-arc
 
 https://towardsdatascience.com/plotting-bar-charts-in-bigquery-using-a-sql-user-defined-function-udf-ca6056aac680
 
+
+### Evaluate arithmetic expressions without values using BigQuery
+
+https://blog.devgenius.io/evaluate-arithmetic-expressions-without-values-using-bigquery-a4abd99f0932
+
 ## Qwiklabs
 
 
