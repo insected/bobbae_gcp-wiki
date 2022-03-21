@@ -115,3 +115,7 @@ https://ide.cloud.google.com/?walkthrough_tutorial_id=gke_cloud_code_create_app
 #### Setting up GKE with Terraform Cloud
 
 https://medium.com/@kuszner/setting-up-gke-with-terraform-cloud-bf9dfb5d1c8b
+
+#### GKE and Ambassador
+
+https://blog.searce.com/ambassador-with-google-kubernetes-engine-gke-d80571ef0525
