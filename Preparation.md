@@ -92,6 +92,8 @@ https://jackraiferbaruch.medium.com/book-review-professional-cloud-architect-goo
 
 https://youtu.be/UGRDM86MBIQ
 
+https://medium.com/@walkrinthecloud/how-to-prepare-for-the-google-cloud-digital-leader-certification-exam-6bf1dcf017d7
+
 ## External Learning Resources
 
 External [list](https://www.guru99.com/best-google-course.html) and [resources](https://medium.com/javarevisited/my-favorite-free-google-cloud-platform-gcp-professional-cloud-developer-certification-courses-856ef69a56bb) can be used along with this document. 
