@@ -36,3 +36,7 @@ https://iapp.org/resources/article/a-guide-to-data-governance-for-privacy-confid
 ### Data Sovereignty
 
 https://cloud.google.com/blog/products/identity-security/new-sovereign-controls-for-gcp-via-assured-workloads
+
+### Governing your data in GCP
+
+https://medium.com/@bernadethl/governing-your-data-in-google-cloud-b305335069b4
