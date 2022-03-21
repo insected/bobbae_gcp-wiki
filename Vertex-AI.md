@@ -138,6 +138,11 @@ https://markryan-69718.medium.com/alphafold-for-everybody-c73d40d4b56d
 
 https://cloud.google.com/blog/topics/developers-practitioners/using-vertex-ai-rapid-model-prototyping-and-deployment
 
+
+### Scalable ML Workflows using PyTorch on Kubeflow Pipelines and Vertex Pipelines
+
+https://cloud.google.com/blog/topics/developers-practitioners/scalable-ml-workflows-using-pytorch-kubeflow-pipelines-and-vertex-pipelines
+
 ## Qwiklabs
 
 ### Qwik start
