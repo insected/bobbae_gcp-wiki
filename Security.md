@@ -22,6 +22,23 @@ https://cloud.google.com/security/infrastructure/design
 
 We need a holistic approach to security and [privacy](Privacy) and must protect information through its entire lifecycle, from the moment it's captured to the day it's destroyed.
 
+
+## Chronicle
+
+https://cloud.google.com/chronicle/docs
+
+### Chronicle Context-aware analytics
+
+https://cloud.google.com/chronicle/docs/preview/context-aware-analytics
+
+### Context-aware detections, alert prioritization and risk scoring 
+
+https://cloud.google.com/blog/products/identity-security/powering-security-operations-google-chronicle
+
+### Detect-alert-respond with Context
+
+https://chroniclesec.medium.com/security-analyst-diaries-2-detect-alert-respond-context-is-key-everywhere-in-security-operations-1f7b9be0f7c3
+
 ## Security issues in cloud computing
 
 https://jisajournal.springeropen.com/articles/10.1186/1869-0238-4-5
