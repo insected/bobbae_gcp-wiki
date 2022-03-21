@@ -64,6 +64,9 @@ https://cloud.google.com/composer/docs/how-to/using/writing-dags
 
 [https://www.youtube.com/watch?v=RrKXZcKOz4A](https://www.youtube.com/watch?v=RrKXZcKOz4A)
 
+## Tuning
+
+https://mkuthan.github.io/blog/2022/03/15/gcp-cloud-composer-tuning/
 
 ## Tutorials
 
