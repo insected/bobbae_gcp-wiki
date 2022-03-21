@@ -35,6 +35,16 @@ Google built a superior [cloud network](https://cloud.google.com/docs/compare/da
 
 https://youtu.be/KayF1osXrOk
 
+
+## Network Intelligence Center
+
+https://cloud.google.com/network-intelligence-center
+
+## Enabling NetOps with GCP Network Topology
+
+https://medium.com/google-cloud/enabling-netops-with-gcp-network-topology-39bd49a66a98
+
+
 ## IP Addresses
 
 https://cloud.google.com/compute/docs/ip-addresses
