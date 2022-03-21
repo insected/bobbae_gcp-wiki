@@ -134,6 +134,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/extending-network-rea
 
 https://markryan-69718.medium.com/alphafold-for-everybody-c73d40d4b56d
 
+### Rapid model prototyping and deployment
+
+https://cloud.google.com/blog/topics/developers-practitioners/using-vertex-ai-rapid-model-prototyping-and-deployment
+
 ## Qwiklabs
 
 ### Qwik start
