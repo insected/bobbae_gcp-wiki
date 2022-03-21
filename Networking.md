@@ -35,25 +35,23 @@ Google built a superior [cloud network](https://cloud.google.com/docs/compare/da
 
 https://youtu.be/KayF1osXrOk
 
-
-## Network Intelligence Center
-
-https://cloud.google.com/network-intelligence-center
-
-## Enabling NetOps with GCP Network Topology
-
-https://medium.com/google-cloud/enabling-netops-with-gcp-network-topology-39bd49a66a98
+## GCP Network Options
 
 
-## IP Addresses
+GCP provides various [Network Service Options](Network-Options).
+
+
+## GCP IP and DNS
+
+### IP Addresses
 
 https://cloud.google.com/compute/docs/ip-addresses
 
-## Internal DNS
+### Internal DNS
 
 https://cloud.google.com/compute/docs/internal-dns
 
-## Networking 101
+## General Networking 101
 
 [https://www.youtube.com/watch?v=0hN-dyOV10c](https://www.youtube.com/watch?v=0hN-dyOV10c)
 
@@ -62,7 +60,7 @@ https://cloud.google.com/compute/docs/internal-dns
 The [Open Systems Interconnection model]( https://en.wikipedia.org/wiki/OSI_model  ) (OSI model) is a [conceptual model]( https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/  ) that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. 
 
 
-The recommendation X.200 describes seven layers, labelled 1 to 7.
+Recommendation X.200 describes seven layers, labelled 1 to 7.
 
 
 
@@ -150,35 +148,33 @@ A [routing protocol](  https://en.wikipedia.org/wiki/Routing_protocol ) specifie
 A [subnetwork or subnet]( https://en.wikipedia.org/wiki/Subnetwork  ) is a logical subdivision of an IP network. The practice of dividing a network into two or more networks is called subnetting.
 
 
+## Network Learning Resources
 
-## CompTIA Network+ full course
+### CompTIA Network+ full course
 
 https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
-## Networking End to End
+### Networking End to End
 
 [https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u)
 
 
-## Two-Tier vs. Three Tier Architecture
+### Two-Tier vs. Three Tier Architecture
 
-### Networking point of view
+#### Networking point of view
 
 [https://www.wwt.com/article/comparing-two-tier-three-tier-data-center-networks](https://www.wwt.com/article/comparing-two-tier-three-tier-data-center-networks)
 
-### Database point of view
+#### Database point of view
 
 https://www.softwaretestingclass.com/what-is-difference-between-two-tier-and-three-tier-architecture/
 
 
 
-## GCP Network Options
 
+## Network Features
 
-GCP provides various [Network Service Options](Network-Options).
-
-
-## CDN
+### CDN
 
 Cloud [CDN](CDN) (Content Delivery Network) uses Google's globally distributed edge points of presence to cache external HTTP(S) load balanced content close to your users. Caching content at the edges of Google's network provides faster delivery of content to your users while reducing serving costs. 
 
@@ -198,15 +194,23 @@ Cloud CDN leverages Google Cloud global external HTTP(S) load balancers to provi
 
 [https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket](https://cloud.google.com/cdn/docs/setting-up-cdn-with-bucket)
 
-## VPN
+### VPN
 
 [VPN](VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
 https://en.wikipedia.org/wiki/Virtual_private_network
 
+
+#### GCP Cloud VPN
+
+https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview
+
+
 ## VLAN
 
 A [virtual LAN](VLAN) (VLAN) is any broadcast domain that is partitioned and isolated in a computer network at the data link layer (OSI layer 2).
+
+https://cloud.google.com/network-connectivity/docs/interconnect/how-to/dedicated/creating-vlan-attachments
 
 ## BGP
 
@@ -215,11 +219,18 @@ A [virtual LAN](VLAN) (VLAN) is any broadcast domain that is partitioned and iso
 
 https://en.wikipedia.org/wiki/Border_Gateway_Protocol
 
+
+https://cloud.google.com/network-connectivity/docs/router/how-to/configuring-bgp
+
 ### Path vector, Distance vector, Link state and Hybrid
+
+https://cloud.google.com/vpc/docs/routes
 
 https://www.packetcoders.io/routing-protocols-compared-distance-vector-path-vector-link-state-and-hybrid/
 
 https://www.techtarget.com/searchnetworking/definition/split-horizon
+
+https://www.geeksforgeeks.org/difference-between-static-and-dynamic-routing/
 
 ## MPLS
 
@@ -230,9 +241,14 @@ MPLS supports a range of access technologies, including [T1/E1](https://en.wikip
 
 https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching
 
+https://cloud.google.com/network-connectivity/docs/interconnect/support/faq
+
+
 ### Virtual switches and isolation
 
 https://dl.acm.org/doi/pdf/10.1145/3229616.3229618
+
+https://cloud.google.com/vpc
 
 ## Hybrid Connectivity
 
@@ -322,7 +338,7 @@ Setting up Cloud Armor.
 
 [Network Intelligence Center](https://cloud.google.com/network-intelligence-center/docs) provides a single console for managing Google Cloud network visibility, monitoring, and troubleshooting.
 
-
+https://cloud.google.com/network-intelligence-center
 
 Getting started with topology in network intelligence center.
 
@@ -332,6 +348,14 @@ Getting started with topology in network intelligence center.
 
 https://cloud.google.com/network-intelligence-center/docs/firewall-insights/concepts/overview
 
+
+
+
+
+
+### Enabling NetOps with GCP Network Topology
+
+https://medium.com/google-cloud/enabling-netops-with-gcp-network-topology-39bd49a66a98
 
 ## Network Service Tiers
 
