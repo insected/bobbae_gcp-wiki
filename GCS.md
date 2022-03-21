@@ -169,3 +169,7 @@ https://cloud.google.com/architecture/streaming-data-from-cloud-storage-into-big
 
 https://cloud.google.com/architecture/transferring-data-from-amazon-s3-to-cloud-storage-using-vpc-service-controls-and-storage-transfer-service
 
+
+### Finding duplicate objects in GCS buckets
+
+https://towardsdev.com/how-to-find-duplicate-objects-in-our-google-cloud-storage-gcs-buckets-6f85ac7dbdf0
