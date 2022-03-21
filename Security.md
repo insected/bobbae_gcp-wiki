@@ -173,6 +173,9 @@ The [Resource Manager](Resource-Manager) API enables you to programmatically man
 
 [Cloud Data Loss Prevention (DLP)](https://cloud.google.com/dlp/docs) provides [access](http://bit.ly/2QmSZsr) to a powerful [sensitive data inspection](https://www.youtube.com/watch?v=GArEb2e9jGk), classification, and de-identification platform.
 
+### Automatic DLP for BigQuery
+
+https://cloud.google.com/blog/products/identity-security/automatic-dlp-for-bigquery
 
 
 
