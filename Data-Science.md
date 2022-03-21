@@ -259,6 +259,7 @@ http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 - https://www.guru99.com/data-science-tutorial.html
 - https://www.tutorialspoint.com/python_data_science/index.htm
 - https://www.classcentral.com/course/data-science-crash-course-4392
+- https://towardsdatascience.com/10-resources-to-learn-data-science-on-google-cloud-c19fb3033df5
 
 
 
