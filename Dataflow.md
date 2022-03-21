@@ -22,6 +22,11 @@ The [Apache Beam documentation](https://beam.apache.org/documentation/) provides
 
 https://medium.com/syntio/data-processing-with-dataflow-sql-part-1-2-fe57e47f4bb0
 
+### Apache Beam stream processing
+
+https://mkuthan.github.io/blog/2022/01/28/stream-processing-part1/
+
+https://mkuthan.github.io/blog/2022/03/08/stream-processing-part2/
 
 ### Alternatives
 
