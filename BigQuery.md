@@ -798,7 +798,9 @@ https://briansuk.medium.com/connecting-steampipe-with-google-bigquery-ae37f25809
 
 https://cloud.google.com/blog/products/data-analytics/use-bigquery-with-esri-arcgis-to-power-your-geospatial-analysis
 
+### Plotting bar chars in BigQuery using SQL UDF
 
+https://towardsdatascience.com/plotting-bar-charts-in-bigquery-using-a-sql-user-defined-function-udf-ca6056aac680
 
 ## Qwiklabs
 
