@@ -94,6 +94,10 @@ https://gbostoen.medium.com/integrate-gitlab-with-google-cloud-workload-identity
 
 https://medium.com/@karthikg_54738/using-workload-identity-to-access-google-cloud-pub-sub-from-gke-2d6818d58f83
 
+### Enabling keyless authentication from github actions
+
+https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions
+
 ## Securing Service Accounts
 
 https://cloud.google.com/iam/docs/best-practices-for-securing-service-accounts
