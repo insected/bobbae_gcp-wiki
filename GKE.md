@@ -50,6 +50,27 @@ https://cloud.google.com/blog/products/containers-kubernetes/introducing-contain
 
 https://cloud.google.com/blog/products/identity-security/workload-credentials-for-gke-via-cas
 
+### Using workload identity with GKE
+
+
+Workload Identity allows workloads in your GKE clusters to impersonate Identity and Access Management (IAM) service accounts to access Google Cloud services. Workload Identity is enabled by default on Autopilot clusters.
+
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/workload-identity
+
+
+https://debricked.com/blog/what-is-gke-workload-identity/
+
+https://medium.com/zeotap-customer-intelligence-unleashed/gke-workload-identity-a-secure-way-for-gke-applications-to-access-gcp-services-f880f4e74e8c
+
+### Terraform workload identity
+
+https://registry.terraform.io/modules/terraform-google-modules/kubernetes-engine/google/latest/submodules/workload-identity
+
+### Deploying Google Cloud Functions using GitHub Actions and Workload Identity authentication
+
+https://blog.leandrotoledo.org/deploying-google-cloud-functions-using-github-actions-and-workload-identity-authentication/
+
 ### Port limit
 
 https://gtseres.medium.com/how-to-expose-more-than-5-ports-for-a-loadbalancer-kservice-in-gcp-ee2a08c54e85
@@ -119,3 +140,4 @@ https://medium.com/@kuszner/setting-up-gke-with-terraform-cloud-bf9dfb5d1c8b
 #### GKE and Ambassador
 
 https://blog.searce.com/ambassador-with-google-kubernetes-engine-gke-d80571ef0525
+
