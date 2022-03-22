@@ -98,6 +98,12 @@ https://medium.com/@karthikg_54738/using-workload-identity-to-access-google-clou
 
 https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions
 
+
+### keyless gcp authentication from github actions with workload identity federation
+
+https://alwaysupalwayson.com/posts/2022/01/workload-identity-federation/
+
+
 ## Securing Service Accounts
 
 https://cloud.google.com/iam/docs/best-practices-for-securing-service-accounts
