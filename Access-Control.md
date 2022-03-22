@@ -25,13 +25,30 @@ IAP establishes a central authorization layer for applications accessed by HTTPS
 
 [https://www.youtube.com/watch?v=XqMY-rPk3MY](https://www.youtube.com/watch?v=XqMY-rPk3MY)
 
-#### Example
+#### Use IAP to ssh into internal IP VM
 
 https://lunajacob.medium.com/utilizing-gcps-identity-aware-proxy-to-ssh-into-internal-ip-only-vm-s-237bca0123c
 
 #### Accessing GKE via IAP
 
 https://medium.com/google-cloud/accessing-gke-private-clusters-through-iap-14fedad694f8
+
+#### Secure access to web apps with IAP
+
+https://medium.com/andcloudio/secure-access-to-web-apps-with-identity-aware-proxy-14b858d9c068
+
+#### Alternatives to IAP
+
+https://www.strongdm.com/blog/alternatives-to-google-cloud-identity-aware-proxy-iap
+
+#### Programmatic authentication under IAP
+
+https://engineering.wingify.com/posts/programmatic-authentication-under-iap/
+
+#### Serving and securing internal applications that can be accessed anywhere without the need for a VPN
+
+https://bravenewgeek.com/tag/identity-aware-proxy/
+
 
 ### Device Identity
 
