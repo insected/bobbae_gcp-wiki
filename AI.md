@@ -245,6 +245,8 @@ https://theatlantic.com/amp/article/620013/
 
 https://chrislovejoy.me/correlation-causation/
 
+https://www.tylervigen.com/spurious-correlations
+
 ### Counterfactual
 
 https://www.inference.vc/causal-inference-3-counterfactuals/
