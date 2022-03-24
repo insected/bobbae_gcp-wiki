@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Google_Cloud_Platform
 GCP has been around since [2008]( https://medium.com/@retomeier/an-annotated-history-of-googles-cloud-platform-90b90f948920
    ) and benefitted from [fundamental research ](https://research.google/) that continue to [influence the  product](https://cloud.google.com/blog/products/compute/google-clouds-iaas-platform-is-a-powerful-choice) development.
 
-## Getting Started
+## Getting Started using Cloud Console
 
 https://console.cloud.google.com/getting-started
 
