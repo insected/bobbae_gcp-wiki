@@ -62,7 +62,7 @@ https://github.com/codenotary/immudb
 https://github.com/cloudflare/cloudflared
 
 
-## smallstep
+## Smallstep
 
 https://smallstep.com/blog/automate-docker-ssl-tls-certificates/
 
