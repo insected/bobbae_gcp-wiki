@@ -16,6 +16,9 @@ https://www.beyondcorp.com/
 
 https://cloud.google.com/beyondcorp
 
+## BeyondCorp Enterprise 
+
+https://cloud.google.com/beyondcorp-enterprise
 
 ## Zero trust discussion 
 
