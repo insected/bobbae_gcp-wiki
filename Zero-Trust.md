@@ -31,6 +31,8 @@ https://cloud.google.com/blog/products/identity-security/google-cloud-zero-trust
 https://cloud.google.com/iap/docs/tcp-forwarding-overview
 
 
+https://engineering.sada.com/moving-to-the-beyondcorp-model-with-cloud-iap-and-iap-connector-e002891738c0
+
 ## CFT
 
 https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit
