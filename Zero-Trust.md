@@ -1,5 +1,15 @@
 https://en.m.wikipedia.org/wiki/Zero_trust_security_model
 
+## NIST SP 800-207 
+
+
+https://doi.org/10.6028/NIST.SP.800-207
+
+## Operation Aurora
+
+https://en.m.wikipedia.org/wiki/Operation_Aurora
+
+
 ## Beyondcorp
 
 https://cloud.google.com/beyondcorp
@@ -23,11 +33,18 @@ https://github.com/codenotary/immudb
 
 https://smallstep.com/blog/automate-docker-ssl-tls-certificates/
 
+## Pomerium identity aware proxy 
 
+https://github.com/pomerium/pomerium
 
 ## Netmaker
 
 https://github.com/gravitl/netmaker
+
+## Ockham
+
+https://github.com/ockam-network/ockam
+
 
 
 
