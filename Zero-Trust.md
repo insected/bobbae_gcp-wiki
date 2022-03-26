@@ -1,3 +1,12 @@
+https://en.m.wikipedia.org/wiki/Zero_trust_security_model
+
+## Beyondcorp
+
+https://cloud.google.com/beyondcorp
+
+
+
+
 https://cloud.google.com/blog/products/identity-security/google-cloud-zero-trust-security-talks-available-on-demand
 
 ## smallstep
