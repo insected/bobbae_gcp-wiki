@@ -47,6 +47,14 @@ Many [CICD](CICD) tools available: Jenkins X, Tekton, Docker, Helm, Skaffold, Ch
 * [MLOps](MLOps) is a practice for collaboration and communication between data scientists and operations professionals to help manage the production of ML lifecycle. MLOps looks to increase automation and [improve the quality of production ML](https://towardsdatascience.com/devsecops-vs-dataops-vs-mlops-93b49f0282b8)  while also focusing on business and regulatory requirements.
 
 
+## NetDevOps
+
+https://www.packetcoders.io/what-is-netdevops/
+
+### Network Automation 
+
+https://github.com/networktocode/awesome-network-automation
+
 ## Ops terminology
 
 https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
