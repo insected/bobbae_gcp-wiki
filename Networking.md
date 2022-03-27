@@ -509,6 +509,14 @@ A [plesiochronous system](https://en.wikipedia.org/wiki/Plesiochronous_system) i
 https://profinetuniversity.com/profinet-basics/isochronous-real-time-irt-communication/
 
 
+### TDM
+
+https://en.m.wikipedia.org/wiki/Time-division_multiplexing
+
+### FDM
+
+https://en.m.wikipedia.org/wiki/Frequency-division_multiplexing
+
 ## NetDevOps
 
 https://github.com/bobbae/gcp/wiki/DevOps#netdevops
