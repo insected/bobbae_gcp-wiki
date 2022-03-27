@@ -517,6 +517,11 @@ https://en.m.wikipedia.org/wiki/Time-division_multiplexing
 
 https://en.m.wikipedia.org/wiki/Frequency-division_multiplexing
 
+
+### WDM
+
+https://en.m.wikipedia.org/wiki/Wavelength-division_multiplexing
+
 ## NetDevOps
 
 https://github.com/bobbae/gcp/wiki/DevOps#netdevops
