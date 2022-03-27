@@ -460,8 +460,9 @@ A [CNI](Kubernetes-Networking#cni) is a link between the container runtime (like
 
 All of the CNIs can be deployed by running a pod or a Daemonset that launches and manages their daemons. Let’s have a look now at the most well-known Kubernetes networking solutions.
 
+## Networking Technology 
 
-## IOT Networking
+### IOT Networking
 
 There are [networking technologies for IoT](IoT-Networking)  that allow communications between devices.
 
@@ -469,7 +470,7 @@ There are [networking technologies for IoT](IoT-Networking)  that allow communic
 
 https://www.iotforall.com/cellular-iot-explained-nb-iot-vs-lte-m
 
-## Time
+### Time Synchronization 
 
 https://www.masterclock.com/support/library/gps-network-time-synchronization
 
@@ -526,6 +527,18 @@ https://en.m.wikipedia.org/wiki/Wavelength-division_multiplexing
 
 https://en.m.wikipedia.org/wiki/Statistical_time-division_multiplexing
 
+### TDMA
+
+https://en.m.wikipedia.org/wiki/Time-division_multiple_access
+
+
+### Packet Switching 
+
+https://en.m.wikipedia.org/wiki/Packet_switching
+
+### Circuit Switching 
+
+https://en.m.wikipedia.org/wiki/Circuit_switching
 
 ## NetDevOps
 
