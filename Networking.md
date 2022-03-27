@@ -504,6 +504,15 @@ https://learnyousomeerlang.com/time
 
 A [plesiochronous system](https://en.wikipedia.org/wiki/Plesiochronous_system) is one where different parts of the system are almost, but not perfectly synchronized. 
 
+### Isochronous Real-time 
+
+https://profinetuniversity.com/profinet-basics/isochronous-real-time-irt-communication/
+
+
+## NetDevOps
+
+https://github.com/bobbae/gcp/wiki/DevOps#netdevops
+
 ## Qwiklabs
 
 
