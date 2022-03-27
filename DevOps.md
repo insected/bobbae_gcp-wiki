@@ -55,6 +55,12 @@ https://www.packetcoders.io/what-is-netdevops/
 
 https://github.com/networktocode/awesome-network-automation
 
+
+### Nautobot
+
+https://www.networktocode.com/nautobot/
+
+
 ## Ops terminology
 
 https://thenewstack.io/dataops-and-the-problem-with-ops-terminology/
