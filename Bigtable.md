@@ -311,6 +311,11 @@ https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
 
+
+### Cost
+
+https://levelup.gitconnected.com/cloud-bigtable-what-is-it-for-what-is-it-suitable-and-what-does-it-cost-31967521e16d
+
 ## Qwiklabs
 
 
