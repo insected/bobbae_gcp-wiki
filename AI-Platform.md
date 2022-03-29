@@ -67,6 +67,8 @@ https://cloud.google.com/ai-platform/prediction/docs
 
 ### Recommendation
 
+https://cloud.google.com/recommendations
+
 https://medium.com/gcp-in-actum-digital/enhancing-online-sales-channels-a7be5da640ff
 
 ## Tutorials
