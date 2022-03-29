@@ -359,6 +359,8 @@ https://docs.dataform.co/introduction/dataform-in-5-minutes
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-functions
 
+https://towardsdatascience.com/bigquery-udfs-complete-guide-181cbdaea55b
+
 #### Testing UDF with Dataform
 
 https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataform-cli-tool-to-unit-test-udf
