@@ -49,6 +49,11 @@ https://ahmet.im/blog/cloud-run-is-a-knative/
 https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318
 
 
+### Google Cloud Run with KNative CLI
+
+
+https://medium.com/google-cloud/google-cloud-run-with-knative-cli-4299d94110d5
+
 ## Components
 
 
