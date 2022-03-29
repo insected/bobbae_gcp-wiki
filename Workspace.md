@@ -4,12 +4,6 @@
 
 AKA G-Suite
 
-### Google Workspace Administration 
-
-https://support.google.com/a/?hl=en#topic=4388346
-
-
-https://www.cloudskillsboost.google/course_templates/90
 
 ### Introduction
 
@@ -68,6 +62,14 @@ https://developers.google.com/admin-sdk
 ### Work Insights
 
 https://workspace.google.com/products/workinsights/
+
+
+### Google Workspace Administration 
+
+https://support.google.com/a/?hl=en#topic=4388346
+
+
+https://www.cloudskillsboost.google/course_templates/90
 
 
 ### Qwiklabs
