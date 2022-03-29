@@ -39,6 +39,9 @@ Knative installation is done on top of Kubernetes and uses optional extensions s
 
 ## Knative based Cloud Run
 
+
+https://ahmet.im/blog/cloud-run-is-a-knative/
+
 [https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga](https://cloud.google.com/blog/products/serverless/knative-based-cloud-run-services-are-ga)
 
 Cloud Run is the service name fully compliant with Knative and it exists in 2 flavors: Managed and on GKE.
