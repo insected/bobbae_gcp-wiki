@@ -18,9 +18,18 @@ https://www.goldyarora.com/g-suite-admin/
 
 https://support.google.com/a/topic/2413312
 
+https://support.google.com/a/?hl=en#topic=4388346
+
+
+https://www.cloudskillsboost.google/course_templates/90
+
 #### Admin SDK
 
 https://developers.google.com/admin-sdk
+
+
+
+
 
 ### YouTube channel for Google Workspace
 
@@ -63,13 +72,6 @@ https://developers.google.com/admin-sdk
 
 https://workspace.google.com/products/workinsights/
 
-
-### Google Workspace Administration 
-
-https://support.google.com/a/?hl=en#topic=4388346
-
-
-https://www.cloudskillsboost.google/course_templates/90
 
 
 ### Qwiklabs
