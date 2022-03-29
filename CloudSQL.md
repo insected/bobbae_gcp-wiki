@@ -138,3 +138,7 @@ https://cloud.google.com/blog/products/databases/how-to-accelerate-transaction-i
 ### Cherre use case with Postgres and GraphQL
 
 https://cloud.google.com/blog/products/databases/how-cherre-creates-real-estate-data-products-with-cloud-sql
+
+### Backup and restore using CURL
+
+https://medium.com/@jason19930803/gcp-restore-cloud-sql-to-instance-in-another-project-631cb82d82c5
