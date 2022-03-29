@@ -60,6 +60,14 @@ Many users today want to establish a unified analytics environment across a myri
 
 https://cloud.google.com/data-fusion#section-10
 
+### UDD
+
+https://medium.com/cdapio/a-definitive-guide-to-wrangler-user-defined-directive-udd-b1dc2d795ce6
+
+### Upload UDDs through REST API
+
+https://jtaras.medium.com/cloud-data-fusion-upload-udds-through-the-rest-api-32d015de1e22
+
 ## Examples
 
 ### Import CSV data into BigQuery using Data Fusion
