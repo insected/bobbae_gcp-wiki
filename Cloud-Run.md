@@ -3,6 +3,8 @@
 
 It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with [Cloud Run for Anthos](https://cloud.google.com/anthos/run).
 
+https://ahmet.im/blog/cloud-run-is-a-knative/
+
 ### Timeout
 
 https://cloud.google.com/run/docs/configuring/request-timeout
