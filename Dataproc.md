@@ -18,6 +18,10 @@ Dataproc Serverless lets you run Spark batch workloads without requiring you to 
 
 https://cloud.google.com/dataproc-serverless/docs
 
+
+### Running PySpark jobs on Serverless Dataproc
+
+https://medium.com/cts-technologies/running-pyspark-jobs-on-google-cloud-using-serverless-dataproc-f16cef5ec6b9
 ## Metastore
 
 [Dataproc Metastore](https://cloud.google.com/blog/products/data-analytics/cloud-hive-metastore-now-available) is a managed [Hive metastore](   https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/ ) that can be used as a [centralized metadata repository]( 
