@@ -40,6 +40,10 @@ https://cloud.google.com/blog/products/devops-sre/application-exceptions-surface
 
 https://cloud.google.com/monitoring/tutorials
 
+### Query metrics from Cloud Monitoring in Golang
+
+https://medium.com/google-cloud/querying-metrics-from-google-cloud-monitoring-in-golang-2631ee3d33c1
+
 ## Cloud Monitoring Dashboard Samples
 
 https://cloud.google.com/blog/products/operations/dashboards-cloud-monitoring-made-easier-samples
