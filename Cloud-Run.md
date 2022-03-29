@@ -1,7 +1,7 @@
 
 [Cloud Run](http://cloud.run/) is a serverless managed compute platform that enables you to run stateless containers that can be invoked via web requests or Pub/Sub events. 
 
-It is built from [Knative](https://cloud.google.com/knative/), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with [Cloud Run for Anthos](https://cloud.google.com/anthos/run).
+It is built from [Knative](Knative), letting you choose to run your containers either fully managed with Cloud Run, in your Google Kubernetes Engine cluster, or in workloads on-premises with [Cloud Run for Anthos](https://cloud.google.com/anthos/run).
 
 https://ahmet.im/blog/cloud-run-is-a-knative/
 
