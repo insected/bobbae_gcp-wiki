@@ -152,6 +152,9 @@ https://cloud.google.com/storage/docs/cross-origin
 [Minio](Minio) is [s3](S3) compatible object storage.
 
 
+### Gcloud  Storage transfers
+
+https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-enables-super-fast-data-transfers
 
 ## Use cases
 
