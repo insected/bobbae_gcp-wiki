@@ -311,6 +311,9 @@ https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
 
+### Node.js example using CBT 
+
+https://levelup.gitconnected.com/cloud-bigtable-understanding-bigtables-nosql-3-dimensional-storage-model-using-the-node-js-client-237946b9c3c9
 
 ### Cost
 
