@@ -788,6 +788,9 @@ https://medium.com/@Marshall.Sansano.Roma/unnest-the-first-bigquery-function-for
 
 https://blog.devgenius.io/cool-bigquery-features-using-standard-sql-syntax-e7a47ef9b72e
 
+### GeoJSON
+
+https://cloud.google.com/blog/topics/developers-practitioners/using-geojson-bigquery-geospatial-analytics
 
 ### Covid 19 data Insights 
 
