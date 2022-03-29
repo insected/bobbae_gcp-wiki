@@ -65,6 +65,10 @@ https://blog.ml6.eu/deploy-ml-models-on-vertex-ai-using-custom-containers-c00f57
 
 https://cloud.google.com/ai-platform/prediction/docs
 
+### Recommendation
+
+https://medium.com/gcp-in-actum-digital/enhancing-online-sales-channels-a7be5da640ff
+
 ## Tutorials
 
 https://cloud.google.com/vertex-ai/docs/tutorials
