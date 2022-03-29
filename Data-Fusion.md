@@ -68,6 +68,11 @@ https://medium.com/cdapio/a-definitive-guide-to-wrangler-user-defined-directive-
 
 https://jtaras.medium.com/cloud-data-fusion-upload-udds-through-the-rest-api-32d015de1e22
 
+
+## CCAI
+
+https://cloud.google.com/blog/products/data-analytics/contact-center-ai-insights-made-easy-with-cloud-data-fusion
+
 ## Examples
 
 ### Import CSV data into BigQuery using Data Fusion
