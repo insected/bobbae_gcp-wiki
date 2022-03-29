@@ -75,6 +75,10 @@ https://cloud.google.com/compute/docs/disks/create-snapshots
 
 https://cloud.google.com/compute/docs/images/create-delete-deprecate-private-images
 
+### Snapshots and Images
+
+https://diana-moraa.medium.com/snapshots-and-images-in-google-cloud-platform-406b23224e9f
+
 ### Instance Templates
 
 https://cloud.google.com/compute/docs/instance-templates/create-instance-templates
