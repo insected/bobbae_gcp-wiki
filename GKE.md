@@ -141,3 +141,6 @@ https://medium.com/@kuszner/setting-up-gke-with-terraform-cloud-bf9dfb5d1c8b
 
 https://blog.searce.com/ambassador-with-google-kubernetes-engine-gke-d80571ef0525
 
+#### Using Cloud Foundation Toolkit with Terraform on GKE
+
+https://cloud.google.com/blog/products/devops-sre/using-the-cloud-foundation-toolkit-with-terraform
