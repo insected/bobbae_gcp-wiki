@@ -14,6 +14,8 @@ https://www.coursera.org/specializations/g-suite-administration
 
 ### Admin
 
+https://www.cloudskillsboost.google/course_templates/90
+
 https://www.goldyarora.com/g-suite-admin/
 
 https://support.google.com/a/topic/2413312
@@ -21,7 +23,6 @@ https://support.google.com/a/topic/2413312
 https://support.google.com/a/?hl=en#topic=4388346
 
 
-https://www.cloudskillsboost.google/course_templates/90
 
 #### Admin SDK
 
