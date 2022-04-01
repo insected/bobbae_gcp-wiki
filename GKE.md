@@ -144,3 +144,14 @@ https://blog.searce.com/ambassador-with-google-kubernetes-engine-gke-d80571ef052
 #### Using Cloud Foundation Toolkit with Terraform on GKE
 
 https://cloud.google.com/blog/products/devops-sre/using-the-cloud-foundation-toolkit-with-terraform
+
+#### A Terraform module for configuring GKE clusters
+
+https://github.com/terraform-google-modules/terraform-google-kubernetes-engine
+
+#### Argo CD With Terraform on GKE
+
+https://betterprogramming.pub/how-to-set-up-argo-cd-with-terraform-to-implement-pure-gitops-d5a1d797926a
+
+
+https://github.com/terraform-google-modules/terraform-google-kubernetes-engine
