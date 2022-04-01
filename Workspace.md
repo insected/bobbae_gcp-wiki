@@ -58,7 +58,8 @@ https://developers.google.com/workspace
 https://developers.google.com/workspace/add-ons/overview
 
 #### Apps Script
-https://developers.google.com/admin-sdk
+
+https://developers.google.com/apps-script/
 
 ### G Suite REST APIs
 
