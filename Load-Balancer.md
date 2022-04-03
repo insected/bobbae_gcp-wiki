@@ -306,3 +306,6 @@ https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
 #### Request routing to a multi-region external HTTPS load balancer
 
 https://cloud.google.com/load-balancing/docs/https/setting-up-https
+
+#### Setting up Internal TCP/UDP Load Balancing with zonal NEGs 
+https://cloud.google.com/load-balancing/docs/internal/setting-up-internal-zonal-neg
