@@ -108,6 +108,7 @@ https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-cer
 #### Backend services
 https://cloud.google.com/load-balancing/docs/backend-service
 
+https://cloud.google.com/load-balancing/docs/features#backends
 
 #### Encryption to the backends
 
@@ -267,12 +268,24 @@ https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-example
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
 
-#### Using load balancing for highly available applications 
-
-https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
 
 #### Terraform HTTP-to-HTTPS Redirect Example
 https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples
 
 #### HTTP Multi region Load Balancer example
 https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples/multi-mig-http-lb
+
+#### Set up a global external HTTP(S) load balancer (classic) with backend buckets
+https://cloud.google.com/load-balancing/docs/https/ext-load-balancer-backend-buckets
+
+#### Setting up an global external HTTP(S) load balancer (classic) with hybrid connectivity
+https://cloud.google.com/load-balancing/docs/https/setting-up-ext-https-hybrid
+
+#### Using load balancing for highly available applications 
+
+https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
+
+
+#### Request routing to a multi-region external HTTPS load balancer
+
+https://cloud.google.com/load-balancing/docs/https/setting-up-https
