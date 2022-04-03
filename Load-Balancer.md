@@ -270,3 +270,6 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
 #### Using load balancing for highly available applications 
 
 https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
+
+#### Terraform HTTP-to-HTTPS Redirect Example
+https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples
