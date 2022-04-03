@@ -273,3 +273,6 @@ https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
 
 #### Terraform HTTP-to-HTTPS Redirect Example
 https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples
+
+#### HTTP Multi region Load Balancer example
+https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples/multi-mig-http-lb
