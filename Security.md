@@ -6,6 +6,9 @@ The Internet has transformed our lives in many good ways. Unfortunately, this va
 
 GCP doesn't rely on any single technology to make its [infrastructure secure](https://cloud.google.com/security/infrastructure). GCP [delivers](   https://cloud.google.com/blog/products/identity-security/delivering-the-industrys-most-trusted-cloud ) security through [progressive layers](https://www.youtube.com/watch?v=MHtg2Au78LI&list=PLIivdWyY5sqLO-4ePY-A2yROgONOA6Cz4) that deliver [true defense in depth](https://www.youtube.com/watch?v=vBdYVFgZ2ug). [Google datacenter security](https://www.youtube.com/watch?v=UOdUC8DhprQ) has [6 layers](https://www.youtube.com/watch?v=kd33UVZhnAA). 
 
+## Building secure and reliable systems
+https://www.oreilly.com/library/view/building-secure-and/9781492083115/
+
 ## Security Command Center
 
 [Security Command Center](https://cloud.google.com/security-command-center) is Google Cloud's centralized vulnerability and threat reporting service.
@@ -159,6 +162,34 @@ https://cloud.google.com/docs/security/infrastructure/design#keeping_employee_de
 https://cloud.google.com/beyondcorp
 
 ### Reducing insider risk
+https://cloud.google.com/docs/security/infrastructure/design#reducing_insider_risk
+
+### Threat monitoring
+https://cloud.google.com/docs/security/infrastructure/design#threat_monitoring
+
+### Threat horizons report
+https://cloud.google.com/blog/products/identity-security/coin-mining-ransomware-apts-target-cloud-gcat-report
+
+### Google Cloud Threat Intelligence for Chronicle
+https://chronicle.security/products/uppercase/
+
+### Virus Total
+https://support.virustotal.com/hc/en-us/categories/360000162878-Documentation
+
+### Threat Analysis Group
+https://blog.google/threat-analysis-group/
+
+### Red team
+https://en.wikipedia.org/wiki/Red_team
+
+### DDoS Attacks
+https://cloud.google.com/blog/products/identity-security/identifying-and-protecting-against-the-largest-ddos-attacks
+
+
+
+
+### Intrusion detection
+https://cloud.google.com/docs/security/infrastructure/design#intrusion_detection
 
 
 ### inter-service access management
