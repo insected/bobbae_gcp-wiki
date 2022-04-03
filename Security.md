@@ -22,6 +22,165 @@ https://cloud.google.com/security/infrastructure/design
 
 We need a holistic approach to security and [privacy](Privacy) and must protect information through its entire lifecycle, from the moment it's captured to the day it's destroyed.
 
+## Google infrastructure security design 
+
+The security of the infrastructure is designed in progressive layers
+
+### Secure Low-level infrastructure
+
+https://cloud.google.com/docs/security/infrastructure/design#secure-low-level
+
+### Application Layer Transport Security (ALTS)
+
+https://cloud.google.com/docs/security/encryption-in-transit/application-layer-transport-security
+
+
+### Secure Service deployment
+
+https://cloud.google.com/docs/security/infrastructure/design#secure-service
+
+
+### Data residency and sovereignty requirements
+
+https://cloud.google.com/architecture/framework/security/data-residency-sovereignty
+
+### Secure Data regions
+
+https://support.google.com/a/answer/7630496
+
+### VPC Service control
+https://cloud.google.com/vpc-service-controls/docs/overview
+
+### Service identity, integrity and isolation
+
+https://cloud.google.com/docs/security/infrastructure/design#service_identity_integrity_and_isolation
+
+### Secure Sandboxed API
+
+https://developers.google.com/code-sandboxing/sandboxed-api
+
+### gVisor
+
+https://gvisor.dev/
+
+### Confidential computing
+
+https://cloud.google.com/confidential-computing
+
+
+
+### Secure Data storage
+
+https://cloud.google.com/docs/security/infrastructure/design#secure-data
+
+
+### Encryption at Rest
+
+https://cloud.google.com/docs/security/infrastructure/design#encryption_at_rest
+
+### Deletion of data
+
+https://cloud.google.com/docs/security/infrastructure/design#deletion_of_data
+
+
+###  Secure Internet communication
+
+https://cloud.google.com/docs/security/infrastructure/design#secure-internet
+
+### Google Front End Service (GFE)
+
+https://cloud.google.com/docs/security/infrastructure/design#google_front_end_service
+
+### DoS Protection
+https://cloud.google.com/docs/security/infrastructure/design#dos_protection
+
+### User authentication
+
+https://cloud.google.com/docs/security/infrastructure/design#user_authentication
+
+### Titan security key
+https://cloud.google.com/titan-security-key
+
+### FIDO Universal 2nd Factor (U2F)
+
+https://en.wikipedia.org/wiki/Universal_2nd_Factor
+
+
+
+
+
+
+###  Secure Operations
+
+https://cloud.google.com/docs/security/infrastructure/design#operational-security
+
+### Safe software development
+
+https://cloud.google.com/docs/security/infrastructure/design#safe_software_development
+
+
+### Source control protections and two-party review process
+
+https://cloud.google.com/docs/security/infrastructure/design#secure-service
+
+
+### Vulnerability Rewards Program
+
+https://www.google.com/about/appsecurity/reward-program/
+
+### Bug hunters key stats
+https://bughunters.google.com/about/key-stats
+
+### Project zero
+https://googleprojectzero.blogspot.com/
+
+### Spectre and Meltdown
+https://googleprojectzero.blogspot.com/search?q=spectre
+
+
+
+
+
+### Source code protections
+
+https://cloud.google.com/docs/security/infrastructure/design#source_code_protections
+
+### Binary Authorization for Borg (BAB)
+https://cloud.google.com/docs/security/binary-authorization-for-borg
+
+
+
+### Keeping employee devices and credentials safe
+
+https://cloud.google.com/docs/security/infrastructure/design#keeping_employee_devices_and_credentials_safe
+
+### BeyondCorp
+
+https://cloud.google.com/beyondcorp
+
+### Reducing insider risk
+
+
+### inter-service access management
+
+https://cloud.google.com/docs/security/infrastructure/design#inter-service_access_management
+
+### Encryption of inter-service communication
+
+https://cloud.google.com/docs/security/infrastructure/design#encryption-inter-service
+
+
+### Access management of end-user data in Google Workspace
+
+
+https://cloud.google.com/docs/security/infrastructure/design#access-management-of-end-user-data-in-google-workspace
+
+### IAM 
+
+[IAM](IAM) lets you grant granular access to specific Google Cloud resources and helps prevent access to other resources.
+
+https://cloud.google.com/iam/docs/overview
+
 
 ## Chronicle
 
