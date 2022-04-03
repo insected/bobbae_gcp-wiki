@@ -309,3 +309,7 @@ https://cloud.google.com/load-balancing/docs/https/setting-up-https
 
 #### Setting up Internal TCP/UDP Load Balancing with zonal NEGs 
 https://cloud.google.com/load-balancing/docs/internal/setting-up-internal-zonal-neg
+
+#### Using External HTTP(s) Hybrid load balancer to reach a Network Endpoint Group
+
+https://codelabs.developers.google.com/cloudnet-l7-hybridneg#0
