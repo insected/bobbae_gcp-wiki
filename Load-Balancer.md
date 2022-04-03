@@ -260,7 +260,7 @@ https://codelabs.developers.google.com/codelabs/externalhttplb-adv
 
 #### Terraform examples for external HTTP(S) load balancers
 
-https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples#cloud-run
+https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples
 
 
 #### Multiple SSL certificates in HTTPS load balancing with Ingress 
