@@ -354,6 +354,9 @@ https://cloud.google.com/compute/docs/instances/create-start-instance#python
 
 https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
 
+### Terraform Google modules
+
+https://github.com/terraform-google-modules
 
 ### Terraform Cloud Foundation Fabric Examples
 
