@@ -266,3 +266,7 @@ https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-example
 #### Multiple SSL certificates in HTTPS load balancing with Ingress 
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
+
+#### Using load balancing for highly available applications 
+
+https://cloud.google.com/compute/docs/tutorials/high-availability-load-balancing
