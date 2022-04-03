@@ -14,11 +14,79 @@ Google Cloud Load Balancing enables enterprises and cloud-natives to deliver hig
 
 https://medium.com/@rubenszimbres/overview-of-google-cloud-load-balancers-d8b9c1ad9476
 
-## Basics
+
+### Types of Load Balancing
+
+[https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
+
+### 7 Types of Google Cloud Load Balancers
+
+https://faun.pub/understand-gcp-7-types-of-load-balancers-and-their-limitations-in-less-than-10-minutes-f877d0212664
+
+
+### Load Balancer Options
+
+To decide which load balancer best suits your implementation of Google Cloud, consider the following aspects of Cloud Load Balancing:
+
+*   Global versus regional load balancing
+*   External versus internal load balancing
+*   Traffic type
+
+[https://cloud.google.com/load-balancing/docs/choosing-load-balancer](https://cloud.google.com/load-balancing/docs/choosing-load-balancer)
+
+### Deep dive
+
+[https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
+
+
+### Internal load balancing
+
+Internal load balancing enables you to build scalable and highly available internal services for your internal client instances without requiring your load balancers to be exposed to the internet. GCP internal load balancing is architected using Andromeda, Google’s software-defined network virtualization platform. Internal load balancing also includes support for clients across VPN.
+
+https://cloud.google.com/load-balancing/docs/internal
+
+### External TCP/UDP Network Load Balancing
+
+https://cloud.google.com/load-balancing/docs/network
+
+### External HTTP(S) Load Balancing
+
+https://cloud.google.com/load-balancing/docs/https
+
+#### Global external HTTP(S) load balancer
+
+This is a global load balancer that is implemented as a managed service on [Google Front Ends (GFEs)](https://cloud.google.com/security/infrastructure/design#google_front_end_service). It uses the open-source Envoy proxy to support advanced traffic management capabilities such as traffic mirroring, weight-based traffic splitting, request/response-based header transformations, and more.
+
+https://cloud.google.com/network-tiers#tab1
+
+
+Does not support GKE
+
+Premium network tier
+
+#### Global external HTTPS(S) load balancer classic
+
+This is the classic external HTTP(S) load balancer that is global in Premium Tier but can be configured to be regional in Standard Tier. This load balancer is implemented on Google Front Ends (GFEs). GFEs are distributed globally and operate together using Google's global network and control plane.
+
+https://cloud.google.com/load-balancing/docs/features
+
+Supports GKE
+
+Standard or Premium network tiers
+
+#### Regional external HTTP(S) load balancer
+
+This is a regional load balancer that is implemented as a managed service on the open-source Envoy proxy. It includes advanced traffic management capabilities such as traffic mirroring, weight-based traffic splitting, request/response-based header transformations.
+
+https://cloud.google.com/network-tiers#tab2
+
+Standard network tier
+
+### Understanding Load Balancers
 
 https://medium.com/google-cloud/understand-cloud-load-balancer-like-a-senior-engineer-d4f55f3111fc
 
-## Ingress and Load balancer
+### Ingress and Load balancer
 
 In GKE, an [Ingress](Ingress) object defines rules for routing HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects, each of which is associated with a set of Pods. To learn more about how Ingress exposes applications using Services, see Service networking overview.
 
@@ -40,47 +108,26 @@ To use Ingress, you must have the HTTP load balancing add-on enabled. GKE cluste
 https://medium.com/google-developer-experts/a-trip-with-google-global-load-balancers-advanced-but-easy-f09b255d5a23
 
 
-## Maglev
+### Maglev
 
 [Maglev](https://research.google/pubs/pub44824/) is Google's network load balancer. It is [a large distributed software system](https://research.google/pubs/pub44824/) that runs on commodity Linux servers.
 
 
 
-## Andromeda
+### Andromeda
 
 [Andromeda](https://cloud.google.com/blog/products/gcp/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack) is the [network virtualization environment](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dalton.pdf) for Google Cloud Platform (GCP). 
 
 https://blog.acolyer.org/2018/05/02/andromeda-performance-isolation-and-velocity-at-scale-in-cloud-network-virtualization/
 
-## Types of Load Balancing
 
-[https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
-
-### 7 Types of Google Cloud Load Balancers
-
-https://faun.pub/understand-gcp-7-types-of-load-balancers-and-their-limitations-in-less-than-10-minutes-f877d0212664
-
-## Deep dive
-
-[https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
-
-## Certificate Manager
+### Certificate Manager
 
 https://cloud.google.com/certificate-manager/docs
 
 Certificate Manager lets you acquire and manage TLS (SSL) certificates for use with Cloud Load Balancing. 
 
-## Load Balancer Options
-
-To decide which load balancer best suits your implementation of Google Cloud, consider the following aspects of Cloud Load Balancing:
-
-*   Global versus regional load balancing
-*   External versus internal load balancing
-*   Traffic type
-
-[https://cloud.google.com/load-balancing/docs/choosing-load-balancer](https://cloud.google.com/load-balancing/docs/choosing-load-balancer)
-
-## Kubernetes External Load Balancer
+### Kubernetes External Load Balancer
 
 When the Service type is set to LoadBalancer, Kubernetes provides functionality equivalent to type equals ClusterIP to pods within the cluster and extends it by programming the (external to Kubernetes) load balancer with entries for the Kubernetes pods. The Kubernetes service controller automates the creation of the external load balancer, health checks (if needed), firewall rules (if needed) and retrieves the external IP allocated by the cloud provider and populates it in the service object.
 
@@ -98,48 +145,55 @@ Also [ClusterIP, Ingress, NodePort, Load Balancer](ClusterIP,-Ingress,-NodePort,
 
 
 
-## GKE Ingess Load Balancer
+### GKE Ingess Load Balancer
 
 In GKE, an Ingress object defines rules for routing HTTP(S) traffic to applications running in a cluster. An Ingress object is associated with one or more Service objects, each of which is associated with a set of Pods. 
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/ingress
 
-## Nginx
+### Nginx
 
 Nginx [HTTP Load Balancer](https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/) is widely used.
 Nginx offers highly scalable performance out of the box and can be extended with additional modules like Lua. 
 
-## Traefik
+### Traefik
 
 Traefik can [load balance services](https://doc.traefik.io/traefik/routing/services/).
 Traefik bills itself as the “cloud native edge router.” It’s a modern microservices-focused application load balancer and reverse proxy written in Golang. With its emphasis on support for several modern container orchestration platforms, batteries-included logging, and several popular metric formats, Traefik is a top choice for container-based microservices architectures.
 
 
-## HAProxy
+### HAProxy
 
 
 [HAProxy](https://github.com/haproxy/) is another common name in the web ecosystem. HAProxy offers reverse proxying and load balancing of TCP and HTTP traffic. When you choose HAProxy, you’re choosing a high-performance, well-established solution.
 
-## Seesaw
+### Seesaw
 
 
 [Seesaw](https://github.com/google/seesaw) is another open-source load balancer written in Golang. It was originally created by Google SREs to provide a robust solution for load balancing internal Google infrastructure traffic. 
 
-## Neutrino
+### Neutrino
 
 [Neutrino](https://github.com/eBay/Neutrino) is a Scala-based software load balancer originally developed by eBay. Neutrino’s strength lies in the broad compatibility of its runtime environment, the JVM.
 
-## Github Load Balancer Director
+### Github Load Balancer Director
 
 Github [Load Balancer Director](https://github.com/github/glb-director)  is a set of components that provide a scalable set of stateless Layer 4 load balancer servers capable of line rate packet processing in bare metal datacenter environments, and is used in production to serve all traffic from GitHub's datacenters.
 
-## Reverse Proxy vs Load Balancer
+### Reverse Proxy vs Load Balancer
 
 
 Reverse proxy servers and load balancers are components in a client-server computing architecture. Both act as intermediaries in the communication between the clients and servers, performing functions that improve efficiency. They can be implemented as dedicated, purpose-built devices, but increasingly in modern web architectures they are software applications that run on commodity hardware.
 
-- A reverse proxy accepts a request from a client, forwards it to a server that can fulfill it, and returns the server’s response to the client. Sits at the edge and mitigates DDoS, implement blacklisting, or limit number of connections per each client. Scale number of servers up and down to match load. Aid in web acceleration via Compression, SSL termination, and Caching. Can be deployed with only one backend server.
-- A load balancer distributes incoming client requests among a group of servers, in each case returning the response from the selected server to the appropriate client. Usually deployed in front of multiple servers. Most servers host the same content and work is distributed to them. Reduce the number of responses by detecting when servers go down and divert requests away from them to others. LB performs health check. Provide session persistence/affinity. Even though HTTP is stateless, many applications store state information.
+#### Reverse Proxy vs. Load Balancer
+
+A reverse proxy accepts a request from a client, forwards it to a server that can fulfill it, and returns the server’s response to the client. Sits at the edge and mitigates DDoS, implement blacklisting, or limit number of connections per each client. Scale number of servers up and down to match load. Aid in web acceleration via Compression, SSL termination, and Caching. Can be deployed with only one backend server.
+
+#### Load Balancer vs. Reverse Proxy
+
+A load balancer distributes incoming client requests among a group of servers, in each case returning the response from the selected server to the appropriate client. Usually deployed in front of multiple servers. Most servers host the same content and work is distributed to them. Reduce the number of responses by detecting when servers go down and divert requests away from them to others. LB performs health check. Provide session persistence/affinity. Even though HTTP is stateless, many applications store state information.
+
+#### Both Reverse Proxy and Load Balancer
 
 Some software and hardware solutions perform both LB and Reverse Proxy functions.
 
@@ -148,38 +202,38 @@ https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
 https://www.f5.com/services/resources/glossary/reverse-proxy
 
 
-## Internal TCP/UDP load balancers as next hops 
+### Internal TCP/UDP load balancers as next hops 
 
 https://cloud.google.com/load-balancing/docs/internal/ilb-next-hop-overview
 
 https://medium.com/@ozcosta/google-cloud-networking-ilb-as-next-hop-with-tags-ab5f30a0e0c3
 
 
-## Serverless Load Balancer with Terraform
+### Serverless Load Balancer with Terraform
 
 https://engineering.premise.com/tutorial-managing-serverless-gcp-load-balancers-dynamically-with-terraform-e15751853312
 
-## List of Load Balancers
+### List of Load Balancers
 
 A [list](https://github.com/cristaloleg/awesome-load-balancing) of Load Balancers.
 
-## Examples
+### Examples
 
-### HTTPS load balancer for Cloud function, Cloud run and App engine
+#### HTTPS load balancer for Cloud function, Cloud run and App engine
 
 https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#gcloud
 
 
-### External HTTPs LB with Advanced Traffic Management using Envoy
+#### External HTTPs LB with Advanced Traffic Management using Envoy
 
 https://codelabs.developers.google.com/codelabs/externalhttplb-adv
 
 
-### Terraform examples for external HTTP(S) load balancers
+#### Terraform examples for external HTTP(S) load balancers
 
 https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples#cloud-run
 
 
-### Multiple SSL certificates in HTTPS load balancing with Ingress 
+#### Multiple SSL certificates in HTTPS load balancing with Ingress 
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
