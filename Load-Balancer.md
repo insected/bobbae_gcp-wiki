@@ -183,20 +183,6 @@ Github [Load Balancer Director](https://github.com/github/glb-director)  is a se
 ### Reverse Proxy vs Load Balancer
 
 
-Reverse proxy servers and load balancers are components in a client-server computing architecture. Both act as intermediaries in the communication between the clients and servers, performing functions that improve efficiency. They can be implemented as dedicated, purpose-built devices, but increasingly in modern web architectures they are software applications that run on commodity hardware.
-
-#### Reverse Proxy vs. Load Balancer
-
-A reverse proxy accepts a request from a client, forwards it to a server that can fulfill it, and returns the server’s response to the client. Sits at the edge and mitigates DDoS, implement blacklisting, or limit number of connections per each client. Scale number of servers up and down to match load. Aid in web acceleration via Compression, SSL termination, and Caching. Can be deployed with only one backend server.
-
-#### Load Balancer vs. Reverse Proxy
-
-A load balancer distributes incoming client requests among a group of servers, in each case returning the response from the selected server to the appropriate client. Usually deployed in front of multiple servers. Most servers host the same content and work is distributed to them. Reduce the number of responses by detecting when servers go down and divert requests away from them to others. LB performs health check. Provide session persistence/affinity. Even though HTTP is stateless, many applications store state information.
-
-#### Both Reverse Proxy and Load Balancer
-
-Some software and hardware solutions perform both LB and Reverse Proxy functions.
-
 https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/
 
 https://www.f5.com/services/resources/glossary/reverse-proxy
