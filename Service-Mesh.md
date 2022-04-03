@@ -11,6 +11,13 @@ The [service mesh](https://en.wikipedia.org/wiki/Service_mesh) is typically impl
 
 The [rise of the service mesh](https://www.talentica.com/blogs/the-rise-of-service-mesh-how-can-businesses-use-it/) is tied to the rise of the [cloud native](https://cloud.google.com/solutions/cloud-native-app-development) application. In the [cloud native world](https://www.cncf.io/), an application might consist of hundreds of services and each service might have thousands of instances and each of those instances might be in a constantly-changing state as they are dynamically scheduled by an orchestrator like [Kubernetes](Kubernetes). 
 
+### Anthos Service Mesh
+
+https://cloud.google.com/anthos/service-mesh
+
+### Anthos
+https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive
+
 ### Sidecar proxy
 
 
@@ -20,8 +27,10 @@ A [sidecar proxy](https://medium.com/@lukas.eichler/securing-pods-with-sidecar-p
 
 #### L7 Proxies
 
-[L7 Proxies](L7-Proxies) maintain two TCP connections: one with the client and one with the server. The packets are re-assembled then the load-balancer can take a routing decision based on information it can find in the application requests or responses.
+[L7 Proxies](L7-Proxies) maintain two TCP connections: one with the client and one with the server. The packets are re-assembled then the load-balancer can take a routing decision based on the information it can find in the application requests or responses.
 
+### istio
+https://istio.io/
 
 ### Service Mesh Manifesto
 
