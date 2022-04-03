@@ -10,15 +10,15 @@ https://medium.com/google-cloud/google-cloud-anthos-series-23b9a35e9179
 
 [https://www.youtube.com/watch?v=DM8p_cnc6ZY](https://www.youtube.com/watch?v=DM8p_cnc6ZY)
 
-A sample deployment for Anthos. 
+
 
 [https://www.youtube.com/watch?v=qgg1ceR6-es](https://www.youtube.com/watch?v=qgg1ceR6-es)
 
-VM instances can exist on premises, managed by products such as VMWare vSphere, and in public clouds such as AWS or Azure, in addition to Google Cloud Compute Engine instances.
+VM instances can exist on-premises, managed by  VMWare vSphere, and in public clouds as AWS or Azure, in addition to Google Cloud Compute Engine instances.
 
 https://www.youtube.com/watch?v=XB52jRLHeko&list=PLIivdWyY5sqL8p1URcr6h1OkeJ01Myz57
 
-## Multi Cloud
+## Multi-Cloud
 
 Anthos is Google’s new managed applications platform, which lets you run Kubernetes and other workloads consistently, across on-premises data centers and [multiple public clouds](Hybrid-Multi-Cloud-And-Anthos).
 
@@ -81,6 +81,26 @@ https://cloud.google.com/anthos/service-mesh
 
 https://alex-desmet.medium.com/exposing-gke-services-through-anthos-service-mesh-with-a-managed-https-load-balancer-9d5d7a383d21
 
+#### Anthos Service Mesh Quickstart
+
+https://cloud.google.com/service-mesh/docs/unified-install/quickstart-asm
+
+https://cloud.google.com/service-mesh/docs/quickstart-gke-ui
+
+#### asmcli
+
+https://cloud.google.com/service-mesh/docs/unified-install/asmcli-overview
+
+#### Install Anthos Service Mesh
+https://cloud.google.com/service-mesh/docs/unified-install/install-anthos-service-mesh
+
+#### GKE install multi cluster
+https://cloud.google.com/service-mesh/docs/unified-install/gke-install-multi-cluster
+
+#### Configure VPC Service Control for Managed Anthos Service Mesh
+https://cloud.google.com/service-mesh/docs/managed/vpc-sc
+
+
 ### Migrate for Anthos
 
 With Migrate for Anthos, you can migrate your VMs from [supported source platforms](https://cloud.google.com/migrate/anthos/docs/migration-prerequisites) to Google Kubernetes Engine or [Anthos](https://cloud.google.com/anthos).
@@ -135,6 +155,12 @@ https://cloud.google.com/anthos/clusters/docs/bare-metal/latest/concepts/about-b
 ### Anthos Edge 
 
 https://cloud.google.com/blog/topics/developers-practitioners/small-footprint-big-impact-running-cloud-connected-kubernetes-edge
+
+### Anthos VMWare
+https://cloud.google.com/anthos/clusters/docs/on-prem/1.8/overview
+
+#### Configure external IP addresses for Anthos clusters on VMware 
+https://cloud.google.com/service-mesh/docs/unified-install/external-ip-load-balance
 
 ## Qwiklabs
 
