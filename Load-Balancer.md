@@ -1,86 +1,129 @@
 
 [Cloud Load Balancing](https://cloud.google.com/load-balancing) allows you to put your resources behind a single IP address that is externally accessible or internal to your Virtual Private Cloud (VPC) network.
 
-https://cloud.google.com/load-balancing/docs/load-balancing-overview
-
-
 [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs) can put your resources behind a single [anycast](https://en.wikipedia.org/wiki/Anycast) IP and scale your resources up or down with intelligent autoscaling. Cloud Load Balancing comes in a variety of flavors and is integrated with [Cloud CDN](CDN) for optimal application and content delivery.
 
+Google [Cloud Load Balancing](https://www.youtube.com/watch?v=D4XZkCJyqis) enables enterprises and cloud-native entities to deliver highly available, scalable, low-latency cloud services with a global footprint. Use Google Global Load Balancing to deliver [global reach and scale](https://www.youtube.com/watch?v=J5HJ1y6PeyE) and scale private services using Internal Load Balancing (ILB) for clients in Google Cloud or on-prem across [Interconnect](Interconnect)/[VPN](VPN). 
 
-A [Video](https://www.youtube.com/watch?v=D4XZkCJyqis) about Cloud Load Balancing.
-
-
-Google Cloud Load Balancing enables enterprises and cloud-natives to deliver highly available, scalable, low-latency cloud services with a global footprint. Use Google Global Load Balancing to deliver [global reach and scale](https://www.youtube.com/watch?v=J5HJ1y6PeyE). Deploy your application backends in single or multiple regions wherever your users are, front-ending these with a single anycast VIP, and growing or shrinking your backend resources with intelligent Autoscaling. Scale private services using Internal Load Balancing (ILB) for clients in Google Cloud or on-prem across [Interconnect](Interconnect)/[VPN](VPN). 
-
-https://medium.com/@rubenszimbres/overview-of-google-cloud-load-balancers-d8b9c1ad9476
-
+### Load Balancer features
+https://cloud.google.com/load-balancing/docs/features
 
 ### Types of Load Balancing
 
 [https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
 
-### 7 Types of Google Cloud Load Balancers
-
-https://faun.pub/understand-gcp-7-types-of-load-balancers-and-their-limitations-in-less-than-10-minutes-f877d0212664
-
-
-### Load Balancer Options
-
-To decide which load balancer best suits your implementation of Google Cloud, consider the following aspects of Cloud Load Balancing:
-
-*   Global versus regional load balancing
-*   External versus internal load balancing
-*   Traffic type
-
 [https://cloud.google.com/load-balancing/docs/choosing-load-balancer](https://cloud.google.com/load-balancing/docs/choosing-load-balancer)
 
-### Deep dive
+https://medium.com/@rubenszimbres/overview-of-google-cloud-load-balancers-d8b9c1ad9476
+
+https://faun.pub/understand-gcp-7-types-of-load-balancers-and-their-limitations-in-less-than-10-minutes-f877d0212664
 
 [https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed](https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-load-balancing-deconstructed)
 
 
 ### Internal load balancing
-
-Internal load balancing enables you to build scalable and highly available internal services for your internal client instances without requiring your load balancers to be exposed to the internet. GCP internal load balancing is architected using Andromeda, Google’s software-defined network virtualization platform. Internal load balancing also includes support for clients across VPN.
+GCP Internal load balancing is architected using Andromeda, Google’s software-defined network virtualization platform. Internal load balancing also includes support for clients across VPNs.
 
 https://cloud.google.com/load-balancing/docs/internal
+
+https://cloud.google.com/load-balancing/docs/l7-internal/int-https-lb-tf-examples
 
 ### External TCP/UDP Network Load Balancing
 
 https://cloud.google.com/load-balancing/docs/network
 
+https://cloud.google.com/load-balancing/docs/network/setting-up-network-backend-service
+
 ### External HTTP(S) Load Balancing
 
 https://cloud.google.com/load-balancing/docs/https
 
+#### Extern HTTP(S) Load Balancing Modes of operation
+
+https://cloud.google.com/load-balancing/docs/https#load-balancer-mode
+
 #### Global external HTTP(S) load balancer
 
-This is a global load balancer that is implemented as a managed service on [Google Front Ends (GFEs)](https://cloud.google.com/security/infrastructure/design#google_front_end_service). It uses the open-source Envoy proxy to support advanced traffic management capabilities such as traffic mirroring, weight-based traffic splitting, request/response-based header transformations, and more.
+https://cloud.google.com/load-balancing/docs/https/setup-global-ext-https-compute
 
-https://cloud.google.com/network-tiers#tab1
-
-
-Does not support GKE
-
-Premium network tier
 
 #### Global external HTTPS(S) load balancer classic
 
-This is the classic external HTTP(S) load balancer that is global in Premium Tier but can be configured to be regional in Standard Tier. This load balancer is implemented on Google Front Ends (GFEs). GFEs are distributed globally and operate together using Google's global network and control plane.
-
-https://cloud.google.com/load-balancing/docs/features
-
-Supports GKE
-
-Standard or Premium network tiers
+https://cloud.google.com/load-balancing/docs/https/ext-http-lb-tf-module-examples
 
 #### Regional external HTTP(S) load balancer
 
-This is a regional load balancer that is implemented as a managed service on the open-source Envoy proxy. It includes advanced traffic management capabilities such as traffic mirroring, weight-based traffic splitting, request/response-based header transformations.
+https://cloud.google.com/load-balancing/docs/https/setting-up-reg-ext-https-lb
 
-https://cloud.google.com/network-tiers#tab2
+#### SSL Proxy Load Balancing
 
-Standard network tier
+https://cloud.google.com/load-balancing/docs/ssl
+
+#### TCP Proxy Load Balancing
+
+https://cloud.google.com/load-balancing/docs/tcp
+
+https://cloud.google.com/load-balancing/docs/tcp/ext-tcp-proxy-lb-tf-examples
+
+### Forwarding rules
+
+https://cloud.google.com/load-balancing/docs/forwarding-rule-concepts
+
+### Connection draining
+https://cloud.google.com/load-balancing/docs/enabling-connection-draining
+
+
+### Health checks
+https://cloud.google.com/load-balancing/docs/health-check-concepts
+
+#### Health check firewall rules
+https://cloud.google.com/load-balancing/docs/firewall-rules
+
+### Network endpoint Groups
+https://cloud.google.com/load-balancing/docs/negs
+
+### URL Maps
+
+https://cloud.google.com/load-balancing/docs/url-map-concepts
+
+### Internal Load Balancing and DNS names
+
+https://cloud.google.com/load-balancing/docs/dns-names
+
+#### Compute Engine Internal DNS 
+https://cloud.google.com/compute/docs/internal-dns
+
+
+
+### SSL certificates
+
+https://cloud.google.com/load-balancing/docs/ssl-certificates
+
+#### Self-managed SSL certificates
+https://cloud.google.com/load-balancing/docs/ssl-certificates/self-managed-certs
+
+#### Google managed SSL certificates
+https://cloud.google.com/load-balancing/docs/ssl-certificates/google-managed-certs
+
+#### Backend services
+https://cloud.google.com/load-balancing/docs/backend-service
+
+
+#### Encryption to the backends
+
+https://cloud.google.com/load-balancing/docs/ssl-certificates/encryption-to-the-backends
+
+
+#### intra-cluster traffic
+https://cloud.google.com/compute/docs/regions-zones#zones_and_clusters
+
+#### Protocol to the backends
+
+https://cloud.google.com/load-balancing/docs/backend-service#protocol_to_the_backends
+
+
+#### SSL policies
+https://cloud.google.com/load-balancing/docs/ssl-policies-concepts
 
 ### Understanding Load Balancers
 
