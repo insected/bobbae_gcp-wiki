@@ -424,6 +424,9 @@ https://genekuo.medium.com/setting-up-a-ci-cd-pipeline-on-gcp-with-terraform-539
 
 https://cloud.google.com/blog/topics/developers-practitioners/creating-eventarc-triggers-terraform
 
+### Terraform Google Load Balancer examples
+
+https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples
 
 ## Qwiklabs
 
