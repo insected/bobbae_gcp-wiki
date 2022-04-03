@@ -8,6 +8,9 @@ Google [Cloud Load Balancing](https://www.youtube.com/watch?v=D4XZkCJyqis) enabl
 ### Load Balancer features
 https://cloud.google.com/load-balancing/docs/features
 
+#### GFE Locations
+https://cloud.google.com/load-balancing/docs/locations
+
 ### Types of Load Balancing
 
 [https://cloud.google.com/load-balancing/docs/load-balancing-overview](https://cloud.google.com/load-balancing/docs/load-balancing-overview)
@@ -151,6 +154,17 @@ To use Ingress, you must have the HTTP load balancing add-on enabled. GKE cluste
 
 https://medium.com/google-developer-experts/a-trip-with-google-global-load-balancers-advanced-but-easy-f09b255d5a23
 
+### Container native Load Balancing
+
+https://cloud.google.com/kubernetes-engine/docs/concepts/container-native-load-balancing
+
+#### Container-native load balancing through standalone zonal NEGs
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg
+
+### Zonal network endpoint groups 
+
+https://cloud.google.com/load-balancing/docs/negs/zonal-neg-concepts
 
 ### Maglev
 
