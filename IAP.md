@@ -16,11 +16,12 @@ https://cloud.google.com/blog/products/identity-security/getting-started-with-cl
 https://cloud.google.com/blog/topics/developers-practitioners/control-access-your-web-sites-identity-aware-proxy
 
 
-### Authenticating users
+### IAP App Engine Authenticating users
 
 https://cloud.google.com/iap/docs/authenticate-users-google-accounts
 
 ### IAP Programmatic Authentication
+
 https://cloud.google.com/iap/docs/authentication-howto
 
 ### Customizing
@@ -32,6 +33,7 @@ https://cloud.google.com/iap/docs/customizing
 https://cloud.google.com/iap/docs/enabling-compute-howto
 
 ### Enable IAP on Cloud Run
+
 https://cloud.google.com/iap/docs/enabling-cloud-run
 
 ### IAP Load Balancer setup
@@ -39,6 +41,7 @@ https://cloud.google.com/iap/docs/enabling-cloud-run
 https://cloud.google.com/iap/docs/load-balancer-howto
 
 ### Service Mesh IAP Integration
+
 https://cloud.google.com/service-mesh/docs/unified-install/options/iap-integration
 
 ### Service Mesh IAP User Authentication
