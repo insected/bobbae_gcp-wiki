@@ -3,7 +3,9 @@ https://cloud.google.com/architecture/service-meshes-in-microservices-architectu
 
 ## What is Service Mesh?
 
-A service mesh is a platform layer on top of the infrastructure layer that enables managed, observable, and secure communication between individual services.
+A [service mesh](https://cloud.google.com/service-mesh/docs/overview) is a platform layer on top of the infrastructure layer that enables managed, observable, and secure communication between individual services.
+
+https://cloud.google.com/blog/products/networking/welcome-to-the-service-mesh-era-introducing-a-new-istio-blog-post-series
 
 Enterprises are adopting microservices and [service mesh](https://www.nginx.com/blog/what-is-a-service-mesh/) to enable new levels of IT [agility](https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html) but a successful [microservices](Microservices)  implementation is complicated. As the number of services an organization uses grows, [complexity and risk](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/) can increase rapidly. The [microservices](https://microservices.io/) need to be exposed as APIs to enable access via features such as discovery, load balancing, failure recovery, metrics, monitoring, [A/B testing](https://en.wikipedia.org/wiki/A/B_testing), [canary rollouts](https://argoproj.github.io/argo-rollouts/features/canary/), rate limiting, access control, and end-to-end authentication.
 
