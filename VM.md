@@ -81,6 +81,15 @@ https://cloud.google.com/compute/docs/instances/instance-life-cycle
 ### Managed VM instances
 https://cloud.google.com/compute/docs/instance-groups/working-with-managed-instances
 
+### Google Cloud metadata server
+
+Google Cloud runs a local metadata server alongside each instance at 169.254.169.254.
+
+https://cloud.google.com/vpc/docs/firewalls#gcp-metadata-server
+
+### Connecting to instances that do not have external IP addresses
+
+https://cloud.google.com/compute/docs/instances/connecting-advanced#sshbetweeninstances
 
 ### Tau VMs
 
