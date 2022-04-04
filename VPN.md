@@ -1,6 +1,6 @@
 
 
-[Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) securely extends your [peer](https://cloud.google.com/network-connectivity/docs/vpn/concepts/key-terms#peer-definition) network to Google's network through an [IPsec](https://en.wikipedia.org/wiki/IPsec) VPN tunnel. Traffic is encrypted and travels between the two networks over the public internet. Cloud VPN is useful for low-volume data connections.
+[Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) securely extends your [peer](https://cloud.google.com/network-connectivity/docs/vpn/concepts/key-terms#peer-definition) network to Google's network through an [IPsec](https://en.wikipedia.org/wiki/IPsec) VPN tunnel. Traffic is encrypted and travels between the two networks over the public internet. 
 
 [https://cloud.google.com/network-connectivity/docs/vpn]()
 
