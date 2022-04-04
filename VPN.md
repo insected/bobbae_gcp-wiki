@@ -2,7 +2,19 @@
 
 [Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) securely extends your [peer](https://cloud.google.com/network-connectivity/docs/vpn/concepts/key-terms#peer-definition) network to Google's network through an [IPsec](https://en.wikipedia.org/wiki/IPsec) VPN tunnel. Traffic is encrypted and travels between the two networks over the public internet. 
 
-[https://cloud.google.com/network-connectivity/docs/vpn]()
+https://cloud.google.com/network-connectivity/docs/vpn
+
+If you need an enterprise-grade connection to Google Cloud that has higher throughput, you can choose Dedicated [Interconnect](Interconnect) or Partner Interconnect.
+
+## Cloud Interconnect
+https://cloud.google.com/network-connectivity/docs/how-to/choose-product#cloud-interconnect
+
+## Private Google Access for on-premises hosts
+
+https://cloud.google.com/vpc/docs/private-google-access-hybrid
+
+## Shared VPC
+https://cloud.google.com/vpc/docs/shared-vpc
 
 ## Network Connectivity
 
