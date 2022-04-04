@@ -21,6 +21,8 @@ Cloud Platform firewalls, routing, and forwarding rules all leverage the underly
 
 [https://www.youtube.com/watch?v=cNb7xKyya5c](https://www.youtube.com/watch?v=cNb7xKyya5c)
 
+## Shared VPC
+https://cloud.google.com/vpc/docs/shared-vpc
 
 
 ## Shared VPC and VPC Peering
