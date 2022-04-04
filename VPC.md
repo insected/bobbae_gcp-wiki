@@ -67,14 +67,18 @@ VM instances that only have internal IP addresses (no external IP addresses) can
 
 https://cloud.google.com/vpc/docs/private-google-access
 
+### Configuring Private Google Access
+
+https://cloud.google.com/vpc/docs/configure-private-google-access
+
 ### Private Service Connect 
 
-https://faun.pub/private-service-connect-to-connect-privately-with-google-apis-and-services-e91da2f26a7a
 
 https://cloud.google.com/vpc/docs/private-service-connect
 
 https://medium.com/google-cloud/exposing-the-client-behind-psc-2471a851ae23
 
+https://faun.pub/private-service-connect-to-connect-privately-with-google-apis-and-services-e91da2f26a7a
 
 ## IPAM Autopilot
 
