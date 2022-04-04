@@ -2,7 +2,10 @@ Similar systems that may have influenced Kubernetes designs.
 
 ### Borg
 
-Borg is Google's main cluster management system that manages long running production services and non-production batch jobs on the same set of machines to maximize cluster utilization. 
+[Borg](https://en.m.wikipedia.org/wiki/Borg_(cluster_manager)) is Google's main cluster management system that manages long running production services and non-production batch jobs on the same set of machines to maximize cluster utilization. 
+
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf
+
 
 Google's Borg system is a cluster manager that runs hundreds of thousands of jobs, from many thousands of different applications, across a number of clusters each with up to tens of thousands of machines. 
 
