@@ -2,34 +2,82 @@ A [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) (VM) is an [e
  
 [https://www.youtube.com/watch?v=VtXNIy_noWg](https://www.youtube.com/watch?v=VtXNIy_noWg)
 
+## GCE
+### Create and start VMs
+https://cloud.google.com/compute/docs/instances/create-start-instance
 
-## Google Compute Engine and KVM
+### HPC-ready VMs
+https://cloud.google.com/compute/docs/instances/create-hpc-vm
+
+### Instance templates
+https://cloud.google.com/compute/docs/instances/create-vm-from-instance-template
+
+### Sole-tenant VMs
+https://cloud.google.com/compute/docs/nodes/sole-tenant-nodes
+
+### Nested virtualization
+https://cloud.google.com/compute/docs/instances/nested-virtualization/overview
+
+### Virtual displays
+https://cloud.google.com/compute/docs/instances/enable-instance-virtual-display
+
+### VM Disks
+
+https://cloud.google.com/compute/docs/disks
+
+#### Boot disks
+https://cloud.google.com/compute/docs/disks/detach-reattach-boot-disk
+
+
+
+### VM Migration
+https://cloud.google.com/compute/docs/import
+
+### Securly connecting to VMs
+
+https://cloud.google.com/solutions/connecting-securely
+
+### Google Compute Engine and KVM
 
 [Google Compute Engine](Compute) uses KVM as the hypervisor.
 The [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) may be categorized as both Type-1 and Type-2.
 
 
-
-### Nested VM
-
-It is possible to run [nested VM](https://cloud.google.com/compute/docs/instances/enable-nested-virtualization-vm-instances) instances in GCP.
-
-
-
-### Intel VT-x and AMD SVM
-
-
-https://www.anandtech.com/show/2480/9
-
-
 ### Suspending VMs
 
 https://cloud.google.com/compute/docs/instances/suspend-resume-instance
+ 
 
+### Machine images
+https://cloud.google.com/compute/docs/machine-images
 
-### Cloud native vs VM
+### Back up disks
+
+#### Snapshot
+https://cloud.google.com/compute/docs/disks/snapshots
+
+#### Restoring from backup
+https://cloud.google.com/compute/docs/machine-images/create-instance-from-machine-image
+
+### Cloud-native vs VM
 
 https://cloud.google.com/blog/topics/developers-practitioners/vms-and-their-relevance-cloud-native-future-conversation
+
+### Virtual Random Number Generator
+https://cloud.google.com/compute/docs/instances/enabling-virtio-rng
+
+### Autoscaling groups of instances
+https://cloud.google.com/compute/docs/autoscaler
+
+### NTP
+https://cloud.google.com/compute/docs/instances/configure-ntp
+
+### VM Instance lifecycle
+https://cloud.google.com/compute/docs/instances/instance-life-cycle
+
+### Managed VM instances
+https://cloud.google.com/compute/docs/instance-groups/working-with-managed-instances
+
 
 ### Tau VMs
 
@@ -39,18 +87,29 @@ https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
 
-#### Run Fault tolerant workload on Spot VMs
+#### Run Fault-tolerant workload on Spot VMs
 
 https://cloud.google.com/blog/products/compute/google-cloud-spot-vm
+
+## Virtual Machine related topics
+
+### Intel VT-x and AMD SVM
+
+
+https://www.anandtech.com/show/2480/9
 
 
 ### Firecracker microVM
 
 https://firecracker-microvm.github.io/
 
+### Containers
+https://www.ibm.com/cloud/blog/containers-vs-vms
+
 ### UniK and unikernels
 
 https://github.com/solo-io/unik
+
 
 ## Examples
 
