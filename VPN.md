@@ -84,8 +84,40 @@ https://www.ivpn.net/pptp-vs-ipsec-ikev2-vs-openvpn-vs-wireguard/
 
 https://www.schneier.com/blog/archives/2020/07/nsa_on_securing.html
 
+
+## Interopating with third-party VPNs
+
+https://cloud.google.com/network-connectivity/docs/vpn/how-to/interop-guides
+
+
 ## Examples
 
 ### Simulated on-prem for GCP VPN
 
 https://medium.com/@sruffilli/setting-up-a-simulated-on-prem-environment-for-gcp-90dcbb2d57f8
+
+### Creating a Cloud VPN connection to a remote site 
+https://cloud.google.com/network-connectivity/docs/vpn/tutorials/configure-vpn-between-onprem-cloud
+
+### Deploy HA VPN with Terraform
+https://cloud.google.com/community/tutorials/deploy-ha-vpn-with-terraform
+
+### Multicloud VPN - GCP-AWS VPN
+
+https://github.com/GoogleCloudPlatform/autonetdeploy-multicloudvpn
+
+### Creating an HA VPN gateway to a peer VPN gateway 
+https://cloud.google.com/network-connectivity/docs/vpn/how-to/creating-ha-vpn
+
+### Terraform examples for HA VPN gateways
+
+https://cloud.google.com/network-connectivity/docs/vpn/how-to/automate-vpn-setup-with-terraform
+
+
+### Configuring the peer VPN gateway
+
+https://cloud.google.com/network-connectivity/docs/vpn/how-to/configuring-peer-gateway
+
+### Creating a Classic VPN using static routing
+
+https://cloud.google.com/network-connectivity/docs/vpn/how-to/creating-static-vpns
