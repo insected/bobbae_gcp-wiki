@@ -4,7 +4,9 @@
 
 [https://cloud.google.com/network-connectivity/docs/vpn]()
 
+## Network Connectivity
 
+https://cloud.google.com/network-connectivity/docs/concepts
 
 ## Types of Cloud VPN
 
@@ -72,8 +74,13 @@ For details, see [Order of routes](https://cloud.google.com/network-connectivity
 In [Networks and tunnel routing](https://cloud.google.com/network-connectivity/docs/vpn/concepts/choosing-networks-routing), you can find information about supported Virtual Private Cloud (VPC) networks and routing options, including traffic selectors.
 
 
-Study [Cryptography](Cryptography) in the context of VPN.
+### Generating a strong pre-shared key
 
+https://cloud.google.com/network-connectivity/docs/vpn/how-to/generating-pre-shared-key
+
+
+## VPN Terms
+https://cloud.google.com/network-connectivity/docs/vpn/concepts/key-terms
 
 ## Comparisons of different kinds of VPNs
 
