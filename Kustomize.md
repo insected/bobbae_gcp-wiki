@@ -31,3 +31,8 @@ https://tanka.dev/
 ## Manifesto
 
 https://gitlab.com/jackatbancast/manifesto
+
+## CUE
+
+https://cuelang.org/docs/about/
+
