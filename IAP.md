@@ -48,6 +48,7 @@ https://cloud.google.com/service-mesh/docs/unified-install/options/iap-integrati
 
 https://cloud.google.com/service-mesh/docs/unified-install/options/end-user-auth
 
+
 ### IAP Samples
 
 https://cloud.google.com/iap/docs/samples
@@ -55,6 +56,10 @@ https://cloud.google.com/iap/docs/samples
 ### IAP Desktop
 
 https://github.com/GoogleCloudPlatform/iap-desktop
+
+### Using IAP for TCP Forwarding
+
+https://cloud.google.com/iap/docs/using-tcp-forwarding
 
 ### Qwiklab
 
