@@ -6,6 +6,7 @@
 [https://firebase.google.com/docs/](https://firebase.google.com/docs/)
 
 
+https://medium.com/google-cloud/demystifying-firebase-part-1-a06339069f92
 
 ## GCP & Firebase 
 
