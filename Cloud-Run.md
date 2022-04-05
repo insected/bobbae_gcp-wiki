@@ -82,3 +82,6 @@ https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run
 ### Cloud Run Release Manager Canary releases
 
 https://medium.com/google-cloud/automatic-release-propagation-for-canary-releases-with-cloud-run-1ccc2ec74c7f
+
+### Pre-Heating Applications running on Google Cloud Run
+https://medium.com/google-cloud/pre-heating-cloud-run-apps-for-crisp-ux-d13c341e0a29
