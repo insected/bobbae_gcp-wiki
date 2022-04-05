@@ -13,3 +13,6 @@ https://skaffold.dev/docs/quickstart/
 
 https://cloud.google.com/deploy/docs/skaffold
 
+## Simplify DevOps using Skaffold
+
+https://cloud.google.com/blog/topics/developers-practitioners/simplify-your-devops-using-skaffold
