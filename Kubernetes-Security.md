@@ -28,7 +28,13 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control
 
 ### OPA
 
+https://www.openpolicyagent.org/
+
+
 https://github.com/open-policy-agent/opa
+
+### Kubernetes cluster outage due to misconfigured OPA Gatekeeper 
+https://dev.to/fourstepper/dealing-with-a-google-kubernetes-engine-cluster-outage-2kf1
 
 ### TerraScan
 
