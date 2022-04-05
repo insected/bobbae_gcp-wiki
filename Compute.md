@@ -178,6 +178,12 @@ https://cloud.google.com/compute/docs/containers
 
 https://cloud.google.com/compute/docs/instances/create-intel-select-solution-hpc-clusters#create_intel_select_solution_verified_clusters_using_slurm-gcp
 
+https://github.com/SchedMD/slurm-gcp
+
+#### Run the WRF Weather Forecasting Model with Fluid Numerics' Slurm-GCP
+
+https://codelabs.developers.google.com/codelabs/wrf-on-slurm-gcp#0
+
 ### Public & Custom Images
 
 [https://cloud.google.com/compute/docs/images/](https://cloud.google.com/compute/docs/images/)
