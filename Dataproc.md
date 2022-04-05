@@ -12,7 +12,7 @@ Enterprises are migrating their existing on-premises Apache Hadoop and Spark clu
 
 [https://www.youtube.com/watch?v=h1LvACJWjKc](https://www.youtube.com/watch?v=h1LvACJWjKc)
 
-## Serverless
+## Dataproc Serverless
 
 Dataproc Serverless lets you run Spark batch workloads without requiring you to provision and manage your own cluster.
 
@@ -22,6 +22,11 @@ https://cloud.google.com/dataproc-serverless/docs
 ### Running PySpark jobs on Serverless Dataproc
 
 https://medium.com/cts-technologies/running-pyspark-jobs-on-google-cloud-using-serverless-dataproc-f16cef5ec6b9
+
+#### Ingesting Google Cloud Storage files to BigQuery using Cloud Functions and Serverless Spark
+
+https://cloud.google.com/blog/products/data-analytics/ingesting-data-into-bigquery-using-serverless-spark
+
 ## Metastore
 
 [Dataproc Metastore](https://cloud.google.com/blog/products/data-analytics/cloud-hive-metastore-now-available) is a managed [Hive metastore](   https://lakefs.io/hive-metastore-why-its-still-here-and-what-can-replace-it/ ) that can be used as a [centralized metadata repository]( 
