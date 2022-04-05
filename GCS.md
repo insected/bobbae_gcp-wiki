@@ -176,3 +176,7 @@ https://cloud.google.com/architecture/transferring-data-from-amazon-s3-to-cloud-
 ### Finding duplicate objects in GCS buckets
 
 https://towardsdev.com/how-to-find-duplicate-objects-in-our-google-cloud-storage-gcs-buckets-6f85ac7dbdf0
+
+
+### Replication using Cloud Functions
+https://medium.com/@Dean_Pratt/secret-sauce-google-cloud-functions-for-autonomous-global-storage-synchronization-60d5134ff6c2
