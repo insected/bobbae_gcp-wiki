@@ -23,9 +23,16 @@ https://cloud.google.com/dataproc-serverless/docs
 
 https://medium.com/cts-technologies/running-pyspark-jobs-on-google-cloud-using-serverless-dataproc-f16cef5ec6b9
 
-#### Ingesting Google Cloud Storage files to BigQuery using Cloud Functions and Serverless Spark
+### Ingesting Google Cloud Storage files to BigQuery using Cloud Functions and Serverless Spark
 
 https://cloud.google.com/blog/products/data-analytics/ingesting-data-into-bigquery-using-serverless-spark
+
+### Cloud Spanner export query results using Dataproc Serverless
+
+https://medium.com/google-cloud/cloud-spanner-export-query-results-using-dataproc-serverless-6f2f65b583a4
+
+
+
 
 ## Metastore
 
