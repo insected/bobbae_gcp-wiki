@@ -142,3 +142,7 @@ https://cloud.google.com/blog/products/databases/how-cherre-creates-real-estate-
 ### Backup and restore using CURL
 
 https://medium.com/@jason19930803/gcp-restore-cloud-sql-to-instance-in-another-project-631cb82d82c5
+
+### Bi-directional replication for Cloud SQL for PostgreSQL using logical replication
+https://cloud.google.com/blog/products/databases/setting-bi-directional-replication-for-cloud-sql-for-postgresql
+
