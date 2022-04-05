@@ -554,6 +554,9 @@ https://en.m.wikipedia.org/wiki/Circuit_switching
 
 https://github.com/bobbae/gcp/wiki/DevOps#netdevops
 
+## Secure voice trading in the cloud
+https://cloud.google.com/blog/products/networking/modernizing-private-wires-for-voice-trading-with-the-cloud
+
 ## Qwiklabs
 
 
