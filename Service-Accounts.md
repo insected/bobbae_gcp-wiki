@@ -82,6 +82,23 @@ You can use identity federation with Amazon Web Services (AWS), or with any iden
 
 https://cloud.google.com/iam/docs/workload-identity-federation
 
+### Obtaining short-lived credentials with identity federation 
+https://cloud.google.com/iam/docs/using-workload-identity-federation
+
+### Configuring workload identity federation
+
+https://cloud.google.com/iam/docs/configuring-workload-identity-federation
+
+### Access GCP from AWS using Workload Identity Federation
+
+https://scalesec.com/blog/access-gcp-from-aws-using-workload-identity-federation/
+
+
+### How to use Google's workload federation with AWS
+
+
+https://www.techtarget.com/searchcloudcomputing/tip/How-to-use-Googles-workload-identity-federation-with-AWS
+
 ### GitHub Actions and Workload Identity Federation
 
 https://medium.com/kpmg-uk-engineering/workload-identity-federation-authenticate-github-actions-to-google-cloud-f773079e1336
