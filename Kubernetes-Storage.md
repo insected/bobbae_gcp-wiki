@@ -15,6 +15,10 @@ https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/
 
 https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
 
+### Multi Datacenter Cassandra clusters using K8ssandra 
+
+https://medium.com/building-the-open-data-stack/set-up-multi-datacenter-cassandra-clusters-in-gke-with-k8ssandra-and-cloud-dns-5cb389b1e776
+
 ### Running Zookeeper
 
 https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/
