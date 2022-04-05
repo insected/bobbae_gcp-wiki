@@ -38,6 +38,10 @@ https://cloud.google.com/tasks/docs/comp-tasks-sched
 
 https://cloud.google.com/tasks/docs/secure-queue-configuration
 
+#### Schedule cloud tasks in more than 30 days
+
+https://dev.to/frenchcooc/how-to-schedule-tasks-in-more-than-30-days-in-google-cloud-tasks-api-35f
+
 #### Common Pitfalls
 
 https://cloud.google.com/tasks/docs/common-pitfalls
