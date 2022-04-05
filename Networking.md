@@ -308,7 +308,15 @@ https://cloud.google.com/network-connectivity/docs/interconnect/support/faq#self
 
 ## Network Connectivity Center
 
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/overview
+
 https://cloud.google.com/blog/products/networking/google-cloud-network-connectivity-center-networking-partnerships
+
+### Hubs
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/overview#hubs
+
+### Spokes
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/overview#supported-spoke-resources
 
 ## Cloud Load Balancing
 
