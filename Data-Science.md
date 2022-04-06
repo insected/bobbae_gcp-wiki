@@ -252,6 +252,10 @@ http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
+## Cheatsheets
+
+https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html
+
 ## Tutorials
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/
