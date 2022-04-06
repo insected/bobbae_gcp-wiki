@@ -18,6 +18,10 @@ Dataproc Serverless lets you run Spark batch workloads without requiring you to 
 
 https://cloud.google.com/dataproc-serverless/docs
 
+## Using Spark on Dataproc
+
+### Tuning Spark on Dataproc
+https://mkuthan.github.io/blog/2022/03/24/gcp-dataproc-spark-tuning/
 
 ### Running PySpark jobs on Serverless Dataproc
 
@@ -26,6 +30,7 @@ https://medium.com/cts-technologies/running-pyspark-jobs-on-google-cloud-using-s
 ### Ingesting Google Cloud Storage files to BigQuery using Cloud Functions and Serverless Spark
 
 https://cloud.google.com/blog/products/data-analytics/ingesting-data-into-bigquery-using-serverless-spark
+
 
 ### Cloud Spanner export query results using Dataproc Serverless
 
