@@ -115,6 +115,8 @@ To train an AutoML Tables model inside of BigQuery, use the BigQuery ML CREATE M
 
 https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-create-automl
 
+### Rapid Batch Inference in BQML
+https://medium.com/tinyclues-vision/rapid-batch-inference-in-google-cloud-3d4345a11fdc
 
 ### Unsupervised anomaly detection for time series and non-time series data
 
@@ -130,16 +132,16 @@ https://towardsdatascience.com/explaining-a-bigquery-ml-model-5cf8d9636ec9
 
 https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML
 
-### Videos
+### BQML Videos
 
 https://www.youtube.com/playlist?list=PLeLcvrwLe187Kk5QIqt7Kb8qdQSQd9AcY
 
-### Cheatsheet
+### BQML Cheatsheet
 
 https://medium.com/fifty-five-data-science/bigquery-machine-learning-cheat-sheet-7c053b21a657
 
 
-### Recommender
+###  Build a Recommender with BQML
 
 https://medium.com/g-company/build-a-recommender-with-bigquery-ml-15e67a457548
 
@@ -147,7 +149,7 @@ https://medium.com/g-company/build-a-recommender-with-bigquery-ml-15e67a457548
 
 https://medium.com/@corba77/bigquery-ml-models-deployment-with-vertex-ai-and-kubeflow-2cff8586277f
 
-### Predicting taxi fares
+### Predicting Taxi fares
 
 https://medium.com/@jakob.salomonsson/predicting-the-fare-on-a-billion-taxi-trips-with-bigquery-108135c8697d
 
