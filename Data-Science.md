@@ -263,6 +263,9 @@ https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-
 ## Books
 https://www.kdnuggets.com/2022/03/best-data-science-books-beginners.html
 
+## Build ML Webapp in 5 minutes
+https://www.kdnuggets.com/2022/03/build-machine-learning-web-app-5-minutes.html
+
 ## Tutorials
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/
