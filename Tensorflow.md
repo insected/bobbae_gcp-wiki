@@ -6,6 +6,10 @@
 
 [Kubeflow](Kubeflow) is a [MLOps](MLOps) tool that can manage pipelines including [Tensorflow](https://www.tensorflow.org/learn).
 
+
+## Tensor
+https://www.kdnuggets.com/2018/05/wtf-tensor.html
+
 ## Tensorflow.js
 
 Tensorflow.js is a library for machine learning in JavaScript.
