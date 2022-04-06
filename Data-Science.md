@@ -261,6 +261,7 @@ http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html
 
 ## Books
+https://www.kdnuggets.com/2022/03/best-data-science-books-beginners.html
 
 ## Tutorials
 
