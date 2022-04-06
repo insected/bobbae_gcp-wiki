@@ -226,6 +226,10 @@ https://towardsdatascience.com/from-norm-to-orthogonality-fundamental-mathematic
 
 https://towardsdatascience.com/from-eigendecomposition-to-determinant-fundamental-mathematics-for-machine-learning-with-1b6b449a82c6
 
+### Calculus
+
+https://www.kdnuggets.com/2022/02/mlm-hidden-building-block-machine-learning.html
+
 ### Single Variable Calculus
 
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)
@@ -255,6 +259,8 @@ http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 ## Cheatsheets
 
 https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html
+
+## Books
 
 ## Tutorials
 
