@@ -62,6 +62,9 @@ https://deploy.live/blog/gcp-finops-003-boring-predictability-with-bigquery-slot
 
 https://blog.doit-intl.com/google-bigquery-finops-276a210e7fe7
 
+### FinOps for Data Pipelines
+https://mkuthan.github.io/blog/2022/04/02/gcp-finops/
+
 ### Chaos Engineering
 
 https://deploy.live/blog/gcp-finops-002-chaos-engineer-your-way-to-a-lower-cost/
