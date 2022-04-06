@@ -152,6 +152,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-clo
 
 https://cloud.google.com/blog/products/ai-machine-learning/increase-your-productivity-using-pytorch-lightning
 
+### Add preprocessing functions to Tensorflow models and deploy on Vertex AI
+https://cloud.google.com/blog/topics/developers-practitioners/add-preprocessing-functions-tensorflow-models-and-deploy-vertex-ai
 
 ## Qwiklabs
 
