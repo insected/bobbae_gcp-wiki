@@ -45,6 +45,8 @@ https://cloud.google.com/vertex-ai/docs/model-monitoring
 
 https://cloud.google.com/vertex-ai/docs/pipelines
 
+## Feature Store
+https://medium.com/hacking-talent/vertexais-feature-store-for-dummies-3d798b45ece4
 
 ## Track ML metadata
 
