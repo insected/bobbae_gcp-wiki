@@ -453,6 +453,27 @@ Google [Data Studio](Data-Studio) is a visualization and reporting tool, and an 
 
 https://infotrust.com/articles/google-data-studio-looker-comparison/
 
+### Metabase
+
+https://www.metabase.com/
+
+### Trevor.io
+
+https://trevor.io
+
+### LinceBI
+
+https://www.lincebi.com/
+
+### Talend
+https://www.talend.com/
+
+
+
+
+### Sisence
+
+https://www.sisense.com/
 
 ### The Data Modeling Layer
 
