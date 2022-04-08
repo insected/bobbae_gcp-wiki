@@ -800,6 +800,13 @@ The [Estimators API]( https://www.tensorflow.org/guide/estimator   ) gives us a 
 
 [PyTorch](PyTorch)    is an [awesome](https://github.com/bharathgs/Awesome-pytorch-list) source machine learning library based on the Torch library.
 
+### Micrograd
+
+https://github.com/karpathy/micrograd
+
+### Tinygrad
+
+https://github.com/geohot/tinygrad
 
 ### Kubeflow
 
@@ -831,6 +838,8 @@ https://en.wikipedia.org/wiki/P-value
 ### Diminishing returns on deep learning costs
 
 https://spectrum.ieee.org/deep-learning-computational-cost
+
+
 
 ## Google ML Engineer exam
 
