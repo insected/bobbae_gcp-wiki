@@ -2,6 +2,10 @@ A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt 
 
 https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/
 
+## DDoS best practice
+
+https://cloud.google.com/files/GCPDDoSprotection-04122016.pdf
+
 ## Cloud Armor
 
 Cloud Armor is GCP’s DDoS protection solution and a Web Application Firewall (WAF).
