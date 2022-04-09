@@ -90,6 +90,9 @@ https://cloud.google.com/sql/docs/postgres/high-availability
 
 https://cloud.google.com/blog/products/gcp/cloud-sql-for-postgresql-adds-high-availability-and-replication
 
+https://cloud.google.com/architecture/architectures-high-availability-postgresql-clusters-compute-engine
+
+
 ### SQL Server failover cluster
 
 https://cloud.google.com/compute/docs/instances/sql-server/configure-failover-cluster-instance
