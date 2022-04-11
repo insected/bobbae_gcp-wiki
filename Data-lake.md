@@ -16,11 +16,6 @@ Extend BigQuery to multi-cloud data lakes and open formats such as Parquet and O
 
 https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake
 
-## Business Intelligence
-
-https://www.guru99.com/business-intelligence-definition-example.html
-
-https://www.guru99.com/business-intelligence-tools.html
 
 
 ## Data Mining
