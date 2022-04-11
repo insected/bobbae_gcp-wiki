@@ -36,7 +36,9 @@ https://cloud.google.com/blog/products/data-analytics/ingesting-data-into-bigque
 
 https://medium.com/google-cloud/cloud-spanner-export-query-results-using-dataproc-serverless-6f2f65b583a4
 
+## Serverless Spark components for Vertex AI Pipelines
 
+https://cloud.google.com/vertex-ai/docs/pipelines/dataproc-component
 
 
 ## Metastore
