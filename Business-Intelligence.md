@@ -2,6 +2,7 @@
 
 BI(Business Intelligence) is a set of processes, architectures, and technologies that convert raw data into meaningful information that drives profitable business actions. It is a suite of software and services to transform data into actionable intelligence and knowledge.
 
+https://wikipedia.org/wiki/Business_intelligence 
 
 https://www.guru99.com/business-intelligence-definition-example.html#what-is-business-intelligence
 
