@@ -27,6 +27,9 @@ https://cloud.google.com/bigtable/docs/quickstarts
 
 https://cloud.google.com/bigtable/docs/installing-hbase-shell
 
+### Migrate from Apache HBase to Cloud Bigtable with Live Migrations
+https://cloud.google.com/blog/products/databases/migrate-from-apache-hbase-to-cloud-bigtable-with-live-migrations
+
 ## Bigtable basics
 
 https://medium.com/google-cloud/getting-started-with-bigtable-on-gcp-adfb896e0b26
