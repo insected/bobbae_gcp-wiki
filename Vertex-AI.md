@@ -41,11 +41,22 @@ https://cloud.google.com/vertex-ai/docs/explainable-ai
 
 https://cloud.google.com/vertex-ai/docs/model-monitoring
 
-## Orchestration of ML workflow using Vertex AI pipelines
+## Vertex AI Pipelines
+
+### Orchestration of ML workflow using Vertex AI pipelines
 
 https://cloud.google.com/vertex-ai/docs/pipelines
 
+
+### Serverless Spark components for Vertex AI Pipelines
+
+https://cloud.google.com/vertex-ai/docs/pipelines/dataproc-component
+
+https://cloud.google.com/blog/topics/developers-practitioners/announcing-serverless-spark-components-vertex-ai-pipelines
+
+
 ## Feature Store
+
 https://medium.com/hacking-talent/vertexais-feature-store-for-dummies-3d798b45ece4
 
 ## Track ML metadata
