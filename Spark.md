@@ -1,5 +1,7 @@
 [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark) is an open-source unified analytics engine for large-scale data processing.
 
+## Serverless Spark
+https://cloud.google.com/blog/products/data-analytics/making-serverless-spark-even-more-powerful
 
 ## Apache Spark Tutorial
 
