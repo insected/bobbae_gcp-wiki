@@ -6,6 +6,11 @@ https://wikipedia.org/wiki/Business_intelligence
 
 https://www.guru99.com/business-intelligence-definition-example.html#what-is-business-intelligence
 
+
+## BigQuery BI Engine
+
+https://cloud.google.com/bigquery/docs/bi-engine-intro
+
 ## Business Intelligence Tools
 
 https://www.guru99.com/business-intelligence-tools.html
