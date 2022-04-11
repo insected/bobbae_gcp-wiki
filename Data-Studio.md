@@ -8,6 +8,10 @@ https://www.youtube.com/playlist?list=PLb1Ovsa8zsbWXN-zlxEGgE-Yj_dNh2-xI
 
 https://www.youtube.com/watch?v=KouK1INq7Gg
 
+## Bringing together Looker and Data Studio
+
+https://cloud.google.com/blog/products/data-analytics/looker-and-data-studio-integrate-for-best-of-both-worlds
+
 ## Data Visualization
 
 Data Studio is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. 
