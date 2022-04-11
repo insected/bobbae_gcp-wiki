@@ -80,6 +80,7 @@ To support replication, each spanserver implements a single [Paxos](https://www.
 
 The [Paxos](https://medium.com/distributed-knowledge/paxos-consensus-for-beginners-1b8519d3360f)    state machines are used to implement a consistently replicated bag of mappings. 
 
+
 ### Paxos group
 
 The key-value mapping state of each replica is stored in its corresponding tablet. Writes must initiate the [Paxos](https://en.m.wikipedia.org/wiki/Paxos_(computer_science)) protocol at the leader. The reads access state directly from the underlying tablet at any replica that is sufficiently up-to-date. The set of replicas is collectively a Paxos group. Spanner is a database that shards data across many sets of Paxos state machines in datacenters spread all over the world.
@@ -161,6 +162,13 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 ### JSON data type
 
 https://cloud.google.com/blog/products/databases/manage-semi-structured-data-in-cloud-spanner-with-json
+
+
+### Change streams
+
+https://cloud.google.com/blog/products/databases/track-and-integrate-change-data-with-spanner-change-streams
+
+
 
 ### Distributed SQL databases
 
