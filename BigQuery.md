@@ -489,14 +489,44 @@ https://cloud.google.com/blog/topics/developers-practitioners/spring-forward-big
 
 https://cloud.google.com/blog/topics/developers-practitioners/shine-user-friendly-sql-bigquery
 
+### Analytics
+https://cloud.google.com/bigquery/docs/query-overview
 
+### Analytics Hub
+https://cloud.google.com/bigquery/docs/analytics-hub-introduction
 
 ### BigQuery BI Engine 
 
 [BigQuery BI Engine](https://cloud.google.com/bi-engine/docs) is a fast, in-memory analysis service that allows you to analyze data stored in BigQuery. 
 
 
+https://cloud.google.com/bigquery/docs/bi-engine-intro
 
+
+#### Data  Studio
+
+https://cloud.google.com/bigquery/docs/bi-engine-data-studio
+
+#### Looker
+
+
+https://cloud.google.com/bigquery/docs/analyze-data-looker
+
+
+#### Tableau
+
+https://cloud.google.com/bigquery/docs/analyze-data-tableau
+
+#### Connected Sheets
+
+https://cloud.google.com/bigquery/docs/connected-sheets
+
+#### Excel connector
+https://cloud.google.com/bigquery/docs/bigquery-connector-for-excel
+
+
+#### Datalab
+https://cloud.google.com/architecture/analyzing-financial-time-series-using-bigquery-and-cloud-datalab
 
 ### Data Security 
 
