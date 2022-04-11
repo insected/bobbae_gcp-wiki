@@ -13,7 +13,7 @@ Looker's platform works with transactional databases like Oracle and MySQL as we
 
 https://looker.com/solutions/google-bigquery
 
-Looker gives you the tools to power a multitude of data experiences, from modern [business intelligence](https://wikipedia.org/wiki/Business_intelligence     ) and embedded analytics to workflow integrations and custom data apps. 
+Looker gives you the tools to power a multitude of data experiences, from modern [business intelligence](Business-Intelligence    ) and embedded analytics to workflow integrations and custom data apps. 
 
 [https://cloud.google.com/looker](https://cloud.google.com/looker)
 
