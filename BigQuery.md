@@ -189,9 +189,9 @@ A [partitioned table](https://cloud.google.com/bigquery/docs/partitioned-tables)
 
 You can partition BigQuery tables by:
 
-- Time-unit column: Tables are partitioned based on a TIMESTAMP, DATE, or DATETIME column in the table.
-- Ingestion time: Tables are partitioned based on the timestamp when BigQuery ingests the data.
-- Integer range: Tables are partitioned based on an integer column.
+- [Time-unit column](https://cloud.google.com/bigquery/docs/partitioned-tables#date_timestamp_partitioned_tables): Tables are partitioned based on a TIMESTAMP, DATE, or DATETIME column in the table.
+- [Ingestion time](https://cloud.google.com/bigquery/docs/partitioned-tables#ingestion_time): Tables are partitioned based on the timestamp when BigQuery ingests the data.
+- [Integer range](https://cloud.google.com/bigquery/docs/partitioned-tables#integer_range): Tables are partitioned based on an integer column.
 
 If a query filters on the value of the partitioning column, BigQuery can scan the partitions that match the filter and skip the remaining partitions. This process is called pruning.
 
