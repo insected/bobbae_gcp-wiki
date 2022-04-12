@@ -177,3 +177,8 @@ https://cloud.google.com/architecture/troubleshooting-policy-and-access-problems
 ## Securing the pipeline from your data lake to your data warehouse
 
 https://cloud.google.com/architecture/help-secure-the-pipeline-from-your-data-lake-to-your-data-warehouse
+
+## Keycloak
+
+https://www.keycloak.org/
+
