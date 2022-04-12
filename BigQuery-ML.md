@@ -97,6 +97,11 @@ https://github.com/PacktPublishing/Machine-Learning-with-BigQuery-ML/blob/master
 
 https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228
 
+### Vertex AI Pipelines
+
+
+https://cloud.google.com/blog/topics/developers-practitioners/announcing-bigquery-and-bigquery-ml-operators-vertex-ai-pipelines
+
 
 ###  BigQuery ML  Tutorials
 
