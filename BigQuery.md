@@ -740,6 +740,9 @@ https://soumendra-mishra.medium.com/bigquery-dynamic-sql-using-jinja-template-5c
 
 https://medium.com/@urruchua.xabier/bike-share-chicago-case-study-72444a268dd1
 
+### Game user data analytics
+
+
 ### Data Quality Analysis using BigQuery
 
 
