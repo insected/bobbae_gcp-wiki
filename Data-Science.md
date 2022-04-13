@@ -268,8 +268,11 @@ https://www.kdnuggets.com/2022/03/best-data-science-books-beginners.html
 
 https://docs.streamlit.io/
 
-### Build ML Webapp in 5 minutes
+### Build ML Webapps
+
 https://www.kdnuggets.com/2022/03/build-machine-learning-web-app-5-minutes.html
+
+https://medium.com/talabat-tech/data-apps-from-local-to-live-in-10-minutes-a886d5453c7
 
 ## Tutorials
 
