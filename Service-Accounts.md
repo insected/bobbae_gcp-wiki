@@ -82,7 +82,25 @@ You can use identity federation with Amazon Web Services (AWS), or with any iden
 
 https://cloud.google.com/iam/docs/workload-identity-federation
 
+### OIDC
+
+https://ldapwiki.com/wiki/OpenID%20Connect
+
+
+https://goteleport.com/blog/how-oidc-authentication-works/
+
+https://www.ibm.com/docs/en/sva/9.0.5?topic=methods-openid-connect-oidc-authentication
+
+
+### Openid-configuration
+
+https://ldapwiki.com/wiki/Openid-configuration
+
+
+
+
 ### Obtaining short-lived credentials with identity federation 
+
 https://cloud.google.com/iam/docs/using-workload-identity-federation
 
 ### Configuring workload identity federation
@@ -111,14 +129,26 @@ https://gbostoen.medium.com/integrate-gitlab-with-google-cloud-workload-identity
 
 https://medium.com/@karthikg_54738/using-workload-identity-to-access-google-cloud-pub-sub-from-gke-2d6818d58f83
 
-### Enabling keyless authentication from github actions
+### Enabling keyless authentication from GitHub actions
 
 https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions
 
 
-### keyless gcp authentication from github actions with workload identity federation
+### Keyless GCP authentication from GitHub actions with workload identity federation
 
 https://alwaysupalwayson.com/posts/2022/01/workload-identity-federation/
+
+
+
+### SPIFFE
+
+
+https://spiffe.io/docs/latest/spiffe-about/overview/
+
+
+### Workload Identity Federation for On-Premise Workloads with SPIFFE
+
+https://medium.com/google-cloud/workload-identity-federation-for-on-premise-workloads-with-spiffe-24a861b3cf6c
 
 
 ## Securing Service Accounts
