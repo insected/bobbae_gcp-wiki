@@ -27,6 +27,11 @@ https://cloud.google.com/vertex-ai/docs/general/import
 
 https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions
 
+## Vertex AI Model Registry
+
+https://cloud.google.com/blog/topics/developers-practitioners/mlops-bigquery-ml-vertex-ai-model-registry
+
+
 ## Predictive Analytics
 
 https://cloud.google.com/learn/what-is-predictive-analytics
