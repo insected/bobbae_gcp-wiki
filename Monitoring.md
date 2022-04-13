@@ -78,3 +78,17 @@ There are [many other monitoring](https://github.com/crazy-canux/awesome-monitor
 ### GCPing
 
 https://github.com/GoogleCloudPlatform/gcping
+
+## Examples
+
+### Creating custom Google Chat notifications with Cloud Monitoring and Cloud Run
+
+https://cloud.google.com/blog/products/operations/write-and-deploy-cloud-monitoring-alert-notifications-to-third-party-services
+
+### Webhook, Pub/Sub, and Slack Alerting notification channels
+
+https://cloud.google.com/blog/products/operations/pub-sub-webook-and-slack-notifications-are-now-available
+
+### Deliver exception messages through Slack and Webhooks
+
+https://cloud.google.com/blog/products/devops-sre/use-slack-and-webhooks-for-notifications
