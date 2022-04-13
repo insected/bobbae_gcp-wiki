@@ -84,4 +84,9 @@ https://yogesh.replnotes.com/posts/deploy-bokeh-cloud-run
 https://medium.com/google-cloud/automatic-release-propagation-for-canary-releases-with-cloud-run-1ccc2ec74c7f
 
 ### Pre-Heating Applications running on Google Cloud Run
+
 https://medium.com/google-cloud/pre-heating-cloud-run-apps-for-crisp-ux-d13c341e0a29
+
+### Deploy a coloring page generator with Cloud Run
+
+https://cloud.google.com/blog/topics/developers-practitioners/deploy-coloring-page-generator-minutes-cloud-run
