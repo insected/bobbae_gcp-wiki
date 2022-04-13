@@ -74,6 +74,11 @@ https://alwaysupalwayson.com/posts/2022/01/workload-identity-federation/
 https://spiffe.io/docs/latest/spiffe-about/overview/
 
 
+### SPIRE
+
+https://spiffe.io/docs/latest/spire-about/spire-concepts/
+
+
 ### Workload Identity Federation for On-Premise Workloads with SPIFFE
 
 https://medium.com/google-cloud/workload-identity-federation-for-on-premise-workloads-with-spiffe-24a861b3cf6c
