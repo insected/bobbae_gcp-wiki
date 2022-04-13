@@ -29,6 +29,8 @@ https://www.youtube.com/user/yogaarsa/playlists
 
 https://www.cloudskillsboost.google/
 
+https://cloud.google.com/blog/topics/training-certifications/google-cloud-to-train-more-than-40-million-with-cloud-skills
+
 ### GCP Training resources
 
 https://cloud.google.com/training/
