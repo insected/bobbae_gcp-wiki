@@ -326,6 +326,13 @@ https://cloud.google.com/blog/products/databases/consume-spanner-metrics-using-o
 
 https://cloud.google.com/blog/products/databases/spanner-committed-use-discounts-help-reduce-costs
 
+
+### Reduce scaling costs by up to 50% in Cloud Spanner with doubled provisioned storage
+
+https://cloud.google.com/blog/products/databases/spanner-has-doubled-the-storage-per-node-to-4tb-from-2tb
+
+
+
 ## Qwiklabs
 
 
