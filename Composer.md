@@ -177,6 +177,11 @@ https://medium.com/@kolban1/composer-invoking-long-running-services-4de2dfa5e33a
 
 https://medium.com/google-cloud/composer-sendgrid-and-secrets-75e4b6e7581e
 
+
+### Event based processing of files
+
+https://towardsdatascience.com/are-you-using-cloud-functions-for-event-based-processing-adb3ef35aba6
+
 ## Qwiklabs
 
 ### GSP283
