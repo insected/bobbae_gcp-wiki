@@ -39,6 +39,10 @@ Immutable infrastructure mandates that resources never be modified after they're
 Creating immutable infrastructure leads to more predictable deployments and rollbacks. It also mitigates issues that are common in mutable infrastructures, like configuration drift and [snowflake servers](  https://martinfowler.com/bliki/SnowflakeServer.html   ). 
 
 
+## GitHub Actions
+
+https://medium.com/@irem.ertuerk/iac-with-github-actions-for-google-cloud-platform-bc28f1c4b0c7
+
 ## Other IAC Tools
 
 ### Pulumi
@@ -53,7 +57,7 @@ Creating immutable infrastructure leads to more predictable deployments and roll
 
 [Ansible and terraform can complement](https://www.youtube.com/watch?v=utztQWTewWU) one another.
 
-#### Using ansible to deploy Nomad and Consul
+#### Using Ansible to deploy Nomad and Consul
 
 https://medium.com/google-cloud/deploy-nomad-and-consul-using-ansible-on-gcp-478b39e7818b
 
