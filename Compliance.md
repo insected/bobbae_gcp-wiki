@@ -72,3 +72,7 @@ https://medium.com/gojekengineering/compliance-as-code-how-we-automate-cis-compl
 ## Case study
 
 https://cloud.google.com/blog/products/compliance/continuous-compliance-engineering-gcp-case-studies
+
+### Canadian compliance requirements with Protected B Landing Zone
+
+https://cloud.google.com/blog/topics/public-sector/meet-canadian-compliance-requirements-protected-b-landing-zones
