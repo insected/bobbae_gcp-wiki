@@ -164,8 +164,11 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg
 
 #### Container-native Load Balancing for Kubernetes
 
+Instead of routing to the machine and then relying on iptables to route to the pod, Container native load balancing using [NEGs](https://cloud.google.com/load-balancing/docs/negs) allow the traffic straight to the pod. This leads to decreased latency and an increase in throughput when compared to traffic routed with non container native load balancers.
 
 https://tech.groww.in/container-native-load-balancing-and-how-it-helped-us-1413d8d6decb
+
+https://cyral.com/blog/using-container-native-load-balancing-for-high-performance-networking-in-kubernetes/
 
 ### Zonal network endpoint groups 
 
