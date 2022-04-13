@@ -428,6 +428,13 @@ https://cloud.google.com/blog/topics/developers-practitioners/creating-eventarc-
 
 https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples
 
+### GCP integration with PagerDuty using Terraform
+
+https://medium.com/storyteltech/gcp-integration-with-pagerduty-using-terraform-257db26363f9
+
+
+
+
 ## Qwiklabs
 
 
