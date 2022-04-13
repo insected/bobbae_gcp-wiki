@@ -170,6 +170,11 @@ https://cloud.google.com/blog/products/ai-machine-learning/increase-your-product
 ### Add preprocessing functions to Tensorflow models and deploy on Vertex AI
 https://cloud.google.com/blog/topics/developers-practitioners/add-preprocessing-functions-tensorflow-models-and-deploy-vertex-ai
 
+
+### Price optimization notebook
+
+https://cloud.google.com/blog/products/ai-machine-learning/price-optimization-using-vertex-ai-forecast
+
 ## Qwiklabs
 
 ### Qwik start
