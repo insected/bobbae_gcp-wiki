@@ -1,7 +1,7 @@
 Using Workload identity federation, you can grant on-premises or multi-cloud workloads access to Google Cloud resources, without using a service account key.
 
 
-Traditionally, applications running outside Google Cloud have used service account keys to access Google Cloud resources. [Service account](Service-account) keys are powerful credentials and can represent a security risk if they are not managed correctly.
+Traditionally, applications running outside Google Cloud have used service account keys to access Google Cloud resources. [Service account](Service-accounts) keys are powerful credentials and can represent a security risk if they are not managed correctly.
 
 With identity federation, you can use [Identity and Access Management](IAM) (IAM) to grant external identities IAM roles, including the ability to impersonate service accounts. This lets you access resources directly, using a short-lived access token, and eliminates the maintenance and security burden associated with service account keys.
 
