@@ -11,13 +11,17 @@ https://cloud.google.com/blog/products/containers-kubernetes/the-rise-and-future
 
 ### Autopilot
 
-https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
-
 https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 
+
+
+### Partner DevOps and Security solutions for GKE Autopilot
+
 https://cloud.google.com/blog/products/containers-kubernetes/partner-devops-and-security-solutions-for-gke-autopilot
+
+### Cloud Code and GKE Autopilot
 
 https://medium.com/google-cloud/gke-autopilot-and-cloud-code-1da63bedd18e
 
@@ -63,9 +67,17 @@ https://debricked.com/blog/what-is-gke-workload-identity/
 
 https://medium.com/zeotap-customer-intelligence-unleashed/gke-workload-identity-a-secure-way-for-gke-applications-to-access-gcp-services-f880f4e74e8c
 
-### Terraform workload identity
+### Terraform Workload Identity
 
 https://registry.terraform.io/modules/terraform-google-modules/kubernetes-engine/google/latest/submodules/workload-identity
+
+
+### GKE Workload Identity
+
+
+https://mixi-developers.mixi.co.jp/deep-dive-into-gke-workload-identity-1de73aa4fe8e
+
+
 
 ### Deploying Google Cloud Functions using GitHub Actions and Workload Identity authentication
 
