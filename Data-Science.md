@@ -39,8 +39,9 @@ https://cloud.google.com/architecture/reference-patterns/overview#general_analyt
 These [topics]( https://www.jeremyjordan.me/data-science/ ) require [diverse range of knowledge and skills  from many disciplines](https://www.explorium.ai/blog/domain-knowledge-in-data-science-are-your-models-ready-for-business/  ). The need to distinguish data engineers from analysts and scientists diminish when faced with such [multi-disciplinary scope](https://winderresearch.com/what-is-data-science/ ) of endeavors. 
 
 
+## Data Science platform
 
-
+https://medium.com/adevinta-tech-blog/enabling-data-science-on-google-cloud-platform-at-adevinta-c14e67703fb2
 
 ## AI Platform 
 
