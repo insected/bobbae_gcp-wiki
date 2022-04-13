@@ -742,6 +742,7 @@ https://medium.com/@urruchua.xabier/bike-share-chicago-case-study-72444a268dd1
 
 ### Game user data analytics
 
+https://towardsdatascience.com/know-more-about-your-app-users-through-bigquery-4c0b6d67abfa
 
 ### Data Quality Analysis using BigQuery
 
