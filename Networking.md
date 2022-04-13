@@ -32,6 +32,7 @@ Google built a superior [cloud network](https://cloud.google.com/docs/compare/da
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/infrastructure-1.max-1000x1000.png" width="500">
 -->
 
+https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained
 
 https://youtu.be/KayF1osXrOk
 
