@@ -9,6 +9,10 @@ There are many GCP databases: [BigQuery](BigQuery), [Bigtable](Bigtable), [Cloud
 
 https://cloud.google.com/products/databases
 
+https://cloud.google.com/blog/products/databases/google-clouds-key-investment-areas-to-accelerate-your-database-transformation
+
+https://cloud.google.com/blog/products/databases/industry-leading-reliability-global-scale-open-standards-google-cloud-databases
+
 ## Cloud Databases
 
 * [GCP Database Products](https://cloud.google.com/products/databases)
