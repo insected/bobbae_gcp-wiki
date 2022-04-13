@@ -162,6 +162,11 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/container-native-load-b
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/standalone-neg
 
+#### Container-native Load Balancing for Kubernetes
+
+
+https://tech.groww.in/container-native-load-balancing-and-how-it-helped-us-1413d8d6decb
+
 ### Zonal network endpoint groups 
 
 https://cloud.google.com/load-balancing/docs/negs/zonal-neg-concepts
