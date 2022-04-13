@@ -7,6 +7,10 @@ https://www.astera.com/type/blog/data-warehouse-concepts/
 
 https://www.guru99.com/data-warehouse-architecture.html
 
+## Secure data warehouse blueprint
+
+https://cloud.google.com/blog/products/identity-security/best-practices-for-secure-data-warehouse-in-google-cloud
+
 ## Data modeling
 
 https://www.guru99.com/database-design.html
