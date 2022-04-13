@@ -197,3 +197,8 @@ https://medium.com/google-cloud/cromwell-hello-gcp-833c18df3caf
 ### Analyzing Twitter sentiment 
 
 https://cloud.google.com/blog/topics/developers-practitioners/analyzing-twitter-sentiment-new-workflows-processing-capabilities
+
+
+### Store Workflows states in Firestore
+
+https://medium.com/google-cloud/worklows-state-management-with-firestore-99237f08c5c5
