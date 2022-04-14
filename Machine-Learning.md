@@ -766,6 +766,16 @@ https://github.com/src-d/awesome-machine-learning-on-source-code
 
 ## ML Frameworks and tools
 
+### Feature Store
+
+https://www.featurestore.org/
+
+https://cloud.google.com/vertex-ai/docs/featurestore/overview
+
+
+https://www.hopsworks.ai/post/feature-store-the-missing-data-layer-in-ml-pipelines
+
+
 ### Tensorflow 
 
 
