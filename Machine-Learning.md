@@ -202,7 +202,9 @@ Step 4, go through ML learning materials
 
 https://hackernoon.com/where-to-learn-machine-and-deep-learning-for-free
 
+https://github.com/eugeneyan/applied-ml
 
+https://github.com/microsoft/ML-For-Beginners
 
 ## Machine Learning & Artificial Intelligence 
 
