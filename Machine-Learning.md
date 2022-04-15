@@ -206,6 +206,8 @@ https://github.com/eugeneyan/applied-ml
 
 https://github.com/microsoft/ML-For-Beginners
 
+https://youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw
+
 ## Machine Learning & Artificial Intelligence 
 
 A [Data Scientist](Data-Science) models and analyzes key data and continually improves the way the business utilizes data. Data Scientists aim to make accurate predictions about the future using in-depth [data modeling and deep learning]( https://cloud.google.com/training/machinelearning-ai  ).
