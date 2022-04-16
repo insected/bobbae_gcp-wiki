@@ -110,6 +110,8 @@ https://www.computerworld.com/article/3428108/the-major-hybrid-cloud-options-com
 
 In Oracle's approach, SaaS, CRM, ERP, and HCM products are brought into customers' own data centers. Oracle provides converged Oracle hardware, software, and management services to run applications using customers' data centers, networking, and power.
 
+https://www.oracle.com/cloud/cloud-at-customer/
+
 
 #### Anthos approach
 
