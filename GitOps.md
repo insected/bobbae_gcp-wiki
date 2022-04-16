@@ -18,6 +18,19 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build
 
 https://medium.com/google-cloud/how-to-apply-gitops-cd-with-gke-and-cloud-build-in-5-minutes-58455a2bf063
 
+## Flagger
+
+https://github.com/fluxcd/flagger
+
+## FluxCD
+
+https://fluxcd.io/
+
+## Podinfo
+
+https://github.com/stefanprodan/podinfo
+
+
 ## KubeStack
 
 Terraform [GitOps Framework](https://www.kubestack.com/).
@@ -37,6 +50,8 @@ https://www.kubestack.com/catalog/argo-cd
 ### Argo CD and Flux
 
 https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/
+
+
 
 ## Examples
 
