@@ -16,6 +16,40 @@ https://cloud.netapp.com/blog/gcp-cvo-blg-google-anthos-the-first-true-multi-clo
 
 https://cloud.google.com/blog/topics/hybrid-cloud/edge-computing-architectural-challenges-and-pitfalls
 
+## Setting up Anthos
+
+https://cloud.google.com/anthos/docs/setup/overview
+
+## Anthos Clusters
+
+https://cloud.google.com/anthos/clusters/docs
+
+
+## Multi-cluster use cases
+
+https://cloud.google.com/anthos/multicluster-management/use-cases
+
+## Anthos Security
+
+https://cloud.google.com/anthos/docs/tutorials/security
+
+## Anthos Components
+
+https://cloud.google.com/anthos/docs/components
+
+## Anthos Service Mesh
+
+https://cloud.google.com/service-mesh/docs
+
+
+## Cloud Run for Anthos
+
+https://cloud.google.com/anthos/run/docs
+
+## Anthos Config Management
+
+https://cloud.google.com/anthos-config-management/docs
+
 
 ## Anthos vs AWS Outposts vs Azure Stack
 
