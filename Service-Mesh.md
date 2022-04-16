@@ -1,6 +1,8 @@
 
 https://cloud.google.com/architecture/service-meshes-in-microservices-architecture
 
+
+
 ## What is Service Mesh?
 
 A [service mesh](https://cloud.google.com/service-mesh/docs/overview) is a platform layer on top of the infrastructure layer that enables managed, observable, and secure communication between individual services.
@@ -37,6 +39,10 @@ https://istio.io/
 ### Service Mesh Manifesto
 
 https://buoyant.io/service-mesh-manifesto/
+
+### SMI
+
+https://smi-spec.io/
 
 ### Comparisons
 
@@ -97,7 +103,12 @@ https://linkerd.io/
 
 [https://www.youtube.com/watch?v=Bj7gGQUiDuk](https://www.youtube.com/watch?v=Bj7gGQUiDuk)
 
-Linkerd and istio comparison. 
+
+### Linkerd Architecture
+
+https://linkerd.io/2.11/reference/architecture/
+
+### Linkerd and istio comparison.
 
 https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
 
