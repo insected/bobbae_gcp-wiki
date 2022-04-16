@@ -26,6 +26,8 @@ https://github.com/fluxcd/flagger
 
 https://fluxcd.io/
 
+https://github.com/fluxcd/flux2
+
 ## Podinfo
 
 https://github.com/stefanprodan/podinfo
