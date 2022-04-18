@@ -73,3 +73,6 @@ https://cloud.google.com/artifact-management/docs/overview
 
 https://cloud.google.com/container-analysis/docs/container-scanning-overview
 
+### Securing Containers With Google’s Container Optimized OS & Distroless Container Images
+
+https://medium.com/google-cloud/securing-containers-with-googles-container-optimized-os-distroless-container-images-11449caba2ec
