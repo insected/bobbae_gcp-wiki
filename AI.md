@@ -184,7 +184,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/recommendations-ai
 [Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview) is a black-box optimization service that helps you tune hyperparameters.
 
 
+## Optimization AI
 
+https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-optimization-ai-cloud-fleet-routing-api
 
 ## Risks
 
