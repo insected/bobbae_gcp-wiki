@@ -1,6 +1,7 @@
 [IAP](https://cloud.google.com/iap/) lets you establish a central authorization layer for applications accessed by HTTPS, so you can use an application-level access control model instead of relying on network-level firewalls.
 
-Use identity and context to guard access to your applications and VMs.
+
+
 
 
 ### Concepts
@@ -60,6 +61,10 @@ https://github.com/GoogleCloudPlatform/iap-desktop
 ### Using IAP for TCP Forwarding
 
 https://cloud.google.com/iap/docs/using-tcp-forwarding
+
+### Login to GCP VM instance without Public IP using IAP
+
+https://medium.com/@VishalBulbule/login-to-gcp-vm-instance-without-public-ip-31cc01ee152b
 
 ### Qwiklab
 
