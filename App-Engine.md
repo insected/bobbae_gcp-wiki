@@ -8,7 +8,9 @@ The [Standard Environment](https://cloud.google.com/appengine/docs/about-the-sta
 
 
 
+### Languages updates
 
+https://cloud.google.com/blog/topics/developers-practitioners/new-java-ruby-python-php-runtimes
 
 
 ### App Engine Auto scaling
