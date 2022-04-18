@@ -342,7 +342,7 @@ Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manag
 
 Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [Context-Aware Access](Context-Aware-Access) is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
 
-### Policy trouble shooting
+### Policy troubleshooting
 
 https://cloud.google.com/blog/products/identity-security/unblock-bce-users-for-easy-zero-trust-access
 
@@ -690,6 +690,17 @@ https://snyk.io/vuln/npm:npm
 ### RAT
 
 https://www.zdnet.com/article/remote-access-trojans-spread-through-microsoft-azure-aws-cloud-service-abuse/
+
+
+##  Web Attacks, CORS, CSRF, XSS, etc.
+
+https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
+
+https://medium.com/@zhaojunemail/sop-cors-csrf-and-xss-simply-explained-with-examples-af6119156726
+
+https://blog.vnaik.com/posts/web-attacks.html
+
+https://portswigger.net/web-security/all-materials/detailed
 
 ## Security trends
 
