@@ -164,6 +164,8 @@ The [Translation API](  https://cloud.google.com/translate ) covers a huge numbe
 
 [https://cloud.google.com/speech-to-text/docs](https://cloud.google.com/speech-to-text/docs)
 
+https://cloud.google.com/blog/products/ai-machine-learning/your-ultimate-guide-to-speech-on-google-cloud
+
 #### Convert speech to text using Node.js
 
 [https://www.youtube.com/watch?v=naZ8oEKuR44](https://www.youtube.com/watch?v=naZ8oEKuR44)
