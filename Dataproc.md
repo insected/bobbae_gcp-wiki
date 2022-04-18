@@ -79,7 +79,7 @@ https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotch
 
 ## Dataproc and Spark on Kubernetes
 
-https://cloud.google.com/blog/products/infrastructure-modernization/running-spark-on-kubernetes-with-dataproc?
+https://cloud.google.com/blog/products/infrastructure-modernization/running-spark-on-kubernetes-with-dataproc
 
 ## Examples
 
