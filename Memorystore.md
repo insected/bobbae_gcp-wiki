@@ -8,6 +8,7 @@ Cloud Memorystore for Redis provides a fully managed in-memory data store servic
 
 [https://www.youtube.com/watch?v=sVpoAdbh2nU](https://www.youtube.com/watch?v=sVpoAdbh2nU)
 
+https://cloud.google.com/blog/topics/developers-practitioners/using-memorystore-redis-cache-your-django-applications
 
 ### Read replicas
 
