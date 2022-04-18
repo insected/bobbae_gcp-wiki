@@ -306,6 +306,10 @@ https://www.pulumi.com/docs/intro/vs/terraform/
 
 https://cdk.dev/
 
+https://github.com/hashicorp/terraform-cdk
+
+https://dev.to/michael_lin/deploy-infrastructure-using-cdk-for-terraform-with-go-28ne
+
 ### Troposphere
 
 https://github.com/cloudtools/troposphere
