@@ -21,6 +21,8 @@ https://cloud.google.com/blog/products/identity-security/announcing-mute-finding
 
 https://cloud.google.com/blog/topics/public-sector/how-public-cloud-reduces-risk-and-keeps-data-more-secure
 
+https://portswigger.net/web-security/all-materials/detailed
+
 ## GCP Infrastructure Security
 
 https://cloud.google.com/security/infrastructure/design
