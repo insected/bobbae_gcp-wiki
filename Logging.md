@@ -356,6 +356,14 @@ https://medium.com/google-cloud/apache-apisix-integrates-with-google-cloud-loggi
 https://dev.to/koshilife/associate-with-parent-cloud-workflows-logs-and-child-apis-logs-using-structured-logs-17b9
 
 
+## Splunk
+
+https://cloud.google.com/architecture/deploying-production-ready-log-exports-to-splunk-using-dataflow
+
+https://www.cloudskillsboost.google/focuses/25903?parent=catalog&qlcampaign=1m-splunkblog-4104
+
+https://cloud.google.com/blog/products/containers-kubernetes/enroll-in-google-cloud-and-splunks-first-hands-on-lab
+
 ## List of Logs Related Resources
 
 ### List of Log Analysis Research materials
