@@ -638,6 +638,8 @@ https://medium.com/google-cloud/bigquery-omni-is-everywhere-afa2b5f64688
 
 https://ravi-manjunatha.medium.com/multi-cloud-analytics-with-bigquery-omni-no-time-to-load-ed187a9dcf20
 
+https://cloud.google.com/blog/products/data-analytics/bq-omnis-cross-cloud-transfer-combines-data-across-clouds
+
 ### BigQuery ML 
 
 [BigQuery ML](BigQuery-ML) enables users to create and execute machine learning models in BigQuery by using SQL queries.
