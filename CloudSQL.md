@@ -143,6 +143,10 @@ https://cloud.google.com/blog/products/databases/learn-how-to-create-alerts-base
 
 https://cloud.google.com/blog/products/databases/how-to-accelerate-transaction-id-freezing-in-cloud-sql-for-postgresql
 
+### Regain Cloud SQL disk space with Database Migration Service
+
+https://medium.com/google-cloud/regain-cloud-sql-disk-space-with-database-migration-service-edabc708b1b0
+
 ## Examples
 
 ### Cherre use case with Postgres and GraphQL
