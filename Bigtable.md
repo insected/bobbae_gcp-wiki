@@ -56,6 +56,9 @@ https://cloud.google.com/bigtable/docs/quickstarts
 
 https://medium.com/google-cloud/easy-csv-importing-into-cloud-bigtable-ed3f62139b89
 
+https://cloud.google.com/blog/products/databases/bigtable-command-line-now-supports-csv-file-importing
+
+
 ## HBase tutorial
 
 https://www.guru99.com/hbase-tutorials.html
@@ -322,6 +325,8 @@ https://cloud.google.com/blog/products/databases/moloco-uses-cloud-bigtable-to-b
 ### Node.js example using CBT 
 
 https://levelup.gitconnected.com/cloud-bigtable-understanding-bigtables-nosql-3-dimensional-storage-model-using-the-node-js-client-237946b9c3c9
+
+
 
 ### Cost
 
