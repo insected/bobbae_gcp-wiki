@@ -18,3 +18,4 @@ https://cloud.google.com/artifact-registry/docs/how-to
 
 https://dev.to/koshilife/manage-private-python-packages-using-artifact-registry-google-cloud-30kh
 
+https://towardsdatascience.com/if-you-are-using-python-and-google-cloud-platform-this-will-simplify-life-for-you-6be4f777fa3a
