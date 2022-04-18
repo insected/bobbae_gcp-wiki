@@ -81,6 +81,12 @@ https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotch
 
 https://cloud.google.com/blog/products/infrastructure-modernization/running-spark-on-kubernetes-with-dataproc?
 
+## Examples
+
+### Dataproc serverless Spark for Delta Lake by Databricks
+
+https://medium.com/google-cloud/processing-databricks-delta-lake-data-in-google-cloud-dataproc-serverless-for-spark-1cc1405a3ee4
+
 ## Tutorials
 
 
