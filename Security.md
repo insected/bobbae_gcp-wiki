@@ -165,7 +165,12 @@ https://cloud.google.com/docs/security/infrastructure/design#keeping_employee_de
 
 https://cloud.google.com/beyondcorp
 
+### BeyondProd
+
+https://cloud.google.com/docs/security/beyondprod
+
 ### Reducing insider risk
+
 https://cloud.google.com/docs/security/infrastructure/design#reducing_insider_risk
 
 ### Threat monitoring
