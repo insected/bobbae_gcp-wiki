@@ -77,7 +77,9 @@ Dataproc integrates with Apache Hadoop and the Hadoop Distributed File System (H
 
 https://medium.com/google-cloud/creating-a-dataproc-cluster-considerations-gotchas-resources-930294ddb7f3
 
+## Dataproc and Spark on Kubernetes
 
+https://cloud.google.com/blog/products/infrastructure-modernization/running-spark-on-kubernetes-with-dataproc?
 
 ## Tutorials
 
