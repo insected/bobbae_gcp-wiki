@@ -8,6 +8,10 @@ https://cloud.google.com/functions/docs/quickstart
 
 https://towardsdatascience.com/understand-and-compare-cloud-functions-vs-cloud-run-5afc2beb2fb
 
+### Cloud Functions second generation
+
+https://cloud.google.com/blog/products/serverless/introducing-the-next-generation-of-cloud-functions
+
 ### Execution environment
 
 https://cloud.google.com/functions/docs/concepts/exec
