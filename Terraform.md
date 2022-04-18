@@ -308,6 +308,8 @@ https://cdk.dev/
 
 https://github.com/hashicorp/terraform-cdk
 
+https://learn.hashicorp.com/tutorials/terraform/cdktf
+
 https://dev.to/michael_lin/deploy-infrastructure-using-cdk-for-terraform-with-go-28ne
 
 ### Troposphere
