@@ -86,3 +86,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/using-firestore-an
 ### rowy
 
 https://www.rowy.io/
+
+### Realtime Vehicle Location Dashboard with Cloud Run and Firestore
+
+https://medium.com/google-cloud/building-a-mobility-dashboard-with-cloud-run-and-firestore-dfa48d193ae1
