@@ -694,6 +694,9 @@ https://www.zdnet.com/article/remote-access-trojans-spread-through-microsoft-azu
 
 ##  Web Attacks, CORS, CSRF, XSS, etc.
 
+https://cloud.google.com/blog/topics/developers-practitioners/follow-pink-pony-story-csrf-managed-services-and-unicorns
+
+
 https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
 
 https://medium.com/@zhaojunemail/sop-cors-csrf-and-xss-simply-explained-with-examples-af6119156726
