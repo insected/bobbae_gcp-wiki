@@ -83,14 +83,13 @@ https://cloud.google.com/blog/products/infrastructure-modernization/running-spar
 
 ## Examples
 
+### Use the BigQuery connector with Dataproc Serverless for Spark 
+
+https://cloud.google.com/dataproc-serverless/docs/guides/bigquery-connector-spark-example
+
 ### Dataproc serverless Spark for Delta Lake by Databricks
 
 https://medium.com/google-cloud/processing-databricks-delta-lake-data-in-google-cloud-dataproc-serverless-for-spark-1cc1405a3ee4
-
-
-### Dataproc Serverless & Airflow 2 Powered Event Driven Pipelines
-
-https://medium.com/cts-technologies/dataproc-serverless-airflow-2-powered-event-driven-pipelines-badb572532f3
 
 ## Tutorials
 
