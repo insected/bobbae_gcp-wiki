@@ -314,6 +314,11 @@ https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
 
+
+### Bigtable used in Adtech 
+
+https://cloud.google.com/blog/products/databases/moloco-uses-cloud-bigtable-to-build-their-ad-tech-platform?
+
 ### Node.js example using CBT 
 
 https://levelup.gitconnected.com/cloud-bigtable-understanding-bigtables-nosql-3-dimensional-storage-model-using-the-node-js-client-237946b9c3c9
