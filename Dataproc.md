@@ -87,6 +87,11 @@ https://cloud.google.com/blog/products/infrastructure-modernization/running-spar
 
 https://medium.com/google-cloud/processing-databricks-delta-lake-data-in-google-cloud-dataproc-serverless-for-spark-1cc1405a3ee4
 
+
+### Dataproc Serverless & Airflow 2 Powered Event Driven Pipelines
+
+https://medium.com/cts-technologies/dataproc-serverless-airflow-2-powered-event-driven-pipelines-badb572532f3
+
 ## Tutorials
 
 
