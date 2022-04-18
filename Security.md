@@ -17,6 +17,10 @@ https://www.oreilly.com/library/view/building-secure-and/9781492083115/
 
 https://cloud.google.com/blog/products/identity-security/announcing-mute-findings-capability-security-command-center
 
+### Cloud and Security
+
+https://cloud.google.com/blog/topics/public-sector/how-public-cloud-reduces-risk-and-keeps-data-more-secure
+
 ## GCP Infrastructure Security
 
 https://cloud.google.com/security/infrastructure/design
