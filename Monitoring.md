@@ -92,3 +92,7 @@ https://cloud.google.com/blog/products/operations/pub-sub-webook-and-slack-notif
 ### Deliver exception messages through Slack and Webhooks
 
 https://cloud.google.com/blog/products/devops-sre/use-slack-and-webhooks-for-notifications
+
+### GCP Monitoring Operations Suite Alerts into Google Chat using Pubsub and Cloud Function
+
+https://medium.com/cts-technologies/gcp-operations-suite-alerts-into-google-chat-1a3c39f84187
