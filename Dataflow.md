@@ -184,6 +184,11 @@ https://medium.com/@inigosj/how-to-properly-play-wordle-using-dataflow-and-bigqu
 
 https://medium.com/@mazlum.tosun/error-handling-with-apache-beam-asgarde-with-kotlin-8b742fca120e
 
+### Splunk
+
+https://cloud.google.com/architecture/deploying-production-ready-log-exports-to-splunk-using-dataflow
+
+
 ## Stopping
 
 You cannot delete a Dataflow job; you can only stop it.
