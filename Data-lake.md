@@ -16,7 +16,7 @@ Extend BigQuery to multi-cloud data lakes and open formats such as Parquet and O
 
 https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake
 
-
+https://medium.com/google-cloud/gcp-biglake-introduction-570fb88be132
 
 ## Data Mining
 
