@@ -40,6 +40,11 @@ https://www.collibra.com/blog/data-governance-for-data-privacy
 
 https://nileshk611.medium.com/dlp-data-loss-prevention-simplified-3473de96e1cb
 
+### Automatic DLP for BigQuery
+
+https://cloud.google.com/blog/products/identity-security/google-launches-automatic-dlp-for-bigquery
+
+
 ## Trusted Cloud Principles
 
 https://trustedcloudprinciples.com/
