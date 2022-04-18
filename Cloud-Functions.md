@@ -10,6 +10,8 @@ https://towardsdatascience.com/understand-and-compare-cloud-functions-vs-cloud-r
 
 ### Cloud Functions second generation
 
+https://cloud.google.com/functions/docs/2nd-gen/getting-started
+
 https://cloud.google.com/blog/products/serverless/introducing-the-next-generation-of-cloud-functions
 
 ### Execution environment
