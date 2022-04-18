@@ -18,6 +18,9 @@ https://cloud.google.com/blog/products/databases/migrate-oracle-to-postgresql
 
 https://cloud.google.com/blog/products/databases/migrate-your-databases-to-google-cloud-with-the-new-database-migration-program
 
+### In-pace updates 
+
+https://cloud.google.com/blog/products/databases/cloud-sql-launches-support-for-in-place-upgrades
 
 ### High Availability
 
