@@ -32,6 +32,8 @@ https://cloud.google.com/docs/security/key-management-deep-dive
 
 https://cloud.google.com/docs/security/encryption-in-transit/application-layer-transport-security
 
+https://grpc.io/docs/languages/go/alts/
+
 ## Cloud EKM
 
 [Key Access Justifications](https://cloud.google.com/blog/products/identity-security/control-access-to-gcp-data-with-key-access-justifications) works with [Cloud EKM](https://cloud.google.com/kms/docs/ekm) to greatly advance the control you have over your data. 
