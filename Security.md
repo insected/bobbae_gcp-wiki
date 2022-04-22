@@ -723,6 +723,12 @@ https://threatpost.com/researchers-break-ipsec-vpn-connections-with-20-year-old-
 
 https://cyberlaw.ccdcoe.org/wiki/The_Shadow_Brokers_publishing_the_NSA_vulnerabilities_(2016)
 
+
+
+### IOT
+
+https://www.bankinfosecurity.com/blogs/attackers-iot-paradise-billions-insecure-devices-p-2922
+
 ##  Web Attacks, CORS, CSRF, XSS, etc.
 
 https://cloud.google.com/blog/topics/developers-practitioners/follow-pink-pony-story-csrf-managed-services-and-unicorns
