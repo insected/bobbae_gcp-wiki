@@ -729,6 +729,14 @@ https://cyberlaw.ccdcoe.org/wiki/The_Shadow_Brokers_publishing_the_NSA_vulnerabi
 
 https://www.bankinfosecurity.com/blogs/attackers-iot-paradise-billions-insecure-devices-p-2922
 
+
+https://internetofbusiness.com/why-you-should-worry-about-unsecured-cameras/
+
+
+https://www.soracom.io/blog/unsecured-devices-highlight-the-need-for-advanced-iot-security/
+
+
+
 ##  Web Attacks, CORS, CSRF, XSS, etc.
 
 https://cloud.google.com/blog/topics/developers-practitioners/follow-pink-pony-story-csrf-managed-services-and-unicorns
