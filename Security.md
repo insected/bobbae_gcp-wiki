@@ -707,7 +707,21 @@ https://www.reuters.com/technology/germany-issues-hacking-warning-users-russian-
 
 ### Active Directory
 
-https://adsecurity.org/?cat=1039
+https://adsecurity.org
+
+
+### VPN
+
+https://www.wired.com/story/vpn-hacks-pulse-secure-espionage/
+
+### IPSec
+
+https://threatpost.com/researchers-break-ipsec-vpn-connections-with-20-year-old-protocol-flaw/135070/
+
+
+### NSA
+
+https://cyberlaw.ccdcoe.org/wiki/The_Shadow_Brokers_publishing_the_NSA_vulnerabilities_(2016)
 
 ##  Web Attacks, CORS, CSRF, XSS, etc.
 
