@@ -697,6 +697,18 @@ https://snyk.io/vuln/npm:npm
 https://www.zdnet.com/article/remote-access-trojans-spread-through-microsoft-azure-aws-cloud-service-abuse/
 
 
+### Solarwinds, Microsoft, FireEye, Crowdstrike
+
+https://www.reuters.com/article/us-cyber-solarwinds/solarwinds-microsoft-fireeye-crowdstrike-defend-actions-in-major-hack-u-s-senate-hearing-idUSKBN2AN1Q4
+
+
+### Kaspersky
+https://www.reuters.com/technology/germany-issues-hacking-warning-users-russian-anti-virus-software-kaspersky-2022-03-15/
+
+### Active Directory
+
+https://adsecurity.org/?cat=1039
+
 ##  Web Attacks, CORS, CSRF, XSS, etc.
 
 https://cloud.google.com/blog/topics/developers-practitioners/follow-pink-pony-story-csrf-managed-services-and-unicorns
