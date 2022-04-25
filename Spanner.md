@@ -331,6 +331,13 @@ https://cloud.google.com/blog/products/databases/spanner-committed-use-discounts
 
 https://cloud.google.com/blog/products/databases/spanner-has-doubled-the-storage-per-node-to-4tb-from-2tb
 
+### Vaccination app delivery
+
+https://cloud.google.com/blog/products/databases/ochk-used-cloud-spanner-to-build-covid-19-vaccine-app
+
+### Developing global multiplayer games using Cloud Spanner
+
+https://services.google.com/fh/files/misc/develop_global_multiplayer_games_using_cloud_spanner.pdf
 
 
 ## Qwiklabs
