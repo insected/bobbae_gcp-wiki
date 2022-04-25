@@ -14,6 +14,8 @@ https://cloud.google.com/functions/docs/2nd-gen/getting-started
 
 https://cloud.google.com/blog/products/serverless/introducing-the-next-generation-of-cloud-functions
 
+https://medium.com/geekculture/2nd-generation-google-cloud-function-a069a131e313
+
 ### Execution environment
 
 https://cloud.google.com/functions/docs/concepts/exec
