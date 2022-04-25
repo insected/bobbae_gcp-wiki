@@ -147,6 +147,12 @@ The [Translation API](  https://cloud.google.com/translate ) covers a huge numbe
 [https://www.youtube.com/watch?v=YapTts_An9A](https://www.youtube.com/watch?v=YapTts_An9A)
 
 
+### Speech AI
+
+https://cloud.google.com/blog/products/ai-machine-learning/your-ultimate-guide-to-speech-on-google-cloud
+
+https://cloud.google.com/blog/products/ai-machine-learning/learn-how-google-cloud-customers-use-speech-ai-in-innovative-ways
+
 ### Text-to-Speech
 
 [Text-to-Speech](  https://cloud.google.com/text-to-speech/docs  ) converts text or Speech Synthesis Markup Language (SSML) input into audio data of natural human speech.
@@ -164,7 +170,7 @@ The [Translation API](  https://cloud.google.com/translate ) covers a huge numbe
 
 [https://cloud.google.com/speech-to-text/docs](https://cloud.google.com/speech-to-text/docs)
 
-https://cloud.google.com/blog/products/ai-machine-learning/your-ultimate-guide-to-speech-on-google-cloud
+
 
 #### Convert speech to text using Node.js
 
