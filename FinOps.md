@@ -4,6 +4,7 @@ https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-sca
 FinOps is a cultural practice. It’s the way for teams to manage their [cloud costs](https://www.hashicorp.com/blog/cloud-budgets-busted-almost-40-overspent-last-year), where everyone takes ownership of their cloud usage supported by a central best-practices group. Cross-functional teams in IT, Finance, Product, etc work together to enable faster product delivery, while at the same time gaining more financial control and predictability.
 
 
+https://medium.com/@bernadethl/maximize-your-cloud-investment-with-finops-on-google-cloud-1545c98a326a
 
 ## FinOps Data
 
