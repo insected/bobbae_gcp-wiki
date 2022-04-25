@@ -44,6 +44,8 @@ https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-google
 
 https://cloud.google.com/vertex-ai/docs/explainable-ai
 
+https://medium.com/google-cloud/explainable-ai-with-google-cloud-vertex-ai-3b5cef44cbae
+
 ## Model quality monitoring
 
 https://cloud.google.com/vertex-ai/docs/model-monitoring
@@ -88,8 +90,13 @@ https://cloud.google.com/vertex-ai/docs/featurestore
 
 https://towardsdatascience.com/do-you-really-need-a-feature-store-e59e3cc666d3
 
+## Vertex AI Matching Engine
 
-## Perform vector similarity searches using Vertex AI Matching Engine
+https://cloud.google.com/vertex-ai/docs/matching-engine/overview
+
+https://medium.com/google-cloud/all-you-need-to-know-about-google-vertex-ai-matching-engine-3344e85ad565
+
+### Perform vector similarity searches using Vertex AI Matching Engine
 
 https://cloud.google.com/vertex-ai/docs/matching-engine
 
