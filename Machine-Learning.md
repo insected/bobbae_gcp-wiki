@@ -170,6 +170,12 @@ https://cloud.google.com/blog/products/ai-machine-learning/your-ultimate-guide-t
 
 [https://www.youtube.com/watch?v=naZ8oEKuR44](https://www.youtube.com/watch?v=naZ8oEKuR44)
 
+#### Cloud speech API Codelabs
+
+https://cloud.google.com/blog/products/ai-machine-learning/top-google-cloud-speech-api-codelabs
+
+
+
 ## Difference between AutoML and Cloud Natural language API
 
 Google [AutoML Natural Language](https://cloud.google.com/natural-language/automl/docs) is much more powerful than the [Natural Language API](https://cloud.google.com/natural-language) because it allows the user to train models that are customized for their specific dataset and domain.
