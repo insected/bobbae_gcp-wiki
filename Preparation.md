@@ -89,6 +89,8 @@ know that you have the [necessary amount of GCP knowledge](https://www.examtopic
 
 https://cloud.google.com/blog/topics/training-certifications/preparing-for-the-associate-cloud-engineer-certification
 
+https://cloud.google.com/blog/topics/training-certifications/trainings-to-earn-cloud-professional-developer-certification
+
 https://medium.com/javarevisited/10-best-google-cloud-certifications-to-aim-1ade11d9f01b
 
 https://github.com/ddneves/awesome-gcp-certifications
