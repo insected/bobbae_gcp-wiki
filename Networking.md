@@ -36,6 +36,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fib
 
 https://youtu.be/KayF1osXrOk
 
+
+https://cloud.google.com/blog/products/infrastructure/google-network-infrastructure-investments
+
+
 ## GCP Network Options
 
 
