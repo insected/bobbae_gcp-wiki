@@ -28,6 +28,8 @@ https://fluxcd.io/
 
 https://github.com/fluxcd/flux2
 
+https://felipelujan.medium.com/gitops-setup-in-google-kubernetes-engine-using-flux-cd-1e26b0ef1fc7
+
 ## Podinfo
 
 https://github.com/stefanprodan/podinfo
