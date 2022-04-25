@@ -52,6 +52,10 @@ https://cloud.google.com/blog/products/operations/dashboards-cloud-monitoring-ma
 
 https://www.containiq.com/post/gke-monitoring
 
+### Network performance monitoring
+
+https://medium.com/google-cloud/network-performance-diagnostics-with-gcp-performance-dashboard-52d93bc85a02
+
 ### Monarch
 
 https://research.google/pubs/pub50652/
