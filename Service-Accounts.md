@@ -159,3 +159,11 @@ https://fabianlee.org/2021/01/30/gcp-using-gcloud-to-create-and-configure-a-serv
 ### Self made service account key
 
 https://medium.com/@alexnikdanilin/how-to-use-self-made-service-account-key-with-expiration-date-on-google-cloud-platform-bf5a33c2685a
+
+### Set up a Google Cloud service account for Data Studio
+
+https://support.google.com/datastudio/answer/10835295
+
+
+
+
