@@ -78,6 +78,10 @@ Apigee hybrid is a platform for developing and managing API proxies that feature
 
 https://cloud.google.com/apigee/integration
 
+### Sharing data securely with MongoDB and Apigee
+
+https://cloud.google.com/blog/products/databases/extend-your-data-to-new-uses-with-mongodb-and-apigee
+
 
 
 ### Grpc, REST and OpenAPI
