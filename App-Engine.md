@@ -100,6 +100,8 @@ https://medium.com/@at_ishikawa/comparisons-for-elastic-beanstalk-app-engine-and
 
 https://cloud.google.com/appengine/docs/standard/python/samples
 
+https://github.com/GoogleCloudPlatform/golang-samples/tree/main/appengine_flexible
+
 ### First steps
 
 https://medium.com/@david.alvares.62/your-first-steps-with-app-engine-63c7eefbe609
@@ -111,6 +113,14 @@ https://medium.com/@christcallista16/getting-started-with-gcp-building-a-registr
 ## Tutorials
 
 https://cloud.google.com/appengine/docs/standard/python/tutorials
+
+
+https://cloud.google.com/go/getting-started
+
+https://cloud.google.com/go/getting-started/authenticate-users-with-iap
+
+https://www.qwiklabs.com/focuses/2754?parent=catalog
+
 
 ## Qwiklabs
 
