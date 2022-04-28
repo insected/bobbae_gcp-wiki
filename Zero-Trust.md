@@ -16,6 +16,8 @@ https://www.beyondcorp.com/
 
 https://cloud.google.com/beyondcorp
 
+https://cloud.google.com/beyondcorp-enterprise/docs/how-to
+
 ## BeyondCorp Enterprise 
 
 https://cloud.google.com/beyondcorp-enterprise
