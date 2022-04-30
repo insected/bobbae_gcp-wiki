@@ -1,9 +1,5 @@
 [IAP](https://cloud.google.com/iap/) lets you establish a central authorization layer for applications accessed by HTTPS, so you can use an application-level access control model instead of relying on network-level firewalls.
 
-
-
-
-
 ### Concepts
 
 https://cloud.google.com/iap/docs/concepts-overview
