@@ -41,6 +41,10 @@ https://cloud.google.com/sql/docs/mysql/add-manage-iam-users
 
 https://cloud.google.com/sql/docs/mysql/authentication
 
+### Cloud SQL Auth proxy
+
+https://cloud.google.com/sql/docs/mysql/sql-proxy
+
 ### Best Practices
 
 https://cloud.google.com/sql/docs/mysql/best-practices
