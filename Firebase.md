@@ -117,6 +117,10 @@ https://firebase.googleblog.com/2021/09/analytics-labels-app-messaging-campaigns
 
 https://firebase.googleblog.com/2021/10/push-notification-delivery-insights.html
 
+### Firebase remote config
+https://firebase.google.com/docs/remote-config
+
+
 ### Firefoo
 
 https://firefoo.app/
@@ -212,7 +216,9 @@ https://indepth.dev/posts/1084/building-an-api-with-firebase
 
 https://medium.com/@alexnikdanilin/how-to-use-self-made-service-account-key-with-expiration-date-on-google-cloud-platform-bf5a33c2685a
 
+### Monitoring changes in Firebase remote config using Cloud Functions
 
+https://engineering.premise.com/monitoring-changes-in-firebase-remote-config-using-kotlin-slack-and-google-cloud-functions-8d8c6f8199d7
 
 ## Qwiklabs
 
