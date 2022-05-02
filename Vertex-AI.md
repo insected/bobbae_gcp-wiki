@@ -187,6 +187,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/add-preprocessing-
 
 https://cloud.google.com/blog/products/ai-machine-learning/price-optimization-using-vertex-ai-forecast
 
+
+### Serving a Spark ML model on Vertex AI using a CI/CD Pipeline with Cloud Build and Cloud Function
+https://medium.com/google-cloud/serving-a-spark-ml-model-on-vertex-ai-using-a-ci-cd-pipeline-with-cloud-build-and-cloud-function-e659e00dc7c4
+
 ## Qwiklabs
 
 ### Qwik start
