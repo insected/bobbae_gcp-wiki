@@ -155,6 +155,7 @@ BigQuery lets you use [time travel](https://cloud.google.com/bigquery/docs/time-
 
 https://cloud.google.com/bigquery/docs/time-travel
 
+https://medium.com/codex/more-options-to-restore-your-data-in-google-bigquery-181a32f7fa76
 
 ### Optimizing query computation
 
