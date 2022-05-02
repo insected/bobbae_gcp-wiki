@@ -213,6 +213,11 @@ If you use the Cloud Logging agent to get your log entries, you can specify that
 
 https://cloud.google.com/logging/docs/structured-logging#source
 
+## Audit logs
+https://cloud.google.com/logging/docs/audit
+
+## Enable Cloud Audit logs with terraform
+https://nakamasato.medium.com/enable-gcp-audit-logs-with-terraform-c60665c088ca
 
 ## Logs based metrics
 
