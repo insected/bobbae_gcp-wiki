@@ -191,6 +191,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/price-optimization-us
 ### Serving a Spark ML model on Vertex AI using a CI/CD Pipeline with Cloud Build and Cloud Function
 https://medium.com/google-cloud/serving-a-spark-ml-model-on-vertex-ai-using-a-ci-cd-pipeline-with-cloud-build-and-cloud-function-e659e00dc7c4
 
+### Creating A Machine Learning Model For An NFT Horse Racing Game Using Vertex AI
+
+https://medium.com/@kianadata/creating-a-machine-learning-model-for-an-nft-horse-racing-game-using-vertex-ai-92b4ccf1158a
+
 ## Qwiklabs
 
 ### Qwik start
