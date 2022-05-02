@@ -6,6 +6,16 @@ https://cloud.google.com/network-connectivity/docs/vpn
 
 If you need an enterprise-grade connection to Google Cloud that has higher throughput, you can choose Dedicated [Interconnect](Interconnect) or Partner Interconnect.
 
+https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions
+
+https://cloud.google.com/architecture/patterns-for-connecting-other-csps-with-gcp
+
+Cloud VPN is easy to set up and cheaper than other interconnect options.
+
+https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview#specifications
+
+https://cloud.google.com/network-connectivity/pricing
+
 ## Cloud Interconnect
 https://cloud.google.com/network-connectivity/docs/how-to/choose-product#cloud-interconnect
 
@@ -51,6 +61,34 @@ https://cloud.google.com/network-connectivity/docs/vpn/concepts/topologies
 ## Comparison between HA VPN and Classic VPN
 
 [https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview#comparison_table](https://cloud.google.com/network-connectivity/docs/vpn/concepts/overview#comparison_table)
+
+
+## Organization policy and VPC service controls
+
+### Constraints
+https://cloud.google.com/resource-manager/docs/organization-policy/org-policy-constraints#constraints-for-specific-services
+
+### VPC service controls
+https://cloud.google.com/vpc-service-controls/docs/overview
+
+### Service perimeter
+https://cloud.google.com/vpc-service-controls/docs/overview#isolate
+
+## BYOIP - Bring your own IP
+
+https://cloud.google.com/vpc/docs/bring-your-own-ip#planning
+
+## Limiting use of external IP
+
+https://cloud.google.com/architecture/best-practices-vpc-design#limit-access
+
+https://cloud.google.com/architecture/building-internet-connectivity-for-private-vms
+
+## IP address management
+https://cloud.google.com/architecture/gke-ip-address-mgmt-strategies
+
+
+
 
 
 ## Cloud VPN Topologies
