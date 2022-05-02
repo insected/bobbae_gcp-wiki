@@ -23,6 +23,12 @@ https://cloud.google.com/blog/products/networking/dns-routing-policies-for-geo-l
 
 https://cloud.google.com/blog/products/networking/cloud-domains-is-generally-available
 
+## Zone forwarding
+https://cloud.google.com/dns/docs/zones/zones-overview#forwarding_zones
+
+## DNS Best practices
+https://cloud.google.com/dns/docs/best-practices
+
 ## Kubernetes DNS Server
 
 
