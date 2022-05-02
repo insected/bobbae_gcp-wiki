@@ -45,6 +45,10 @@ https://medium.com/google-cloud/everything-you-always-wanted-to-know-about-vpc-p
 
 [Shared VPC](https://cloud.google.com/vpc/docs/how-to#vpc-network-sharing-and-peering) allows you to export subnets from a [VPC network](https://cloud.google.com/vpc/docs/vpc) in a host project to other service projects in the same [organization](https://cloud.google.com/resource-manager/docs/creating-managing-organization). Instances in the service projects can have network connections in the shared subnets of the host project. 
 
+https://cloud.google.com/vpc/docs/shared-vpc
+
+https://cloud.google.com/vpc/docs/vpc-peering
+
 ## VPC Service Controls
 
 
@@ -64,6 +68,8 @@ https://medium.com/google-cloud/google-cloud-vpc-service-controls-lessons-learne
 ### VPC Service Controls — Secured Data Sharing
 https://medium.com/kpmg-uk-engineering/vpc-service-controls-secured-data-sharing-267502eed5fc
 
+### Auto mode vs Custom mode VPC network creation
+https://cloud.google.com/vpc/docs/vpc#subnet-ranges
 
 
 ## Private Google Access
