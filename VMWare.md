@@ -4,6 +4,8 @@ VMware's most notable products are its [hypervisors](Hypervisor). VMware became 
 
 https://www.vmware.com/products.html
 
+VMware environment is available also [directly through the Google Cloud Console](Google-VMWare-Engine).
+
 ## Type 1 Hypervisors
 
 These hypervisors run directly on the host's hardware to control the hardware and to manage guest operating systems. For this reason, they are sometimes called [bare-metal hypervisors](https://www.vmware.com/topics/glossary/content/bare-metal-hypervisor). 
