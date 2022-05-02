@@ -69,6 +69,8 @@ Most apps need to know the identity of a user. Knowing a user's identity allows 
 [https://firebase.google.com/docs/auth/](https://firebase.google.com/docs/auth/)
 
 
+https://medium.com/@sundaresan0502/differences-between-google-identity-platform-gip-and-firebase-authentication-c8123243fe7
+
 ### Cloud Functions for Firebase
 
 Cloud Functions for Firebase is a [serverless](serverless) framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. Your JavaScript or TypeScript code is stored in Google's cloud and runs in a managed environment. 
