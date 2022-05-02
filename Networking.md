@@ -39,6 +39,8 @@ https://youtu.be/KayF1osXrOk
 
 https://cloud.google.com/blog/products/infrastructure/google-network-infrastructure-investments
 
+## Network Connectivity Center
+https://cloud.google.com/network-connectivity-center
 
 ## GCP Network Options
 
