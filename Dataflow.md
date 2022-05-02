@@ -106,6 +106,7 @@ Using the Apache Beam interactive runner with JupyterLab notebooks lets you [ite
 
 The [Dataflow templates]( https://github.com/GoogleCloudPlatform/DataflowTemplates  ) are an effort to solve simple, but large, in-Cloud data tasks, including data import/export/backup/restore and bulk API operations, without a development environment. The technology under the hood which makes these operations possible is the [Google Cloud Dataflow](https://cloud.google.com/dataflow/) service combined with a set of [Apache Beam](https://beam.apache.org/) SDK templated pipelines.
 
+https://cloud.google.com/blog/products/data-analytics/dataflow-templates-gets-your-data-into-motion
 
 ### Using provided Dataflow templates
 
