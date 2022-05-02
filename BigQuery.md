@@ -863,6 +863,10 @@ https://towardsdatascience.com/plotting-bar-charts-in-bigquery-using-a-sql-user-
 
 https://blog.devgenius.io/evaluate-arithmetic-expressions-without-values-using-bigquery-a4abd99f0932
 
+### Predicting Conversion Events from Google Analytics Dataset for Google Merchandise Store in BigQuery
+
+https://towardsdatascience.com/predicting-conversion-events-from-google-analytics-dataset-for-google-merchandise-store-in-bigquery-a9cfb3b6087e
+
 ## Qwiklabs
 
 
