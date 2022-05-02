@@ -42,6 +42,41 @@ https://cloud.google.com/blog/products/infrastructure/google-network-infrastruct
 ## Network Connectivity Center
 https://cloud.google.com/network-connectivity-center
 
+### Site to cloud
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/site-to-cloud
+
+
+#### Router virtual appliance
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/partners
+#### Cloud Router
+https://cloud.google.com/network-connectivity/docs/router
+
+### Site to site
+
+
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/data-transfer
+
+#### Voice trading in the cloud
+https://cloud.google.com/blog/products/networking/modernizing-private-wires-for-voice-trading-with-the-cloud
+
+### VPC to VPC
+https://cloud.google.com/architecture/best-practices-vpc-design#connecting_multiple_networks
+
+#### VPC Peering
+https://cloud.google.com/vpc/docs/vpc-peering
+
+#### Hybrid Connectivity
+https://cloud.google.com/hybrid-connectivity
+
+#### Firewall policies
+https://cloud.google.com/vpc/docs/firewalls
+
+#### Transit VPC
+https://cloud.google.com/vpc/docs/vpc-peering#transit-network
+
+#### Firewall topology to connect VPCs together
+https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/firewall-topology
+
 ## GCP Network Options
 
 
