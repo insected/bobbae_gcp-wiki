@@ -17,6 +17,9 @@ https://cloud.google.com/identity-platform
 
 Identity Platform is a customer identity and access management (CIAM) platform that helps organizations add identity and access management functionality to their applications, protect user accounts and scale.
 
+### Firebase authentication
+https://firebase.google.com/products/auth
+
 ### IDM
 
 [IDM](IDM) is a framework of policies and technologies to ensure that the right users have the appropriate access to technology resources.
