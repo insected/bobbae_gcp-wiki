@@ -45,6 +45,12 @@ https://cloud.google.com/network-connectivity-center
 ### Site to cloud
 https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/site-to-cloud
 
+#### Automatic exchange of routes between on-premises and multiple VPCs
+
+https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-simplify-routing-between-your-vpcs-with-vpc-peering
+
+#### Transit network
+https://cloud.google.com/vpc/docs/vpc-peering#transit-network
 
 #### Router virtual appliance
 https://cloud.google.com/network-connectivity/docs/network-connectivity-center/partners
