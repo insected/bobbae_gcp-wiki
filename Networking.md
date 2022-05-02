@@ -175,7 +175,15 @@ https://www.youtube.com/watch?v=qiQR5rTSshw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 https://www.softwaretestingclass.com/what-is-difference-between-two-tier-and-three-tier-architecture/
 
+## Designing your network infrastructure
+https://cloud.google.com/architecture/framework/system-design/networking
 
+## Securing your network
+https://cloud.google.com/architecture/framework/security/network-security
+
+
+## Optimizing networking cost
+https://cloud.google.com/architecture/framework/cost-optimization/networking
 
 ## Network Connectivity Center
 https://cloud.google.com/network-connectivity-center
