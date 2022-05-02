@@ -47,6 +47,10 @@ https://wikipedia.org/wiki/Content_delivery_network
 
 https://blog.cdnsun.com/understanding-cdn-dns-routing-unicast-versus-anycast/
 
+## Media CDN
+
+https://cloud.google.com/blog/products/networking/introducing-media-cdn
+
 ## Examples
 
 ### Serving static content via Google Cloud CDN
