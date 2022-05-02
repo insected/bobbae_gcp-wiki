@@ -550,6 +550,10 @@ https://cloud.google.com/bigquery/docs/data-governance
 
 [https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data](https://cloud.google.com/blog/products/data-analytics/data-governance-new-ways-to-securely-access-and-discover-data)
 
+#### BigQuery Access Control
+
+https://medium.com/@VishalBulbule/access-control-in-bigquery-d5d800654f47
+
 #### BigQuery Access Control Examples
 
 https://cloud.google.com/bigquery/docs/access-control-examples
