@@ -62,6 +62,9 @@ https://cloud.google.com/iap/docs/using-tcp-forwarding
 
 https://medium.com/@VishalBulbule/login-to-gcp-vm-instance-without-public-ip-31cc01ee152b
 
+### Using Cloud IAP with Compute Engine
+https://engineering.premise.com/monitoring-changes-in-firebase-remote-config-using-kotlin-slack-and-google-cloud-functions-8d8c6f8199d7
+
 ### Qwiklab
 
 #### Securing Cloud Applications with Identity Aware Proxy (IAP) using Zero-Trust
