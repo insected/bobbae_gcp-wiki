@@ -408,8 +408,16 @@ http://www.goldsborough.me/distributed-systems/2019/05/18/21-09-00-a_look_at_dre
 
 ### INFORMATION_SCHEMA
 
+INFORMATION_SCHEMA is a series of views that provide access to metadata about datasets, routines, tables, views, jobs, reservations, and streaming data.
+
 https://cloud.google.com/bigquery/docs/information-schema-intro
 
+You can query the INFORMATION_SCHEMA.JOBS_TIMELINE_BY_* views to retrieve real-time BigQuery metadata by timeslice. This view contains currently running and completed jobs. Data is retained for 180 days.
+
+https://cloud.google.com/bigquery/docs/information-schema-jobs-timeline
+
+#### Monitor and analyze BigQuery performance using information schema
+https://cloud.google.com/blog/topics/developers-practitioners/monitor-analyze-bigquery-performance-using-information-schema
 
 ### Denormalize whenever possible
 
