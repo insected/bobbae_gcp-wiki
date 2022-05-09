@@ -54,3 +54,8 @@ You can learn more about [Dynamic routing with Cloud Router](https://medium.com/
 
 
 Dynamic routing does have [risks that should be considered](  https://www.wired.com/story/bgp-routing-manrs-google-fix/  ).
+
+
+## VPC and Cloud Routers
+
+https://medium.com/google-cloud/gcp-routing-adventures-vol-1-44a57806f739
