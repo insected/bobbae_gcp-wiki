@@ -366,6 +366,8 @@ https://towardsdatascience.com/bigquery-udfs-complete-guide-181cbdaea55b
 
 https://cloud.google.com/blog/topics/data-warehousing/learn-how-to-use-the-dataform-cli-tool-to-unit-test-udf
 
+### Collation
+https://medium.com/codex/using-collation-in-google-bigquery-e63d34ee4799
 
 ### Testable SQL
 
