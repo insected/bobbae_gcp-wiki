@@ -541,6 +541,11 @@ The challenge with BGP is that the protocol does not directly include security m
 
 [Kubernetes Security](Kubernetes-Security)  is important throughout the container lifecycle due to the distributed, dynamic nature of a Kubernetes cluster. Different security approaches are required for each of the three phases of an application lifecycle: build, deploy, and runtime. 
 
+
+## CIS hardening support in Container-Optimized OS from Google
+
+https://cloud.google.com/blog/products/infrastructure-modernization/cis-compliance-support-scanning-in-container-optimized-os
+
 ## IPSec
 
 https://www.juniper.net/documentation/us/en/software/junos/vpn-ipsec/topics/topic-map/security-ipsec-vpn-overview.html
