@@ -438,6 +438,11 @@ https://github.com/looker-open-source/henry
 
 https://github.com/looker-open-source/malloy
 
+
+https://looker-open-source.github.io/malloy/documentation/language/basic.html
+
+https://medium.com/@michaeltoy/designing-malloy-0-introduction-88b8809d75d0
+
 ## Comparisons
 
 ### Looker vs  Tableau
