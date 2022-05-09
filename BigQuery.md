@@ -663,6 +663,10 @@ https://cloud.google.com/blog/products/data-analytics/bq-omnis-cross-cloud-trans
 
 https://medium.com/paypal-tech/comparing-bigquery-processing-and-spark-dataproc-4c90c10e31ac
 
+### BigQuery Metadata
+
+https://betterprogramming.pub/4-ways-big-query-metadata-can-help-you-2cdf3b899fbc
+
 ### Metadata of all tables
 
 https://medium.com/@erkan.ekser/how-to-keep-metadata-of-all-tables-in-bigquery-125516742bad
