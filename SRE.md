@@ -16,3 +16,7 @@ https://github.com/GoogleCloudPlatform/cloud-ops-sandbox
 
 ### Creating SLO in sandbox
 https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f
+
+### SLO Risk analysis
+
+https://cloud.google.com/blog/products/devops-sre/how-sres-analyze-risks-to-evaluate-slos
