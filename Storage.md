@@ -279,6 +279,11 @@ https://github.com/salrashid123/gcp_rclone
 
 https://cloud.google.com/blog/products/storage-data-transfer/dr-in-google-cloud-with-vmware-engine-actifio-and-zerto
 
+
+### Secure Tertiary Data Backup (STDB)
+
+https://cloud.google.com/blog/topics/financial-services/stdb-on-google-cloud
+
 ## Folders vs. buckets and generation gap
 
 
