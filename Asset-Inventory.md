@@ -35,7 +35,11 @@ https://cloud.google.com/asset-inventory/docs/monitoring-asset-changes
 
 https://cloud.google.com/asset-inventory/docs/samples
 
-## Get alerts when a permissive firewall rule  is created 
+### Cloud Asset API
+https://medium.com/google-developer-experts/managing-your-gcp-inventory-with-cloud-asset-api-fef257d82a4d
+
+
+## Get alerts when a permissive firewall rule  is created medium.com/google-developer-experts/managing-your-gcp-inventory-with-cloud-asset-api-fef257d82a4d
 
 https://medium.com/@Sushil_Kumar/get-real-time-alerts-for-open-to-internet-firewall-rules-with-cloud-asset-inventory-2c125db2073b
 
