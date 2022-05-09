@@ -350,6 +350,10 @@ https://www.youtube.com/watch?v=2tLXKCgqwLY
 
 VM Manager supports projects in [VPC Service Controls](https://cloud.google.com/vpc-service-controls/docs/supported-products#table_vm_manager) service perimeters.
 
+
+## OS Patch Management
+https://blog.searce.com/patching-gce-vms-using-gcp-vm-manager-os-patch-management-a27eba7d356f
+
 ## GCE Networking
 
 
