@@ -44,3 +44,7 @@ https://medium.com/@bernadethl/governing-your-data-in-google-cloud-b305335069b4
 ### Data Governance tools
 
 https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools
+
+### Sovereign controls for Google Workspace
+
+https://cloud.google.com/blog/products/workspace/announcing-sovereign-controls-for-google-workspace
