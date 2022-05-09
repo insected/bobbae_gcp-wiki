@@ -511,6 +511,7 @@ https://cloud.google.com/bigquery/docs/analytics-hub-introduction
 
 https://cloud.google.com/bigquery/docs/bi-engine-intro
 
+https://cloud.google.com/blog/products/data-analytics/bigquery-bi-engine-generally-available
 
 #### Data  Studio
 
