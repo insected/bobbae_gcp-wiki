@@ -437,7 +437,9 @@ https://cloud.google.com/bigquery/docs/best-practices-performance-input#denormal
 
 [https://www.youtube.com/watch?v=STo98QUKDS8](https://www.youtube.com/watch?v=STo98QUKDS8)
 
+### SEARCH INDEX
 
+https://levelup.gitconnected.com/enhancing-bigquery-search-features-with-search-index-771c1eec186e
 
 
 ### BigQuery, Snowflake and Redshift
