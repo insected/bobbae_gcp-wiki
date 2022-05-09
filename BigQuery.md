@@ -637,6 +637,9 @@ https://cloud.google.com/bigquery/docs/looker
 
 
 
+### BigQuery Performance Optimization
+
+https://towardsdatascience.com/14-ways-to-optimize-bigquery-sql-for-ferrari-speed-at-honda-cost-632ec705979
 
 ### BigQuery GIS 
 
