@@ -65,9 +65,13 @@ https://www.integrasources.com/blog/mqtt-protocol-iot-devices/
 
 https://medium.com/@campfirecode/sqs-vs-sns-vs-kinesis-which-aws-messaging-service-to-use-1fa3aa6be97d
 
-## Mocking Events in Pub/Sub
+### Mocking Events in Pub/Sub
 
 https://medium.com/@mattbancroft03/mocking-events-in-pub-sub-triggered-cloud-functions-gcp-python-5cccc726b6ad
+
+### Secure pub sub flow with terraform
+
+https://medium.com/google-cloud/setting-up-secure-pub-sub-flow-with-go-and-terraform-6b779026a3e1
 
 ### Qwiklabs
 
