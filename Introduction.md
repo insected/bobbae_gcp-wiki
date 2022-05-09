@@ -60,7 +60,9 @@ https://www.avenga.com/magazine/top-cloud-service-providers/
 
 This [checklist](https://cloud.google.com/docs/enterprise/onboarding-checklist) helps you set up Google Cloud for scalable, production-ready enterprise workloads. 
 
+## Admin console and Cloud console
 
+https://cloud.google.com/blog/topics/developers-practitioners/googles-cloud-console-vs-admin-console
 
 ## Basic Tools
 
