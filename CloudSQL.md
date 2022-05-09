@@ -9,6 +9,10 @@ https://cloud.google.com/sql/docs/mysql
 
 https://cloud.google.com/sql/docs/postgres
 
+### SQL Server
+
+https://medium.com/google-cloud/going-cloud-with-sql-server-google-cloud-options-6cd44bb52bef
+
 ### Database Migration Service
 
 [Database Migration Service](https://cloud.google.com/database-migration
