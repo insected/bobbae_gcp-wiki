@@ -68,6 +68,9 @@ https://medium.com/cdapio/a-definitive-guide-to-wrangler-user-defined-directive-
 
 https://jtaras.medium.com/cloud-data-fusion-upload-udds-through-the-rest-api-32d015de1e22
 
+### Data Fusion  Secure Store
+
+https://jtaras.medium.com/cloud-data-fusion-adding-a-service-account-to-the-secure-store-8fb987af917a
 
 ## CCAI
 
