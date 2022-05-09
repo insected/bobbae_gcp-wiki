@@ -83,3 +83,6 @@ https://spiffe.io/docs/latest/spire-about/spire-concepts/
 
 https://medium.com/google-cloud/workload-identity-federation-for-on-premise-workloads-with-spiffe-24a861b3cf6c
 
+### Accessing Google Cloud APIs from Azure DevOps using Workload Identity Federation
+
+https://medium.com/google-cloud/accessing-google-cloud-apis-from-azure-devops-using-workload-identity-federation-6acc5ad1a071
