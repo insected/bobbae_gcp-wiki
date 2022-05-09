@@ -262,6 +262,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/replicating-cloud-
 
 https://cloud.google.com/spanner/docs/pitr
 
+###  Streaming Data from MySQL to Cloud Spanner
+
+https://blog.searce.com/patching-gce-vms-using-gcp-vm-manager-os-patch-management-a27eba7d356f
 
 ### Databases, ETL, ELT and tools.
 
