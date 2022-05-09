@@ -93,3 +93,8 @@ https://medium.com/google-cloud/pre-heating-cloud-run-apps-for-crisp-ux-d13c341e
 ### Deploy a coloring page generator with Cloud Run
 
 https://cloud.google.com/blog/topics/developers-practitioners/deploy-coloring-page-generator-minutes-cloud-run
+
+### knative minscale
+
+https://medium.com/google-cloud/pre-heating-cloud-run-apps-for-crisp-ux-d13c341e0a29
+
