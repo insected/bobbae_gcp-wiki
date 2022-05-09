@@ -384,6 +384,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/going-beyond-dashb
 
 https://cloud.google.com/blog/products/data-analytics/lookers-universal-semantic-model
 
+### Looker and Cloud composer
+
+https://cloud.google.com/blog/products/data-analytics/looker-cloud-operators-for-apache-airflow-available-in-cloud-composer
+
 
 ## Using the Looker Marketplace
 
