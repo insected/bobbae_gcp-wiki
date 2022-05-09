@@ -14,6 +14,13 @@ What is [the difference]( https://blog.panoply.io/what-is-the-difference-between
 
 What's the [difference between Data Analytics vs Data Engineering]( https://www.thinkful.com/blog/data-analyst-vs-data-engineer/)?  
 
+
+### Google Analytics 4
+
+Google Analytics 4 is an analytics service that enables you to measure traffic and engagement across your websites and apps. 
+
+https://developers.google.com/analytics/devguides/collection/ga4
+
 ### GCP Data Analyst training
 
 https://github.com/GoogleCloudPlatformTraining/training-data-analyst
@@ -186,3 +193,7 @@ https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99
 
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
+
+### Ingesting GA4 Events for Discovery solutions
+
+https://cloud.google.com/blog/topics/developers-practitioners/ingesting-ga4-events-discovery-solutions
