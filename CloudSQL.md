@@ -94,6 +94,10 @@ https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 
 https://cloud.google.com/architecture/intro-to-cloud-sql-disaster-recovery
 
+### Cloud SQL is not great
+
+https://dev.to/mark_saward/cloud-sql-is-not-great-38ae
+
 ## PostgreSQL HA
 
 https://cloud.google.com/sql/docs/postgres/high-availability
