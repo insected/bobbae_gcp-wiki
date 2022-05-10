@@ -7,11 +7,11 @@ This document is intended to be used in a [GCP](GCP-Learning) training class.
 ### Qwiklabs
 
 You can use [Qwiklabs](https://www.qwiklabs.com/) and [Codelabs](https://codelabs.developers.google.com/) for hands-on learning.  
-
+<!--
 #### Google Cloud learning path at no-cost for 30 days
 
 https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html
-
+-->
 
 #### Free tier
 
@@ -21,9 +21,6 @@ If you don’t get any free or discounted Qwiklabs credits in a few days after s
 
 https://www.youtube.com/user/yogaarsa/playlists
 
-#### Google Cloud learning path at no-cost for 30 days
-
-https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html
 
 
 #### Free tier
