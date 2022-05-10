@@ -8,10 +8,6 @@ This document is intended to be used in a [GCP](GCP-Learning) training class.
 
 You can use [Qwiklabs](https://www.qwiklabs.com/) and [Codelabs](https://codelabs.developers.google.com/) for hands-on learning.  
 
-#### Register at the Partner Advantage site
-
-If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partnerselfregistration) to [get some Qwiklabs credits](https://edu.google.com/programs/credits/training). You may [sign up](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) as a new partner or [apply for training discount](https://inthecloud.withgoogle.com/training-discount/register.html).
-
 #### Google Cloud learning path at no-cost for 30 days
 
 https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html
@@ -25,6 +21,16 @@ If you don’t get any free or discounted Qwiklabs credits in a few days after s
 
 https://www.youtube.com/user/yogaarsa/playlists
 
+#### Google Cloud learning path at no-cost for 30 days
+
+https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html
+
+
+#### Free tier
+
+If you don’t get any free or discounted Qwiklabs credits in a few days after signing up, you can still use [free tier Google cloud services](https://cloud.google.com/free).
+
+#### Videos 
 #### Google Cloud Skills Boost
 
 https://www.cloudskillsboost.google/
@@ -46,6 +52,12 @@ https://cloud.google.com/blog/topics/training-certifications/google-cloud-certif
 #### Cloud Learn
 
 https://cloud.google.com/blog/topics/training-certifications/cloud-learn-provides-no-cost-training-for-developers-and-more
+
+
+#### Register at the Partner Advantage site
+
+If you are eligible as a partner of google you can [sign up](https://www.partneradvantage.goog/GCPPRM/s/partnerselfregistration) to [get some Qwiklabs credits](https://edu.google.com/programs/credits/training). You may [sign up](https://inthecloud.withgoogle.com/partner-training/request-training-resources.html) as a new partner or [apply for training discount](https://inthecloud.withgoogle.com/training-discount/register.html).
+
 
 ### Quickstarts
 
