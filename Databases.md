@@ -167,3 +167,15 @@ https://hasura.io/docs/latest/graphql/core/deployment/deployment-guides/google-k
 ### GraphQL APIs with Apigee
 
 https://cloud.google.com/blog/products/api-management/how-to-manage-your-graphql-apis-with-apigee
+
+### MariaDB SkySQL on GCP
+
+https://mariadb.com/products/skysql/google-cloud-platform/
+
+### DataStax
+
+https://www.datastax.com/platform/google-cloud-platform
+
+#### Astra DB on GCP
+
+https://docs.datastax.com/en/astra/docs/setting-up-an-astra-database-on-gcp.html
