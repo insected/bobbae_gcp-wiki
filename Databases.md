@@ -107,6 +107,33 @@ https://www.cockroachlabs.com/docs/stable/cockroachdb-in-comparison.html
 
 https://docs.yugabyte.com/latest/comparisons/
 
+## PostgreSQL varieties
+
+
+### Aurora
+
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html
+
+### Redshift
+
+https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html
+
+### AlloyDB
+
+https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage
+
+### TimescaleDB
+
+https://www.timescale.com/
+
+### PostgresML
+
+https://postgresml.org/
+
+### Other PostgreSQL derived databases
+
+https://wiki.postgresql.org/wiki/PostgreSQL_derived_databases
+
 ## Other databases available on Google Cloud
 
 ### Databricks
