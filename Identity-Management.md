@@ -53,3 +53,11 @@ Google [administrates a vulnerability management process that actively scans](ht
 
 [https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/)
 
+
+
+## Examples
+
+
+### custom JWT roles with cloud identity 
+
+https://medium.com/google-cloud/adding-custom-roles-to-jwt-on-login-with-google-identity-platform-476cd15301d9
