@@ -9,9 +9,14 @@ https://cloud.google.com/sql/docs/mysql
 
 https://cloud.google.com/sql/docs/postgres
 
+
 ### SQL Server
 
 https://medium.com/google-cloud/going-cloud-with-sql-server-google-cloud-options-6cd44bb52bef
+
+### AlloyDB
+
+https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage
 
 ### Database Migration Service
 
