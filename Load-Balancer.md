@@ -321,3 +321,7 @@ https://cloud.google.com/load-balancing/docs/internal/setting-up-internal-zonal-
 #### Using External HTTP(s) Hybrid load balancer to reach a Network Endpoint Group
 
 https://codelabs.developers.google.com/cloudnet-l7-hybridneg#0
+
+#### Custom domain and load balancer
+
+https://towardsdatascience.com/how-to-set-up-a-custom-domain-for-different-gcp-applications-using-a-load-balancer-bbcad40fed
