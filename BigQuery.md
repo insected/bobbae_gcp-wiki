@@ -287,6 +287,9 @@ https://cloud.google.com/bigquery/docs/materialized-views-intro
 
 ### Remote Functions
 
+https://cloud.google.com/blog/products/data-analytics/extending-bigquery-functions
+
+
 https://towardsdatascience.com/remote-functions-in-bigquery-af9921498438
 
 ### Reservations
