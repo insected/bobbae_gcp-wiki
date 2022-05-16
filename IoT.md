@@ -62,6 +62,12 @@ https://azure.microsoft.com/en-us/overview/iot/
 
 https://iot-analytics.com/iot-cloud/
 
+## Examples
+
+### connecting devices to IoT core
+
+https://medium.com/rockedscience/building-smart-home-iot-devices-with-google-cloud-f482c3b46030
+
 ## Qwiklabs
 
 
