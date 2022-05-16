@@ -104,3 +104,9 @@ https://cloud.google.com/architecture/estimate-gke-costs-early-using-gitlab
 Gcloud commands to find things to delete.
 
 https://arilaverty.medium.com/quick-cloud-cost-hygiene-in-gcp-b6cce6e49929
+
+
+
+#### auditing cloud dataflow cost via bigquery 
+
+https://medium.com/google-cloud/a-guide-to-auditing-cloud-dataflow-jobs-cost-via-bigquery-billing-export-502749813b8b
