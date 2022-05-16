@@ -879,6 +879,13 @@ https://blog.devgenius.io/evaluate-arithmetic-expressions-without-values-using-b
 
 https://towardsdatascience.com/predicting-conversion-events-from-google-analytics-dataset-for-google-merchandise-store-in-bigquery-a9cfb3b6087e
 
+
+### Open source insights public data
+
+https://cloud.google.com/blog/products/identity-security/announcing-open-source-insights-data-in-bigquery
+
+
+
 ## Qwiklabs
 
 
