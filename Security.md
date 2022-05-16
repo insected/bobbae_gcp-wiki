@@ -72,11 +72,11 @@ https://developers.google.com/code-sandboxing/sandboxed-api
 
 https://gvisor.dev/
 
-### Confidential computing
+### confidential computing
 
 https://cloud.google.com/confidential-computing
 
-
+https://cloud.google.com/blog/products/identity-security/google-amd-partner-to-build-a-more-secure-future-with-confidential-computing
 
 ### Secure Data storage
 
@@ -318,7 +318,7 @@ A role contains a set of permissions that allows you to perform specific actions
 ## Cloud Identity API
 
 [Cloud Identity](https://cloud.google.com/identity/docs) API is an API for provisioning and managing identity resources.
-It helps you achieve [confidentiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
+It helps you achieve [entiality, data integrity, availability, non-repudiation and authentication of your data.](https://cloud.google.com/blog/products/identity-security)
 
 Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manages users and groups. You can configure Cloud Identity to federate identities between Google and other identity providers, such as [Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-active-directory-introduction) and [Azure Active Directory](https://cloud.google.com/architecture/identity/federating-gcp-with-azure-active-directory).
 
@@ -616,11 +616,11 @@ Monitor security threats in IAM and Firewall via Cloud Functions.
 https://blog.searce.com/examine-google-cloud-platform-security-vulnerabilities-using-cloud-functions-40f1d96d69a4
 
 
-## Confidential Computing
+## ential Computing
 
-Encrypt data in-use with Confidential VMs and Confidential GKE Nodes.
+Encrypt data in-use with ential VMs and ential GKE Nodes.
 
-https://cloud.google.com/confidential-computing
+https://cloud.google.com/ential-computing
 
 
 
