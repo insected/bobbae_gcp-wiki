@@ -180,3 +180,9 @@ https://towardsdev.com/how-to-find-duplicate-objects-in-our-google-cloud-storage
 
 ### Replication using Cloud Functions
 https://medium.com/@Dean_Pratt/secret-sauce-google-cloud-functions-for-autonomous-global-storage-synchronization-60d5134ff6c2
+
+
+### upload files to GCS using browser JavaScript 
+
+https://dev.to/akirakashihara/how-to-upload-files-to-google-cloud-storage-using-javascript-on-only-the-browser-11ei
+
