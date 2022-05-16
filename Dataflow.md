@@ -189,6 +189,7 @@ https://medium.com/@mazlum.tosun/error-handling-with-apache-beam-asgarde-with-ko
 
 https://cloud.google.com/architecture/deploying-production-ready-log-exports-to-splunk-using-dataflow
 
+https://cloud.google.com/blog/products/data-analytics/simplify-your-splunk-dataflow-ops-with-improved-pipeline-observability
 
 ## Stopping
 
