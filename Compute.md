@@ -47,6 +47,10 @@ A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a se
 #### TPU
 https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available
 
+#### Cloud TPU v4 pods
+
+https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster
+
 ## From Data Center Professional Point of view
 
 [Data centers use server virtualization](  https://cloud.google.com/docs/compare/data-centers/compute ), in which multiple virtual Unix/Linux or Windows servers can be run on a single physical machine. These [virtual machines](VM) are created, provisioned, and managed through a software suite such as VMware [vSphere](https://www.vmware.com/products/vsphere-hypervisor.html) or [XenCenter](https://docs.citrix.com/en-us/xencenter.html).
