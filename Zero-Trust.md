@@ -1,5 +1,8 @@
 https://en.m.wikipedia.org/wiki/Zero_trust_security_model
 
+
+https://cloud.google.com/blog/products/identity-security/how-google-cloud-helps-governments-and-organizations-adopt-zero-trust
+
 ## NIST SP 800-207 
 
 
