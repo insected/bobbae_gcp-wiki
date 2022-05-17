@@ -616,11 +616,11 @@ Monitor security threats in IAM and Firewall via Cloud Functions.
 https://blog.searce.com/examine-google-cloud-platform-security-vulnerabilities-using-cloud-functions-40f1d96d69a4
 
 
-## ential Computing
+## confidential Computing
 
-Encrypt data in-use with ential VMs and ential GKE Nodes.
+Encrypt data in-use with confidential VMs and ential GKE Nodes.
 
-https://cloud.google.com/ential-computing
+https://cloud.google.com/confidential-computing
 
 
 
@@ -728,11 +728,14 @@ https://www.wired.com/story/vpn-hacks-pulse-secure-espionage/
 https://threatpost.com/researchers-break-ipsec-vpn-connections-with-20-year-old-protocol-flaw/135070/
 
 
-### NSA
+### NSA Shadow brokers
 
 https://cyberlaw.ccdcoe.org/wiki/The_Shadow_Brokers_publishing_the_NSA_vulnerabilities_(2016)
 
 
+### Wanna cry
+
+https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
 
 ### IOT
 
