@@ -943,6 +943,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/mapping-carbon-pol
 - https://d2l.ai/
 - https://www.coursera.org/learn/machine-learning
 - https://www.javatpoint.com/machine-learning
+- self driving car tutorial https://youtu.be/Rs_rAxEsAvI
 
 ## Links
 
