@@ -80,6 +80,21 @@
 |    3    |Looker BI Level 1    |
 |    4    |Looker BI Level 2    |
 |    5   | Looker BI Level 3 |
-|    6    | Case Studies and Delivery Shadowing     |
+|    6    | Looker Case Studies and Delivery Shadowing     |
+|    7   |Group Project   |
+|    8   |Reviews    | 
+
+
+
+## Schedule 7
+
+|   Week  |  Topics        |
+|-----------|-----------------------------------|
+|   1  | [Introduction to GCP](Introduction) |
+|    2   |[App Engine](App-Engine) | 
+|    3    |[Cloud Run](Cloud-Run)   |
+|    4    |[Kubernetes](Kubernetes)    |
+|    5   | [BigQuery](BigQuery) |
+|    6    | [Go programming](Go-programming)    |
 |    7   |Group Project   |
 |    8   |Reviews    | 
