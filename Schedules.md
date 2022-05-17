@@ -93,8 +93,8 @@
 |   1  | [Introduction to GCP](Introduction) |
 |    2   |[App Engine](App-Engine) | 
 |    3    |[Cloud Run](Cloud-Run)   |
-|    4    |[Kubernetes](Kubernetes)    |
-|    5   | [BigQuery](BigQuery) |
-|    6    | [Go programming](Go-programming)    |
+|    4   | [Terraform](Terraform)  |
+|    5    |[Kubernetes](Kubernetes)    |
+|    6   | [BigQuery](BigQuery) |
 |    7   |Group Project   |
 |    8   |Reviews    | 
