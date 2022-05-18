@@ -95,6 +95,11 @@ https://devlibrary.withgoogle.com/products/cloud
 
 https://googlecloudcheatsheet.withgoogle.com/architecture
 
+
+### infrastructure as code
+
+Tools such as [terraform](terraform) and [cloud formation](https://aws.amazon.com/cloudformation/) can codify infrastructures. 
+
 ## Tutorials
 
 A list of short tutorials on [getting started](https://cloud.google.com/gcp/getting-started) with [GCP](  https://cloud.google.com/docs/tutorials ).
