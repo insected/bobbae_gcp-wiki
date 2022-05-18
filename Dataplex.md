@@ -16,7 +16,16 @@ https://services.google.com/fh/files/misc/build-a-modern-distributed-datamesh-wi
 
 ### Data Mesh Quickstart
 https://cloud.google.com/dataplex/docs/build-a-data-mesh
-## Build a data mesh on Google Cloud with Dataplex
+
+
+### Build a data mesh on Google Cloud with Dataplex
+
 
 https://cloud.google.com/blog/products/data-analytics/build-a-data-mesh-on-google-cloud-with-dataplex-now-generally-available
+
+
+
+### data mesh patterns for cloud migration 
+
+https://towardsdatascience.com/data-mesh-cloud-migration-pattern-fcff598695e4
 
