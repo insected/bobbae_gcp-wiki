@@ -122,7 +122,12 @@ https://john-tucker.medium.com/google-cloud-platform-and-api-call-attribution-b0
 
 https://cloud.google.com/blog/topics/developers-practitioners/automate-your-budgeting-billing-budgets-api
 
+## Examples 
 
+
+### bigquery billing export audits
+
+https://medium.com/google-cloud/a-guide-to-auditing-cloud-dataflow-jobs-cost-via-bigquery-billing-export-502749813b8b
 
 ## Qwiklabs
 
