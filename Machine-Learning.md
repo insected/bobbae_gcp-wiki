@@ -450,7 +450,9 @@ https://www.youtube.com/watch?v=nk2CQITm_eo
 
 ### Polynomial regression
 
-[Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression) is very similar to linear regression, with a slight deviation in how we treat our feature-space.
+[Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression) is very similar to linear regression, with a slight deviation in treatment of the [feature-space](https://www.commonlounge.com/discussion/83e4139d93e841c88ed8edc4874d6710).
+
+https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d3296f2
 
 ### Logistic Regression
 
@@ -462,6 +464,10 @@ https://www.youtube.com/watch?v=yIYKR4sgzI8
 ### Decision Trees
 
 [Decision trees](https://en.wikipedia.org/wiki/Decision_tree) are one of the oldest and most widely-used machine learning models, due to the fact that they work well with noisy or missing data, can easily be formed as more robust predictors, and are incredibly fast at runtime. 
+
+[Decision trees](https://en.m.wikipedia.org/wiki/Decision_tree_learning) are desirable in that they scale well to larger datasets, they are robust against irrelevant features, and it is very easy to visualize the rationalization between a decision tree's predictions. 
+
+
 
 ### SVM
 
@@ -476,9 +482,7 @@ https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
 SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n3) to input depending on your implementation. 
 
 
-### Decision Trees
 
-[Decision trees](https://en.m.wikipedia.org/wiki/Decision_tree_learning) are desirable in that they scale well to larger datasets, they are robust against irrelevant features, and it is very easy to visualize the rationalization between a decision tree's predictions. 
 
 ### Random forests
 
