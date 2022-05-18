@@ -58,3 +58,7 @@ Helm Chart & Documentation for [deploying  JupyterHub on Kubernetes](https://git
 
 https://cloud.google.com/blog/products/ai-machine-learning/schedule-and-execute-notebooks-with-vertex-ai-workbench
 
+### text entity extraction from pdf using vision api and vertex ai
+
+
+https://medium.com/@mohammad.ansari.ca/accelerate-your-machine-learning-journey-by-preprocessing-your-vertex-ai-datasets-with-vision-apis-26536daa8e0a
