@@ -888,6 +888,9 @@ https://towardsdatascience.com/predicting-conversion-events-from-google-analytic
 https://cloud.google.com/blog/products/identity-security/announcing-open-source-insights-data-in-bigquery
 
 
+### transferring Google analytics data to bigquery 
+
+https://medium.com/google-cloud/google-analytics-data-transfer-to-bigquery-fad388ae646a
 
 ## Qwiklabs
 
