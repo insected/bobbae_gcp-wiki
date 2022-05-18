@@ -30,11 +30,6 @@ https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learn
 
 [https://github.com/apache/spark](https://github.com/apache/spark)
 
-
-## Spark examples source code
-
-[https://github.com/apache/spark/tree/master/examples/src/main](https://github.com/apache/spark/tree/master/examples/src/main)
-
 ## Apache Beam vs Spark
 
 https://blog.allegro.tech/2021/06/1-task-2-solutions-spark-or-beam.html
@@ -51,3 +46,14 @@ https://ahana.io/learn/comparisons/spark-sql-vs-presto/
 ## Apache Hudi vs Apache Kudu
 
 https://hudi.apache.org/docs/comparison/
+
+
+## Examples
+
+### Spark examples source code
+
+[https://github.com/apache/spark/tree/master/examples/src/main](https://github.com/apache/spark/tree/master/examples/src/main)
+
+### User churn prediction 
+
+https://medium.com/@frederik-schmidt/churn-prediction-with-pyspark-and-google-cloud-dataproc-ba9bca6981d4
