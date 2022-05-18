@@ -402,6 +402,13 @@ https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference
 
 https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
+
+
+### evaluation of automl models
+
+
+https://cloud.google.com/vertex-ai/docs/training/evaluating-automl-models
+
 ### 7 tips for ML training
 
 https://cloud.google.com/blog/products/ai-machine-learning/7-tips-for-trouble-free-ml-model-training
