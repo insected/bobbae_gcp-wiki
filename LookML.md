@@ -61,6 +61,12 @@ https://docs.getdbt.com/tutorial/setting-up
 [https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/](https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/)
 
 
+### Examples
+
+#### KPI control chart
+
+https://medium.com/data-cookbook/looker-and-bigquery-ml-create-control-charts-for-your-kpis-3d9ad6ee99f7
+
 ### Qwiklabs
 
 
