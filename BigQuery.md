@@ -377,6 +377,22 @@ https://medium.com/codex/using-collation-in-google-bigquery-e63d34ee4799
 https://tufin.medium.com/testable-bigquery-sql-61a911e35ab5
 
 
+### transaction and session 
+
+
+#### multi statement transactions 
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/transactions
+
+#### writing queries in sessions 
+
+https://cloud.google.com/bigquery/docs/sessions-write-queries
+
+#### transactions with multiple queries with sessions 
+
+https://dev.to/stack-labs/bigquery-transactions-over-multiple-queries-with-sessions-2ll5
+
+
 ### MERGE
 
 https://medium.com/plumbersofdatascience/incremental-data-ingestion-in-bigquery-using-merge-1387e49c7eb5
