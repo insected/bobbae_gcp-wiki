@@ -91,6 +91,10 @@ https://linuxcommand.org/
 https://devlibrary.withgoogle.com/products/cloud
 
 
+### Google cloud architecture diagramming tool
+
+https://googlecloudcheatsheet.withgoogle.com/architecture
+
 ## Tutorials
 
 A list of short tutorials on [getting started](https://cloud.google.com/gcp/getting-started) with [GCP](  https://cloud.google.com/docs/tutorials ).
