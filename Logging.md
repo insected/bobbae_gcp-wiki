@@ -300,6 +300,9 @@ https://cloud.google.com/logging/docs/quickstart-python
 
 https://cloud.google.com/blog/products/sap-google-cloud/pacemaker-alerts-in-google-cloud
 
+### Log-based metrics parsing using terraform 
+
+https://betterprogramming.pub/create-log-based-metrics-in-google-cloud-and-gain-valuable-insights-61f09a58e277
 
 ## Code Samples
 
