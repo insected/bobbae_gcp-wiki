@@ -87,6 +87,9 @@ https://blog.leandrotoledo.org/deploying-google-cloud-functions-using-github-act
 
 https://gtseres.medium.com/how-to-expose-more-than-5-ports-for-a-loadbalancer-kservice-in-gcp-ee2a08c54e85
 
+### GKE workload right sizing
+
+https://cloud.google.com/blog/products/containers-kubernetes/workload-rightsizing-now-available-for-gke
 
 ### GKE HA and Stateful Application, PVC
 
