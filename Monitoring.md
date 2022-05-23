@@ -25,6 +25,11 @@ https://cloud.google.com/monitoring/api/metrics_gcp
 
 [Cloud Logging](Logging) is a fully managed service that allows you to store, search, analyze, monitor, and alert on logging data and events from Google Cloud and Amazon Web Services. You can collect logging data from over 150 common application components, on-premises systems, and hybrid cloud systems.
 
+
+### Node.js cloud logging library
+
+https://cloud.google.com/blog/products/devops-sre/get-more-insights-with-the-new-version-of-the-nodejs-library
+
 ## Types of metrics
 
 https://cloud.google.com/blog/products/operations/in-depth-explanation-of-operational-metrics-at-google-cloud
