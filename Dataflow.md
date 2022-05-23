@@ -191,6 +191,10 @@ https://cloud.google.com/architecture/deploying-production-ready-log-exports-to-
 
 https://cloud.google.com/blog/products/data-analytics/simplify-your-splunk-dataflow-ops-with-improved-pipeline-observability
 
+### Twitter
+
+https://cloud.google.com/blog/products/data-analytics/how-twitter-modernized-its-data-processing-with-google-cloud
+
 ## Stopping
 
 You cannot delete a Dataflow job; you can only stop it.
