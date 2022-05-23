@@ -51,6 +51,11 @@ Defining and managing your development, test, staging, and production environmen
 
 [https://www.terraform.io/intro/index.html](https://www.terraform.io/intro/index.html)
 
+### Policy validation
+
+https://cloud.google.com/docs/terraform/policy-validation
+
+
 ### Terraform JSON support
 
 https://www.terraform.io/docs/language/syntax/json.html
