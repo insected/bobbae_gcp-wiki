@@ -93,6 +93,10 @@ The [Cloud Storage](https://cloud.google.com/storage) [connector](https://cloud.
 
 https://cloud.google.com/blog/products/ai-machine-learning/cloud-storage-file-system-ai-training
 
+### s5cmd
+
+https://blog.searce.com/improve-data-transfer-speeds-between-your-vm-and-google-cloud-storage-3567a45f6dc
+
 
 ## Google Storage Products
 
