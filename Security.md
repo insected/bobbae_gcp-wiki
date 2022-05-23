@@ -451,6 +451,8 @@ Google has been defending millions of sites with [reCAPTCHA](https://cloud.googl
 
 https://cloud.google.com/blog/products/identity-security/recaptcha-enterprise-protects-users-and-is-frictionless
 
+https://cloud.google.com/blog/topics/public-sector/humans-or-bots-guidebook-protect-range-digital-fraud
+
 
 ## Web Risk
 
