@@ -195,6 +195,13 @@ https://medium.com/google-cloud/serving-a-spark-ml-model-on-vertex-ai-using-a-ci
 
 https://medium.com/@kianadata/creating-a-machine-learning-model-for-an-nft-horse-racing-game-using-vertex-ai-92b4ccf1158a
 
+### Predict cab fare using pub/sub, dataflow, BigQuery and AI Platform
+
+https://medium.com/@psvishnu/online-prediction-using-gcps-vertex-ai-e5fbc089906d
+
+
+
+
 ## Qwiklabs
 
 ### Qwik start
