@@ -130,6 +130,10 @@ https://cloud.google.com/blog/products/databases/get-ahead-of-database-performan
 
 https://dev.to/hunghvu/random-configuration-tips-for-google-cloud-sql-2lg4
 
+## Self-service maintenance
+
+https://cloud.google.com/sql/docs/mysql/self-service-maintenance
+
 ## Tutorials
 
 https://cloud.google.com/sql/docs/media
