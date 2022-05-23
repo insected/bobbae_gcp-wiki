@@ -182,6 +182,10 @@ https://medium.com/google-cloud/composer-sendgrid-and-secrets-75e4b6e7581e
 
 https://towardsdatascience.com/are-you-using-cloud-functions-for-event-based-processing-adb3ef35aba6
 
+### Connect Airflow Workers
+
+https://towardsdatascience.com/connect-airflow-worker-gcp-e79690f3ecea
+
 ## Qwiklabs
 
 ### GSP283
