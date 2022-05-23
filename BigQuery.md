@@ -908,6 +908,11 @@ https://cloud.google.com/blog/products/identity-security/announcing-open-source-
 
 https://medium.com/google-cloud/google-analytics-data-transfer-to-bigquery-fad388ae646a
 
+
+### Replicate Oracle data to BigQuery
+
+https://cloud.google.com/blog/products/data-analytics/how-twitter-modernized-its-data-processing-with-google-cloud
+
 ## Qwiklabs
 
 
