@@ -114,6 +114,10 @@ https://cloud.google.com/blog/products/sap-google-cloud/faster-time-to-value-wit
 
 https://cloud.google.com/data-fusion/docs/how-to/use-sap-slt-plugin
 
+### Reverse ETL
+
+
+https://jtaras.medium.com/cloud-data-fusion-reverse-etl-from-bigquery-to-cloudsql-e8aa1e804ba5
 
 ## Tutorials
 
