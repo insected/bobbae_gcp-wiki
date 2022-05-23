@@ -25,7 +25,11 @@ https://www.ibm.com/docs/en/sva/9.0.5?topic=methods-openid-connect-oidc-authenti
 https://ldapwiki.com/wiki/Openid-configuration
 
 
+### SAML federation
 
+https://wiki.oasis-open.org/security/FrontPage#SAML_V2.0_Standard
+
+https://cloud.google.com/blog/products/identity-security/introducing-federating-saml-workloads-to-google-cloud
 
 ### Obtaining short-lived credentials with identity federation 
 
