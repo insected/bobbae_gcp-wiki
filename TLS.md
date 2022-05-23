@@ -55,3 +55,6 @@ https://www.csoonline.com/article/3187338/know-the-limits-of-ssl-certificates.ht
 
 http://www.chromium.org/Home/chromium-security/root-ca-policy
 
+## PSP
+
+https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source
