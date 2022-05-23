@@ -158,6 +158,10 @@ https://medium.com/@corba77/bigquery-ml-models-deployment-with-vertex-ai-and-kub
 
 https://medium.com/@jakob.salomonsson/predicting-the-fare-on-a-billion-taxi-trips-with-bigquery-108135c8697d
 
+### Predict transactions on your website
+
+https://towardsdatascience.com/predict-transactions-on-your-website-using-big-query-ml-c365f58d29ca
+
 ## Qwiklabs
 
 
