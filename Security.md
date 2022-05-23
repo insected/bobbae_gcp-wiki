@@ -488,7 +488,21 @@ https://cloud.google.com/blog/products/networking/open-source-solutions-and-how-
 
 ## Autonomic Security Operations
 
+https://cloud.google.com/blog/products/identity-security/modernizing-soc-introducing-autonomic-security-operations
+
+https://cloud.google.com/blog/products/identity-security/introducing-autonomic-security-operations-for-the-us-public-sector
+
 https://cloud.google.com/blog/products/identity-security/achieving-autonomic-security-operations-reducing-toil
+
+### Executive Order 14028
+
+https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+
+
+### OMB M-21-31
+
+https://www.whitehouse.gov/wp-content/uploads/2021/08/M-21-31-Improving-the-Federal-Governments-Investigative-and-Remediation-Capabilities-Related-to-Cybersecurity-Incidents.pdf
+
 
 ## PKI
 
@@ -499,6 +513,9 @@ GCP [Certificate Authority Service](https://cloud.google.com/certificate-authori
 
 [Federated Identity Management](Identity-Management) methods include OAuth, OpenID and SAML.
 
+### Community Security Analytics
+
+https://github.com/GoogleCloudPlatform/security-analytics
 
 ## Machine Learning for Cybersecurity
 
@@ -725,7 +742,22 @@ https://www.wired.com/story/vpn-hacks-pulse-secure-espionage/
 
 ### IPSec
 
+https://en.wikipedia.org/wiki/IPsec
+
 https://threatpost.com/researchers-break-ipsec-vpn-connections-with-20-year-old-protocol-flaw/135070/
+
+### TLS
+
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+
+[Transport Layer Security](TLS) (TLS), the successor of the now-deprecated Secure Sockets Layer (SSL), is a cryptographic protocol designed to provide communications security over a computer network.
+
+### PSP
+
+
+## PSP
+
+https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source
 
 
 ### NSA Shadow brokers
