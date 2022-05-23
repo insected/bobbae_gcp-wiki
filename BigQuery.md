@@ -496,6 +496,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/bigquery-write-api
 
 https://cloud.google.com/blog/topics/developers-practitioners/learn-how-stream-json-data-bigquery-using-new-bigquery-storage-write-api
 
+### Storage Write API with Kafka to stream deliver data exactly once
+
+https://medium.com/@wojcikpawel/exactly-once-delivery-in-bigquerys-storage-write-api-67885c5c5e16
+
 ### Public Datasets
 
 [https://cloud.google.com/bigquery/public-data](https://cloud.google.com/bigquery/public-data)
