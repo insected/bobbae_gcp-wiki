@@ -30,6 +30,11 @@ https://cloud.google.com/monitoring/api/metrics_gcp
 
 https://cloud.google.com/blog/products/devops-sre/get-more-insights-with-the-new-version-of-the-nodejs-library
 
+
+### Log alerting for Cloud SQL
+
+https://cloud.google.com/blog/products/databases/cloud-sql-alerting
+
 ## Types of metrics
 
 https://cloud.google.com/blog/products/operations/in-depth-explanation-of-operational-metrics-at-google-cloud
