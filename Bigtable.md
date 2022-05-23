@@ -317,6 +317,9 @@ https://acloudguru.com/blog/engineering/comparing-cloud-nosql-databases-dynamodb
 
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
 
+### Modifying tables using GCS
+
+https://medium.com/google-cloud/how-to-modify-bigquery-table-definition-at-no-costs-2c59a1073cbb
 
 ### Bigtable used in Adtech 
 
