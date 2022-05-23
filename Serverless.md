@@ -29,6 +29,17 @@ https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
 
 [Google Cloud Functions](Cloud-Functions) is a [lightweight compute solution](https://www.youtube.com/watch?v=vM-2O-uKBNQ) for developers to create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment.
 
+## Cloud Function second generation
+
+https://cloud.google.com/functions/docs/2nd-gen/overview
+
+## Cloud Run jobs
+
+https://cloud.google.com/run/docs/create-jobs
+
+## App Engine vs. serverless
+
+https://medium.com/google-cloud/google-cloud-serverless-technology-never-sleep-8a2e5e97f789
 
 ## Knative
 
