@@ -38,6 +38,10 @@ https://youtu.be/KayF1osXrOk
 
 https://cloud.google.com/blog/products/infrastructure/google-network-infrastructure-investments
 
+## GCP Network stack
+https://cloud.google.com/blog/products/networking/networking-spotlight-2022
+
+
 ## GCP Network Options
 
 
