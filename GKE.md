@@ -100,6 +100,11 @@ https://cloud.google.com/blog/products/containers-kubernetes/workload-rightsizin
 https://www.containiq.com/post/gke-monitoring
 
 
+### GKE cost estimator
+
+https://cloud.google.com/blog/products/containers-kubernetes/introducing-the-new-gke-cost-estimator
+
+
 ### Batch on GKE
 
 Batch on GKE (Batch) is a cloud-native solution for scheduling and managing batch workloads. With Batch, you can leverage the on-demand and flexible nature of cloud. Batch is based on Kubernetes and containers so your jobs are portable.
