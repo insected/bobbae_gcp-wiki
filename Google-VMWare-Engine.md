@@ -16,3 +16,8 @@ https://cloud.google.com/blog/products/compute/google-cloud-vmware-engine-differ
 ## Migrating VMware  based systems to GCP
 
 https://cloud.google.com/blog/products/vmware-engine/catalyst-program-lowers-your-vmware-migration-tco
+
+### Lift and Shift Databases on Google Cloud VMWare Engine
+https://cloud.google.com/blog/products/databases/migrate-databases-to-google-cloud-vmware-engine-gcve
+
+
