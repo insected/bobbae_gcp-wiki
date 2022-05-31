@@ -233,6 +233,9 @@ You can create [regional MIGs](https://cloud.google.com/compute/docs/instance-gr
 
 [https://cloud.google.com/compute/docs/images/os-details](https://cloud.google.com/compute/docs/images/os-details)
 
+### Confidential Computing with N2D and C2D VMs
+
+https://cloud.google.com/blog/products/identity-security/introducing-confidential-computing-with-n2d-and-c2d-vms
 
 ### Securely connecting to VMs
 
