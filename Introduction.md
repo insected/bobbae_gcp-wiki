@@ -96,9 +96,14 @@ https://devlibrary.withgoogle.com/products/cloud
 https://googlecloudcheatsheet.withgoogle.com/architecture
 
 
-### infrastructure as code
+### Infrastructure as code
 
 Tools such as [terraform](terraform) and [cloud formation](https://aws.amazon.com/cloudformation/) can codify infrastructures. 
+
+
+### Google Cloud Quality Management System
+
+https://cloud.google.com/blog/products/identity-security/how-google-cloud-monitors-its-quality-management-system
 
 ## Tutorials
 
