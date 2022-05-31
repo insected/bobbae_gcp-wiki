@@ -277,6 +277,9 @@ Cloud Logging provides two predefined log sinks for each Google Cloud project: _
 https://medium.com/google-cloud/protect-sensitive-info-in-logs-using-google-cloud-4548211d4654
 
 
+## Logging Query Language
+https://medium.com/pipeline-a-data-engineering-resource/how-to-use-logging-query-language-to-analyze-gcp-logs-data-in-python-6f8ca6dd112b
+
 ## Tutorials
 
 https://cloud.google.com/logging/tutorials
