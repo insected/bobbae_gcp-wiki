@@ -1,6 +1,15 @@
 [Migrating](https://cloud.google.com/solutions/migration-center
 ) a workload from a legacy on-premises environment or private hosting environment to a cloud-native environment, such as a public cloud, can be challenging and risky. Successful migrations change the workload to migrate as little as possible during the migration operations. Moving legacy on-premises apps to the cloud often requires multiple migration steps.
 
+## Application Modernization
+
+### Google Cloud Application Modernization Program
+
+https://cloud.google.com/camp
+
+### Application Rationalization
+
+https://cloud.google.com/blog/products/application-modernization/app-rationalization-through-google-clouds-camp-framework
 
 ## Migration 
 
