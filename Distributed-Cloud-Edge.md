@@ -14,3 +14,8 @@ https://cloud.google.com/blog/topics/hybrid-cloud/announcing-google-distributed-
 
 https://cloud.google.com/blog/topics/anthos/expanding-partner-solutions-at-the-network-edge
 
+## Edge Computing for Manufacturing
+https://cloud.google.com/blog/topics/manufacturing/edge-computing-smart-manufacturing-concept-intel-google-cloud-hannover-messe-2022
+
+## Google Cloud Manufacturing Solutions
+https://cloud.google.com/blog/topics/manufacturing/new-google-cloud-manufacturing-solutions
