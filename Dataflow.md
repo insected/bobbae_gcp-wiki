@@ -195,6 +195,10 @@ https://cloud.google.com/blog/products/data-analytics/simplify-your-splunk-dataf
 
 https://cloud.google.com/blog/products/data-analytics/how-twitter-modernized-its-data-processing-with-google-cloud
 
+### Data Masking with Tokenization using Google Cloud DLP and Google Cloud Dataflow
+
+https://medium.com/@ardhanyoga/data-masking-with-tokenization-using-google-cloud-dlp-and-google-cloud-dataflow-8bba3cc76ef6
+
 ## Stopping
 
 You cannot delete a Dataflow job; you can only stop it.
