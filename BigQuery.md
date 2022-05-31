@@ -922,6 +922,11 @@ https://medium.com/google-cloud/google-analytics-data-transfer-to-bigquery-fad38
 
 https://cloud.google.com/blog/products/data-analytics/how-twitter-modernized-its-data-processing-with-google-cloud
 
+
+### Zoominfo
+
+https://cloud.google.com/blog/products/data-analytics/gain-access-to-comprehensive-b2b-data-in-bigquery-with-zoominfo
+
 ## Qwiklabs
 
 
