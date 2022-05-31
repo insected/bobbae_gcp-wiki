@@ -57,11 +57,16 @@ https://cloud.google.com/vertex-ai/docs/model-monitoring
 https://cloud.google.com/vertex-ai/docs/pipelines
 
 
+
+
 ### Serverless Spark components for Vertex AI Pipelines
 
 https://cloud.google.com/vertex-ai/docs/pipelines/dataproc-component
 
 https://cloud.google.com/blog/topics/developers-practitioners/announcing-serverless-spark-components-vertex-ai-pipelines
+
+### Vertex AI Pipelines vs. Cloud Composer
+https://medium.com/google-cloud/vertex-ai-pipelines-vs-cloud-composer-for-orchestration-4bba129759de
 
 
 ## Feature Store
