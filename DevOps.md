@@ -5,6 +5,10 @@ The goal of [DevOps](https://en.wikipedia.org/wiki/DevOps) is to build better, f
 
 The [DevOps](   https://cloud.google.com/docs/tutorials?q=big%20data   ) cultural shift depends on continuously optimizing workflow, architecture, and infrastructure in order to deliver high-quality applications.
 
+## DevOps Guidebook
+
+https://cloud.google.com/blog/products/devops-sre/devops-enterprise-guidebook-chapter-1
+
 ## Cloud Build
 
 [Cloud Build](Cloud-Build) is a service that executes your builds on Google Cloud Platform's infrastructure.
