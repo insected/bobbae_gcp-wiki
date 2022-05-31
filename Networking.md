@@ -47,6 +47,9 @@ https://cloud.google.com/blog/products/networking/networking-spotlight-2022
 
 GCP provides various [Network Service Options](Network-Options).
 
+## GCP Network Analyzer
+
+https://cloud.google.com/network-intelligence-center/docs/network-analyzer/overview
 
 ## GCP IP and DNS
 
