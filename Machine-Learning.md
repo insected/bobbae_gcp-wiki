@@ -899,7 +899,9 @@ https://medium.com/@datacouch/google-cloud-professional-machine-learning-enginee
 
 
 
+## How to reduce your ML model inference costs 
 
+https://medium.com/google-cloud/how-to-reduce-your-ml-model-inference-costs-on-google-cloud-e3d5e043980f
 
 ## Examples
 
