@@ -384,6 +384,10 @@ https://cloud.google.com/network-connectivity/docs/network-connectivity-center/c
 
 [Load Balancer](Load-Balancer) distributes user traffic across multiple instances of your applications. By spreading the load, load balancing reduces the risk that your applications experience performance issues.
 
+### Assembling and managing distributed applications using Google Cloud Networking solutions
+
+https://cloud.google.com/blog/products/networking/networking-spotlight-2022
+
 ## Cloud NAT
 
 [Cloud NAT](https://cloud.google.com/nat/docs) provides fully managed, software-defined network address translation support for Google Cloud.
