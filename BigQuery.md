@@ -799,6 +799,12 @@ https://towardsdatascience.com/know-more-about-your-app-users-through-bigquery-4
 https://cloud.google.com/blog/products/data-analytics/data-loader-speeds-up-time-to-value-for-bigquery-users
 
 
+### Ploomer
+
+https://github.com/ploomber/ploomber
+
+https://towardsdatascience.com/analyze-and-plot-5-5m-records-in-20s-with-bigquery-and-ploomber-8bf7646c031
+
 ### Data Quality Analysis using BigQuery
 
 
