@@ -122,6 +122,9 @@ https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html
 
 https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage
 
+#### AlloyDB Columnal Engine
+https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine
+
 ### TimescaleDB
 
 https://www.timescale.com/
