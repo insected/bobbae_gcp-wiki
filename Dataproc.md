@@ -18,6 +18,12 @@ Dataproc Serverless lets you run Spark batch workloads without requiring you to 
 
 https://cloud.google.com/dataproc-serverless/docs
 
+
+### Fast export large database tables — using GCP Serverless Dataproc
+
+
+https://medium.com/google-cloud/fast-export-large-database-tables-using-gcp-serverless-dataproc-spark-bb32b1260268
+
 ## Using Spark on Dataproc
 
 ### Tuning Spark on Dataproc
