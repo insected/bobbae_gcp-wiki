@@ -40,3 +40,8 @@ https://rajathithanrajasekar.medium.com/retrieve-recommendation-details-across-a
 ## FinOps
 
 [FinOps](  FinOps) is shorthand for “Cloud Financial Operations” or “Cloud Financial Management” or “Cloud Cost Management”. It is the practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality.
+
+## Training recommender models of 100 trillion parameters
+
+https://cloud.google.com/blog/products/ai-machine-learning/training-a-recommender-model-of-100-trillions-parameters-on-google-cloud
+
