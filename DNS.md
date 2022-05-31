@@ -113,6 +113,14 @@ As we saw in the default `resolv.conf` file, only `.svc` suffixes are automatica
 
 https://blog.aquasec.com/dns-spoofing-kubernetes-clusters
 
+### External DNS
+
+[ExternalDNS](https://github.com/kubernetes-sigs/external-dns) automates updating DNS records as part of the deployment of a public facing web application.
+
+#### External DNS with GKE & Cloud DNS
+
+https://joachim8675309.medium.com/externaldns-with-gke-cloud-dns-38a174fdced7
+
 ## DNS Security
 
 
