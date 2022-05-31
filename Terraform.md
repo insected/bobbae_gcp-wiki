@@ -119,6 +119,11 @@ https://learn.hashicorp.com/tutorials/terraform/troubleshooting-workflow
 
 https://blog.pipetail.io/posts/2020-10-29-most-common-mistakes-terraform/
 
+### state
+
+https://tryingthings.wordpress.com/2021/03/31/lessons-learned-after-losing-the-terraform-state-file/
+
+https://medium.com/@moabu/oops-deleted-the-terraform-state-file-imported-the-resource-but-now-it-wants-to-recreate-it-1695e9b6e8
 
 ### Pain points
 
