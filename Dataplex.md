@@ -29,3 +29,7 @@ https://cloud.google.com/blog/products/data-analytics/build-a-data-mesh-on-googl
 
 https://towardsdatascience.com/data-mesh-cloud-migration-pattern-fcff598695e4
 
+
+## Lakes, Zones, Assets and discovery
+
+https://medium.com/google-cloud/google-cloud-dataplex-part-1-lakes-zones-assets-and-discovery-5f288486cb2f
