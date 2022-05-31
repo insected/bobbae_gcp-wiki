@@ -109,6 +109,9 @@ Spanner provides synchronous cross-datacenter replication and strong consistency
 
 https://cloud.google.com/spanner/docs/introspection
 
+### Spanner Change Streams
+
+https://cloud.google.com/blog/products/databases/track-and-integrate-change-data-with-spanner-change-streams
 
 ### Google F1 
 
