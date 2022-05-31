@@ -42,6 +42,10 @@ https://medium.com/@kote.isaev/gotcha-of-cheaper-e2-medium-vms-at-google-cloud-d
 
 https://cloud.google.com/kubernetes-engine/quotas
 
+
+### Config Connector
+[Config Connector](https://cloud.google.com/config-connector/docs/overview) is a Kubernetes add-on that allows you to manage Google Cloud resources through Kubernetes.
+
 ### GKE vs EKS vs AKS
 
 https://www.stackrox.com/post/2021/01/eks-vs-gke-vs-aks-jan2021/
