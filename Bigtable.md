@@ -185,6 +185,9 @@ Tables are split into multiple tablets – segments of the table are split at ce
 
 When Table size threaten to grow beyond a specified limit, the tablets may be compressed using the algorithm BMDiff and the Zippy compression algorithm publicly known and open-sourced as Snappy, which is a less space-optimal variation of LZ77 but more efficient in terms of computing time. 
 
+### Hot Tablets and hotspots
+
+https://cloud.google.com/blog/products/databases/hotspots-and-performance-debugging-in-cloud-bigtable
 
 ### META Tablets
 
