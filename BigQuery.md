@@ -928,6 +928,8 @@ https://medium.com/google-cloud/google-analytics-data-transfer-to-bigquery-fad38
 
 https://cloud.google.com/blog/products/data-analytics/how-twitter-modernized-its-data-processing-with-google-cloud
 
+### Connect Oracle to BigQuery using DB Link
+https://medium.com/google-cloud/connect-oracle-to-bigquery-using-db-link-6f2040336a47
 
 ### Zoominfo
 
