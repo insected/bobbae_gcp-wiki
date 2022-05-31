@@ -46,6 +46,8 @@ https://cloud.google.com/kubernetes-engine/quotas
 ### Config Connector
 [Config Connector](https://cloud.google.com/config-connector/docs/overview) is a Kubernetes add-on that allows you to manage Google Cloud resources through Kubernetes.
 
+https://medium.com/google-cloud/setting-up-config-connector-with-terraform-helm-8ce2f45f48a4
+
 ### GKE vs EKS vs AKS
 
 https://www.stackrox.com/post/2021/01/eks-vs-gke-vs-aks-jan2021/
