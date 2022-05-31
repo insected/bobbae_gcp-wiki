@@ -138,3 +138,7 @@ https://cloud.google.com/architecture/system-testing-cloud-functions-using-cloud
 ### Handling Promises
 
 https://cloud.google.com/blog/topics/developers-practitioners/avoiding-gcf-anti-patterns-part-4-how-handle-promises-correctly-your-nodejs-cloud-function
+
+### Static outbound IP for Cloud Functions using Terraform
+
+https://shashwotrisal.medium.com/how-to-create-a-static-outbound-ip-for-google-cloud-functions-using-terraform-a8e9b30074b6
