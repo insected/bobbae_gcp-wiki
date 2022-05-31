@@ -178,6 +178,10 @@ https://cloud.google.com/compute/docs/load-balancing-and-autoscaling
 
 https://cloud.google.com/compute/docs/containers
 
+### GCP HPC Toolkit
+
+https://cloud.google.com/blog/products/compute/new-google-cloud-hpc-toolkit
+
 ### Slurm-GCP
 
 [Slurm](https://slurm.schedmd.com/overview.html) is an open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters.
