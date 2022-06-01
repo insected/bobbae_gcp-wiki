@@ -9,6 +9,8 @@ https://github.com/sindresorhus/awesome
 
 https://en.m.wikipedia.org/wiki/List_of_lists_of_lists
 
+https://github.com/jnv/lists
+
 ## Basics
 
 
