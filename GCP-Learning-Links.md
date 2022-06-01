@@ -1,15 +1,6 @@
 
 Links for the [GCP Learning main document](GCP-Learning)
 
-## List of lists
-
-https://www.trackawesomelist.com/
-
-https://github.com/sindresorhus/awesome
-
-https://en.m.wikipedia.org/wiki/List_of_lists_of_lists
-
-https://github.com/jnv/lists
 
 ## Basics
 
@@ -613,4 +604,13 @@ https://cloud.google.com/blog/topics/startups/checkout-experiences-for-merchants
 
 https://learnxinyminutes.com
 
-## 
+
+## List of lists
+
+https://www.trackawesomelist.com/
+
+https://github.com/sindresorhus/awesome
+
+https://en.m.wikipedia.org/wiki/List_of_lists_of_lists
+
+https://github.com/jnv/lists
