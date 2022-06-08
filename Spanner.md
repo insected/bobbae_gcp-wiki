@@ -21,6 +21,10 @@ https://cloud.google.com/blog/products/databases/cloud-spanner-makes-application
 
 https://techcrunch.com/2018/12/19/googles-cloud-spanner-database-adds-new-features-and-regions/
 
+### Spanner Committed use discounts
+
+https://cloud.google.com/spanner/docs/cuds
+
 ### Schema and data model
 
 https://cloud.google.com/spanner/docs/schema-and-data-model
