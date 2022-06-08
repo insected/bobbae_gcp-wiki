@@ -116,7 +116,9 @@ https://en.wikipedia.org/wiki/Universal_2nd_Factor
 
 
 
+###  Digital Operational Resilience Act (DORA)
 
+https://cloud.google.com/blog/products/identity-security/what-google-cloud-is-doing-to-prepare-for-dora
 
 
 ###  Secure Operations
