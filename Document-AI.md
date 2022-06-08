@@ -30,6 +30,10 @@ https://cloud.google.com/document-ai/docs/how-to
 
 https://cloud.google.com/blog/topics/developers-practitioners/smarter-applications-document-ai-workflows-and-cloud-functions
 
+## Document AI for Identity
+
+https://cloud.google.com/solutions/identity-doc-ai
+
 ## Related Google Cloud Products
 
 https://cloud.google.com/document-ai/docs/basics
