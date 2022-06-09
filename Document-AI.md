@@ -34,6 +34,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/smarter-applicatio
 
 https://cloud.google.com/solutions/identity-doc-ai
 
+https://cloud.google.com/blog/topics/developers-practitioners/automate-identity-document-processing-document-ai
+
 ## Related Google Cloud Products
 
 https://cloud.google.com/document-ai/docs/basics
