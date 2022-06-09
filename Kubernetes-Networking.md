@@ -69,6 +69,9 @@ In Kubernetes, a [Service is an abstraction](https://kubernetes.io/docs/concepts
 
 https://kubernetes.io/docs/concepts/services-networking/service-topology/
 
+## Nephio
+
+https://nephio.org/
 
 ## CNI
 
