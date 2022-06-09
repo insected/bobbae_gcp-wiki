@@ -183,6 +183,10 @@ https://medium.com/99dotco/a-migration-misstep-from-redshift-to-bigquery-13e9000
 
 Avoid [query anti-patterns](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns) that impact performance in BigQuery.
 
+### Partitions and Clusters
+
+https://towardsdatascience.com/how-to-use-partitions-and-clusters-in-bigquery-using-sql-ccf84c89dd65
+
 ### Managing partitioned tables
 
 A [partitioned table](https://cloud.google.com/bigquery/docs/partitioned-tables) is a special table that is divided into segments, called partitions, that make it easier to manage and query your data. By dividing a large table into smaller partitions, you can improve query performance, and you can control costs by reducing the number of bytes read by a query.
