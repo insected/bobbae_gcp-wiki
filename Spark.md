@@ -1,5 +1,21 @@
 [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark) is an open-source unified analytics engine for large-scale data processing.
 
+## Spark on Dataproc
+
+### Dataproc Spark cluster on GCP
+https://medium.com/google-cloud/dataproc-spark-cluster-on-gcp-in-minutes-3843b8d8c5f8
+
+### Apache Spark and Jupyter Notebooks on Cloud Dataproc
+https://codelabs.developers.google.com/codelabs/spark-jupyter-dataproc#0
+
+### PySpark and Jupyter Notebook
+
+https://www.freecodecamp.org/news/what-is-google-dataproc/
+
+### Tuning Spark Applications to Efficiently Utilize Dataproc Cluster
+https://medium.com/paypal-tech/tuning-spark-applications-to-efficiently-utilize-dataproc-cluster-11bd51b36fe1
+
+
 ## Serverless Spark
 https://cloud.google.com/blog/products/data-analytics/making-serverless-spark-even-more-powerful
 
