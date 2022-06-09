@@ -605,6 +605,8 @@ https://cloud.google.com/bigquery/docs/column-level-security
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
 
+#### Column based data masking
+https://medium.com/codex/google-improves-data-security-in-bigquery-195a90cc5b85
 
 ### Using Connected Sheets with BigQuery
 
