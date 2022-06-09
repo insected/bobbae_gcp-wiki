@@ -97,6 +97,8 @@ https://cloud.google.com/blog/products/ai-machine-learning/cloud-storage-file-sy
 
 https://blog.searce.com/improve-data-transfer-speeds-between-your-vm-and-google-cloud-storage-3567a45f6dc
 
+### Using GCS Fuse in Vertex AI Workbench notebooks
+https://cloud.google.com/blog/topics/developers-practitioners/cloud-storage-file-system-vertex-ai-workbench-notebooks
 
 ## Google Storage Products
 
