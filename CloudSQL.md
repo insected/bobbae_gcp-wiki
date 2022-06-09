@@ -18,6 +18,8 @@ https://medium.com/google-cloud/going-cloud-with-sql-server-google-cloud-options
 
 https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage
 
+https://medium.com/@bvjebin/connecting-to-alloydb-from-your-local-39ca8f326ea9
+
 ### Database Migration Service
 
 [Database Migration Service](https://cloud.google.com/database-migration
