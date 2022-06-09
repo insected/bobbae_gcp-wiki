@@ -162,6 +162,11 @@ https://medium.com/@jakob.salomonsson/predicting-the-fare-on-a-billion-taxi-trip
 
 https://towardsdatascience.com/predict-transactions-on-your-website-using-big-query-ml-c365f58d29ca
 
+
+
+### Training a ML model using GA4 data
+https://medium.com/getindata-blog/a-step-by-step-guide-to-training-a-machine-learning-model-using-bigqueryml-bqml-25317f90b7bb
+
 ## Qwiklabs
 
 
