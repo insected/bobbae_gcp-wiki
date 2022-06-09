@@ -94,6 +94,8 @@ https://cloud.google.com/compute/docs/instances/connecting-advanced#sshbetweenin
 #### IAP Desktop
 https://github.com/GoogleCloudPlatform/iap-desktop/
 
+https://tantingli.medium.com/how-to-manage-gcp-access-using-iap-and-os-login-afd9eee17962
+
 ### Tau VMs
 
 https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
