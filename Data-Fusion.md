@@ -76,6 +76,11 @@ https://jtaras.medium.com/cloud-data-fusion-adding-a-service-account-to-the-secu
 
 https://cloud.google.com/blog/products/data-analytics/contact-center-ai-insights-made-easy-with-cloud-data-fusion
 
+
+## Ephemeral Data Fusion using Terraform
+
+https://jtaras.medium.com/cloud-data-fusion-using-terraform-to-run-ephemeral-data-fusion-instances-8fef704d2011
+
 ## Examples
 
 ### Import CSV data into BigQuery using Data Fusion
