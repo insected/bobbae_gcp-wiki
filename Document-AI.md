@@ -76,3 +76,7 @@ HITL AI offers the following benefits:
 ## Contract DocAI
 
 https://cloud.google.com/solutions/contract-doc-ai
+
+## Document AI JSON tool
+
+https://medium.com/google-cloud/document-ai-json-tool-ab8084aed89a
