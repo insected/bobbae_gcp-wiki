@@ -35,3 +35,6 @@ Uses natural language processing to identify call drivers and sentiment that hel
 https://cloud.google.com/contact-center/insights/docs
 
 https://cloud.google.com/solutions/ccai-insights
+
+## Apigee and Contact Center AI
+https://cloud.google.com/blog/products/api-management/apigee-best-practices-for-contact-center-ai
