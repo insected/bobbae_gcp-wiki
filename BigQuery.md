@@ -949,6 +949,10 @@ https://medium.com/google-cloud/connect-oracle-to-bigquery-using-db-link-6f20403
 
 https://cloud.google.com/blog/products/data-analytics/gain-access-to-comprehensive-b2b-data-in-bigquery-with-zoominfo
 
+### Raw GA4 data in BigQuery
+
+https://datadice.medium.com/raw-google-analytics-4-ga4-data-in-bigquery-bq-9cb776ce1f3d
+
 ## Qwiklabs
 
 
