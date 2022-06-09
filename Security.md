@@ -461,9 +461,15 @@ https://cloud.google.com/blog/topics/public-sector/humans-or-bots-guidebook-prot
 [Web Risk](https://cloud.google.com/web-risk/docs) is a new enterprise security product that lets your client applications check URLs against Google's constantly updated lists of unsafe web resources.
 
 
+
+
 ### Best practices using Web Risk API to help stop phishing 
 
 https://cloud.google.com/blog/products/identity-security/follow-web-risk-apis-best-practices-to-stop-attacks
+
+## Compromising GCP security and penetration testing
+
+https://infosecwriteups.com/enumeration-and-lateral-movement-in-gcp-environments-c3b82d342794
 
 ## Cloud Audit Logs
 
