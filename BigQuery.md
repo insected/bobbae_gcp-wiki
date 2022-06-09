@@ -707,6 +707,11 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/scripting
 
 https://jimbeepbeep.medium.com/getting-started-with-bigquery-scripting-45bdd968010c?p=4bb74216b8c8
 
+
+### BigQuery Clustered Tables from Beam
+
+https://medium.com/@whatwouldaustindo/bigquery-clustered-tables-from-beam-now-available-without-partitioning-d2d24453eef6
+
 ### Pandas-gbq
 
 https://cloud.google.com/bigquery/docs/pandas-gbq-migration
