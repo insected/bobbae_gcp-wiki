@@ -15,7 +15,7 @@ https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-aut
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 
-
+https://cloud.google.com/blog/products/containers-kubernetes/brain-corp-migrates-from-aws-eks-to-gke-autopilot
 
 ### Partner DevOps and Security solutions for GKE Autopilot
 
