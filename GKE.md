@@ -38,6 +38,10 @@ https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-launch
 
 https://medium.com/@kote.isaev/gotcha-of-cheaper-e2-medium-vms-at-google-cloud-d6aafcd8f347
 
+### GKE Gateway Controller
+
+https://medium.com/google-developer-experts/getting-started-with-gke-gateway-controller-ee45c3bc8996
+
 ### Quotas and Limits
 
 https://cloud.google.com/kubernetes-engine/quotas
