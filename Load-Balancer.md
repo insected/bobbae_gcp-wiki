@@ -283,6 +283,9 @@ https://cloud.google.com/load-balancing/docs/https/setting-up-https-serverless#g
 
 https://codelabs.developers.google.com/codelabs/externalhttplb-adv
 
+#### Redirect 301 HTTP to HTTPS using Load Balancer
+
+https://rapaccinim.medium.com/how-to-redirect-301-http-to-https-in-google-cloud-platform-using-load-balancer-e3f208d343ab
 
 #### Terraform examples for external HTTP(S) load balancers
 
