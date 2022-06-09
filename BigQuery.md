@@ -32,6 +32,8 @@ BigQuery supports [Standard SQL](https://cloud.google.com/bigquery/docs/referenc
 
 Each node provides a number of processing units called [BigQuery slots](https://cloud.google.com/bigquery/docs/slots) to execute the business logic of the query. A BigQuery slot can be considered a virtual CPU on a Dremel node. The calculation of the slots needed to perform a specific query is automatically managed depending on the complexity of the query and impacted data volumes.
 
+### Beginner's Guide
+https://medium.com/google-cloud/a-seniors-guide-to-kickstart-your-bigquery-journey-75566e131983
 
 ### No Index
 
@@ -71,6 +73,7 @@ There's no infrastructure to manage in BigQuery. Developers [focus on finding in
 
 
 https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-storage
+
 
 ### In-Memory Shuffling
 
