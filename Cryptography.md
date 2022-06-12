@@ -7,6 +7,7 @@ There are many [encryption algorithms](https://en.wikipedia.org/wiki/Category:Cr
 ## Crypto 101
 https://www.crypto101.io/
 
+https://cryptobook.nakov.com/
 
 ## GCP Encryption
 
@@ -106,13 +107,51 @@ Cloud VPN supports  [some IKE ciphers](https://cloud.google.com/network-connecti
 
 Traditionally, secure encrypted communication between two parties required that they first exchange keys by some secure physical means, such as paper key lists transported by a trusted courier. The Diffie–Hellman key exchange method allows two parties that have no prior knowledge of each other to jointly establish a shared secret key over an insecure channel. This key can then be used to encrypt subsequent communications using a [symmetric-key cipher](  https://brilliant.org/wiki/symmetric-ciphers/ ).
 
+### SSL and TLS
+https://dev.to/techschoolguru/a-complete-overview-of-ssl-tls-and-its-cryptographic-system-36pd
 
+
+
+### SSL Certificates
+https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
+
+### Creating Self-Signed Certificates and Keys with OpenSSL
+https://mariadb.com/docs/security/data-in-transit-encryption/create-self-signed-certificates-keys-openssl/
+
+### PEM, DER, CRT, and CER: X.509 Encodings and Conversions
+https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/
+
+
+### From HTTP to HTTPS
+https://www.prakharsrivastav.com/posts/from-http-to-https-using-go/
+
+### HTTP Client and Server using Go
+https://youngkin.github.io/post/gohttpsclientserver/
+
+### Create Your Own SSL Certificate Authority for Local HTTPS Development
+https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
 
 ### Cryptographic hash
 
 A [cryptographic hash]( https://wikipedia.org/wiki/Cryptographic_hash_function  ) function (CHF) is a mathematical algorithm that maps data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest"). It is a one-way function, that is, a function which is practically infeasible to invert.
 
 https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/
+
+
+### ECC Encryption / Decryption
+https://cryptobook.nakov.com/asymmetric-key-ciphers/ecc-encryption-decryption
+
+### Creating Elliptic Curve Keys using OpenSSL
+https://www.scottbrady91.com/openssl/creating-elliptical-curve-keys-using-openssl
+
+### OpenSSL Elliptic Curve Operations
+https://wiki.openssl.org/index.php/Command_Line_Elliptic_Curve_Operations
+
+### Smallstep
+https://smallstep.com/
+
+### Monocypher
+https://monocypher.org/
 
 ### Git object model
 
