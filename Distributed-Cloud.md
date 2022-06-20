@@ -2,3 +2,6 @@
 
 
 https://cloud.google.com/blog/topics/hybrid-cloud/announcing-google-distributed-cloud-edge-and-hosted
+
+## Anthos on-prem and bare-metal
+https://cloud.google.com/blog/topics/anthos/anthos-on-prem-and-bare-metal-are-now-gdc-virtual
