@@ -6,5 +6,10 @@ https://cloud.google.com/blog/topics/hybrid-cloud/announcing-google-distributed-
 ## Google Distributed Cloud Edge
 https://cloud.google.com/blog/products/infrastructure-modernization/google-distributed-cloud-edge-is-ga
 
+
+### Edge appliance
+https://cloud.google.com/transfer-appliance/docs/4.0/edge-appliance
+
+
 ## Anthos on-prem and bare-metal
 https://cloud.google.com/blog/topics/anthos/anthos-on-prem-and-bare-metal-are-now-gdc-virtual
