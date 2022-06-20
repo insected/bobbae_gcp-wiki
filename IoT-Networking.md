@@ -63,6 +63,7 @@ The Long-Term Evolution [LTE](https://en.wikipedia.org/wiki/LTE) is a standard f
 [5G](https://en.wikipedia.org/wiki/5G
 ) is the fifth generation technology standard for broadband cellular networks, which cellular phone companies began deploying worldwide in 2019, and is the planned successor to the 4G networks which provide connectivity to most current cellphones. 5G networks are predicted to have more than 1.7 billion subscribers worldwide by 2025, according to the GSM Association.
 
+https://cloud.google.com/blog/topics/telecommunications/how-csps-can-use-cloud-networks-to-deliver-5g
 
 ### O-RAN
 
