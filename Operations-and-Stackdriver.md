@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ## Cloud Operations
 
 [AKA Stackdriver](https://cloud.google.com/products/operations)
@@ -116,6 +110,8 @@ Basics of Service Level Monitoring.
 
 [https://www.youtube.com/watch?v=u84TKyX8SfU](https://www.youtube.com/watch?v=u84TKyX8SfU)
 
+### GCPDiag
+https://gcpdiag.dev/
 
 ### Qwiklabs
 
