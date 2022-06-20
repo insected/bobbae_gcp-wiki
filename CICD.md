@@ -11,7 +11,11 @@
 
 https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-now-ga
 
+#### Deploying to GKE
+
 https://davelms.medium.com/automate-gke-deployments-using-cloud-build-and-cloud-deploy-2c15909ddf22
+
+https://blog.searce.com/deploy-applications-to-gke-using-google-cloud-deploy-f1fda8618966
 
 ### Selective deployment
 
