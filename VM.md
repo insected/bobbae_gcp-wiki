@@ -114,6 +114,14 @@ https://cloud.google.com/blog/products/compute/google-cloud-spot-vm
 ### Confidential Computing
 https://cloud.google.com/confidential-computing
 
+#### Confidential VM
+https://cloud.google.com/compute/confidential-vm/docs/about-cvm
+
+#### AMD Secure Encrypted Virtualization
+https://developer.amd.com/sev/
+
+#### Shieled GKE nodes
+
 ## Virtual Machine related topics
 
 ### Intel VT-x and AMD SVM
