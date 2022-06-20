@@ -147,7 +147,8 @@ The Kubernetes apps in Cloud Marketplace include container images and configurat
 
 [https://cloud.google.com/marketplace/docs/kubernetes-apps](https://cloud.google.com/marketplace/docs/kubernetes-apps)
 
-
+## Confidential GKE nodes
+https://cloud.google.com/kubernetes-engine/docs/how-to/confidential-gke-nodes
 
 ### Tutorials
 
