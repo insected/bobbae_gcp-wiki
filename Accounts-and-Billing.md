@@ -122,6 +122,12 @@ https://john-tucker.medium.com/google-cloud-platform-and-api-call-attribution-b0
 
 https://cloud.google.com/blog/topics/developers-practitioners/automate-your-budgeting-billing-budgets-api
 
+## Billing budgets and alerts
+https://medium.com/google-cloud/google-cloud-billing-budgets-and-alerts-fc707ac1c2e4
+
+## Proactive budget alerting
+https://engineering.sada.com/proactive-budget-alerting-in-google-cloud-333724ad1266
+
 ## Examples 
 
 
