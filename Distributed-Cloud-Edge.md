@@ -10,6 +10,9 @@ https://cloud.google.com/distributed-cloud-edge/docs/overview
 
 https://cloud.google.com/blog/topics/hybrid-cloud/announcing-google-distributed-cloud-edge-and-hosted
 
+## Private network solutions on Google distributed cloud edge
+https://cloud.google.com/blog/products/networking/announcing-private-network-solutions-on-google-distributed-cloud-edge
+
 ## Partner solutions
 
 https://cloud.google.com/blog/topics/anthos/expanding-partner-solutions-at-the-network-edge
