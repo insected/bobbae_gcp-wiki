@@ -120,7 +120,8 @@ https://cloud.google.com/compute/confidential-vm/docs/about-cvm
 #### AMD Secure Encrypted Virtualization
 https://developer.amd.com/sev/
 
-#### Shieled GKE nodes
+#### Shielded GKE nodes
+https://cloud.google.com/kubernetes-engine/docs/how-to/shielded-gke-nodes
 
 ## Virtual Machine related topics
 
