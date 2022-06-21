@@ -735,6 +735,10 @@ https://cloud.google.com/bigquery/docs/pandas-gbq-migration
 
 https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas
 
+#### Storage Read API Quotas
+
+https://medium.com/codex/improved-storage-read-api-quotas-in-google-bigquery-f415a4c27bf1
+
 ### BigQuery data in a Jupyter notebook
 
 https://cloud.google.com/bigquery/docs/visualize-jupyter
