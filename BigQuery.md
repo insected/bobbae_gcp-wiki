@@ -739,6 +739,11 @@ https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas
 
 https://cloud.google.com/bigquery/docs/visualize-jupyter
 
+
+### BigQuery perspectives
+
+https://medium.com/codeshake/bigquery-101-how-to-tame-the-beast-part-3-212356720b18
+
 ## BigQuery tutorials
 
 [https://cloud.google.com/bigquery/docs/tutorials](https://cloud.google.com/bigquery/docs/tutorials)
