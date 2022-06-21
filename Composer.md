@@ -186,6 +186,10 @@ https://towardsdatascience.com/are-you-using-cloud-functions-for-event-based-pro
 
 https://towardsdatascience.com/connect-airflow-worker-gcp-e79690f3ecea
 
+### CICD with Spinnaker and Composer
+
+https://medium.com/@jasperfast/google-cloud-composer-ci-cd-f469a09c9db8
+
 ## Qwiklabs
 
 ### GSP283
