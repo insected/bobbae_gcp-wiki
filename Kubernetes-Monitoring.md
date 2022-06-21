@@ -51,6 +51,9 @@ https://prometheus.io/
 
 [https://www.youtube.com/watch?v=XToKHYXSUyc](https://www.youtube.com/watch?v=XToKHYXSUyc)
 
+### Monitoring applications on Google managed prometheus
+https://blog.searce.com/monitor-your-applications-on-google-managed-prometheus-4416070f9fd0
+
 ## Jaeger
 
 Jaeger is a tracing system released by Uber Technologies; it's used for troubleshooting and monitoring transactions in complex distributed systems.
