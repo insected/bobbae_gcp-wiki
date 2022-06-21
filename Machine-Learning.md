@@ -848,6 +848,12 @@ https://github.com/karpathy/micrograd
 
 https://github.com/geohot/tinygrad
 
+### JAX
+https://github.com/google/jax
+
+### EvoJAX
+https://cloud.google.com/blog/topics/developers-practitioners/evojax-bringing-power-neuroevolution-solve-your-problems
+
 ### Kubeflow
 
 [Kubeflow](Kubeflow) Pipelines is a platform for building, deploying, and managing multi-step ML workflows based on Docker containers. Kubeflow offers several components that you can use to build your ML training, hyperparameter tuning, and serving workloads across multiple platforms.
