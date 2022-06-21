@@ -953,6 +953,9 @@ https://cloud.google.com/blog/products/data-analytics/gain-access-to-comprehensi
 
 https://datadice.medium.com/raw-google-analytics-4-ga4-data-in-bigquery-bq-9cb776ce1f3d
 
+### Measuring string similarity using UDF implementation of Levenshtein distance
+https://towardsdatascience.com/measuring-string-similarity-in-bigquery-using-sql-33c490638c89
+
 ## Qwiklabs
 
 
