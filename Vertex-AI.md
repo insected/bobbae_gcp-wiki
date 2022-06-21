@@ -7,6 +7,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/new-features-for-goog
 
 https://cloud.google.com/vertex-ai/docs/general/general-concepts
 
+
+## Getting started
+https://cloud.google.com/blog/products/ai-machine-learning/getting-started-with-vertex-ai
+
 ## Datasets
 
 https://cloud.google.com/vertex-ai/docs/datasets/datasets
