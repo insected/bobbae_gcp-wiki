@@ -214,6 +214,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/automate-annotatio
 
 https://cloud.google.com/blog/topics/developers-practitioners/measuring-climate-and-land-changes-ai
 
+
+### Accelerate the deployment of ML
+
+https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-vertex-ai-accelerates-machine-learning
+
+
 ## Qwiklabs
 
 ### Qwik start
