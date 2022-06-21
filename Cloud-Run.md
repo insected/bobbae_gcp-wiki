@@ -98,3 +98,5 @@ https://cloud.google.com/blog/topics/developers-practitioners/deploy-coloring-pa
 
 https://medium.com/google-cloud/pre-heating-cloud-run-apps-for-crisp-ux-d13c341e0a29
 
+### Simple scheduled workloads 
+https://betterprogramming.pub/simple-scheduled-workloads-using-google-cloud-b23448a027ff
