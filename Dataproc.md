@@ -89,6 +89,10 @@ https://cloud.google.com/blog/products/infrastructure-modernization/running-spar
 
 ## Examples
 
+### Hive and HBase
+
+https://medium.com/@datacouch/big-data-processing-using-google-dataproc-d911d0b05313
+
 ### Use the BigQuery connector with Dataproc Serverless for Spark 
 
 https://cloud.google.com/dataproc-serverless/docs/guides/bigquery-connector-spark-example
@@ -96,6 +100,8 @@ https://cloud.google.com/dataproc-serverless/docs/guides/bigquery-connector-spar
 ### Dataproc serverless Spark for Delta Lake by Databricks
 
 https://medium.com/google-cloud/processing-databricks-delta-lake-data-in-google-cloud-dataproc-serverless-for-spark-1cc1405a3ee4
+
+
 
 ## Tutorials
 
