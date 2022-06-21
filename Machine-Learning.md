@@ -17,6 +17,7 @@ https://cloud.google.com/architecture/guidelines-for-developing-high-quality-ml-
 
 https://github.com/collections/machine-learning
 
+
 ## Google Machine Learning Platform Overview
 
 [https://www.youtube.com/watch?v=QR_LQQ-vvko](https://www.youtube.com/watch?v=QR_LQQ-vvko)
