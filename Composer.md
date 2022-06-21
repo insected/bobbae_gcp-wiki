@@ -190,6 +190,9 @@ https://towardsdatascience.com/connect-airflow-worker-gcp-e79690f3ecea
 
 https://medium.com/@jasperfast/google-cloud-composer-ci-cd-f469a09c9db8
 
+### Composer for ML data pipeline
+https://medium.com/anymind-group/cloud-composer-airflow-for-machine-learning-data-pipeline-9ea41165ef7d
+
 ## Qwiklabs
 
 ### GSP283
