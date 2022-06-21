@@ -404,6 +404,7 @@ https://dev.to/stack-labs/bigquery-transactions-over-multiple-queries-with-sessi
 
 https://medium.com/plumbersofdatascience/incremental-data-ingestion-in-bigquery-using-merge-1387e49c7eb5
 
+
 ### Data Fusion
 
 [Data Fusion](Data-Fusion) is built using open source project [CDAP](https://github.com/cdapio/cdap).  It is a GUI based data integration service for building and managing data pipelines.
@@ -622,6 +623,11 @@ You can also do the following:
 
 
 https://cloud.google.com/bigquery/docs/connected-sheets
+
+
+###  BigQuery Migration Service (BQMS)
+
+https://cloud.google.com/blog/products/data-analytics/automated-sql-translation-to-accelerate-bigquery-migrations
 
 ### Pricing
 
