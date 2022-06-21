@@ -223,6 +223,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/measuring-climate-
 
 https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-vertex-ai-accelerates-machine-learning
 
+### Vertex AI model training with custom containers
+https://medium.com/google-cloud/how-to-train-ml-models-with-vertex-ai-training-f9046bfbcfab
 
 ## Qwiklabs
 
