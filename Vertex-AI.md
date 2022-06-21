@@ -208,6 +208,12 @@ https://medium.com/@psvishnu/online-prediction-using-gcps-vertex-ai-e5fbc089906d
 ### BigQuery, Vision AI, and Vertex AI SDK for Python to train a text entity extraction model 
 https://cloud.google.com/blog/topics/developers-practitioners/automate-annotations-vertex-ai-text-datasets
 
+
+### Measuring climate and land changes with AI
+
+
+https://cloud.google.com/blog/topics/developers-practitioners/measuring-climate-and-land-changes-ai
+
 ## Qwiklabs
 
 ### Qwik start
