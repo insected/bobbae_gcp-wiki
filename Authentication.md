@@ -87,6 +87,9 @@ https://cloud.google.com/endpoints/docs/openapi/authenticating-users-google-id
 
 https://cloud.google.com/endpoints/docs/openapi/service-account-authentication
 
+### Authentication between micro services
+https://medium.com/google-cloud/authentication-between-microservices-is-it-really-that-hard-b73785510db4
+
 ## Tokens
 
 ### JWT
