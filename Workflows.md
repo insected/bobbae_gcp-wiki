@@ -120,6 +120,8 @@ https://medium.com/datatonic/lightweight-data-orchestration-using-cloud-workflow
 
 https://github.com/PrefectHQ/prefect
 
+### PyDag
+https://itnext.io/how-to-build-a-dag-based-task-scheduling-tool-for-multiprocessor-systems-using-python-d11a093a835b
 
 ### Snakemake
 
