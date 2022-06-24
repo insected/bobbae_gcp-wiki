@@ -22,12 +22,7 @@ If you don’t get any free or discounted Qwiklabs credits in a few days after s
 https://www.youtube.com/user/yogaarsa/playlists
 
 
-
-#### Free tier
-
-If you don’t get any free or discounted Qwiklabs credits in a few days after signing up, you can still use [free tier Google cloud services](https://cloud.google.com/free).
-
-#### Videos 
+ 
 #### Google Cloud Skills Boost
 
 https://www.cloudskillsboost.google/
