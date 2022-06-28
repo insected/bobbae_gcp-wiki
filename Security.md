@@ -789,6 +789,12 @@ https://cyberlaw.ccdcoe.org/wiki/The_Shadow_Brokers_publishing_the_NSA_vulnerabi
 
 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
 
+
+### Kubernetes clusters exposed 
+
+https://www.bleepingcomputer.com/news/security/over-900-000-kubernetes-instances-found-exposed-online/
+
+
 ### IOT
 
 https://www.bankinfosecurity.com/blogs/attackers-iot-paradise-billions-insecure-devices-p-2922
