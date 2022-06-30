@@ -117,9 +117,13 @@ https://blog.aquasec.com/dns-spoofing-kubernetes-clusters
 
 [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) automates updating DNS records as part of the deployment of a public facing web application.
 
+ExternalDNS makes Kubernetes resources discoverable via public DNS servers. 
+
 #### External DNS with GKE & Cloud DNS
 
 https://joachim8675309.medium.com/externaldns-with-gke-cloud-dns-38a174fdced7
+
+https://joachim8675309.medium.com/externaldns-w-gke-cloud-dns-2-1226a00d01c0
 
 ## DNS Security
 
