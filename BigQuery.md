@@ -986,6 +986,11 @@ https://datadice.medium.com/raw-google-analytics-4-ga4-data-in-bigquery-bq-9cb77
 ### Measuring string similarity using UDF implementation of Levenshtein distance
 https://towardsdatascience.com/measuring-string-similarity-in-bigquery-using-sql-33c490638c89
 
+### Median, Mode and Average in SQL
+
+https://towardsdatascience.com/median-mode-and-average-order-value-in-bigquery-using-sql-8952bfbc288a
+
+
 ## Qwiklabs
 
 
