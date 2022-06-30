@@ -6,6 +6,9 @@ FinOps is a cultural practice. It’s the way for teams to manage their [cloud c
 
 https://medium.com/@bernadethl/maximize-your-cloud-investment-with-finops-on-google-cloud-1545c98a326a
 
+## Understanding and analyzing your Google Cloud costs
+https://cloud.google.com/blog/topics/developers-practitioners/understanding-and-analyzing-your-google-cloud-costs
+
 ## FinOps Data
 
 https://data.finops.org/
