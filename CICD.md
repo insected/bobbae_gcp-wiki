@@ -199,3 +199,6 @@ https://blog.searce.com/deploy-applications-to-gke-using-google-cloud-deploy-f1f
 ## CICD Pipeline as Code using Terraform
 
 https://genekuo.medium.com/setting-up-a-ci-cd-pipeline-on-gcp-with-terraform-539e66797072
+
+## CICD with Cloud Build on Compute Engine
+https://blog.searce.com/ci-cd-with-cloud-build-on-compute-engine-451ccb7b8a1
