@@ -602,6 +602,9 @@ https://cloud.google.com/bigquery/docs/encryption-at-rest
 
 https://cloud.google.com/bigquery/docs/column-level-security
 
+#### BigQuery column-level encryption functions
+https://cloud.google.com/blog/products/identity-security/announcing-new-bigquery-capabilities-to-help-secure-sensitive-data
+
 #### BigQuery row-level security
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
@@ -609,6 +612,8 @@ https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-
 #### Column based data masking
 https://medium.com/codex/google-improves-data-security-in-bigquery-195a90cc5b85
 
+#### Dynamic data masking
+https://cloud.google.com/blog/products/identity-security/announcing-new-bigquery-capabilities-to-help-secure-sensitive-data
 ### Using Connected Sheets with BigQuery
 
 With [Connected Sheets](https://cloud.google.com/bigquery/docs/connected-sheets
