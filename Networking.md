@@ -41,6 +41,8 @@ https://cloud.google.com/blog/products/infrastructure/google-network-infrastruct
 ## GCP Network stack
 https://cloud.google.com/blog/products/networking/networking-spotlight-2022
 
+## GCP networking 101
+https://github.com/jesuispy/networking-101-gcp-sheet
 
 ## GCP Network Options
 
