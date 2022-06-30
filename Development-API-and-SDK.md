@@ -22,6 +22,9 @@ https://cloud.google.com/sdk/docs/scripting-gcloud
 
 https://cloud.google.com/blog/products/it-ops/filtering-and-formatting-fun-with
 
+#### Node.js cloud client libraries
+https://cloud.google.com/blog/topics/developers-practitioners/using-nodejs-cloud-client-libraries
+
 ### Cloud Endpoints
 
 [Endpoints](Endpoints) is an API management system that helps you secure, monitor, analyze, and set quotas on your APIs using the same infrastructure Google uses for its own APIs. After you deploy your API to Endpoints, you can use the [Cloud Endpoints Portal](https://cloud.google.com/endpoints/docs/dev-portal-overview) to create a developer portal, a website that users of your API can access to view documentation and interact with your API.
