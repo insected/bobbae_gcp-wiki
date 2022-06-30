@@ -67,4 +67,8 @@ https://cloud.google.com/traffic-director/docs/proxyless-overview
 
 ## Example
 
+### Proxyless GRPC
 https://cloud.google.com/traffic-director/docs/prepare-proxyless-grpc
+
+### Load balancing Google Cloud VMware Engine with Traffic Director
+https://cloud.google.com/blog/products/infrastructure-modernization/optimize-front-end-performance-for-gcve
