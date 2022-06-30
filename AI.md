@@ -289,6 +289,9 @@ https://cloud.google.com/blog/products/ai-machine-learning/discover-advanced-ins
 
 https://medium.com/google-cloud/process-images-with-google-cloud-ai-c8a9ff159d99
 
+### Teachable Machine
+https://teachablemachine.withgoogle.com/
+
 ## Tutorials
 
 - https://www.w3schools.com/ai/
