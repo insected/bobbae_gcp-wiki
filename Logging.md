@@ -87,6 +87,11 @@ Cloud Logging client libraries are idiomatic interfaces around the API. Client l
 
 https://cloud.google.com/logging/docs/reference/libraries
 
+
+#### Writing logs in GCP logs explorer for Compute Engine in Golang
+
+https://medium.com/readytowork-org/writing-logs-in-gcp-logs-explorer-for-compute-engine-on-golang-63b6c753770a
+
 ### Exporting Logs in the API
 
 https://cloud.google.com/logging/docs/api/tasks/exporting-logs
