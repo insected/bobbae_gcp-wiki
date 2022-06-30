@@ -292,6 +292,9 @@ https://medium.com/google-cloud/process-images-with-google-cloud-ai-c8a9ff159d99
 ### Teachable Machine
 https://teachablemachine.withgoogle.com/
 
+### Public sector examples
+https://cloud.google.com/blog/topics/public-sector/accelerating-aiml-adoption-public-sector-three-ways-get-started
+
 ## Tutorials
 
 - https://www.w3schools.com/ai/
