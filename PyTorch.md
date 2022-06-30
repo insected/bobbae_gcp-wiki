@@ -14,6 +14,8 @@ PyTorch defines a class called Tensor (torch.Tensor) to store and operate on hom
 
 https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-cloud-blog-series-recap
 
+### PyTorch on Vertex AI
+https://medium.com/nlplanet/training-a-pytorch-model-on-gcp-vertex-ai-ed20df97ce14
 
 ## PyTorch vs TensorFlow
 
