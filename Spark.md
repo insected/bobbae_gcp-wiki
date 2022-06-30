@@ -19,6 +19,9 @@ https://medium.com/paypal-tech/tuning-spark-applications-to-efficiently-utilize-
 ## Serverless Spark
 https://cloud.google.com/blog/products/data-analytics/making-serverless-spark-even-more-powerful
 
+### Spark and Airflow
+https://medium.com/google-cloud/serverless-spark-etl-pipeline-orchestrated-by-airflow-on-gcp-199efbf9a9f3
+
 ## Apache Spark Tutorial
 
 [https://www.youtube.com/watch?v=IQfG0faDrzE4](https://www.youtube.com/watch?v=IQfG0faDrzE4)  
