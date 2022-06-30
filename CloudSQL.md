@@ -14,6 +14,8 @@ https://cloud.google.com/sql/docs/postgres
 
 https://medium.com/google-cloud/going-cloud-with-sql-server-google-cloud-options-6cd44bb52bef
 
+#### SQL Server database auditing
+https://cloud.google.com/sql/docs/sqlserver/db-audit
 ### AlloyDB
 
 https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-intelligent-scalable-storage
