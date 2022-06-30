@@ -93,3 +93,6 @@ https://medium.com/google-cloud/building-a-mobility-dashboard-with-cloud-run-and
 
 ### A Mobility dashboard with streamlit and Cloud Run and Firestore
 https://cloud.google.com/blog/topics/manufacturing/building-a-mobility-dashboard-with-cloud-run-and-firestore
+
+### Using Firestore to access GCS metadata
+https://medium.com/google-cloud/using-firestore-database-to-access-your-cloud-storage-metadata-c4d1886e8885
