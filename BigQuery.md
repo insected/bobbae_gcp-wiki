@@ -852,6 +852,8 @@ https://medium.com/google-cloud/streaming-data-into-bigquery-using-google-cloud-
 
 https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac12980f2036
 
+### Firehose Kafka data ingestion
+https://cloud.google.com/blog/products/data-analytics/introducing-firehose-an-open-source-tool-from-gojek
 
 ### Dynamic SQL Stored Procedure
 
