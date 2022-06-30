@@ -132,6 +132,18 @@ https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison
 
 https://geekflare.com/cloud-hosting-platform/
 
+## GCP Sustainability
+
+https://cloud.google.com/sustainability
+
+### Commitments
+https://sustainability.google/commitments/
+
+### Renewable energy
+https://cloud.google.com/blog/topics/sustainability/5-years-of-100-percent-renewable-energy
+
+### Water
+https://www.nature.com/articles/s41545-021-00101-w
 
 ## Links
 
