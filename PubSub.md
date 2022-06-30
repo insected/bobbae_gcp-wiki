@@ -73,6 +73,10 @@ https://medium.com/@mattbancroft03/mocking-events-in-pub-sub-triggered-cloud-fun
 
 https://medium.com/google-cloud/setting-up-secure-pub-sub-flow-with-go-and-terraform-6b779026a3e1
 
+### Push messages to Cloud Function endpoint in a different GCP project
+
+https://blog.searce.com/pub-sub-push-messages-to-cloud-function-endpoint-in-a-different-gcp-project-d8939434503
+
 ### Qwiklabs
 
 [Google Cloud Pub/Sub: Qwik Start - Python](https://www.qwiklabs.com/focuses/2775?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7524031)
