@@ -91,5 +91,5 @@ https://www.rowy.io/
 
 https://medium.com/google-cloud/building-a-mobility-dashboard-with-cloud-run-and-firestore-dfa48d193ae1
 
-### A Mobility dashboard with Cloud Run and Firestore
+### A Mobility dashboard with streamlit and Cloud Run and Firestore
 https://cloud.google.com/blog/topics/manufacturing/building-a-mobility-dashboard-with-cloud-run-and-firestore
