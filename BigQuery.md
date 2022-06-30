@@ -621,7 +621,13 @@ https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-
 https://medium.com/codex/google-improves-data-security-in-bigquery-195a90cc5b85
 
 #### Dynamic data masking
+
 https://cloud.google.com/blog/products/identity-security/announcing-new-bigquery-capabilities-to-help-secure-sensitive-data
+
+
+https://medium.com/plumbersofdatascience/dynamic-data-masking-on-bigquery-ae3d004b496c
+
+
 ### Using Connected Sheets with BigQuery
 
 With [Connected Sheets](https://cloud.google.com/bigquery/docs/connected-sheets
