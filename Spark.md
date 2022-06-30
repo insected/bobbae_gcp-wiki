@@ -8,6 +8,10 @@ https://medium.com/google-cloud/dataproc-spark-cluster-on-gcp-in-minutes-3843b8d
 ### Apache Spark and Jupyter Notebooks on Cloud Dataproc
 https://codelabs.developers.google.com/codelabs/spark-jupyter-dataproc#0
 
+###  Dataproc Serverless PySpark templates
+
+https://medium.com/@ppaglilla/getting-started-with-dataproc-serverless-pyspark-templates-e32278a6a06e
+
 ### PySpark and Jupyter Notebook
 
 https://www.freecodecamp.org/news/what-is-google-dataproc/
