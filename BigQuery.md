@@ -235,6 +235,9 @@ After you create a dataset, you can update the following dataset properties:
 
 https://cloud.google.com/bigquery/docs/updating-datasets
 
+### BigQuery data update optimization by partitioning 
+https://medium.com/cstech/google-bigquery-data-update-optimization-9d788bfe811b
+
 ### Updating default table expiration times
 
 https://cloud.google.com/bigquery/docs/updating-datasets#table-expiration
@@ -512,6 +515,8 @@ https://medium.com/@wojcikpawel/exactly-once-delivery-in-bigquerys-storage-write
 
 [https://cloud.google.com/bigquery/public-data](https://cloud.google.com/bigquery/public-data)
 
+### Query queues for concurrency
+https://medium.com/codex/bigquery-now-supporting-query-queues-378a65fdc9c1
 
 ### BigQuery Standard SQL
 
@@ -605,6 +610,9 @@ https://cloud.google.com/bigquery/docs/column-level-security
 #### BigQuery column-level encryption functions
 https://cloud.google.com/blog/products/identity-security/announcing-new-bigquery-capabilities-to-help-secure-sensitive-data
 
+
+#### Restricting access to columns
+https://medium.com/plumbersofdatascience/restrict-access-to-columns-on-bigquery-1550895b3356
 #### BigQuery row-level security
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-provides-tighter-controls-over-data-access
