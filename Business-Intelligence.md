@@ -11,6 +11,10 @@ https://www.guru99.com/business-intelligence-definition-example.html#what-is-bus
 
 https://cloud.google.com/bigquery/docs/bi-engine-intro
 
+
+https://cloud.google.com/blog/products/data-analytics/learn-how-bi-engine-enhances-bigquery-query-performance
+
+
 ## Business Intelligence Tools
 
 https://www.guru99.com/business-intelligence-tools.html
