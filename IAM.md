@@ -153,7 +153,7 @@ https://faun.pub/iam-for-gcp-resource-based-conditional-access-ec1016d60303
 
 [A tag is a key-value pair](https://cloud.google.com/iam/docs/tags-access-control) that is attached to an organization, folder, or project. You can [conditionally grant IAM roles](https://cloud.google.com/iam/docs/conditions-overview) based on whether a resource has a specific tag.
 
-
+https://medium.com/@harshalrane23/introducing-resource-tags-in-gcp-e222c9b3898a
 
 ## Searching policies
 
