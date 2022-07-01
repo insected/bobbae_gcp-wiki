@@ -8,14 +8,6 @@ The [Standard Environment](https://cloud.google.com/appengine/docs/about-the-sta
 
 
 
-### Languages updates
-
-https://cloud.google.com/blog/topics/developers-practitioners/new-java-ruby-python-php-runtimes
-
-
-### App Engine Auto scaling
-
-https://levelup.gitconnected.com/understanding-and-optimization-of-google-app-engines-automatic-scaling-95674910da3b
 
 
 ## App Engine Standard
@@ -60,6 +52,10 @@ A video tutorial on how to create a web application using node.js and express fr
 [https://www.youtube.com/watch?v=G8uL0lFFoN0](https://www.youtube.com/watch?v=G8uL0lFFoN0)
 
 
+#### Languages updates
+
+https://cloud.google.com/blog/topics/developers-practitioners/new-java-ruby-python-php-runtimes
+
 ## App Engine Flexible
 
 Based on [Google Compute Engine](https://cloud.google.com/compute), the [App Engine flexible](https://cloud.google.com/appengine/docs/flexible/) environment automatically scales your app up and down while also balancing the load. Because of sandbox restrictions, most App Engine standard applications tend to be stateless web applications that respond to HTTP requests quickly.
@@ -83,6 +79,13 @@ https://cloud.google.com/appengine/docs/flexible/python/run-flex-app-on-kubernet
 ### Moving from App Engine to GKE
 
 https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/
+
+
+
+### App Engine Auto scaling
+
+https://levelup.gitconnected.com/understanding-and-optimization-of-google-app-engines-automatic-scaling-95674910da3b
+
 
 ## Other PaaS
 
