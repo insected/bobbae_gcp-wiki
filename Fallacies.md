@@ -1,18 +1,16 @@
 
 
-https://github.com/kdeldycke/awesome-falsehood
-
-https://github.com/jameslk/awesome-falsehoods
-
 
 ### 8 [fallacies](https://en.wikipedia.org/wiki/Fallacy) of distributed computing
 
 https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
 
+
 <!--
 
 
 ### Microservices
+
 
 
 https://www.getambassador.io/resources/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
@@ -545,6 +543,7 @@ https://www.refsmmat.com/posts/2016-05-08-simpsons-paradox-berkeley.html
 https://github.com/kdeldycke/awesome-falsehood
 
 
+https://github.com/jameslk/awesome-falsehoods
 
 ### History of computers
 
@@ -589,7 +588,8 @@ https://link.springer.com/article/10.1007/s10270-019-00768-3#Abs1
 
 https://en.wikipedia.org/wiki/Anti-pattern
 
-
+## AI Saviorism
+https://www.shreya-shankar.com/ai-saviorism/
 
 
 
