@@ -173,6 +173,13 @@ When evaluating the computation that is required by a query, consider the [amoun
 
 When [evaluating your output data](https://cloud.google.com/bigquery/docs/best-practices-performance-output), consider the number of bytes written by your query. How many bytes are written for your result set? Are you properly limiting the amount of data written? Are you repeatedly writing the same data? The amount of data written by a query impacts query performance (I/O). If you are writing results to a permanent (destination) table, the amount of data written also has a cost.
 
+
+## BigQuery BI Engine
+BI Engine is an in-memory analysis service that helps customers get low latency performance for their queries across all [BI](Business-Intelligence) tools that connect to [BigQuery](BigQuery).
+
+https://cloud.google.com/bigquery/docs/bi-engine-intro
+
+
 ## Comparisons
 
 https://dzone.com/articles/cloud-data-warehouse-comparison-redshift-vs-bigque
