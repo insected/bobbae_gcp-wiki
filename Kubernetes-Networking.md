@@ -115,6 +115,12 @@ Calico now has built in support for VXLAN, which we generally recommend for simp
 
 https://docs.cilium.io/en/v1.9/gettingstarted/k8s-install-kubeadm/
 
+### eBPF and GKE
+https://cloud.google.com/blog/products/containers-kubernetes/bringing-ebpf-and-cilium-to-google-kubernetes-engine
+
+### eBPF and GKE Autopilot
+https://cloud.google.com/blog/products/containers-kubernetes/ip-masquerading-and-ebpf-are-now-in-gke-autopilot
+
 ### Contiv
 
 [Contiv](https://github.com/contiv/netplugin) provides configurable networking (native L3 using BGP, overlay using vxlan, classic L2, or Cisco-SDN/ACI) for various use cases. 
@@ -157,3 +163,4 @@ https://www.weave.works/docs/net/latest/concepts/how-it-works/
 ### wormhole
 
 https://github.com/gravitational/wormhole
+
