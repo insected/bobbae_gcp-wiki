@@ -403,11 +403,11 @@ Moving your internal services to the cloud can bring you a handful of new, usefu
 
 ## Cloud Armor
 
-Google [Cloud Armor](https://cloud.google.com/armor/docs) helps protect your infrastructure and applications from distributed denial-of-service (DDoS) attacks by using Google's global infrastructure and security systems.
+Google [Cloud Armor](Cloud-Armor) helps protect your infrastructure and applications from distributed denial-of-service (DDoS) attacks by using Google's global infrastructure and security systems.
 
 
 
-Setting up Cloud Armor.
+### Setting up Cloud Armor
 
 [https://www.youtube.com/watch?v=g_c2KLpnWck](https://www.youtube.com/watch?v=g_c2KLpnWck)
 
