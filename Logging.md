@@ -21,6 +21,9 @@ https://cloud.google.com/error-reporting/docs
 
 https://medium.com/google-cloud/introducing-google-cloud-logging-python-v3-0-0-4c548663bab4
 
+## Golang cloud logging
+https://cloud.google.com/blog/products/devops-sre/more-support-for-structured-logs-in-new-version-of-go-logging-library
+
 ## Cloud Operations Suite
 
 [Cloud Operations Suite](Operations-and-Stackdriver) is new name for [Stackdriver](https://cloud.google.com/products/operations) which includes Cloud Monitoring, Cloud logging, debugging, tracing, dashboarding, etc.
