@@ -8,6 +8,7 @@ https://www.guru99.com/business-intelligence-definition-example.html#what-is-bus
 
 
 ## BigQuery BI Engine
+BI Engine is an in-memory analysis service that helps customers get low latency performance for their queries across all BI tools that connect to [BigQuery](BigQuery).
 
 https://cloud.google.com/bigquery/docs/bi-engine-intro
 
