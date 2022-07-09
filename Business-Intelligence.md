@@ -15,6 +15,8 @@ https://cloud.google.com/bigquery/docs/bi-engine-intro
 
 https://cloud.google.com/blog/products/data-analytics/learn-how-bi-engine-enhances-bigquery-query-performance
 
+### BQ BI Engine Preferred Tables
+https://cloud.google.com/blog/products/data-analytics/now-in-preview-bigquery-bi-engine-preferred-tables
 
 ## Business Intelligence Tools
 
