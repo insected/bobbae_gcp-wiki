@@ -242,6 +242,13 @@ The [Cloud Spanner SQL query optimizer](https://cloud.google.com/spanner/docs/qu
 
 [This page](https://cloud.google.com/spanner/docs/schema-design) describes best practices for designing Cloud Spanner schemas to avoid hotspots and for loading data into Cloud Spanner. Pay attention to [query limits](https://cloud.google.com/spanner/quotas#query_limits) and [limits in CRUD operations](https://cloud.google.com/spanner/quotas#limits_for_creating_reading_updating_and_deleting_data).
 
+
+
+### Query Insights for Cloud Spanner
+
+https://cloud.google.com/blog/products/databases/diagnose-query-performance-issues-with-cloud-spanner-query-insights
+
+
 ### Spanner Emulator
 
 The [Cloud SDK](https://cloud.google.com/sdk) provides a local, in-memory emulator, which you can use to develop and test your applications.
