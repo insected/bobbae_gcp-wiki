@@ -15,12 +15,7 @@ The [service mesh](https://en.wikipedia.org/wiki/Service_mesh) is typically impl
 
 The [rise of the service mesh](https://www.talentica.com/blogs/the-rise-of-service-mesh-how-can-businesses-use-it/) is tied to the rise of the [cloud native](https://cloud.google.com/solutions/cloud-native-app-development) application. In the [cloud native world](https://www.cncf.io/), an application might consist of hundreds of services and each service might have thousands of instances and each of those instances might be in a constantly-changing state as they are dynamically scheduled by an orchestrator like [Kubernetes](Kubernetes). 
 
-### Anthos Service Mesh
 
-https://cloud.google.com/anthos/service-mesh
-
-### Anthos
-https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive
 
 ### Sidecar proxy
 
@@ -68,6 +63,14 @@ https://cloud.google.com/service-mesh/docs/overview
 
 
 https://blog.searce.com/anthos-blog-series-part-1-anthos-service-mesh-a258ba621732
+
+
+### Anthos service mesh deep dive
+https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive
+
+### Deploying online boutique to service mesh
+https://cloud.google.com/service-mesh/docs/onlineboutique-install-kpt
+
 
 ## Envoy
 
