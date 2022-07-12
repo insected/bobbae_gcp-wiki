@@ -162,6 +162,30 @@ https://cloud.google.com/anthos/clusters/docs/on-prem/1.8/overview
 #### Configure external IP addresses for Anthos clusters on VMware 
 https://cloud.google.com/service-mesh/docs/unified-install/external-ip-load-balance
 
+## Examples
+
+
+### Anthos Service Mesh example: Canary deployment
+https://cloud.google.com/service-mesh/docs/by-example/canary-deployment
+
+### mTLS example
+https://cloud.google.com/service-mesh/docs/by-example/mtls
+
+### Automate TLS
+https://cloud.google.com/service-mesh/docs/automate-tls
+
+### Expose service mesh apps through GKE ingress
+https://cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress
+
+### Deploy Online Boutique example app to Anthos Service Mesh
+https://cloud.google.com/service-mesh/docs/onlineboutique-install-kpt
+
+### Deploy BookInfo example to Anthos Service Mesh
+https://cloud.google.com/service-mesh/docs/deploy-bookinfo
+
+### Deploy Prometheus, Grafana and Kiali on istio
+https://cloud.google.com/service-mesh/docs/deploy-demo-telemetry-addons
+
 ## Qwiklabs
 
 [Migrate for Anthos: Qwik Start](https://www.qwiklabs.com/focuses/10268?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=7467866)
