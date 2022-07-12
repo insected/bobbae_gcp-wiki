@@ -28,6 +28,9 @@ A [service mesh](service-mesh) is a platform layer on top of the infrastructure 
 
 https://cloud.google.com/architecture/service-meshes-in-microservices-architecture
 
+### Anthos service mesh
+https://cloud.google.com/anthos/service-mesh
+
 ## Examples
 
 ### Expose Online Boutique app on service mesh through GKE ingress
