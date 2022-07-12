@@ -459,3 +459,11 @@ https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/
 ## Awesome links for Kubernetes
 
 [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+
+## Examples
+
+### Online boutique micro services in GKE
+
+https://github.com/GoogleCloudPlatform/microservices-demo
+
