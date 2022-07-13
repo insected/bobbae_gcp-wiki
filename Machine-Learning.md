@@ -720,6 +720,9 @@ https://360digitmg.com/gpt-vs-bert
 #### GPT-3 Criticism
 https://dl.acm.org/doi/10.1145/3442188.3445922
 
+#### Stochastic parrots
+https://faculty.washington.edu/ebender/stochasticparrots.html
+
 #### Code Editors
 
 https://copilot.github.com/
