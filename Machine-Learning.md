@@ -708,6 +708,8 @@ https://github.com/elyase/awesome-gpt3
 
 https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
 
+#### Write with transformer
+https://transformer.huggingface.co/doc/gpt
 
 #### BERT and GPT-3
 
