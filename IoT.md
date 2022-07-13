@@ -31,6 +31,12 @@ https://devopedia.org/iot-operating-systems
 
 https://github.com/bobbae/gcp/wiki/Networking#iot-networking
 
+### Intelligent Products
+
+https://cloud.google.com/solutions/intelligent-products
+
+### Intelligent products essential architecture
+https://cloud.google.com/architecture/intelligent-products-essentials-architecture
 
 ### Industrial Networking
 
