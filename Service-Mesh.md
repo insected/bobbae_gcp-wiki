@@ -134,7 +134,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-services
 
 ### Multi-cluster ingress
 
-Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller for Anthos clusters. It's a Google-hosted service that supports deploying shared load balancing resources across clusters and across regions.
+Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller for Anthos clusters. It's a Google-hosted service that supports deploying shared load-balancing resources across clusters and across regions.
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
 
