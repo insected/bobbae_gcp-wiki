@@ -82,6 +82,9 @@ https://cloud.google.com/service-mesh/docs/unified-install/off-gcp-multi-cluster
 ### In-cluster control plane options
 https://cloud.google.com/service-mesh/docs/unified-install/options/all-install-options
 
+### Configuring managed Anthos service mesh
+https://cloud.google.com/service-mesh/docs/managed/configure-managed-anthos-service-mesh
+
 ## Envoy
 
 [Envoy](https://www.envoyproxy.io/) is  a L7 edge service Proxy used widely by service mesh controllers such as [Consul](https://www.consul.io/), [Contour](https://projectcontour.io/) and istio. Envoy is also used by API gateway like [Ambassador](https://github.com/datawire/ambassador).
@@ -148,7 +151,23 @@ Multi-cluster Ingress (MCI) is a cloud-hosted multi-cluster Ingress controller f
 
 https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-setup
 
+## Anthos service mesh security overview
+https://cloud.google.com/service-mesh/docs/security/security-overview
+
+## Anthos service mesh observability
+https://cloud.google.com/service-mesh/docs/observability-overview
+
 ## Examples
+
+### Canary Deployment
+https://cloud.google.com/service-mesh/docs/by-example/canary-deployment
+
+### mTLS
+https://cloud.google.com/service-mesh/docs/by-example/mtls
+
+### Automate TLS certificate management
+https://cloud.google.com/service-mesh/docs/automate-tls
+
 
 ### Exposing service mesh apps through GKE ingress
 https://cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress
