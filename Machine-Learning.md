@@ -697,7 +697,7 @@ https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-fo
 #### GPT-3 
 
 
-Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. 
+Generative Pre-trained [Transformer](https://www.youtube.com/watch?v=SZorAJ4I-sA) 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. 
 
 
 https://en.wikipedia.org/wiki/GPT-3
