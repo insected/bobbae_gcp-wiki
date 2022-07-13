@@ -142,3 +142,6 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/multi-cluster-ingress-set
 
 ### Exposing service mesh apps through GKE ingress
 https://cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress
+
+### Deploying online boutique sample application to anthos service mesh using kpt
+https://cloud.google.com/service-mesh/docs/onlineboutique-install-kpt
