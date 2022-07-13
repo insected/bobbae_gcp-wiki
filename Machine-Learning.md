@@ -713,6 +713,10 @@ https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/
 
 https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game-for-nlp/
 
+
+https://360digitmg.com/gpt-vs-bert
+
+
 #### Code Editors
 
 https://copilot.github.com/
