@@ -717,6 +717,9 @@ https://www.ibm.com/blogs/watson/2020/12/how-bert-and-gpt-models-change-the-game
 https://360digitmg.com/gpt-vs-bert
 
 
+#### GPT-3 Criticism
+https://dl.acm.org/doi/10.1145/3442188.3445922
+
 #### Code Editors
 
 https://copilot.github.com/
