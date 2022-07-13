@@ -64,6 +64,8 @@ https://cloud.google.com/service-mesh/docs/overview
 
 https://blog.searce.com/anthos-blog-series-part-1-anthos-service-mesh-a258ba621732
 
+### Installing Anthos service mesh
+https://cloud.google.com/service-mesh/docs/unified-install/install-anthos-service-mesh
 
 ### Anthos service mesh deep dive
 https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive
@@ -71,6 +73,14 @@ https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive
 ### Deploying online boutique to service mesh
 https://cloud.google.com/service-mesh/docs/onlineboutique-install-kpt
 
+### Set up a multi-cluster mesh on GKE
+https://cloud.google.com/service-mesh/docs/unified-install/gke-install-multi-cluster
+
+### Set up a multi-cluster mesh outside Google Cloud
+https://cloud.google.com/service-mesh/docs/unified-install/off-gcp-multi-cluster-setup
+
+### In-cluster control plane options
+https://cloud.google.com/service-mesh/docs/unified-install/options/all-install-options
 
 ## Envoy
 
