@@ -605,6 +605,8 @@ https://medium.com/towards-data-science/how-does-masking-work-in-an-rnn-and-vari
 
 LSTMs enable RNNs to remember inputs over a long period of time. 
 
+#### LSTM, Transformer and BERT
+https://www.youtube.com/watch?v=xI0HHN5XKDo
 
 #### Multi-class Neural Networks
 
