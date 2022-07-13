@@ -226,6 +226,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-vertex-a
 ### Vertex AI model training with custom containers
 https://medium.com/google-cloud/how-to-train-ml-models-with-vertex-ai-training-f9046bfbcfab
 
+
+### Building a pipeline for data analytics and machine learning
+https://cloud.google.com/architecture/building-and-orchestrating-data-analytics-and-machine-learning-pipeline
+
 ## Qwiklabs
 
 ### Qwik start
