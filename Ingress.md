@@ -190,3 +190,7 @@ https://gist.github.com/pydevops/dce8bdf1c360f7a913ac48f04b2d39d1
 ### Exposing GKE applications leveraging the built-in ingress
 
 https://medium.com/google-cloud/exposing-gke-applications-leveraging-the-built-in-ingress-e87b78e23e90
+
+
+### Exposing service mesh apps through GKE ingress
+https://cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress
