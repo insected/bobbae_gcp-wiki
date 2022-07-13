@@ -13,6 +13,11 @@ A video to show you how you can build small containers to make your Kubernetes d
 
 [https://www.youtube.com/watch?v=wGz_cbtCiEA](https://www.youtube.com/watch?v=wGz_cbtCiEA)
 
+
+### Exposing service mesh apps through GKE ingress
+https://cloud.google.com/architecture/exposing-service-mesh-apps-through-gke-ingress
+
+
 ### Typhoon
 
 https://github.com/poseidon/typhoon
