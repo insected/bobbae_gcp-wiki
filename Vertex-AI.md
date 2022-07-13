@@ -230,6 +230,9 @@ https://medium.com/google-cloud/how-to-train-ml-models-with-vertex-ai-training-f
 ### Building a pipeline for data analytics and machine learning
 https://cloud.google.com/architecture/building-and-orchestrating-data-analytics-and-machine-learning-pipeline
 
+### Use Kubeflow pipelines for propensity modeling 
+https://cloud.google.com/architecture/use-kubeflow-pipelines-for-propensity-modeling
+
 ## Qwiklabs
 
 ### Qwik start
