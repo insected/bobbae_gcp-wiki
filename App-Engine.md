@@ -42,6 +42,7 @@ A Python tutorial video.
 
 [https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
+https://cloud.google.com/appengine/docs/standard/python3/create-app
 
 #### Node.js
 
