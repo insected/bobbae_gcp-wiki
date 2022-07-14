@@ -35,6 +35,13 @@ https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-clo
 
 https://cloud.google.com/blog/topics/developers-practitioners/pytorchxla-performance-debugging-tpu-vm-part-1
 
+## JAX vs Tensorflow vs PyTorch
+https://analyticsindiamag.com/jax-vs-tensorflow-vs-pytorch-a-comparative-analysis/
+
+## JAX vs PyTorch: Automatic Differentiation for XGBoost
+
+https://towardsdatascience.com/jax-vs-pytorch-automatic-differentiation-for-xgboost-10222e1404ec
+
 ## PyTorch examples
 
 https://github.com/pytorch/examples
