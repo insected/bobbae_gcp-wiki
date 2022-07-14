@@ -47,6 +47,8 @@ A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a se
 #### TPU
 https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available
 
+https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
+
 #### Cloud TPU v4 pods
 
 https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster
