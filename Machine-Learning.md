@@ -590,6 +590,7 @@ If your learning rate is set too low, training will progress very slowly as you 
 
 https://medium.com/swlh/convolutional-neural-network-for-detecting-cancer-tumors-in-microscopic-images-1acab6481d05
 
+https://www.youtube.com/watch?v=YRhxdVk_sIs
 
 #### Recurrent Neural Networks
 
@@ -598,6 +599,9 @@ https://medium.com/swlh/convolutional-neural-network-for-detecting-cancer-tumors
 RNNs are often used in text and speech processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. 
 
 https://medium.com/towards-data-science/how-does-masking-work-in-an-rnn-and-variants-and-why-537bf63c306d
+
+
+https://www.youtube.com/watch?v=LHXXI4-IEns
 
 #### LSTM
 
