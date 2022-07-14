@@ -592,6 +592,11 @@ https://medium.com/swlh/convolutional-neural-network-for-detecting-cancer-tumors
 
 https://www.youtube.com/watch?v=YRhxdVk_sIs
 
+#### UNet
+UNet, evolved from the traditional convolutional neural network, was first designed and applied in 2015 to process biomedical images. As a general convolutional neural network focuses its task on image classification, where input is an image and output is one label, but in biomedical cases, it requires us not only to distinguish whether there is a disease, but also to localise the area of abnormality.
+
+https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
+
 #### Recurrent Neural Networks
 
 [Recurrent neural networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) are good  for learning from sequential data.
