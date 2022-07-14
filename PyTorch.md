@@ -35,6 +35,16 @@ https://cloud.google.com/blog/topics/developers-practitioners/pytorch-google-clo
 
 https://cloud.google.com/blog/topics/developers-practitioners/pytorchxla-performance-debugging-tpu-vm-part-1
 
+## Cloud TPU VMs
+https://cloud.google.com/blog/products/compute/introducing-cloud-tpu-vms
+
+## JAX
+
+https://github.com/google/jax
+
+
+https://www.assemblyai.com/blog/why-you-should-or-shouldnt-be-using-jax-in-2022/
+
 ## JAX vs Tensorflow vs PyTorch
 https://analyticsindiamag.com/jax-vs-tensorflow-vs-pytorch-a-comparative-analysis/
 
