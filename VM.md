@@ -131,6 +131,8 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/shielded-gke-nodes
 
 https://www.anandtech.com/show/2480/9
 
+### TPU VMs
+https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
 
 ### Firecracker microVM
 
