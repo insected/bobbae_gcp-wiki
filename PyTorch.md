@@ -42,6 +42,9 @@ https://analyticsindiamag.com/jax-vs-tensorflow-vs-pytorch-a-comparative-analysi
 
 https://towardsdatascience.com/jax-vs-pytorch-automatic-differentiation-for-xgboost-10222e1404ec
 
+## JAX vs Julia
+https://kidger.site/thoughts/jax-vs-julia/
+
 ## PyTorch examples
 
 https://github.com/pytorch/examples
