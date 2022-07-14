@@ -608,6 +608,9 @@ LSTMs enable RNNs to remember inputs over a long period of time.
 #### LSTM, Transformer and BERT
 https://www.youtube.com/watch?v=xI0HHN5XKDo
 
+### Transformers, Attention is all you need
+https://www.youtube.com/watch?v=TQQlZhbC5ps
+
 #### Multi-class Neural Networks
 
 ##### One vs. All
