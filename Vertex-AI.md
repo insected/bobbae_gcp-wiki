@@ -27,6 +27,9 @@ https://cloud.google.com/vertex-ai/docs/training/custom-training
 
 https://cloud.google.com/vertex-ai/docs/general/import
 
+## Model co-hosting
+https://cloud.google.com/vertex-ai/docs/predictions/model-co-hosting
+
 ## Configure models and get predictions
 
 https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions
