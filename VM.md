@@ -100,6 +100,8 @@ https://tantingli.medium.com/how-to-manage-gcp-access-using-iap-and-os-login-afd
 
 https://cloud.google.com/blog/products/compute/google-cloud-introduces-tau-vms
 
+https://cloud.google.com/blog/products/compute/tau-t2a-is-first-compute-engine-vm-on-an-arm-chip
+
 ### Spot VMs
 
 https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
