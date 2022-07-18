@@ -3,7 +3,7 @@
 There are [many kinds of tools](https://github.com/pditommaso/awesome-pipeline) to implement different [types of workflows](https://github.com/meirwah/awesome-workflow-engines).
 
 
-Google Cloud’s first general purpose workflow orchestration tool was [Cloud Composer](composer).  Based on [Apache Airflow](https://airflow.apache.org/), Cloud Composer is great for data engineering pipelines like ETL orchestration, big data processing or machine learning workflows, and integrates well with data products like [BigQuery](BigQuery) or [Dataflow](Dataflow). Cloud [Composer](Composer) is a natural choice if your workflow needs to run a series of jobs in a data warehouse or big data cluster, and save results to a storage bucket.
+Google Cloud’s first general-purpose workflow orchestration tool was [Cloud Composer](composer).  Based on [Apache Airflow](https://airflow.apache.org/), Cloud Composer is great for data engineering pipelines like ETL orchestration, big data processing, or machine learning workflows, and integrates well with data products like [BigQuery](BigQuery) or [Dataflow](Dataflow). Cloud [Composer](Composer) is a natural choice if your workflow needs to run a series of jobs in a data warehouse or big data cluster, and save results to a storage bucket.
 
 If you want to process events or chain APIs in a [serverless](Serverless) way, or have workloads that are bursty or latency-sensitive, it may be better to use  [Workflows](https://cloud.google.com/workflows).
 
@@ -16,7 +16,7 @@ Google Cloud provides services supporting both [Orchestration and Choreography a
 
 [Pub/Sub](https://cloud.google.com/pubsub) and [Eventarc](Eventarc)  are both suited for choreography of event-driven services, whereas Workflows is suited for [centrally orchestrated services](https://cloud.google.com/blog/topics/developers-practitioners/better-service-orchestration-workflows). 
 
-[Workflows](http://cloud.google.com/workflows) is a service to orchestrate not only Google Cloud services, such as Cloud Functions and Cloud Run, but also external services. Should there be a central orchestrator controlling all interactions between services or should each service work independently and only interact through events? This is the central question in Orchestration vs Choreography debate. 
+[Workflows](http://cloud.google.com/workflows) is a service to orchestrate not only Google Cloud services, such as Cloud Functions and Cloud Run, but also external services. Should there be a central orchestrator controlling all interactions between services or should each service work independently and only interact through events? This is the central question in the Orchestration vs Choreography debate. 
 
 In Orchestration, a central service defines and controls the flow of communication between services. With centralization, it becomes easier to change and monitor the flow and apply consistent timeout and error policies. 
 
@@ -25,7 +25,7 @@ In Choreography, each service registers for and emits events as they need. There
 
 ## Connectors
 
-Workflows publishes [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow.  Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a [Firestore](Firestore) database, or retrieve authentication keys from [Secret Manager](Secret-Manager).
+Workflows publish [connectors](https://cloud.google.com/workflows/docs/connectors) to make it easier to access other Google Cloud products within a workflow.  Connectors can be used to connect to other Google Cloud APIs within a workflow, helping you integrate your workflows with other Google Cloud products. For example, you can use connectors to publish Pub/Sub messages, read or write data to a [Firestore](Firestore) database, or retrieve authentication keys from [Secret Manager](Secret-Manager).
 
 https://cloud.google.com/workflows/docs/reference/googleapis
 
@@ -33,7 +33,7 @@ https://cloud.google.com/workflows/docs/reference/googleapis
 
 https://cloud.google.com/workflows/docs/connectors-samples
 
-### Connectors Workflows Samples on github
+### Connectors Workflows Samples on GitHub
 
 https://github.com/GoogleCloudPlatform/workflows-samples/tree/main/src/connectors
 
@@ -48,6 +48,13 @@ https://cloud.google.com/blog/topics/developers-practitioners/introducing-workfl
 ### Replicate data from BigQuery to Cloud SQL using Cloud Workflows
 
 https://medium.com/google-cloud/replicate-data-from-bigquery-to-cloud-sql-2b23a08c52b1
+
+### Parallel Steps for Workflows
+
+https://cloud.google.com/blog/topics/developers-practitioners/introducing-parallel-steps-workflows-speed-up-workflow-executions-by-running-steps-concurrently
+
+https://cloud.google.com/workflows/docs/execute-parallel-steps
+
 
 ## Other tools related to workflows
 
@@ -84,7 +91,7 @@ In the context of service-oriented architectures, orchestration can range from e
 
 Google Cloud Platform offers a number of tools and services for orchestration:
 
-* [Cloud Scheduler](Cloud-Scheduler) for schedule driven single-service orchestration
+* [Cloud Scheduler](Cloud-Scheduler) for schedule-driven single-service orchestration
 * [Workflows](https://cloud.google.com/workflows) for complex multi-service orchestration 
 * [Cloud Composer](Composer) for orchestration of your data workloads
 
@@ -149,7 +156,7 @@ https://github.com/pditommaso/awesome-pipeline
 
 https://blog.sellorm.com/2018/06/02/first-steps-with-data-pipelines/
 
-#### Make map reduce pipeline
+#### Make map-reduce pipeline
 
 https://www.benevolent.com/engineering-blog/make-reduce-how-to-use-makefiles-to-run-a-simple-map-reduce-data-pipeline
 
@@ -170,16 +177,27 @@ https://www.gnu.org/software/parallel/
 
 ## Examples
 
+### Quickstarts
+https://cloud.google.com/workflows/docs/create-workflow-console
+
+### Use Workflows with Cloud Run and Cloud Functions tutorial
+https://cloud.google.com/workflows/docs/run/tutorial-cloud-run
+
+
+### Run a batch translation using the Cloud Translation connector
+
+https://cloud.google.com/workflows/docs/tutorial-translation-connector
+
 ### Use GCP Workflows to load data from GCS to BigQuery
 
 
 https://cloud.google.com/architecture/serverless-orchestration-loading-data-from-cloud-storage-to-biquery-using-workflows
 
-### Long running jobs with Cloud Workflows
+### Long-running jobs with Cloud Workflows
 
 https://medium.com/google-cloud/long-running-job-with-cloud-workflows-38b57bea74a5
 
-### Reading and writing JSON file from a Workflow
+### Reading and writing JSON files from a Workflow
 
 https://medium.com/google-cloud/day-16-with-workflows-reading-in-and-writing-a-json-file-to-a-storage-bucket-from-a-workflow-48b85c12d225
 
@@ -188,7 +206,7 @@ https://medium.com/google-cloud/day-16-with-workflows-reading-in-and-writing-a-j
 https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
 
 
-### Large-scale bioinformatics in the cloud with GCP, Kubernetes and Snakemake
+### Large-scale bioinformatics in the cloud with GCP, Kubernetes, and Snakemake
 
 Perform a [large metagenomics sequencing experiment – 96 10X Genomics linked read libraries sequenced across 25 lanes on a HiSeq4000](https://www.bsiranosian.com/bioinformatics/large-scale-bioinformatics-in-the-cloud-with-gcp-kubernetes-and-snakemake/) in GCP.
 
