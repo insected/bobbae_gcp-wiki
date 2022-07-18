@@ -30,6 +30,8 @@ https://cloud.google.com/vertex-ai/docs/general/import
 ## Model co-hosting
 https://cloud.google.com/vertex-ai/docs/predictions/model-co-hosting
 
+https://cloud.google.com/blog/products/ai-machine-learning/introducing-co-hosting-models-on-the-vertex-ai-prediction-service
+
 ## Configure models and get predictions
 
 https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions
