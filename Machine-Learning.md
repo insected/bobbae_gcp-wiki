@@ -875,6 +875,7 @@ https://github.com/karpathy/micrograd
 https://github.com/geohot/tinygrad
 
 ### JAX
+
 https://github.com/google/jax
 
 ### EvoJAX
