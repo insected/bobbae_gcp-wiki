@@ -94,6 +94,8 @@ https://cloud.google.com/vertex-ai/docs/workbench
 
 https://cloud.google.com/vertex-ai/docs/experiments
 
+https://cloud.google.com/blog/topics/developers-practitioners/track-compare-manage-experiments-vertex-ai-experiments
+
 ## Optimize with Vertex AI Vizier
 
 https://cloud.google.com/vertex-ai/docs/vizier
