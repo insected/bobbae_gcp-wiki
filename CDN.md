@@ -51,6 +51,8 @@ https://blog.cdnsun.com/understanding-cdn-dns-routing-unicast-versus-anycast/
 
 https://cloud.google.com/blog/products/networking/introducing-media-cdn
 
+https://cloud.google.com/media-cdn
+
 ## Examples
 
 ### Serving static content via Google Cloud CDN
