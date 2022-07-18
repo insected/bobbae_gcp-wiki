@@ -7,6 +7,10 @@
 
 https://kubevirt.io/quickstart_minikube/
 
+### GKE and Tau T2A VMs
+
+https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms
+k
 
 ### Harvester
 
@@ -46,3 +50,4 @@ https://docs.onap.org/en/casablanca/guides/onap-developer/architecture/onap-arch
 ### ONAP and Rancher
 
 https://docs.onap.org/en/casablanca/submodules/oom.git/docs/oom_setup_kubernetes_rancher.html
+
