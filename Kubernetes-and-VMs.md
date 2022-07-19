@@ -12,6 +12,9 @@ https://kubevirt.io/quickstart_minikube/
 https://cloud.google.com/blog/products/containers-kubernetes/gke-supports-new-arm-based-tau-t2a-vms
 k
 
+### Regional vs Zonal GKE clusters
+https://cloud.google.com/kubernetes-engine/docs/concepts/regional-clusters
+
 ### Harvester
 
 https://www.zdnet.com/article/suse-harvester-deploying-virtual-machines-with-kubernetes/
