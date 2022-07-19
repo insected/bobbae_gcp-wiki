@@ -155,6 +155,10 @@ https://faun.pub/iam-for-gcp-resource-based-conditional-access-ec1016d60303
 
 https://medium.com/@harshalrane23/introducing-resource-tags-in-gcp-e222c9b3898a
 
+## Protecting IAM 
+
+https://medium.com/decathlontechnology/your-gcp-iam-is-valuable-take-care-of-it-f6ba21b9a11a
+
 ## Searching policies
 
 https://cloud.google.com/asset-inventory/docs/searching-iam-policies
