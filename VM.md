@@ -147,6 +147,9 @@ https://www.ibm.com/cloud/blog/containers-vs-vms
 
 https://github.com/solo-io/unik
 
+## VM threat detection
+
+https://cloud.google.com/blog/products/identity-security/virtual-machine-threat-detection-in-security-command-center
 
 ## Examples
 
