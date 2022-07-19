@@ -8,6 +8,8 @@ https://cloud.google.com/functions/docs/quickstart
 
 https://towardsdatascience.com/understand-and-compare-cloud-functions-vs-cloud-run-5afc2beb2fb
 
+https://medium.com/google-cloud/why-i-definitively-switched-from-cloud-functions-to-cloud-run-635d03f1eb4d
+
 ### Cloud Functions second generation
 
 https://cloud.google.com/functions/docs/2nd-gen/getting-started
