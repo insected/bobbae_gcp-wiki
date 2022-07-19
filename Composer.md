@@ -149,6 +149,13 @@ https://medium.com/data-folks-indonesia/setup-apache-airflow-in-multiple-nodes-i
 
 https://cloud.google.com/architecture/automating-infrastructure-using-cloud-composer
 
+### Scheduling compute instances with Cloud Scheduler
+
+https://cloud.google.com/scheduler/docs/start-and-stop-compute-engine-instances-on-a-schedule
+
+### Scheduling compute instances with Cloud Composer
+https://medium.com/google-cloud/save-money-by-shuting-down-gce-instances-using-cloud-composer-e70d7a3f6c98
+
 ### Launching Dataflow pipelines with Cloud Composer
 
 https://cloud.google.com/composer/docs/how-to/using/using-dataflow-template-operator
