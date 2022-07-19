@@ -15,6 +15,9 @@ k
 ### Regional vs Zonal GKE clusters
 https://cloud.google.com/kubernetes-engine/docs/concepts/regional-clusters
 
+### Autoscaling regional clusters
+https://cloud.google.com/kubernetes-engine/docs/concepts/regional-clusters#autoscaling_regional_clusters
+
 ### Harvester
 
 https://www.zdnet.com/article/suse-harvester-deploying-virtual-machines-with-kubernetes/
