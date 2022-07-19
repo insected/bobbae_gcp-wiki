@@ -39,7 +39,10 @@ https://gridpane.com/kb/how-to-increase-the-disk-space-of-your-google-vm-instanc
 
 [File System](File-System) is a hierarchical storage methodology used to organize and store data on a computer system.
 
+## Kubernetes Storage
+[Kubernetes Storage](Kubernetes-Storage) is by default not persistent per pod but there are extensive methods to provide persistent storage features.
 
+https://www.cncf.io/blog/2020/04/28/a-complete-storage-guide-for-your-kubernetes-storage-problems/
 
 ## Block Storage
 
@@ -138,9 +141,6 @@ https://opensource.com/business/16/9/linux-users-guide-lvm
 
 [Persistent Disks](https://cloud.google.com/persistent-disk) are reliable and  high-performance [block storage for virtual machine](https://www.youtube.com/watch?v=zovhVfou-DI) instances. 
 
-
-
-
 It stores data [redundantly](https://medium.com/google-cloud/persistent-disks-and-replication-9b9412fd9565
 ) to ensure data integrity. Persistent [disk performance](https://cloud.google.com/compute/docs/disks/optimizing-pd-performance
 ) scales automatically with size, so you can resize your existing persistent disks or add more persistent disks to an instance to meet your performance and storage [space requirements](https://cloud.google.com/compute/docs/disks/working-with-persistent-disks
@@ -171,6 +171,9 @@ https://www.sciencedirect.com/topics/computer-science/storage-protocol
 [Network File System](NFS
 ) (NFS) is a distributed file system protocol originally developed by Sun Microsystems.
 
+### Filestore
+
+https://cloud.google.com/filestore
 
 ### NAS
 
@@ -185,7 +188,8 @@ Google [Filestore](Filestore) uses [NAS](NAS).
 
 https://www.netapp.com/atg/publications/publications-file-system-design-for-an-nfs-file-server-appliance-20000024/
 
-
+### WAFL
+https://www.netapp.com/atg/publications/publications-file-system-design-for-an-nfs-file-server-appliance-20000024/
 
 
 ### SAN
