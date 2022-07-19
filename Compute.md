@@ -53,6 +53,10 @@ https://cloud.google.com/blog/products/compute/introducing-cloud-tpu-vms
 
 https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
 
+#### TPU ML hub
+
+https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster
+
 
 #### Cloud TPU v4 pods
 
