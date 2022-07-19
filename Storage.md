@@ -155,6 +155,8 @@ It stores data [redundantly](https://medium.com/google-cloud/persistent-disks-an
 
 https://cloud.google.com/blog/products/storage-data-transfer/n2-vms-run-low-latency-io-intensive-workloads-with-9tb-ssd
 
+### GCSFUSE
+https://github.com/GoogleCloudPlatform/gcsfuse
 
 ## Storage Protocols
 
