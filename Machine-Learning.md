@@ -878,6 +878,8 @@ https://github.com/geohot/tinygrad
 
 https://github.com/google/jax
 
+https://colab.research.google.com/github/google/jax/blob/main/docs/notebooks/neural_network_with_tfds_data.ipynb
+
 ### EvoJAX
 https://cloud.google.com/blog/topics/developers-practitioners/evojax-bringing-power-neuroevolution-solve-your-problems
 
