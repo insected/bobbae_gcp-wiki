@@ -46,6 +46,9 @@ https://cloud.google.com/storage/docs/composite-objects
 
 https://cloud.google.com/storage/docs/viewing-editing-metadata
 
+## Using SFTP on GCS
+
+https://medium.com/google-cloud/sftpgo-access-to-gcs-via-sftp-e203e0783f6f
 
 ## Pub/Sub notifications for GCS
 
