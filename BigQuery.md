@@ -339,6 +339,10 @@ https://cloud.google.com/bigquery/docs/reference/standard-sql/scripting
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis
 
+
+### BigQuery BI Engine Preferred Tables
+https://cloud.google.com/blog/products/data-analytics/now-in-preview-bigquery-bi-engine-preferred-tables
+
 ### Controlling costs
 
 https://cloud.google.com/bigquery/docs/controlling-costs
@@ -561,6 +565,9 @@ https://cloud.google.com/bigquery/docs/analytics-hub-introduction
 https://cloud.google.com/bigquery/docs/bi-engine-intro
 
 https://cloud.google.com/blog/products/data-analytics/bigquery-bi-engine-generally-available
+
+#### BigQuery BI Engine Preferred tables
+https://cloud.google.com/blog/products/data-analytics/now-in-preview-bigquery-bi-engine-preferred-tables
 
 #### Data  Studio
 
@@ -1007,6 +1014,9 @@ https://towardsdatascience.com/median-mode-and-average-order-value-in-bigquery-u
 
 ### Streaming JSON messages using dataflow into BigQuery JSON-type column
 https://medium.com/google-cloud/streaming-json-messages-into-bigquery-json-type-column-7b9702a49a36
+
+### Processing data from Hive to BigQuery using PySpark and Dataproc Serverless
+https://medium.com/google-cloud/processing-data-from-hive-to-bigquery-using-pyspark-and-dataproc-serverless-217c7cb9e4f8
 
 ## Qwiklabs
 
