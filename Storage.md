@@ -239,6 +239,8 @@ Discuss how traditional [storage models compare to the cloud](https://cloud.goog
 
 https://cloud.google.com/architecture/partners/netapp-cloud-volumes/
 
+### Cloud Volume Service
+https://cloud.netapp.com/cloud-volumes-service-for-gcp
 
 ## Security
 
