@@ -9,6 +9,9 @@ https://cloud.google.com/sql/docs/mysql
 
 https://cloud.google.com/sql/docs/postgres
 
+### SQL server performance analysis and query tuning
+https://cloud.google.com/blog/products/databases/sql-server-performance-analysis-and-query-tuning
+
 
 ### SQL Server
 
