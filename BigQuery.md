@@ -1005,6 +1005,8 @@ https://towardsdatascience.com/measuring-string-similarity-in-bigquery-using-sql
 
 https://towardsdatascience.com/median-mode-and-average-order-value-in-bigquery-using-sql-8952bfbc288a
 
+### Streaming JSON messages using dataflow into BigQuery JSON-type column
+https://medium.com/google-cloud/streaming-json-messages-into-bigquery-json-type-column-7b9702a49a36
 
 ## Qwiklabs
 
