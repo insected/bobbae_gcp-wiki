@@ -16,6 +16,14 @@ https://cloud.google.com/anthos/run/docs/architecture-overview
 ### Cloud Run Emulator
 https://medium.com/dsckiet/a-guide-for-cloud-run-deployment-locally-using-visual-studio-code-8eb6688679f0
 
+https://medium.com/google-cloud/developing-and-deploying-containers-with-cloud-code-on-google-cloud-run-4d8dfd88af48
+
+### Hosting Cloud Run on Firebase
+
+Pair Cloud Run with Firebase Hosting to generate and serve your dynamic content or build REST APIs as microservices.
+
+https://firebase.google.com/docs/hosting/cloud-run
+
 ### FAQ
 
 https://github.com/ahmetb/cloud-run-faq
