@@ -359,6 +359,9 @@ https://services.google.com/fh/files/misc/develop_global_multiplayer_games_using
 ### Debugging cloud spanner latency using opencensus and Go client library
 https://cloud.google.com/blog/topics/developers-practitioners/debugging-cloud-spanner-latency-using-opencensus-and-go-client-library
 
+### Troubleshooting cloud spanner applications with opencensus metrics
+https://cloud.google.com/blog/products/spanner/troubleshooting-cloud-spanner-applications-with-opencensus-metrics
+
 ## Qwiklabs
 
 
