@@ -13,6 +13,8 @@ https://cloud.google.com/run/docs/configuring/request-timeout
 
 https://cloud.google.com/anthos/run/docs/architecture-overview
 
+### Cloud Run Emulator
+https://medium.com/dsckiet/a-guide-for-cloud-run-deployment-locally-using-visual-studio-code-8eb6688679f0
 
 ### FAQ
 
