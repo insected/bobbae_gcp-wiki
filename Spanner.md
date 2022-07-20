@@ -356,6 +356,8 @@ https://cloud.google.com/blog/products/databases/ochk-used-cloud-spanner-to-buil
 
 https://services.google.com/fh/files/misc/develop_global_multiplayer_games_using_cloud_spanner.pdf
 
+### Debugging cloud spanner latency using opencensus and Go client library
+https://cloud.google.com/blog/topics/developers-practitioners/debugging-cloud-spanner-latency-using-opencensus-and-go-client-library
 
 ## Qwiklabs
 
