@@ -38,6 +38,9 @@ https://cloud.google.com/datastream/docs/quickstart
 
 https://cloud.google.com/datastream/docs/tutorials
 
+### Data extraction and ingestion
+https://medium.com/google-cloud/what-a-beautiful-stream-40319ac3aaff
+
 
 ## Datastream APIs
 
