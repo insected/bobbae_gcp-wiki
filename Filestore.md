@@ -18,8 +18,11 @@ https://www.geeksforgeeks.org/what-is-dfsdistributed-file-system/
 
 ## Filestore Enterprise
 
+
 https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announces-filestore-enterprise-for-business-critical-apps
 
+### Enterprise tier for Filestore
+https://cloud.google.com/filestore/docs/enterprise
 
 ## NetApp on Google Cloud
 
