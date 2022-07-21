@@ -384,6 +384,8 @@ Confusion Matrices can be used to calculate two important performance metrics: p
 
 The two most frequently used metrics to assess the model are [precision and recall](  https://wikipedia.org/wiki/Precision_and_recall ).  Precision is the ratio of correct positive predictions to overall number of positive predictions.   Recall is the ratio of positive predictions to the overall number of positive examples in the test set.  
 
+https://www.youtube.com/watch?v=j-EB6RqqjGI&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=3
+
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
 
 
@@ -449,6 +451,8 @@ https://en.wikipedia.org/wiki/Statistical_classification
 
 [Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is used to predict an outcome given some input value(s). While machine learning classifiers use features to predict a discrete label for a given instance or example, machine learning regressors have the ability use features to predict a continuous outcome for a given instance or example. 
 
+https://www.youtube.com/watch?v=K_EH2abOp00&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=2
+
 https://www.youtube.com/watch?v=nk2CQITm_eo
 
 ### Polynomial regression
@@ -457,10 +461,15 @@ https://www.youtube.com/watch?v=nk2CQITm_eo
 
 https://towardsdatascience.com/polynomial-regression-with-scikit-learn-what-you-should-know-bed9d3296f2
 
+### Kernelization
+https://www.youtube.com/watch?v=wBVSbVktLIY&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=5
+
 ### Logistic Regression
 
 
 The goal of [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression), as with any classifier, is to figure out some way to split the data to allow for an accurate prediction of a given observation's class using the information present in the features. 
+
+https://www.youtube.com/watch?v=YMJtsYIp4kg&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=4
 
 https://www.youtube.com/watch?v=yIYKR4sgzI8
 
@@ -480,6 +489,8 @@ SVM  is a supervised machine learning model that uses classification algorithms 
 
 Compared to newer algorithms like neural networks, they have two main advantages: higher speed and better performance with a limited number of samples.
 
+https://www.youtube.com/watch?v=05VABNfa1ds&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=6
+
 https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
 
 SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n3) to input depending on your implementation. 
@@ -490,6 +501,8 @@ SVMs don't work well with noisy data, and the algorithm scales roughly cubic O(n
 ### Random forests
 
 [Random forests](https://en.wikipedia.org/wiki/Random_forest) inherit the benefits of a decision tree model whilst improving upon the performance by reducing the variance. 
+
+https://www.youtube.com/watch?v=mld0TnA2jEs&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=8
 
 ### Boosted trees
 
@@ -522,6 +535,8 @@ The [Cloud Data Loss Prevention](https://cloud.google.com/dlp)  (DLP) helps you 
 ### K-means clustering 
 
 [K-means clustering](https://developers.google.com/machine-learning/glossary#k-means) is a simple method for partitioning n data points in k groups, or clusters.
+
+https://www.youtube.com/watch?v=O6b2L_lYH9k&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie&index=9
 
 https://www.youtube.com/watch?v=4b5d3muPQmA
 
@@ -626,7 +641,8 @@ LSTMs enable RNNs to remember inputs over a long period of time.
 #### LSTM, Transformer and BERT
 https://www.youtube.com/watch?v=xI0HHN5XKDo
 
-### GAN
+### GAN Generative Adversarial Networks
+
 https://www.youtube.com/watch?v=C1YUYWP-6rE&list=PLTl9hO2Oobd-GaTYQWIuIs2yyNy7TYbEj&index=5
 
 ### Transformers, Attention is all you need
