@@ -546,6 +546,7 @@ The [k-nearest neighbors]( https://towardsdatascience.com/machine-learning-basic
 
 Neural networks are one of the most popular approaches to machine learning today, achieving impressive performance on a large variety of tasks. 
 
+https://www.youtube.com/watch?v=fkqZyYo_ebs&list=PLTl9hO2Oobd-GaTYQWIuIs2yyNy7TYbEj&index=1
 
 #### Structure
 
@@ -605,6 +606,8 @@ https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5
 
 RNNs are often used in text and speech processing because sentences and texts are naturally sequences of either words/punctuation marks or sequences of characters. 
 
+https://www.youtube.com/watch?v=yZv_yRgOvMg&list=PLTl9hO2Oobd-GaTYQWIuIs2yyNy7TYbEj&index=3
+
 https://medium.com/towards-data-science/how-does-masking-work-in-an-rnn-and-variants-and-why-537bf63c306d
 
 
@@ -614,10 +617,15 @@ https://www.youtube.com/watch?v=LHXXI4-IEns
 
 [Long short-term memory]( https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21   ) networks are an extension for recurrent neural networks, which basically extends the memory. Therefore it is well suited to learn from important experiences that have very long time lags in between.
 
+https://www.youtube.com/watch?v=QciIcRxJvsM&list=PLTl9hO2Oobd-GaTYQWIuIs2yyNy7TYbEj&index=4
+
 LSTMs enable RNNs to remember inputs over a long period of time. 
 
 #### LSTM, Transformer and BERT
 https://www.youtube.com/watch?v=xI0HHN5XKDo
+
+### GAN
+https://www.youtube.com/watch?v=C1YUYWP-6rE&list=PLTl9hO2Oobd-GaTYQWIuIs2yyNy7TYbEj&index=5
 
 ### Transformers, Attention is all you need
 https://www.youtube.com/watch?v=TQQlZhbC5ps
