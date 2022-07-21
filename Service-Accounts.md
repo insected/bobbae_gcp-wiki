@@ -40,6 +40,8 @@ https://cloud.google.com/iam/docs/creating-short-lived-service-account-credentia
 
 ### Impersonated Credentials
 
+https://cloud.google.com/iam/docs/impersonating-service-accounts
+
 https://salmaan-rashid.medium.com/using-impersonatedcredentials-for-google-cloud-apis-and-idtokens-4ec18013fd91
 
 ### Account impersonation for local testing of apps
