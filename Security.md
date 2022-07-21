@@ -348,11 +348,15 @@ Cloud Identity is an Identity as a Service (IDaaS) solution that centrally manag
 
 ### Identity-Aware Proxy
 
-[Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) lets you manage access to applications running in the App Engine standard environment, App Engine flexible environment, Compute Engine, and GKE. 
+[Identity-Aware Proxy](https://cloud.google.com/iap/docs) (IAP) IAP lets you establish a central authorization layer for applications accessed by HTTPS, so you can use an application-level access control model instead of relying on network-level firewalls.
+
+https://cloud.google.com/iap/docs/quickstarts
 
 ### Context-Aware Access
 
 Based on the [BeyondCorp](https://cloud.google.com/beyondcorp) security model, [Context-Aware Access](Context-Aware-Access) is an approach that utilizes a variety of Google Cloud offerings to enforce granular access control based on a user's identity and context of the request.
+
+https://cloud.google.com/iap/docs/cloud-iap-context-aware-access-howto
 
 ### Policy troubleshooting
 
