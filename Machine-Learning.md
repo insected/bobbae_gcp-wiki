@@ -9,6 +9,8 @@
 
 [Machine learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md) focuses on the development of computer programs that can access data and use it to learn for themselves.
 
+https://www.youtube.com/watch?v=9MWj__4s9hk&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMCvie
+
 ## Guidelines for developing ML solutions
 
 https://cloud.google.com/architecture/guidelines-for-developing-high-quality-ml-solutions
