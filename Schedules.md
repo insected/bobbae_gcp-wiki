@@ -94,7 +94,7 @@
 |    2   |  [App Engine](App-Engine), [Cloud Run](Cloud-Run) , [Compute Engine](Compute) | 
 |    3    |  [Kubernetes](Kubernetes) , [Terraform](Terraform)  |
 |    4   | [BigQuery](BigQuery), [Databases](Databases), [Storage](Storage), [Networking](Networking) |
-|    5    |  [IAM](IAM), [Security](Security), [Monitoring](Monitoring), Python basics, flask, streamlit, Go basics |
+|    5    |  [IAM](IAM), [Security](Security), [Monitoring](Monitoring), [Python](https://www.learnbyexample.org/python/), [Go](https://gobyexample.com/) |
 |    6   | [Data Engineering](Data-Engineering), [AI](AI), [Machine learning](Machine-Learning), [Data science](Data-Science) |
 |    7   |Group Project   |
 |    8   |Reviews    | 
