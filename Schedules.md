@@ -91,10 +91,10 @@
 |   Week  |  Topics        |
 |-----------|-----------------------------------|
 |   1  | [Introduction to GCP](Introduction) |
-|    2   |[App Engine](App-Engine) | 
-|    3    |[Cloud Run](Cloud-Run)   |
-|    4   | [Terraform](Terraform)  |
-|    5    |[Kubernetes](Kubernetes)    |
-|    6   | [BigQuery](BigQuery) |
+|    2   |[App Engine](App-Engine), [Cloud Run](Cloud-Run) , Compute Engine | 
+|    3    |  [Kubernetes](Kubernetes) , [Terraform](Terraform)  |
+|    4   | [BigQuery](BigQuery), Databases, Storage, Networking |
+|    5    | [IAM](IAM), Security, Monitoring, Python, REST API, streamlit, Go |
+|    6   | AI, Machine learning, Data science topics |
 |    7   |Group Project   |
 |    8   |Reviews    | 
