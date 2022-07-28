@@ -95,6 +95,6 @@
 |    3    |  [Kubernetes](Kubernetes) , [Terraform](Terraform)  |
 |    4   | [BigQuery](BigQuery), [Databases](Databases), [Storage](Storage), [Networking](Networking) |
 |    5    |  [IAM](IAM), [Security](Security), [Monitoring](Monitoring), [Python](https://www.learnbyexample.org/python/), [Go](https://gobyexample.com/) |
-|    6   | [Data Engineering](Data-Engineering), [AI](AI), [Machine learning](Machine-Learning), [Data science](Data-Science) |
+|    6   | [Data Engineering](Data-Engineering), [Data science](Data-Science),  [Machine learning](Machine-Learning), [AI](AI) |
 |    7   |Group Project   |
 |    8   |Reviews    | 
