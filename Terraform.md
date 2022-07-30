@@ -2,7 +2,7 @@
 
 ## Cloud Foundation Toolkit
 
-[Google Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) supports Terraform as well as Google Cloud Deployment manager.
+[Google Cloud Foundation Toolkit](Cloud-Foundation-Toolkit) supports Terraform as well as Google [Cloud Deployment manager](Cloud-Deployment-Manager).
 
 
 ## Infrastructure as Code
