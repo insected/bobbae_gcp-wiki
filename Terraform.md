@@ -393,12 +393,16 @@ https://cloud.google.com/blog/topics/developers-practitioners/using-google-cloud
 
 https://sanket-wadekar3.medium.com/create-gcp-vm-instance-using-terraform-d14d3887445b
 
+### Terraform examples: VPC, Subnets, Firewalls, Routes, IAP Tunnel, Internet Gateway, Cloud NAT and Cloud Router 
+https://medium.com/@nanditasahu031/terraform-with-gcp-cloud-d25d60a6e740
+
 ### Terraform examples for GKE
 
 https://github.com/GoogleCloudPlatform/gke-private-cluster-demo
 
 
 https://devopsarena.medium.com/provision-gke-cluster-with-terraform-28bf2973c3d4
+
 
 https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/tree/master/examples/deploy_service
 
