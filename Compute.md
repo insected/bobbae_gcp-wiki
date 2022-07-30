@@ -42,40 +42,10 @@ Google Compute Engine is computing and hosting service that lets you create and 
 
 ### Machine Types
 
-A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a set of virtualized hardware resources available to a [virtual machine](VM) (VM) instance, including the system memory size, virtual CPU (vCPU) count, and persistent disk limits.  You must choose a machine type when you [create an instance](https://cloud.google.com/compute/docs/instances/creating-and-starting-an-instance?hl=tr). You can select from a number of predefined machine types in each machine type family. If the predefined machine types do not meet your needs, you can create your own [custom machine types](https://cloud.google.com/compute/docs/machine-types?hl=tr#custom_machine_types). To compare machine type performance, see [CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms?hl=tr).
+A [machine type](  https://cloud.google.com/compute/docs/machine-types ) is a set of virtualized hardware resources available to a [virtual machine](VM) (VM) instance, including the system memory size, virtual CPU (vCPU) count, and persistent disk limits.  You must choose a machine type when you [create an instance](https://cloud.google.com/compute/docs/instances/creating-and-starting-an-instance?hl=tr). You can select from a number of predefined machine types in each machine type family. If the predefined machine types do not meet your needs, you can create your own [custom machine types](https://cloud.google.com/compute/docs/machine-types?hl=tr#custom_machine_types). To compare machine type performance, see [CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms?hl=tr), [GPU platforms](https://cloud.google.com/compute/docs/gpus) and [accelerator-optimized machine family](https://cloud.google.com/compute/docs/accelerator-optimized-machines).
 
 #### TPU
-https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available
-
-#### TPU Architecture
-https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
-
-#### TPU VMs
-https://cloud.google.com/blog/products/compute/introducing-cloud-tpu-vms
-
-https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
-
-#### TPU ML hub
-
-https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster
-
-
-#### Cloud TPU v4 pods
-
-https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster
-
-#### TPU optimized models
-https://github.com/tensorflow/tpu/tree/master/models/official
-
-#### Deep Learning VM Image
-
-https://cloud.google.com/deep-learning-vm
-
-#### Cloud TPU Quickstarts
-https://cloud.google.com/tpu/docs/quick-starts
-
-### Jax on Cloud TPU
-https://cloud.google.com/tpu/docs/run-calculation-jax
+[Tensor Processing Units (TPUs)](TPU) are Google’s custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads. 
 
 ## From Data Center Professional Point of view
 
