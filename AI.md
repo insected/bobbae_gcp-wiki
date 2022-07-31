@@ -297,6 +297,11 @@ https://cloud.google.com/blog/topics/public-sector/accelerating-aiml-adoption-pu
 
 ## Tutorials
 
+- https://developers.google.com/machine-learning/crash-course
+- https://cloud.google.com/vertex-ai/docs/tutorials
+- https://codelabs.developers.google.com/ml-for-developers
+- https://github.com/GoogleCloudPlatform/ml-on-gcp/tree/master/tutorials
+- https://towardsdatascience.com/training-a-model-on-google-ai-platform-84ceff87b5f3
 - https://www.w3schools.com/ai/
 - https://course.fast.ai/
 - https://www.guru99.com/artificial-intelligence-tutorial.html
