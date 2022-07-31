@@ -1011,7 +1011,7 @@ https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud
 
 https://cloud.google.com/blog/topics/developers-practitioners/mapping-carbon-pollution-globally-satellites
 
-## Examples
+
 
 ### Choose an outfit with AI
 https://www.youtube.com/watch?v=o6nGn1euRjk&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=7
@@ -1020,6 +1020,7 @@ https://www.youtube.com/watch?v=o6nGn1euRjk&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7D
 ## Tutorials
 
 - https://developers.google.com/machine-learning/crash-course/
+- https://codelabs.developers.google.com/ml-for-developers
 - https://www.mygreatlearning.com/blog/machine-learning-tutorial/
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - https://cloud.google.com/blog/topics/developers-practitioners/new-ml-learning-path-vertex-ai
