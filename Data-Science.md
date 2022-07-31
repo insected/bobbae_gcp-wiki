@@ -1,3 +1,4 @@
+https://cloud.google.com/data-science
 
 [Data science]( https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-) is an [inter-disciplinary]( https://www.empiricaldata.org/dataladyblog/the-role-of-domain-knowledge-in-data-science  ) field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and [actionable insights]( https://towardsdatascience.com/what-is-data-science-4565e457cc17 ) from data across a [broad range of application domains](https://blog.ml.cmu.edu/2020/08/31/1-domain-knowledge/  ).
 
@@ -28,6 +29,7 @@ A [data science-driven organization](https://cloud.google.com/blog/products/ai-m
 What's the [difference between Data Analytics vs Data Science]( https://www.northeastern.edu/graduate/blog/data-analytics-vs-data-science/)?  What is [the difference between  Data Science vs Data  Engineering]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist  )? 
 
 
+https://cloud.google.com/training/data-engineering-and-analytics
 
 ## Google Smart Analytics Platform
 
@@ -278,6 +280,7 @@ https://medium.com/talabat-tech/data-apps-from-local-to-live-in-10-minutes-a886d
 
 - https://cloud.google.com/vertex-ai/docs
 - https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path
+- https://codelabs.developers.google.com/?cat=machinelearning
 - https://github.com/GoogleCloudPlatform/vertex-ai-samples/tree/main/notebooks/official/pipelines
 - https://cloud.google.com/blog/topics/developers-practitioners/lets-get-it-started-triggering-ml-pipeline-runs
 - https://cloud.google.com/blog/products/ai-machine-learning/building-the-data-science-driven-organization
