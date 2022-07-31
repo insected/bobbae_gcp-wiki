@@ -276,6 +276,11 @@ https://medium.com/talabat-tech/data-apps-from-local-to-live-in-10-minutes-a886d
 
 ## Tutorials
 
+- https://cloud.google.com/vertex-ai/docs
+- https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path
+- https://github.com/GoogleCloudPlatform/vertex-ai-samples/tree/main/notebooks/official/pipelines
+- https://cloud.google.com/blog/topics/developers-practitioners/lets-get-it-started-triggering-ml-pipeline-runs
+- https://cloud.google.com/blog/products/ai-machine-learning/building-the-data-science-driven-organization
 - https://jakevdp.github.io/PythonDataScienceHandbook/
 - https://www.w3schools.com/datascience/
 - https://www.guru99.com/data-science-tutorial.html
