@@ -969,6 +969,9 @@ https://medium.com/google-cloud/how-to-reduce-your-ml-model-inference-costs-on-g
 
 ## Examples
 
+### Machine learning crash course
+https://developers.google.com/machine-learning/crash-course
+
 ### Titanic survival prediction using danfo.js and tensorflow.js
 
 https://danfo.jsdata.org/examples/titanic-survival-prediction-using-danfo.js-and-tensorflow.js
@@ -977,11 +980,15 @@ https://danfo.jsdata.org/examples/titanic-survival-prediction-using-danfo.js-and
 
 https://cloud.google.com/blog/topics/developers-practitioners/monitor-models-training-serving-skew-vertex-ai
 
-
+### BigQuery ML tutorials
+https://cloud.google.com/bigquery-ml/docs/tutorials
 
 ### The Making of an AI Storyteller
 
 https://towardsdatascience.com/the-making-of-an-ai-storyteller-c3b8d5a983f5
+
+### Getting started with Keras
+https://cloud.google.com/ai-platform/docs/getting-started-keras
 
 ### Demo of Video Intelligence API
 
