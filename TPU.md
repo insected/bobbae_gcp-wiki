@@ -52,3 +52,6 @@ https://cloud.google.com/tpu/docs/run-calculation-jax
 
 ## AI Accelerators
 https://medium.com/@adi.fu7/ai-accelerators-part-iv-the-very-rich-landscape-17481be80917
+
+## Managing TPUs
+https://cloud.google.com/tpu/docs/managing-tpus-tpu-vm
