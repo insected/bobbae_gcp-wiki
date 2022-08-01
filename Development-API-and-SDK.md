@@ -7,6 +7,12 @@
 
 https://cloud.google.com/sdk
 
+### Using Cloud SDK gcloud command line
+https://www.cloudskillsboost.google/quests/95
+
+### Gcloud cheatsheet
+https://gist.github.com/bobbae/870475d3fa8c109266dac0c9c6564dd7
+
 #### Gcloud SDK Docker image
 
 https://github.com/GoogleCloudPlatform/cloud-sdk-docker
