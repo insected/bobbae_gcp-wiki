@@ -186,6 +186,9 @@ https://cloud.google.com/architecture/help-secure-the-pipeline-from-your-data-la
 
 https://www.keycloak.org/
 
+## IAM Permissions reference
+https://cloud.google.com/iam/docs/permissions-reference
+
 ## Examples
 
 ### Cheatsheet
