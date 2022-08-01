@@ -186,3 +186,11 @@ https://cloud.google.com/architecture/help-secure-the-pipeline-from-your-data-la
 
 https://www.keycloak.org/
 
+## Examples
+
+### Cheatsheet
+https://gist.github.com/bobbae/870475d3fa8c109266dac0c9c6564dd7
+
+## Qwiklabs
+### Configuring IAM Permissions with gcloud
+https://www.cloudskillsboost.google/focuses/7678?parent=catalog
