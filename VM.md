@@ -151,6 +151,13 @@ https://github.com/solo-io/unik
 
 https://cloud.google.com/blog/products/identity-security/virtual-machine-threat-detection-in-security-command-center
 
+## Deep learning VM with GPUs
+https://cloud.google.com/deep-learning-vm/docs/create-vm-instance-gcloud
+
+## TPU VM and node architecture
+
+https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
+
 ## Examples
 
 
