@@ -164,6 +164,8 @@ https://towardsdatascience.com/build-pycaret-deploy-gcp-521415a6c330
 ### Classify images of clouds using AutoML
 https://www.cloudskillsboost.google/focuses/8406?parent=catalog
 
+### Aircraft classification using AutoML
+https://www.lucidchart.com/blog/cloud/building-an-image-classification-system-part-2
 
 ### AutoML Tables notebooks
 
