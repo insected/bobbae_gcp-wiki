@@ -161,6 +161,8 @@ https://towardsdatascience.com/build-pycaret-deploy-gcp-521415a6c330
 
 
 ## Examples
+### Classify images of clouds using AutoML
+https://www.cloudskillsboost.google/focuses/8406?parent=catalog
 
 
 ### AutoML Tables notebooks
