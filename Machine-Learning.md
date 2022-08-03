@@ -379,6 +379,11 @@ Accuracy may be useful when errors in predicting all classes are equally importa
 
 Accuracy can be not useful when all classes not not equally important. Predicting click stream can be biased because of very few real positive clicks per rendered pages. In other words, almost no clicks can be the norm. In that case, a model that is 99.999% accurate can be created by returning "no click" as answer every time.
 
+#### Accuracy and precision in statistics
+https://en.wikipedia.org/wiki/Accuracy_and_precision
+
+#### Bias variance trade-off
+https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
 
 ### Confusion Matrix
 
