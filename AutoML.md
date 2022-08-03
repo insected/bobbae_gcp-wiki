@@ -179,6 +179,9 @@ https://github.com/GoogleCloudPlatform/ai-platform-samples/blob/master/notebooks
 
 https://cloud.google.com/blog/products/ai-machine-learning/chefkoch-digitizes-handwritten-recipes-with-automl-and-vision-api
 
+### Deploy AutoML model in Cloud Run
+https://medium.com/@juri.sarbach/how-to-deploy-your-automl-model-in-a-cost-effective-way-5efdd377d4d2
+
 ## Links
 
 - [AutoML Cloud Natural language Classification Tutorial](https://cloud.google.com/natural-language/automl/docs/tutorial#python)
