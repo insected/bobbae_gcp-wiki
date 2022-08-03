@@ -394,7 +394,9 @@ https://www.youtube.com/watch?v=j-EB6RqqjGI&list=PLTl9hO2Oobd9UuNwS9R5Z6HcTesBMC
 
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
 
+Imagine that you are given an image and asked to detect all the cars within it. Which metric do you use? Because the goal is to detect all the cars, use recall. This may misclassify some objects as cars, but it eventually will work towards detecting all the target objects.
 
+Now say you're given a mammography image, and you are asked to detect whether there is cancer or not. Which metric do you use? Because it is sensitive to incorrectly identifying an image as cancerous, we must be sure when classifying an image as Positive (i.e. has cancer). Thus, precision is the preferred metric.
 
 ### F-measure
 
