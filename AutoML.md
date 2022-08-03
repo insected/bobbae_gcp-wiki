@@ -59,6 +59,8 @@ https://cloud.google.com/automl-tables/docs/how-to
 
 https://cloud.google.com/automl-tables/docs/beginners-guide
 
+### Evaluating and Deploying AutoML Tables model 
+https://cloud.google.com/automl-tables/docs/beginners-guide#deploy_your_model_and_make_predictions
 
 #### AutoML Tables samples
 
@@ -68,6 +70,7 @@ https://cloud.google.com/automl-tables/docs/samples
 ### AutoML Tables Quickstart
 
 https://cloud.google.com/automl-tables/docs/quickstart
+
 
 
 ### AutoML Feature Engineering
