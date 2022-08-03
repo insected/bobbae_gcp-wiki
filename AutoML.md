@@ -72,6 +72,8 @@ https://cloud.google.com/automl-tables/docs/samples
 https://cloud.google.com/automl-tables/docs/quickstart
 
 
+### AutoML Tables hyperparameters
+https://cloud.google.com/automl-tables/docs/logging#hps
 
 ### AutoML Feature Engineering
 
