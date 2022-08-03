@@ -295,7 +295,13 @@ In digital circuits and machine learning, a [one-hot](https://en.m.wikipedia.org
 
 https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
+https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
 
+### One shot learning
+
+One-shot learning is a classification task where one, or a couple, examples are used to classify many new examples in the future.
+
+https://en.wikipedia.org/wiki/One-shot_learning
 
 ### Binning
 
@@ -396,6 +402,11 @@ F-measure is the harmonic mean of [Precision and Recall]( https://developers.goo
 
 https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
 
+### Log loss
+Log-loss is indicative of how close the prediction probability is to the corresponding actual/true value (0 or 1 in case of binary classification). The more the predicted probability diverges from the actual value, the higher is the log-loss value.
+
+https://towardsdatascience.com/intuition-behind-log-loss-score-4e0c9979680a
+
 ### Sensitivity and Specificity
 
 https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference
@@ -404,10 +415,16 @@ https://dzone.com/articles/ml-metrics-sensitivity-vs-specificity-difference
 
 [Receiver Operating Characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic   ) curve and Area Under the Curve use a combination of the true positive rate and false positive rate to build up a summary picture of the model performance.
 
+An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters: True Positive Rate and  False Positive Rate.
+
+AUC provides an aggregate measure of performance across all possible classification thresholds. One way of interpreting AUC is as the probability that the model ranks a random positive example more highly than a random negative example.
+
+AUC ranges in value from 0 to 1. A model whose predictions are 100% wrong has an AUC of 0.0; one whose predictions are 100% correct has an AUC of 1.0.
 
 https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
 
 
+https://towardsdatascience.com/intuition-behind-roc-auc-score-1456439d1f30
 
 ### evaluation of automl models
 
@@ -1016,6 +1033,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/mapping-carbon-pol
 ### Choose an outfit with AI
 https://www.youtube.com/watch?v=o6nGn1euRjk&list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&index=7
 
+
+## Machine Learning Glossary
+https://developers.google.com/machine-learning/glossary?hl=en
 
 ## Tutorials
 
