@@ -402,6 +402,10 @@ F-measure is the harmonic mean of [Precision and Recall]( https://developers.goo
 
 https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/
 
+
+### Accuracy, precision , recall or F1
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
 ### Log loss
 Log-loss is indicative of how close the prediction probability is to the corresponding actual/true value (0 or 1 in case of binary classification). The more the predicted probability diverges from the actual value, the higher is the log-loss value.
 
