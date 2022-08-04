@@ -6,6 +6,10 @@
 https://sookocheff.com/post/distributed-systems/unpacking-the-eight-fallacies-of-distributed-computing/
 
 
+### over engineering 
+
+https://www.infoworld.com/article/3668657/dont-overengineer-your-cloud-architecture.html
+
 <!--
 
 
