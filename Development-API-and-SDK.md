@@ -11,7 +11,13 @@ https://cloud.google.com/sdk
 https://www.cloudskillsboost.google/quests/95
 
 ### Gcloud cheatsheet
+
+https://cloud.google.com/sdk/docs/cheatsheet
+
+https://medium.com/@raigonjolly/cheat-sheets-gcloud-bq-gsutil-kubectl-for-google-cloud-associate-certificate-4093b8977a01
+
 https://gist.github.com/bobbae/870475d3fa8c109266dac0c9c6564dd7
+
 
 #### Gcloud SDK Docker image
 
