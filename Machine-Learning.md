@@ -795,6 +795,9 @@ https://dl.acm.org/doi/10.1145/3442188.3445922
 #### Stochastic parrots
 https://faculty.washington.edu/ebender/stochasticparrots.html
 
+#### BLOOM
+https://wandb.ai/telidavies/ml-news/reports/BLOOM-176-Billion-Parameter-Multilingual-Language-Model-Ready-For-Open-Use--VmlldzoyMzA2NTgz
+
 #### Code Editors
 
 https://copilot.github.com/
