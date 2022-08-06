@@ -205,6 +205,8 @@ https://medium.com/google-cloud/day-16-with-workflows-reading-in-and-writing-a-j
 
 https://cloud.google.com/community/tutorials/ml-pipeline-with-workflows
 
+### Snapshot BigQuery dataset with Cloud Workflows
+https://medium.com/google-cloud/bigquery-snapshot-dataset-with-cloud-workflow-5175eb8df00b
 
 ### Large-scale bioinformatics in the cloud with GCP, Kubernetes, and Snakemake
 
