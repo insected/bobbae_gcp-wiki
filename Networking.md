@@ -61,6 +61,9 @@ https://cloud.google.com/compute/docs/ip-addresses
 
 https://cloud.google.com/blog/topics/developers-practitioners/ip-addressing-options-google-cloud-networking-basics
 
+#### Unused IP addresses are charged more on GCP
+https://cloud.google.com/vpc/network-pricing#ipaddress
+
 ### Internal DNS
 
 https://cloud.google.com/compute/docs/internal-dns
