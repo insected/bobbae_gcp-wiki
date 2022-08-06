@@ -12,6 +12,8 @@ https://www.guru99.com/data-lake-vs-data-warehouse.html
 
 ## BigLake
 
+https://cloud.google.com/biglake
+
 Extend BigQuery to multi-cloud data lakes and open formats such as Parquet and ORC with fine-grained security controls. 
 
 https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake
