@@ -43,6 +43,9 @@ https://towardsdatascience.com/serverless-on-gcp-with-cloud-run-b3dab7a60e63
 
 https://cloud.google.com/blog/products/serverless/cloud-run-gets-always-on-cpu-allocation
 
+## Session affinity
+https://cloud.google.com/blog/topics/developers-practitioners/improve-responsiveness-session-affinity-cloud-run
+
 ## Cloud Seed
 https://docs.gitlab.com/ee/cloud_seed/index.html
 
