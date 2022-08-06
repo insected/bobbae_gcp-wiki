@@ -690,6 +690,8 @@ https://cloud.google.com/blog/products/gcp/introducing-endpoint-verification-vis
 
 [Vulnerability scanning](Vulnerability-Scanning) is an inspection of the potential points of exploit on a computer or network to identify security holes.
 
+https://medium.com/google-cloud/google-cloud-free-vulnerability-scanning-with-security-command-center-beb6f6b71bcf
+
 ## How to secure anything
 
 https://github.com/veeral-patel/how-to-secure-anything
