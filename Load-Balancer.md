@@ -49,6 +49,7 @@ https://cloud.google.com/load-balancing/docs/https#load-balancer-mode
 
 https://cloud.google.com/load-balancing/docs/https/setup-global-ext-https-compute
 
+https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-global-external-https-load-balancer-deep-dive
 
 #### Global external HTTPS(S) load balancer classic
 
