@@ -57,6 +57,8 @@ https://cloud.google.com/build/docs/deploying-builds/deploy-gke
 
 https://github.com/glasnt/git-deploy
 
+## Amd64, Arm64 or Armv7 using Cloud Build
+https://medium.com/shade-robotics/docker-for-amd64-arm64-or-armv7-using-cloud-build-55c092bc7a38
 
 ## Container Registry
 
