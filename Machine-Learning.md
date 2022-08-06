@@ -796,7 +796,20 @@ https://dl.acm.org/doi/10.1145/3442188.3445922
 https://faculty.washington.edu/ebender/stochasticparrots.html
 
 #### BLOOM
-https://wandb.ai/telidavies/ml-news/reports/BLOOM-176-Billion-Parameter-Multilingual-Language-Model-Ready-For-Open-Use--VmlldzoyMzA2NTgz
+https://bigscience.huggingface.co/blog/bloom
+
+
+#### DALL-E
+https://openai.com/blog/dall-e/
+
+#### DALL-E 2
+https://openai.com/dall-e-2/
+
+#### Imagen
+https://imagen.research.google/
+
+#### DALL-E mini
+https://blog.paperspace.com/dalle-mini/
 
 #### Code Editors
 
