@@ -8,6 +8,10 @@ There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and
 
 https://github.com/andkret/Cookbook
 
+## Data Science 
+
+[Data Science](Data-Science) about finding patterns in data, to make future predictions. 
+
 ## Data Analytics 
 
 What is [the difference]( https://blog.panoply.io/what-is-the-difference-between-a-data-engineer-and-a-data-scientist ) between  [Data Science](Data-Science) vs Data  Engineering? 
