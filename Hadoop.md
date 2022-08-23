@@ -23,6 +23,9 @@ You can [see how to]( https://www.linode.com/docs/guides/how-to-install-and-set-
 
 Apache Hive is considered [similar]( https://blog.clairvoyantsoft.com/bigquery-fundamentals-and-its-benefits-over-hive-hadoop-c3d53e4d2b8f ) to BigQuery.
 
+### Migrating from Hive to Bigquery 
+
+https://cloud.google.com/blog/products/data-analytics/apache-hive-to-bigquery
 
 ## Hadoop Pig 
 
