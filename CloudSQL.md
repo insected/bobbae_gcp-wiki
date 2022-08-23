@@ -143,9 +143,15 @@ https://cloud.google.com/sql/docs/mysql/self-service-maintenance
 
 ## Tutorials
 
+
+
 https://cloud.google.com/sql/docs/media
 
-### Setting PostgreSQL on GCE
+### backing up cloud sql to cloud storage using terraform and workflow 
+
+https://medium.com/@titasmon/easily-backup-mysql-gcp-instances-to-gcp-storage-using-terraform-c798a11210ec
+
+### Setting up PostgreSQL on GCE
 
 https://cloud.google.com/community/tutorials/setting-up-postgres
 
