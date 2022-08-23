@@ -16,6 +16,11 @@ https://cloud.google.com/blog/products/databases/cloud-spanner-makes-application
 
 [Original paper on Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) explains [details](https://thedataguy.in/internals-of-google-cloud-spanner/) of its [design](https://www.youtube.com/watch?v=nvlt0dA7rsQ). 
 
+### spammer vs cloud sql
+
+https://www.kinandcarta.com/en-us/insights/2022/08/modernizing-with-google-cloud-spanner
+
+
 
 ### Global scale
 
