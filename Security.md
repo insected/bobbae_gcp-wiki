@@ -24,6 +24,10 @@ https://cloud.google.com/blog/products/identity-security/new-resources-to-advanc
 
 https://cloud.google.com/blog/products/identity-security/announcing-mute-findings-capability-security-command-center
 
+## Mitre Attck mapping 
+
+https://cloud.google.com/blog/products/identity-security/announcing-mitre-attck-mappings-released-for-google-cloud-security-capabilities
+
 ## Cloud and Security
 
 https://cloud.google.com/blog/topics/public-sector/how-public-cloud-reduces-risk-and-keeps-data-more-secure
@@ -259,6 +263,11 @@ https://cloud.google.com/blog/products/identity-security/powering-security-opera
 ### Detect-alert-respond with Context
 
 https://chroniclesec.medium.com/security-analyst-diaries-2-detect-alert-respond-context-is-key-everywhere-in-security-operations-1f7b9be0f7c3
+
+### Chronicle secops curated detections
+
+https://cloud.google.com/blog/products/identity-security/introducing-curated-detections-in-chronicle-secops-suite
+
 
 ## Security issues in cloud computing
 
