@@ -44,7 +44,7 @@ https://medium.com/google-cloud/a-seniors-guide-to-kickstart-your-bigquery-journ
 
 ### No Index
 
-Each time BigQuery executes a query, it executes [a full-column scan](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830). BigQuery doesn't use or support indexes. Because BigQuery performance and query costs are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. 
+Each time BigQuery executes a query, it executes [a full-column scan](https://towardsdatascience.com/want-to-use-bigquery-read-this-fab36822830). BigQuery doesn't use or support indexes. Because BigQuery performance and query s are based on the amount of data scanned during a query, design your queries so that they reference only the columns that are relevant to the query. 
 
 https://cloud.google.com/files/BigQueryTechnicalWP.pdf
 
@@ -136,7 +136,7 @@ When BigQuery executes a query job, it converts the declarative SQL statement in
 
 ### Managing input data and data sources
 
-When [evaluating](https://cloud.google.com/bigquery/docs/best-practices-performance-input) your input data, consider the required I/O. How many bytes does your query read? Are you properly limiting the amount of input data? Is your data in native BigQuery storage or an external data source? The amount of data read by a query and the source of the data impact query performance and cost.
+When [evaluating](https://cloud.google.com/bigquery/docs/best-practices-performance-input) your input data, consider the required I/O. How many bytes does your query read? Are you properly limiting the amount of input data? Is your data in native BigQuery storage or an external data source? The amount of data read by a query and the source of the data impact query performance and .
 
 
 
@@ -176,7 +176,7 @@ When evaluating the computation that is required by a query, consider the [amoun
 
 ### Managing materialization and outputs
 
-When [evaluating your output data](https://cloud.google.com/bigquery/docs/best-practices-performance-output), consider the number of bytes written by your query. How many bytes are written for your result set? Are you properly limiting the amount of data written? Are you repeatedly writing the same data? The amount of data written by a query impacts query performance (I/O). If you are writing results to a permanent (destination) table, the amount of data written also has a cost.
+When [evaluating your output data](https://cloud.google.com/bigquery/docs/best-practices-performance-output), consider the number of bytes written by your query. How many bytes are written for your result set? Are you properly limiting the amount of data written? Are you repeatedly writing the same data? The amount of data written by a query impacts query performance (I/O). If you are writing results to a permanent (destination) table, the amount of data written also has a .
 
 
 ## BigQuery BI Engine
@@ -206,7 +206,7 @@ https://towardsdatascience.com/how-to-use-partitions-and-clusters-in-bigquery-us
 
 ### Managing partitioned tables
 
-A [partitioned table](https://cloud.google.com/bigquery/docs/partitioned-tables) is a special table that is divided into segments, called partitions, that make it easier to manage and query your data. By dividing a large table into smaller partitions, you can improve query performance, and you can control costs by reducing the number of bytes read by a query.
+A [partitioned table](https://cloud.google.com/bigquery/docs/partitioned-tables) is a special table that is divided into segments, called partitions, that make it easier to manage and query your data. By dividing a large table into smaller partitions, you can improve query performance, and you can control s by reducing the number of bytes read by a query.
 
 
 You can partition BigQuery tables by:
@@ -289,7 +289,7 @@ https://cloud.google.com/bigquery/docs/clustered-tables
 
 ### Paritioning vs. clustering
 
-Both partitioning and clustering can improve performance and reduce query cost.  Use clustering when you don't need strict cost guarantees before running the query.  Use partitioning when you want to know query costs before a query runs.  You may prefer cluster over partitioning when partitioning results in a small amount of data per partition approximately less than  1GB.
+Both partitioning and clustering can improve performance and reduce query .  Use clustering when you don't need strict  guarantees before running the query.  Use partitioning when you want to know query s before a query runs.  You may prefer cluster over partitioning when partitioning results in a small amount of data per partition approximately less than  1GB.
 
 https://cloud.google.com/bigquery/docs/partitioned-tables#partitioning_versus_clustering
 
@@ -348,17 +348,17 @@ https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipeli
 ### BigQuery BI Engine Preferred Tables
 https://cloud.google.com/blog/products/data-analytics/now-in-preview-bigquery-bi-engine-preferred-tables
 
-### Controlling costs
+### Controlling s
 
-https://cloud.google.com/bigquery/docs/controlling-costs
+https://cloud.google.com/bigquery/docs/controlling-s
 
-#### Optimizing BigQuery Cost with Looker
+#### Optimizing BigQuery  with Looker
 
 https://cloud.google.com/blog/topics/developers-practitioners/optimizing-your-google-cloud-spend-bigquery-and-looker
 
 #### Optimizing strategies
 
-https://fares-daoud.medium.com/how-i-have-optimized-bigquery-costs-for-my-company-948df95b9f0d
+https://fares-daoud.medium.com/how-i-have-optimized-bigquery-s-for-my-company-948df95b9f0d
 
 ### Organizing BigQuery resources
 
@@ -676,9 +676,9 @@ BigQuery is a [serverless](Serverless) data analytics platform. You don't need t
 [BigQuery pricing](https://cloud.google.com/bigquery/pricing
 ) has two main components:
 
-- Analysis pricing is the cost to process queries, including SQL queries, user-defined functions, scripts, and certain data manipulation language (DML) and data definition language (DDL) statements that scan tables.
+- Analysis pricing is the  to process queries, including SQL queries, user-defined functions, scripts, and certain data manipulation language (DML) and data definition language (DDL) statements that scan tables.
 
-- Storage pricing is the cost to store data that you load into BigQuery.
+- Storage pricing is the  to store data that you load into BigQuery.
 
 
 https://cloud.google.com/bigquery/pricing
@@ -691,6 +691,9 @@ https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-flex-
 
 https://cloud.google.com/bigquery/pricing#flat_rate_pricing
 
+### Controlling cost
+
+https://cloud.google.com/blog/topics/developers-practitioners/controlling-your-bigquery-costs
 
 ### Resource Charts and Slot Estimator
 
@@ -721,7 +724,7 @@ https://cloud.google.com/bigquery/docs/looker
 
 ### BigQuery Performance Optimization
 
-https://towardsdatascience.com/14-ways-to-optimize-bigquery-sql-for-ferrari-speed-at-honda-cost-632ec705979
+https://towardsdatascience.com/14-ways-to-optimize-bigquery-sql-for-ferrari-speed-at-honda--632ec705979
 
 ### BigQuery GIS 
 
