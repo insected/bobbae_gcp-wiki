@@ -38,6 +38,9 @@ https://cloud.google.com/architecture/designing-gcp-policies-enterprise
 
 ## GCP FinOps
 
+### Google services and GCP
+
+https://medium.com/google-cloud/using-google-services-switch-to-gcp-for-cost-savings-and-better-performance-d9b36aeeaa23
 
 ### Google Cloud Recommenders
 
