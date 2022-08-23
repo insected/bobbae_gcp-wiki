@@ -26,6 +26,8 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control
 ## Workload identity for GKE
 https://medium.com/@jonatanweckl/how-to-implement-workload-identity-on-google-kubernetes-engine-clusters-f86b414976dc
 
+https://cloud.google.com/kubernetes-engine/docs/concepts/workload-identity
+
 ## Tools
 
 ### OPA
