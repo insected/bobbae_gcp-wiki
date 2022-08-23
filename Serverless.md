@@ -4,6 +4,11 @@ Google Cloud’s [serverless platform](https://www.youtube.com/watch?v=PBw9vD_BO
 
 https://cloud.google.com/blog/products/serverless/the-next-big-evolution-in-cloud-computing
 
+
+## Programmable cloud
+
+https://cloud.google.com/blog/products/serverless/introducing-the-programmable-cloud
+
 ## Choosing Serverless Option
 
 https://medium.com/gdgeurope/choosing-server-less-option-on-gcp-510e49fdb40a
