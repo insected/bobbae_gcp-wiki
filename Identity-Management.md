@@ -30,6 +30,11 @@ https://medium.com/@sundaresan0502/differences-between-google-identity-platform-
 
 https://cloud.google.com/blog/products/identity-security
 
+
+## Multiple third party identity provider support 
+
+https://cloud.google.com/blog/products/identity-security/google-now-supports-multi-idp-sso-in-google-workspace-and-google-cloud
+
 ## Operational security
 
 Google [administrates a vulnerability management process that actively scans](https://cloud.google.com/security/overview/whitepaper#operational_security) for security threats using a combination of commercially available and purpose-built in-house tools, intensive automated and manual penetration efforts, quality assurance processes, software security reviews and external audits. 
