@@ -16,6 +16,10 @@ https://www.oreilly.com/library/view/building-secure-and/9781492083115/
 
 [Security Command Center](https://cloud.google.com/security-command-center) is Google Cloud's centralized vulnerability and threat reporting service.
 
+### Autonomic security operations 
+
+https://cloud.google.com/blog/products/identity-security/new-resources-to-advance-your-autonomic-security-operations-modernization-journey
+
 ### Mute findings
 
 https://cloud.google.com/blog/products/identity-security/announcing-mute-findings-capability-security-command-center
