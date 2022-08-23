@@ -14,6 +14,11 @@ https://medium.com/@knoldus/google-bigquery-an-introduction-to-big-data-analytic
 
 https://codelabs.developers.google.com/codelabs/bigquery-cli
 
+
+### python
+
+https://github.com/googleapis/python-bigquery
+
 ## Architecture
 
 
