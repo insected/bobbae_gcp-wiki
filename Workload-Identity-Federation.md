@@ -10,6 +10,8 @@ You can use identity federation with Amazon Web Services (AWS), or with any iden
 
 https://cloud.google.com/iam/docs/workload-identity-federation
 
+
+
 ### OIDC
 
 https://ldapwiki.com/wiki/OpenID%20Connect
