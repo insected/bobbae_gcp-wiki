@@ -156,7 +156,15 @@ https://travis-ci.org/
 
 [Jib](https://cloud.google.com/blog/products/application-development/introducing-jib-build-java-docker-images-better) is a tool to build optimized containers for your Java applications.
 
+
+
 [https://www.youtube.com/watch?v=p36tv1YWIfU](https://www.youtube.com/watch?v=p36tv1YWIfU)
+
+
+
+### jib and skaffold 
+
+https://medium.com/google-cloud/building-and-deploying-containerized-application-to-kubernetes-using-jib-and-skaffold-80305363a8fd
 
 ### ko
 
