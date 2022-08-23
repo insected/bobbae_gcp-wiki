@@ -131,6 +131,10 @@ https://cloud.google.com/blog/products/ai-machine-learning/vertex-ai-nas-makes-t
 
 ## Examples
 
+
+## automl vertex ai pipeline 
+https://cloud.google.com/blog/topics/developers-practitioners/building-scalable-mlops-system-vertex-ai-automl-and-pipeline
+
 ### Custom Training using Titanic survivor data
 
 https://codelabs.developers.google.com/codelabs/vertex-ai-custom-code-training?hl=en#3
