@@ -63,6 +63,10 @@ https://blogs.cisco.com/developer/container-image-layers-1
 
 https://cloud.google.com/container-analysis/docs
 
+### containerization fit analysis 
+
+https://medium.com/google-cloud/to-containerize-or-not-c3366c55f0b
+
 ### Artifact management
 
 https://cloud.google.com/artifact-management/docs/overview
