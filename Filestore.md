@@ -24,6 +24,10 @@ https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-announ
 ### Enterprise tier for Filestore
 https://cloud.google.com/filestore/docs/enterprise
 
+### GKE and file store enterprise 
+
+https://cloud.google.com/blog/products/containers-kubernetes/gke-and-filestore-enterprise-better-together
+
 ## NetApp on Google Cloud
 
 https://cloud.google.com/netapp
