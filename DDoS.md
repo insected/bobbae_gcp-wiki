@@ -20,3 +20,8 @@ https://medium.com/globant/introduction-to-google-cloud-armor-part-1-ddd76c7b908
 ## Geofencing a globally load balanced service on GCP using Cloud Armor
 
 https://medium.com/google-cloud/geofencing-a-globally-load-balanced-service-on-gcp-using-cloud-armor-44099480fd00
+
+
+## biggest ddos attack 
+https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps
+
