@@ -10,6 +10,10 @@ Kubernetes IP addresses exist at the Pod scope - containers within a Pod share t
 
 
 
+## Kubernetes network basics
+
+https://cloud.google.com/blog/topics/developers-practitioners/understanding-basic-networking-gke-networking-basics
+
 ## Cluster Networking
 
 https://kubernetes.io/docs/concepts/cluster-administration/networking/
