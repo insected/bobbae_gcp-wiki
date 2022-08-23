@@ -1,4 +1,3 @@
-Kubernetes security is based on the [4C’s of cloud native security](Kubernetes provides innate security advantages. For example, application containers are typically not patched or updated — instead, container images are replaced entirely with new versions. This enables strict version control and permits rapid rollbacks if a vulnerability is uncovered in new code.).
 
 
 
