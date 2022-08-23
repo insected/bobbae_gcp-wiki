@@ -367,6 +367,10 @@ https://cloud.google.com/blog/products/identity-security/unblock-bce-users-for-e
 [Google Identity Platform](https://cloud.google.com/identity-platform/docs) provides back-end services, SDKs, and UI libraries that make it easier to [authenticate users to your apps and services](https://www.youtube.com/watch?v=O_O5Hb1bJyw).
 
 
+## Anthos service mesh and role based access to apps and IAP
+
+https://cloud.google.com/blog/topics/developers-practitioners/securing-apps-googlers-using-anthos-service-mesh
+
 ## Security and empathy
 https://cloud.google.com/blog/products/identity-security/how-to-introduce-more-empathy-into-security-operations
 
