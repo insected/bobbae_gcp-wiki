@@ -460,6 +460,8 @@ https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master
 https://medium.com/storyteltech/gcp-integration-with-pagerduty-using-terraform-257db26363f9
 
 
+### Kubernetes multi region cluster 
+https://faun.pub/deploy-active-active-multi-region-kubernetes-cluster-with-terraform-f2652e43f47e
 
 
 ## Qwiklabs
