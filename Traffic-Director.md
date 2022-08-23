@@ -67,6 +67,10 @@ https://cloud.google.com/traffic-director/docs/proxyless-overview
 
 ## Example
 
+
+### Split traffic between AWS and GCP
+https://blog.searce.com/traffic-splitting-between-aws-and-gcp-using-traffic-director-b8cc7ad5d2b6
+
 ### Proxyless GRPC
 https://cloud.google.com/traffic-director/docs/prepare-proxyless-grpc
 
