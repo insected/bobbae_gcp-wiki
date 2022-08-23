@@ -8,6 +8,9 @@ https://cloud.google.com/iap/docs/concepts-overview
 
 https://cloud.google.com/blog/products/identity-security/getting-started-with-cloud-identity-aware-proxy
 
+### IAP QuickStart 
+https://cloud.google.com/iap/docs/authenticate-users-google-accounts
+
 ### Control access to websites using IAP
 
 https://cloud.google.com/blog/topics/developers-practitioners/control-access-your-web-sites-identity-aware-proxy
