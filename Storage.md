@@ -250,6 +250,10 @@ Various [security](Security) precautions [need to be taken](https://cloud.google
 
 https://cloud.google.com/blog/products/identity-security/announcing-easier-de-identification-of-google-cloud-storage-data
 
+### Healthcare data de-identification 
+
+https://cloud.google.com/healthcare-api/docs/concepts/de-identification
+
 ### Data governance
 
 From when the data is ingested to when it can be used for valuable insights and information, management and [data governance](Data-governance) should be considered with the utmost importance for any organization.
