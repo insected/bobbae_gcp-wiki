@@ -49,6 +49,8 @@ While the Logs Explorer is being enhanced, the Legacy Logs Viewer will continue 
 https://cloud.google.com/logging/docs/view/logs-viewer-interface
 
 
+### query library 
+https://cloud.google.com/blog/products/devops-sre/increase-developer-productivity-with-query-library
 
 ### Cloud Logs Dashboard
 
