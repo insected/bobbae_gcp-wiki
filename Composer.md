@@ -139,6 +139,9 @@ https://towardsdatascience.com/why-you-should-try-something-else-than-airflow-fo
 
 ## Examples
 
+### Use Composer for data pipeline via bash operator 
+https://medium.com/google-cloud/how-to-use-airflow-for-data-engineering-pipelines-in-gcp-815854a62f0b
+
 ### Setup Apache Airflow in Multiple Nodes in Google Cloud Platform
 
 
