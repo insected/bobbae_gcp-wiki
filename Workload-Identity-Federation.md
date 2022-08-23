@@ -39,6 +39,10 @@ https://cloud.google.com/iam/docs/using-workload-identity-federation
 
 https://cloud.google.com/iam/docs/configuring-workload-identity-federation
 
+### GKE and Workload identity federation 
+https://medium.com/@jonatanweckl/how-to-implement-workload-identity-on-google-kubernetes-engine-clusters-f86b414976dc
+
+
 ### Access GCP from AWS using Workload Identity Federation
 
 https://scalesec.com/blog/access-gcp-from-aws-using-workload-identity-federation/
@@ -60,6 +64,9 @@ https://gbostoen.medium.com/integrate-gitlab-with-google-cloud-workload-identity
 ### Using Workload Identity to access Google Cloud Pub/Sub from GKE
 
 https://medium.com/@karthikg_54738/using-workload-identity-to-access-google-cloud-pub-sub-from-gke-2d6818d58f83
+
+
+
 
 ### Enabling keyless authentication from GitHub actions
 
