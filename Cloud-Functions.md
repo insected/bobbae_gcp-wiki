@@ -18,6 +18,8 @@ https://cloud.google.com/blog/products/serverless/introducing-the-next-generatio
 
 https://medium.com/geekculture/2nd-generation-google-cloud-function-a069a131e313
 
+https://cloud.google.com/blog/products/serverless/cloud-functions-2nd-generation-now-generally-available
+
 ### Execution environment
 
 https://cloud.google.com/functions/docs/concepts/exec
