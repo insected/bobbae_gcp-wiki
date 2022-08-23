@@ -54,3 +54,7 @@ https://cloud.google.com/blog/products/workspace/announcing-sovereign-controls-f
 ### using bigquery to automate data governance of personally identifiable information 
 
 https://medium.com/google-cloud/stop-worrying-about-bigquery-pii-how-to-automate-data-governance-at-scale-81abb3e47e0c
+
+
+### Data de-identification 
+https://cloud.google.com/healthcare-api/docs/concepts/de-identification
