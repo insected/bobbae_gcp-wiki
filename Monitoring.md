@@ -107,6 +107,9 @@ https://github.com/GoogleCloudPlatform/gcping
 
 https://cloud.google.com/blog/products/operations/write-and-deploy-cloud-monitoring-alert-notifications-to-third-party-services
 
+### Set up alert on GCP 
+https://medium.com/@junxie2/setup-alert-at-gcp-on-services-bd10df26b692
+
 ### Webhook, Pub/Sub, and Slack Alerting notification channels
 
 https://cloud.google.com/blog/products/operations/pub-sub-webook-and-slack-notifications-are-now-available
