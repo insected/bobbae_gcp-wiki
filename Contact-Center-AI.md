@@ -38,3 +38,7 @@ https://cloud.google.com/solutions/ccai-insights
 
 ## Apigee and Contact Center AI
 https://cloud.google.com/blog/products/api-management/apigee-best-practices-for-contact-center-ai
+
+## neuralspace 
+
+https://medium.com/neuralspace/comparing-language-understanding-on-dialogflow-and-neuralspace-a86293252bdf
