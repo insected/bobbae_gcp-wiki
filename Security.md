@@ -16,9 +16,9 @@ https://www.oreilly.com/library/view/building-secure-and/9781492083115/
 
 [Security Command Center](https://cloud.google.com/security-command-center) is Google Cloud's centralized vulnerability and threat reporting service.
 
-### Autonomic security operations 
+### mic security operations 
 
-https://cloud.google.com/blog/products/identity-security/new-resources-to-advance-your-autonomic-security-operations-modernization-journey
+https://cloud.google.com/blog/products/identity-security/new-resources-to-advance-your-mic-security-operations-modernization-journey
 
 ### Mute findings
 
@@ -79,6 +79,9 @@ https://cloud.google.com/vpc-service-controls/docs/overview
 
 https://cloud.google.com/docs/security/infrastructure/design#service_identity_integrity_and_isolation
 
+### Autonomic data security 
+
+https://cloud.google.com/blog/products/identity-security/clouds-future-points-to-autonomic-data-security
 
 ### Secure Sandboxed API
 
@@ -532,13 +535,13 @@ https://cloud.google.com/blog/products/identity-security/how-google-cloud-ids-he
 
 https://cloud.google.com/blog/products/networking/open-source-solutions-and-how-tos
 
-## Autonomic Security Operations
+## mic Security Operations
 
-https://cloud.google.com/blog/products/identity-security/modernizing-soc-introducing-autonomic-security-operations
+https://cloud.google.com/blog/products/identity-security/modernizing-soc-introducing-mic-security-operations
 
-https://cloud.google.com/blog/products/identity-security/introducing-autonomic-security-operations-for-the-us-public-sector
+https://cloud.google.com/blog/products/identity-security/introducing-mic-security-operations-for-the-us-public-sector
 
-https://cloud.google.com/blog/products/identity-security/achieving-autonomic-security-operations-reducing-toil
+https://cloud.google.com/blog/products/identity-security/achieving-mic-security-operations-reducing-toil
 
 ### Executive Order 14028
 
