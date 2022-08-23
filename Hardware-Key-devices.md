@@ -22,3 +22,6 @@ Titan comprises several components: a secure application processor, a cryptograp
 
 https://cloud.google.com/blog/products/identity-security/titan-in-depth-security-in-plaintext
 
+
+### nRF 52840 Dongle
+https://medium.com/@rubenszimbres/burn-a-physical-security-key-to-access-your-google-accounts-securely-941338f48d21
