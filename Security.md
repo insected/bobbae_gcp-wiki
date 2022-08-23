@@ -42,6 +42,10 @@ The security of the infrastructure is designed in progressive layers
 
 https://cloud.google.com/docs/security/infrastructure/design#secure-low-level
 
+### Security guardrails for cloud developers
+
+https://cloud.google.com/blog/topics/inside-google-cloud/building-security-guardrails-for-developers-with-google-cloud
+
 ### Application Layer Transport Security (ALTS)
 
 https://cloud.google.com/docs/security/encryption-in-transit/application-layer-transport-security
