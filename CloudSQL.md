@@ -187,6 +187,10 @@ https://medium.com/google-cloud/regain-cloud-sql-disk-space-with-database-migrat
 
 ## Examples
 
+### extend datalake by querying cloud sql from bigquery over VPC peering 
+
+https://medium.com/@attachew974/extend-your-datalake-with-cloudsql-and-bigquery-connections-b1acb8c4d9be
+
 ### Cherre use case with Postgres and GraphQL
 
 https://cloud.google.com/blog/products/databases/how-cherre-creates-real-estate-data-products-with-cloud-sql
