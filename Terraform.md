@@ -30,6 +30,9 @@ https://hub.docker.com/r/hashicorp/terraform/
 
 https://cloud.google.com/blog/products/application-development/google-cloud-cli-declarative-export-preview
 
+### terraform validator
+https://github.com/GoogleCloudPlatform/terraform-validator
+
 ### RAD Lab
 
 https://github.com/GoogleCloudPlatform/rad-lab
