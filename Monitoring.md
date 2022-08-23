@@ -46,6 +46,11 @@ https://cloud.google.com/blog/products/operations/in-depth-explanation-of-operat
 
 https://cloud.google.com/blog/products/devops-sre/application-exceptions-surfaced-automatically
 
+## snooze 
+
+https://cloud.google.com/blog/products/devops-sre/snooze-your-alert-policies-cloud-monitoring
+
+
 ## Cloud Monitoring Tutorials
 
 https://cloud.google.com/monitoring/tutorials
