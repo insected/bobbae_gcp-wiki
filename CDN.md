@@ -53,6 +53,10 @@ https://cloud.google.com/blog/products/networking/introducing-media-cdn
 
 https://cloud.google.com/media-cdn
 
+## dynamic compression 
+
+https://medium.com/google-cloud/performance-improvement-cost-reduction-with-gcp-cloud-cdn-dynamic-compression-f851a5ee7f7f
+
 ## Examples
 
 ### Serving static content via Google Cloud CDN
