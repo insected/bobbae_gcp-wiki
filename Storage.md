@@ -246,6 +246,10 @@ https://cloud.netapp.com/cloud-volumes-service-for-gcp
 
 Various [security](Security) precautions [need to be taken](https://cloud.google.com/storage/docs/gsutil/addlhelp/SecurityandPrivacyConsiderations) to protect [data security](https://cloud.google.com/blog/products/storage-data-transfer/google-cloud-storage-best-practices-to-help-ensure-data-privacy-and-security).
 
+### De-identification of storage content 
+
+https://cloud.google.com/blog/products/identity-security/announcing-easier-de-identification-of-google-cloud-storage-data
+
 ### Data governance
 
 From when the data is ingested to when it can be used for valuable insights and information, management and [data governance](Data-governance) should be considered with the utmost importance for any organization.
