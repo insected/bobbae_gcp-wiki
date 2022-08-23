@@ -370,6 +370,10 @@ https://cloud.google.com/compute/docs/instances/create-start-instance#python
 
 https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
 
+### Google cloud project factory 
+
+https://github.com/terraform-google-modules/terraform-google-project-factory
+
 ### Terraform Google modules
 
 https://github.com/terraform-google-modules
