@@ -168,6 +168,8 @@ https://en.wikipedia.org/wiki/DeviceNet
 
 https://en.wikipedia.org/wiki/EtherNet/IP
 
+https://www.digikey.com/en/articles/ethernet-ip-versus-profinet
+
 ### Sinec H1
 
 https://en.wikipedia.org/wiki/Sinec_H1
