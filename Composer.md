@@ -137,6 +137,11 @@ https://itsvit.com/blog/google-cloud-composer-vs-astronomer-what-to-choose/
 https://towardsdatascience.com/why-you-should-try-something-else-than-airflow-for-data-pipeline-orchestration-7a0a2c91c341
 
 
+## Cleaning up
+
+Note that creating Composer Environment will allocate VMs, create Kubernetes cluster on them, create Cloud Storage bucket (named in a pattern as in region-composer-env-name-number) where the DAGs and code are stored. Creation of Composer environment can take a while and deleting the Environment afterwards will clean up most of the resources, including the VMs and Kubernetes clusters. But they will not delete the BigQuery data created as a result. Deleting Composer Environment also does not delete the auto-created GCS bucket. It has do be deleted manually.
+
+
 ## Examples
 
 ### Use Composer for data pipeline via bash operator 
@@ -212,5 +217,3 @@ Cloud Composer: [Copying BigQuery Tables Across Different Locations](https://clo
 
 
 https://www.qwiklabs.com/focuses/3528?parent=catalog
-
-Note that creating Composer Environment will allocate VMs, create Kubernetes cluster on them, create Cloud Storage bucket (named in a pattern as in region-composer-env-name-number) where the DAGs and code are stored. Creation of Composer environment can take a while and deleting the Environment afterwards will clean up most of the resources, including the VMs and Kubernetes clusters. But they will not delete the BigQuery data created as a result. Deleting Composer Environment also does not delete the auto-created GCS bucket. It has do be deleted manually.
