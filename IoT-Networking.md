@@ -23,6 +23,10 @@ https://standards.ieee.org/standard/802_15_4-2020.html
 
 https://www.trendmicro.com/en_us/research/21/a/Low-Powered-but-High-Risk-Evaluating-Possible-Attacks-on-LoRaWAN-Devices.html
 
+### helium
+
+https://docs.helium.com/lorawan-on-helium/
+
 ## Telecom
 
 ### GPRS 
