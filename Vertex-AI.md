@@ -96,6 +96,8 @@ https://cloud.google.com/vertex-ai/docs/workbench
 
 https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks
 
+### AI workbench with GKE
+https://medium.com/@gogasca_/ai-workbench-with-gke-b3b204c81328
 
 ## Experiments
 
