@@ -90,6 +90,13 @@ https://cloud.google.com/vertex-ai/docs/ml-metadata
 
 https://cloud.google.com/vertex-ai/docs/workbench
 
+
+
+### Protecting confidential data in Vertex AI Workbench user-managed notebooks 
+
+https://cloud.google.com/architecture/protecting-confidential-data-in-ai-platform-notebooks
+
+
 ## Experiments
 
 https://cloud.google.com/vertex-ai/docs/experiments
