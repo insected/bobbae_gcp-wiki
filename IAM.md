@@ -21,6 +21,22 @@ With [IAM](https://cloud.google.com/iam/docs/overview#how_cloud_iam_works), you 
 
 In IAM, permission to access a resource isn't granted directly to the end user. Instead, permissions are grouped into [roles](https://cloud.google.com/iam/docs/understanding-roles), and roles are granted to authenticated members. An IAM [policy](https://cloud.google.com/iam/docs/policies) defines and enforces what roles are granted to which members, and this policy is attached to a resource. 
 
+### Organizational policies constraints
+
+https://cloud.google.com/resource-manager/docs/organization-policy/org-policy-constraints
+
+### Restricting external IP addresses to specific VMs
+
+The constraint for controlling external IP address on VMs is:
+
+```
+constraints/compute.vmExternalIpAccess
+```
+
+https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address#disableexternalip
+
+
+
 ### Model for Access management
 
 #### Member
