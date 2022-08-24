@@ -28,6 +28,9 @@ For simple use cases, you can create one environment in one region. For complex 
 
 Airflow communicates with other Google Cloud products through the products' public APIs.
 
+### Quickstart
+https://cloud.google.com/composer/docs/run-apache-airflow-dag
+
 ### Airflow 2 vs 1
 
 https://dsstream.com/differences-between-airflow-1-10-x-and-2-0/
