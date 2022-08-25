@@ -240,6 +240,8 @@ https://cloud.google.com/vpc/docs/vpc-peering#transit-network
 #### Firewall topology to connect VPCs together
 https://cloud.google.com/network-connectivity/docs/network-connectivity-center/concepts/firewall-topology
 
+## Private Google Access
+https://cloud.google.com/vpc/docs/private-google-access
 
 ## Network Features
 
