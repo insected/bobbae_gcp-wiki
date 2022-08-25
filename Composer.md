@@ -53,6 +53,9 @@ Built-in integration with  BigQuery, Dataflow, Dataproc, Datastore, Cloud Storag
 
 During environment creation, Cloud Composer provides the following configuration options: Cloud Composer environment with a route-based GKE cluster (default), Private IP Cloud Composer environment, Cloud Composer environment with a VPC Native GKE cluster using alias IP addresses, Shared VPC.
 
+## Private IP environments
+https://cloud.google.com/composer/docs/concepts/private-ip
+
 ## Writing DAGs
 
 
