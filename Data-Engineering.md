@@ -46,7 +46,9 @@ https://cloud.google.com/blog/products/data-analytics/unlocking-opportunities-da
 
 ## Database options
 
-One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU).  [Choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing. We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
+One of Google Cloud Platform's competitive advantages is the [strong ecosystem of managed databases](https://www.youtube.com/watch?v=3aHBkfBRFEU). 
+
+[Choosing the right database](https://www.youtube.com/watch?v=3YnLuEdGzU8) for your workloads can be confusing. We can compare different [GCP Database services](https://cloud.google.com/products/databases) and make the best decision for each use case.
 
 Besides the GCP database services, there are also a lot of [other databases](Databases).
 
