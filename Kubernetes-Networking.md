@@ -68,6 +68,9 @@ They're different ways [services of different types can be exposed](ClusterIP,-I
 In Kubernetes, a [Service is an abstraction](https://kubernetes.io/docs/concepts/services-networking/service/) which defines a logical set of Pods and a policy by which to [access them](  https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/ 
 ). The set of Pods targeted by a [Service](   https://kubernetes.io/docs/concepts/services-networking/service/ ) is usually determined by a selector. 
 
+## Private GKE cluster
+
+https://cloud.google.com/kubernetes-engine/docs/how-to/private-clusters
 
 ## Topology aware traffic
 
