@@ -111,6 +111,9 @@ https://cloud.google.com/docs/security/infrastructure/design#encryption_at_rest
 https://cloud.google.com/docs/security/infrastructure/design#deletion_of_data
 
 
+### Private Google Access
+https://cloud.google.com/vpc/docs/private-google-access
+
 ###  Secure Internet communication
 
 https://cloud.google.com/docs/security/infrastructure/design#secure-internet
