@@ -3,3 +3,8 @@
 ## Scaling features
 
 https://cloud.google.com/blog/products/networking/google-cloud-nat-new-scaling-features
+
+## Qwiklabs
+
+### Configuring Private Google Access and Cloud NAT
+https://www.cloudskillsboost.google/focuses/4362?locale=de&parent=catalog
