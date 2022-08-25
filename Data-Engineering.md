@@ -3,11 +3,6 @@
 
 There are [awesome](https://github.com/igorbarinov/awesome-data-engineering) and [freely available resources](https://github.com/adilkhash/Data-Engineering-HowTo), [roadmaps](https://github.com/datastacktv/data-engineer-roadmap) and [courses](https://github.com/chandra1sekar/data-engineering).
 
-
-## Data Engineering Cookbook
-
-https://github.com/andkret/Cookbook
-
 ## Data Science 
 
 [Data Science](Data-Science) about finding patterns in data, to make future predictions. 
@@ -28,6 +23,9 @@ https://developers.google.com/analytics/devguides/collection/ga4
 ### GCP Data Analyst training
 
 https://github.com/GoogleCloudPlatformTraining/training-data-analyst
+
+### Security for data engineering
+https://medium.com/p/26516b5d28e4
 
 ### Data analyst driven organizations
 
@@ -53,6 +51,11 @@ One of Google Cloud Platform's competitive advantages is the [strong ecosystem o
 Besides the GCP database services, there are also a lot of [other databases](Databases).
 
 https://dbdb.io/browse
+
+
+## Data Engineering Cookbook
+
+https://github.com/andkret/Cookbook
 
 ## Cloud SQL
 
